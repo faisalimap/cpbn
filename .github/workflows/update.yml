@@ -1,9 +1,12 @@
-name: CPBN 20-Min Realtime Pulse
+name: CPBN 45-Min Realtime Pulse
 
 on:
   schedule:
-    - cron: '*/20 * * * *' # Fires execution tasks continuously every 20 minutes
-  workflow_dispatch: # Allows manual pipeline triggering from the UI dashboard
+    - cron: '*/45 * * * *' # 🌟 Updated: Fires execution tasks continuously every 45 minutes
+  workflow_dispatch: # Allows manual pipeline triggering from the Actions UI dashboard
+
+permissions:
+  contents: write
 
 jobs:
   ingest-and-propagate:
@@ -30,5 +33,6 @@ jobs:
           git config --global user.name "CPBN Newsroom Core"
           git config --global user.email "newsroom@cpbn.qzz.io"
           git add news.json
+          # Ensures pipeline cleanly exits if there are zero new articles to commit
           git commit -m "Wire Update: Ingest Fresh Market Feeds [skip ci]" || exit 0
           git push
