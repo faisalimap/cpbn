@@ -1,34 +1,34 @@
-name: CPBN Network Auto Refresh
+name: CPBN 20-Min Realtime Pulse
 
 on:
   schedule:
-    - cron: '0 4 * * *' # Fires automatically every day at 4:00 AM UTC
-  workflow_dispatch: # Allows you to press a button to force update immediately
+    - cron: '*/20 * * * *' # Fires execution tasks continuously every 20 minutes
+  workflow_dispatch: # Allows manual pipeline triggering from the UI dashboard
 
 jobs:
-  build-and-sync:
+  ingest-and-propagate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Source Code
+      - name: Fetch Repository State
         uses: actions/checkout@v4
 
-      - name: Initialize Python Environment
+      - name: Initialize Python Core Environment
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
-      - name: Install Network Extensions
+      - name: Inject Cache and Dependencies
         run: pip install requests
 
-      - name: Pull Global Wire Data
+      - name: Execute Incremental Aggregator Engine
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python fetch_news.py
 
-      - name: Commit Matrix and Push Deploy
+      - name: Push Data and Redeploy
         run: |
-          git config --global user.name "ISBC Automation Bot"
-          git config --global user.email "automation@isbc.org"
+          git config --global user.name "CPBN Newsroom Core"
+          git config --global user.email "newsroom@cpbn.qzz.io"
           git add news.json
-          git commit -m "Sync Business Feed Data [skip ci]" || exit 0
+          git commit -m "Wire Update: Ingest Fresh Market Feeds [skip ci]" || exit 0
           git push
