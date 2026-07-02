@@ -4,6 +4,33 @@
     "en": {
         "business": [
             {
+                "title": "Alerus Financial Corporation to Announce Second Quarter Financial Results on Wednesday, July 29",
+                "desc": "MINNEAPOLIS, July 01, 2026 (GLOBE NEWSWIRE) -- Alerus Financial Corporation (Nasdaq: ALRS) announced that it will issue its second quarter financial results after the market closes on Wednesday, July 29, 2026.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/02/1121819.png",
+                "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/globenewswire/alerus-financial-corporation-to-announce-second-quarter-financial-results-on-wednesday-july-29/2377142",
+                "source": "The Manila Times",
+                "date": "2026-07-01T20:35:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plaid Talks With Banks About Potential IPO",
+                "desc": "Plaid reportedly has held preliminary discussions with banks about a potential initial public offering (IPO).",
+                "image": "https://www.pymnts.com/wp-content/uploads/2025/04/Plaid.png",
+                "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/plaid-talks-with-banks-about-potential-ipo/",
+                "source": "PYMNTS.com",
+                "date": "2026-07-01T20:31:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria's insurance assets rise to N4.8tn on reforms",
+                "desc": "Nigeria's insurance industry strengthened its financial position in 2025, with total assets climbing to N4.8 trillion and gross premium...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/Insurance-industry-in-Nigeria.jpg",
+                "url": "https://businessday.ng/insurance/article/nigerias-insurance-assets-rise-to-n4-8tn-on-reforms/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-01T20:30:14Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Rapid demand for AI datacentres in Australia could stoke inflation, experts warn - and crowd out land for housing",
                 "desc": "Calls are growing for new datacentre approvals to be halted until stronger protections are considered",
                 "image": "https://i.guim.co.uk/img/media/ed927cf5f03b0e874b0757771b0cc85fca6c257e/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05a0e7dc95a0d7510b2a52b229c43e86",
@@ -605,36 +632,36 @@
                 "source": "wwd.com",
                 "date": "2026-07-01T16:50:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Claude Fable 5 returns with 'extraordinarily strong' safeguards",
-                "desc": "After being taken down by order of the US government, Fable 5 is returning to Claude’s model library. Because of...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/01/anthropic-fable-5-returns-to-claude/",
-                "source": "9to5Google",
-                "date": "2026-07-01T16:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How porn on social media has shaped young Kiwis’ sex lives - Under the Influence, episode 4",
-                "desc": "Rough sex inspired by porn is reshaping young Kiwis’ early sexual experiences, often against their will. In episode 4 of the Herald’s new online video series...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/6RVJNI3CIFANHIF2MPVDU2S7AY.jpg?auth=7dbd03a7d5803625f931f462b001ae7562f1adc677eab10de47928dd868d5c08&width=1200&height=675&quality=70&focal=631%2C563&smart=false",
-                "url": "https://www.nzherald.co.nz/nz/how-porn-on-social-media-has-shaped-young-kiwis-sex-lives-under-the-influence-episode-4/Q4L3NU62IFE4NJSFDDXKNUMSUQ/",
-                "source": "NZ Herald",
-                "date": "2026-07-01T16:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cost of living overtakes housing as most important issue to people in Ireland",
-                "desc": "As the EU presidency begins, the country’s attention is directed inwards towards issues such as cost of living, housing and immigration, rather than debates on the world stage.",
-                "image": "https://img2.thejournal.ie/article/7087285/river/?height=400&version=7087681",
-                "url": "https://www.thejournal.ie/public-opinion-poll-state-of-country-7087285-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-01T16:50:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Xbox is reportedly considering dropping disc drives as it tests new feature that lets players digitize physical games",
+                "desc": "A new report now claims Xbox, like PlayStation, is set to \"drop the disc drive.\"",
+                "image": "https://assetsio.gnwcdn.com/Helix_header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-dropping-disc-drives-as-it-tests-new-feature-that-lets-players-digitize-physical-games",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-01T20:35:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "International Sports Press Association (AIPS) President’s Message On World Sports Journalists Day: “Our Profession Guarantees A World Of Sport That Is Clean And Free From Politics”",
+                "desc": "Dear colleagues, we are living through a difficult, confusing, and violent time, but precisely for this reason we must react, find solutions, and explore new",
+                "image": "https://newstrends.co.ke/wp-content/uploads/2026/05/NewsTrendsKE-with-APO-News-Updates.webp",
+                "url": "https://newstrends.co.ke/international-sports-press-association-aips-presidents-message-on-world-sports-journalists-day-our-profession-guarantees-a-world-of-sport-that-is-clean-and-free-from-politics/",
+                "source": "NewsTrendsKE",
+                "date": "2026-07-01T20:30:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Godot says bye bye AI, bans vibe-coded contributions",
+                "desc": "'We can’t trust heavy users of AI to understand their code enough to fix it,' say maintainers who previously called the flood of vibe-coded pull requests 'demoralizing'",
+                "image": "https://image.theregister.com/257171.jpg?imageId=257171&x=0&y=4.44&cropw=100&croph=95.56&panox=0&panoy=4.44&panow=100&panoh=95.56&width=1200&height=683",
+                "url": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
+                "source": "The Register",
+                "date": "2026-07-01T20:29:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "YouTube Music not working on your Nest Hub? Google has a fix",
                 "desc": "Google Nest Hub owners noticed their displays stopped playing songs from YouTube Music, but Google is here with a fix.",
@@ -1237,36 +1264,54 @@
                 "source": "Phys.org",
                 "date": "2026-07-01T17:20:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Who Owns Waze And How Does The App Make Money?",
-                "desc": "Google owns Waze, and the app makes money through advertisements and Google's overall support. The app was bought out in 2013.",
-                "image": "https://www.bgr.com/img/gallery/who-owns-waze-and-how-does-the-app-make-money/l-intro-1782500345.jpg",
-                "url": "https://www.bgr.com/2202825/who-owns-waze-how-does-app-make-money/",
-                "source": "bgr.com",
-                "date": "2026-07-01T17:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top classics you can buy now on a budget",
-                "desc": "CarsGuide's mission is to provide in-market car buyers with the independent information they need to make an informed...",
-                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/278baedf-def0-4823-a766-3f96e0695230.jpg/r0_4_1490_786_w1200_h630_fmax.jpg",
-                "url": "https://www.canberratimes.com.au/story/9303167/top-classics-you-can-buy-now-on-a-budget/",
-                "source": "The Canberra Times",
-                "date": "2026-07-01T17:14:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Get Everything in Assassin's Creed Games with One Month of Free IGN Guides Checklists",
-                "desc": "Don't miss your window to use these Assassin's Creed IGN checklists for free",
-                "image": "https://sm.ign.com/t/ign_sea/guide/g/get-everyt/get-everything-in-assassins-creed-games-with-one-month-of-fr_9qm9.1200.jpg",
-                "url": "https://sea.ign.com/assassins-creed-black-flag-resynced/244988/get-everything-in-assassins-creed-games-with-one-month-of-free-ign-guides-checklists",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-01T17:13:52Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "World Cup hero Harry Kane leads England to final 16 with 2",
+                "desc": "Facing World Cup elimination at the hands of DR Congo, England needed a hero to step up when it mattered most. Harry Kane was that man.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/97fc4144e9855ab9857ecac4a5bbcc04?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=349&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-02/world-cup-hero-harry-kane-england-dr-congo/106867916",
+                "source": "Australian Broadcasting Corporation",
+                "date": "2026-07-01T20:39:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump ‘livid’ over crowd size at National Mall state fair, report says: ‘Who thought this was a good idea?’",
+                "desc": "‘It was an ‘if you build it, they will come’ mentality that failed,’ one source close to the White House said",
+                "image": "https://static.independent.co.uk/2026/07/01/21/2282976981..?trim=1,0,1,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-crowd-size-state-fair-national-mall-250-b3006937.html",
+                "source": "The Independent",
+                "date": "2026-07-01T20:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
+                "desc": "Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3eb05f-1782493279.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power",
+                "source": "Al Jazeera",
+                "date": "2026-07-01T20:33:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘It’s borderline unbearable’: Guy Mowbray goes Shakespearean as England toil to victory over DR Congo",
+                "desc": "‘Why has every game we’ve done together been enjoyable – then we get England, and it’s borderline unbearable’",
+                "image": "https://www.irishtimes.com/resizer/v2/K6SIOHXTA45OADOPTSUXD53V5Y.jpg?smart=true&auth=68c525327bec0aa20b3704f385e07d73b27c7572bdfa89ce54acd6563e6abd2b&width=1200&height=630",
+                "url": "https://www.irishtimes.com/sport/soccer/2026/07/01/tv-view-clinical-kane-proves-the-difference-for-ordinary-england-against-plucky-drc/",
+                "source": "The Irish Times",
+                "date": "2026-07-01T20:32:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Maltese businessman paid hitmen €150,000 to kill Daphne Caruana Galizia, jury hears",
+                "desc": "Yorgen Fenech, heir to property empire, on trial for alleged involvement in murder of journalist, which he denies",
+                "image": "https://i.guim.co.uk/img/media/46058c45c58b06e1f64200b5bd67be11f6b69f4a/326_49_1053_842/master/1053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89eabf7e1fc10fb467182f299d7ce64f",
+                "url": "https://www.theguardian.com/world/2026/jul/01/malta-yorgen-fenech-hitmen-150000-euros-daphne-caruana-galizia-jury-hears",
+                "source": "The Guardian",
+                "date": "2026-07-01T20:32:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Lambie, Hanson and Pocock form unlikely alliance to protect transparency campaigner Rex Patrick",
                 "desc": "Exclusive: Patrick is using freedom-of-information rules to seek where nuclear waste from Aukus submarines will be kept",
@@ -1851,53 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-01T16:56:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Two people climb to top of NYC's Empire State Building",
-                "desc": "At one point while at the top of the building, one individual appeared to propose marriage to the other.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a91/live/6f6b15d0-756d-11f1-8eb5-8b4f46f6e33b.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cy4ewzz795wo",
-                "source": "BBC",
-                "date": "2026-07-01T16:55:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xenophobia: Heartbreaking video shows a Nigerian man packing up his entire life to return home",
-                "desc": "A Nigerian man has shared his emotional journey returning to Nigeria from South Africa amid xenophobia, capturing the challenges and warmth of coming home.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/bcdc1947f02cb68c.jpeg?v=1",
-                "url": "https://yen.com.gh/people/307138-heartbreaking-video-shows-a-nigerian-man-packing-entire-life-return-home/",
-                "source": "Yen News",
-                "date": "2026-07-01T16:52:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pirates Board and Damage Vessel and Then Pursue Second Ship in Gulf of Aden",
-                "desc": "A pirate action group was active in the Gulf of Aden on July 1, as the level of activity continues at an increased level in the area. UK Maritime Trad...",
-                "image": "https://maritime-executive.com/media/images/article/pirate-attack-July-1-2026-UKMTO.15c1dd.jpg",
-                "url": "https://maritime-executive.com/article/pirates-board-and-damage-vessel-and-then-pursue-second-ship-in-gulf-of-aden",
-                "source": "The Maritime Executive",
-                "date": "2026-07-01T16:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'We must avenge': Iran prepares funeral of millions for Ali Khamenei",
-                "desc": "Ceremonies are planned in Tehran, Qom, Najaf, Karbala and Mashhad, with officials expecting foreign leaders, hundreds of journalists and millions of mourners",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/01/HyVEbEFGQGl/HyVEbEFGQGl_34_51_902_508_0_large.jpg",
-                "url": "https://www.ynetnews.com/article/s1caahz7zg",
-                "source": "Ynetnews",
-                "date": "2026-07-01T16:48:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iranian regime threatens to confiscate Saint Peter Evangelical Church",
-                "desc": "“Six security forces went into the church and sat through a session, saying they wanted to ‘identify’ people,” said Sasan Tavassoli, a US-based minister with the Presbyterian Church in Iran.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/727840",
-                "url": "https://www.jpost.com/middle-east/iran-news/article-901061",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-01T16:45:31Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T08:28:05.554248Z"
+    "lastGlobalSync": "2026-07-02T08:40:26.220511Z"
 }
