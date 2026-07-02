@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Serenity Park condo owners lower asking price to S$440 million in second shot at collective sale",
+                "desc": "This is around 13% lower than the S$505 million guide price marketed earlier this year Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/8df86d3e7bcc093883ae8546e396cf924e10cbcfa39cfe87aa192eef555a6539?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/property/serenity-park-condo-owners-lower-asking-price-s440-million-second-shot-collective-sale",
+                "source": "The Business Times",
+                "date": "2026-07-02T04:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7 ASX shares downgraded by brokers this week",
+                "desc": "Brokers reduced their ratings on South32 Ltd (ASX: S32), JB Hi-Fi Ltd (ASX:JBH), Whitehaven Coal Ltd (ASX: WHC), and other stocks this week.",
+                "image": "https://www.fool.com.au/wp-content/uploads/2021/01/numbers-1200x675.jpg",
+                "url": "https://www.fool.com.au/2026/07/02/7-asx-shares-downgraded-by-brokers-this-week/",
+                "source": "The Motley Fool Australia",
+                "date": "2026-07-02T04:38:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2 arrested, 4 others taken to hospital after alleged brawl in Orchard Road",
+                "desc": "Two men arrested and four injured after a violent brawl outside a hotel in Orchard Road. Investigations are ongoing. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/782b324a2b0e8b555ec3f648e712836b95af76d7193d18bb3ab52fccad9b7cda",
+                "url": "https://www.straitstimes.com/singapore/2-arrested-4-others-taken-to-hospital-after-alleged-brawl-in-orchard-road",
+                "source": "The Straits Times",
+                "date": "2026-07-02T04:35:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Deutsche Bank exiting India retail business | Explained",
+                "desc": "Deutsche Bank exits India's retail banking, selling to Kotak Mahindra Bank, strengthening Kotak while streamlining Deutsche's focus on core operations.",
+                "image": "https://th-i.thgim.com/public/incoming/z9brz5/article71173018.ece/alternates/LANDSCAPE_1200/AFP_B76D966.jpg",
+                "url": "https://www.thehindu.com/business/why-deutsche-bank-exiting-india-retail-business-explained/article71172841.ece",
+                "source": "The Hindu",
+                "date": "2026-07-02T04:33:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "based telco NOW’s closure follows ‘24 years of success’, founding chairman says",
+                "desc": "Napier-based internet and telco business NOW is set to close after almost a quarter of a century, with 70 jobs on the line across its New Zealand centres....",
+                "image": "https://www.nzherald.co.nz/resizer/v2/LOT4QRGAYZCOTCPZI42HOMV7EA.jpg?auth=40731b297639298baf05359bbda515b7acbf51fbb1dd7ea4424e03109320601e&width=1200&height=675&quality=70&focal=1649%2C1471&smart=false",
+                "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/napier-based-telco-nows-closure-follows-24-years-of-success-founding-chairman-says/3CTPCEDJORDNHLJDDBH5W32F4A/",
+                "source": "NZ Herald",
+                "date": "2026-07-02T04:31:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yettu, an instant Indian coffee that elevates your morning cuppa with craft quality",
+                "desc": "Discover Yettu, a craft instant coffee redefining quality with a quick brew, sourced from India's best farms.",
+                "image": "https://th-i.thgim.com/public/life-and-style/i81zvs/article71165149.ece/alternates/LANDSCAPE_1200/FotoJet.jpg",
+                "url": "https://www.thehindu.com/food/features/yettu-an-instant-indian-coffee-that-elevates-your-morning-cuppa-with-craft-quality/article71164969.ece",
+                "source": "The Hindu",
+                "date": "2026-07-02T04:30:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia ranks third-highest for median wealth globally, UBS data shows",
+                "desc": "Australia holds the third-highest median wealth globally at $306,074, pipped at the post by Luxembourg and Belgium.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/33c8e5fe85c16d0840476e49b91d020a?impolicy=wcms_watermark_news&cropH=448&cropW=795&xPos=2&yPos=96&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-02/ubs-global-wealth-report-australia-millionaires/106869298",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-02T04:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qantas adds Wing Seong Fatty’s iconic Cantonese dishes to its Changi Airport lounges after restaurant’s closure",
+                "desc": "Wing Seong Fatty’s Restaurant recently closed but Qantas has partnered with the restaurant to bring two of its signature dishes to its Changi Airport lounges.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--pgpNpXR6--/c_crop,h_900,w_1600,x_0,y_24/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/02/wing_seong_fattys_restaurant_qantas.jpg?itok=VoAMOXHO",
+                "url": "https://cnalifestyle.channelnewsasia.com/travel/qantas-lounge-wing-seong-fattys-restaurant-dishes-585436",
+                "source": "CNA Lifestyle",
+                "date": "2026-07-02T04:22:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Porsche Taycan, Macan EV in Malaysia get price hike",
+                "desc": "Prices of Porsche electric vehicles (EVs) in Malaysia have increased by as much as RM410,000, with every model and variant affected. Starting with the Taycan, the base variant that was previously priced from RM575,000 now …",
+                "image": "https://paultan.org/image/2025/07/2025-Porsche-Taycan-4S-Malaysia-Ext-4-1200x801.jpg",
+                "url": "https://paultan.org/2026/07/02/porsche-evs-in-malaysia-get-price-hike/",
+                "source": "Paul Tan's Automotive News",
+                "date": "2026-07-02T04:22:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan PM's visit brings big investment push with Maruti's 4th car plant in Haryana",
+                "desc": "The Kharkhoda plant is Maruti Suzuki's fourth manufacturing facility in India and is expected to significantly boost the country's passenger vehicle production capacity.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/takaichi--pm-modi-023826424-16x9_0.jpg?VersionId=xCXScFdaaR3vL6D9FkEKOnThOyYzbfmK",
+                "url": "https://www.indiatoday.in/business/story/maruti-suzuki-kharkhoda-plant-narendra-modi-japan-pm-takaichi-launch-rs-35000-crore-haryana-facility-2938802-2026-07-02",
+                "source": "India Today",
+                "date": "2026-07-02T04:21:54Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "The surprising reason India's most expensive stocks often keep rising",
                 "desc": "Indian stocks defy logic, with expensive companies consistently outperforming. This trend, observed over 15 years, sees sectors like defence and retail surge despite high valuations, driven by structural shifts and strong earnings. Jefferies highlights the power sector as the next potential beneficiary, citing strong demand and private sector capex. Investors should remain aware of potential reversals if growth falters.",
                 "image": "https://img.etimg.com/thumb/msid-132128724,width-1200,height-630,imgsize-1987692,overlay-etmarkets/articleshow.jpg",
@@ -542,99 +632,27 @@
                 "source": "毎日新聞",
                 "date": "2026-07-02T01:30:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Endava & Wiz partner on AI cloud security services",
-                "desc": "Enterprise AI roll-outs will get closer monitoring as Endava adds Wiz tools to spot cloud risks earlier across multi-cloud systems.",
-                "image": "https://securitybrief.asia/uploads/story/2026/07/02/compatible_Matt_Cloke_and_Nick_Ross.jpg",
-                "url": "https://securitybrief.asia/story/endava-wiz-partner-on-ai-cloud-security-services",
-                "source": "SecurityBrief Asia",
-                "date": "2026-07-02T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HeyMax adds transfers to Japan Airlines Mileage Bank",
-                "desc": "Transfer Max Miles to JAL Mileage Bank at a 1:1 ratio, and take advantage of attractively-priced awards — with very generous routing rules.",
-                "image": "https://milelion.com/wp-content/uploads/2026/06/jal-788.jpg",
-                "url": "https://milelion.com/2026/07/02/heymax-adds-transfers-to-japan-airlines-mileage-bank/",
-                "source": "The MileLion",
-                "date": "2026-07-02T01:28:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korean stocks tumble 7% as AI jitters hurt chipmakers",
-                "desc": "The Kospi Index fell as much as 7%, with Samsung Electronics Co. and SK Hynix Inc. losing at least 8% each",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260702012444_kospi-south-korea.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/south-korean-stocks-tumble-7-as-ai-jitters-hurt-chipmakers-13963940.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-02T01:27:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tsunami from Nankai megaquake could damage 2 million cars",
-                "desc": "More than 2 million cars could be damaged by tsunami waves in the event of a megaquake along the Nankai Trough off Japan's Pacific coast, an organization offering free rental vehicles to disaster victims said Wednesday.",
-                "image": "https://english-kyodo.ismcdn.jp/mwimgs/9/8/1200x/img_9841d798f55163ea7c2c6fb699a6ddd31065132.jpg",
-                "url": "https://english.kyodonews.net/articles/-/79047",
-                "source": "Japan Wire by Kyodo News",
-                "date": "2026-07-02T01:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will share buy-backs help Chinese big tech companies rescue battered valuations?",
-                "desc": "Firms like Tencent and Alibaba are trying to boost investor confidence in the sector, whose stock prices have recently hit alarming lows.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/01/1ae81c07-a005-4bdd-b2f3-81457aaa7abb_02d5b5d8.jpg?itok=JUPRGNhT&v=1782910348",
-                "url": "https://www.scmp.com/tech/big-tech/article/3359062/will-share-buy-backs-help-chinese-big-tech-companies-rescue-battered-valuations",
-                "source": "South China Morning Post",
-                "date": "2026-07-02T01:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Timah Partners to acquire specialised waste management business under new sector platform",
-                "desc": "It is part of Timah’s goal to consolidate and professionalise the ‘fragmented industry’ Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/dff10e950d511cde322911fa46d0ddcedfa9783788f4ec14212df9f05a0c10f3?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/singapore/timah-partners-acquire-specialised-waste-management-business-under-new-sector-platform",
-                "source": "The Business Times",
-                "date": "2026-07-02T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Circle Line improvements to wayfinding signs",
-                "desc": "Discover the upcoming improvements to Circle Line's digital screens and wayfinding signs, designed to reduce passenger confusion. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ac63342485c6911b35568200b7107b4697f492c4d47690ee03dc453e2c6d2080",
-                "url": "https://www.straitstimes.com/singapore/transport/improved-wayfinding-signs-for-circle-line-after-passenger-feedback",
-                "source": "The Straits Times",
-                "date": "2026-07-02T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alibaba-affiliate Ant Group enters the humanoid robot market with 12 deals",
-                "desc": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108329105-1782890762155-gettyimages-2266283378-AWE_2026_Robots.jpeg?v=1782890928&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
-                "source": "CNBC",
-                "date": "2026-07-02T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Soaring revenue at Mar-a-Lago shows how Trump’s business interests and politics intersect",
-                "desc": "As President Donald Trump’s wealth has soared since retaking office, a new financial disclosure shows his two premier Florida resorts have also delivered record-breaking surges in revenue.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/49-gettyimages-2255992676.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/01/us/trump-financial-disclosure-mar-a-lago-doral-income-invs",
-                "source": "CNN",
-                "date": "2026-07-02T00:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices fall after U.S.-Iran talks conclude in Doha",
-                "desc": "Oil prices fell more than 1% on Wednesday after talks between Washington and Tehran concluded.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108326595-1782375177613-gettyimages-2282087363-AA_21062026_2840956.jpeg?v=1782389474&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html",
-                "source": "CNBC",
-                "date": "2026-07-02T00:59:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "TECNO advances practical agentic AI with expanded Ellaclaw capabilities",
+                "desc": "From cross-app assistance to one-tap phone care, TECNO EllaClaw explores how AI agents can help users get everyday tasks done with more control, convenience and confidence.",
+                "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/xvsGPYFYFdCTAnewM3O9vnF50L3P1VSRmciP06UA.jpg",
+                "url": "https://www.standardmedia.co.ke/branding-voice/article/2001551827/tecno-advances-practical-agentic-ai-with-expanded-ellaclaw-capabilities",
+                "source": "standardmedia.co.ke",
+                "date": "2026-07-02T04:39:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500",
+                "desc": "Apple plans to manufacture and sell around 10 million foldable iPhone Ultra models, according to a new report. That’s roughly...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/",
+                "source": "9to5Mac",
+                "date": "2026-07-02T04:24:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Billions of Phones Could Be Exposed to Nearby Attacks Through AirDrop and Quick Share",
                 "desc": "This post is also available in: עברית (Hebrew) Wireless file-sharing tools have become a standard feature on modern smartphones, allowing users to transfer photos, documents, and other files without cables or internet access. Technologies such as AirDrop and Quick Share simplify nearby sharing by automatically discovering compatible devices. That convenience, however, also creates an attack […]",
@@ -1246,27 +1264,99 @@
                 "source": "TechCrunch",
                 "date": "2026-07-01T23:57:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google AI Overviews Study Finds Lost Clicks Weren't Lower Quality",
-                "desc": "An updated AI Overviews experiment finds no measurable difference in bounce rates, time on site, or returns to search between clicks with and without summaries.",
-                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/c76319d5-1c40-4830-b371-91f2868b1bf9-103.jpeg",
-                "url": "https://www.searchenginejournal.com/google-ai-overviews-study-finds-lost-clicks-werent-lower-quality/581298/",
-                "source": "Search Engine Journal",
-                "date": "2026-07-01T23:56:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ProGrade Digital's latest CFexpress Type A card can record 8K video without breaking a sweat",
-                "desc": "Thanks to its dual VPG write speed certification",
-                "image": "https://cdn.mos.cms.futurecdn.net/oCxrt9AmAiA29LNyudq2RW-1596-80.png",
-                "url": "https://www.digitalcameraworld.com/cameras/memory-cards/prograde-digitals-latest-cfexpress-type-a-card-can-record-8k-video-without-breaking-a-sweat",
-                "source": "Digital Camera World",
-                "date": "2026-07-01T23:54:22Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Vietnam, Philippines raised to World Bank’s upper-middle-income status",
+                "desc": "All five major South-east Asian economies, including Singapore, Malaysia and Thailand, are in that tier and above. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/867eaa5ebfb9aafdf337a1eb7e00c83da06949f7975dbdc62bacdb8160d00d46",
+                "url": "https://www.straitstimes.com/asia/se-asia/vietnam-philippines-raised-to-upper-middle-income-status",
+                "source": "The Straits Times",
+                "date": "2026-07-02T04:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tropical depression strengthens into Tropical Storm Bavi",
+                "desc": "A tropical depression east of Guam strengthened into Tropical Storm Bavi early Thursday, but its potential threat to Taiwan cannot yet be determined because it is still very far away, according to Taiwan's Central Weather Administration (CWA).",
+                "image": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2026/20260702/956x700_550565167674.jpg",
+                "url": "https://focustaiwan.tw/society/202607020009",
+                "source": "Focus Taiwan",
+                "date": "2026-07-02T04:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Arab world is watching Israel, and already betting on its next election",
+                "desc": "Analysis: Across Arab capitals, Washington and major Muslim countries in Asia, Israel’s political future is under constant review; 1,000 days after October 7, officials and experts see missed opportunities, a frozen Palestinian track and Netanyahu still favored to win",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/26/SygDAMpwMp/SygDAMpwMp_0_213_3000_1688_0_large.jpg",
+                "url": "https://www.ynetnews.com/opinions-analysis/article/bjdjyw7mze",
+                "source": "Ynetnews",
+                "date": "2026-07-02T04:35:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Middle east war: US, Iran hold indirect talks in Qatar",
+                "desc": "US President Donald Trump said progress had been made Wednesday in indirect talks with Iran in Qatar, as the sides aimed to push forward their negotiations on...",
+                "image": "https://dailytrust.com/wp-content/uploads/2026/03/Trump.webp",
+                "url": "https://dailytrust.com/middle-east-war-us-iran-hold-indirect-talks-in-qatar/",
+                "source": "Daily Trust",
+                "date": "2026-07-02T04:35:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICC 'concerned' over withdrawal of Mali, Burkina Faso and Niger",
+                "desc": "The International Criminal Court has voiced concern over the withdrawal of Mali, Burkina Faso and Niger, saying it undermines the global pursuit of justice.",
+                "image": "https://images.euronews.com/articles/stories/09/82/17/72/1024x538_cmsv2_4b4f5ef8-7977-5995-b99e-0350f22b8039-9821772.jpg",
+                "url": "https://www.africanews.com/2026/07/02/icc-concerned-over-withdrawal-of-mali-burkina-faso-and-niger/",
+                "source": "africanews.com",
+                "date": "2026-07-02T04:34:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "At least 16 arrested as Niger expands anti-LGBTQ measures",
+                "desc": "Nigerian authorities have arrested at least 16 people following the introduction of harsh new penalties for same-sex sexual relations, marking a significant escalation in the country's stance on LGBTQ rights.",
+                "image": "https://images.euronews.com/articles/stories/09/82/17/69/1024x538_cmsv2_c2d3770c-e397-5512-b4df-0f6fd617afa7-9821769.jpg",
+                "url": "https://www.africanews.com/2026/07/02/at-least-16-arrested-as-niger-expands-anti-lgbtq-measures/",
+                "source": "africanews.com",
+                "date": "2026-07-02T04:31:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A plane breached Beijing’s airspace and crashed. Why couldn’t it be stopped?",
+                "desc": "An unusual light aircraft crash in Beijing's restricted airspace highlights global challenges in managing urban aviation security and response times. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/84fc251f8b1e1f9c291ef85d0719377f2c05c5191dc1fa1b007ab1837a678858",
+                "url": "https://www.straitstimes.com/asia/east-asia/a-plane-breached-beijings-tightly-controlled-airspace-and-crashed-why-couldnt-it-be-stopped",
+                "source": "The Straits Times",
+                "date": "2026-07-02T04:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live updates: Indirect US-Iran talks make ‘positive progress,’ US Navy search for missing MH-60S crew",
+                "desc": "Separately, the US Navy is searching for a missing aircrew member after a helicopter went down in the Arabian Sea. Follow along for live updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26181385867825.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/02/world/live-news/iran-war-us-talks",
+                "source": "CNN",
+                "date": "2026-07-02T04:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Emirates third daily flight touches down in Nairobi",
+                "desc": "The morning schedule enables smoother onward travel to Kenya’s parks and coast, while supporting same-day connections to European hubs",
+                "image": "https://static.zawya.com/view/acePublic/alias/contentid/YmI3ZDNkODEtYzZlZC00/3/151109112622nney-jpg.jpeg?f=3%3A2",
+                "url": "https://www.zawya.com/en/business/aviation/emirates-third-daily-flight-touches-down-in-nairobi-j5bjmski",
+                "source": "ZAWYA",
+                "date": "2026-07-02T04:27:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya targets 10 per cent GDP contribution from mining under new 2026 policy",
+                "desc": "The proposals were presented during a public participation forum held at Magharibi Hall in Kakamega, where miners, investors, community leaders and.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-01-145642.webp",
+                "url": "https://eastleighvoice.co.ke/business/374256/kenya-targets-10-per-cent-gdp-contribution-from-mining-under-new-2026-policy",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-02T04:24:34Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ro Khanna backs Pakistani-American Aisha Farooqi: 'Indian American endorsing a Pakistani American' | Watch",
                 "desc": "Ro Khanna endorsed Pakistani-American congressional candidate Aisha Farooqi in Michigan's Democratic primary, saying,",
@@ -1806,98 +1896,8 @@
                 "source": "Ynetnews",
                 "date": "2026-07-02T00:51:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US Navy's MH 60 helicopter down in Arabian Sea during ‘emergency’ water landing, crew member missing",
-                "desc": "A US Navy MH-60S Sea Hawk crashed into the Arabian Sea during an emergency landing; 3 crew were rescued, 1 is missing,",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/01/550x309/US_navy_helicopter_1782945208979_1782945209160_75f678d0-8194-4bce-b9fb-4f06cb68a93b.jpg",
-                "url": "https://www.hindustantimes.com/world-news/us-news/us-navy-mh-60s-water-landing-arabian-sea-helicopter-crash-service-member-missing-update-101782945218134.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-02T00:50:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Vulnerability to Voice - Women in Mozambique Lead a Climate Resilience Transformation",
-                "desc": "In the flood-prone district of Chókwè, southern Mozambique, a group of women sit in a circle inside a modest flood refuge centre, exchanging ideas, taking notes, and challenging long-held gender norms that have excluded women from community decision-making. Among them is Paula Cossa, a community leader and active participant in the Women Climate Change Forum. For Cossa, these sessions represent more than sharing knowledge. They signal a fundamental shift in identity and responsibility.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607020014.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-02T00:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Large wildfire forces evacuations in southern France",
-                "desc": "A large wildfire raged in southern France, forcing scores of people to be evacuated, emergency services said.",
-                "image": "https://www.rte.ie/images/00249f62-1600.jpg",
-                "url": "https://www.rte.ie/news/europe/2026/0702/1581348-france-wildfire/",
-                "source": "RTE.ie",
-                "date": "2026-07-02T00:42:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump sees bond with ‘great he-man’ Theodore Roosevelt at lavish library opening",
-                "desc": "Bizarre 250th spectacle in North Dakota sees Trump take ride on red, white and blue train – and speak with hologram of 26th president",
-                "image": "https://i.guim.co.uk/img/media/13837d90dc60945411fa0fabb206b31c692ee782/993_0_6718_5375/master/6718.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=092b269b9e572fbd5fca196722d7e4ed",
-                "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-theodore-roosevelt-north-dakota",
-                "source": "The Guardian",
-                "date": "2026-07-02T00:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia news LIVE: NSW Liberal Party under investigation by ICAC; US-Iran talks conclude in Doha",
-                "desc": "Join us for rolling coverage for the latest developments and news from around Australia and the world.",
-                "image": "https://static.ffx.io/images/$zoom_0.6819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_92%2C$y_0/t_crop_custom/q_86%2Cf_auto/6989d79f2e887933d05396943ee1418bbd7f7d8fff5ca5604ef9c5feaf9ca963",
-                "url": "https://www.brisbanetimes.com.au/national/australia-news-live-investigations-into-nsw-liberals-victorian-cfmeu-canberra-celebrates-midwinter-ball-us-iran-talks-to-conclude-20260702-p60bv5.html",
-                "source": "Brisbane Times",
-                "date": "2026-07-02T00:40:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Training a New Generation of Health Innovators - How the Bank's Cebe Project in Rwanda Is Transforming the National Health System",
-                "desc": "For many people living with disabilities in Rwanda, access to assistive technologies can mean the difference between dependence and independence, isolation and opportunity. Behind these life-changing interventions is a growing generation of skilled health professionals dedicated to helping people regain mobility, dignity, and confidence.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607020012.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-02T00:37:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burundi Prime Minister and Development Partners Inaugurate the Mulembwe Hydroelectric Dam to Power Homes, Businesses and Industries",
-                "desc": "The Mulembwe hydroelectric power plant in Burundi, officially inaugurated by Prime Minister of Burundi Nestot Ntahontuye, on 16 June, marks a new milestone in national efforts to strengthen electricity production in Burundi.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607020013.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-02T00:37:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nepal's First Online News Portal",
-                "desc": "ATLANTA: England survived a major scare before coming from behind to defeat Congo DR 2-1 in a tense FIFA World Cup 2026 Round of 32 clash on Wednesday (local time). Brian Cipenga gave Congo DR a shock early lead, but captain Harry Kane’s second-half brace turned the game around and secured England’s place in the […]",
-                "image": "https://english.nepalnews.com/wp-content/uploads/2026/07/England-football.jpg",
-                "url": "https://english.nepalnews.com/s/sports/harry-kanes-late-brace-fires-england-into-round-of-16-with-2-1-win-over-congo-dr/",
-                "source": "Nepalnews.com",
-                "date": "2026-07-02T00:36:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jokowi may have retired, but his ambitions remain big",
-                "desc": "Even so, analysts say it remains to be seen whether former Indonesian president Joko Widodo still wields enough influence to help build the long-term political careers of his family members.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--uXnwDXEp--/c_crop,h_619,w_1102,x_0,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/06/24/IMG_6700.jpg?itok=aRNKd7NQ",
-                "url": "https://www.channelnewsasia.com/asia/indonesia-jokowi-politics-gibran-kaesang-psi-6224181",
-                "source": "CNA",
-                "date": "2026-07-02T00:30:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Climber couple arrested after scaling Empire State Building",
-                "desc": "A daredevil couple scaled the Empire State Building’s antenna Wednesday and unfurled a banner about “the power of love” and peace, apparently as part of an audacious, high-altitude marriage proposal — soon followed by their arrest.",
-                "image": "https://www.cp24.com/resizer/v2/PMSXCGPOM6MVAWO4CZZRMRQBYI.jpg?smart=true&auth=fe914f6d66e0beea3863be586bbfec7bc78b319b3925e51a961117ba4b178fbe&width=1200&height=630",
-                "url": "https://www.cp24.com/news/world/2026/07/02/climber-couple-arrested-after-scaling-empire-state-building-antenna-for-apparent-marriage-proposal/",
-                "source": "CP24",
-                "date": "2026-07-02T00:26:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T16:17:48.936219Z"
+    "lastGlobalSync": "2026-07-02T16:40:27.149749Z"
 }
