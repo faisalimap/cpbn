@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "From AI chips to energy drinks: Hong Kong’s biggest listing deals of 2026 so far",
+                "desc": "A semiconductor designer and mainland China’s biggest hog producer are among the companies behind the largest deals.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/02/6d23776c-295d-4eec-a00b-b0d61e5cd708_619d4ef9.jpg?itok=VoTzqGXP&v=1782963564",
+                "url": "https://www.scmp.com/business/markets/article/3359105/ai-chips-energy-drinks-hong-kongs-biggest-listing-deals-2026-so-far",
+                "source": "South China Morning Post",
+                "date": "2026-07-02T04:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andy Burnham urged to be radical on economy to help Labour win next election",
+                "desc": "Exclusive: Poll shows policies such as rent control and higher wealth taxes could fend off Reform UK in key seats",
+                "image": "https://i.guim.co.uk/img/media/b8c3942b255be1f691dbde5845c34c71d7e503f6/1409_3_2829_2264/master/2829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85d3ee1e7aa526d603b5e34b91ad156b",
+                "url": "https://www.theguardian.com/politics/2026/jul/02/andy-burnham-radical-economy-help-labour-win-next-election",
+                "source": "The Guardian",
+                "date": "2026-07-02T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canterbury couple told son, 3, has leukaemia hours after taking him to QEQM Hospital in Margate for an infected cut finger",
+                "desc": "A couple took their little boy to hospital with a cut finger - only to be given the shocking news hours later that he had cancer.",
+                "image": "https://www.kentonline.co.uk/_media/img/VR6Q8BKWR94F2ARYXBW5.jpg",
+                "url": "https://www.kentonline.co.uk/canterbury/news/we-took-our-son-to-hospital-with-a-cut-finger-and-they-told-342179/",
+                "source": "Kent Online",
+                "date": "2026-07-02T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What happened Thursday",
+                "desc": "A review of things you need to know before you sign off on Thursday; Auckland house sales volume up, prices down, ditto nationally, Crown accounts give dour signals, worker share slips, swaps hold, NZD firmish, & more",
+                "image": "https://www.interest.co.nz/sites/default/files/feature_images/simple-clock-v2.gif",
+                "url": "https://www.interest.co.nz/economy/139231/review-things-you-need-know-you-sign-thursday-auckland-house-sales-volume-prices",
+                "source": "Interest.co.nz",
+                "date": "2026-07-02T03:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An English furniture maker faces AI era of bots buying sofas",
+                "desc": "Consumers are using chatbots to research products now, but agentic AI could one day see bots acting as their personal shopper.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/02/549425.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/02/companies/english-furniture-ai-bots-sofas/",
+                "source": "The Japan Times",
+                "date": "2026-07-02T03:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Natera (NTRA) Is Up 6.3% After New Signatera Cancer Trial And Japan Launch Milestones",
+                "desc": "Natera, Inc. recently announced a series of collaborations and product advances, including integrating its Signatera MRD test into Aveta Biomics’ global Phase 3 head and neck cancer trial, expanding Prospera’s role in kidney transplant studies, and securing PMDA approval to launch Signatera for colorectal cancer in Japan by late 2026.\nTogether, these moves deepen Natera’s integration into large, late‑stage clinical programs and international care guidelines, potentially reinforcing the...",
+                "image": "https://images.simplywall.st/asset/industry/6111000-choice2-main-header/1585186599552",
+                "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-ntra/natera/news/why-natera-ntra-is-up-63-after-new-signatera-cancer-trial-an",
+                "source": "simplywall.st",
+                "date": "2026-07-02T03:56:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Synchrony Financial (SYF) Leans Into Digital Leadership As Undervalued Narrative Stays In Focus",
+                "desc": "Synchrony Financial (SYF) has reshaped its senior leadership around technology and digital platforms, promoting Carol Juel to lead its Digital platform and elevating Florin Arghirescu to Executive Vice President and Chief Technology Officer.\nSee our latest analysis for Synchrony Financial.\nThe leadership reshuffle comes as Synchrony Financial’s share price stands at $76.77, with a 30-day share price return of 8.40% and a 90-day share price return of 12.20%. The 3-year total shareholder return...",
+                "image": "https://images.simplywall.st/asset/industry/7121000-choice1-main-header/1585186619635",
+                "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-syf/synchrony-financial/news/synchrony-financial-syf-leans-into-digital-leadership-as-und",
+                "source": "simplywall.st",
+                "date": "2026-07-02T03:55:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Index Removal And A New General Counsel At Sun Communities (SUI) Has Changed Its Investment Story",
+                "desc": "In late June 2026, Sun Communities, Inc. was removed from several Russell Growth indices after recent portfolio changes, while also appointing Ileana McAlary as General Counsel, Executive Vice President, and Secretary effective June 29, 2026.\nThis combination of index removals and a senior legal leadership hire highlights how Sun Communities is reshaping its profile and governance following its UK exit.\nNext, we’ll examine how Sun Communities’ removal from multiple Russell Growth benchmarks...",
+                "image": "https://images.simplywall.st/asset/industry/9551735-choice1-main-header/1585186911681",
+                "url": "https://simplywall.st/stocks/us/real-estate/nyse-sui/sun-communities/news/how-index-removal-and-a-new-general-counsel-at-sun-communiti",
+                "source": "simplywall.st",
+                "date": "2026-07-02T03:55:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Regal Rexnord (RRX)'s Hedge Fund Backing Amid Insider Selling Means for Shareholders",
+                "desc": "In recent days, Kerrisdale Capital announced a long position in Regal Rexnord, praising its portfolio overhaul following the acquisitions of Rexnord’s Process & Motion Control business and Altra Industrial Motion, and highlighting its push into data center power equipment modules (ePODs).\nAn interesting angle is that this upbeat external endorsement arrived alongside a period of significant insider share sales and valuation metrics suggesting the stock is trading well above some intrinsic...",
+                "image": "https://images.simplywall.st/asset/industry/3051000-choice2-main-header/1585186647175",
+                "url": "https://simplywall.st/stocks/us/capital-goods/nyse-rrx/regal-rexnord/news/what-regal-rexnord-rrxs-hedge-fund-backing-amid-insider-sell",
+                "source": "simplywall.st",
+                "date": "2026-07-02T03:55:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Apollo’s Removal from Russell Growth Indices Will Impact Apollo Global Management (APO) Investors",
+                "desc": "Apollo Global Management, Inc. was recently removed from several major Russell Growth benchmarks, including the Russell 1000, 200, 3000, and 3000E Growth indices, prompting index-tracking funds to adjust their holdings.\nThis index removal highlights how benchmark reclassifications can reshape a company’s investor base and trading patterns, especially for large alternative asset managers.\nWe’ll now explore how Apollo’s removal from key Russell Growth indices could influence its existing...",
+                "image": "https://images.simplywall.st/asset/company-cover/18833-main-header/1756252346468",
+                "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-apo/apollo-global-management/news/how-apollos-removal-from-russell-growth-indices-will-impact",
+                "source": "simplywall.st",
+                "date": "2026-07-02T03:55:35Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Brent oil slips closer to $70 as market keeps watch on US-Iran talks",
                 "desc": "Supply worries have further been eased as traffic volume in Strait of Hormuz continues to increase",
                 "image": "https://www.thenationalnews.com/resizer/v2/ZEOQAFNJWXBXINKFS3ZKJS7L34.jpg?smart=true&auth=6c74c676e457477d3825cabab4df8d29390025a18fa5b6e40fefccb19086a6f9&width=1200&height=630",
@@ -542,99 +632,99 @@
                 "source": "Punch Newspapers",
                 "date": "2026-07-02T00:16:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Asian Stocks Fall on Korean Chip Selloff, Oil Dips: Markets Wrap",
-                "desc": "(Bloomberg) -- Asian stocks fell for the first time in four days after a selloff in chipmakers revived concerns that the artificial intelligence-driven rally may have gone too far, too fast.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1770807997",
-                "url": "https://www.swissinfo.ch/eng/asian-stocks-fall-on-korean-chip-selloff%2c-oil-dips%3a-markets-wrap/91685009",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-02T00:07:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria's Inflation Hits 15.93% Due to Oil Shocks",
-                "desc": "Nigeria's inflation rate surged to 15.93% in May 2026, ending an 11-month disinflation streak, primarily driven by global oil shocks and rising energy cost",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/inflation.webp",
-                "url": "https://punchng.com/oil-shocks-pushed-nigerias-inflation-to-15-93-report/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-02T00:06:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NNPC revenue falls by N636bn despite stable oil production",
-                "desc": "NNPC's revenue dropped by N636bn in May 2026, despite stable oil production. Learn more about the national oil company's financial performance and strategi",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/NNPCL.webp",
-                "url": "https://punchng.com/nnpc-revenue-falls-by-n636bn-despite-stable-oil-production/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-02T00:06:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Adani, IHC plan to forge $11.5 billion aluminium unit",
-                "desc": "Adani Group and Abu Dhabi's International Holding Company are set to invest a massive $11.5 billion in a new Odisha aluminium plant. This ambitious project, aiming for over 2 million tonnes annual capacity, could significantly boost India's aluminium production by nearly 50%.",
-                "image": "https://img.etimg.com/thumb/msid-132124136,width-1200,height-630,imgsize-136278,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/adani-ihc-plan-to-forge-11-5-billion-aluminium-unit/articleshow/132124060.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-02T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vehere Unveils New Multi-Agent AI to Reduce Alert Overload and Improve Analyst Outcomes",
-                "desc": "New autonomous agents help SOC teams reduce alert noise, understand threat context, access deeper threat insights, and take guided response actions.",
-                "image": "https://img.einnews.com/facebook/1143217/vehere-network-detection-and-re.jpeg",
-                "url": "https://www.einpresswire.com/article/922953958/vehere-unveils-new-multi-agent-ai-to-reduce-alert-overload-and-improve-analyst-outcomes",
-                "source": "EIN Presswire",
-                "date": "2026-07-02T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Employee threat triggered KPMG HQ lockdown on big day for firm",
-                "desc": "The build-up to the announcement of Michael Ebeid as new KMPG CEO was disrupted by an incident at the firm’s Sydney headquarters in the corporate Barangaroo precinct on Wednesday.",
-                "image": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_11/t_crop_custom/q_86%2Cf_auto/a234725174c086326634c5a5948f91a01784ef68e282b682254c4d5759fe6162",
-                "url": "https://www.smh.com.au/business/companies/employee-threat-triggered-kpmg-hq-lockdown-on-big-day-for-firm-20260702-p60bwh.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-01T23:58:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Norrenberger Records N608bn Capital Market Transactions",
-                "desc": "Norrenberger Advisory Partners advised on N608.93bn in capital market transactions in H1 2026, including debt and equity deals. Discover their impressive p",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/Norrenberger-Group_1782950076.webp",
-                "url": "https://punchng.com/norrenberger-records-n608bn-capital-market-transactions/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-01T23:58:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UOB PRVI Miles AMEX adds quarterly 5,000 miles overseas spending bonus",
-                "desc": "Earn 5,000 bonus miles when you spend at least S$8,000 on in-person FCY transactions, exclusively for UOB PRVI Miles AMEX cardholders.",
-                "image": "https://milelion.com/wp-content/uploads/2026/07/uob-prvi-miles-hero-34.jpg",
-                "url": "https://milelion.com/2026/07/02/uob-prvi-miles-amex-adds-quarterly-5000-miles-overseas-spending-bonus/",
-                "source": "The MileLion",
-                "date": "2026-07-01T23:56:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OneSpaWorld (OSW) Stock Trades At A Premium To Cash Flow And Earnings",
-                "desc": "OneSpaWorld Holdings stock has surged over the past few years, yet the current share price screens as expensive compared with its intrinsic value estimate from a Discounted Cash Flow (DCF) model and traditional market multiples.\nOver the last 5 years, OneSpaWorld Holdings has delivered a total return of about 212%, which puts extra focus on whether recent enthusiasm has moved the stock away from fundamentals.\nRecent growth in higher value services and new locations can support optimistic...",
-                "image": "https://images.simplywall.st/asset/industry/3112800-choice1-main-header/1585186650715",
-                "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-osw/onespaworld-holdings/news/onespaworld-osw-stock-trades-at-a-premium-to-cash-flow-and-e",
-                "source": "simplywall.st",
-                "date": "2026-07-01T23:55:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alibaba pays $600M in DOJ deal over illegal online marketplace sales",
-                "desc": "Alibaba agreed to pay $600 million to the DOJ after admitting its online marketplaces failed to prevent tens of thousands of illegal pharmaceutical and controlled substance sales.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/Alibaba.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/markets/doj-says-alibaba-failed-stop-illegal-pharmaceuticals-banned-goods-from-reaching-us-buyers",
-                "source": "Fox Business",
-                "date": "2026-07-01T23:55:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Meta Caps Key AI Glasses Feature at 3 Hours a Month, Unless You Pay Up",
+                "desc": "Conversational Focus amplifies the voices of the people you're speaking to, but even with the Premium Plan, you can only unlock 15 hours of monthly usage.",
+                "image": "https://sm.pcmag.com/t/pcmag_me/news/m/meta-caps-/meta-caps-key-ai-glasses-feature-at-3-hours-a-month-unless-y_h211.1200.jpg",
+                "url": "https://me.pcmag.com/en/smart-glasses/37599/meta-caps-key-ai-glasses-feature-at-3-hours-a-month-unless-you-pay-up",
+                "source": "PCMag Middle East",
+                "date": "2026-07-02T04:00:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How the Suzuki Fronx perfects the balance of coupe style and pocket-friendly reliability",
+                "desc": "Discover the Suzuki Fronx, a stylish and reliable crossover that combines modern design with impressive features, perfect for families and city dwellers alike.",
+                "image": "https://iol-prod.appspot.com/image/868bc940c08cac7a8fce0cf4ab60073262e8d727/1000/jpeg",
+                "url": "https://iol.co.za/motoring/road-tests/2026-07-02-how-the-suzuki-fronx-perfects-the-balance-of-coupe-style-and-pocket-friendly-reliability/",
+                "source": "IOL",
+                "date": "2026-07-02T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Smart prepaid launches new Power All offers to power Gen Z side quests",
+                "desc": "Recognizing that today’s Gen Z users move fluidly from one side quest to the next, Smart Prepaid has enhanced its Power All promos to empower them to stay...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/02/113178.webp",
+                "url": "https://mb.com.ph/2026/07/02/smart-prepaid-launches-new-power-all-offers-to-power-gen-z-side-quests",
+                "source": "Manila Bulletin",
+                "date": "2026-07-02T03:59:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gemini Spark Is Now Available on macOS: Here's Everything the AI Agent Can Do",
+                "desc": "Spark is now available in the Gemini Mac app for users with a Google AI Ultra subscription.",
+                "image": "https://sm.pcmag.com/t/pcmag_me/news/g/gemini-spa/gemini-spark-is-now-available-on-macos-heres-everything-the_u67y.1200.jpg",
+                "url": "https://me.pcmag.com/en/macos/37597/gemini-spark-is-now-available-on-macos-heres-everything-the-ai-agent-can-do",
+                "source": "PCMag Middle East",
+                "date": "2026-07-02T03:58:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "June 2026 month in media",
+                "desc": "Every month, the Together team highlights five media stories and one idea they love. June 2026 was a month for sharper audience strategy.",
+                "image": "https://nzmarketingmag.co.nz/wp-content/uploads/2026/07/Month-in-Media_Jun-2026.jpg",
+                "url": "https://nzmarketingmag.co.nz/june-2026-month-in-media/",
+                "source": "New Zealand Marketing magazine",
+                "date": "2026-07-02T03:57:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mode Fast IPS Gaming Monitor that Allows Gamers to Switch Between Three High",
+                "desc": "SINGAPORE, July 2, 2026 /PRNewswire/ — Philips Evnia has launched the New M4 gaming lineup built with revolutionary Triple-Mode technology. It […]",
+                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
+                "url": "https://technode.global/prnasia/philips-evnia-launches-the-worlds-first-triple-mode-fast-ips-gaming-monitor-that-allows-gamers-to-switch-between-three-high-performance-resolution-modes/",
+                "source": "TNGlobal",
+                "date": "2026-07-02T03:57:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "390 gravitational wave detections reveal hidden population of black holes",
+                "desc": "Astronomers have released the largest gravitational wave catalog ever, revealing 161 new black hole collisions and pushing the total number of detections to 390. Among the highlights are the clearest gravitational wave signal ever recorded, the most accurate location of a black hole merger, and growing evidence that some black holes are the products of previous black hole mergers. With discoveries now arriving several times a week, gravitational wave astronomy is entering an exciting new era.",
+                "image": "https://www.sciencedaily.com/images/1920/black-hole-twisting-spacetime.webp",
+                "url": "https://www.sciencedaily.com/releases/2026/06/260625060203.htm",
+                "source": "ScienceDaily",
+                "date": "2026-07-02T03:53:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "390 gravitational wave detections reveal hidden population of black holes",
+                "desc": "Astronomers have released the largest gravitational wave catalog ever, revealing 161 new black hole collisions and pushing the total number of detections to 390. Among the highlights are the clearest gravitational wave signal ever recorded, the most accurate location of a black hole merger, and growing evidence that some black holes are the products of previous black hole mergers. With discoveries now arriving several times a week, gravitational wave astronomy is entering an exciting new era.",
+                "image": "https://www.sciencedaily.com/images/1920/black-hole-twisting-spacetime.webp",
+                "url": "http://www.sciencedaily.com/releases/2026/06/260625060203.htm",
+                "source": "ScienceDaily",
+                "date": "2026-07-02T03:53:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ADATA XPG ARMAX RGB DDR5-6000 CL30 Hands-On Test",
+                "desc": "When it comes to DDR5 memory, we've reached a point where most quality kits are already capable of delivering excellent out-of-the-box performance. The",
+                "image": "https://www.tech-critter.com/wp-content/uploads/2026/06/XPG-ARMAX-DDR5-04.webp",
+                "url": "https://www.tech-critter.com/xpg-armax-rgb-ddr5-6000-cl30-hands-on-test/",
+                "source": "Tech Critter",
+                "date": "2026-07-02T03:44:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philips Evnia Launches the World's First Triple-Mode Fast IPS Gaming Monitor that Allows Gamers to Switch Between Three High-Performance Resolution Modes",
+                "desc": "SINGAPORE, July 2, 2026 /PRNewswire/ -- Philips Evnia has launched the New M4 gaming lineup built with revolutionary Triple-Mode technology. It offers three switchable high HZ-and-resolution presets tailored for different gaming scenarios, bringing unprecedented flexibility to players. The range includes Philips Evnia 27M4N3500PT and 27M4N5500PT, features Fast IPS panel and delivers HDR gaming across three selectable display modes, each optimized for a different play style. Innovative industrial design achieves perfect integration of appearance, structural rigidity and practical usability, bringing futuristic visual flair to modern gaming setups.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/02/1121991.jpg",
+                "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/pr-newswire/philips-evnia-launches-the-worlds-first-triple-mode-fast-ips-gaming-monitor-that-allows-gamers-to-switch-between-three-high-performance-resolution-modes/2377229",
+                "source": "The Manila Times",
+                "date": "2026-07-02T03:43:40Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Apple tipped to split iPhone 18 launch with debut of iPhone Ultra",
                 "desc": "Apple tipped to split iPhone 18 launch with debut of iPhone Ultra",
@@ -1174,99 +1264,99 @@
                 "source": "BigGo Finance",
                 "date": "2026-07-01T23:37:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Car tracking features for 'convenience not security' warns Kia",
-                "desc": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9911/live/376d7550-75a5-11f1-8672-df1a6610885c.png",
-                "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o",
-                "source": "BBC",
-                "date": "2026-07-01T23:31:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Car tracking features for 'convenience not security' warns Kia",
-                "desc": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9911/live/376d7550-75a5-11f1-8672-df1a6610885c.png",
-                "url": "https://www.bbc.com/news/articles/cp8r1798kp7o",
-                "source": "BBC",
-                "date": "2026-07-01T23:31:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Tale of Two Modems",
-                "desc": "Cellular download speed and reception is nearly a solved problem for my needs. Battery life is not.",
-                "image": "https://daringfireball.net/graphics/df-wide-card.png",
-                "url": "https://daringfireball.net/2026/07/a_tale_of_two_modems",
-                "source": "Daring Fireball",
-                "date": "2026-07-01T23:30:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bruegel working paper: DMA Android AI rules could curb Google’s market advantage",
-                "desc": "EU and global regulatory and policy monitoring, fact-checking, legal documents, policy positions, business, finance, digital transformation, security, sustainability.",
-                "image": "https://ieu-monitoring.com/wp-content/uploads//2023/11/ieu-logo-neu-150x150.png",
-                "url": "https://ieu-monitoring.com/editorial/bruegel-working-paper-dma-android-ai-rules-could-curb-googles-market-advantage/1244667?utm_source=ieu-portal",
-                "source": "INSIGHT EU MONITORING",
-                "date": "2026-07-01T23:27:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Electrochemical “bath” could bring spent lithium-ion batteries back to life, cut cost of recycling in half",
-                "desc": "Researchers believe they have found a way to recover almost the full life of lithium-ion batteries, through a relatively simple process that could cut battery recycling costs by more than 50 per cent.",
-                "image": "https://reneweconomy.com.au/wp-content/uploads/2026/07/roberto-sorin-ZZ3qxWFZNRg-unsplash.jpg",
-                "url": "https://reneweconomy.com.au/electrochemical-bath-could-bring-spent-lithium-ion-batteries-back-to-life-cut-cost-of-recycling-in-half/",
-                "source": "Renew Economy",
-                "date": "2026-07-01T23:13:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data: Malware infections hit 1 in 5 illegal streamers",
-                "desc": "New research reveals the growing cyber threat facing illegal streamers, with one in five (18 per cent) reporting a malware infection in the past 12 months after",
-                "image": "https://www.advanced-television.com/wp-content/uploads/2026/07/BeStreamwise-Sofa.jpg",
-                "url": "https://www.advanced-television.com/2026/07/02/data-malware-infections-hit-1-in-5-illegal-streamers/",
-                "source": "Advanced Television",
-                "date": "2026-07-01T23:05:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honor’s latest foldable is finally out in the UK and Europe.",
-                "desc": "The Magic V6 is available to order now in the UK, Germany, France, Spain, and Italy. It’s officially priced at £1,999.99 / €2,299.99 (about $2,600), but Honor’s early offers slash hundreds off that price and throw in freebies like earbuds or tablets too.\n[Link: Honor’s Magic V6 sets three foldable firsts | https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review | The Verge]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/tech/955717/honors-latest-foldable-is-finally-out-in-the-uk-and-europe",
-                "source": "The Verge",
-                "date": "2026-07-01T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mode Fast IPS Gaming Monitor that Allows Gamers to Switch Between Three High",
-                "desc": "SINGAPORE, July 2, 2026 /PRNewswire/ -- PhilipsEvnia has launched the New M4 gaming lineup built with revolutionary Triple-Mode technology. It offers three switchable high HZ-and-resolution presets tailored for different gaming scenarios, bringing unprecedented flexibility to players. The range includes Philips Evnia 27M4N3500PT and 27M4N5500PT, features Fast IPS panel and delivers HDR gaming across three selectable display modes, each optimized for a different play style. Innovative industrial design achieves perfect integration of appearance, structural rigidity and practical usability, bringing futuristic visual flair to modern gaming setups. Triple Resolution Mode Delivers Greater Gaming Flexibility In QHD (25601440) mode, the panel hits an overclocked 275Hz with HDR enabled, delivering rich details and fluid visuals for immersive AAA gaming. Esports competitors can shift to HD (1280720) mode and unlock a blazing 540Hz overclocked refresh rate to secure ultra-low latency and instant in-game response. Sitting between the two is the balanced Full HD (19201080) mode running at 360Hz, striking a perfect balance between picture fidelity and competitive speed. Unlike traditional dual-mode screens, this third preset fills the gap between top-tier graphics and peak esports performance. Gamers can toggle between all three configurations instantly via the on-screen menu without complicated manual settings. Comfort for Marathon Gaming Sessions Built for long-hour gaming marathons, the monitor effectively protects users' eyes. Its Fast IPS panel cuts blue light output. Together with Low Blue Light and Flicker-Free technology, it greatly reduces eye fatigue without compromising picture quality. The PhilipsEvnia 27M4N5500PT is equippedwith theSmartErgoBase stand, which supports height, tilt and swivel adjustment, plus 90-degree vertical pivot, making it ideal for multi-screen workstation setups. It also features a brand-new innovative EVNIA AI gaming iconglow light, and the base adopts a minimalist geometric cut design, elevating gaming aesthetics to a new level. Key Specs and Additional Features Beyond its Triple Mode technology, the monitor is equipped with a range of premium features designed to deliver an exceptional gaming experience, including: Fast IPS panel with Anti-Glare (Haze 25%) Reaches 350 nits of peak brightness AI-enhanced gaming feature: Including stark shadow boost, smart crosshair, smart sniper and smart MBR sync HDMI 2.1 and DisplayPort 1.4 connectivity Engineered for contemporary gaming rigs, PhilipsEvnia 27M4N3500PT and 27M4N5500PT integrate outstanding speed, immersive visuals and convenient operability. This triple-mode monitor will be officially released in APAC region.",
-                "image": "https://mmx.prnasia.com/media/MS1876701/f50a8716c8454e348158e78e19e09f63.jpg?id=OA2748200&p=medium600",
-                "url": "http://www.malaysiasun.com/news/279161270/philips-evnia-launches-the-world-first-triple-mode-fast-ips-gaming-monitor-that-allows-gamers-to-switch-between-three-high-performance-resolution-modes",
-                "source": "malaysiasun.com",
-                "date": "2026-07-01T22:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Heat-triggered phospholipid flipping stabilizes plasma membrane fluidity",
-                "desc": "Cells must rapidly counteract heat stress-induced hyperfluidization of the plasma membrane to prevent membrane damage1,2, yet how cells achieve such early protection remains unknown. Here we show that in rice (Oryza sativa), the P4-ATPase OsALA5, together with its β-subunit OsALIS2, mediates a heat-responsive flipping of saturated phosphatidylcholines that rapidly stabilizes plasma membrane fluidity. Using leaflet-resolved lipidomics and complementary transport assays, we demonstrate that heat exposure induces a minute-timescale shift in OsALA5 transport activity that leads to selective enrichment of saturated phosphatidylcholines in the cytoplasmic plasma membrane leaflet. This OsALA5-mediated saturated phosphatidylcholine flipping prevents plasma membrane hyperfluidization upon heat stress, thus mitigating ion leakage and cell death. Our analyses of OsALA5 orthologues in Arabidopsis thaliana and yeast support functional conservation of a rapid heat-associated response within a subset of plasma membrane-localized, phosphatidylcholine-transporting P4-ATPases. We identified a rare haplotype of OsALA5 that confers both heat tolerance and yield stability in multi-year, multi-location field trials. Thus, beyond identifying this P4-ATPase-mediated flipping of saturated phosphatidylcholines in response to heat stress and providing genetic resources to advance breeding of heat-tolerant crops, our study reveals how cells counteract heat stress-driven plasma membrane hyperfluidization at an earlier stage than the previously known transcription-dependent lipid remodelling response. In rice, the P4-ATPase complex OsALA5–OsALIS2 rapidly stabilizes membrane fluidity in response to high temperature by flipping saturated phosphatidylcholines to the cytosolic leaflet of the plasma membrane.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10726-x/MediaObjects/41586_2026_10726_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10726-x?error=cookies_not_supported&code=94ad2757-2119-428e-a9a7-bc085fe366d7",
-                "source": "Nature",
-                "date": "2026-07-01T22:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hanwool Materials Science Acquires Hybrid Quantum Security Technology from KISTI",
-                "desc": "Hanwool Materials Science Co. said on July 1 that it has acquired hybrid quantum security",
-                "image": "https://cdn.thelec.net/news/photo/202607/11868_11954_3720.jpg",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=11868",
-                "source": "thelec.net",
-                "date": "2026-07-01T22:38:27Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "‘Trip to India left me with 38 parasites in my brain’: British woman claims Indian food left her with lifelong disease",
+                "desc": "Trending News: In an ordeal that is gaining traction online, a British woman claimed her trip to India left her with 38 parasites in her brain and a lifelong disease.",
+                "image": "https://static.toiimg.com/thumb/msid-132128095,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/etimes/trending/trip-to-india-left-me-with-38-parasites-in-my-brain-british-woman-claims-indian-food-left-her-with-lifelong-disease/articleshow/132128081.cms",
+                "source": "The Times of India",
+                "date": "2026-07-02T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Swindon is at the forefront of the PM's new defence plan",
+                "desc": "Swindon is playing a key role in the future defence strategy of the UK as it becomes a hub for drone manufacturing.",
+                "image": "https://www.swindonadvertiser.co.uk/resources/images/21124405.jpg?type=og-image",
+                "url": "https://www.swindonadvertiser.co.uk/news/26243569.swindon-forefront-pms-new-defence-plan/",
+                "source": "Swindon Advertiser",
+                "date": "2026-07-02T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gatwick Airport passengers issued Spain travel warning",
+                "desc": "The financial requirements for British nationals to enter Spain have changed in 2026.",
+                "image": "https://www.theargus.co.uk/resources/images/21123525.jpg?type=og-image",
+                "url": "https://www.theargus.co.uk/news/26242737.gatwick-airport-passengers-issued-spain-travel-warning/",
+                "source": "The Argus",
+                "date": "2026-07-02T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘It’s peak tick season!’ Should Charlie xcx really have been lolling around in long grass?",
+                "desc": "Harry Styles, Zoë Kravitz, Sarah Pidgeon … celebrities love stretching out on Britain’s lawns and meadows. But with the tick-borne Lyme disease on the rise, is it safe for any of us?",
+                "image": "https://i.guim.co.uk/img/media/610f0ca29bb231b918393bc1778dcfe472831b7f/623_0_3231_2586/master/3231.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2f7e0fb13ea0462a9fba16f07962380",
+                "url": "https://www.theguardian.com/world/2026/jul/02/its-peak-tick-season-should-charlie-xcx-really-have-been-lolling-around-in-long-grass",
+                "source": "The Guardian",
+                "date": "2026-07-02T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Antidepressants Reached Shark Brains Off Brazil’s Coast",
+                "desc": "A widely used antidepressant, sertraline, is now being detected in the brains of hammerhead sharks off the coast of Rio de Janeiro, revealing how human health, wastewater systems and marine ecosystems are far more connected than we often realize.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a3e26be4f98a4c987bba55a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/melissacristinamarquez/2026/07/02/how-antidepressants-reached-shark-brains-off-brazils-coast/",
+                "source": "Forbes",
+                "date": "2026-07-02T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How cryptocurrencies are changing global politics",
+                "desc": "Despite once dismissing them, Donald Trump made over $1 billion from cryptocurrency sales last year. But the digital currencies, and their lobbyists, are having an effect on policy and politicians around the world.",
+                "image": "https://static.dw.com/image/77789990_6.jpg",
+                "url": "https://www.dw.com/en/how-cryptocurrencies-are-changing-global-politics/a-77789664",
+                "source": "DW.com",
+                "date": "2026-07-02T03:59:09Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Russian attack kills at least 13 and causes damage across Kyiv",
+                "desc": "Russia has launched a large-scale attack on Ukraine’s capital with missiles and drones that has killed at least 13 people and injured 86.",
+                "image": "https://dims.apnews.com/dims4/default/8fd4d81/2147483647/strip/true/crop/5816x3875+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2Fed%2F5bd99ee0443cc58202727d73235f%2F01ba0825047a4092a10d06f672e969fd",
+                "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missile-drone-attack-384d5b6bcdfc6e7d8c18f25130332ef7",
+                "source": "AP News",
+                "date": "2026-07-02T03:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Malaysia to repurpose retiring coal plants into renewable energy hubs",
+                "desc": "KUALA LUMPUR (July 2): Malaysia plans to repurpose sites of retiring coal-fired power plants into renewable energy (RE) hubs and battery energy storage facilities under a proposed National Coal Site Repurposing Framework, said Deputy Prime Minister Datuk Seri Fadillah Yusof.",
+                "image": "https://assets.theedgemarkets.com/20260604_DPM_Fadillah-OFFICIAL_LAUNCH_STRATEGIC_BUSINESS_RDS-AMT_MSY2_20260605100032-APP_1.jpg",
+                "url": "https://theedgemalaysia.com/node/809126",
+                "source": "The Edge Malaysia",
+                "date": "2026-07-02T03:54:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UPSC GS-3 Mains Answer Writing Practice (2 July 2026)",
+                "desc": "Practice UPSC GS-3 Mains Answer Writing for 2 July 2026 with this question: Explain the objectives and significance of the Basel Convention in regulating transboundary movement of hazardous waste. Discuss its relevance in the context of emerging waste streams. (10 M) Build structured environmental governance answers and boost your UPSC Mains preparation.",
+                "image": "https://www.insightsonindia.com/wp-content/uploads/2015/09/cropped-cropped-FullSizeRender-6-32x32.jpg",
+                "url": "https://www.insightsonindia.com/2026/07/02/explain-the-objectives-and-significance-of-the-basel-convention-in-regulating-transboundary-movement-of-hazardous-waste-discuss-its-relevance-in-the-context-of-emerging-waste-streams/",
+                "source": "INSIGHTS IAS",
+                "date": "2026-07-02T03:52:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Defying Pope Leo XIV, traditionalists go ahead with bishop consecrations in Switzerland",
+                "desc": "ECONE, Switzerland (AP) — A group of traditionalist Catholics directly defied Pope Leo XIV on Wednesday by consecrating four bishops without his consent,...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/02/113173.webp",
+                "url": "https://mb.com.ph/2026/07/02/defying-pope-leo-xiv-traditionalists-go-ahead-with-bishop-consecrations-in-switzerland",
+                "source": "Manila Bulletin",
+                "date": "2026-07-02T03:50:25Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Micro 'cockroach' drones help search for Venezuela earthquake survivors",
                 "desc": "A week after devastating twin earthquakes struck Venezuela rescue teams are using drones, dogs, cameras and specialised listening equipment to search for survivors.",
@@ -1806,98 +1896,8 @@
                 "source": "Fijivillage",
                 "date": "2026-07-01T23:58:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AFRAA admits United Nigeria Airlines as full member",
-                "desc": "Add as a preferred source United Nigeria Airlines has been admitted as a full member of the African Airlines Association (AFRAA), a move that strengthens the continental body’s presence in one of Africa’s largest and fastest-growing aviation markets. AFRAA promotes cooperation among African airlines; advocates policies that improve air connectivity across Africa; reduces operating costs […]",
-                "image": "https://tribuneonlineng.com/wp-content/uploads/2025/10/united-nigeria.jpg",
-                "url": "https://tribuneonlineng.com/afraa-admits-united-nigeria-airlines-as-full-member/",
-                "source": "Tribune Online",
-                "date": "2026-07-01T23:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US-Iran War News Highlights: Iran says it will use frozen Qatar funds to buy essential goods",
-                "desc": "US-Iran War News Highlights: Iranian Deputy Foreign Minister Kazem Gharibabadi said Tehran will use part of its frozen assets in Qatar to purchase goods needed by the country. The decision follows meetings with Qatari officials, including representatives of the Qatar Central Bank, in Doha.",
-                "image": "https://www.livemint.com/lm-img/img/2026/07/01/1600x900/logo/IRAN-CRISIS-KHAMENEI-6_1782936228121_1782936246546_78eb624a-c2ff-4c42-b24c-9eb6ee908001.JPG",
-                "url": "https://www.livemint.com/news/world/usiran-war-news-qatar-us-iran-talks-us-envoys-donald-trump-israel-lebanon-strait-of-hormuz-11782863872746.html",
-                "source": "livemint.com",
-                "date": "2026-07-01T23:37:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LACC, OWECC Endorse Specialized Anti-Graft Court",
-                "desc": "The Liberia Anti-Corruption Commission (LACC) and the Office for the Establishment of War and Economic Crimes Court (OWECC) have endorsed ...",
-                "image": "https://www.thenewdawnliberia.com/jepujef/2026/07/Participants-at-National-Anti-Corruption-Policy-Dialogue.jpg",
-                "url": "https://www.thenewdawnliberia.com/lacc-owecc-endorse-specialized-anti-graft-court/",
-                "source": "The New Dawn Liberia",
-                "date": "2026-07-01T23:37:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Weddings and Jewish rituals resume in Iran after weeks of wartime silence",
-                "desc": "Iran’s chief rabbi returns to posting community events, Tehran’s Jewish association secures a Sabbath exam arrangement for students and experts say the remaining Jews are navigating life under regime pressure",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/01/BJ7Z96Efmzx/BJ7Z96Efmzx_0_174_1080_608_0_large.jpg",
-                "url": "https://www.ynetnews.com/jewish-world/article/b1mwtrmmge",
-                "source": "Ynetnews",
-                "date": "2026-07-01T23:28:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Storm outside PAR may intensify into super typhoon next week",
-                "desc": "A tropical storm (TS) currently outside the Philippine area of responsibility is likely to develop into a super typhoon next week.",
-                "image": "https://newsinfo.inquirer.net/files/2026/07/736998920_1916422929035422_7555284096774065275_n.jpeg",
-                "url": "https://newsinfo.inquirer.net/2256411/storm-outside-par-may-intensify-into-super-typhoon-next-week-pagasa",
-                "source": "Inquirer.net",
-                "date": "2026-07-01T23:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US, Iran conclude talks focused on Strait of Hormuz",
-                "desc": "Iran and the US have concluded a round of indirect ⁠talks with no sign they had made headway toward a lasting peace.",
-                "image": "https://www.rte.ie/images/002467e0-1600.jpg",
-                "url": "https://www.rte.ie/news/middle-east/2026/0702/1581343-middle-east/",
-                "source": "RTE.ie",
-                "date": "2026-07-01T23:26:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Agriculture, Climate, Environment, Energy & Food: July 2026 Funding Opportunities (51 new opportunities!)",
-                "desc": "109 opportunities across agriculture, climate, energy & environment. Capital is shifting: SMEs over NGOs, community-led over intermediated, strategic autonomy over open innovation. 45 closing in July.",
-                "image": "https://substackcdn.com/image/fetch/$s_!fRn-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fbaa54-df78-4f00-a329-792c45b38d13_2000x1029.png",
-                "url": "https://impactfunding.substack.com/p/agriculture-climate-environment-energy-d0a",
-                "source": "Substack",
-                "date": "2026-07-01T23:23:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nancy Guthrie ransom notes: Some were extortion attempts, FBI says",
-                "desc": "The FBI said some Nancy Guthrie ransom notes were determined to be extortion attempts, while others are still being investigated.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/nancyguthrie2.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/01/us/nancy-guthrie-ransom-notes-extortion",
-                "source": "CNN",
-                "date": "2026-07-01T23:20:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia news LIVE: NSW Liberal Party under investigation by ICAC; US-Iran talks conclude in Doha",
-                "desc": "Join us for rolling coverage for the latest developments and news from around Australia and the world.",
-                "image": "https://static.ffx.io/images/$zoom_0.6819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_92%2C$y_0/t_crop_custom/q_86%2Cf_auto/6989d79f2e887933d05396943ee1418bbd7f7d8fff5ca5604ef9c5feaf9ca963",
-                "url": "https://www.theage.com.au/national/australia-news-live-investigations-into-nsw-liberals-victorian-cfmeu-canberra-celebrates-midwinter-ball-us-iran-talks-to-conclude-20260702-p60bv5.html",
-                "source": "The Age",
-                "date": "2026-07-01T23:19:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Widow demands full investigation into husband’s death during garbage collection in Nasese",
-                "desc": "Widow demands full investigation into husband’s death during garbage collection in Nasese",
-                "image": "https://www.fijivillage.com/news_images/20260702075934_media_6a4495af9a0930_58694384.jpg",
-                "url": "https://www.fijivillage.com/news/widow-demands-full-investigation-into-husband-s-death-during-garbage-collection-in-nasese-a02b0b/",
-                "source": "Fijivillage",
-                "date": "2026-07-01T23:15:37Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T15:40:30.164892Z"
+    "lastGlobalSync": "2026-07-02T16:00:30.621726Z"
 }
