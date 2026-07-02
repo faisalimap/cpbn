@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Elon Musk No Longer A Trillionaire As SpaceX Stock Falls",
+                "desc": "A well-known analyst of Musk’s Tesla offered a bullish take for the rocket maker.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/68de8dc6cfc5f94eaff5aee1/0x0.jpg?format=jpg&crop=2185,1228,x0,y0,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/tylerroush/2026/07/01/elon-musk-loses-trillionaire-status-as-spacex-slide-cuts-net-worth-by-50-billion/",
+                "source": "Forbes",
+                "date": "2026-07-01T16:33:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Approved building permits edge up 0.8% in 2025",
+                "desc": "APPROVED BUILDING PERMITS inched up by 0.8% year on year in 2025, as construction activity moderated amid macroeconomic headwinds and the flood control mess in the second half of the year, analysts said.",
+                "image": "https://bworldonline.com/wp-content/uploads/2026/07/construction-worker-infra.jpg",
+                "url": "https://bworldonline.com/top-stories/2026/07/02/760522/approved-building-permits-edge-up-0-8-in-2025/",
+                "source": "BusinessWorld Online",
+                "date": "2026-07-01T16:32:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "July 1 morning has broken, Alberta portal for 'Dani Dollars' is open",
+                "desc": "Millions of Albertans are eligible to apply for the $100 rebate under a new provincial program aimed at offsetting high energy costs.",
+                "image": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2026/05/danielle-smith-4.jpg",
+                "url": "https://edmontonjournal.com/news/local-news/alberta-energy-rebate-portal-dani-dollars-open",
+                "source": "Edmonton Journal",
+                "date": "2026-07-01T16:30:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Similar to Macraes': Miner says $4b in gold discovered near Dunedin",
+                "desc": "An Australian mining company says it has made a $4 billion gold discovery, which bears a ‘‘very strong similarity’’ to Macraes, near Dunedin. New...",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/drill_rig_at_the_bella_prospect_lammerlaw_gold-antimony_project_otago_region_-_may_2026.jpeg?itok=O30qCPRd",
+                "url": "https://www.odt.co.nz/news/dunedin/similar-macraes-miner-says-4b-gold-discovered-near-dunedin",
+                "source": "Otago Daily Times",
+                "date": "2026-07-01T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five arrested, 1.38 million illegal cigarettes seized in raids",
+                "desc": "Authorities carried out 21 raids at eight retail outlets and six residential addresses in Rotorua, Waikato and Auckland as part of the six-month operation.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/cigarettes-seized-as-part-of-operation-clarify-K4VSJ47EUBGMNFFA56J5LUO72I.jpg?auth=f57ba02c8ef7530f6fd09aa70fe092538a2fc82869dbf5e30391d0c8ce8cae71&quality=70&width=600&height=315&focal=3000%2C2000",
+                "url": "https://www.1news.co.nz/2026/07/01/five-arrested-138-million-illegal-cigarettes-seized-in-raids/",
+                "source": "1News",
+                "date": "2026-07-01T16:20:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation",
+                "desc": "In remarks at a central bank conference in Sintra, Portugal, Warsh said that if businesses or households thought the Fed would accept inflation above 2%, “I guess they'd be disappointed. We're going to deliver price stability.”",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-01T100031Z_568648379_RC274MAZO8S3_RTRMADP_3_USA-FED-WARSH-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation",
+                "source": "PBS",
+                "date": "2026-07-01T16:20:16Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Wipro ADRs fall 17% as AI pricing pressure, weak outlook weigh on sentiment",
+                "desc": "Wipro ADRs dropped more than 13% amid continued concerns over weak earnings outlook and rising AI-driven pricing pressure in the IT services sector, with a recent JPMorgan downgrade adding to negative sentiment.",
+                "image": "https://images.cnbctv18.com/uploads/2026/06/untitled-design-18-2026-06-2911ae9651dcd8ce988acbbe67289efc.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://www.cnbctv18.com/market/stocks/wipro-adrs-fall-over-13-as-ai-pricing-pressure-weak-outlook-weigh-on-sentiment-19936801.htm",
+                "source": "CNBC TV18",
+                "date": "2026-07-01T16:19:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gulf Business recognises Prateek Suri among the Region’s Top 50 CEOs and Business Leaders",
+                "desc": "For African business leaders watching the rapid evolution of Gulf capital and influence, the inclusion of Prateek Suri in Gulf Business magazine’s",
+                "image": "https://dailypost.ng/wp-content/uploads/2020/10/cropped-Daily-Post-Icon-512x512px-Customsize3-32x32.jpg",
+                "url": "https://dailypost.ng/2026/07/01/gulf-business-recognises-prateek-suri-among-the-regions-top-50-ceos-and-business-leaders/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-07-01T16:18:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inflation peaked in May as energy prices fell in June, Kalshi traders think",
+                "desc": "Speculators on the prediction market platform give less than 30% odds to inflation peaking above 4.2% in 2026.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108328766-1782834233767-gettyimages-2276257367-_75a4182_shf909kc.jpeg?v=1782834259&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/01/inflation-peaked-in-may-as-energy-prices-fell-in-june-kalshi-traders-think.html",
+                "source": "CNBC",
+                "date": "2026-07-01T16:16:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google has exceeded $1 billion Africa investment target",
+                "desc": "JOHANNESBURG, July ⁠1 (Reuters) - Google has exceeded a five-year target to invest $1 billion ⁠in Africa, it said on Wednesday, as it made ‌public initiatives on infrastructure and development of AI to accelerate the continent's digital growth.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3987265.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/02/google-has-exceeded-1-billion-africa-investment-target",
+                "source": "The Star",
+                "date": "2026-07-01T16:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "‘Congestion to affect 88% of Asian airports by 2040’",
                 "desc": "Airports in Asia-Pacific may face congestion by 2040, prompting a need to decide on what next gateways to build, the International Air Transport Association  said.",
                 "image": "https://media.philstar.com/photos/2026/07/01/22026-01-2522-23-07_2026-07-01_20-03-53.jpg",
@@ -542,99 +632,99 @@
                 "source": "Forbes",
                 "date": "2026-07-01T06:28:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "4th consecutive HMO award excites Leadway Health MD",
-                "desc": "TOKUNBO Alli, the Managing Director of Leadway Health, on Tuesday described the 2026 Health Maintenance Organisation (HMO) award as a validation of the company’s commitment. The News Agency of Nigeria (NAN) reports that the recognition marks the company’s fourth consecutive win in the HMO category at the Nigerian Healthcare Excellence Awards (NHEA). The award highlights",
-                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/image-9.png",
-                "url": "https://realnewsmagazine.net/4th-consecutive-hmo-award-excites-leadway-health-md/",
-                "source": "Realnews Magazine",
-                "date": "2026-07-01T05:58:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Airtel Kenya appoints Djibril Tobe as new Managing Director",
-                "desc": "Airtel Kenya has appointed Djibril Tobe as its new Managing Director, taking over from Ashish Malhotra, who has been promoted to Chief Executive Officer of",
-                "image": "https://biznakenya.com/wp-content/uploads/2026/07/Djibril-Tobe-scaled.jpg",
-                "url": "https://biznakenya.com/airtel-kenya-appoints-djibril-tobe-as-new-md/",
-                "source": "Bizna Kenya",
-                "date": "2026-07-01T05:57:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "year high on potential listing of data centre business",
-                "desc": "Shares of YTL Power International Bhd (KL:YTLPOWR) climbed to their highest level in nearly two years on Wednesday, after RHB Investment Bank said it may list its data centre business next year.",
-                "image": "https://assets.theedgemarkets.com/YTL-Corp-Bhd-2_ytl.com_20260128212846_YTL_Corp_2_0.jpg",
-                "url": "https://theedgemalaysia.com/node/808998",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-01T05:57:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live updates: June 2026 deliveries for major automakers in China",
-                "desc": "Leapmotor, Nio and Xpeng each set their highest monthly delivery record so far this year in June.",
-                "image": "https://cnevpost.com/wp-content/uploads/2026/07/2026070105550776.jpg",
-                "url": "https://cnevpost.com/2026/07/01/jun-2026-deliveries-chinese-automakers/",
-                "source": "CnEVPost",
-                "date": "2026-07-01T05:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PhysicsWallah offers new faculty up to Rs 15 lakh to bring students from rival coaching centres",
-                "desc": "An internal policy document reviewed by Moneycontrol details the rewards PhysicsWallah offers faculty and Talent Nurture Team members as the edtech major rapidly expands its offline coaching business.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251110094944_physicswallah.jpg",
-                "url": "https://www.moneycontrol.com/news/business/startup/physicswallah-offers-new-faculty-up-to-rs-15-lakh-to-bring-students-from-rival-coaching-centres-13963072.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-01T05:55:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'This isn't a windfall': Donegal hospitality expert hits back at VAT cut critics",
-                "desc": "The VAT rate for food businesses and hairdressers will be reduced from 13.5% to 9% from today.The measure will not apply to hotel accommodation but will apply t...",
-                "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wNlxcXC9jb3B5LW9mLWRkLXBpY3MtMzItMTAyNHg1NzYucG5nXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wM1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMDU2Y2U1MjQ0Mzg0YzFlZjhiOTVmZDUyOTUyMTg5Y2VlMTczYjNjNSJ9/this-isn-t-a-windfall-donegal-hospitality-expert-hits-back-at-vat-cut-critics.png",
-                "url": "https://www.donegaldaily.com/business/this-isnt-a-windfall-donegal-hospitality-expert-hits-back-at-vat-cut-critics-639951",
-                "source": "Donegal Daily",
-                "date": "2026-07-01T05:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NIA grows income by 46.7% to N1.27bn in 2025",
-                "desc": "Caption: Mrs Ebelechukwu Nwachukwu, new Chairperson of NIA; Mr Babatunde Fajemirokun, the new Deputy Chairman and other council members during the 55th Annual General Meeting of NIA in Lagos on Tuesday THE Nigerian Insurers Association (NIA) says its total income rose by 46.7 per cent to N1.272 billion in the 2025 financial year. The Honourary",
-                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/image-5.png",
-                "url": "https://realnewsmagazine.net/nia-grows-income-by-46-7-to-n1-27bn-in-2025/",
-                "source": "Realnews Magazine",
-                "date": "2026-07-01T05:53:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BSP eyes wholesale digital money roadmap after successful 24/7 interbank transfer pilot",
-                "desc": "Following the successful technical testing of the Bangko Sentral ng Pilipinas’ (BSP) wholesale central bank digital currency (wCBDC), which demonstrated the...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/01/112953.webp",
-                "url": "https://mb.com.ph/2026/07/01/bsp-eyes-wholesale-digital-money-roadmap-after-successful-247-interbank-transfer-pilot",
-                "source": "Manila Bulletin",
-                "date": "2026-07-01T05:53:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "S$55 million Good Class Bungalow seized in connection with Nvidia chip movement case",
-                "desc": "The police issued a prohibition of disposal order against the GCB and seized S$1 million of funds in bank accounts as part of their investigations, which have resulted in additional charges for the four people allegedly involved.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--a4-zMRU4--/c_crop,h_900,w_1600,x_0,y_148/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/01/good_class_bungalow.jpg?itok=UnXLu-v0",
-                "url": "https://www.channelnewsasia.com/singapore/gcb-55-million-nvidia-chip-movement-case-6223876",
-                "source": "CNA",
-                "date": "2026-07-01T05:53:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia’s airport planning ‘too reactive’, airlines warn",
-                "desc": "Airline executives told a PAC hearing last year that Malaysia needs forward-looking infrastructure plans instead of reactive responses to issues at airports, such as airline capacity.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/04/d6183e54-airasia-plane-bernama-290424-1.webp",
-                "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/01/malaysias-airport-planning-too-reactive-airlines-warn",
-                "source": "Free Malaysia Today",
-                "date": "2026-07-01T05:52:26Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Subnautica 2 studio Unknown Worlds' CEO resigns as Krafton agrees to pay $250m bonus",
+                "desc": "Krafton has settled its lawsuit with the former leadership team of Subnautica 2 developer, Unknown Worlds, and agreed t…",
+                "image": "https://assetsio.gnwcdn.com/subnautica-2-content-nurkowie.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agrees-to-pay-250m-bonus",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-01T16:38:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plant membranes shuffle lipids around to stay firm under heat stress",
+                "desc": "High temperatures make cell membranes weak and leaky. Rice plants rapidly counteract this effect by adjusting membrane lipid content, enabling them to resist heatwaves.",
+                "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01809-w/d41586-026-01809-w_52839324.jpg",
+                "url": "https://www.nature.com/articles/d41586-026-01809-w?error=cookies_not_supported&code=afb7b503-e770-4408-b05e-86ef2a2c1156",
+                "source": "Nature",
+                "date": "2026-07-01T16:35:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tor releases Arti 2.5.0 with stable CGO encryption and security fixes",
+                "desc": "The Tor Project has released Arti 2.5.0, promoting its next-generation Counter Galois Onion (CGO) encryption scheme to stable status.",
+                "image": "https://cyberinsider.com/wp-content/uploads/2026/07/Tor-releases-Arti-2.5.0-with-stable-CGO-encryption-and-security-fixes.jpeg",
+                "url": "https://cyberinsider.com/tor-releases-arti-2-5-0-with-stable-cgo-encryption-and-security-fixes/",
+                "source": "CyberInsider",
+                "date": "2026-07-01T16:35:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Android 17’s new foldable gaming mode fixes the biggest issue with mobile gaming",
+                "desc": "It'll be easier than ever to play a wide variety of games on the go on Android.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/android-phone-connected-to-gaming-controller.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/android-17s-new-foldable-gaming-mode-fixes-the-biggest-issue-with-mobile-gaming/",
+                "source": "MakeUseOf",
+                "date": "2026-07-01T16:31:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "My favorite Kindle alternative is $30 off after a recent price increase",
+                "desc": "The Kobo Libra Colour is $229.99 ($30 off). The color e-reader is our favorite Kindle alternative, with physical page-turning buttons and stylus support.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25382590/S8___LIBRA_HERO_MARK_UPS___EN.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+                "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
+                "source": "The Verge",
+                "date": "2026-07-01T16:28:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HALON BEGINS NEXT CHAPTER AS AN INDEPENDENT CREATIVE PRODUCTION COMPANY",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/HALON-BEGINS-NEXT-CHAPTER-AS-AN-INDEPENDENT-CREATIVE-PRODUCTION-COMPAN",
+                "source": "Games Press",
+                "date": "2026-07-01T16:27:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PS3 and PS Vita digital stores are closing starting August 2026",
+                "desc": "PlayStation is shutting down the digital stores for PlayStation 3 and PlayStation Vita starting August of this year, finalizing on July 2027.",
+                "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt67d736d1807e463d/6a4526198b73526c13a1d2ff/puppeteer.png?disable=upscale&width=1200&height=630&fit=crop",
+                "url": "https://www.gamedeveloper.com/business/ps3-and-ps-vita-digital-stores-are-closing-starting-august-2026",
+                "source": "Game Developer",
+                "date": "2026-07-01T16:25:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minecraft Creator Speaks Out Against ESA Calling Private Servers 'Illegal'",
+                "desc": "Minecraft creator, Markus 'Notch' Persson, has spoken out against the Electronic Software Association for claiming that private servers are \"illegal.\"",
+                "image": "https://assets-prd.ignimgs.com/2026/07/01/new-key-art-01-1782922658372.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/this-is-borderline-evil-minecraft-creator-speaks-out-against-esa-calling-private-servers-illegal",
+                "source": "IGN",
+                "date": "2026-07-01T16:24:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tiny Bookshop Opens Its Doors on iOS and Android on July 9",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Tiny-Bookshop-Opens-Its-Doors-on-iOS-and-Android-on-July-9",
+                "source": "Games Press",
+                "date": "2026-07-01T16:22:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After ‘Destiny 2,’ The Most Important Next Step For Bungie Doesn’t Involve ‘Marathon’",
+                "desc": "Bungie needs to hold it together as a studio, and there's something more important it needs to do than just throw tons of resources into Marathon.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a453cfdc951901f59a3f744/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/paultassi/2026/07/01/after-destiny-2-the-most-important-next-step-for-bungie-doesnt-involve-marathon/",
+                "source": "Forbes",
+                "date": "2026-07-01T16:22:06Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Indie Selects for July 2026: Gameplay That Will Make Summer Pop",
                 "desc": "The ID@XBOX team has handpicked five Indie Selects for July that are ready to light up your night like a sky full of summer fireworks.",
@@ -1178,6 +1268,96 @@
         ],
         "world": [
             {
+                "title": "World Bank scraps climate finance targets after U.S. criticism",
+                "desc": "World Bank abandons climate finance targets after U.S. criticism, potentially impacting projects in developing countries like India.",
+                "image": "https://th-i.thgim.com/public/incoming/15q9ui/article71171355.ece/alternates/LANDSCAPE_1200/iStock-1262389119.jpg",
+                "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-bank-scraps-climate-finance-targets-after-us-criticism/article71170397.ece",
+                "source": "The Hindu",
+                "date": "2026-07-01T16:40:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How 'Neutral' Italy Lost Aircraft During Iran War?",
+                "desc": "Italy refused to join the US war against Iran and denied access to its military bases to US aircraft flying offensive sorties against the West Asian country. However, in a stark illustration of the risks of operating near active war zones, some Italian aircraft reportedly got caught in the crossfire. When the US launched Operation […]",
+                "image": "https://www.eurasiantimes.com/wp-content/uploads/2022/09/Eurofighter-typhoon.jpg",
+                "url": "https://www.eurasiantimes.com/eurofighter-typhoons-damaged-mq-9a-reaper-destroyed-how-neutral-italy-lost-aircraft-during-iran-war/",
+                "source": "EurAsian Times",
+                "date": "2026-07-01T16:38:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US, Tanzania Boost Global Infectious Disease Fight",
+                "desc": "Today, the United States and Tanzania signed a five-year bilateral global health Memorandum of Understanding (MOU) through the Trump Administration's",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/United_States_Department_of_State_headquarters.jpg",
+                "url": "https://www.miragenews.com/us-tanzania-boost-global-infectious-disease-1703081/",
+                "source": "Mirage News",
+                "date": "2026-07-01T16:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "500 families displaced to Karnoi as North Darfur fighting intensifies",
+                "desc": "The Karnoi Emergency Response Room in North Darfur says the locality has received 544 displaced...",
+                "image": "https://www.dabangasudan.org/wp-content/uploads/2026/06/كرنوي-1.jpg",
+                "url": "https://www.dabangasudan.org/en/all-news/article/500-families-displaced-to-karnoi-as-fighting-intensifies-in-north-darfur",
+                "source": "Dabanga Radio TV Online",
+                "date": "2026-07-01T16:35:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top intelligence officers from Turkey and Africa’s most powerful military discuss Israel's violations",
+                "desc": "Egypt and Turkey have taken another step toward deepening their strategic collaboration, with the leaders of their intelligence services meeting in Ankara to discuss the Gaza conflict and other security issues in Africa. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/-rTktkpTURBXy83Zjk3NzY2ZDVjYmQ1YjRjYzlkZGIzODc1YzFiNDg3NS5qcGeSlQMBAM0C4c0Bn5MFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/lifestyle/top-intelligence-officers-from-turkey-and-africas-most-powerful-military-discuss/566hyrj",
+                "source": "Business Insider Africa",
+                "date": "2026-07-01T16:30:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Natural Resources",
+                "desc": "Jul 1, 2026 - Natural Resources, July 2026 Monthly Forecast : Security Council Report",
+                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
+                "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-07/natural-resources.php",
+                "source": "Security Council Report",
+                "date": "2026-07-01T16:30:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "July 2026 Monthly Forecast",
+                "desc": "Jul 1, 2026 - The Middle East, including the Palestinian Question, July 2026 Monthly Forecast : Security Council Report",
+                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
+                "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-07/the-middle-east-including-the-palestinian-question-25.php",
+                "source": "Security Council Report",
+                "date": "2026-07-01T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "​Heavy Machine Guns Found on russian Shadow Fleet Vessel",
+                "desc": "russia is increasingly using its sanctions-busting shadow fleet not only for energy exports but also as a tool of military escalation against Europe",
+                "image": "https://en.defence-ua.com/media/illustration/articles/eae6a4536598fc53.jpg",
+                "url": "https://en.defence-ua.com/news/heavy_machine_guns_found_on_russian_shadow_fleet_vessel-18993.html",
+                "source": "Defense Express",
+                "date": "2026-07-01T16:28:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 new countries Ghana could soon have direct flights to after Parliament's approval: See list",
+                "desc": "Ghana's Parliament has approved bilateral air services agreements with six countries, paving the way for future direct passenger and cargo flights. Read more.",
+                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/24022026/66ee153e-8be9-4b16-8c17-31a8b7c3f7d0.jfif?operations=autocrop(1200:630)",
+                "url": "https://www.pulse.com.gh/story/6-countries-ghana-could-soon-have-direct-flights-to-after-parliaments-approval-see-list-2026070116152420360",
+                "source": "Pulse Ghana",
+                "date": "2026-07-01T16:26:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pakistan to boost UNRWA funding in effort to close $100 million shortfall: Ambassador Jadoon",
+                "desc": "Amid UN Secretary-General Antonio Guterres appeal to countries to cover a $100 million gap in funding for the UN Palestinian refugee agency UNRWA, Pakistan responded positively, saying it will enhance its financial contribution to the agency this year.",
+                "image": "https://www.app.com.pk/wp-content/uploads/2024/04/Usman-Jadoon-e1713758984170.jpg",
+                "url": "https://www.app.com.pk/global/pakistan-to-boost-unrwa-funding-in-effort-to-close-100-million-shortfall-ambassador-jadoon/",
+                "source": "| Associated Press Of Pakistan",
+                "date": "2026-07-01T16:24:46Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Troop Casualties in Ukraine War Top 2 Million, Study Finds",
                 "desc": "Russia has borne the heavier toll, with 1.4 million troops killed or wounded since it invaded in February 2022.",
                 "image": "https://static01.nyt.com/images/2026/07/01/multimedia/01dc-military-casualties01-photo-jltg/01dc-military-casualties01-photo-jltg-facebookJumbo.jpg",
@@ -1719,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T04:00:26.626108Z"
+    "lastGlobalSync": "2026-07-02T04:40:26.404764Z"
 }
