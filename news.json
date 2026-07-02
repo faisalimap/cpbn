@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Retailers Use AI to Curb Return Fraud and Improve Logistics",
+                "desc": "Retailers are implementing AI through software companies like Happy Returns and Narvar to detect return fraud and issue refunds more quickly.",
+                "image": "https://i.insider.com/6a43c974e218c3b62535f298?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/return-fraud-ai-retail-happy-returns-optoro-2026-6",
+                "source": "Business Insider",
+                "date": "2026-07-01T18:33:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google accelerates Africa's AI economy after crossing $1bn investment milestone",
+                "desc": "Google has gone beyond its five-year commitment to invest $1 billion in Africa, announcing a fresh wave of artificial intelligence",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2024/10/Google.png",
+                "url": "https://businessday.ng/technology/article/google-accelerates-africas-ai-economy-after-crossing-1bn-investment-milestone/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-01T18:33:45Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "WATCH: Lotto and Lotto Plus results: Wednesday, 1 July 2026",
+                "desc": "A total of R13.5 million in jackpots is up for grabs tonight. Here are your Lotto and Lotto Plus results for 1 July 2026.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2026/06/Lotto-and-Lotto-Plus-results-Wednesday-1-July-2026.jpg",
+                "url": "https://www.citizen.co.za/lotto/watch-lotto-and-lotto-plus-results-wednesday-1-july-2026/",
+                "source": "The Citizen",
+                "date": "2026-07-01T18:31:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Robinhood (HOOD) rolls out public blockchain as it expands deeper into crypto",
+                "desc": "Robinhood's product push continues to blur the line between crypto and more traditional finance.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dac34908164b1ab4703e87687fa15502ddfa1e8-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
+                "source": "CoinDesk",
+                "date": "2026-07-01T18:25:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Italian CEO Of Bending Spoons, Owner Of AOL And Evernote, Is Worth $2.4 Billion After IPO",
+                "desc": "Buying busted apps made Bending Spoons’s four cofounders billionaires. Now their stakes have collectively jumped to $8.9 billion after the Milan-based startup scrap yard listed on Nasdaq at an $18.4 billion valuation.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a42d5be5f0d8125ae1a2e00/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/iainmartin/2026/07/01/how-bending-spoons-built-a-184-billion-empire-by-buying-internet-has-beens-like-aol/",
+                "source": "Forbes",
+                "date": "2026-07-01T18:24:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lime begins life as a public company after years of uncertainty",
+                "desc": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+                "image": "https://techcrunch.com/wp-content/uploads/2022/07/image_6483441-e1657681037469.jpg?resize=1200,780",
+                "url": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+                "source": "TechCrunch",
+                "date": "2026-07-01T18:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump defends earning more than $1b on crypto",
+                "desc": "US President Donald Trump has defended earning around US$1.2 billion ($2.1b) from his family’s cryptocurrency activities last year, saying “everybody’s...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/UIVJCPNMYBAWRFRMK4XHYO47II.jpg?auth=4d0d8e5eff71d8a87f9233f701c383345dabf298292146869cbeab23efb47ca2&width=1200&height=675&quality=70&focal=961%2C403&smart=false",
+                "url": "https://www.nzherald.co.nz/world/trump-defends-earning-more-than-1b-on-crypto/KWINV5RUDJA37OGJNTIACLBLBM/",
+                "source": "NZ Herald",
+                "date": "2026-07-01T18:21:05Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Family launches four lawsuits over death of daughter (18) at UHL",
+                "desc": "Jessica Sheedy died in 2018 following complications from surgery to remove benign tumour",
+                "image": "https://www.irishtimes.com/resizer/v2/JLMVWKIDILFSICTQ6HHGNF6NZE.jpg?smart=true&auth=ce6a190a60d8bc20555bb910a2f3b8e0aeb9dfe8af314173e4645044cee7b59e&width=1200&height=630",
+                "url": "https://www.irishtimes.com/crime-law/courts/2026/07/01/family-launches-four-lawsuits-over-death-of-daughter-18-at-uhl/",
+                "source": "The Irish Times",
+                "date": "2026-07-01T18:13:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wintour’s Vogue Exit Leaves Apparel Industry With An Identity Crisis",
+                "desc": "Fashion’s influence is shifting from magazines to social media as AI, creators, and micro-trends redefine how consumers discover and buy apparel.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4556aa84b8e70fb2927d93/0x0.jpg?format=jpg&crop=2455,1381,x0,y167,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/gregpetro/2026/07/01/wintours-vogue-exit-leaves-apparel-industry-with-an-identity-crisis/",
+                "source": "Forbes",
+                "date": "2026-07-01T18:07:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMD: Market Has Completely Misread The AI CPU Supercycle",
+                "desc": "AMD EPYC is poised for the AI CPU supercycle, powering inference and agentic AI with strong TCO and efficiency—alongside Instinct & Helios. Click for this update.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254781681/image_2254781681.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4919256-amd-market-has-completely-misread-the-ai-cpu-supercycle",
+                "source": "Seeking Alpha",
+                "date": "2026-07-01T18:06:58Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Commercial site for sale following fast",
                 "desc": "A long-serving Red Rooster has quietly closed its doors and is now up for sale for the first time in more than two decades.",
                 "image": "https://www.sunshinecoastnews.com.au/wp-content/uploads/2026/07/SCN17262-Mary-Street-Noosaville-scaled.jpg",
@@ -542,99 +632,99 @@
                 "source": "WOWT",
                 "date": "2026-07-01T14:53:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Others invest my money, I'm profiting because of stock market",
-                "desc": "The 927-page annual financial disclosure form shows Trump's purchases and sales of hundreds of companies' stocks, including Nvidia, Amazon and Microsoft.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108329241-1782910172587-gettyimages-2283591282-AFP_B8WN4XR.jpeg?v=1782910197&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
-                "source": "CNBC",
-                "date": "2026-07-01T14:51:22Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "How war on Iran changed the global energy sector forever",
-                "desc": "Conflict will accelerate shift to renewables and search for alternatives to Strait of Hormuz, energy analysts say.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260628__B8JJ8MV__v1__MidRes__KuwaitIranUsIsraelWarTanker-1782877498.jpg?resize=1200%2C630",
-                "url": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever",
-                "source": "Al Jazeera",
-                "date": "2026-07-01T14:48:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EIA: U.S. Crude Inventories Post Another Major Draw",
-                "desc": "Crude oil inventories in the United States decreased by 3.8 million barrels during the week ending June 26, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-01_uc73febwiv.jpg",
-                "url": "https://oilprice.com/Energy/Crude-Oil/EIA-US-Crude-Inventories-Post-Another-Major-Draw.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-01T14:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sanctioned Russian billionaire retains control of Aughinish parent company, Sweden finds",
-                "desc": "Ruling from Sweden’s tax authority states all of Rusal’s operation in Europe, which includes Irish plant, should be subject to EU sanctions",
-                "image": "https://www.irishtimes.com/resizer/v2/AHPM7WDUJ5A35ETZJWWDDZTPPQ.JPG?smart=true&auth=a5dba1e58b151f203d151aea9ba7dc6cfa1e564bebfe90eb1685f0a1e953fe02&width=1200&height=630",
-                "url": "https://www.irishtimes.com/ireland/2026/07/01/sanctioned-russian-billionaire-retains-control-of-aughinish-parent-company-sweden-finds/",
-                "source": "The Irish Times",
-                "date": "2026-07-01T14:46:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What's open, closed and what to do in Toronto on Canada Day",
-                "desc": "Toronto residents will have plenty of ways to mark Canada Day on Wednesday, including fireworks, outdoor activities and indoor ones too to help beat the intense heat.",
-                "image": "https://i.cbc.ca/ais/7dc692e8-57fa-47dc-82f2-58a7c349f627,1782862005753/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C108%2C4032%2C2268%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/toronto/canada-day-open-and-closed-9.7254873",
-                "source": "CBC",
-                "date": "2026-07-01T13:10:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carpenter Technology Announces Conference Call and Webcast",
-                "desc": "PHILADELPHIA, July 01, 2026 (GLOBE NEWSWIRE) -- Carpenter Technology Corporation (NYSE: CRS) plans to host a conference call and webcast on Thursday, July 30, 2026 at 10:00 a.m. ET to discuss the results of operations for the fourth quarter of fiscal year 2026, ended June 30, 2026. The call and webcast will follow the release of fourth quarter fiscal 2026 financial results before the market opens on Thursday, July 30, 2026.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/01/1121215.jpg",
-                "url": "https://www.manilatimes.net/2026/07/01/tmt-newswire/globenewswire/carpenter-technology-announces-conference-call-and-webcast/2376783",
-                "source": "The Manila Times",
-                "date": "2026-07-01T13:08:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria must link digital transformation to industrial growth",
-                "desc": "Stakeholders at the Public Sector Technology Dialogue have called for a fundamental shift in Nigeria's digital transformation strategy...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/24_VAST_Blog_IT-in-Digital-Transformation.jpg",
-                "url": "https://businessday.ng/news/article/nigeria-must-link-digital-transformation-to-industrial-growth/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-01T13:06:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Bank approves $70m for Punjab digital connectivity programme",
-                "desc": "Programme will also support investment in government computing infrastructure to strengthen institutional capacity",
-                "image": "https://i.tribune.com.pk/media/images/1190985-IT-1475175816/1190985-IT-1475175816-640x480.webp",
-                "url": "https://tribune.com.pk/story/2615921/world-bank-approves-70m-for-punjab-digital-connectivity-programme",
-                "source": "The Express Tribune",
-                "date": "2026-07-01T13:05:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blue Wolf Capital Names Vanessa Generelli Chief Financial Officer",
-                "desc": "Blue Wolf Capital Partners LLC (“Blue Wolf”), a middle market private equity firm specializing in the industrial and healthcare sectors, today announced that...",
-                "image": "https://www.businesswire.com/bw-logo.png",
-                "url": "https://www.businesswire.com/news/home/20260701884682/en/Blue-Wolf-Capital-Names-Vanessa-Generelli-Chief-Financial-Officer",
-                "source": "Business Wire",
-                "date": "2026-07-01T13:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Report: Meta plans cloud business to sell excess AI compute capacity",
-                "desc": "The planned service would let developers access Meta-hosted AI models and raw computing capacity, part of a push to recoup massive data center and chip spending, Bloomberg reports",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/21/ByKiwNHMfx/ByKiwNHMfx_0_61_1000_563_0_large.jpg",
-                "url": "https://www.ynetnews.com/business/article/bjpdy5mqzx",
-                "source": "Ynetnews",
-                "date": "2026-07-01T13:04:56Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Horror-movie cue inspires wearable that turns robot movements into warning music",
+                "desc": "In horror movies, music is a dead giveaway. Tension builds with each note, and you brace for the inevitable jump scare. The same sense of anticipation has taken a leading role in an unlikely venue: a Georgia Tech robotics ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/taking-a-cue-from-horr.jpg",
+                "url": "https://techxplore.com/news/2026-07-horror-movie-cue-wearable-robot.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-01T18:40:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Edifier Unveils the G5 MAX Wireless Gaming Headset",
+                "desc": "Edifier International, the award-winning audio electronics designer, announces the launch of its latest innovation the G5 MAX wireless gaming headset, redefining immersive gaming audio with professional-grade acoustic performance, ultra-low latency connectivity, and industry-leading battery life. De...",
+                "image": "https://www.techpowerup.com/img/eFDrbaZ8pgZFXeCu.jpg",
+                "url": "https://www.techpowerup.com/350450/edifier-unveils-the-g5-max-wireless-gaming-headset",
+                "source": "TechPowerUp",
+                "date": "2026-07-01T18:32:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This 10-year-old AMD CPU still crushes modern games at 1080p - and I paid a fraction of what a new one costs",
+                "desc": "All hail the Ryzen 5000 series.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/b550m-board-5600g-build.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/10-year-old-amd-cpu-crushes-modern-games-1080p-paid-fraction-new-costs/",
+                "source": "MakeUseOf",
+                "date": "2026-07-01T18:30:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Let’s Get Ready To Zumba",
+                "desc": "Getting ready for that summer break…",
+                "image": "https://www.greystonesguide.ie/wp-content/uploads/2026/01/Zumba-Fantasy-Colette-Burke-JUNE26-2-2.jpeg",
+                "url": "https://www.greystonesguide.ie/lets-get-ready-to-zumba-2026i/",
+                "source": "The Greystones Guide",
+                "date": "2026-07-01T18:30:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yui-Gi-Oh Tournament Postponed Because Players Were Too Smelly",
+                "desc": "A card shop in Oregon had to suspend an event for a week because of reports of poor hygiene",
+                "image": "https://kotaku.com/app/uploads/2024/04/a14200a7dbf0cc944b5d6a79129b4fbf-1200x675.jpg",
+                "url": "https://kotaku.com/yui-gi-oh-tournament-postponed-because-players-were-too-smelly-2000711992",
+                "source": "Kotaku",
+                "date": "2026-07-01T18:29:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Honeycomb's Wacky Flight Gamepad Is Coming to the Xbox",
+                "desc": "Time to fire the old girl up for some Microsoft Flight Simulator.",
+                "image": "https://sm.ign.com/t/ign_pk/news/h/honeycombs/honeycombs-wacky-flight-gamepad-is-coming-to-the-xbox_8tk6.1200.jpg",
+                "url": "https://pk.ign.com/news/257414/honeycombs-wacky-flight-gamepad-is-coming-to-the-xbox",
+                "source": "IGN Pakistan",
+                "date": "2026-07-01T18:28:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Filipino architect builds a legacy beyond borders",
+                "desc": "Every great structure begins with a vision and for Filipino architect Antonio Cabrera Dicipulo, that vision has never been limited to designing skylines—it",
+                "image": "https://cdn.filipinotimes.net/wp-content/uploads/2026/07/TFT-Featured-photo-template-15.png",
+                "url": "https://filipinotimes.net/latest-news/2026/07/01/filipino-architect-builds-a-legacy-beyond-borders/",
+                "source": "The Filipino Times",
+                "date": "2026-07-01T18:22:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Brings New Masking Tools to Final Cut Pro Amid Creator Studio Update",
+                "desc": "Apple updated its Creator Studio suite of apps, including major improvements to Final Cut Pro's masking tools.",
+                "image": "https://petapixel.com/assets/uploads/2026/07/Apple-Creator-Studio-hero.jpg",
+                "url": "https://petapixel.com/2026/07/01/apple-brings-new-masking-tools-to-final-cut-pro-amid-creator-studio-update/",
+                "source": "PetaPixel",
+                "date": "2026-07-01T18:21:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Researchers discover novel SRV2 envelope protein for efficient CAR immune cell production",
+                "desc": "A Korean research team has developed a new viral vector technology that significantly improves the production efficiency of next-generation cell and gene therapies known as CAR immune cell therapies, which are designed to recognize and destroy cancer cells.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/krict-discovers-novel.jpg",
+                "url": "https://phys.org/news/2026-07-srv2-envelope-protein-efficient-car.html",
+                "source": "Phys.org",
+                "date": "2026-07-01T18:20:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shuttle Presents the New XPC Barebone SB860R8 Mini PC",
+                "desc": "With the XPC Barebone SB860R8, Shuttle is launching the latest generation of its legendary 14-liter cube. Equipped with state-of-the-art technology for the cutting-edge Intel Core Ultra 200 desktop processors (\"Arrow Lake-S\"), up to 192 GB of DDR5 RAM and enormous storage capacities, the new flagshi...",
+                "image": "https://www.techpowerup.com/img/DEYriw2EWCuCPnTN.jpg",
+                "url": "https://www.techpowerup.com/350448/shuttle-presents-the-new-xpc-barebone-sb860r8-mini-pc",
+                "source": "TechPowerUp",
+                "date": "2026-07-01T18:14:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "I tried the Windows 11 registry trick that's supposed to fix laggy menus, and here's what actually changed",
                 "desc": "I tested the registry tweak everyone swears by and mostly just confirmed I have a fast computer already.",
@@ -1174,99 +1264,99 @@
                 "source": "Hackaday",
                 "date": "2026-07-01T15:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Scientists teach human cells to compute, pav",
-                "desc": "In a study published in Nature Communications, the researchers described a new system that enables cells to process biological signals simultaneously. Instead of reacting to just one sign of disease, the cells can check for a specific combination of signals before taking action.",
-                "image": "https://newvision-media.s3.amazonaws.com/cms/58cc5861-e876-4e19-b101-7f19bbdc5fd7.jpg",
-                "url": "https://www.newvision.co.ug/category/science/scientists-teach-human-cells-to-compute-pavin-NV_236420_072026",
-                "source": "NewVision.co.ug",
-                "date": "2026-07-01T15:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Takayanagi Kenjirō: Pioneering Engineer and “Japan’s Father of Television”",
-                "desc": "In 1926, the Japanese engineer Takayanagi Kenjirō built the world’s first electronic television receiver. Celebrated in Japan as the “father of television,” his foundational work enabled the modern, high-resolution displays we use today on our smartphones and other devices.",
-                "image": "https://www.nippon.com/en/ncommon/contents/japan-topics/3026655/3026655.jpg",
-                "url": "https://www.nippon.com/en/japan-topics/b07235/takayanagi-kenjiro-pioneering-engineer-and-japan%E2%80%99s-father-of-television.html",
-                "source": "nippon.com",
-                "date": "2026-07-01T15:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RF Online Next: Reasons to play this stunning new MMORPG",
-                "desc": "Even at first glance, it's not hard to see why RF Online Next is in a class of its own. And given that RF Online has been captivating millions of players across the globe since 2004, it comes as no surprise that Netmarble's new MMORPG is making waves now that ...",
-                "image": "https://media.pocketgamer.com/artwork/na-35880-1782911859/rf-online-next-key-art-mech-variation.jpg",
-                "url": "https://www.pocketgamer.com/rf-online-next/reasons-to-play/",
-                "source": "Pocket Gamer",
-                "date": "2026-07-01T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This new Android security setting spots bad networks and fake cell towers - enable it ASAP",
-                "desc": "Connecting to the wrong network can put your data at risk. Android can warn you, but only if you allow it.",
-                "image": "https://www.zdnet.com/a/img/resize/e9c2bc2b456193184204f4f732bdc51eef72c173/2026/07/01/8d7f8297-7f23-40ef-b9bb-b75004a76615/networknotifications.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/android-security-setting-spots-bad-networks-and-fake-cell-towers-how-to-enable/",
-                "source": "ZDNET",
-                "date": "2026-07-01T14:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mario Kart World gets two new Knockout Tour routes and a new Photo Mode feature in latest update",
-                "desc": "Thanks to this latest update, Mario Kart World now has more Knockout Tour races for everyone to play, and a fun new Photo Mode addition.",
-                "image": "https://assetsio.gnwcdn.com/mario-kart-world-goomba-driving-a-kart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/mario-kart-world-new-knockout-tour-routes-ver-1-7-0",
-                "source": "Eurogamer.net",
-                "date": "2026-07-01T14:57:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to get the most out of Google's AI Mode in Search",
-                "desc": "A practical guide to Google's AI Mode in Search — how it works, how to access it, and ways to use it better.",
-                "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/TC-Featured-Image-design-48.jpg",
-                "url": "https://techcabal.com/2026/07/01/google-ai-mode-in-search/",
-                "source": "TechCabal",
-                "date": "2026-07-01T14:57:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Level Up Your Darts! Darts VR2: Bullseye Adds New XP System",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/zh-TW/Level-Up-Your-Darts-Darts-VR2-Bullseye-Adds-New-XP-System",
-                "source": "Games Press",
-                "date": "2026-07-01T14:57:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What today's creators want aspiring creators to know",
-                "desc": "Take a behind-the-scenes look at the creator interviews and moments that defined Mashable's VidCon 2026 coverage.",
-                "image": "https://helios-i.mashable.com/imagery/videos/05WnHKuTciMo9y9rJqLMUMf/hero-image.fill.size_1200x675.v1782917722.png",
-                "url": "https://mashable.com/life/creator-advice-at-vidcon-interviews-mashable",
-                "source": "Mashable",
-                "date": "2026-07-01T14:55:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jabra Expands Evolve3 Range with Three New Headsets",
-                "desc": "Jabra Expands Evolve3 Range with Three New Headsets — All the latest news coverage of the AV industry from rAVe [PUBS]. From press releases to product announcements, get your news from rAVe [PUBS] first.",
-                "image": "https://ravepubs.com/wp-content/uploads/2026/07/Jabra-800x400.webp",
-                "url": "https://ravepubs.com/jabra-expands-evolve3-range-with-three-new-headsets/",
-                "source": "rAVe [PUBS]",
-                "date": "2026-07-01T14:55:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Creator Studio Updates Bring Pixelmator Pro Integration, Final Cut Pro AI Tools, And Logic Pro Enhancements",
-                "desc": "Apple has released updates to Apple Creator Studio, adding Pixelmator Pro integration across Final Cut Pro, Keynote, Pages, and Numbers, along with new AI tools in Final Cut Pro and minor updates in Logic Pro.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/01225000/applecreatorstudioupdatescover.jpg",
-                "url": "https://pokde.net/system/software/desktop-application/apple-creator-studio-updates",
-                "source": "Pokde.Net",
-                "date": "2026-07-01T14:53:21Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "England 2-1 DR Congo player ratings: Harry Kane and Anthony Gordon save the day as Djed Spence struggles at right-back",
+                "desc": "England had to come from behind to beat DR Congo in the last 32 of the 2026 World Cup; Harry Kane scored two late goals to earn a 2-1 win, and was assisted by Anthony Gordon; Djed Spence, Noni Madueke and Marcus Rashford all struggled in Atlanta",
+                "image": "https://e0.365dm.com/26/07/1600x900/skysports-harry-kane-england_7287510.jpg?20260701185634",
+                "url": "https://www.skysports.com/football/news/11095/13559562/england-2-1-dr-congo-player-ratings-harry-kane-and-anthony-gordon-save-the-day-as-djed-spence-struggles-at-right-back",
+                "source": "Sky Sports",
+                "date": "2026-07-01T18:38:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Hero moments’ - Harry Kane reacts after scoring twice to send England through at World Cup",
+                "desc": "Harry Kane hailed England’s determination after securing a comeback win over DR Congo to progress to the World Cup round of 16.Kane’s late second-half double secured a 2-1 victory for the Three Li...",
+                "image": "https://s.yimg.com/os/en/hayters_tv_491/1547b460abc654397a76e83aeddb8990",
+                "url": "https://sports.yahoo.com/articles/hero-moments-harry-kane-reacts-183500356.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-01T18:37:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
+                "desc": "England survive huge scare against DR Congo to win 2-1 and set up last 16 clash with cohosts Mexico.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a455400dab4-1782928384.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026",
+                "source": "Al Jazeera",
+                "date": "2026-07-01T18:31:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scientists Have Found Climate-Resistant Coral Reefs Around the World Totaling the Size of Wisconsin",
+                "desc": "There're about 64,000 square miles of coral reefs on Earth that could still be resisting climate change by 2050, an area the size of Wisconsin",
+                "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Coral-Reef-Public-Domain-via-Pixabay.jpg",
+                "url": "https://www.goodnewsnetwork.org/scientists-identify-climate-resistant-coral-reefs-around-the-world-totaling-the-size-of-wisconsin/",
+                "source": "Good News Network",
+                "date": "2026-07-01T18:30:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
+                "desc": "Trump's annual financial disclosure report for 2025, released by the US Office of Government Ethics, runs to 927 pages.",
+                "image": "https://cdn.radioafrica.digital/image/2026/07/bd32c2dc-9eea-4201-8382-0b6dd0bb5a58.jpg?1782947892007",
+                "url": "https://www.the-star.co.ke/news/world/2026-07-01-bibles-and-perfume-6-surprising-ways-trump-made-money-in-2025",
+                "source": "the-star.co.ke",
+                "date": "2026-07-01T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why this Vanuatu village worships a shape",
+                "desc": "On Vanuatu's Tanna Island, I immerse myself in a culture that worships a shape-shifting spirit known as John Frum.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/a48896b4e72b9b4888191705e7ebeafb?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-02/john-frum-tanna-island-race-around-the-world/106797702",
+                "source": "Australian Broadcasting Corporation",
+                "date": "2026-07-01T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Expansion of areas under Israeli control in Gaza endangers civilians & relief efforts, UN warns",
+                "desc": "The continued expansion of areas under Israeli control in Gaza since October’s ceasefire agreement is placing civilians at greater risk and severely constraining humanitarian operations, the UN and humanitarian partners warned on Wednesday.",
+                "image": "https://www.app.com.pk/wp-content/uploads/2026/07/Expansion-of-areas-under-Israeli-control-in-Gaza-endangers-civilians-relief-efforts-UN-warns.png",
+                "url": "https://www.app.com.pk/global/expansion-of-areas-under-israeli-control-in-gaza-endangers-civilians-relief-efforts-un-warns/",
+                "source": "| Associated Press Of Pakistan",
+                "date": "2026-07-01T18:29:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Albania warned EU accession at risk over Jared Kushner-backed resort plans",
+                "desc": "Proposed development of protected shorelines and wildlife zones violates EU environmental policy, says MEP",
+                "image": "https://i.guim.co.uk/img/media/5cc5c7c009c20423f48676ae00285ac5f89f8277/0_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e61b37bd2d0065cbf16b828f86b13f7c",
+                "url": "https://www.theguardian.com/world/2026/jul/01/albania-warned-eu-accession-at-risk-jared-kushner-resort-plans",
+                "source": "The Guardian",
+                "date": "2026-07-01T18:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukrainian charged in Germany over Nord Stream blasts",
+                "desc": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58d6/live/06d83860-756b-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo",
+                "source": "BBC",
+                "date": "2026-07-01T18:19:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kane scores twice in 11 minutes to lift England past Congo DR and into Round of 16",
+                "desc": "Harry Kane scored two second-half goals to help England rally for a 2-1 victory over Congo and a spot in the round of 16 at the World Cup on Wednesday.",
+                "image": "https://www.tsn.ca/resizer/v2/Y34ZOX32DDHGBHBQB6SK2PM3MU.jpg?smart=true&auth=e623c52b225e7b4d4619ce3c363c1444e0541da0c2973f8301ce9077e8e42e6b&width=1200&height=630",
+                "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/kane-scores-twice-in-11-minutes-to-lift-england-past-congo-dr-and-into-round-of-16/",
+                "source": "TSN",
+                "date": "2026-07-01T18:17:06Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "JD Vance just expressed frustration with Iran's Persian negotiating tactic. What is it anyway?",
                 "desc": "When the US vice president called out Tehran's style in the middle of ongoing peace talks, he stumbled on something diplomats have been trying to decode for decades.",
@@ -1806,98 +1896,8 @@
                 "source": "Breaking Defense",
                 "date": "2026-07-01T15:21:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Final heartbreaking moments of teen girl found dead in suitcase revealed",
-                "desc": "A heartbreaking video of Tunchanok Donhomla’s final moments with her parents has been released before an Australian man allegedly murdered her.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/132921189.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/01/world-news/final-heartbreaking-moments-of-teen-girl-found-dead-in-suitcase-revealed/",
-                "source": "New York Post",
-                "date": "2026-07-01T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘This is the dark art’: New book claims pattern of personal attacks by Murdoch media empire",
-                "desc": "In a book dedicated to ‘the bullied’, two former News Corp journalists outline a behaviour pattern they call ‘getting Murdoched’, which they say harms individuals and public debate",
-                "image": "https://i.guim.co.uk/img/media/83edbf9bcb6ef3f1287b2a7923e368377feb6574/383_0_2485_1989/master/2485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe64e2da1c03c2ac0c5e8328c1cdb6df",
-                "url": "https://www.theguardian.com/media/2026/jul/01/andrew-dodd-matthew-ricketson-getting-murdoch-book-bullying-factory",
-                "source": "The Guardian",
-                "date": "2026-07-01T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
-                "desc": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2Fcd%2F2c9fbeb84b2587570260c732ef75%2Fap26182241110755.jpg",
-                "url": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
-                "source": "NPR",
-                "date": "2026-07-01T14:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump says US 'getting along well' with Iran as both countries hold indirect talks in Qatar",
-                "desc": "A diplomat confirms that negotiations are underway, with the Iranian delegation led by Deputy Foreign Minister Kazem Gharibabadi.",
-                "image": "https://i.dawn.com/large/2026/07/0120015902a1dad.webp",
-                "url": "https://www.dawn.com/news/2012207",
-                "source": "Dawn",
-                "date": "2026-07-01T14:55:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firebomb attacks in northern Greek city injure 5, including one critically",
-                "desc": "Pre-dawn firebomb attacks in Greece have targeted members of the governing New Democracy party. Authorities say the three attacks early Wednesday in Thessaloniki used crude explosive devices.",
-                "image": "https://dims.apnews.com/dims4/default/d44c70a/2147483647/strip/true/crop/5435x3621+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2Fde%2F9cf85d37d2beb81745cde72c662e%2F050f2bec20584790ac96ca6240a28872",
-                "url": "https://apnews.com/article/greece-thessaloniki-firebomb-attacks-46ea5a2dbab53d0f270313dbe4a85787",
-                "source": "AP News",
-                "date": "2026-07-01T14:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelensky: Ukrainian President in Dublin for EU presidency event",
-                "desc": "The presidency will last until December 2026 and means that Ireland will have a number of responsibilities.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a3/live/28a23250-755e-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cj3g26jm56ko",
-                "source": "BBC",
-                "date": "2026-07-01T14:50:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dallas senior center celebrates woman turning 105",
-                "desc": "Kathryn Lacy Mitchell, a retired Dallas ISD educator, is still teaching at 105 and stays active at WellMed Senior Activity Center five days a week.",
-                "image": "https://media.nbcdfw.com/2026/07/poster-frame-1782917406068.png?resize=1200%2C675&quality=85&strip=all",
-                "url": "https://www.nbcdfw.com/news/local/dallas-senior-center-celebrates-woman-105/4043489/",
-                "source": "NBC 5 Dallas-Fort Worth",
-                "date": "2026-07-01T14:45:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“The Last Dig” calls for new approach to end galamsey menace",
-                "desc": "By Stanley Senya, GNA  Accra, July 1, GNA – Mr Yaw Amoyaw-Osei, Founder and Executive Chairman of the Centre for Environment and Health Research and Training (CEHRT), has…",
-                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
-                "url": "https://gna.org.gh/2026/07/the-last-dig-calls-for-new-approach-to-end-galamsey-menace/",
-                "source": "Ghana News Agency",
-                "date": "2026-07-01T14:40:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda Airlines included in $2.3bn transport budget",
-                "desc": "Uganda has budgeted UGX8.79 trillion shilling (USD2.3 billion) for the 2026/2025 financial year for transport infrastructure development. Air transport priority areas will...",
-                "image": "https://www.ch-aviation.com/images/stockPhotos/7013/406755f78d412173457112378b6dbc37734860a7.jpg",
-                "url": "https://www.ch-aviation.com/news/168931-uganda-airlines-included-in-23bn-transport-budget",
-                "source": "ch-aviation",
-                "date": "2026-07-01T14:38:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crop Over, Carnival, Yi Peng: The Best Destinations To Book In July",
-                "desc": "From Caribbean Carnival weekends to lantern festivals in Southeast Asia, here are the destinations travelers are booking in July.",
-                "image": "https://cms.travelnoire.com/wp-content/uploads/2026/06/Stone-Town-Zanzibar-1568x1044.jpg",
-                "url": "https://travelnoire.com/best-destinations-to-book-in-july",
-                "source": "Travel Noire",
-                "date": "2026-07-01T14:37:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T06:00:31.622304Z"
+    "lastGlobalSync": "2026-07-02T06:40:26.900401Z"
 }
