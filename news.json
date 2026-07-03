@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "California fruit farmers’ free nectarine giveaway shut down by authorities due to huge crowds",
+                "desc": "Reedley farmer Cesar Mora has been handing out free nectarines amid a legal battle over the ownership of the crop, but long lines led to the giveaway being temporarily shut down by authorities.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ea2e08c99aa7558f9ed9b64cf952f9bfdff2b631268d0f2c533746006462853e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fdf7090de2e57c3edab79808f616ceef3",
+                "url": "https://www.yahoo.com/news/us/articles/california-fruit-farmers-free-nectarine-183821043.html",
+                "source": "Yahoo",
+                "date": "2026-07-02T18:38:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump bought Apple, Nvidia, tech before tariff reversal fueled rebound",
+                "desc": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108111300-1741188979273-gettyimages-2203436327-markets595994_vdmnc6c8.jpeg?v=1741283609&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+                "source": "CNBC",
+                "date": "2026-07-02T18:37:05Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Different folks sought as one of Kinsale's best-known licensed premises hits the market",
+                "desc": "Potential for future residential development, with scope for six to 10 residential units.",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10280/5140074_13_org_106_20-_20Folk_20House.jpg",
+                "url": "https://www.irishexaminer.com/property/commercial/arid-41872332.html",
+                "source": "Irish Examiner",
+                "date": "2026-07-02T18:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
+                "desc": "One of Kalshi’s most prominent traders tells WIRED he’s swearing off Spotify-related markets until the issue is resolved.",
+                "image": "https://media.wired.com/photos/6a467843a501cf42d472ee3c/191:100/w_1280,c_limit/GettyImages-2277135438.jpg",
+                "url": "https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/",
+                "source": "WIRED",
+                "date": "2026-07-02T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon has deployed enough satellites to launch Leo service this year",
+                "desc": "Leo will compete with SpaceX's Starlink, which had a four-year start over Amazon and has more than 10,000 satellites in its constellation.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108137412-17458548552025-04-28t153756z_236737818_rc237eaqfmxw_rtrmadp_0_space-exploration-amazon.jpeg?v=1745854932&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html",
+                "source": "CNBC",
+                "date": "2026-07-02T18:28:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tech bulls lose conviction as key trading metric blows out to the widest since 2008",
+                "desc": "The pick-up in demand for puts aligns with slowing momentum in AI stocks that had been consistently rewarding speculators to the upside.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108329342-1782916358810-gettyimages-2284175544-mms14650_puxzm70w.jpeg?v=1782916402&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/02/tech-bulls-lose-conviction-as-key-trading-metric-blows-out-to-the-widest-since-2008.html",
+                "source": "CNBC",
+                "date": "2026-07-02T18:28:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "8 African countries on the EU's latest high-risk money laundering list",
+                "desc": "The European Union has maintained eight African countries on its latest list of high-risk third countries with strategic deficiencies in their anti-money laundering and counter-terrorism financing (AML/CFT) regimes. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/xrzktkpTURBXy81YmNkZmE2MmNkNDNmYWEwZTM0MTY0YjA4MWUzMDUyYi5qcGeSlQMABc0B9M0BGZMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/lifestyle/8-african-countries-on-the-eus-latest-high-risk-money-laundering-list/sfp4l9c",
+                "source": "Business Insider Africa",
+                "date": "2026-07-02T18:27:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "June Jobs Report Shows US Labor Market Making Slower but Steady Gains",
+                "desc": "Employers added fewer jobs in June than a month earlier but the unemployment rate ticked down, a decent showing for the U.S. economy.",
+                "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+                "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html",
+                "source": "The New York Times",
+                "date": "2026-07-02T18:23:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Transcorp Hotels graduates 16th cohort of Business Empowerment Programme for Women",
+                "desc": "Transcorp Hotels Plc, the hospitality subsidiary of Transnational Corporation Plc, has graduated the 16th cohort of its Business Empowerment Programme for Women (BEPW), strengthening its commitment to creating opportunities, empowering communities, and driving inclusive economic growth. The BEPW is one of Transcorp Hotels Plc’s flagship sustainability initiatives, reflecting the Company’s commitment to creating long-term social, […]",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/IMG-20260702-WA0001.jpg",
+                "url": "https://thesun.ng/transcorp-hotels-graduates-16th-cohort-of-business-empowerment-programme-for-women/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-02T18:23:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Naira Gains Against US Dollar, Weakens Versus Euro, British Pound",
+                "desc": "The naira strengthened against the US dollar across forex markets on Thursday ....",
+                "image": "https://dmarketforces.com/wp-content/uploads/2026/07/Naira-Gains-Against-US-Dollar-Weakens-Versus-Euro-British-Pound.jpg",
+                "url": "https://dmarketforces.com/naira-gains-against-us-dollar-weakens-versus-euro-british-pound/",
+                "source": "MarketForces Africa",
+                "date": "2026-07-02T18:22:45Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Flutter's $40bn fall: has the global gambling giant behind Paddy Power and Betfair lost its mojo?",
                 "desc": "Industry editor Bill Barber explores the reasons behind a worrying pattern",
                 "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/6fac463faac4-flutter-title-graphic.jpg",
@@ -542,99 +632,99 @@
                 "source": "BOE Report",
                 "date": "2026-07-02T15:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Exclusive: Amazon to permanently close Bristol sorting office and move hundreds of staff to huge new site near M49",
-                "desc": "The company has entered into consultation with employees",
-                "image": "https://i2-prod.bristolpost.co.uk/article7425430.ece/ALTERNATES/s1200d/2_HBBRI_050822-amazon-warehouse-bristol.jpg",
-                "url": "https://www.bristolpost.co.uk/news/jobs/exclusive-amazon-permanently-close-bristol-11041811",
-                "source": "Bristol Live",
-                "date": "2026-07-02T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OMERS streamlines leadership structure after investment chief departs",
-                "desc": "Pension plan expands roles of Michael Hill and Scott McIntosh and will not name a replacement for Ralph Berg",
-                "image": "https://www.theglobeandmail.com/resizer/v2/5IGIBA4GJNCYJO64VTPPKDB74Q.JPG?auth=9f06beb79d1c1c5662f6f5c24a0bc3215261daee9cce07a0cb3f2d836ee79320&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-omers-leadership-structure-chief-investment-officer-ralph-berg-departs/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-02T14:59:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tech worker couldn’t pay heating bills after €150k salary went unpaid for months",
-                "desc": "Company fails to appear to defend catalogue of missed payments that caused financial hardship and martial difficulties",
-                "image": "https://www.irishtimes.com/resizer/v2/WUALR5XGYBCI3EC26RUIKFDM2M.jpg?smart=true&auth=2c0e41fe32a0b386d27578fe0dfe9021f7825e0304a7a9e7b91b1cbae5a671be&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/work/2026/07/02/tech-worker-couldnt-pay-heating-bills-after-150k-salary-went-unpaid-for-months/",
-                "source": "The Irish Times",
-                "date": "2026-07-02T14:59:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria records 100m NIN subscribers, 60m BVN holders, says eTranzact MD",
-                "desc": "With over 100 million National Identity Numbers (NIN) and more than 60 million Bank Verification Numbers (BVN), Managing Director/Chief Executive Officer (CEO/MD) of eTranzact Plc, Mr. Niyi Toluwalope, has expressed the company's willingness to support Nigeria's economic growth through digital payment and technology solutions.",
-                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/02/NIMC-portal.jpg",
-                "url": "https://thesun.ng/nigeria-records-100m-nin-subscribers-60m-bvn-holders-says-etranzact-md/",
-                "source": "The Sun Nigeria",
-                "date": "2026-07-02T14:58:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Horrified Scots restaurant boss blasts punter caught taking a POO on CCTV outside his venue",
-                "desc": "A SCOTTISH restaurant owner has called out a group of punters caught on CCTV allegedly using the front entrance of his venue as a toilet.\nThe...",
-                "image": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2026/07/crop-16490331_8746a0.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-                "url": "https://www.thescottishsun.co.uk/news/16490271/scots-restaurant-boss-blasts-punter-pooing-outside-venue/",
-                "source": "The Scottish Sun",
-                "date": "2026-07-02T14:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Have you allowed language to turn food into a moral courtroom?",
-                "desc": "How we talk about food and eating matters significantly as it shapes our relationship with what we eat and influences our values and emotions",
-                "image": "https://www.rte.ie/images/00249c77-1600.jpg",
-                "url": "https://www.rte.ie/brainstorm/2026/0702/1581025-food-language-vocabulary-culture-guilt-rules/",
-                "source": "RTE.ie",
-                "date": "2026-07-02T14:49:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Group accused of £400 dine and dash at Worcester restaurant",
-                "desc": "The group left without paying after complaining the lobster tasted \"earthy\", the restaurant says.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/737d/live/7a75eb70-7622-11f1-9cba-11a4f8930054.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c4gy4eldkk5o",
-                "source": "BBC",
-                "date": "2026-07-02T14:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4th Of July Furniture Sales 2026",
-                "desc": "The best 4th of July furniture sales are live. We've rounded up the top deals on sofas, dining sets and patio upgrades from editor-approved brands.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a465fb2dabb6152a6d090f1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/07/02/4th-of-july-furniture-sales/",
-                "source": "Forbes",
-                "date": "2026-07-02T14:48:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KNDS: German-French tank manufacturer postpones IPO",
-                "desc": "The German government had been set to purchase a 40% stake in KNDS, but the prerequisite stock market flotation has been postponed. Meanwhile, a German drone start-up has raised $1 billion in fresh funding.",
-                "image": "https://static.dw.com/image/77686438_6.jpg",
-                "url": "https://www.dw.com/en/knds-german-french-tank-manufacturer-postpones-ipo/a-77804654",
-                "source": "DW.com",
-                "date": "2026-07-02T14:39:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "It's shameful Ghana has still not been able to address flood crisis - Akim Swedru MP",
-                "desc": "The Member of Parliament for Akim Swedru, Kennedy Nyarko Osei, has described Ghana 39;s continued struggle with annual flooding as shameful .",
-                "image": "https://cdn.modernghana.com/images/content/72202641056-8et2xkjwvq-kennedy-nyarko-osei.jpg",
-                "url": "https://www.modernghana.com/news/1507287/its-shameful-ghana-has-still-not-been-able-to.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-02T14:35:53Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Men should speed up slower to avoid 'hitting the wall' in marathons, new research suggests",
+                "desc": "Male runners may be twice as likely as female runners to suddenly slow down—known as \"hitting the wall\"—during a marathon, according to a study published in Scientific Reports. The authors suggest that men may be able to reduce this risk by starting races more slowly and speeding up throughout the race.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/male-runners.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-men-slower-wall-marathons.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-02T18:40:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Final Fantasy 7 Revelation store page lists multiple DLCs, including story expansion",
+                "desc": "Last month, we reported that Final Fantasy 7 Revelation, the final chapter of the acclaimed trilogy that is set to launch on Nintendo Switch 2 in 2027, could receive DLC after release. While the game is still a long way off, new evidence has surfaced suggesting that may indeed be the case. According to EpicDB, a third-party tool that tracks...",
+                "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-7-Revelation-DLC-story-expansion.jpg",
+                "url": "https://nintendoeverything.com/final-fantasy-7-revelation-store-page-lists-multiple-dlcs-including-story-expansion/",
+                "source": "Nintendo Everything",
+                "date": "2026-07-02T18:38:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gifts for the students gearing up for college",
+                "desc": "You can do better than a gift card.",
+                "image": "https://sm.mashable.com/t/mashable_sea/gift/g/gifts-for-/gifts-for-the-students-gearing-up-for-college_qrc9.1200.jpg",
+                "url": "https://sea.mashable.com/tech/51593/gifts-for-the-students-gearing-up-for-college",
+                "source": "Mashable SEA",
+                "date": "2026-07-02T18:38:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plex Launches 5-Year Plex Pass for $250 After Lifetime Option Jumped to $750",
+                "desc": "The popular media center Plex is introducing today a new 5-year Plex Pass membership priced at $249.99, which is what the Lifetime membership used to cost before a 200% price increase.",
+                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/07/Plex-Pass.jpg",
+                "url": "https://www.thurrott.com/music-videos/338282/plex-launches-5-year-plex-pass-for-250-after-lifetime-option-jumped-to-750",
+                "source": "Thurrott.com",
+                "date": "2026-07-02T18:32:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dell Delivers Dynamic Early 4th of July Tech Deals",
+                "desc": "No matter what you're shopping for, Dell has a PC that won't blow up your bank account. Check these holiday weekend deals.",
+                "image": "https://i.pcmag.com/imagery/articles/01ybr6BMHPPfO6xl1PY3xNg-5.fit_lim.size_1200x630.v1783016746.png",
+                "url": "https://www.pcmag.com/deals/best-dell-laptop-desktop-deals-early-july-4th-2026-sale",
+                "source": "PCMag",
+                "date": "2026-07-02T18:32:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Hacks Every Amazfit User Should Know",
+                "desc": "Whether you're rocking the entry-level Bip 6 or a more feature-loaded option like the Balance 3, these Amazfit-specific hacks are what you need to level up your watch.",
+                "image": "https://lifehacker.com/imagery/articles/01KWFP7WH4GHATAKXJ1YSKV1Q3/hero-image.fill.size_1200x675.jpg",
+                "url": "https://lifehacker.com/health/hacks-every-amazfit-user-should-know",
+                "source": "Lifehacker",
+                "date": "2026-07-02T18:31:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
+                "desc": "One of Kalshi’s most prominent traders tells WIRED he’s swearing off Spotify-related markets until the issue is resolved.",
+                "image": "https://media.wired.com/photos/6a467843a501cf42d472ee3c/191:100/w_1280,c_limit/GettyImages-2277135438.jpg",
+                "url": "https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/",
+                "source": "WIRED",
+                "date": "2026-07-02T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lunchbreak Tactics, a quirky deckbuilder inspired by convenience stores, is now available on Mac",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/04/270959-8b0e818f/Logo_Lunchbreak_v3.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=e1b0a9b7d3673a89cd9f1ac81ce8bb808950f2b9ea6b5184235779b8e585a0ed",
+                "url": "https://www.gamespress.com/Quirky-7-Eleven-Themed-Deckbuilder-Lunchbreak-Tactics-out-now-on-Mac",
+                "source": "Games Press",
+                "date": "2026-07-02T18:22:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lunchbreak Tactics, a quirky deckbuilder inspired by convenience stores, is now available on Mac",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/04/270959-8b0e818f/Logo_Lunchbreak_v3.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=e1b0a9b7d3673a89cd9f1ac81ce8bb808950f2b9ea6b5184235779b8e585a0ed",
+                "url": "https://www.gamespress.com/en-GB/Quirky-7-Eleven-Themed-Deckbuilder-Lunchbreak-Tactics-out-now-on-Mac",
+                "source": "Games Press",
+                "date": "2026-07-02T18:22:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy Glasses emerge in new leaked video",
+                "desc": "Samsung's first Android XR smart glasses are expected to launch later this month. We’ve already seen leaked renders and additional details about Samsung’s...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-glasses-video-leak/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/samsung_galaxy_glasses_emerge_in_new_leaked_video-news-73545.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-02T18:21:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "BMW Tests the M3 Touring Roofbox By Mounting It to a Race Car",
                 "desc": "You may have noticed a few days ago that BMW M slapped a roof box on an M3 Touring 24H race car and drove it through the streets of Belgium, before its race at the 24 Hours of Spa. While BMW didn’t actually race with the box on the roof, as that seems like an aerodynamic nightmare, it did show off just how cool it looks to mount one to an M3 Touring. Okay, so […]",
@@ -1174,99 +1264,99 @@
                 "source": "Business Daily",
                 "date": "2026-07-02T14:57:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bentley unveils new styling package for Continental Supersports",
-                "desc": "It has the first cross-body paint fade offered on a production Bentley",
-                "image": "https://www.businessday.co.za/resizer/v2/25O2SLKPL5AHXHXAZZTNN63A74.jpg?smart=true&auth=4116b3d82aa6576cebfd209e4ee3caee80efe70e3642a5fc646d7fb7a7095ad5&width=1200&height=630",
-                "url": "https://www.businessday.co.za/motoring/2026-07-02-bentley-unveils-new-styling-package-for-continental-supersports/",
-                "source": "Business Day",
-                "date": "2026-07-02T14:57:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lost Ember: Wolf Pack Edition is now available for PlayStation 5 and Xbox Series",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/zh-CN/Lost-Ember-Wolf-Pack-Edition-is-now-available-for-PlayStation-5-and-Xb",
-                "source": "Games Press",
-                "date": "2026-07-02T14:52:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is yet another Microsoft studio, Obsidian, negotiating with Xbox to avoid closure? Conflicting reports emerge",
-                "desc": "There's \"a real sense amongst some teams that they're being punished for the poor performance of Call of Duty\".",
-                "image": "https://assetsio.gnwcdn.com/obsidian_qlw3ZsP.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/is-yet-another-microsoft-studio-obsidian-negotiating-with-xbox-to-avoid-closure-conflicting-reports-emerge",
-                "source": "Eurogamer.net",
-                "date": "2026-07-02T14:51:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Tests Gemini AI That Lets Electric Cars See the Road",
-                "desc": "Google Gemini AI lets the Volvo EX60 read road signs and identify landmarks via its camera - triggered by a question, cut when answered.",
-                "image": "https://s.yimg.com/lo/mysterio/api/6064f7069d58406f49d3a8b5f107e62ff28dc1dab780025803bc1b1a5c57281b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F3a0858e5eda5f65714dc343568ba982c",
-                "url": "https://autos.yahoo.com/ev-and-future-tech/articles/google-tests-gemini-ai-lets-145022431.html",
-                "source": "Yahoo Autos",
-                "date": "2026-07-02T14:50:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft said exploitation was 'less likely' ... but CISA just added SharePoint RCE to KEV list",
-                "desc": "Attackers need little more than a valid SharePoint account to execute code on vulnerable on-prem servers",
-                "image": "https://image.theregister.com/248405.jpg?imageId=248405&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/security/2026/07/02/microsoft-said-exploitation-was-less-likely-but-cisa-just-added-sharepoint-rce-to-kev-list/5265886",
-                "source": "The Register",
-                "date": "2026-07-02T14:40:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Price, specs and verdict in 2026",
-                "desc": "The Infinix Note 50 now sells for far less than its launch price. See its full specs, current prices, how it compares to the Note 60",
-                "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/01/Infinix-Note-50.jpg",
-                "url": "https://techcabal.com/2026/07/02/infinix-note-50/",
-                "source": "TechCabal",
-                "date": "2026-07-02T14:37:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android 17 QPR1 Beta 6 hints that Pixel's App Lock isn't dead yet",
-                "desc": "Code strings in Android 17 QPR1 Beta 6 reveal Google is upgrading its upcoming App Lock feature for Pixels with bulk app management and more.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/android-15-pixel-private-space-double-instances-amazon-uber-chatgpt.jpg",
-                "url": "https://www.androidauthority.com/android-17-qpr1-beta-6-app-lock-apk-teardown-3683741/",
-                "source": "Android Authority",
-                "date": "2026-07-02T14:35:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DaVinci Resolve 21.0.2 Update Adds Faster Image Bypass Switching, Improved H.265 Playback, and More",
-                "desc": "The latest DaVinci Resolve update (21.0.2) is here and adds faster image bypass switching, improved H.265 playback performance on NVIDIA GPUs, and other improvements and fixes.",
-                "image": "https://nofilmschool.com/media-library/image.jpg?id=67086193&width=1200&height=600&coordinates=0%2C45%2C0%2C45",
-                "url": "https://nofilmschool.com/davinci-resolve-update-21-0-2",
-                "source": "No Film School",
-                "date": "2026-07-02T14:34:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Journalist Claims Xbox Is 'Keeping' Obsidian Following Rumours Of Potential Closure",
-                "desc": "Update: Not as bad as first feared - Sorry to be the bearer of bad news again, but a new report from The Game Business says that Obsidian is amongst the stud...",
-                "image": "https://images.purexbox.com/04ac3d89c8604/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/07/journalist-claims-xbox-is-keeping-obsidian-following-rumours-of-potential-closure",
-                "source": "Pure Xbox",
-                "date": "2026-07-02T14:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX Showed Investors an AI Device. Musk Says That's False.",
-                "desc": "SpaceX AI device rumors clash with Musk's flat denial as the race to control the AI hardware layer intensifies across the tech industry.",
-                "image": "https://www.gadgetreview.com/wp-content/uploads/ee84130b-9413-4e4d-8a65-7f1aaab2f640.jpg",
-                "url": "https://www.gadgetreview.com/spacex-showed-investors-an-ai-device-musk-says-thats-false",
-                "source": "Gadget Review",
-                "date": "2026-07-02T14:30:41Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "The condition that causes people to get lost in their own home",
+                "desc": "The condition is more than merely being bad with directions.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--BP6dds9B--/t_tohu-badge-facebook/f_auto/q_auto/4JM6LQV_196258476_l_jpg",
+                "url": "https://www.rnz.co.nz/life/wellbeing/the-condition-that-causes-people-to-get-lost-in-their-own-home",
+                "source": "RNZ",
+                "date": "2026-07-02T18:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Is Behind Claims of RSF Training Camps in Libya?",
+                "desc": "Talk of ties between Libya's \"National Army,\" led by Field Marshal Khalifa Haftar, and Sudan's Rapid Support Forces (RSF) has resurfaced following fresh allegations that RSF fighters are being trained at camps inside Libya. The army's General Command rejected the allegations, describing them as \"part of a campaign aimed at tarnishing its image.\" A senior Libyan military source on Thursday also denied foreign media reports of RSF training camps in Libya, telling Asharq Al-Awsat that the claims were \"baseless.\"",
+                "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-07/1640627_0.jpeg.webp",
+                "url": "https://english.aawsat.com/arab-world/5291416-what-behind-claims-rsf-training-camps-libya",
+                "source": "Asharq Al-Awsat English",
+                "date": "2026-07-02T18:32:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man who tried to save girlfriend in gator mauling speaks out",
+                "desc": "The heartbroken man unable to save his girlfriend from a horrific alligator attack in Florida is preparing to honour her memory. Read more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/brittany_chance-e1783013854444.jpg",
+                "url": "https://torontosun.com/news/world/man-tried-save-girlfriend-fatal-alligator-mauling-speaks-out",
+                "source": "Toronto Sun",
+                "date": "2026-07-02T18:31:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Society of St. Pius X excommunicated by Pope Leo over schism : NPR",
+                "desc": "The Society of St. Pius X was excommunicated by Pope Leo for ordaining bishops without his permission. Its issues with the church run far deeper.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+18/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F06%2Fc627560b44c99bd5e624eff4d1ae%2Fap.jpg",
+                "url": "https://www.npr.org/2026/07/02/g-s1-131791/what-to-know-about-the-society-of-st-pius-x-the-schismatic-group-excommunicated-by-the-pope",
+                "source": "NPR",
+                "date": "2026-07-02T18:26:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minister Kiryowa Kiwanuka Holds Bilateral Talks with Diplomatic and Military Partners",
+                "desc": "The Minister of Defence and Veteran Affairs, Hon. Kiryowa Kiwanuka, has held a series of bilateral meetings with Ambassadors, High Commissioners, and Defence Attachés accredited to Uganda. The engagements focused on strengthening defence cooperation, enhancing regional security collaboration, and expanding partnerships in military health, rehabilitation, and capacity building. The meetings, held at the Ministry Headquarters …",
+                "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/UK.jpeg",
+                "url": "https://chimpreports.com/minister-kiryowa-kiwanuka-holds-bilateral-talks-with-diplomatic-and-military-partners/",
+                "source": "ChimpReports",
+                "date": "2026-07-02T18:23:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Immigrant entrepreneurs showcase small businesses at Tel Aviv’s Shuk Olim",
+                "desc": "“Every single booth has an oleh with a story, and they're selling their products from the small business that they opened here in Israel after their aliyah,” said Devon Conway of Nefesh B'Nefesh.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728092",
+                "url": "https://www.jpost.com/israel-news/culture/article-901257",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-02T18:18:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
+                "desc": "Attention has turned to the humanitarian response after at least 2,295 people are confirmed dead, and 13,000 homeless.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a4699cead1a-1783011790.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes",
+                "source": "Al Jazeera",
+                "date": "2026-07-02T18:13:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN spokesperson: Ukrainians should not live expecting the next attack - VIDEO",
+                "desc": "During the UN daily briefing, spokesperson Stéphane Dujarric relayed comments from the UN's Humanitarian Coordinator in Ukraine, Matthias Schma...",
+                "image": "https://news.az/photos/2026/07/screenshot-2026-07-02-215525-1783014936.png",
+                "url": "https://news.az/news/un-spokesperson-ukrainians-should-not-live-expecting-the-next-attack-video",
+                "source": "Latest news from Azerbaijan",
+                "date": "2026-07-02T18:10:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK to require asylum seekers to repay accommodation costs",
+                "desc": "The UK government has announced plans to require asylum seekers who are financially able to repay the cost of their accommodation and...",
+                "image": "https://tribuneonlineng.com/wp-content/uploads/2025/11/asylum-seekers.jpg",
+                "url": "https://tribuneonlineng.com/uk-to-require-asylum-seekers-to-repay-accommodation-costs/",
+                "source": "Tribune Online",
+                "date": "2026-07-02T18:07:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Starmer says pubs to stay open till early hours for England's game against Mexico",
+                "desc": "There had been growing calls to give the people what they want and in this case Starmer has delivered.",
+                "image": "https://img2.thejournal.ie/article/7089140/river/?height=400&version=7089207",
+                "url": "https://www.thejournal.ie/english-pubs-stay-open-mexico-game-world-cup-7089140-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-02T18:07:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Syria open to meeting Hezbollah 'if interests require it', says Syrian FM",
                 "desc": "Visit comes as Damascus insists against military intervention in Lebanon",
@@ -1806,98 +1896,8 @@
                 "source": "GBC Ghana Online",
                 "date": "2026-07-02T14:55:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The rhythms that broke Bashir: how Sudan’s music shaped a revolution",
-                "desc": "Music created the networks, identities and spaces of trust that made collective political action possible in Sudan’s 2019 revolution.",
-                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
-                "url": "https://www.modernghana.com/news/1507282/the-rhythms-that-broke-bashir-how-sudans-music.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-02T14:50:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Details of petition seeking digital tracking of police firearms",
-                "desc": "Proposal calls for biometric armories, real-time monitoring and instant alerts",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/09cd9b89-75cb-455e-87da-31e1bab00a33.webp?1783016547369",
-                "url": "https://www.the-star.co.ke/news/2026-07-02-details-of-petition-seeking-digital-tracking-of-police-firearms",
-                "source": "the-star.co.ke",
-                "date": "2026-07-02T14:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
-                "desc": "Moscow can still inflict serious damage, but its forces are suffering higher casualties than their Ukrainian counterparts, analysts say.",
-                "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02ukraine-battlefield-htqp/02ukraine-battlefield-htqp-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
-                "source": "The New York Times",
-                "date": "2026-07-02T14:49:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seaweeds are not plants - and six other surprising facts about aquatic flora",
-                "desc": "The rules for plants can be different in water.",
-                "image": "https://images.theconversation.com/files/743890/original/file-20260624-71-fb4pxh.jpg?ixlib=rb-4.1.0&rect=0%2C148%2C3539%2C1769&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/seaweeds-are-not-plants-and-six-other-surprising-facts-about-aquatic-flora-284612",
-                "source": "The Conversation",
-                "date": "2026-07-02T14:47:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tax cuts, pension overhaul and sick leave reforms: Germany launches sweeping economic overhaul",
-                "desc": "International Business News: German Chancellor Friedrich Merz and his coalition government on Thursday presented a wide-ranging reform package aimed at reviving Germany’s sluggish.",
-                "image": "https://static.toiimg.com/thumb/msid-132140980,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/business/international-business/tax-cuts-pension-overhaul-and-sick-leave-reforms-germany-launches-sweeping-economic-overhaul/articleshow/132140980.cms",
-                "source": "The Times of India",
-                "date": "2026-07-02T14:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mayor Mamdani Asks New Yorkers to Set AC at 78 Degrees",
-                "desc": "The heat is on, even when the AC is on ... at least that's the way NYC Mayor Zohran Mamdani wants it.",
-                "image": "https://imagez.tmz.com/image/3b/16by9/2026/07/02/3bdefc535b9e46d097936cbe384f754c_xl.jpg",
-                "url": "https://www.tmz.com/2026/07/02/zohran-mamdani-asks-new-york-residents-to-set-air-conditioners-higher/",
-                "source": "TMZ",
-                "date": "2026-07-02T14:38:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How people, nature, and connectivity could make Angola Africa’s next travel hotspot",
-                "desc": "Angola's evolution as a tourist destination must centre on local communities, human capital, air connectivity, nature conservation, and authenticity, rather than isolated resorts, according to experts at the Global Tourism Forum Angola.",
-                "image": "https://traveltomorrow.com/wp-content/uploads/2026/07/beyondresorts-panel.jpg#180037",
-                "url": "https://traveltomorrow.com/how-people-nature-and-connectivity-could-make-angola-africas-next-travel-hotspot/",
-                "source": "Travel Tomorrow",
-                "date": "2026-07-02T14:37:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pak uses cement to conserve Vedic-era Taxila, gets Unesco delisting warning",
-                "desc": "Pakistan news: The city of Taxila in Pakistan, which traces its origin to the Vedic period, has become the centre of an international heritage controversy. Unesco has cautioned Islamabad that restoration work at the site could compromise its authenticity and place it on the World Heritage danger list.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/the-dharmarajika-stupa-or-the-great-stupa-of-taxila--was-built-over-the-relics-of-the-buddha-by-asho-02365865-16x9_0.jpeg?VersionId=j_ojFDCXeE5pX7NYoE5pVGPk4N5yvqY4",
-                "url": "https://www.indiatoday.in/world/story/pakistan-unesco-warning-taxila-vedic-period-historic-site-reconstruction-mauryan-stupa-2939234-2026-07-02",
-                "source": "India Today",
-                "date": "2026-07-02T14:36:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Almost 1.2 million apply for Spain's migrant regularisation scheme, official figures show",
-                "desc": "Prime Minister Pedro Sánchez has touted the benefits of immigration and the vast regularisation scheme for sectors such as construction that need to boost their workforce.",
-                "image": "https://images.euronews.com/articles/stories/09/82/30/18/1200x675_cmsv2_e5d449fa-ca36-537e-90ae-d1d53cf62675-9823018.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/02/almost-12-million-apply-for-spains-migrant-regularisation-scheme-official-figures-show",
-                "source": "Euronews.com",
-                "date": "2026-07-02T14:35:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. Bill Aims to Make AI and Crypto Miners Pay for Grid Upgrades",
-                "desc": "Congress just told Big Tech to pay its own electricity bill. The Ratepayer Protection Act, a bipartisan federal bill introduced on June 18, 2026, would require",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/u-s-bill-aims-to-make-ai-and-crypto-miners-pay-for-grid-upgrades",
-                "source": "KuCoin",
-                "date": "2026-07-02T14:34:26Z",
-                "priority": "MAJOR_ALERT"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T06:00:58.323665Z"
+    "lastGlobalSync": "2026-07-03T06:41:00.951823Z"
 }
