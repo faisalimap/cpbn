@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "SA is loving ‘the Beeb’: BBC viewership up 50% on DStv",
+                "desc": "How BBC turned DStv's channel cull into a viewership windfall",
+                "image": "https://www.businessday.co.za/resizer/v2/NHH7RTUSCJDVJAUM7O5FPGNVRI.JPG?smart=true&auth=99cbdf33d1524ae3e11baf9db12e2047a3cb064e02599252d955a90edff8cd66&width=1200&height=630",
+                "url": "https://www.businessday.co.za/companies/2026-07-03-bbc-says-dstv-channel-cuts-have-lifted-its-sa-viewership/",
+                "source": "Business Day",
+                "date": "2026-07-03T03:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Billionaire Johann Rupert's quiet land reform effort has given 24,000 South Africans title deeds to their homes",
+                "desc": "Johann Rupert has been funding the Khaya Lam land reform programme, enabling over 24,000 South Africans to obtain legal ownership of their homes. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/DpaktkpTURBXy81NmYwYjVmN2YyZDM4ZGY5ZWUyZDJmOTM3YmIzM2MyZi5wbmeSlQMAJc0Fsc0DM5MFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/billionaire-johann-ruperts-quiet-land-reform-effort-has-given-24000-south-africans/fc9yhzs",
+                "source": "Business Insider Africa",
+                "date": "2026-07-03T03:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Eastern Cape’s most important business city just got the hotel infrastructure to match",
+                "desc": "Gqeberha has long had the economic weight without the business travel infrastructure to support it. The Capital Boardwalk with its conferencing facilities, long-stay apartments, and extended-stay rates finally closes that gap.",
+                "image": "https://cdn.dailymaverick.co.za/i/lQSONxoKqZZ5IpPvNEBj3GL0CgI=/800x0/smart/filters:strip_exif()/file/attachments/2994/TheCapitalBoardwalkExterior14_784850_548416.jpg",
+                "url": "https://www.dailymaverick.co.za/article/2026-07-02-the-eastern-capes-most-important-business-city-just-got-the-hotel-infrastructure-to-match/",
+                "source": "Daily Maverick",
+                "date": "2026-07-03T02:59:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trade setup for July 3: Can NIFTY50 give sustained close above 24,250 on Friday?",
+                "desc": "The benchmark indices are expected to maintain their winning streak on Friday. The open interest data for the coming weekly expiry suggests the range of 24,000 to 24,500, indicating a possibility of a breakout above 24,250.",
+                "image": "https://assets.upstox.com/content/assets/images/news/trade-setup-friday.webp",
+                "url": "https://upstox.com/news/market-news/trading/trade-setup-for-july-3-can-nifty-50-give-sustained-close-above-24-250-on-friday/article-196320/",
+                "source": "Upstox",
+                "date": "2026-07-03T02:58:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Westpac economist says households may be better off than a year ago",
+                "desc": "Afre you feeling richer than you were a year ago?",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--EavfZDT_--/t_tohu-badge-facebook/f_auto/q_auto/4JRM62R_bhfvdjshknals_png",
+                "url": "https://www.rnz.co.nz/news/personal-finance/660525/westpac-economist-says-households-may-be-better-off-than-a-year-ago",
+                "source": "RNZ",
+                "date": "2026-07-03T02:56:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India asks Meta to put off WhatsApp username rollout",
+                "desc": "Voices concern that the change can make it easier for fraudsters to target victims.",
+                "image": "https://i.dawn.com/large/2026/07/03083753cfbece0.webp",
+                "url": "https://www.dawn.com/news/2012632",
+                "source": "Dawn",
+                "date": "2026-07-03T02:55:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Best International Fried Chicken Day 2026 deals to savour in Singapore",
+                "desc": "International Fried Chicken Day is happening on 6 July 2026. Here are the 5 best crunchy promotions that are worth your calories.",
+                "image": "https://confirmgood.com/wp-content/uploads/2026/07/fried-chicken-coverpage.jpg",
+                "url": "https://confirmgood.com/post/international-fried-chicken-day-2026/",
+                "source": "Confirm Good",
+                "date": "2026-07-03T02:54:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside Japan’s $25 billion consumer market built on fan devotion",
+                "desc": "From collecting Hello Kitty goods to manga figurines, what was once considered a niche hobby has evolved into a fan-merchandising economy estimated to be worth ¥4.1 trillion.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/03/549619.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/03/oshikatsu-consumer-economy/",
+                "source": "The Japan Times",
+                "date": "2026-07-03T02:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Bank of Baroda paid ₹5,700 crore to settle NMC Health dispute in Abu Dhabi: Explained",
+                "desc": "Bank of Baroda paid ₹5,700 crore to settle a major legal dispute related to the collapse of NMC Health in Abu Dhabi.",
+                "image": "https://th-i.thgim.com/public/incoming/qngwr4/article71177197.ece/alternates/LANDSCAPE_1200/2026-06-22T085510Z_271112641_RC2YM1A207WS_RTRMADP_3_INDIA-DEBT-BONDS-EXTERNAL-BORROWING.JPG",
+                "url": "https://www.thehindu.com/business/Industry/why-bank-of-baroda-paid-5700-crore-to-settle-nmc-health-dispute-in-abu-dhabi-explained/article71177120.ece",
+                "source": "The Hindu",
+                "date": "2026-07-03T02:50:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks to watch, July 3: Paytm, BPCL, Coal India, Adani Enterprises, J&K Bank, Ramco Systems, PNB, D-Mart",
+                "desc": "The Jammu & Kashmir Bank has signed a corporate agency agreement with HDFC Life Insurance Company and SBI Life Insurance Company for servicing and soliciting their insurance products through its bank branch network. The deal will be effective from July 2.",
+                "image": "https://assets.upstox.com/content/assets/images/news/stock-to-watch-july-3-2026.webp",
+                "url": "https://upstox.com/news/market-news/stocks/stocks-to-watch-july-3-2026-paytm-bpcl-coal-india-adani-enterprises-j-and-k-bank-ramco-systems-pnb-d-mart/article-196319/",
+                "source": "Upstox",
+                "date": "2026-07-03T02:50:26Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "UBA championing sustainability through pan",
                 "desc": "United Bank for Africa (UBA) Plc recently reinforced its commitment to environmental sustainability by mobilising thousands of employees across 20 African countries for a coordinated clean-up exercise, transforming its flagship \"Jogging to Bond\" wellness initiative into a pan-African campaign for community service and environmental stewardship. The event, which also coincided with the 60th birthday of the bank's group managing director/chief executive officer, Oliver Alawuba, saw the milestone marked not with fanfare, but alongside employees in a celebration of teamwork, wellness and shared responsibility for cleaner communities.",
                 "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/UBA.jpg",
@@ -542,99 +632,81 @@
                 "source": "Gibson Dunn",
                 "date": "2026-07-02T23:37:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Thousands of Victorian drivers to receive refunds after Linkt toll road overcharge",
-                "desc": "Toll company Linkt says up to 90,000 motorists may have been over or undercharged after driving on CityLink or the West Gate Tunnel.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/a86e07c2a716723c9c7784e893570126?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-03/linkt-wrong-charges-refund-motorists/106874556",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-02T23:34:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Has New AI Chips for Home Tech Devices and Future Mobile Gadgets",
-                "desc": "Amazon's head of devices and services discussed the company's focus on artificial intelligence, Alexa Plus and new types of technology to support it.",
-                "image": "https://www.cnet.com/a/img/resize/cef9d1ee9538586761d38812e4c08fef2ce2e78f/hub/2025/11/18/d6d84de4-8e3e-4014-93c7-a305e2894e2c/echo-show-11-counter.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/home/smart-home/amazon-reveals-silicon-chip-design-plans-alexa-plus-on-the-go-devices/",
-                "source": "cnet.com",
-                "date": "2026-07-02T23:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Women Farmers Cut $10bn Food Losses With Renewable Energy",
-                "desc": "Nigerian women farmers are adopting solar energy to reduce an estimated $10bn in food losses, transforming agriculture and post-harvest practices. Learn ho",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/women-farmers_1783033382-1200x630.webp",
-                "url": "https://punchng.com/women-farmers-cut-10bn-food-losses-with-renewable-energy/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-02T23:26:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why the Dow Jones rose 600 points on Thursday but the Nasdaq 100 declined sharply",
-                "desc": "The Dow Jones gained over 600 points to close at another record high, just shy of the mark of 53,000. The S&P 500 recovered from the day's low to end at the flat line, while the Nasdaq composite declined 0.8%. The Nasdaq 100 index, which includes multiple chipmakers, underperformed to end with losses of 1.6% on Thursday.",
-                "image": "https://images.cnbctv18.com/uploads/2026/07/modified-infographic-img-0-2026-07-02t23-19-43547285-2026-07-abd83273bb762d55cbf0a249d87d5c75.jpeg?im=FitAndFill,width=1200,height=675",
-                "url": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-us-market-why-dow-rose-but-nasdaq-fell-chip-jobs-holiday-19937714.htm",
-                "source": "CNBC TV18",
-                "date": "2026-07-02T23:24:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Farm succession: Why older farmers are delaying retirement",
-                "desc": "By Kim Savage of RNZ At a Totara Valley farm in South Canterbury, the winter kale crops blow in the cold wind, but instead of being out moving fence breaks,...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/Y2TIJAMBFFBKZOWSZTLM2KVWA4.jpg?auth=13f538c15856dc721dd74e8d554f008a8f63852f6b584b71cbcebe95a57e8023&width=1200&height=675&quality=70&focal=404%2C75&smart=false",
-                "url": "https://www.nzherald.co.nz/the-country/news/farm-succession-why-older-farmers-are-delaying-retirement/77NTIZCPSVGJJAYIFFTNL5I3RI/",
-                "source": "NZ Herald",
-                "date": "2026-07-02T23:19:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African Startup Funding Rebounds to $3.9bn in 2025",
-                "desc": "African startup funding saw a significant rebound in 2025, reaching $3.9bn across 506 deals. Discover how venture debt and diversified investments are driv",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/1-2_1783029403-1200x630.webp",
-                "url": "https://punchng.com/african-startups-raise-3-9bn-as-funding-rebounds-report/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-02T23:19:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Coles Christmas in July: Supermarket shock as seasonal items arrive five months early including fruit mince pies, and more",
-                "desc": "What Coles has on offer, and the risk this poses for sales later in the year.",
-                "image": "https://static.ffx.io/images/$zoom_1.035%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_176/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/d34768118afb36a82907611689b6660b9b86ad36fc2b1688607e877c5181eebf",
-                "url": "https://www.nine.com.au/lifestyle/money/holiday-foods-early-release-supermarkets-christmas-mince-pies-coles-seasonal-food-20260702-p60bw9.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-02T23:15:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New legal right to speak to a human for finance consumers",
-                "desc": "New rules to be signed into law today will give consumers the legal right to speak to a person instead of an AI chatbot when buying financial products or services either online or over the phone.",
-                "image": "https://www.rte.ie/images/0024a104-1600.jpg",
-                "url": "https://www.rte.ie/news/2026/0703/1581517-finance-chatbots/",
-                "source": "RTE.ie",
-                "date": "2026-07-02T23:00:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US multinationals expect Irish employment rise next year",
-                "desc": "A survey of members of the American Chamber of Commerce Ireland has found that 90% of respondents plan to increase or maintain employment numbers in Ireland over the next year.",
-                "image": "https://www.rte.ie/images/00226c63-1600.jpg",
-                "url": "https://www.rte.ie/news/2026/0703/1581502-us-multinationals-employment/",
-                "source": "RTE.ie",
-                "date": "2026-07-02T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More than 106K Albertans sign up for $100 affordability rebates as applications open",
-                "desc": "Albertans have until Sept. 30 to sign up to receive the provincial government's $100 affordability relief cheques. People with household incomes of $225,000 or less are eligible.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/smith-1_1.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11950926/thousands-of-albertans-sign-up-affordability-rebates-100/",
-                "source": "Global News",
-                "date": "2026-07-02T22:59:38Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Dr Sebagh: products for clinic-worthy results",
+                "desc": "Famed for his undetectable touch, the ‘King of Botox’ entered retail before many of his peers — 21 years on, we examine the formulas that bottled his enduring approach",
+                "image": "https://www.thetimes.com/imageserver/image/2b7a0265-1a81-44b1-95f6-52d380aa10e2.jpg?strip=all&format=webp&crop=4488px%2C2524px%2C0px%2C0px&resize=1200",
+                "url": "https://www.thetimes.com/life-style/luxury/article/dr-sebagh-skincare-times-luxury-5fq32899q",
+                "source": "The Times",
+                "date": "2026-07-03T03:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "High Great Innovation Announces Pricing for Three Formation Drone Platforms for Outdoor and Indoor Shows",
+                "desc": "The EMO Mini, EMO Plus and FYLO Mini expand the company’s portfolio for large-scale outdoor formations, payload-enabled performances and close-proximity indoor […]",
+                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
+                "url": "https://technode.global/prnasia/high-great-innovation-announces-pricing-for-three-formation-drone-platforms-for-outdoor-and-indoor-shows/",
+                "source": "TNGlobal",
+                "date": "2026-07-03T02:57:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prosser denies conspiring to steal Apple secrets in lawsuit response",
+                "desc": "After getting a second chance to formally respond to Apple’s lawsuit, Jon Prosser filed his answer today. Here are the details.",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/02/prosser-denies-conspiring-to-steal-apple-secrets-in-lawsuit-response-blames-ramacciotti/",
+                "source": "9to5Mac",
+                "date": "2026-07-03T02:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aiarty Image Enhancer Review: Can It Compete with Lightroom, DxO & Topaz?",
+                "desc": "A real-world review of Aiarty Image Enhancer, including comparisons with Lightroom Denoise, DxO DeepPRIME and Topaz Gigapixel.",
+                "image": "https://photofocus.com/wp-content/uploads/2026/07/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover-2560-×-1440-px-2560-×-1440-px-2560-×-1440-px.jpg",
+                "url": "https://photofocus.com/reviews/aiarty-image-enhancer-review-can-it-compete-with-lightroom-dxo-topaz/",
+                "source": "Photofocus",
+                "date": "2026-07-03T02:53:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels",
+                "desc": "Earlier this year, three YouTube channels sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by unlawfully accessing and scraping millions of copyrighted YouTube videos to train its AI models. In a class action lawsuit filed with the U.S.",
+                "image": "https://images.macrumors.com/t/uiwYjKQfINRDAMaflgPT3jZiK1o=/2500x/article-new/2024/12/General-YouTube-Feature-Redux.jpg",
+                "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
+                "source": "MacRumors",
+                "date": "2026-07-03T02:47:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Valve just open-sourced the Steam Machine e-ink faceplate, and you can 3D print one today",
+                "desc": "Now you can make your Steam Machine truly yours.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/valve-steam-machine-and-steam-controller-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/valve-just-open-sourced-the-steam-machine-e-ink-faceplate-and-you-can-3d-print-one-today/",
+                "source": "XDA",
+                "date": "2026-07-03T02:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "vivo V70 FE handles MLBB and CODM with ease",
+                "desc": "The vivo V70 FE demonstrated stable gaming performance across popular mobile titles, positioning the device as a capable option...",
+                "image": "https://technology.inquirer.net/files/2026/07/vivo-featured.png",
+                "url": "https://technology.inquirer.net/147744/vivo-v70-fe-handles-mlbb-and-codm-with-ease",
+                "source": "Inquirer Technology",
+                "date": "2026-07-03T02:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony Signals Another PlayStation Plus Price Hike May Be on the Way",
+                "desc": "Sony is reportedly signaling another PlayStation Plus price hike as the top executives sat down and made some bold claims about its subscribers.",
+                "image": "https://static.beebom.com/wp-content/uploads/2026/07/Sony-Discusses-PlayStation-Plus-Price-hike-again.jpg",
+                "url": "https://beebom.com/sony-discusses-playstation-plus-price-hike-again/",
+                "source": "Beebom",
+                "date": "2026-07-03T02:42:40Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Abenson Birthday Sale: Exclusive Deals & Big Savings",
                 "desc": "Abenson is celebrating another year of serving Filipino homes with a month-long birthday sale filled with exciting deals, exclusive offers",
@@ -1192,81 +1264,45 @@
                 "source": "Yahoo Tech",
                 "date": "2026-07-02T20:55:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Meet Alibaba's Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-                "desc": "Alibaba Page Agent is an open-source JavaScript in-page GUI agent that reads the DOM to run natural-language commands.",
-                "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog1913-4-1024x731.png",
-                "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/",
-                "source": "MarkTechPost",
-                "date": "2026-07-02T20:51:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony's Digital Shift for PlayStation Spurs Online Backlash, Jokes",
-                "desc": "Sony's plan to stop manufacturing physical PlayStation game discs by 2028 sparked online jokes and concerns about digital media and ownership.",
-                "image": "https://i.insider.com/6a46c5dce3bd3a50082bfcf4?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/sony-digital-shift-playstation-games-spurs-online-backlash-jokes-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-02T20:48:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony A7 IV Drops Below $2,000 in B&H Photo's July 4th Sale",
-                "desc": "Save $500 on the Sony A7 IV during B&H Photo's July 4th sale. This versatile 33MP full-frame hybrid camera offers oversampled 4K60 video, advanced autofocus, 5-axis stabilization, and professional performance for photographers and filmmakers.",
-                "image": "https://media.imaging-resource.com/2026/07/02204214/sony-a7-iv-spot-deal-1024x580-1.jpg",
-                "url": "https://www.imaging-resource.com/deals/sony-a7-iv-drops-below-2000-in-bh-photos-july-4th-sale/",
-                "source": "Imaging Resource",
-                "date": "2026-07-02T20:47:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shock inspired by 90s streetwear in the US",
-                "desc": "Casio launches the DW5600TNT-7 G-Shock in the US with a translucent design, thisisneverthat branding, 200m water resistance, and a 5 year battery.",
-                "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Casio-DW-5600TNT-7-G-Shock.png",
-                "url": "https://www.gizmochina.com/2026/07/02/casio-dw5600tnt-7-g-shock-launched-in-the-us-specs-price/",
-                "source": "Gizmochina",
-                "date": "2026-07-02T20:44:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Biomarker-matched drug combos shrink treatment-resistant melanoma in preclinical models",
-                "desc": "A new study led by researchers at The University of Texas MD Anderson Cancer Center has identified a way to tailor drug combinations based on specific tumor biology to improve outcomes for treatment-resistant advanced melanoma.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/biomarker-guided-drug.jpg",
-                "url": "https://medicalxpress.com/news/2026-07-biomarker-drug-combos-treatment-resistant.html",
-                "source": "Medical Xpress",
-                "date": "2026-07-02T20:40:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Relic Entertainment Announces a New Standalone Experience,",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/pt/Relic-Entertainment-Announces-a-New-Standalone-Experience-Company-of-H",
-                "source": "Games Press",
-                "date": "2026-07-02T20:39:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"AI contributions are demoralizing\": Godot bans coding agents to save its mentoring model",
-                "desc": "Open source game engine Godot has new AI contribution rules, and it's not just about code quality -- it's an attempt to protect its maintainer pipeline.",
-                "image": "https://cdn.thenewstack.io/media/2026/07/0e4bd158-ian-mikraz-v3mr-cgboue-unsplash-scaled.jpg",
-                "url": "https://thenewstack.io/godot-bans-ai-coding-agents/",
-                "source": "The New Stack",
-                "date": "2026-07-02T20:32:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I sync my text snippets across all my devices without the cloud, and it only takes two free tools",
-                "desc": "Espanso and Syncthing are a killer duo",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/syncthing-espanso.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/sync-text-snippets-across-machines-without-cloud-takes-two-free-tools/",
-                "source": "XDA",
-                "date": "2026-07-02T20:30:21Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Turkish comedian arrested for 'insulting' Islam and Erdogan",
+                "desc": "Turkish comedian Deniz Göktaş was arrested at Istanbul Airport on Thursday following a stand-up show posted to YouTube. The 32-year-old faces multiple probes, including \"publicly insulting religious values\" and insulting President Recep Tayyip Erdoğan.",
+                "image": "https://images.euronews.com/articles/stories/09/82/34/57/1200x675_cmsv2_a4a87b1c-3371-5978-a0ae-1b73239194ad-9823457.jpg",
+                "url": "https://www.euronews.com/culture/2026/07/03/turkish-comedian-arrested-for-insulting-islam-and-erdogan",
+                "source": "Euronews",
+                "date": "2026-07-03T02:55:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A US$450 taxi fare sparks fresh concerns over tourist scams in South Korea",
+                "desc": "SEOUL: A series of high-profile overcharging incidents is raising fresh concerns over whether South Korea's tourism infrastructure is keeping pace with its growing international reputation.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/03/3989945.png",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/a-us450-taxi-fare-sparks-fresh-concerns-over-tourist-scams-in-south-korea",
+                "source": "The Star",
+                "date": "2026-07-03T02:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pakistan May Rename Its ‘Afghan’ Missiles After Defense Minister Calls Mahmud Ghaznavi a 'Robber & Thief'",
+                "desc": "Pakistan’s conflict with Afghanistan is forcing the country to confront its own history and revisit its icons. For decades, Pakistan has idolized Afghan and Central Asian Turkic nationals, kings, sultans, warlords, and invaders as its national heroes. It named its most potent missiles Ghaznavi, Ghori, Babur, Abdali, etc after them. Pakistan has long glorified these […]",
+                "image": "https://www.eurasiantimes.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-191213.jpg",
+                "url": "https://www.eurasiantimes.com/pakistan-may-rename-its-afghan-missiles/",
+                "source": "EurAsian Times",
+                "date": "2026-07-03T02:49:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rankings show priorities",
+                "desc": "The ‘World Universities Rankings’ may be a rough measure of quality. But they do reveal a lot.",
+                "image": "https://i.dawn.com/large/2026/07/0307444856b8b68.webp",
+                "url": "https://www.dawn.com/news/2012620",
+                "source": "Dawn",
+                "date": "2026-07-03T02:44:25Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Closing the gap",
                 "desc": "THE numbers are encouraging, yet one cannot help but rue the opportunities still being lost. The GSMA’s Mobile...",
@@ -1860,44 +1896,8 @@
                 "source": "The Jerusalem Post",
                 "date": "2026-07-02T22:09:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "UNSC Urges Peace Deal Amid US-Iran Tensions",
-                "desc": "In an emergency session following resumed confrontation between the United States and Iran, the Security Council today heard of the need to implement",
-                "image": "https://press.un.org/themes/custom/un3_press/assets/images/og-default.jpg",
-                "url": "https://www.miragenews.com/unsc-urges-peace-deal-amid-us-iran-tensions-1704144/",
-                "source": "Mirage News",
-                "date": "2026-07-02T22:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "California man pleads guilty to faking Nancy Guthrie ransom note",
-                "desc": "Derrick Callella admitted he called and sent texts to Guthrie’s family, demanding a bitcoin transaction",
-                "image": "https://i.guim.co.uk/img/media/b08987c43397fe819e47585e02eb5371280f5494/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=247c1cf388910577b114fcbf12e837e9",
-                "url": "https://www.theguardian.com/us-news/2026/jul/02/nancy-guthrie-fake-ransom-note",
-                "source": "The Guardian",
-                "date": "2026-07-02T22:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I was 'slam dunk' for SNP leadership until revealing gay marriage views",
-                "desc": "The former deputy first minister says she was advised to lie about her opinions on same-sex marriage.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5110/live/de7c3ce0-7619-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/c2ky31qelgzo",
-                "source": "BBC",
-                "date": "2026-07-02T22:04:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s Freedom 250 stage falls apart while dancers rehearse on it - with one piece narrowly missing a performer",
-                "desc": "Video from the rehearsal shows a group of dancers freezing mid-routine as a piece from the top of the structure detaches and slams onto the stage",
-                "image": "https://static.independent.co.uk/2026/07/02/20/19/falling_piece_720.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-freedom-250-stage-falls-b3007922.html",
-                "source": "The Independent",
-                "date": "2026-07-02T22:04:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T14:40:56.585364Z"
+    "lastGlobalSync": "2026-07-03T15:01:00.882202Z"
 }
