@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Dublin nursing home residents heard ‘shouting for help’ due to low staff levels",
+                "desc": "Hiqa commenced targeted inspections of all centres in the Emeis Ireland group after broadcast of RTÉ programme last year",
+                "image": "https://www.irishtimes.com/resizer/v2/4ITXEGHZ7WISGB2RLH4EJIINPM.JPG?smart=true&auth=980183b1f8e37a5630c58f87c58f137cc105c6b317b38545d5a2c4143cb63498&width=1200&height=630",
+                "url": "https://www.irishtimes.com/health/2026/07/02/dublin-nursing-home-residents-heard-shouting-for-help-due-to-low-staff-levels/",
+                "source": "The Irish Times",
+                "date": "2026-07-02T12:59:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The long-term look at US labor force participation is ugly and getting worse",
+                "desc": "Workers continue to drop out of the work force",
+                "image": "https://images.investinglive.com/images/US%20work%20force%20participation%20rate_id_de110392-752f-447e-aa0a-69ba8e010f75_size975.jpg",
+                "url": "https://investinglive.com/centralbank/the-long-term-look-at-us-labor-force-participation-is-ugly-and-getting-worse-20260702/",
+                "source": "investingLive",
+                "date": "2026-07-02T12:59:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Emirates arrives in Cape Town with a third daily service, its newest aircraft",
+                "desc": "International airline Emirates’ third daily service on the Dubai-Cape Town route landed at Cape Town International Airport on July 1, marking the first arrival of flight EK778 and the debut of the airline's next-generation Airbus A350 in South Africa. The A350 is the newest aircraft type to join Emirates’ all widebody fleet, introducing the latest in-flight experience.",
+                "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001282972_resized_emiratesen1022.jpeg",
+                "url": "https://www.engineeringnews.co.za/article/emirates-arrives-in-cape-town-with-a-third-daily-service-its-newest-aircraft-2026-07-02",
+                "source": "Engineering News",
+                "date": "2026-07-02T12:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada ranks 13th on average global wealth list: report",
+                "desc": "North America is the richest region of the world when it comes to personal wealth, according to a new report from Swiss bank UBS, but in terms of countries Canada ranks 13th.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/I55ZEACFCZC6NOSHH5VTNFOE5Q.jpg?smart=true&auth=393cbb694cd27a231a9dda355a2ce6d134e2abef0d2722fd6da103c8574df61a&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/business/economics/2026/07/02/canada-ranks-13th-on-average-global-wealth-list-switzerland-comes-in-first/",
+                "source": "BNN Bloomberg",
+                "date": "2026-07-02T12:56:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. payroll growth slowed sharply in June, adding only 57,000 jobs",
+                "desc": "This morning's data could slow market expectations for a Fed rate hike as soon as this summer or early Fall.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/a4d81e192e1f62823140aa467b9ae9ea05af455a-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/markets/2026/07/02/u-s-payroll-growth-slowed-sharply-in-june-adding-only-57-000-jobs",
+                "source": "CoinDesk",
+                "date": "2026-07-02T12:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ma Jun thinktank to unveil six new China transition finance benchmarks",
+                "desc": "Ex-PBOC economist's institute has released six transition benchmarks and will add six more, covering over 90% of China's emissions",
+                "image": "https://greencentralbanking.com/wp-content/uploads/2026/07/pexels-hujason-27382424.jpg",
+                "url": "https://greencentralbanking.com/2026/07/02/ma-jun-thinktank-to-unveil-six-new-china-transition-finance-benchmarks/",
+                "source": "Green Central Banking",
+                "date": "2026-07-02T12:52:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bain, KKR, KV Asia shortlisted for Malaysia's Avisena stake sale; firm valuation is RM1.5bil, sources say",
+                "desc": "SINGAPORE: Bain Capital, KKR and KV Asia Capital have been shortlisted to buy a minority stake in Avisena Healthcare in a deal that could value the Malaysian healthcare firm at about RM1.5bil, two people with direct knowledge of the matter said.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3989063.jpg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/07/02/bain-kkr-kv-asia-shortlisted-for-malaysia039s-avisena-stake-sale-firm-valuation-is-rm15bil-sources-say",
+                "source": "The Star",
+                "date": "2026-07-02T12:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US employers added just 57,000 new jobs in June, lower than expected",
+                "desc": "The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the month",
+                "image": "https://i.guim.co.uk/img/media/e610f8fd29f5aec29b2673147f869999a1ef177d/379_0_3790_3032/master/3790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9425b9df62206a9261098acdd4a0538",
+                "url": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
+                "source": "The Guardian",
+                "date": "2026-07-02T12:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Ralph Lauren Won Wimbledon With Panache",
+                "desc": "Ralph Lauren’s Wimbledon takeover shows how 20 years of heritage-led partnership turned tennis’ most iconic tournament into a powerful luxury retail platform.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a465689b9864ae559465b53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/katehardcastle/2026/07/02/game-set-matchralph-lauren-win-wimbledon-with-panache/",
+                "source": "Forbes",
+                "date": "2026-07-02T12:48:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Namibia: Canadian Graphite Plant Moves to Okanjande",
+                "desc": "Northern Graphite has completed relocating its processing plant to Okanjande mine near Otjiwarongo as it prepares to restart mining operations by the end of 2027.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607020505.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-02T12:48:35Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Legal AI expert Sophia Snomi launches scholarly book on machine",
                 "desc": "As artificial intelligence moves deeper into courtrooms, law offices, and intake centers across the United States, one attorney-turned-technologist is making",
                 "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/1-3.jpg",
@@ -542,99 +632,99 @@
                 "source": "India Today",
                 "date": "2026-07-02T04:21:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The surprising reason India's most expensive stocks often keep rising",
-                "desc": "Indian stocks defy logic, with expensive companies consistently outperforming. This trend, observed over 15 years, sees sectors like defence and retail surge despite high valuations, driven by structural shifts and strong earnings. Jefferies highlights the power sector as the next potential beneficiary, citing strong demand and private sector capex. Investors should remain aware of potential reversals if growth falters.",
-                "image": "https://img.etimg.com/thumb/msid-132128724,width-1200,height-630,imgsize-1987692,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-surprising-reason-indias-most-expensive-stocks-often-keep-rising/articleshow/132128723.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-02T04:13:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garin: PH may have own oil reserve storage by 2027",
-                "desc": "The government is looking at building at least one oil reserve storage by next year or the early part  of 2028.",
-                "image": "https://newsinfo.inquirer.net/files/2026/05/1226451-1.jpeg",
-                "url": "https://newsinfo.inquirer.net/2256512/garin-ph-may-have-own-oil-reserve-storage-by-2027",
-                "source": "Inquirer.net",
-                "date": "2026-07-02T04:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mphasis, Persistent Systems, Infosys power IT rally; NIFTY IT index jumps over 3.5%",
-                "desc": "When last seen, Infosys shares were trading 4.39% higher at ₹1,028.60 apiece on the NSE, while Tech Mahindra was up 2.28% at ₹1,393.30. HCL Technologies shares were trading at ₹1,072, up 3.66%, and Wipro Ltd was up 0.86% on the NSE.",
-                "image": "https://assets.upstox.com/content/assets/images/news/it-stocks-july-2-2026.webp",
-                "url": "https://upstox.com/news/market-news/stocks/mphasis-persistent-systems-infosys-power-it-rally-nifty-it-index-jumps-over-3-5/article-196252/",
-                "source": "Upstox",
-                "date": "2026-07-02T04:09:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Coca-Cola Said to Seek Bankers for $1 Billion India Bottler IPO",
-                "desc": "Coca-Cola Co. has invited investment banks to pitch for roles on the planned initial public offering of its Indian bottling unit in a deal that could raise about $1 billion, according to people familiar with the matter.",
-                "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-                "url": "https://news.bloomberglaw.com/capital-markets/coca-cola-said-to-seek-bankers-for-1-billion-india-bottler-ipo",
-                "source": "Bloomberg Law News",
-                "date": "2026-07-02T04:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold, silver prices today, 2 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-                "desc": "Gold and silver prices today, 2 July: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-                "image": "https://www.livemint.com/lm-img/img/2026/07/02/1600x900/logo/gold_1782954793982_1782954794097_eba9a962-2024-46db-9e35-3319ad5b2780.jpg",
-                "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-2-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11782954426682.html",
-                "source": "livemint.com",
-                "date": "2026-07-02T04:07:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When impossible becomes a daily routine miracle",
-                "desc": "The very day BusinessDay began, the words of our founding chairman, Pat Utomi, graced our front page. Today he returns, 25 years later...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2025/12/pat-utomi.webp",
-                "url": "https://businessday.ng/news/article/when-impossible-becomes-a-daily-routine-miracle/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-02T04:04:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shares of BYD and Xiaomi surge as June delivery figures fuel optimism",
-                "desc": "Hong Kong-listed shares of Chinese electric vehicle makers surged, after companies posted June vehicle data that helped to buoy investor sentiment.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108296711-1777016962654-gettyimages-2272044628-AFP_A8Q34NV.jpeg?v=1777016971&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/02/china-ev-stocks-xiaomi-byd-june-deliveries-production.html",
-                "source": "CNBC",
-                "date": "2026-07-02T04:02:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Could Reach $5,000 an Ounce In Early 2027",
-                "desc": "Spot gold was higher. Prices could reach $5,000 a troy ounce in early 2027, as the bull cycle for the yellow metal still has legs, State Street Investment Management said.",
-                "image": "https://s.wsj.net/img/meta/wsj_favicon.svg",
-                "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-helped-by-central-banker-commentary-economic-data-464c9622",
-                "source": "WSJ",
-                "date": "2026-07-02T04:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to.",
-                "desc": "The German software giant SAP says it is betting that employees can reinvent jobs instead of eliminating them. Experts are divided on whether it will work.",
-                "image": "https://static01.nyt.com/images/2026/06/09/multimedia/00int-Germany-AI-01-hwlc/00int-Germany-AI-01-hwlc-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html",
-                "source": "The New York Times",
-                "date": "2026-07-02T04:01:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From AI chips to energy drinks: Hong Kong’s biggest listing deals of 2026 so far",
-                "desc": "A semiconductor designer and mainland China’s biggest hog producer are among the companies behind the largest deals.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/02/6d23776c-295d-4eec-a00b-b0d61e5cd708_619d4ef9.jpg?itok=VoTzqGXP&v=1782963564",
-                "url": "https://www.scmp.com/business/markets/article/3359105/ai-chips-energy-drinks-hong-kongs-biggest-listing-deals-2026-so-far",
-                "source": "South China Morning Post",
-                "date": "2026-07-02T04:00:18Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "This Startup Wants to Make City Streets Searchable With AI",
+                "desc": "Orchestra has installed more than 100 cameras in San Francisco. Next up: 900 more, then the rest of the world.",
+                "image": "https://i.insider.com/6a45aadcec11c5f7e7fa76bf?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/this-startup-wants-to-make-city-streets-searchable-with-ai-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-02T13:00:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Introducing: The New Depancel Serie",
+                "desc": "The limited Depancel Serie-R Chronograph Ice Blue emulates the attractive two-tone bodywork of a majestic Talbot-Lago T26.",
+                "image": "https://monochrome-watches.com/app/uploads/2026/07/Depancel-Serie-R-Chronograph-Ice-Blue-2.jpg",
+                "url": "https://monochrome-watches.com/introducing-new-depancel-serie-r-chronograph-ice-blue-price/",
+                "source": "Monochrome Watches",
+                "date": "2026-07-02T13:00:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation Icon Gives Valve's Steam Machine A Rough Review",
+                "desc": "Shuhei Yoshida had good and not so good things to say about Valve's new gaming PC",
+                "image": "https://kotaku.com/app/uploads/2025/11/Steam-Machine-Alt.jpg",
+                "url": "https://kotaku.com/playstation-veteran-gives-a-harsh-review-of-the-steam-machine-am-i-going-back-to-ps4-days-2000712230",
+                "source": "Kotaku",
+                "date": "2026-07-02T12:57:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 at ESMO GI 2026: Tremelimumab Plus Durvalumab With or Without Lenvatinib Plus TACE in Embolisation",
+                "desc": "EMERALD-3 at ESMO GI 2026: Tremelimumab Plus Durvalumab With or Without Lenvatinib Plus TACE in Embolisation-Eligible HCC / cancer, cancer care, Cancer",
+                "image": "https://oncodaily.com/pub/uploads/2026/07/EMERALD-3-ESMO-GI-2026.webp",
+                "url": "https://oncodaily.com/oncolibrary/gastrointestinal-oncology/emerald-3-2",
+                "source": "Oncodaily",
+                "date": "2026-07-02T12:56:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Game Of Clans Arrives In Hustle Castle, Bringing A New Era Of Massive Clan Warfare",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/tr/Game-Of-Clans-Arrives-In-Hustle-Castle-Bringing-A-New-Era-Of-Massive-C",
+                "source": "Games Press",
+                "date": "2026-07-02T12:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cardle of the Day - Thursday 2 Jul 2026",
+                "desc": "Thursday's Cardle puzzle served up one of Britain's most overlooked post-war sports cars — and it took until clue five to crack it.",
+                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/cardle-b008c321a0.webp",
+                "url": "https://www.tarmaclife.co.nz/news/cardle-of-the-day-thursday-2-jul-2026/",
+                "source": "Tarmac Life",
+                "date": "2026-07-02T12:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Destiny 2’ Is Now Permanently Disabling Gear It Can’t Patch",
+                "desc": "Destiny 2 has limited options to fixing issues with the game with just one hotfix left. So it is starting to permanently disable things.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a465f41f41a28087f7e994f/0x0.jpg?format=jpg&crop=2562,1440,x435,y0,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/paultassi/2026/07/02/destiny-2-is-now-permanently-disabling-gear-it-cant-patch/",
+                "source": "Forbes",
+                "date": "2026-07-02T12:55:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Developed in collaboration with buyers: the new auction clock on Floriday",
+                "desc": "The new auction clock on Floriday – RFH Auction – is getting closer with every step. What makes this development special? Right from the very first sketches, RFH has been collaborating…",
+                "image": "https://www.floraldaily.com/remote/https/agfstorage.blob.core.windows.net/misc/FD_com/2026/07/02/RF.jpg?preset=OgImage",
+                "url": "https://www.floraldaily.com/article/9853386/developed-in-collaboration-with-buyers-the-new-auction-clock-on-floriday/",
+                "source": "FloralDaily",
+                "date": "2026-07-02T12:54:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Researcher Explains Release of Undisclosed Zero-Day Exploits",
+                "desc": "Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first",
+                "image": "https://assets.infosecurity-magazine.com/webpage/og/f25bd269-4211-47e1-950d-1309d80b08ac.jpg",
+                "url": "https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/",
+                "source": "Infosecurity Magazine",
+                "date": "2026-07-02T12:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Koei Tecmo's Pipeline and Margin to Expand Over the Long Run With Better Development and Marketing",
+                "desc": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+                "image": "https://www.morningstar.com/favicon.ico",
+                "url": "https://www.morningstar.com/company-reports/1486076-koei-tecmos-pipeline-and-margin-to-expand-over-the-long-run-with-better-development-and-marketing",
+                "source": "Morningstar",
+                "date": "2026-07-02T12:49:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Opera Browser Gains Protection Against Malicious Clipboard Commands",
                 "desc": "Opera browser has announced a new security feature called Paste Protect that aims to stop clipboard-based cyberattacks before their malicious commands can be accidentally executed. Opera says it's the first major browser to offer native protection against ClickFix attacks – a growing form of social engineering that tricks users into copying and pasting malicious commands into a computer's terminal. The new feature is built into Opera's desktop browsers and enabled by default.",
@@ -1174,99 +1264,99 @@
                 "source": "Huawei Central",
                 "date": "2026-07-02T03:11:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Wow, cheaper than buying separately! 'Switch 2 Pokopia Set' Released",
-                "desc": "Nintendo has officially launched a bundle package in Korea featuring the Nintendo Switch 2 and 'Pokémon Pokopia,' a title that has expanded the reach of the Pokémon franc...",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/02/i1782961698006213.jpeg",
-                "url": "https://www.invenglobal.com/articles/23374/wow-cheaper-than-buying-separately-switch-2-pokopia-set-released",
-                "source": "Inven Global",
-                "date": "2026-07-02T03:10:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Level MacBook Pro for Simultaneous Launch — BigGo Finance",
-                "desc": "Apple is preparing a sweeping overhaul of its product lineup for the iPhone's 20th anniversary in 2027. Four new iPad Pro models slated for a spring…",
-                "image": "https://img.biggo.com/hOPczBJY5LFerdX_Iw-RvZzB96_9PgzQ5h-XoWAXxdM/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzA2ZTI2YzY3LWI4NDYtNDM0OC1hOWIyLTFkNzU4ZWMzZTE2Ml8xNzgyOTYyNzI4X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/06e26c67-b846-4348-a9b2-1d758ec3e162",
-                "source": "finance.biggo.com",
-                "date": "2026-07-02T03:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Final trailer now live for Veritas Tales: Witch of the Dark Castle — a \"reading-style\" fantasy adventure from a 30-year industry veteran formerly of Vanillaware.",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/de/Final-trailer-now-live-for-Veritas-Tales-Witch-of-the-Dark-Castle-a-re",
-                "source": "Games Press",
-                "date": "2026-07-02T03:04:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Steve Jobs' Bicentennial check heads to auction",
-                "desc": "A newly surfaced Steve Jobs-signed check is up for auction, linking the nation's milestone anniversary with the earliest days of the personal computer revolution.",
-                "image": "https://photos5.appleinsider.com/gallery/68143-143620-wfj476sj-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/02/steve-jobs-bicentennial-check-captures-the-birth-of-apple-and-the-pc-revolution",
-                "source": "AppleInsider",
-                "date": "2026-07-02T02:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Epic CEO Criticizes Valve Steam AI Disclosures",
-                "desc": "Epic Games CEO **Tim Sweeney** called Valve's mandatory AI disclosure tags for Steam \"irresponsible\" in a **PC Gamer** interview reported by **Wccftech** on June 25, 2026. Sweeney said the tags act as a \"Scarlet Letter\" and warned that developers face \"a hater community trying to kill the game\" if they disclose AI use. He argued the rules force developers to choose between using productivity tools and market access. **Valve** updated its AI disclosure guidelines on Jan. 19, 2026 to focus on AI-generated content rather than internal workflow use (GamesIndustry). Wccftech links the comments to Epic's strategy: **Unreal Engine 6** integrates Claude and Gemini. Older coverage from Futurism and TechPowerUp documents Sweeney's prior social-media criticism of Steam's AI policy dating to late 2025.",
-                "image": "https://assetsio.gnwcdn.com/Tim_Sweeney_P7vsPEF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://letsdatascience.com/news/epic-ceo-criticizes-valve-steam-ai-disclosures-06e02306",
-                "source": "Let's Data Science",
-                "date": "2026-07-02T02:58:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Ultimate Hailey to Raven: 'The First Descendant' Celebrates 2nd Anniversary",
-                "desc": "Nexon's global looter shooter 'The First Descendant' has announced a massive update to mark its second anniversary, promising to significantly expand the player experience.",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/02/r1782955283349093.jpeg",
-                "url": "https://www.invenglobal.com/articles/23364/from-ultimate-hailey-to-raven-the-first-descendant-celebrates-2nd-anniversary",
-                "source": "Inven Global",
-                "date": "2026-07-02T02:49:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bongo Branding rebrands ClearShield nationally",
-                "desc": "Bongo Branding has collaborated with Lino Giangiordano of 2e Design to rebrand Western Australian based ClearShield nationally.",
-                "image": "https://wa.campaignbrief.com/wp-content/uploads/sites/3/2026/07/clearshield-sign.jpg",
-                "url": "https://wa.campaignbrief.com/bongo-branding-rebrands-clearshield-nationally/",
-                "source": "Campaign Brief WA",
-                "date": "2026-07-02T02:45:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenClaw Matures Amid Swarm Culture",
-                "desc": "Thoughts on safely deploying OpenClaw, emphasizing testing, benchmarks, infrastructure, costs, and autonomous AI risk management.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/69e970213698549a17795b88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/johnwerner/2026/07/01/openclaw-matures-amid-swarm-culture/",
-                "source": "Forbes",
-                "date": "2026-07-02T02:39:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple’s Hide My Email Flaw Exposes Real Addresses, Researcher Says 100% Exploitable",
-                "desc": "A security researcher has revealed that Apple’s Hide My Email feature contains a vulnerability that can expose users’ real email addresses, and that…",
-                "image": "https://img.biggo.com/McNGHk_x09ANyYWMO13hHhSsmZDHQG4GeTMrUab8axQ/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzVmMzJiZDM2LTJiM2QtNDliOS1iNGYxLTg0MjA5YTc0NmIxY18xNzgyOTYwMDc1X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/5f32bd36-2b3d-49b9-b4f1-84209a746b1c",
-                "source": "finance.biggo.com",
-                "date": "2026-07-02T02:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Back to the Dawn ~Break the Animal Prison~ PS5 Version Launches October 22",
-                "desc": "Source: Clouded Leopard Entertainment ©Clouded Leopard EntertainmentClouded Leopard Entertainment announced on the 2nd that the PlayStation®5 version of the suspense pris...",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/02/i1782958936920657.jpeg",
-                "url": "https://www.invenglobal.com/articles/23371/back-to-the-dawn-break-the-animal-prison-ps5-version-launches-october-22",
-                "source": "Inven Global",
-                "date": "2026-07-02T02:22:25Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Pope's July prayer intention: 'for respect for human life'",
+                "desc": "Pope Leo XIV releases his prayer intention for the month of July, and invites Catholics to pray 'for respect for human life,' so all may 'recognize ...",
+                "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/01/Official-image---July-2026-EN.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+                "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-july-prayer-intention-2026-for-respect-for-human-life-leo.html",
+                "source": "Vatican News",
+                "date": "2026-07-02T13:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PhotoVogue Taipei Exhibition: Fragments of Remembering",
+                "desc": "PhotoVogue returns to Taiwan with an exhibition titled Fragments of Remembering , showcasing the rich tapestry of multiculturalism through the works of 19 emerging visual artists from East Asia and Southeast Asia.",
+                "image": "https://assets.vogue.com/photos/6a354d1b2f996aea7fc45c12/16:9/w_1280,c_limit/fb-cover_photovogue.jpg",
+                "url": "https://www.vogue.com/article/discover-the-exhibition-photovogue-taipei-fragments-of-remembering",
+                "source": "Vogue",
+                "date": "2026-07-02T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "based conservation approach at global biodiversity forum",
+                "desc": "XISHUANGBANNA: TANZANIA has presented new scientific research on wildlife and tourism at a major international conservation conference, arguing that protected areas can support both biodiversity and economic activity if guided by evidence-based planning. The message was delivered at the 62nd Annual Meeting of the Association for Tropical Biology and Conservation (ATBC), held in China’s Yunnan …",
+                "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-15.56.05.jpeg",
+                "url": "https://dailynews.co.tz/tz-highlights-science-based-conservation-approach-at-global-biodiversity-forum/",
+                "source": "dailynews.co.tz",
+                "date": "2026-07-02T12:59:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russian missiles and drones kill at least 18 on ‘night of horror’ for Ukraine’s capital",
+                "desc": "Zelenskiy cuts short visit to Ireland to rush home, Kyiv mayor declares day of mourning in city for Friday",
+                "image": "https://www.irishtimes.com/resizer/v2/3JEDXUQGHJN3C72YK6TQIBUA74.jpg?smart=true&auth=11ddf26efed83c9146d41c9a9e5b4fe7159ca6e4a67d00351ab2ca0def778976&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/2026/07/02/russian-missiles-and-drones-kill-11-and-cause-damage-across-ukraine-capital/",
+                "source": "The Irish Times",
+                "date": "2026-07-02T12:59:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s state fair melts under heat as ACs stop working forcing some exhibits to close",
+                "desc": "The punishing heat is the latest setback for Trump’s MAGA-aligned fair",
+                "image": "https://static.independent.co.uk/2026/07/02/13/download.-4.?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-state-fair-ac-heatwave-b3007560.html",
+                "source": "The Independent",
+                "date": "2026-07-02T12:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNFCCC: Record 37 countries submit first national climate progress transparency plans",
+                "desc": "Countries are expected to report openly on their progress towards national climate goals under the Paris Agreement every two years",
+                "image": "https://image.chitra.live/api/v1/wps/cd1f568/95440ca0-8c66-4b86-bca5-d0a55581f893/5/COP29-UNFCCC-logo-370x229.jpg",
+                "url": "https://www.businessgreen.com/news/4532173/unfccc-record-countries-submit-national-climate-progress-transparency-plans",
+                "source": "BusinessGreen",
+                "date": "2026-07-02T12:56:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What’s China’s new ethnic unity law, and what does it mean for minorities?",
+                "desc": "Critics say it could hasten forced assimilation, lead to targeting of critics outside China. Beijing rejects charges.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a46399f7bb1-1782987167.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/2/whats-chinas-new-ethnic-unity-law-and-what-does-it-mean-for-minorities",
+                "source": "Al Jazeera",
+                "date": "2026-07-02T12:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flavoured noodles linked to more than 100 Salmonella infections in Europe",
+                "desc": "European health authorities have identified flavoured instant noodles as the likely source of a salmonella outbreak that has sickened at least 106 people across 14 countries.",
+                "image": "https://images.euronews.com/articles/stories/09/82/27/24/1200x675_cmsv2_3d90e5b1-b062-55e0-a349-6dbcd5bb5c7e-9822724.jpg",
+                "url": "https://www.euronews.com/health/2026/07/02/flavoured-noodles-linked-to-more-than-100-salmonella-infections-in-europe",
+                "source": "Euronews",
+                "date": "2026-07-02T12:55:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TechReviewAfrica - News Details",
+                "desc": "Your Trusted Tech News Platform",
+                "image": "https://techreviewafrica.com/assets/images/news/2026/07/02/6a465eeb19e541782996715.jpg",
+                "url": "https://techreviewafrica.com/news/6152/afcfta-digital-trade-forum-opens-in-lagos-with-call-to-accelerate-continental-digital-market",
+                "source": "Tech Review Africa",
+                "date": "2026-07-02T12:54:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alarm after herring gulls found covered in oil",
+                "desc": "Thirteen birds were found covered in a sticky substance \"smelling like fish oil\", with many more seen.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4426/live/1f4e9760-760e-11f1-ac6e-25f7e4f0c9b9.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cn07854ky4po",
+                "source": "BBC",
+                "date": "2026-07-02T12:53:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Exam board sorry for delay to Sats results in England",
                 "desc": "One school leaders' union says it now wants \"cast-iron assurances\" the final results will be accurate.",
@@ -1806,98 +1896,8 @@
                 "source": "The Argus",
                 "date": "2026-07-02T04:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘It’s peak tick season!’ Should Charlie xcx really have been lolling around in long grass?",
-                "desc": "Harry Styles, Zoë Kravitz, Sarah Pidgeon … celebrities love stretching out on Britain’s lawns and meadows. But with the tick-borne Lyme disease on the rise, is it safe for any of us?",
-                "image": "https://i.guim.co.uk/img/media/610f0ca29bb231b918393bc1778dcfe472831b7f/623_0_3231_2586/master/3231.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2f7e0fb13ea0462a9fba16f07962380",
-                "url": "https://www.theguardian.com/world/2026/jul/02/its-peak-tick-season-should-charlie-xcx-really-have-been-lolling-around-in-long-grass",
-                "source": "The Guardian",
-                "date": "2026-07-02T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Antidepressants Reached Shark Brains Off Brazil’s Coast",
-                "desc": "A widely used antidepressant, sertraline, is now being detected in the brains of hammerhead sharks off the coast of Rio de Janeiro, revealing how human health, wastewater systems and marine ecosystems are far more connected than we often realize.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a3e26be4f98a4c987bba55a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/melissacristinamarquez/2026/07/02/how-antidepressants-reached-shark-brains-off-brazils-coast/",
-                "source": "Forbes",
-                "date": "2026-07-02T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How cryptocurrencies are changing global politics",
-                "desc": "Despite once dismissing them, Donald Trump made over $1 billion from cryptocurrency sales last year. But the digital currencies, and their lobbyists, are having an effect on policy and politicians around the world.",
-                "image": "https://static.dw.com/image/77789990_6.jpg",
-                "url": "https://www.dw.com/en/how-cryptocurrencies-are-changing-global-politics/a-77789664",
-                "source": "DW.com",
-                "date": "2026-07-02T03:59:09Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Russian attack kills at least 13 and causes damage across Kyiv",
-                "desc": "Russia has launched a large-scale attack on Ukraine’s capital with missiles and drones that has killed at least 13 people and injured 86.",
-                "image": "https://dims.apnews.com/dims4/default/8fd4d81/2147483647/strip/true/crop/5816x3875+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2Fed%2F5bd99ee0443cc58202727d73235f%2F01ba0825047a4092a10d06f672e969fd",
-                "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missile-drone-attack-384d5b6bcdfc6e7d8c18f25130332ef7",
-                "source": "AP News",
-                "date": "2026-07-02T03:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia to repurpose retiring coal plants into renewable energy hubs",
-                "desc": "KUALA LUMPUR (July 2): Malaysia plans to repurpose sites of retiring coal-fired power plants into renewable energy (RE) hubs and battery energy storage facilities under a proposed National Coal Site Repurposing Framework, said Deputy Prime Minister Datuk Seri Fadillah Yusof.",
-                "image": "https://assets.theedgemarkets.com/20260604_DPM_Fadillah-OFFICIAL_LAUNCH_STRATEGIC_BUSINESS_RDS-AMT_MSY2_20260605100032-APP_1.jpg",
-                "url": "https://theedgemalaysia.com/node/809126",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-02T03:54:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UPSC GS-3 Mains Answer Writing Practice (2 July 2026)",
-                "desc": "Practice UPSC GS-3 Mains Answer Writing for 2 July 2026 with this question: Explain the objectives and significance of the Basel Convention in regulating transboundary movement of hazardous waste. Discuss its relevance in the context of emerging waste streams. (10 M) Build structured environmental governance answers and boost your UPSC Mains preparation.",
-                "image": "https://www.insightsonindia.com/wp-content/uploads/2015/09/cropped-cropped-FullSizeRender-6-32x32.jpg",
-                "url": "https://www.insightsonindia.com/2026/07/02/explain-the-objectives-and-significance-of-the-basel-convention-in-regulating-transboundary-movement-of-hazardous-waste-discuss-its-relevance-in-the-context-of-emerging-waste-streams/",
-                "source": "INSIGHTS IAS",
-                "date": "2026-07-02T03:52:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Defying Pope Leo XIV, traditionalists go ahead with bishop consecrations in Switzerland",
-                "desc": "ECONE, Switzerland (AP) — A group of traditionalist Catholics directly defied Pope Leo XIV on Wednesday by consecrating four bishops without his consent,...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/02/113173.webp",
-                "url": "https://mb.com.ph/2026/07/02/defying-pope-leo-xiv-traditionalists-go-ahead-with-bishop-consecrations-in-switzerland",
-                "source": "Manila Bulletin",
-                "date": "2026-07-02T03:50:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Micro 'cockroach' drones help search for Venezuela earthquake survivors",
-                "desc": "A week after devastating twin earthquakes struck Venezuela rescue teams are using drones, dogs, cameras and specialised listening equipment to search for survivors.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/5414abbb5000cae04fd83bc058120b74?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-02/micro-cockroach-drones-tech-for-earthquake-search-and-rescue/106859900",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-02T03:39:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Families marking 1,000 days since Oct. 7 with memorials, protests, moment of silence",
-                "desc": "October Council requests Israelis fall silent for a minute at 10 a.m. to observe somber anniversary, which will also include a convoy touring hard-hit communities near Gaza border",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260625AVS709.jpg",
-                "url": "https://www.timesofisrael.com/families-to-mark-1000-days-since-october-7-with-memorials-protests-moment-of-silence/",
-                "source": "The Times of Israel",
-                "date": "2026-07-02T03:38:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German prosecutors charge Ukrainian suspect over Nord Stream explosions",
-                "desc": "Prosecutors allege a yacht was used in the sabotage of pipelines, with the suspect leading the operation.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-11-27T141610Z_790974939_RC225IA95SHD_RTRMADP_3_UKRAINE-CRISIS-NORDSTREAM-1782950790_cda6da-1782961627.jpg?resize=1200%2C630&quality=80",
-                "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosions",
-                "source": "Al Jazeera",
-                "date": "2026-07-02T03:38:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T00:40:56.105704Z"
+    "lastGlobalSync": "2026-07-03T01:00:58.265514Z"
 }
