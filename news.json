@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "New legal right to speak to a human for finance consumers",
+                "desc": "New rules to be signed into law today will give consumers the legal right to speak to a person instead of an AI chatbot when buying financial products or services either online or over the phone.",
+                "image": "https://www.rte.ie/images/0024a104-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0703/1581517-finance-chatbots/",
+                "source": "RTE.ie",
+                "date": "2026-07-02T23:00:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US multinationals expect Irish employment rise next year",
+                "desc": "A survey of members of the American Chamber of Commerce Ireland has found that 90% of respondents plan to increase or maintain employment numbers in Ireland over the next year.",
+                "image": "https://www.rte.ie/images/00226c63-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0703/1581502-us-multinationals-employment/",
+                "source": "RTE.ie",
+                "date": "2026-07-02T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More than 106K Albertans sign up for $100 affordability rebates as applications open",
+                "desc": "Albertans have until Sept. 30 to sign up to receive the provincial government's $100 affordability relief cheques. People with household incomes of $225,000 or less are eligible.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/smith-1_1.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11950926/thousands-of-albertans-sign-up-affordability-rebates-100/",
+                "source": "Global News",
+                "date": "2026-07-02T22:59:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The federal government’s economic footprint is shrinking at the fastest year-over-year pace in 30 years",
+                "desc": "April GDP numbers showed healthy rebound after months of sluggish growth, Statscan notes public sector contributed to lift",
+                "image": "https://www.theglobeandmail.com/resizer/v2/NOA4IPERFNGHRIMA7V45O6U3DY.JPG?auth=378edafce0db9672eb831e9a13bb41a7f68faae727ca861b53c9c2c8d8c4754e&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/article-the-federal-governments-economic-footprint-is-shrinking-at-the-fastest/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-02T22:57:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon's Starlink competitor is almost ready",
+                "desc": "Starlink won't be alone in the sky for long. Amazon has been building up its own Low Earth Orbit satellite constellation for a while now, even calling it...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/amazon-leo-almost-ready/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/amazons_starlink_competitor_is_almost_ready-news-73548.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-02T22:57:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ON Semiconductor: Mispriced 800V-1200V AI Power And Physical AI Shift",
+                "desc": "ON Semiconductor’s shift from a discrete component seller to an integrated physical AI systems leader has captured Wall Street's attention. Read what investors should know about the company.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2258007909/image_2258007909.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4919605-on-semiconductor-mispriced-800v-1200v-ai-power-and-physical-ai-shift",
+                "source": "Seeking Alpha",
+                "date": "2026-07-02T22:52:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Large horticultural block up for sale between Hastings and Napier",
+                "desc": "A large block of horticultural land driven past by thousands of commuters travelling between Hastings and Napier each day is for sale. The flat block covers...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/KWYZCPBK65EYZJ2PFPCL4VR5EQ.jpg?auth=fb44c6ee8acc00f9841fc08e1c082076fdcc49e037a3906c64160a18702b35a0&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/large-horticultural-block-up-for-sale-between-hastings-and-napier/M3QC3AWESRF3ZGIBUGXPLK3NRM/",
+                "source": "NZ Herald",
+                "date": "2026-07-02T22:49:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NY Crude Rebounds After 3 Days, Reclaims $68 Level; Gold Extends Gains Above $4,100 on US Jobs Data",
+                "desc": "NY crude oil futures rebounded on the 2nd after three sessions of declines, with position-squaring buying dominating ahead of the US Independence Day…",
+                "image": "https://img.biggo.com/2KY3wx7OonAO6AnAqDXOwnKG5xrGGkYk87BKV1APxCQ/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzI1NjEyNTY2LWY5N2ItNDQ0NS1iMWVmLTJlNGIzNmVkYWMyMl8xNzgzMDMzMzg1X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/25612566-f97b-4445-b1ef-2e4b36edac22",
+                "source": "finance.biggo.com",
+                "date": "2026-07-02T22:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Solana Fell 13% in 30 Days. History Says Relief Could Be on the Way.",
+                "desc": "This coin has some strong seasonality to it, and that's good news for holders.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876791%2Finvestor-considers-writing-on-glass-wall-while-another-sits-in-the-background.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/02/solana-fell-13-in-30-days-history-suggests-relief/",
+                "source": "The Motley Fool",
+                "date": "2026-07-02T22:43:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New legal right to speak to a human for finance consumers",
+                "desc": "New rules to be signed into law today will give consumers the legal right to speak to a person instead of an AI chatbot when buying financial products or services either online or over the phone.",
+                "image": "https://www.rte.ie/images/0024a104-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0702/1581517-finance-chatbots/",
+                "source": "RTE.ie",
+                "date": "2026-07-02T22:41:44Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "BSP sets deadlines for banks seeking capital relief on bond losses",
                 "desc": "The central bank laid out strict reporting guidelines for lenders seeking capital relief on government security valuation losses, mapping out the transitional...",
                 "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/02/113332.webp",
@@ -542,99 +632,81 @@
                 "source": "Fox Business",
                 "date": "2026-07-02T19:36:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Seat Model Y L in the U.S. With Launch Edition",
-                "desc": "The Model Y L has officially landed on U.S. shores, and the larger, stretched version of the world's best-selling SUV is now available to order online",
-                "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-grassland-hero.webp/090e92fb5ac07f479e57aedde9ddcd46/model-y-l-grassland-hero.jpg",
-                "url": "https://www.notateslaapp.com/news/4390/tesla-launches-6-seat-model-y-long-wheelbase-in-the-us",
-                "source": "Not a Tesla App",
-                "date": "2026-07-02T19:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BNZ staff stunned as key benefits scrapped for thousands of workers",
-                "desc": "Workers at BNZ say they’re shocked and facing immediate financial distress after “sudden” cuts to a range of employee benefits – a move the union has label",
-                "image": "https://www.newstalkzb.co.nz/media/4onnislr/bnz-is-the-second-largest-bank-in-new-zealand-and-employs-more-than-5000-people-photo-nzme.jpg?rmode=crop&v=1dd0abe447f2470&height=395&width=635&quality=95&scale=both",
-                "url": "https://www.newstalkzb.co.nz/news/national/bnz-staff-stunned-as-key-benefits-scrapped-for-thousands-of-workers/",
-                "source": "Newstalk ZB",
-                "date": "2026-07-02T19:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'The Sault is incredible': Cousins launch collectible card shop in the city",
-                "desc": "Franco Cuglietta and Stephen Pozzebon, cousins born two weeks apart, have launched a Gore Street sports card and collectibles shop built around their lifelong hobby",
-                "image": "https://www.vmcdn.ca/f/files/sootoday/images/business/20260630oneofonecollectableska01.jpg;w=1200;h=800;mode=crop",
-                "url": "https://www.sootoday.com/local-news/the-sault-is-incredible-cousins-launch-collectible-card-shop-in-the-city-12491157",
-                "source": "SooToday.com",
-                "date": "2026-07-02T19:32:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
-                "desc": "Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data centers and other large constellations.",
-                "image": "https://spacenews.com/wp-content/uploads/2026/07/RTR-perovskite-manufaturing-scaled.jpeg",
-                "url": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
-                "source": "SpaceNews",
-                "date": "2026-07-02T19:27:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Renaissance Esmeralda Resort review: Family luxury in Palm Springs - Anna Sarjeant",
-                "desc": "Greater Palm Springs is every inch the coveted destination you’ve dreamed of, especially at the Renaissance Esmeralda Resort, Anna Sarjeant writes. It’s not...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/VHCY5QNHUFFLRFAAXHNQR4TAYQ.jpg?auth=da056fe8d6e1027f3ed68a3aabb4cb1b424744b7172a0c1526b81ee0d37e1721&width=1200&height=675&quality=70&focal=953%2C831&smart=false",
-                "url": "https://www.nzherald.co.nz/travel/renaissance-esmeralda-resort-review-family-luxury-in-palm-springs-anna-sarjeant/3VSTFDSWAJDGLDKFO7HJETRC6E/",
-                "source": "NZ Herald",
-                "date": "2026-07-02T19:25:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Breakfast briefing: US data weakens sharply",
-                "desc": "US jobs report weak; US factory orders also weak, worse after adjusting for PPI; China carmakers in profit crisis; Australia reports rare trade deficit; UST 10yr at 4.48%; gold firm and oil stable; NZ$1 = 56.9 USc; TWI-5 = 60.8",
-                "image": "https://www.interest.co.nz/themes/custom/interest_19/favicon.ico",
-                "url": "https://www.interest.co.nz/economy/139236/us-jobs-report-weak-us-factory-orders-also-weak-worse-after-adjusting-ppi-china",
-                "source": "Interest.co.nz",
-                "date": "2026-07-02T19:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firmus wants to build three AI data centres in Tasmania, but can the state handle them?",
-                "desc": "An artificial intelligence company wants to build three AI factories in Tasmania, but questions are being raised about the impacts and benefits for the state.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/d62b239a96a0a2c6ec18f786cd6524f2?impolicy=wcms_watermark_news&cropH=2534&cropW=4505&xPos=0&yPos=1070&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-03/firmus-ai-data-centres-is-tasmania-ready/106869862",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-02T19:23:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sky News Australia",
-                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
-                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
-                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
-                "source": "Sky News Australia",
-                "date": "2026-07-02T19:00:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Securitize (SECZ) takes $295M of its own tokenized stock to Solana, Avalanche amid NYSE debut",
-                "desc": "The newly-public company's shares are the largest issuer-sponsored tokenized stock at launch, aiming to make a point against rival third-party stock token issuers.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-                "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
-                "source": "CoinDesk",
-                "date": "2026-07-02T19:00:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This paradise is easier for Aussies to reach than ever before",
-                "desc": "A new direct flight from Melbourne makes the Maldives so much more accessible. Here’s our expert guide to where to stay.",
-                "image": "https://static.ffx.io/images/$zoom_0.2018970189701897%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/1fc2f25f676f7101be87290f45da8f472e1a764e",
-                "url": "https://www.smh.com.au/traveller/inspiration/this-paradise-is-easier-for-aussies-to-reach-than-ever-before-20260628-p60aqj.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-02T19:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Hands-on with the new Shimano Deore mechanical groupset, including real-world weights",
+                "desc": "We take a look at the updated Shimano Deore mechanical groupset to dive into its details and find out the weights of each component.",
+                "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/7d0cd43e-485b-4e19-aa47-3c13307b2149/0011141d-e01f-49a7-aab8-2b2a033d7a68/FotoJet-32.jpg?preview=false&platform=WEB&deviceId=fb9c997c-e89e-4afd-8143-14ec48cb0afc&w=1200",
+                "url": "https://www.bikeradar.com/features/first-look-friday/shimano-deore-m7200-weights-and-details",
+                "source": "BikeRadar",
+                "date": "2026-07-02T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rumour: Xbox Is 'Heavily Evaluating' Halo's Future Just Weeks Before Its PS5 Debut",
+                "desc": "Master plan - To say Xbox is in chaos right now would be an understatement. The platform holder is currently in the midst of managing mass layoffs throughou...",
+                "image": "https://images.pushsquare.com/75556a9e28633/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/rumour-xbox-is-heavily-evaluating-halos-future-just-weeks-before-its-ps5-debut",
+                "source": "Push Square",
+                "date": "2026-07-02T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iFLYTEK Launches AINOTE 2 and AINOTE Air 2 Across Australia, Bringing Smarter Note-Taking to Modern Work",
+                "desc": "New AI-powered E Ink notebooks help professionals and students capture conversations, organise information and stay focused in meetings and lectures.",
+                "image": "https://img.einnews.com/facebook/1144516/pr-2-hero-image.jpeg",
+                "url": "https://www.einpresswire.com/article/923813050/iflytek-launches-ainote-2-and-ainote-air-2-across-australia-bringing-smarter-note-taking-to-modern-work",
+                "source": "EIN Presswire",
+                "date": "2026-07-02T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Video Game History Foundation Addresses Death of Physical PlayStation Games",
+                "desc": "Following the recent controversial announcement that Sony will no longer be making physical games media for new games as of early 2027, the rumors that Xbox is moving in the same direction with the Helix console, and the recent trend of Nintendo physical media only providing a digital game key, the ...",
+                "image": "https://www.techpowerup.com/img/gCgU6Eo0NLO08iWg.jpg",
+                "url": "https://www.techpowerup.com/350479/video-game-history-foundation-addresses-death-of-physical-playstation-games",
+                "source": "TechPowerUp",
+                "date": "2026-07-02T22:59:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony Discusses Potential Future PlayStation Plus Price Hikes",
+                "desc": "Sony says it continues to balance value and pricing for PlayStation Plus, addressing the possibility of future subscription increases.",
+                "image": "https://insider-gaming.com/wp-content/uploads/2025/12/PlayStation-Plus-2025.jpg",
+                "url": "https://insider-gaming.com/sony-discusses-potential-future-playstation-plus-price-hikes/",
+                "source": "Insider Gaming",
+                "date": "2026-07-02T22:57:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iOS 27 helps apps detect when a user may be getting scammed in real time",
+                "desc": "A new iOS 27 framework will help apps fight back against social engineering scams as they unfold via voice calls, text messages, emails, and more.",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ios27-scam-alert.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/02/ios-27-helps-apps-detect-when-a-user-may-be-getting-scammed-in-real-time/",
+                "source": "9to5Mac",
+                "date": "2026-07-02T22:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Companies poke fun after Sony decided to go fully digital",
+                "desc": "PlayStation will end physical disc production in 2028, facing backlash for digital-only shifts; companies mock it, Xbox ensures physical game access.",
+                "image": "https://www.deseret.com/resizer/v2/5ERNE7U5UNCM5GV4MFXL2SOHJY.jpg?focal=0%2C0&auth=b39f7d6e0d3e62eef711bdc2c0bbc4522edaafa383ff737d88b087dd24ac70c8&width=630&height=331",
+                "url": "https://www.deseret.com/business/2026/07/02/companies-troll-playstation-for-stopping-production-of-physical-discs/",
+                "source": "Deseret News",
+                "date": "2026-07-02T22:49:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quaid-I-Azam University Team Models Positronium Decay For Weak Process Investigation",
+                "desc": "Until now, the weak decay of positronium has remained a shadowy counterpart to its better-understood radiative cousin. Calculations reveal the branching ratio for positronium’s decay into an electron and muon neutrinos is comparable to that of ortho-positronium decaying into photons, opening a new avenue for probing three-body weak interactions within a bound state. This work establishes a theoretical foundation for understanding this previously less-studied process.",
+                "image": "https://quantumzeitgeist.com/wp-content/uploads/quaid-i-azam-university-team-models-positronium-decay-for-weak-process-investiga-1024x630.jpg",
+                "url": "https://quantumzeitgeist.com/quaid-i-azam-university-models-positronium-decay-weak-process/",
+                "source": "Quantum Zeitgeist",
+                "date": "2026-07-02T22:44:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Sony to end releasing PlayStation games on disc, earning ire from gamers despite market shift to digital",
                 "desc": "Sony will stop producing discs for physical copies of all new PlayStation video games starting in 2028, the company announced Wednesday, citing customers' growing preference to buy and download their games online.",
@@ -1192,81 +1264,36 @@
                 "source": "Games Press",
                 "date": "2026-07-02T19:07:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The First Descendant Kicks off Second Anniversary With ‘Descendant Fest 2026,’ World Premiere Trailer and Future Roadmap",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/The-First-Descendant-Kicks-off-Second-Anniversary-With-Descendant-Fest",
-                "source": "Games Press",
-                "date": "2026-07-02T19:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Zac Efron is turning an Aussie bush block into his forever home",
-                "desc": "Efron is building his forever home – somewhere he could start a family – in NSW’s Tweed Valley. And while he’s not placing every brick, he is taking the building very seriously. This week he was seen checking in on hemp he planted that will soon be used in his kitchen.",
-                "image": "https://static.ffx.io/images/$zoom_0.16108913903255248%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_37/t_crop_custom/q_86%2Cf_auto/6a424f00bd046a72eb3b17bf6d1eafa22d37bfa4",
-                "url": "https://www.smh.com.au/property/news/how-zac-efron-is-turning-an-aussie-bush-block-into-his-forever-home-20260617-p607ow.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-02T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Don't Get Charged for a Subscription After Preordering 'Grand Theft Auto VI'",
-                "desc": "If you redeemed the free month of GTA+ that came with your Grand Theft Auto: VI preorder, but make sure to cancel before it auto-renews.",
-                "image": "https://lifehacker.com/imagery/articles/01KWJ037NZJ7B6R61PXHN2PPX6/hero-image.fill.size_1200x675.png",
-                "url": "https://lifehacker.com/tech/automatic-subscription-charge-grand-theft-auto-vi",
-                "source": "Lifehacker",
-                "date": "2026-07-02T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KFC and Domino's Respond to PlayStation Ending Disc Games",
-                "desc": "Two food franchises jokingly responded on X to PlayStation's controversial decision to cease production of physical games.",
-                "image": "https://cdn.nerdist.com/wp-content/uploads/2026/07/02090827/Untitled-design-5.jpg",
-                "url": "https://nerdist.com/article/kfc-dominos-respond-to-playstation-ending-disc-games/",
-                "source": "Nerdist",
-                "date": "2026-07-02T18:59:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX Built the Network an AI Device Needs. Now What?",
-                "desc": "SpaceX reportedly showed investors a prototype AI device but Elon Musk denied it. The question is what problem a such a device would solve.",
-                "image": "https://www.pymnts.com/wp-content/uploads/2026/06/SpaceX.jpeg",
-                "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-built-the-network-an-ai-device-needs-now-what/",
-                "source": "PYMNTS.com",
-                "date": "2026-07-02T18:58:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Focus on These Early 4th of July Lenovo Deals on Top-Rated PCs, Monitors, and Tablets",
-                "desc": "Need a new laptop or tablet? Lenovo makes some of the best ones out there, and the holiday weekend is bringing low prices.",
-                "image": "https://i.pcmag.com/imagery/articles/05qeZu8KGDTj65BnAlwCG1b-5.fit_lim.size_1200x630.v1783017642.png",
-                "url": "https://www.pcmag.com/deals/best-lenovo-laptop-tablet-monitor-deals-early-july-4th-2026-sale",
-                "source": "PCMag",
-                "date": "2026-07-02T18:49:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crocs Terre Tech Turns the Mary Jane Into a Trail Shoe",
-                "desc": "Crocs Terre Tech reimagines the Mary Jane with a rugged ballistic upper and treaded outsole, blending delicate design with utility-driven performance.",
-                "image": "https://www.highsnobiety.com/static-assets/dato/1782897474-crocs-mary-jane.png",
-                "url": "https://www.highsnobiety.com/p/crocs-terre-tech-mary-jane/",
-                "source": "Highsnobiety",
-                "date": "2026-07-02T18:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lenovo Expands ThinkPad X13 Gen 7 Globally With Intel Panther Lake and 32 GB RAM Options",
-                "desc": "Lenovo has expanded global availability of its ThinkPad X13 Gen 7 business laptop, introducing Intel Panther Lake processors with vPro support and up…",
-                "image": "https://img.biggo.com/BUf1E8fb1_v-1dy55-6vhLaE5A7G6r9zO4ipNVpS5to/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzMxNWUwOWVlLWJiOTgtNDA1My1hYzUwLTk4ODFkOTQ2ZDZiYl8xNzgzMDE4Njk2X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/315e09ee-bb98-4053-ac50-9881d946d6bb",
-                "source": "finance.biggo.com",
-                "date": "2026-07-02T18:47:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Critical thinking skills helped secure jobs, say overseas alumni",
+                "desc": "Third edition of British Council survey of international graduates shows continued positivity with UK education, despite sector challenges",
+                "image": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/gettyimages-2227862889.jpg?itok=kfJkpO6D",
+                "url": "https://www.timeshighereducation.com/news/critical-thinking-skills-helped-secure-jobs-say-overseas-alumni",
+                "source": "Times Higher Education",
+                "date": "2026-07-02T23:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Details emerge of the hours after Australian man Simon Carman allegedly murdered Thai teen and hid her body in a suitcase",
+                "desc": "Australian man Simon Carman is “likely” to face the death penalty in Thailand, where he is charged with the murder of 17-year-old Tunchanok Donhomla, whose...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/2JEAO5JMI5HCLP2G7X7ZV6YCFQ.png?auth=7e65d98dcf525628771909d349355ad829cbdb632b204079afb7496469354337&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/world/details-emerge-of-the-hours-after-australian-man-simon-carman-allegedly-murdered-thai-teen-and-hid-her-body-in-a-suitcase/PA32LUUP2FAE3AHCOJZVDNYM2M/",
+                "source": "NZ Herald",
+                "date": "2026-07-02T22:57:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rostam Azizi receives top Tanzania chamber of commerce award",
+                "desc": "Tanzania's chamber of commerce gave billionaire Rostam Azizi its highest award for investment and job creation as the premier praised business.",
+                "image": "https://storage.ghost.io/c/08/35/0835e1b0-0cd7-4c1a-8c28-d6f7bc4d9c84/content/images/2026/07/Rostam-Aziz-1.webp",
+                "url": "https://www.billionaires.africa/2026/07/02/billionaire-rostam-aziz-receives-top-tanzania-chamber-of-commerce-award/",
+                "source": "Billionaires.Africa",
+                "date": "2026-07-02T22:56:40Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump defends business dealings, his children in CNBC interview",
                 "desc": "Trump spoke with CNBC as he prepares to celebrate the 250th birthday of the U.S. on July 4 with an event and fireworks on the National Mall in Washington.",
@@ -1869,35 +1896,8 @@
                 "source": "98.4 Capital FM Kenya",
                 "date": "2026-07-02T18:47:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Inside Venezuela anger and desperation are rising. The number of corpses is 'incalculable'",
-                "desc": "On the ground in Venezuela, death and desperation linger but they are juxtaposed against miracle survival stories.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/9a45fb08e7428d28ede93ffbe98e6049?impolicy=wcms_watermark_news&cropH=2199&cropW=3911&xPos=0&yPos=207&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-03/inside-venezuela-post-earthquake-miracle-survival-and-despair/106867484",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-02T18:43:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Killers of British couple in South Africa sentenced to life",
-                "desc": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cec3/live/58a41cc0-7644-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/cvgm49j9692o",
-                "source": "BBC",
-                "date": "2026-07-02T18:43:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The condition that causes people to get lost in their own home",
-                "desc": "The condition is more than merely being bad with directions.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--BP6dds9B--/t_tohu-badge-facebook/f_auto/q_auto/4JM6LQV_196258476_l_jpg",
-                "url": "https://www.rnz.co.nz/life/wellbeing/the-condition-that-causes-people-to-get-lost-in-their-own-home",
-                "source": "RNZ",
-                "date": "2026-07-02T18:33:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T10:40:58.406829Z"
+    "lastGlobalSync": "2026-07-03T11:01:00.882039Z"
 }
