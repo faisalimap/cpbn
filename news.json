@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "125 people infected by norovirus on Princess Cruises ship from San Francisco to Alaska",
+                "desc": "Health officials say more than 120 passengers and crew on a Princess Cruises ship were infected with a stomach virus during a 20-day trip to Canada and Alaska.",
+                "image": "https://dims.apnews.com/dims4/default/56c8a9c/2147483647/strip/true/crop/5601x3732+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F1d%2Fefd3409749304d675e1516fc2b9f%2F8ed0feef9258454eb1434a895a1c2932",
+                "url": "https://apnews.com/article/ruby-princess-norovirus-outbreak-san-francisco-9c1e131aa8a00c76cde2542b2f40fc9e",
+                "source": "AP News",
+                "date": "2026-07-02T23:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
+                "desc": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+                "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+                "source": "TechCrunch",
+                "date": "2026-07-02T23:38:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Derivatives, Legislative and Regulatory Weekly Update (July 2, 2026)",
+                "desc": "From the Derivatives Practice Group: This week, ESMA published a report relating to transaction reporting simplification, while ISDA published a …",
+                "image": "https://www.gibsondunn.com/wp-content/uploads/2024/01/01.17.24_News-Alert_Derivatives-Legislative-and-Regulatory-Weekly-Update.jpg",
+                "url": "https://www.gibsondunn.com/derivatives-legislative-and-regulatory-weekly-update-july-2-2026/",
+                "source": "Gibson Dunn",
+                "date": "2026-07-02T23:37:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands of Victorian drivers to receive refunds after Linkt toll road overcharge",
+                "desc": "Toll company Linkt says up to 90,000 motorists may have been over or undercharged after driving on CityLink or the West Gate Tunnel.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/a86e07c2a716723c9c7784e893570126?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-03/linkt-wrong-charges-refund-motorists/106874556",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-02T23:34:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Has New AI Chips for Home Tech Devices and Future Mobile Gadgets",
+                "desc": "Amazon's head of devices and services discussed the company's focus on artificial intelligence, Alexa Plus and new types of technology to support it.",
+                "image": "https://www.cnet.com/a/img/resize/cef9d1ee9538586761d38812e4c08fef2ce2e78f/hub/2025/11/18/d6d84de4-8e3e-4014-93c7-a305e2894e2c/echo-show-11-counter.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/home/smart-home/amazon-reveals-silicon-chip-design-plans-alexa-plus-on-the-go-devices/",
+                "source": "cnet.com",
+                "date": "2026-07-02T23:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Women Farmers Cut $10bn Food Losses With Renewable Energy",
+                "desc": "Nigerian women farmers are adopting solar energy to reduce an estimated $10bn in food losses, transforming agriculture and post-harvest practices. Learn ho",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/women-farmers_1783033382-1200x630.webp",
+                "url": "https://punchng.com/women-farmers-cut-10bn-food-losses-with-renewable-energy/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-02T23:26:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why the Dow Jones rose 600 points on Thursday but the Nasdaq 100 declined sharply",
+                "desc": "The Dow Jones gained over 600 points to close at another record high, just shy of the mark of 53,000. The S&P 500 recovered from the day's low to end at the flat line, while the Nasdaq composite declined 0.8%. The Nasdaq 100 index, which includes multiple chipmakers, underperformed to end with losses of 1.6% on Thursday.",
+                "image": "https://images.cnbctv18.com/uploads/2026/07/modified-infographic-img-0-2026-07-02t23-19-43547285-2026-07-abd83273bb762d55cbf0a249d87d5c75.jpeg?im=FitAndFill,width=1200,height=675",
+                "url": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-us-market-why-dow-rose-but-nasdaq-fell-chip-jobs-holiday-19937714.htm",
+                "source": "CNBC TV18",
+                "date": "2026-07-02T23:24:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Farm succession: Why older farmers are delaying retirement",
+                "desc": "By Kim Savage of RNZ At a Totara Valley farm in South Canterbury, the winter kale crops blow in the cold wind, but instead of being out moving fence breaks,...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/Y2TIJAMBFFBKZOWSZTLM2KVWA4.jpg?auth=13f538c15856dc721dd74e8d554f008a8f63852f6b584b71cbcebe95a57e8023&width=1200&height=675&quality=70&focal=404%2C75&smart=false",
+                "url": "https://www.nzherald.co.nz/the-country/news/farm-succession-why-older-farmers-are-delaying-retirement/77NTIZCPSVGJJAYIFFTNL5I3RI/",
+                "source": "NZ Herald",
+                "date": "2026-07-02T23:19:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "African Startup Funding Rebounds to $3.9bn in 2025",
+                "desc": "African startup funding saw a significant rebound in 2025, reaching $3.9bn across 506 deals. Discover how venture debt and diversified investments are driv",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/1-2_1783029403-1200x630.webp",
+                "url": "https://punchng.com/african-startups-raise-3-9bn-as-funding-rebounds-report/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-02T23:19:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Coles Christmas in July: Supermarket shock as seasonal items arrive five months early including fruit mince pies, and more",
+                "desc": "What Coles has on offer, and the risk this poses for sales later in the year.",
+                "image": "https://static.ffx.io/images/$zoom_1.035%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_176/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/d34768118afb36a82907611689b6660b9b86ad36fc2b1688607e877c5181eebf",
+                "url": "https://www.nine.com.au/lifestyle/money/holiday-foods-early-release-supermarkets-christmas-mince-pies-coles-seasonal-food-20260702-p60bw9.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-02T23:15:16Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "New legal right to speak to a human for finance consumers",
                 "desc": "New rules to be signed into law today will give consumers the legal right to speak to a person instead of an AI chatbot when buying financial products or services either online or over the phone.",
                 "image": "https://www.rte.ie/images/0024a104-1600.jpg",
@@ -542,99 +632,54 @@
                 "source": "TechCrunch",
                 "date": "2026-07-02T20:11:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The 4% withdrawal rule for retirees is dead. Long live the 4.7% rule",
-                "desc": "A look at one common rule of thumb suggests that retirees can safely withdraw more of their assets to cover their spending",
-                "image": "https://www.theglobeandmail.com/resizer/v2/RGBMOD2VZBAAFKY7ML4U5VOIWU.jpg?auth=aa5d4f802dfa39b6c46b345880fb7723f554d543977361a4cc3d552a72cc54ae&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/personal-finance/retirement/article-4-withdrawal-rule-retirees-dead-fire/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-02T20:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Massive cruise on lockdown off California coast as 120 passengers go down with disgusting symptoms",
-                "desc": "A cruise ship is on lockdown in San Francisco after an outbreak affecting more than 100 passengers and 20 crew.",
-                "image": "https://s.yimg.com/lo/mysterio/api/808d3454c204a37a8dbf1dc3f8d462dbfdcd651421bdff64bdb135911b82b8c4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fba504a8e1ed058728074d62c8c60469b",
-                "url": "https://www.yahoo.com/news/us/articles/massive-cruise-lockdown-off-california-195928983.html",
-                "source": "Yahoo",
-                "date": "2026-07-02T19:59:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top ASX 200 share of each market sector in FY26",
-                "desc": "Winners are grinners! We reveal the top S&P/ASX 200 Index (ASX: XJO) shares for capital growth in each of the 11 market sectors last year.",
-                "image": "https://www.fool.com.au/wp-content/uploads/2021/10/best-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/03/top-asx-200-share-of-each-market-sector-in-fy26/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-02T19:56:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Jersey Becomes Latest State to Pass Law Against Surveillance Pricing",
-                "desc": "The legislation only applies to grocery stores and still needs to be signed by the governor to become law.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/grocery-store-stock-1200x675.jpg",
-                "url": "https://gizmodo.com/new-jersey-becomes-latest-state-to-pass-law-against-surveillance-pricing-2000780265",
-                "source": "Gizmodo",
-                "date": "2026-07-02T19:55:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dell: Too Far, Too Fast",
-                "desc": "Dell Technologies Inc.’s AI server boom fuels a valuation re-rating, but after a 300% surge, risks rise. Click for more on DELL stock and its valuation.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/533008105/image_533008105.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4919578-dell-too-far-too-fast",
-                "source": "Seeking Alpha",
-                "date": "2026-07-02T19:49:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FMCG companies ride the heatwave to make cool gains",
-                "desc": "Intense heatwaves fueled double-digit sales growth for FMCG, white goods, and retailers in the April-June quarter. Companies reported improved operating profits, aided by price hikes, despite rising input costs. While optimistic about consumption, firms are closely watching inflationary trends and El Nino's potential monsoon impact. Summer products saw a significant boost, though some categories faced challenges.",
-                "image": "https://img.etimg.com/thumb/msid-132150545,width-1200,height-630,imgsize-195112,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-companies-ride-the-heatwave-to-make-cool-gains/articleshow/132147311.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-02T19:46:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Micron Just Delivered Massive News for Shareholders",
-                "desc": "Micron shattered expectations with its latest earnings report and could shatter future projections, too.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876858%2Fmu.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/02/micron-just-delivered-massive-news-for-shareholder/",
-                "source": "The Motley Fool",
-                "date": "2026-07-02T19:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eni: Diversification Strategy Driving Long-Term Value Creation",
-                "desc": "Eni expands gas/LNG & trading via new projects and Mercuria JV, raises FY2026 guidance, and boosts buybacks to €2.8bn. Click for more on NYSE:E stock.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2257939672/image_2257939672.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4919576-eni-diversification-strategy-driving-long-term-value-creation",
-                "source": "Seeking Alpha",
-                "date": "2026-07-02T19:39:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Multiple Rockford-area Beef-a-Roo restaurants close as employees plan to strike",
-                "desc": "Eight Beef-a-Roo locations in the Rockford area appeared to be closed Thursday.",
-                "image": "https://gray-wifr-prod.gtv-cdn.com/resizer/v2/YTCYUSAEBFF6NJCB6LT6DSIVXM.jpg?auth=d1594257b879ebf21c8ccca177dfba5109b1044b236c6be3d243ea790d4a3861&width=1200&height=600&smart=false&focal=314%2C643",
-                "url": "https://www.wifr.com/2026/07/02/only-1-rockford-area-beef-a-roo-location-is-open-right-now/",
-                "source": "WIFR",
-                "date": "2026-07-02T19:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What are the investment options for Trump Accounts?",
-                "desc": "Trump Accounts launch July 4 with the State Street SPDR Portfolio S&P 500 ETF as the default investment. The Treasury Department plans to add more low-cost index fund options soon.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/donald-trump-accounts-pointing.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/markets/what-investment-options-trump-accounts",
-                "source": "Fox Business",
-                "date": "2026-07-02T19:36:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Dune: Awakening console deep dive video released, physical edition announced",
+                "desc": "Following the announcement that Dune: Awakening will launch on consoles in September, Funcom has announced today that it has teamed up with Bandai Namco to release physical copies of Dune: Awakening on PS5 in Australia and New Zealand. Alongside the announcement, a developer deep dive video has been released showing off what players can expect",
+                "image": "https://powerup-gaming.com/wp-content/uploads/2026/06/ConsoleAnnoucement__ExploreDune-scaled.png",
+                "url": "https://powerup-gaming.com/dune-awakening-console-deep-dive-video-released-physical-edition-announced/",
+                "source": "powerup-gaming.com",
+                "date": "2026-07-02T23:24:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bentley Mulliner Introduces Side-to-Side Paint Fade Exclusively for Supersports",
+                "desc": "Bentley's in-house personalisation arm has created a new design theme for the Supersports that features a first-for-the-brand paint fade sweeping across the full width of the car.",
+                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/Design-Theme-by-Mulliner-3-jpg.webp",
+                "url": "https://www.tarmaclife.co.nz/news/bentley-mulliner-introduces-side-to-side-paint-fade-exclusively-for-supersports/",
+                "source": "Tarmac Life",
+                "date": "2026-07-02T23:03:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why's it so hard to find a bottle bank in the city centre?",
+                "desc": "The council only has one in all of Dublin 1.",
+                "image": "https://storage.ghost.io/c/9f/78/9f782dda-9dc9-44d1-b817-fe80588bdc76/content/images/size/w1200/2026/07/Bottle-bank-1.jpg",
+                "url": "https://www.dublininquirer.com/whys-it-so-hard-to-find-a-bottle-bank-in-the-city-centre/",
+                "source": "Dublin InQuirer",
+                "date": "2026-07-02T23:02:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Artificial intelligence: Yann LeCun works on more flexible AI",
+                "desc": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o",
+                "source": "BBC",
+                "date": "2026-07-02T23:02:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yann LeCun works on more flexible AI",
+                "desc": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
+                "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+                "source": "BBC",
+                "date": "2026-07-02T23:02:09Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Hands-on with the new Shimano Deore mechanical groupset, including real-world weights",
                 "desc": "We take a look at the updated Shimano Deore mechanical groupset to dive into its details and find out the weights of each component.",
@@ -1219,54 +1264,99 @@
                 "source": "AzerNews",
                 "date": "2026-07-02T19:23:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Customizing Roguelike with Thrilling Battles\"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/021429-41da9b0e/战斗3.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=e45763cd16b4cca4c1565804464e2b4109e3e5d467f8d436cc8a01b604067a1b",
-                "url": "https://www.gamespress.com/World-Premiere-Cats-in-the-Shell-a-Mecha-Customizing-Roguelike-with-Th",
-                "source": "Games Press",
-                "date": "2026-07-02T19:13:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hell Clock: Cursed War Brings Launch Date Forward to July 9, Drops New Gameplay Walkthrough Trailer",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Hell-Clock-Cursed-War-Brings-Launch-Date-Forward-to-July-9-Drops-New-G",
-                "source": "Games Press",
-                "date": "2026-07-02T19:12:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
-                "desc": "The U.S.",
-                "image": "https://media.licdn.com/dms/image/v2/D4E12AQEUs3AWh5FTrw/article-cover_image-shrink_720_1280/B4EZ8jovJ3KoAQ-/0/1783009316604?e=2147483647&v=beta&t=qmCtm3Vqesdmkij9K-yl3Z3M9uTsG5J9p6lmLzNk63c",
-                "url": "https://www.linkedin.com/pulse/cisa-warns-actively-exploited-microsoft-sharepoint-xonue",
-                "source": "LinkedIn",
-                "date": "2026-07-02T19:08:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Surreal narrative puzzle adventure Looking For Fael locks in July 16th release date on PC and consoles",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Surreal-narrative-puzzle-adventure-Looking-For-Fael-locks-in-July-16th",
-                "source": "Games Press",
-                "date": "2026-07-02T19:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Funcom Releases Dune: Awakening Console Deep Dive, Announces Physical Edition",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Funcom/2025/06/031405-1f6cf136/DA_GC24_KeyArt_1920x1080_(1).jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=972f602aec3d9ef3ffd495df55015abc8cdf18d2a083684dbac1cd3c78bc69ee",
-                "url": "https://www.gamespress.com/Funcom-Releases-Dune-Awakening-Console-Deep-Dive-Announces-Physical-Ed",
-                "source": "Games Press",
-                "date": "2026-07-02T19:07:30Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "AI-powered containers help reshape farming in Xizang",
+                "desc": "Growing fresh vegetables year-round at a high altitude once seemed improbable. In the Dagze district of Lhasa, Xizang autonomous region, smart growing containers powered by artificial intelligence are beginning to render the seasons irrelevant.",
+                "image": "http://img2.chinadaily.com.cn/images/202607/03/6a46f5a0a310986e1018d2b5.jpeg",
+                "url": "https://www.chinadaily.com.cn/a/202607/03/WS6a46f5a0a310986e2b46340f.html",
+                "source": "China Daily",
+                "date": "2026-07-02T23:34:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Will the end of TPS for Haitians mean a caregiving crisis in US?",
+                "desc": "Immigrants with temporary protection more likely to work in healthcare, representing 15 percent of noncitizen workers.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a46f2c3-1783034563.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/2/will-the-end-of-tps-for-haitians-mean-a-caregiving-crisis-in-us",
+                "source": "Al Jazeera",
+                "date": "2026-07-02T23:34:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MACC not being probed over Pamela Ling’s disappearance, says Saifuddin",
+                "desc": "Home minister responds to a question about whether MACC officers were also investigated after the Sarawakian businesswoman was allegedly abducted while on her way to the agency’s headquarters.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/05/7f53f9fc-pamela-ling-fb-050525-2.webp",
+                "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/macc-not-being-probed-over-pamela-lings-disappearance-says-saifuddin",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-02T23:27:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A blind woman bent down to kiss her guide dog goodnight, and the accident that followed restored her vision",
+                "desc": "Lisa Reid, who lost her vision to a childhood brain tumor, experienced a medical miracle after hitting her head on a coffee table.",
+                "image": "https://s.yimg.com/os/en/upworthy_219/7ce295b85dd311195893d847db8f8dba",
+                "url": "https://sg.style.yahoo.com/blind-woman-bent-down-kiss-232650245.html",
+                "source": "Yahoo Lifestyle Singapore",
+                "date": "2026-07-02T23:26:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "born engineer years in US $1.64 million contract fraud",
+                "desc": "A Nigerian-born engineer with the City of St. Louis, Banjo Popoola, has pleaded guilty in US to orchestrating a multimillion-dollar fraud",
+                "image": "https://www.icirnigeria.org/wp-content/uploads/2026/07/image218-e1783023359203.png",
+                "url": "https://www.icirnigeria.org/nigerian-born-engineer-faces-20-year-sentence-in-us-after-admitting-to-1-64m-contract-fraud/",
+                "source": "The ICIR",
+                "date": "2026-07-02T23:24:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China ramps up warning to Japan, Philippines over maritime talks",
+                "desc": "Japan and the Philippines have suggested they would likely be drawn into any fight over Taiwan. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7cb0f6734e19e7187e81a4edff6d0324b390f50a35de80ea89b8bbb7a2c38f64",
+                "url": "https://www.straitstimes.com/asia/east-asia/china-ramps-up-warning-to-japan-philippines-over-maritime-talks",
+                "source": "The Straits Times",
+                "date": "2026-07-02T23:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The U.S. Supreme Court is now an enabler of, not a check on, presidential power",
+                "desc": "Top court affirmed several of Trump’s efforts to extend executive power into realms no president dared contemplate before",
+                "image": "https://www.theglobeandmail.com/resizer/v2/RKMM7E2OZJCNBPIIRUORBLVLXQ.JPG?auth=21b89736ada8291bf2ef0fcc4fe5bba18c55828bee1d7215e1277baa3c13f62f&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/world/us-politics/article-us-supreme-court-enabler-not-check-on-presidential-power/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-02T23:16:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strait of Hormuz: BBC sees seized ships and stranded tankers on visit to Iran",
+                "desc": "The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a87a/live/56abb7e0-7633-11f1-a627-714adb4eed6e.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo",
+                "source": "BBC",
+                "date": "2026-07-02T23:15:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BBC sees seized ships and stranded tankers on visit to Iran",
+                "desc": "The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a87a/live/56abb7e0-7633-11f1-a627-714adb4eed6e.jpg",
+                "url": "https://www.bbc.com/news/articles/cvg53ngvvpxo",
+                "source": "BBC",
+                "date": "2026-07-02T23:15:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘King Trump’ is stronger than ever after US supreme court bolsters his agenda",
+                "desc": "Birthright citizenship ruling only a surface-level setback, with the court granting president’s multiple power grabs",
+                "image": "https://i.guim.co.uk/img/media/91707f4e27873a68db45c29a94a7391bcf4f4dca/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c795d234a9ead6cbaf7413b78bba6b9a",
+                "url": "https://www.theguardian.com/us-news/2026/jul/02/us-supreme-court-donald-trump-power-grab",
+                "source": "The Guardian",
+                "date": "2026-07-02T23:15:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Critical thinking skills helped secure jobs, say overseas alumni",
                 "desc": "Third edition of British Council survey of international graduates shows continued positivity with UK education, despite sector challenges",
@@ -1806,98 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-02T19:24:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Beijing pushes for a China-Pakistan-style economic corridor with Bangladesh and Myanmar",
-                "desc": "China News: DHAKA: China said Thursday it is \\\"determined\\\" to build an economic corridor with Bangladesh and Myanmar, but remains open to \\\"other countries\\\" joining.",
-                "image": "https://static.toiimg.com/thumb/msid-132147115,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/china/beijing-pushes-for-a-china-pakistan-style-eco-corridor-with-bangladesh-and-myanmar/articleshow/132147160.cms",
-                "source": "The Times of India",
-                "date": "2026-07-02T19:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Venezuela's earthquake-hit hospitals pushed to the brink as disease risk grows",
-                "desc": "A week after earthquakes tore through northern Venezuela, hospitals in La Guaira are buckling under the weight of the disaster – and the risk of disease outbreaks in shelters is rising fast.",
-                "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/02-07-2026-PAHO-Venezuela-02.jpg/image770x420cropped.jpg",
-                "url": "https://news.un.org/en/story/2026/07/1167868",
-                "source": "UN News",
-                "date": "2026-07-02T19:17:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "151 Kenyans repatriated from South Africa amid anti-migrant tensions",
-                "desc": "Prime Cabinet Secretary Musalia Mudavadi said that a total of 240 Kenyan nationals requiring assistance have registered with the Kenya High Commission in Pretoria.",
-                "image": "https://capitalfm.africa/wp-content/uploads/business/2026/02/KENYA-AIRWAYS-KQ-1.jpg",
-                "url": "https://capitalfm.africa/151-kenyans-repatriated-from-south-africa-amid-anti-migrant-tensions/",
-                "source": "98.4 Capital FM Kenya",
-                "date": "2026-07-02T19:13:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This paradise is easier for Aussies to reach than ever before",
-                "desc": "A new direct flight from Melbourne makes the Maldives so much more accessible. Here’s our expert guide to where to stay.",
-                "image": "https://static.ffx.io/images/$zoom_0.2018970189701897%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/1fc2f25f676f7101be87290f45da8f472e1a764e",
-                "url": "https://www.smh.com.au/traveller/inspiration/this-paradise-is-easier-for-aussies-to-reach-than-ever-before-20260628-p60aqj.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-02T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Arcadia man sentenced to prison for abusing children in Philippines",
-                "desc": "An Arcadia man will serve 30 years in prison after he traveled to the Philippines and sexually abused children and possessed over 100 exploitative images.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/3c9a19a4-d84d-4a48-849b-f792907eada9.jpg?resize=1200%3A*&crop=1.00xw%3A0.846xh%3B0%2C0.0293xh",
-                "url": "https://www.gulfcoastnewsnow.com/article/arcadia-federal-prison-sentence-child-sex-abuse-philippines/71808468",
-                "source": "Gulf Coast News and Weather",
-                "date": "2026-07-02T18:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dangerous US heatwave looms over 4 July holiday, World Cup and Swift wedding",
-                "desc": "The soaring temperatures are raising concerns as President Donald Trump hosts America's 250th birthday celebrations and multiple World cup matches take place outdoors.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/39fc/live/ca4b0090-7645-11f1-80e8-6762ba9fc358.jpg",
-                "url": "https://www.bbc.com/news/articles/cevlkzer7vdo",
-                "source": "BBC",
-                "date": "2026-07-02T18:56:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dangerous US heatwave looms over 4 July holiday, World Cup and Swift wedding",
-                "desc": "The soaring temperatures are raising concerns as President Donald Trump hosts America's 250th birthday celebrations and multiple World cup matches take place outdoors.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39fc/live/ca4b0090-7645-11f1-80e8-6762ba9fc358.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo",
-                "source": "BBC",
-                "date": "2026-07-02T18:56:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ex-Guinea PM's prison sentence reduced on appeal",
-                "desc": "An appeals court handed former Guinea prime minister Ibrahima Kassory Fofana a reduced prison sentence Thursday for a conviction that included illicit enrichment and money laundering.",
-                "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/1qwLk3W9XsWiE3n4pkx5OE6Y6Ot97iCCvOM6mIzp.jpg",
-                "url": "https://www.standardmedia.co.ke/africa/article/2001551912/ex-guinea-pms-prison-sentence-reduced-on-appeal",
-                "source": "standardmedia.co.ke",
-                "date": "2026-07-02T18:49:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mehbooba Mufti, J&K politicians fly to Iran for Khamenei funeral",
-                "desc": "India News: SRINAGAR: People’s Democratic Party president Mehbooba Mufti flew from New Delhi to Tehran on Thursday evening to attend funeral ceremonies of Ayatoll.",
-                "image": "https://static.toiimg.com/thumb/msid-132145672,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/india/mehbooba-mufti-jk-politicians-fly-to-iran-for-khamenei-funeral/articleshow/132145689.cms",
-                "source": "The Times of India",
-                "date": "2026-07-02T18:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From classrooms to careers: Can CBE finally produce Kenya’s market-ready workforce?",
-                "desc": "As Kenya prepares for the first university intake of CBE learners in 2029, the country's most ambitious education reform in decades is entering a defining phase.",
-                "image": "https://capitalfm.africa/wp-content/uploads/2026/07/b939a42c-5e66-422f-8be8-19315ab5fb92.png",
-                "url": "https://capitalfm.africa/from-classrooms-to-careers-can-cbe-finally-produce-kenyas-market-ready-workforce/",
-                "source": "98.4 Capital FM Kenya",
-                "date": "2026-07-02T18:47:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T11:01:00.882039Z"
+    "lastGlobalSync": "2026-07-03T11:40:58.402072Z"
 }
