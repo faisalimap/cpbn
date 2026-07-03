@@ -4,6 +4,69 @@
     "en": {
         "business": [
             {
+                "title": "The 4% withdrawal rule for retirees is dead. Long live the 4.7% rule",
+                "desc": "A look at one common rule of thumb suggests that retirees can safely withdraw more of their assets to cover their spending",
+                "image": "https://www.theglobeandmail.com/resizer/v2/RGBMOD2VZBAAFKY7ML4U5VOIWU.jpg?auth=aa5d4f802dfa39b6c46b345880fb7723f554d543977361a4cc3d552a72cc54ae&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/personal-finance/retirement/article-4-withdrawal-rule-retirees-dead-fire/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-02T20:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Massive cruise on lockdown off California coast as 120 passengers go down with disgusting symptoms",
+                "desc": "A cruise ship is on lockdown in San Francisco after an outbreak affecting more than 100 passengers and 20 crew.",
+                "image": "https://s.yimg.com/lo/mysterio/api/808d3454c204a37a8dbf1dc3f8d462dbfdcd651421bdff64bdb135911b82b8c4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fba504a8e1ed058728074d62c8c60469b",
+                "url": "https://www.yahoo.com/news/us/articles/massive-cruise-lockdown-off-california-195928983.html",
+                "source": "Yahoo",
+                "date": "2026-07-02T19:59:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top ASX 200 share of each market sector in FY26",
+                "desc": "Winners are grinners! We reveal the top S&P/ASX 200 Index (ASX: XJO) shares for capital growth in each of the 11 market sectors last year.",
+                "image": "https://www.fool.com.au/wp-content/uploads/2021/10/best-1200x675.jpg",
+                "url": "https://www.fool.com.au/2026/07/03/top-asx-200-share-of-each-market-sector-in-fy26/",
+                "source": "The Motley Fool Australia",
+                "date": "2026-07-02T19:56:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Jersey Becomes Latest State to Pass Law Against Surveillance Pricing",
+                "desc": "The legislation only applies to grocery stores and still needs to be signed by the governor to become law.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/grocery-store-stock-1200x675.jpg",
+                "url": "https://gizmodo.com/new-jersey-becomes-latest-state-to-pass-law-against-surveillance-pricing-2000780265",
+                "source": "Gizmodo",
+                "date": "2026-07-02T19:55:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dell: Too Far, Too Fast",
+                "desc": "Dell Technologies Inc.’s AI server boom fuels a valuation re-rating, but after a 300% surge, risks rise. Click for more on DELL stock and its valuation.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/533008105/image_533008105.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4919578-dell-too-far-too-fast",
+                "source": "Seeking Alpha",
+                "date": "2026-07-02T19:49:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FMCG companies ride the heatwave to make cool gains",
+                "desc": "Intense heatwaves fueled double-digit sales growth for FMCG, white goods, and retailers in the April-June quarter. Companies reported improved operating profits, aided by price hikes, despite rising input costs. While optimistic about consumption, firms are closely watching inflationary trends and El Nino's potential monsoon impact. Summer products saw a significant boost, though some categories faced challenges.",
+                "image": "https://img.etimg.com/thumb/msid-132150545,width-1200,height-630,imgsize-195112,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-companies-ride-the-heatwave-to-make-cool-gains/articleshow/132147311.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-02T19:46:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Micron Just Delivered Massive News for Shareholders",
+                "desc": "Micron shattered expectations with its latest earnings report and could shatter future projections, too.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876858%2Fmu.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/02/micron-just-delivered-massive-news-for-shareholder/",
+                "source": "The Motley Fool",
+                "date": "2026-07-02T19:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Eni: Diversification Strategy Driving Long-Term Value Creation",
                 "desc": "Eni expands gas/LNG & trading via new projects and Mercuria JV, raises FY2026 guidance, and boosts buybacks to €2.8bn. Click for more on NYSE:E stock.",
                 "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2257939672/image_2257939672.jpg?io=getty-c-w1536",
@@ -569,72 +632,99 @@
                 "source": "The Irish Sun",
                 "date": "2026-07-02T16:34:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Unisem, Duopharma, Southern Cable, Reservoir Link Energy, Jentayu Sustainables & Bumi Armada",
-                "desc": "Here is a brief recap of some business news and corporate announcements that made the headlines on Thursday.",
-                "image": "https://assets.theedgemarkets.com/Companies-in-the-news-theedgemalaysia-20241211175004-theedgemalaysia_20241211230602_theedgemalaysia_134.jpg",
-                "url": "https://theedgemalaysia.com/node/809254",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-02T16:30:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Media Insider: TVNZ political editor role; Hunt for All Blacks jersey sponsor; MediaWorks boss leaves after inquiry; High price of advertising down low in CRL",
-                "desc": "The hunt for a new TVNZ political editor; MediaWorks manager leaves after inquiry; Are Sky subscribers about to feel the sting of sports rights battle?; All...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/QNCDOKIWQNDQZGAVIXRCDAOKA4.gif?auth=5fe65d41c8ec0035ecec606d5238608946f7d9c54a7f119aadbccbc19402d23f&width=1200&height=675&quality=70&focal=582%2C435&smart=false",
-                "url": "https://www.nzherald.co.nz/business/media-insider/media-insider-tvnz-political-editor-role-hunt-for-all-blacks-jersey-sponsor-mediaworks-boss-leaves-after-inquiry-high-price-of-advertising-down-low-in-crl/premium/LUDV742ZGREFDB7M7DZWZ7LKSQ/",
-                "source": "NZ Herald",
-                "date": "2026-07-02T16:30:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Santana consents would stay: Brooking",
-                "desc": "Labour would not revoke consents for Santana Minerals’ controversial goldmine despite the environmental impact being ‘‘substantial and perpetual’’,...",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/rachel_brooking_030924.jpg?itok=RvxfxjfC",
-                "url": "https://www.odt.co.nz/regions/central-otago/santana-consents-would-stay-brooking",
-                "source": "Otago Daily Times",
-                "date": "2026-07-02T16:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "California bans consumer-facing 'sell by' food labels under new law aimed at reducing waste",
-                "desc": "California's new food date-labeling law standardizes expiration wording and bans consumer-facing \"sell by\" labels to reduce food waste and consumer confusion.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Digital-price-label-grocery-store.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/lifestyle/california-food-date-label-law-sell-by-ban",
-                "source": "Fox Business",
-                "date": "2026-07-02T16:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Average 30-year US mortgage rate falls to 6.43%, its lowest level in seven weeks",
-                "desc": "The average long-term U.S. mortgage rate fell this week to its lowest level since mid-May, easing borrowing costs for prospective homebuyers",
-                "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-                "url": "https://abcnews.com/Business/wireStory/average-30-year-us-mortgage-rate-falls-643-134413861",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-02T16:24:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil Glut Calls May Be Getting Ahead of Reality",
-                "desc": "Despite record U.S. crude output, uncertainty over Iran, Hormuz, and regional production means the market may be underestimating ongoing supply risks.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-02_5aidi4bzxo.jpg",
-                "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Glut-Calls-May-Be-Getting-Ahead-of-Reality.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-02T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IP, Ineos Styrolution, Smurfit Westrock to shutter plants",
-                "desc": "Manufacturers in June announced closures impacting more than 480 workers across California, Illinois, Kentucky, New Jersey and Tennessee.",
-                "image": "https://imgproxy.divecdn.com/z_6ac4I9AN4FhUMFDltGgv5Dfp6nXEylXXb9YvS7cC0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaGFubmFob25fYWVyaWFsLmpwZw==.webp",
-                "url": "https://www.packagingdive.com/news/june-2026-packaging-closures-layoffs-international-paper-smurfit-westrock-ineos/824159/",
-                "source": "Packaging Dive",
-                "date": "2026-07-02T15:59:39Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Rhythm Heaven Groove Returns With New Video Game in Series",
+                "desc": "'Rhythm Heaven Groove' returns in more than a decade with a new game that tests your reflexes.",
+                "image": "https://variety.com/wp-content/uploads/2026/07/Switch_RHG_2026_MediaBRoll_SCRN05.png?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/gaming/news/rhythm-heaven-groove-video-game-1236800585/",
+                "source": "Variety",
+                "date": "2026-07-02T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A $70 Microsoft Office deal skips the monthly 365 bill",
+                "desc": "Get a lifetime license to Microsoft Office Home & Business 2021 — including Word, Excel, PowerPoint, and Outlook — for $69.97 (reg. $219).",
+                "image": "https://helios-i.mashable.com/imagery/articles/02meDPeVdpjMEwOSkVWwAXC/hero-image.fill.size_1200x675.v1782950729.png",
+                "url": "https://mashable.com/tech/july-2-microsoft-office-home-business-for-mac-2021",
+                "source": "Mashable",
+                "date": "2026-07-02T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brooks Nader On Flip Phones, Fresh Flowers And The LED Face Mask That Her Sisters Always Steal",
+                "desc": "In our 'Shop Like' column, we ask stylish and notable personalities to share the items that fuel their success. This week we spoke with model and actress Brooks Nader.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a454729cbbf4c4149e53bf6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/07/01/shop-like-brooks-nader/",
+                "source": "Forbes",
+                "date": "2026-07-02T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Prime Day sale 2026: Sennheiser, Lava and Dreame announce deals on audio products, smartphones and robot vacuums",
+                "desc": "Amazon Prime Day 2026 brings discounts on Sennheiser audio products, Lava smartphones and Dreame smart home devices, along with bank offers, cashback and No Cost EMI options",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260630090251_MixCollage-30-Jun-2026-02-32-PM-3951.jpg",
+                "url": "https://www.moneycontrol.com/technology/amazon-prime-day-sale-2026-sennheiser-lava-and-dreame-announce-deals-on-audio-products-smartphones-and-robot-vacuums-article-13964878.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-02T19:58:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rumour: Halo Being 'Heavily Evaluated' At Xbox, But Remains Key Part Of Future Plans",
+                "desc": "Resources may be allocated towards the franchise - There's obviously a lot of talk about potential layoffs and studio closures at Xbox right now, but one fra...",
+                "image": "https://images.purexbox.com/63decffa45d8d/large.jpg",
+                "url": "https://www.purexbox.com/news/2026/07/rumour-halo-being-heavily-evaluated-at-xbox-but-remains-key-part-of-future-plans",
+                "source": "Pure Xbox",
+                "date": "2026-07-02T19:53:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple (AAPL) Expands Foldable iPhone Plans With 10 Million Unit Target",
+                "desc": "Apple (NasdaqGS:AAPL) is preparing to produce about 10 million foldable iPhones between late 2026 and mid 2027.\nThe company is expanding its product roadmap into foldable hardware while managing a prolonged global memory chip shortage.\nApple is exploring supply agreements with Chinese memory chipmakers CXMT and YMTC, which face US sanctions and trade restrictions.\nThese talks touch on sensitive geopolitical issues, including data security, export controls, and reliance on Chinese technology...",
+                "image": "https://images.simplywall.st/asset/company-cover/24937-main-header/1756189723406",
+                "url": "https://simplywall.st/stocks/us/tech/nasdaq-aapl/apple/news/apple-aapl-expands-foldable-iphone-plans-with-10-million-uni",
+                "source": "simplywall.st",
+                "date": "2026-07-02T19:52:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Don’t Kill the Disc Petition Fights PlayStation’s All",
+                "desc": "A new Don’t Kill the Disc petition is urging Sony to keep physical PlayStation games alive after the company announced that new releases will go digital-only in 2028.",
+                "image": "https://cdn.80.lv/api/upload/meta/49099/images/6a46c06167788/contain_1200x630.jpeg",
+                "url": "https://80.lv/articles/dont-kill-the-disc-petition-pushes-back-against-sony-s-all-digital-playstation-future",
+                "source": "80 Level",
+                "date": "2026-07-02T19:50:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Foldable iPhone Ultra production target reportedly climbs to 10 million units",
+                "desc": "The foldable iPhone is expected to debut in September. The foldable iPhone, rumored to be called the iPhone Ultra, is expected to debut alongside the...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-ultra-fold-production-estimates-report/-952x498w6/gsmarena_00.jpg",
+                "url": "https://www.gsmarena.com/report_apple_orders_10_million_foldable_iphone_ultra_units-news-73543.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-02T19:49:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Try This Intriguing PS5 Adventure Game for Free via PS Store",
+                "desc": "A brand new narrative adventure game is available to try now on PS5. The new game’s demo is up and better yet, it doesn’t require PlayStation Plus. Promising narrative adventure game The Crimson Maid drops a free demo on PS Store, no PS Plus required Developer GrimTalin and Darkania Works’ The Crimson Maid officially has […] The post Try This Intriguing PS5 Adventure Game for Free via PS Store appeared first on PlayStation LifeStyle.",
+                "image": "https://s.yimg.com/lo/mysterio/api/84307aee90af1ec7287ed0950d642e186fbb94e4effaee71c6dcc86162928812/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fplaystation_lifestyle_666%2F9766ff839a688628270ef1bc6b153c43",
+                "url": "https://tech.yahoo.com/gaming/articles/try-intriguing-ps5-adventure-game-194850615.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-02T19:48:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iOS 26.5.2: Apple’s Unprecedented iPhone Update Beats Hackers Early",
+                "desc": "The latest iPhone update is here, but there are no new features on board. This update is all about security fixes, and Apple has confirmed its release is unprecedented.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/69e0b3acbc89651a36015dc6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/davidphelan/2026/07/02/apples-latest-ios-2652-iphone-update-focuses-on-25-security-patches/",
+                "source": "Forbes",
+                "date": "2026-07-02T19:47:22Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Newly discovered PamStealer isn't your typical macOS malware",
                 "desc": "The discovery underscores the increased effort being poured into Mac infostealers.",
@@ -1174,99 +1264,36 @@
                 "source": "Macworld",
                 "date": "2026-07-02T16:23:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Opera Brings Clipboard Attack Prevention to Opera One",
-                "desc": "Web browser maker Opera announced that it's adding native clipboard attack prevention to Opera One via a feature called Paste Protect.",
-                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/07/opera-one-paste-protect.jpg",
-                "url": "https://www.thurrott.com/cloud/web-browsers/338278/opera-brings-clipboard-attack-prevention-to-opera-one",
-                "source": "Thurrott.com",
-                "date": "2026-07-02T16:22:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Smart Glasses Cheat Sheet: Meta, Google, Apple, and the Race for Your Face",
-                "desc": "Compare smart glasses from Meta, Google, Samsung, Apple, Snap, Xreal, and others, including features, use cases, buying tips, and privacy risks.",
-                "image": "https://cdn.eweek.com/smartglass cheat.jpg",
-                "url": "https://www.eweek.com/news/smart-glasses-cheat-sheet/",
-                "source": "eWeek",
-                "date": "2026-07-02T16:19:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Download Verity Mod for Minecraft Bedrock: Horror Companion with AI Chat Features",
-                "desc": "Download Verity Mod for Minecraft Bedrock and experience a very different kind of horror addon. Instead of focusing…",
-                "image": "https://pctechmag.com/wp-content/uploads/2026/07/pexels-bertellifotografia-30530423.jpg",
-                "url": "https://pctechmag.com/2026/07/download-verity-mod-for-minecraft-bedrock-horror-companion-with-ai-chat-features/",
-                "source": "PC Tech Magazine",
-                "date": "2026-07-02T16:17:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scientists Turned Human Cells into Tiny Biological Computers",
-                "desc": "Researchers built human-cell circuits that can add, select signals and flag errors.",
-                "image": "https://cdn.zmescience.com/wp-content/uploads/2026/07/stemcellGuilak.jpg",
-                "url": "https://www.zmescience.com/science/biology/scientists-turned-human-cells-into-tiny-biological-computers/",
-                "source": "ZME Science",
-                "date": "2026-07-02T16:16:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox reportedly tests disc-to-digital system for physical game library",
-                "desc": "Xbox is reportedly testing a system that converts physical game discs into digital licences for supported Xbox titles.",
-                "image": "https://www.techedt.com/wp-content/uploads/2026/07/Xbox-reportedly-tests-disc-to-digital-system-for-physical-game-library.jpg",
-                "url": "https://www.techedt.com/xbox-reportedly-tests-disc-to-digital-system-for-physical-game-library",
-                "source": "Tech Edition",
-                "date": "2026-07-02T16:00:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SwiftUI Adds New Document Protocol, Improves Performance, and More",
-                "desc": "Announced at WWDC 2026, the latest SwiftUI release brings a new Document protocol for efficient disk access and snapshot-based updates, along with improved APIs for reordering items in lists, grids, a",
-                "image": "https://res.infoq.com/news/2026/07/swiftui-wwdc26/en/headerimage/swiftui-wwdc26-1783007395426.jpeg",
-                "url": "https://www.infoq.com/news/2026/07/swiftui-wwdc26/",
-                "source": "infoq.com",
-                "date": "2026-07-02T16:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Is Changing How It Issues Security Updates Due to Threats From AI",
-                "desc": "Apple released iOS 26.5.2 on Monday, which comes with patches for 29 security flaws.",
-                "image": "https://lifehacker.com/imagery/articles/01KWAFZSFYGGG5QVB0EF66YRR0/hero-image.fill.size_1200x675.jpg",
-                "url": "https://lifehacker.com/tech/apple-issuing-more-security-updates-due-to-ai-threats",
-                "source": "Lifehacker",
-                "date": "2026-07-02T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Focal Unveils the Scala Utopia Evo M Hi-Fi Speaker",
-                "desc": "The Focal Scala Utopia Evo M hi-fi speaker includes a new PRISM tweeter and M-profile W midrange for transparent, precise, and natural sound.",
-                "image": "https://wifihifi.com/wp-content/uploads/2026/07/focal-Prism_Tweeter_Grille_34.jpg",
-                "url": "https://wifihifi.com/focal-unveils-the-scala-utopia-evo-m-hi-fi-speaker/",
-                "source": "Wifi Hifi Magazine",
-                "date": "2026-07-02T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Georgia Tech creates wearable that turns robot movements into warning music",
-                "desc": "Georgia Tech's wearable turns robot movements into warning music, helping workers avoid accidents without losing focus.",
-                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-3.jpg",
-                "url": "https://interestingengineering.com/ai-robotics/wearable-converts-robot-movements-into-music",
-                "source": "Interesting Engineering",
-                "date": "2026-07-02T15:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "House of the Week: Top of the charts status for €950k Model Farm Road home",
-                "desc": "Just over the back wall of 9 Hill Farm Avenue is the grave of guitarist Rory Gallagher who died in 1995",
-                "image": "https://www.irishexaminer.com/cms_media/module_img/10282/5141307_17_org_Image_20_52_20_2_.jpg",
-                "url": "https://www.irishexaminer.com/property/residential/arid-41872887.html",
-                "source": "Irish Examiner",
-                "date": "2026-07-02T15:55:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "16 children found at Ohio home, trapped in one room for 4 years, police say",
+                "desc": "The children, whose identities have not been made public, are believed to belong to the same family and were discovered on Tuesday morning at a home in Ohio.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/16-children-found-in-ohio-home-e1783019355227.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11950358/16-children-found-in-ohio-home/",
+                "source": "Global News",
+                "date": "2026-07-02T19:49:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police charge mum and dad after 15",
+                "desc": "The twin girls were found deceased in their bed on Monday",
+                "image": "https://i2-prod.birminghammail.co.uk/article34228150.ece/ALTERNATES/s1200d/2_Beuvrages-is-a-commune-in-the-Nord-department-in-northern-France.jpg",
+                "url": "https://www.birminghammail.co.uk/news/world-news/police-charge-mum-dad-after-34228213",
+                "source": "Birmingham Live",
+                "date": "2026-07-02T19:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration renews pressure on International Criminal Court",
+                "desc": "The US says it will reject any effort by court to assert authority over citizens, days after judges sue over sanctions.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-02-06T110127Z_1819420036_RC2N9IA6JNLC_RTRMADP_3_USA-TRUMP-RETRIBUTION-SANCTIONS-1783017193.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-renews-pressure-on-international-criminal-court",
+                "source": "Al Jazeera",
+                "date": "2026-07-02T19:43:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pasifika Update: The brutal side of Pacific politics",
                 "desc": "1News Pacific Correspondent Barbara Dreaver provides an update of the goings on across the island nations neighbouring New Zealand.",
@@ -1869,35 +1896,8 @@
                 "source": "Al Jazeera",
                 "date": "2026-07-02T15:56:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "In a World Remade by Force, Africa Must Bet on UN Tax Rules",
-                "desc": "For Africa, United Nations negotiations on a Convention on International Tax Cooperation, resuming in New York on 3 August, matter far beyond technical fiscal concerns .",
-                "image": "https://cdn.modernghana.com/images/content/72202650740-k5fri7u2h0-lonce-ndikumana.jpg",
-                "url": "https://www.modernghana.com/news/1507316/in-a-world-remade-by-force-africa-must-bet-on.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-02T15:56:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pakistan says PM Sharif, a key US-Iran mediator, will attend Khamenei funeral ceremony",
-                "desc": "Russia, China, India also confirm they're sending senior officials; Iran claims dignitaries from about 100 countries coming, reportedly including the presidents of Tajikistan and Georgia",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260621__B7T367A__v1__HighRes__SwitzerlandUsIranDiplomacyWar-1-e1783005225720.jpg",
-                "url": "https://www.timesofisrael.com/pakistan-says-pm-sharif-a-key-us-iran-mediator-will-attend-khamenei-funeral-ceremony/",
-                "source": "The Times of Israel",
-                "date": "2026-07-02T15:52:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran warns US, Israel against attack during Khamenei funeral",
-                "desc": "Iran warned the US and Israel against attacks as security tightens ahead of Ali Khamenei's state funeral from July 4 to 9.",
-                "image": "https://cdn.siasat.com/wp-content/uploads/2026/02/iran-supreme-leader-ali-khamenei.jpg",
-                "url": "https://www.siasat.com/iran-warns-us-israel-against-attack-during-khamenei-funeral-3500257/",
-                "source": "The Siasat Daily",
-                "date": "2026-07-02T15:51:42Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T07:40:55.912413Z"
+    "lastGlobalSync": "2026-07-03T08:01:02.093467Z"
 }
