@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit",
+                "desc": "The companies also agreed to donate more than 53 million eggs to food banks and nonprofits in 17 states that joined the federal government in the antitrust action.",
+                "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02xp-eggs-hpkz/02xp-eggs-hpkz-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html",
+                "source": "The New York Times",
+                "date": "2026-07-02T21:35:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Analyst predicts baht uptick in H2",
+                "desc": "The narrowing trade deficit and easing inflationary pressure should support the baht regaining strength against the US dollar late in the third quarter this year, reversing a short-term depreciation trend, says Siam Commercial Bank Financial Markets (SCB FM).",
+                "image": "https://static.bangkokpost.com/media/content/20260703/c1_3280249_260703043343_700.jpg",
+                "url": "https://www.bangkokpost.com/business/general/3280249/analyst-predicts-baht-uptick-in-h2",
+                "source": "Bangkok Post",
+                "date": "2026-07-02T21:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tirau's sheepdog, ewe and ram buildings are baa-ck on the market",
+                "desc": "The famous corrugated iron buildings of Tirau are up for sale.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-sheepdog-ewe-and-ram-were-last-sold-in-2016-Q2OUSPQBF5ABBF74FID37JL7BM.jpg?auth=d22ba2936c8a2d4c1947fa0b1bc4801d12cf73fa3e0c867b716f5c53ff82bfc6&quality=70&width=600&height=315&focal=644%2C353",
+                "url": "https://www.1news.co.nz/2026/07/02/tiraus-sheepdog-ewe-and-ram-buildings-are-baa-ck-on-the-market/",
+                "source": "1News",
+                "date": "2026-07-02T21:31:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "VivoPower Reinforces Focus on AI Data Center Business and Provides Update on Non-Core Businesses",
+                "desc": "LONDON, UNITED KINGDOM, July 02, 2026 (GLOBE NEWSWIRE) -- VivoPower PLC (NASDAQ: VIVO) ('VivoPower” or the 'Company”), a B Corp-certified global developer and owner of powered land and data center infrastructure for AI compute applications, today provides the following update in respect of its strategic direction and the previously announced separation initiatives relating to its subsidiaries Tembo e-LV B.V. ('Tembo”) and Caret Digital ('Caret Digital”). Following a strategic review, the Board of Directors of the Company has determined that VivoPower will focus, as a group and as its principal strategic priority, on the development and scale-up growth of its AI data center business and that the separation of each of Tembo and Caret Digital from the VivoPower group (each a non-core business of the group) will be progressed in a manner consistent with that strategic priority.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/03/1123209.png",
+                "url": "https://www.manilatimes.net/2026/07/03/tmt-newswire/globenewswire/vivopower-reinforces-focus-on-ai-data-center-business-and-provides-update-on-non-core-businesses/2377852",
+                "source": "The Manila Times",
+                "date": "2026-07-02T21:29:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dollar to Naira Exchange Rate Today, July 2, 2026: Nigerian currency extends appreciation",
+                "desc": "The naira extended appreciation against the dollar at the official foreign exchange market on Thursday. The Central Bank of Nigeria data showed that",
+                "image": "https://dailypost.ng/wp-content/uploads/2025/12/Naira.jpg",
+                "url": "https://dailypost.ng/2026/07/02/dollar-to-naira-exchange-rate-today-july-2-2026-nigerian-currency-extends-appreciation/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-07-02T21:28:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Markets live: ASX set to rise, Dow hits record as US jobs data dims prospect of rate hike",
+                "desc": "The ASX is expected to open higher after weaker US jobs data eased interest rate hike expectations. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/fabf1ed5ccf1398607a66dab72af960e?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=656&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-03/asx-markets-business-news-live-updates/106872202",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-02T21:28:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SBP reserves climb $611m to $16.5b",
+                "desc": "SBP reserves climb $611m to $16.5b",
+                "image": "https://i.tribune.com.pk/media/images/347926-dollarsreuters-1331337097/347926-dollarsreuters-1331337097-640x480.webp",
+                "url": "https://tribune.com.pk/story/2616217/sbp-reserves-climb-611m-to-165b",
+                "source": "The Express Tribune",
+                "date": "2026-07-02T21:26:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla posts record Q2 deliveries, beating Wall Street expectations",
+                "desc": "Tesla delivered a record 480,126 vehicles in the second quarter, beating Wall Street expectations as stronger demand in Europe helped offset pressure in the U.S. market.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Tesla-Dealership.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/markets/tesla-deliveries-beat-forecasts-europe-rebound-brightens-outlook",
+                "source": "Fox Business",
+                "date": "2026-07-02T21:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pfizer's CEO Says His Company Has a \"Very Big Balance Sheet\" to Do Deals. Here's the Perfect Next Acquisition Target for the Pharma Giant",
+                "desc": "Could this be the secret to Pfizer's rebound strategy?",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876544%2Fpfizer-logo.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/02/pfizers-ceo-says-his-company-has-a-very-big-balanc/",
+                "source": "The Motley Fool",
+                "date": "2026-07-02T21:24:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter",
+                "desc": "A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.",
+                "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02XP-TESLA-hmgj/02XP-TESLA-hmgj-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html",
+                "source": "The New York Times",
+                "date": "2026-07-02T21:24:21Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Europe’s Energy Transition Stalls as Heat Wave Exposes the Cost of Inaction",
                 "desc": "Bankers at London Climate Action Week say fragmented EU markets and rigid rules are stalling Europe’s energy transition amid a brutal heat wave.",
                 "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-02_gvmox1vj4f.jpg",
@@ -542,99 +632,99 @@
                 "source": "AP News",
                 "date": "2026-07-02T17:54:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Jersey Mike’s IPO Filing Reveals $50 Million In Pay For A Stepson-Here’s What Else It Shows",
-                "desc": "Jersey Mike's plans to list Class A common stock on the New York Stock Exchange under the ticket symbol “JMKE,” though it is unclear when it plans to do so.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a46a23851981a47c28d8bc2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/02/jersey-mikes-ipo-filing-reveals-50-million-in-pay-for-a-stepson-a-41-million-aircraft-and-a-family-on-payroll/",
-                "source": "Forbes",
-                "date": "2026-07-02T17:53:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Smart Business Owner's Guide to Marketing and Workflow Automation",
-                "desc": "Business owners today face mounting pressure to do more with less while maintaining competitive advantage. Marketing and workflow…",
-                "image": "https://pctechmag.com/wp-content/uploads/2026/07/Screenshot-2026-07-02-at-10.50.01-PM.png",
-                "url": "https://pctechmag.com/2026/07/the-smart-business-owners-guide-to-marketing-and-workflow-automation/",
-                "source": "PC Tech Magazine",
-                "date": "2026-07-02T17:52:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK M&A Boom Accelerates as Overseas Buyers Snap Up British Companies While Large Corporates Reshape Portfolios",
-                "desc": "Merger and acquisition (M&A) activity in the United Kingdom is gathering significant momentum as large British companies streamline their operations and overseas investors take advantage of attractive valuations to acquire cash-generative UK businesses, according to Citi UK Chief Executive Tiina Lee. Speaking to CNBC’s Squawk Box Europe from London’s Canary Wharf on Thursday, Lee described […]",
-                "image": "https://www.tekedia.com/wp-content/uploads/2024/10/usd.jpg",
-                "url": "https://www.tekedia.com/uk-ma-boom-accelerates-as-overseas-buyers-snap-up-british-companies-while-large-corporates-reshape-portfolios/",
-                "source": "Tekedia",
-                "date": "2026-07-02T17:51:52Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Software Engineering Legend: Coders Now Need to Learn People Skills",
-                "desc": "Legendary software engineer Kent Beck says coders are at risk not only because of AI, but because of their lack of people skills.",
-                "image": "https://i.insider.com/6a46927d65e65d39ff1c9053?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/kent-beck-software-engineering-ai-soft-skills-26-6",
-                "source": "Business Insider",
-                "date": "2026-07-02T17:49:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carahsoft Strikes Deals To Distribute Row64, CKEditor Software To The Public Sector",
-                "desc": "Carahsoft To Distribute Row64, CKEditor Software To The Public Sector.",
-                "image": "https://www.crn.com/news/channel-news/2026/media_1ebf10110b2ccc2c3edecc8c6c41982401a6d618a.jpg?width=1200&format=pjpg&optimize=medium",
-                "url": "https://www.crn.com/news/channel-news/2026/carahsoft-strikes-deals-to-distribute-row64-ckeditor-software-to-the-public-sector",
-                "source": "crn.com",
-                "date": "2026-07-02T17:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Developer claims shortage of top hotel accommodation in Dublin",
-                "desc": "Planning consultants for Jim Curley firm warn on three five star hotels in Dublin",
-                "image": "https://www.irishtimes.com/resizer/v2/54JDW5N3JNHHXEEO3EWOS4UHRY.jpg?smart=true&auth=ef4d230943926a8996336fbb86f87a3cbdf21fd997648e4758dfdfea6eb7aa1a&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/2026/07/02/developer-claims-shortage-of-top-hotel-accommodation-in-dublin/",
-                "source": "The Irish Times",
-                "date": "2026-07-02T17:37:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Auckland Airport’s $5.7b upgrade: The war zone and earthquake relief veteran leading it",
-                "desc": "Auckland Airport’s Murray Burt has worked in some of the world’s most ruined places and with one of the country’s biggest and most talked-about public...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/UDQMEZUI6NDGDMCPBLD3JBEYIM.JPG?auth=82227beeaa0e7b4ef4184e69a246d4c6cf72dd0e1f787612e746af14951d064a&width=1200&height=675&quality=70&focal=2058%2C826&smart=false",
-                "url": "https://www.nzherald.co.nz/business/companies/airlines/auckland-airports-57b-upgrade-the-war-zone-and-earthquake-relief-veteran-leading-it/premium/7ZYMLP7X7REXHNAAWHR6B4LWBE/",
-                "source": "NZ Herald",
-                "date": "2026-07-02T17:30:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Metrolinx splits unfinished Hazel McCallion LRT work into 2 contracts",
-                "desc": "Construction has been underway on the Hazel McCallion LRT, which will run along Hurontario Street in Mississauga, since 2020, but it has been beset by delays.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/hazel-mccallion-lrt.jpeg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11950196/hazel-mccallion-lrt-new-projects/",
-                "source": "Global News",
-                "date": "2026-07-02T17:28:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Texas man charged with manslaughter in Tesla crash that killed a woman in her home: Sheriff",
-                "desc": "A Texas man has been arrested on a manslaughter charge after his Tesla crashed into a home, killing a woman inside the residence, authorities said.",
-                "image": "https://i.abcnewsfe.com/a/b8daf5d0-b5df-46c7-9341-1c0ce552845f/tesla-1-ht-gmh-260624_1782328517407_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/US/texas-man-charged-manslaughter-tesla-crash-killed-woman/story?id=134408641",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-02T17:27:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trade Setup for July 3: Top 15 things to know before the opening bell",
-                "desc": "If the Nifty 50 extends its rally, the 24,200-24,300 zone is expected to be the immediate key hurdle to watch. A sustained move above this zone could pave the way for 24,400-24,600. However, 24,000 is likely to act as immediate support, and a breach below this level may drag the index back into a phase of consolidation.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2024/11/20241109033650_sensex_nifty_stock_markets.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-july-3-top-15-things-to-know-before-the-opening-bell-2-13964803.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-02T17:23:23Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "A little peek at Panic’s Big Walk experience.",
+                "desc": "Check out this video tour of Panic’s demo showroom for Big Walk, its next game, at the company’s offices in Portland. I got to see this for my preview, and it was delightful.\nIf you want to check out the experience for yourself, Panic is taking signups now for July 7th through August 4th, which is Big Walk’s release date.\n[Media: https://www.youtube.com/watch?v=RfG15IJdsv8]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+                "url": "https://www.theverge.com/games/961136/a-little-peek-at-panics-big-walk-experience",
+                "source": "The Verge",
+                "date": "2026-07-02T21:37:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Domino's, KFC Mock Sony's Plan To Scrap Physical PlayStation Game Discs, Offer ‘Virtual Meals, Digital Pizzas’",
+                "desc": "Food giants Domino's Pizza UK and KFC have publicly mocked gaming giant Interactive Entertainment Content Communications's proposed decision to phase out physical game discs for full digital formats. Domino's Pizza UK and KFC used satire to ridicule what Sony sees as the gaming industry's accelerating move toward an all-digital future.",
+                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+                "url": "https://saharareporters.com/2026/07/02/dominos-kfc-mock-sonys-plan-scrap-physical-playstation-game-discs-offer-virtual-meals",
+                "source": "Sahara Reporters",
+                "date": "2026-07-02T21:36:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galaxy Watch owners just lost a key health feature, and Samsung isn't saying why",
+                "desc": "Vascular Load feature disappearing in US",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/a-galaxy-watch-surrounded-by-samsung-health-feature-icons-for-food-running-hydration-and-health-metrics.png?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/galaxy-watch-owners-just-lost-a-key-health-feature-and-samsung-isnt-saying-why/",
+                "source": "Android Police",
+                "date": "2026-07-02T21:33:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "11 Ways to Make AI More Accurate and Trustworthy",
+                "desc": "Improve AI accuracy with RAG, Chain-of-Thought prompting, MoE models, and RLHF to reduce hallucinations and build trustworthy systems.",
+                "image": "https://www.gadgetreview.com/wp-content/uploads/Ways-to-Make-AI-More-Accurate-and-Trustworthy.jpg",
+                "url": "https://www.gadgetreview.com/ways-to-make-ai-more-accurate-and-trustworthy",
+                "source": "Gadget Review",
+                "date": "2026-07-02T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Explore every iPad ever released in this interactive timeline",
+                "desc": "After releasing an interactive timeline of every iPhone ever made, sheets.works is back with a similar project covering every iPad Apple has released since 2010.",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-timeline.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/02/explore-every-ipad-ever-released-in-this-interactive-timeline/",
+                "source": "9to5Mac",
+                "date": "2026-07-02T21:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intel Just Made PC Gaming Even More Expensive With These New Price Hikes",
+                "desc": "Prices are skyrocketing on PC components as RAM and storage shortages affect users around the world, and that includes a slew of Intel components.",
+                "image": "https://www.bgr.com/img/gallery/intel-just-made-pc-gaming-even-more-expensive-with-these-new-price-hikes/l-intro-1783027278.jpg",
+                "url": "https://www.bgr.com/2207367/intel-core-ultra-cpu-price-hikes-july/",
+                "source": "bgr.com",
+                "date": "2026-07-02T21:23:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Reportedly Revamping iPad Pro Lineup and Building More Foldables",
+                "desc": "The company apparently expects to sell a lot of folding iPhones.",
+                "image": "https://www.cnet.com/a/img/resize/715445df45fb6b72f9bd0d4cef415eac4fa8db3d/hub/2026/07/02/5287e61b-dcf9-4f9a-8ad3-d2b0b7f99337/apple-logo-gettyimages-538201212.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/apple-revamping-ipad-pro-lineup-building-more-foldables/",
+                "source": "cnet.com",
+                "date": "2026-07-02T21:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bofanglutide linked to meaningful reductions in HbA1c in adults with T2DM",
+                "desc": "For adults with type 2 diabetes mellitus (T2DM), bofanglutide, a glucagon-like peptide-1 receptor agonist, is associated with more meaningful reductions in hemoglobin A1C (HbA1c) levels than semaglutide, according to a study published online June 30 in the Annals of Internal Medicine.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/bofanglutide-linked-to.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-bofanglutide-linked-meaningful-reductions-hba1c.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-02T21:20:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "8 Signs You’re Running Too Fast on Easy Days",
+                "desc": "Running too fast on easy days can hurt recovery and speedwork. Coaches share the midrun and postrun signs that mean you need to slow down.",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/4fd6d791-cb7f-460d-983c-3ca99f4b2aba.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+                "url": "https://www.runnersworld.com/training/a71810943/signs-running-too-fast-easy-days-long-runs/",
+                "source": "Runner's World",
+                "date": "2026-07-02T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk denies WSJ report SpaceX showed investors secret AI device",
+                "desc": "Elon Musk has denied a Wall Street Journal report that SpaceX showed investors a prototype AI handset before its IPO, calling the story utterly false in a post on X.",
+                "image": "https://storage.ghost.io/c/08/35/0835e1b0-0cd7-4c1a-8c28-d6f7bc4d9c84/content/images/2026/07/Elon-Musk-3.PNG",
+                "url": "https://www.billionaires.africa/2026/07/02/elon-musk-denies-wsj-report-spacex-showed-investors-secret-ai-device/",
+                "source": "Billionaires.Africa",
+                "date": "2026-07-02T21:16:40Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Blame the model, not the machine-better data helps 3D-printed metamaterials match predictions",
                 "desc": "Additive manufacturing, such as 3D printing, provides an excellent opportunity to design metamaterials: materials with an engineered structure that leads to desired properties such as, for instance, resistance to vibrations. ...",
@@ -1174,99 +1264,99 @@
                 "source": "GSMArena.com",
                 "date": "2026-07-02T18:21:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "BMW Tests the M3 Touring Roofbox By Mounting It to a Race Car",
-                "desc": "You may have noticed a few days ago that BMW M slapped a roof box on an M3 Touring 24H race car and drove it through the streets of Belgium, before its race at the 24 Hours of Spa. While BMW didn’t actually race with the box on the roof, as that seems like an aerodynamic nightmare, it did show off just how cool it looks to mount one to an M3 Touring. Okay, so […]",
-                "image": "https://bimmerlife.com/wp-content/uploads/2026/07/bmw-m3-touring-1.jpg",
-                "url": "https://bimmerlife.com/2026/07/02/bmw-tests-the-m3-touring-roofbox-by-mounting-it-to-a-race-car/",
-                "source": "BimmerLife",
-                "date": "2026-07-02T18:00:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The only smartphones that still have a microSD slot and a headphone jack in 2026",
-                "desc": "Phones with a headphone jack and microSD card slot are a rarity nowadays, but you can still find them with newer models.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/06/sony-xperia-phone-guy-headphones.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/only-smartphones-that-still-have-microsd-slot-and-headphone-jack-2026/",
-                "source": "MakeUseOf",
-                "date": "2026-07-02T18:00:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S26 Ultra 512GB is $950 right now, but not for everyone",
-                "desc": "If you’ve been eyeing Samsung’s Galaxy S26 Ultra, a current deal brings the 512GB model down to just $949, over...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/02/samsung-galaxy-s26-ultra-950-deal/",
-                "source": "9to5Google",
-                "date": "2026-07-02T17:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New The Sims 4 Maker Packs Drop: Two Free And One Paid Marketplace Release",
-                "desc": "The gods of good business practices have blessed us again with new The Sims 4 Maker Packs being dropped in The Marketplace today. We've gotten two teaser pack",
-                "image": "https://simscommunity.info/wp-content/uploads/2026/07/sims-4-maker-packs-the-marketplace.jpg",
-                "url": "https://simscommunity.info/2026/07/02/sims-4-maker-packs-the-marketplace-july-2-release/",
-                "source": "Sims Community",
-                "date": "2026-07-02T17:49:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US cyber agency warns over forgotten SharePoint flaw",
-                "desc": "An RCE vulnerability in Microsoft SharePoint that was mistakenly omitted from the May Patch Tuesday bulletin is being exploited in the wild, says Cisa.",
-                "image": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/cyber-security-attack-hack-breach-MaksymFilipchuk-adobe.jpg",
-                "url": "https://www.computerweekly.com/news/366645307/US-cyber-agency-warns-over-forgotten-SharePoint-flaw",
-                "source": "Computer Weekly",
-                "date": "2026-07-02T17:37:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple's Foldable iPhone Saves the S&P 500 From a Chip-Fueled Rout",
-                "desc": "A weak jobs report met a strong Apple rally on Thursday. Here's why the major indexes couldn't agree on a direction.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877344%2Fconfused-computer-user.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/02/apples-foldable-iphone-saves-the-sp-500-from-a-chi/",
-                "source": "The Motley Fool",
-                "date": "2026-07-02T17:35:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android Auto rolling out Spotify, YouTube Music updates",
-                "desc": "Some minor tweaks to media apps including Spotify and YouTube music are rolling out more widely to Android Auto users.",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/android-auto-kia-niro-ev-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/02/android-auto-more-widely-rolling-out-updates-for-spotify-and-youtube-music-apps/",
-                "source": "9to5Google",
-                "date": "2026-07-02T17:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cooler Master Unveils MasterFan A and M Series Fans for High Static Pressure, Airflow and Low Noise",
-                "desc": "Cooler Master, a global leader in PC components and thermal management solutions, today launched its MasterFan A Series and MasterFan M Series fans, which have received strong evaluations from Cybenetics Labs, with recognition for excellent airflow and static pressure. Among all 120 mm fans evaluate...",
-                "image": "https://www.techpowerup.com/img/0QxlvM2vymPn1YOY.jpg",
-                "url": "https://www.techpowerup.com/350477/cooler-master-unveils-masterfan-a-and-m-series-fans-for-high-static-pressure-airflow-and-low-noise",
-                "source": "TechPowerUp",
-                "date": "2026-07-02T17:33:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "YouTube Music Library is missing for some Android Auto users",
-                "desc": "Is this an intentional change to YouTube Music in our cars, or is a glitch in a recent update hiding users' Library screens?",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2020/05/YouTube-Music-on-smartphone-stock-photo-3.jpg",
-                "url": "https://www.androidauthority.com/youtube-music-android-auto-library-3683835/",
-                "source": "Android Authority",
-                "date": "2026-07-02T17:30:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple's MacBook Ultra Rumors: Touchscreen, OLED, and Everything Known So Far",
-                "desc": "MacBook Ultra rumors point to OLED touchscreen panels, a redesigned chassis, and macOS 27 touch APIs — with a late 2026 target window.",
-                "image": "https://www.gadgetreview.com/wp-content/uploads/image-2026-07-02T222337.854.jpg",
-                "url": "https://www.gadgetreview.com/apples-macbook-ultra-rumors-touchscreen-oled-and-everything-known-so-far",
-                "source": "Gadget Review",
-                "date": "2026-07-02T17:26:25Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Vulnerable Mudug families left behind in drought",
+                "desc": "Pastoralist families left behind in Dajimaale village in Somalia’s central Mudug region are facing severe food and water shortages after three consecutive years of failed rains destroyed their livestock and dried up the water wells.",
+                "image": "https://www.hiiraan.com/uploads/2026/07/1782973721pastrolists.jpg",
+                "url": "https://www.hiiraan.com/news4/2026/Jul/205574/vulnerable_mudug_families_left_behind_in_droughthit_village.aspx",
+                "source": "Hiiraan Online",
+                "date": "2026-07-02T21:40:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anantara Stanley & Livingstone Hotel adds pool suites, spa gazebo",
+                "desc": "Set within the Victoria Falls Private Game Reserve, Anantara Stanley & Livingstone Hotel has unveiled two new Pool Suites and a Spa Gazebo.",
+                "image": "https://latteluxurynews.com/wp-content/uploads/2026/07/Anantara-Stanley-Livingstone-Hotel-pool-suite-pool-1132x560-1.jpg",
+                "url": "https://latteluxurynews.com/2026/07/03/anantara-stanley-livingstone-hotel-adds-pool-suites-spa-gazebo/",
+                "source": "latteluxurynews.com",
+                "date": "2026-07-02T21:37:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe's leaders close ranks as they face barbs and pressure from Trump",
+                "desc": "After Trump questioned Italy’s reliability as a wartime ally and claimed Giorgia Meloni had groveled for his attention, European leaders rallied to Meloni's side. It is the latest example of how the often divisive American president is helping to draw Europe closer together.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2025-08-18T185614Z_1833631161_RC2U9GAWRCI6_RTRMADP_3_UKRAINE-CRISIS-SUMMIT-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/world/europes-leaders-close-ranks-as-they-face-barbs-and-pressure-from-trump",
+                "source": "PBS",
+                "date": "2026-07-02T21:37:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trinidad’s Tourism Industry Is at a Tipping Point",
+                "desc": "Unlike many Caribbean destinations that already rely too heavily on tourism as a major economic driver, Trinidad has the rare opportunity to grow its tourism carefully and responsibly.",
+                "image": "https://afar.brightspotcdn.com/dims4/default/e03cb2c/2147483647/strip/true/crop/3000x1500+0+271/resize/1440x720!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2Faa%2Fd8%2Fab9dd72b48b6894233d58cc7bfac%2Ftrinidad-maracas-bay-shutterstock-51302806.jpg",
+                "url": "https://www.afar.com/magazine/trinidads-tourism-industry-is-at-a-tipping-point",
+                "source": "AFAR",
+                "date": "2026-07-02T21:36:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Suspect who 'blew up Ukraine oligarch & mistress' is an 'armed and dangerous WOMAN who dressed like a man to plant bomb'",
+                "desc": "THE suspect who detonated the bomb that blew up a Ukrainian oligarch in Monaco is thought to be a woman in her 30s.\nThe \"armed and dangerous\"...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-07w25zl3h-1783027779213.jpg?quality=90&strip=all&1783031425&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/news/17225263/woman-blew-up-oligarch-mistress-bomb/",
+                "source": "The Irish Sun",
+                "date": "2026-07-02T21:31:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pakistan reiterates mediation role at UNSC",
+                "desc": "Pakistan reiterates mediation role at UNSC",
+                "image": "https://i.tribune.com.pk/media/images/441783027328-7/441783027328-7-640x480.webp",
+                "url": "https://tribune.com.pk/story/2616237/pakistan-reiterates-mediation-role-at-unsc-1",
+                "source": "The Express Tribune",
+                "date": "2026-07-02T21:29:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Foreign Service Journal, July-August 2026",
+                "desc": "THE FOREIGN SERVICE JOURNAL | JULY-AUGUST 2026 67 IN MEMORY n Gary L. Bayer, 84, a retired Foreign Service officer with USAID, died on March 16, 2026, in Cusco,",
+                "image": "https://afsa.org/sites/default/files/flipping_book/070826/67/:/files/assets/html/skin/images/fbThumb.jpg",
+                "url": "https://afsa.org/sites/default/files/flipping_book/070826/67/",
+                "source": "American Foreign Service Association",
+                "date": "2026-07-02T21:29:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warning of potential rare winter cyclone this weekend",
+                "desc": "The Bureau of Meteorology is monitoring the weather system off the island nation.",
+                "image": "https://static.ffx.io/images/$zoom_1.092%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_160%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/22296f1295cc675ac2cc7cab8182dc2016ee41e4e8d8c267316bc3e07f33b6cc",
+                "url": "https://www.nine.com.au/world-news/cyclone-potential-near-solomon-islands-20260703-p60c88.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-02T21:28:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top Growing Medical Universities in Asia: 2026 Edition by BIGR",
+                "desc": "Top Growing Medical Universities in Asia: 2026 Edition by BIGR / Asia, Bahrain, Bangladesh, BIGR, China, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan,",
+                "image": "https://oncodaily.com/pub/uploads/2026/06/Asia.webp",
+                "url": "https://oncodaily.com/not-to-miss/bigr-asia-528721",
+                "source": "Oncodaily",
+                "date": "2026-07-02T21:28:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Covering the Fastest Computers in the World and the People Who Run Them",
+                "desc": "July 2, 2026 — The Building HPC Infrastructure and HPC Capacity for ASEAN Data Utilization Project, implemented under the Korea-ASEAN Digital Innovation Flagship (KADIF) program, reached a key milestone with the Opening Ceremony of the ASEAN-Korea High Performance Computing (HPC) Facility in Indonesia on June 18, 2026. Held in Jakarta, the opening ceremony brought together representatives […]",
+                "image": "https://www.hpcwire.com/wp-content/uploads/2026/07/004A7185.jpg",
+                "url": "https://www.hpcwire.com/off-the-wire/new-asean-hpc-center-aims-to-expand-ai-and-data-research-across-southeast-asia/",
+                "source": "HPCwire",
+                "date": "2026-07-02T21:24:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "AI-generated anthems setting the tune in Johor campaigning",
                 "desc": "Ggenerative AI is transforming political campaigns in the Johor state election, from creating anthems to social media content, and the concerns it raises. Read more at straitstimes.com.",
@@ -1806,98 +1896,8 @@
                 "source": "The Times of India",
                 "date": "2026-07-02T17:36:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "UN chief 'strongly condemns' heavy Russian attack on Kyiv",
-                "desc": "Secretary-General Antonio Guterres",
-                "image": "https://backend.royanews.tv/imageserv/Size728Q70/english/news/20260702/6a46a05e31e321783013470.jpg",
-                "url": "https://en.royanews.tv/news/71340",
-                "source": "Roya News",
-                "date": "2026-07-02T17:34:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cultural Protection Fund Grants for Safeguarding Heritage",
-                "desc": "Deadline: 20-Jul-2026 The Cultural Protection Fund (CPF) 2026 Funding Round invites registered organisations to submit Expressions of Interest for multi-year grants of up to £500,000. The fund supports projects that protect cultural heritage at risk from conflict and climate change while contributing to social stability, cultural identity, and economic prosperity. Overview The Cultural Protection Fund",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/environment-2/cultural-protection-fund-grants-for-safeguarding-heritage/",
-                "source": "fundsforNGOs",
-                "date": "2026-07-02T17:33:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada aiming to announce 10 founding partners of global defence bank at NATO summit",
-                "desc": "Canada expected to be sole non-European nation backing the initiative, country’s lead negotiator says",
-                "image": "https://www.theglobeandmail.com/resizer/v2/QFGBVMM2BRDAVAHTZNREKXVQCE.JPG?auth=9c6b1aec1cc70a378b01d47b97fa8ac7139f1d6db25bae3e2f56863df34d7a6f&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-canada-founding-partners-global-defence-bank-nato-summit/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-02T17:33:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Move the capital or risk an economic time bomb",
-                "desc": "For decades, Accra has stood as Ghana 39;s political, commercial and diplomatic capital . It has driven national growth, attracted investment and projected Ghana 39;s image to the world .",
-                "image": "https://cdn.modernghana.com/images/content/72202672828-osjvm8x442-photo-2026-07-01-16-28-24.jpg",
-                "url": "https://www.modernghana.com/news/1507371/move-the-capital-or-risk-an-economic-time-bomb.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-02T17:30:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip",
-                "desc": "Syrian Foreign Minister al-Shaibani met Hezbollah ally Berri during visit, as Trump calls for Syria to disarm group.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4696cfc082-1783011023.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/2/us-wants-intervention-syria-signals-diplomacy-after-fm-lebanon-trip",
-                "source": "Al Jazeera",
-                "date": "2026-07-02T17:29:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vatican excommunicates conservative SSPX followers",
-                "desc": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/11db/live/76416a80-7617-11f1-ac6e-25f7e4f0c9b9.jpg",
-                "url": "https://www.bbc.com/news/articles/c5yz95188jjo",
-                "source": "BBC",
-                "date": "2026-07-02T17:27:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe Isn't Anti-Air Conditioning. It's Just Calling It Heat Pumps",
-                "desc": "Europe isn't rejecting air conditioning—it is rapidly expanding cooling capacity through reversible heat pumps installed primarily as low-carbon heating systems.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-02_cokdlx9pnz.jpg",
-                "url": "https://oilprice.com/Energy/Energy-General/Europe-Isnt-Anti-Air-Conditioning-Its-Just-Calling-It-Heat-Pumps.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-02T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia and African universities deepen climate resilience partnership to strengthen higher education systems",
-                "desc": "Australian and African universities have launched a new international collaboration aimed at strengthening climate resilience across higher education",
-                "image": "https://africasustainabilitymatters.com/wp-content/uploads/2026/07/AAU-Board-1200x675-1.jpg",
-                "url": "https://africasustainabilitymatters.com/australia-and-african-universities-deepen-climate-resilience-partnership-to-strengthen-higher-education-systems/",
-                "source": "Africa Sustainability Matters",
-                "date": "2026-07-02T16:55:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
-                "desc": "Former Ukrainian soldier accused of ‘war crime’ and leading a team of divers to blow up Nord Stream pipelines.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-11-27T141610Z_790974939_RC225IA95SHD_RTRMADP_3_UKRAINE-CRISIS-NORDSTREAM-1782950790_cda6da-1782961627.jpg?resize=1200%2C630&quality=80",
-                "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack",
-                "source": "Al Jazeera",
-                "date": "2026-07-02T16:53:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spain immigration scheme sees 1.2 million apply for legal status",
-                "desc": "Spain immigration scheme sees more than a million applications, with Latin Americans leading the numbers at 67 percent.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-30T083255Z_1482729555_RC284MA7VM6J_RTRMADP_3_MIGRATION-SPAIN-1783007816.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/2/spain-immigration-scheme-sees-1-2-million-apply-for-legal-status",
-                "source": "Al Jazeera",
-                "date": "2026-07-02T16:49:49Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T09:00:56.042438Z"
+    "lastGlobalSync": "2026-07-03T09:40:58.186724Z"
 }
