@@ -4,6 +4,51 @@
     "en": {
         "business": [
             {
+                "title": "Joy MacPhail out as chair of B.C. Ferries board",
+                "desc": "Four years after she took on the role, Joy MacPhail is out as chair of B.C. Ferries’ board after her term was not renewed.",
+                "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/07/web1_07042026-vtc-news-mcphail-out.jpg;w=1000;h=618;mode=crop",
+                "url": "https://www.timescolonist.com/local-news/joy-macphail-out-as-chair-of-bc-ferries-board-12508645",
+                "source": "Times Colonist",
+                "date": "2026-07-04T01:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's What Boom Supersonic Still Hasn't Solved About Overture's 2029 Passenger Service Promise",
+                "desc": "Boom Supersonic says Overture will carry passengers by 2029. Here is what the company still needs to solve to get there.",
+                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/leadership-expansion-boom-supersonic-expands-and-strengthens-leadership-team-with-experienced-c-suite-hires.jpg?w=1600&h=900&fit=crop",
+                "url": "https://simpleflying.com/what-boom-supersonic-still-hasnt-solved-about-overture-2029-passenger-service-promise/",
+                "source": "Simple Flying",
+                "date": "2026-07-04T01:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pipelines, separatism take centre stage at Calgary Stampede",
+                "desc": "Federalists and separatists are expected to be out in force at Alberta’s biggest rodeo and networking jamboree",
+                "image": "https://www.theglobeandmail.com/resizer/v2/JYEFFIWTOZFITODBB4G5EDQ24U.JPG?auth=a2baafd59807124c76eeaaa76429a287e8ef7ed9aa73cc011d8f89a76b2fe1d2&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/canada/alberta/article-pipelines-separatism-take-centre-stage-at-calgary-stampede/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-04T00:55:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Power grid tested by consumer demands for AC, online data: Professor",
+                "desc": "PJM said it’s under a federal alert to cut electricity consumption across its ​territory as it battles several factors.",
+                "image": "https://s.yimg.com/lo/mysterio/api/1dccab7b72df7a0f8a818c75226ccbedc82e7739cc4e166cd67ebeeaced2e83a/lightyear_networkapi/resizefill_w900_h599;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F997cbef5d157105b1e11da544418ca3e",
+                "url": "https://www.yahoo.com/news/us/articles/power-grid-tested-consumer-demands-004625889.html",
+                "source": "Yahoo",
+                "date": "2026-07-04T00:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Future of Sneaky Dee's appears safe after proposal to redevelop land withdrawn",
+                "desc": "A proposed development which had threatened the future of an iconic downtown restaurant and dive bar is no longer moving forward.",
+                "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/03/sneaky-dees-3.jpg",
+                "url": "https://toronto.citynews.ca/2026/07/03/future-of-sneaky-dees-appears-safe-after-proposal-to-redevelop-land-withdrawn/",
+                "source": "CityNews Toronto",
+                "date": "2026-07-04T00:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Melbourne auction clearance rates reflect investor exodus, property experts say",
                 "desc": "With clearance rates in Melbourne sitting just above 50 per cent, experts say sluggish sales show investors have lost trust in bricks and mortar.",
                 "image": "https://live-production.wcms.abc-cdn.net.au/2369b6532f993df84f7dd3af7a2b9335?impolicy=wcms_watermark_news&cropH=2811&cropW=4997&xPos=1&yPos=0&width=862&height=485&imformat=generic",
@@ -586,51 +631,6 @@
                 "url": "https://newsinfo.inquirer.net/2257230/aboitiz-boosts-renewable-energy-with-pangasinan-solar-farm",
                 "source": "Inquirer.net",
                 "date": "2026-07-03T20:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Is Reshaping Tech Jobs and Boosting Demand for Versatile Skills",
-                "desc": "AI is changing what employers want from tech workers, but demand remains strong, according to an analysis of 2.85 million job listings.",
-                "image": "https://i.insider.com/6a4813c765e65d39ff1c9873?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-03T20:27:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Safety mesh mandatory for all manholes",
-                "desc": "Safety mesh mandatory for all manholes",
-                "image": "https://i.tribune.com.pk/media/images/181778877130-4/181778877130-4-640x480.webp",
-                "url": "https://tribune.com.pk/story/2616367/safety-mesh-mandatory-for-all-manholes",
-                "source": "The Express Tribune",
-                "date": "2026-07-03T20:20:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France and India Strengthen Luxury Ties Ahead of EU-India Trade Deal",
-                "desc": "France and India boost luxury trade ties as EU-India free trade deal nears, unlocking major opportunities for brands and markets on both sides.",
-                "image": "https://wwd.com/wp-content/uploads/2025/03/October-2021-SHOWSTOPPER_KAREENAKAPOOR_LAKME-ABSOLUTE-GRAND-FINALE-PRESENTS-GAURAV-GUPTA.jpeg?w=1000&h=563&crop=1",
-                "url": "https://wwd.com/business-news/government-trade/eu-india-free-trade-agreement-luxury-sector-tariffs-1239052172/",
-                "source": "WWD",
-                "date": "2026-07-03T20:18:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chile 400MW pumped storage project seeks grid connection green light",
-                "desc": "The Central de Bombeo Tarapacá project is seeking authorization to connect to the national grid and could eventually double its capacity to 800MW through a second development phase.",
-                "image": "https://www.bnamericas.com/assets/img/opengraphbna.jpg",
-                "url": "https://www.bnamericas.com/en/news/chile-400mw-pumped-storage-project-seeks-grid-connection-green-light",
-                "source": "BNamericas",
-                "date": "2026-07-03T20:17:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Calgary Stampede parade kicks off 10 days of western fun",
-                "desc": "A pair of Winter Olympians traded their skis and skates for hats and boots Friday as the Calgary Stampede parade kicked off 10 days of western-themed festivities.",
-                "image": "https://i.cbc.ca/ais/fa9f5cec-13c6-49ec-abca-8a217240604a,1783104628769/full/max/0/default.jpg?im=Crop%2Crect%3D%28375%2C475%2C5021%2C2824%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/calgary/calgary-stampede-parade-2026-9.7257432",
-                "source": "CBC",
-                "date": "2026-07-03T20:08:17Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1268,6 +1268,51 @@
         ],
         "world": [
             {
+                "title": "European Conservatives Bring Unity Message To US: Ukraine Matters. Iran Does, Too",
+                "desc": "As NATO leaders prepare to gather for next week's summit, a group of senior European conservative lawmakers visited Washington with a message they hope will resonate inside the Trump administration: Support for Ukraine and concern over Iran are not mutually exclusive.",
+                "image": "https://gdb.rferl.org/d6caff18-14e8-4f69-4007-08decacf94d0_cx0_cy11_cw0_w1200_h630.jpg",
+                "url": "https://www.rferl.org/a/europe-conservatives-ukraine-iran-trump-nato/33796570.html",
+                "source": "Radio Free Europe/Radio Liberty",
+                "date": "2026-07-04T00:59:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+                "desc": "Temperature records have tumbled across the UK and Europe as scientists warn it is a sign of things to come.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7eb/live/2c0dd520-7702-11f1-9510-1546718f668b.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo",
+                "source": "BBC",
+                "date": "2026-07-04T00:57:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya's vanishing rural schools",
+                "desc": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0042/live/3a021450-76e1-11f1-9510-1546718f668b.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o",
+                "source": "BBC",
+                "date": "2026-07-04T00:51:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands of Albanians demand prime minister's resignation",
+                "desc": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9580/live/5be1e4c0-7717-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o",
+                "source": "BBC",
+                "date": "2026-07-04T00:43:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands of Albanians demand prime minister's resignation",
+                "desc": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9580/live/5be1e4c0-7717-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/c8925jnl0z3o",
+                "source": "BBC",
+                "date": "2026-07-04T00:43:26Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Reprehensible Reality",
                 "desc": "The actual goal of the US from the beginning for ending the Russia-Ukraine War is reprehensible. It was never about defeating Russia, but rather on how to get…",
                 "image": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/07/7f2ae906ae344cb1bbee9d1e06f9ff8d_a813a5.jpg",
@@ -1851,53 +1896,8 @@
                 "source": "JNS.org",
                 "date": "2026-07-03T19:41:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "California man pleads guilty to fake Nancy Guthrie ransom note",
-                "desc": "The U.S. Attorney's Office said Derrick Callella admitted that he called and sent text messages to Guthrie's family on Feb. 4, 2026, asking about a bitcoin transfer.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/man-pleads-guilty-nancy-guthrie-ransom-note.jpg?quality=65&strip=all&crop=0px%2C0px%2C1023px%2C541px&resize=720%2C379",
-                "url": "https://globalnews.ca/news/11951798/california-man-pleads-guilty-fake-nancy-guthrie-ransom-note/",
-                "source": "Global News",
-                "date": "2026-07-03T19:22:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Lebanon deal revives Jerusalem's hopes of curbing Iran's influence",
-                "desc": "Trilateral pact formalizes IDF coordination with Lebanese army and ties Israeli withdrawal to Hezbollah's disarmament, but certainly doesn't guarantee peace on the northern border",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26179337180292.jpg",
-                "url": "https://www.timesofisrael.com/new-lebanon-deal-revives-jerusalems-hopes-of-curbing-irans-influence/",
-                "source": "The Times of Israel",
-                "date": "2026-07-03T19:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As the US turns 250 this July 4, who is still proud to be an American?",
-                "desc": "Donald Trump has been pushing a patriotic message ahead of a July 4 milestone, but some Americans say they feel no national pride at this point in their country's history.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/b556c2a945137680ae2ab6f8a117d094?impolicy=wcms_watermark_news&cropH=1289&cropW=2291&xPos=0&yPos=121&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-04/as-the-us-turns-250-july-4-who-is-still-proud-to-be-an-american/106873402",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-03T19:06:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India pushes to upgrade ASEAN FTA, advances talks on CECA with Australia",
-                "desc": "The Ministry of External Affairs (MEA) on Friday said that it is working with its ASEAN partners to review and upgrade the ASEAN-India Trade in Goods Agreement (AITIGA), while negotiations are also progressing on a Comprehensive Economic Cooperation Agreement (CECA) with India.",
-                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ0MzVhMWIwLTc3MTEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-                "url": "https://www.tribuneindia.com/news/world/india-pushes-to-upgrade-asean-fta-advances-talks-on-ceca-with-australia/",
-                "source": "The Tribune",
-                "date": "2026-07-03T19:03:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The terrifying stretch of sea standing between you and your dream trip",
-                "desc": "The Drake Passage is so infamous that many travellers who’d love to visit Antarctica don’t dare cross it. But is it really that bad?",
-                "image": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/af6734adb89ddb055e25fce17e08883ab976443e",
-                "url": "https://www.smh.com.au/traveller/reviews-and-advice/the-terrifying-stretch-of-sea-standing-between-you-and-your-dream-trip-20260612-p606cd.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-03T19:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T12:40:38.331888Z"
+    "lastGlobalSync": "2026-07-04T13:00:40.516451Z"
 }
