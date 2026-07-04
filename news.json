@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Pilot Was Bitten by Bat After Swarm Invaded Hotel Room, Lawsuit Says",
+                "desc": "A pilot, who was treated for possible rabies exposure, sued Marriott International, claiming his Denver hotel failed to offer him a new room after he woke up to a swarm of bats last year.",
+                "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02xp-bats/02xp-bats-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/03/us/bats-rabies-marriott-lawsuit.html",
+                "source": "The New York Times",
+                "date": "2026-07-03T16:24:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Feeder-free TIL expansion system makes advanced cancer immunotherapy safer",
+                "desc": "Conventional TIL therapy, clinically validatedrecently with the U.S. Food and Drug Administration approval of lifileucel for advanced melanoma,stillfaces substantial hurdles.",
+                "image": "https://www.news-medical.net/image-handler/picture/2018/7/By_Gorodenkoff_571684e159074a84992c0edbe24d0030-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20260703/Feeder-free-TIL-expansion-system-makes-advanced-cancer-immunotherapy-safer.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-03T16:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man charged with manslaughter over Tesla crash originally blamed on car’s self-driving mode",
+                "desc": "Tesla said Michael Butler disabled his car’s self-driving mode before it plowed into Martha Avila’s home in June",
+                "image": "https://i.guim.co.uk/img/media/1057b3b3401dddbf20b9854cd05f7a0ea06db54b/0_303_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f1f4ef9ae3512d3256511316b0fba0b",
+                "url": "https://www.theguardian.com/us-news/2026/jul/03/tesla-texas-crash-manslaughter",
+                "source": "The Guardian",
+                "date": "2026-07-03T16:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Private Jet Sellers Enjoy Strong Tailwinds From IPO Surge, UHNW Growth",
+                "desc": "A flood of new wealth created by IPOs and the increase in the population of UHNWs is providing sellers of private jet flight programs with a strong tailwind",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a47db2bfa00999f8c1ac67c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/douggollan/2026/07/03/private-jet-sellers-enjoy-strong-tailwinds-from-ipo-surge-uhnw-growth/",
+                "source": "Forbes",
+                "date": "2026-07-03T16:15:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Midyear Economic Check-In: A World Diverging",
+                "desc": "Shaky economic foundations remain the central 2026 macro theme, reinforced by geopolitical shocks and persistent vulnerabilities in public finances and inflation anchors.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204539947/image_2204539947.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4919743-midyear-economic-check-in-a-world-diverging",
+                "source": "Seeking Alpha",
+                "date": "2026-07-03T16:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flying high: Police say passenger pulled off airplane at PDX after pot found in luggage",
+                "desc": "A New York man did not get to complete his flight back East after a large amount of marijuana was found inside his checked luggage at PDX.",
+                "image": "https://katu.com/resources/media2/16x9/1280/1320/center/90/457f9342-6e9d-472a-801e-c543738b8af9-TSAFundingcaptioned.jpg",
+                "url": "https://katu.com/news/local/flying-high-police-say-passenger-pulled-off-airplane-at-pdx-after-pot-found-in-luggage-pdx-portland-international-airport-john-kennedy-airport-alaska-airlines",
+                "source": "KATU",
+                "date": "2026-07-03T16:06:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cavan woman leads the way in mental health and mindfulness",
+                "desc": "A Co Cavan woman is on a mission to spread awareness around mental health and suicide prevention.",
+                "image": "https://img.resized.co/northernsound-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1nLm5vcnRoZXJuc291bmQuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcL1BhdWxpbmUtQ2xhcmtlLTEwMjR4NzY4LnBuZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cubm9ydGhlcm5zb3VuZC5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjI4ZDUyY2VkNDFmYWU5ZTE3NzE5MmJlYjFhMDI5ZTk5YWVhM2Y1M2QifQ==/cavan-woman-leads-the-way-in-mental-health-and-mindfulness.png",
+                "url": "https://www.northernsound.ie/news/cavan-woman-leads-the-way-in-mental-health-and-mindfulness-285823",
+                "source": "NorthernSound",
+                "date": "2026-07-03T16:06:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla sales surge past expectations even as BYD keeps the global EV crown",
+                "desc": "Tesla Inc.’s vehicle sales beat Wall Street’s modest expectations by a wide margin, gaining in a slower-growing global market for plug-in cars.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/c0d62f9/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2Fef%2Fbe29115b8f89e0653e7e3831bb08%2F1x-1.jpg",
+                "url": "https://www.latimes.com/business/story/2026-07-03/tesla-sales-surge-past-expectations-even-as-byd-keeps-global-ev-crown",
+                "source": "Los Angeles Times",
+                "date": "2026-07-03T16:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "With token prices collapsing and regulation rising, AI’s pricing power looks fragile",
+                "desc": "With token prices collapsing and regulation rising, AI’s pricing power looks fragile",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/d738da4/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2F8c%2F0bea562a66dc15543835f3a2157c%2F1x-1.jpg",
+                "url": "https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile",
+                "source": "Los Angeles Times",
+                "date": "2026-07-03T16:02:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil Markets Grow Numb to U.S.-Iran Ceasefire Drama",
+                "desc": "Oil prices remain stuck in a tight range as traders look past geopolitical headlines and wait for clarity on the fragile U.S.-Iran ceasefire.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-03_f9ryghtfsk.jpg",
+                "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Grow-Numb-to-US-Iran-Ceasefire-Drama.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-03T16:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "London has lost ‘catastrophic’ 89% of car club vehicles since Zipcar exit",
                 "desc": "Only 330 car club vehicles available for rent after big provider left British market, data reveals",
                 "image": "https://i.guim.co.uk/img/media/27b7185ef5ff6b0cfad09bbb3640c8556b90ca00/577_92_3963_3172/master/3963.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30918b13a1398bcf82f734fc1230a1ad",
@@ -542,99 +632,99 @@
                 "source": "Newser",
                 "date": "2026-07-03T12:39:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "More hit CPF retirement targets at 55",
-                "desc": "Discover how more Singapore residents are achieving CPF savings targets at age 55, leading to increased withdrawals and retirement payout trends. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/39bc4a46d073b8a92f253b0b3d9ea947f58e6cb528c1257b5d31cb840cd2d1ac",
-                "url": "https://www.straitstimes.com/business/more-hitting-cpf-retirement-targets-at-the-milestone-age-of-55",
-                "source": "The Straits Times",
-                "date": "2026-07-03T12:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Filipinos most stressed in the workplace in Southeast Asia: report",
-                "desc": "Filipino employees are the most stressed in Southeast Asia, according to the latest workplace study by Global Analytics group Gallup.",
-                "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/stressed%20worker%20banner.jpg",
-                "url": "https://philstarlife.com/news-and-views/559450-filipinos-most-stressed-in-the-workplace-southeast-asia-gallup-report",
-                "source": "Philstar Life",
-                "date": "2026-07-03T12:30:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ethiopia hits an all-time high in trade revenue for one of its most important exports",
-                "desc": "Ethiopia’s coffee exports have hit a milestone, reaching the $3 billion mark for the first time in the country’s history. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/QGQktkpTURBXy8wMTcyNWYwMGM2ZjliN2E4OWI3N2JiY2YxZWU1MjFjYS5qcGeSlQMAL80F3M0DTJMFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/markets/ethiopia-hits-an-all-time-high-in-trade-revenue-for-one-of-its-most-important-exports/90zlxv9",
-                "source": "Business Insider Africa",
-                "date": "2026-07-03T12:30:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dorset cafe wowing customers with top-notch breakfasts",
-                "desc": "The Fisherman Cafe in Poole has been earning rave reviews from customers for its breakfasts",
-                "image": "https://www.bournemouthecho.co.uk/resources/images/21136550.jpg?type=og-image",
-                "url": "https://www.bournemouthecho.co.uk/news/26251352.dorset-cafe-wowing-customers-top-notch-breakfasts/",
-                "source": "Bournemouth Echo",
-                "date": "2026-07-03T12:30:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The new-build housing glut: It’s not just condos",
-                "desc": "Empty, unsold, new duplexes and townhouses are at a peak not seen since the 1990s",
-                "image": "https://www.theglobeandmail.com/resizer/v2/DCAGQRKYJFHKDGIJTP7NQQKSN4.JPG?auth=c5afd275b870acc201f1f7d9fa1f1b9af045907ca1cf2e58f6364b4d3101bf60&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/real-estate/vancouver/article-the-new-build-housing-glut-its-not-just-condos/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-03T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Parent Alphabet Invested $900 Million Into SpaceX in January 2015 -- Here's How Much That Investment Is Worth Today",
-                "desc": "Alphabet's stake in SpaceX is now worth more than the gross domestic product (GDP) of Costa Rica.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877052%2Frocket-coins-calculator-financial-metrics-to-moon-crypto-invest-getty.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/03/googl-invested-900-million-spcx-how-much-today/",
-                "source": "The Motley Fool",
-                "date": "2026-07-03T12:29:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI is outpacing the rules, Europe’s top bankers and regulators warn",
-                "desc": "Europe's top bankers and financial regulators are grappling with how to better regulate AI risks.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108126365-1743745926179-gettyimages-1820209027-ai-robot-digital-display.jpeg?v=1748222707&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/03/ai-outpacing-rules-europe-top-bankers-regulators-warn.html",
-                "source": "CNBC",
-                "date": "2026-07-03T12:21:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK: Bejo and Resurrect bio partner to advance spinach disease resistance",
-                "desc": "Bejo and UK based biotechnology company Resurrect Bio have announced a joint development agreement to explore new approaches to disease resistance with a focus on downy mildew in spinach, one…",
-                "image": "https://www.hortidaily.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2026/07/03/RB.jpg?preset=OgImage",
-                "url": "https://www.hortidaily.com/article/9853744/uk-bejo-and-resurrect-bio-partner-to-advance-spinach-disease-resistance/",
-                "source": "Hortidaily",
-                "date": "2026-07-03T12:19:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jaecoo J5 Hybrid to get larger 5.1 kWh battery for more EV range, V2L upgrade; 354 PS 1.5T powertrain?",
-                "desc": "2026 Jaecoo J5 Hybrid update; image by Yu Lei Kan Che via Car News China The Jaecoo J5 Hybrid has been sighted in China sporting a range of upgrades, including a hybrid powertrain with greater …",
-                "image": "https://paultan.org/image/2026/07/2026-Jaecoo-J5-Hybrid-updated-CNC-e1783078379646-1200x630.jpg",
-                "url": "https://paultan.org/2026/07/03/jaecoo-j5-hybrid-to-get-larger-5-1-kwh-battery-for-more-ev-range-v2l-upgrade-354-ps-1-5t-powertrain/",
-                "source": "Paul Tan's Automotive News",
-                "date": "2026-07-03T12:16:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI skills required for 4 out of 10 graduate jobs in China, says recruitment portal",
-                "desc": "University of Hong Kong professors say ‘messy jobs’ that span multiple tasks more immune to challenges posed by technology.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/03/02ae7d67-bb7c-47a3-9613-565773a4c5d9_7e866b20.jpg?itok=BTtI5K_T&v=1783071417",
-                "url": "https://www.scmp.com/economy/china-economy/article/3359328/ai-skills-required-4-out-10-graduate-jobs-china-says-recruitment-portal",
-                "source": "South China Morning Post",
-                "date": "2026-07-03T12:00:11Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "BREAKING: Sony is resurrecting its RX10 bridge camera - new monster zoom Cyber-shot compact camera launches next week!",
+                "desc": "The 1-inch bridge camera is making an unexpected return, with the next Sony RX10 launching on July 09",
+                "image": "https://cdn.mos.cms.futurecdn.net/sRiBHk8sXXMNyEpMN4CfLL-2560-80.jpg",
+                "url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/breaking-sony-is-resurrecting-its-rx10-bridge-camera-new-monster-zoom-cyber-shot-compact-camera-launches-next-week",
+                "source": "Digital Camera World",
+                "date": "2026-07-03T16:33:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI helps find flaws in FatFs library used in millions of devices",
+                "desc": "Seven security vulnerabilities in the widely used FatFs filesystem library could expose millions of embedded devices to attacks.",
+                "image": "https://cyberinsider.com/wp-content/uploads/2026/07/AI-helps-find-flaws-in-FatFs-library-used-in-millions-of-devices.jpeg",
+                "url": "https://cyberinsider.com/ai-helps-find-flaws-in-fatfs-library-used-in-millions-of-devices/",
+                "source": "CyberInsider",
+                "date": "2026-07-03T16:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Beta code hints at AirPods with cameras",
+                "desc": "Code in the latest iOS 27 developer beta describes handling images from a pair of cameras, and hints that these are surely the expected AirPods with cameras.",
+                "image": "https://photos5.appleinsider.com/gallery/68156-143664-000-lead-AirPods-Pro-d2-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/03/airpods-with-cameras-show-up-in-ios-27-beta-code",
+                "source": "AppleInsider",
+                "date": "2026-07-03T16:28:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Residents invited to first free clean-powered outdoor movie night in Mission",
+                "desc": "MISSION - Mission is kicking off its first-ever clean-powered movie night with a very fitting screening of Dis...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3024/files/2026/07/e1bc48b8-0c00-4997-887d-f96a56add2a9-1200x675.jpeg",
+                "url": "https://fraservalleytoday.ca/2026/07/03/residents-invited-to-first-free-clean-powered-outdoor-movie-night-in-mission/",
+                "source": "Fraser Valley Today",
+                "date": "2026-07-03T16:24:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Home Q&A: How GPS trackers can keep our pets safe and healthy",
+                "desc": "At home and on staycation, this tech is offering more and more ways to provide us with vital peace of mind",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10283/5141763_5_org_iStock-2166332122.jpg",
+                "url": "https://www.irishexaminer.com/property/homeandgardens/arid-41873040.html",
+                "source": "Irish Examiner",
+                "date": "2026-07-03T16:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 developer Rockstar Games accused of enabling crunch, failing to address gender pay gap, and weaponizing bonuses",
+                "desc": "GTA 6 studio Rockstar Games has been accused of enabling crunch, failing to address gender-based pay inequity, and weaponizing bonuses.",
+                "image": "https://cdn.mos.cms.futurecdn.net/j8k3uX7LDW9AMpD2LGzrUL-2560-80.jpg",
+                "url": "https://www.techradar.com/gaming/gaming-industry/gta-6-developer-rockstar-games-accused-of-enabling-crunch-failing-to-address-gender-pay-gap-and-weaponizing-bonuses",
+                "source": "TechRadar",
+                "date": "2026-07-03T16:21:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HUAWEI MatePad Pro Max Flagship Tablet Is Now Available In Malaysia",
+                "desc": "Huawei has announced the availability of the MatePad Pro Max in Malaysia, featuring a 13.2-inch OLED display, Kirin T93 Pro chip, plus 12GB RAM and 512GB storage.",
+                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/04001544/huaweimatepromaxcover.jpg",
+                "url": "https://pokde.net/gadget/tablet/huawei-matepad-pro-max-available",
+                "source": "Pokde.Net",
+                "date": "2026-07-03T16:21:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony is teasing its first new RX10 superzoom camera in nearly nine years.",
+                "desc": "The Sony Alpha Instagram account shared a short and vague teaser for a new Sony RX10 camera that will be announced on July 9th at 10AM ET. The last version was 2017’s RX10 IV that launched with a 24-600mm 25x optical zoom lens, a 20.1-megapixel 1-inch sensor, and up to 24fps capture capabilities with autofocus and tracking.\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sony.jpg?quality=90&strip=all]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sony.jpg?quality=90&strip=all&crop=0,10.698809344798,100,78.602381310404",
+                "url": "https://www.theverge.com/tech/961376/sony-teaser-rx10-digital-camera-superzoom-lens",
+                "source": "The Verge",
+                "date": "2026-07-03T16:20:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Prime Day 2026 starts July 4: Samsung Galaxy S25 Ultra at Rs 84,999, Sennheiser Momentum TWS 4 for Rs 17,499, and more deals on phones, laptops, more",
+                "desc": "Tech News News: Amazon's Prime Day 2026 sale goes live at midnight on July 4 and runs for 72 hours, until 11:59 pm on July 6. This marks the tenth edition of the even.",
+                "image": "https://static.toiimg.com/thumb/msid-132166166,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-prime-day-2026-starts-july-4-samsung-galaxy-s25-ultra-at-rs-84999-sennheiser-momentum-tws-4-for-rs-17499-and-more-deals-on-phones-laptops-more/articleshow/132166166.cms",
+                "source": "The Times of India",
+                "date": "2026-07-03T16:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The MacRumors Show: Latest iPhone 18 Pro Leaks and Rumors",
+                "desc": "On this week's episode of The MacRumors Show, we discuss the latest leaks and rumors surrounding the iPhone 18 Pro. Subscribe to The MacRumors Show YouTube channel for more videos Tata Electronics, one of Apple's manufacturing partners in India, was hit by a ransomware attack that resulted in more than 200,000 internal files being posted online, including component lists, supplier data, and images of iPhone 18 Pro test units.",
+                "image": "https://images.macrumors.com/t/x7Wjm3XRfAVoPy1y91GtVZeFeSQ=/2500x/article-new/2026/07/TMRS-200-Latest-iPhone-18-Pro-Leaks-and-Rumors-Thumb.jpg",
+                "url": "https://www.macrumors.com/2026/07/03/the-macrumors-show-latest-iphone-18-pro-rumors/",
+                "source": "MacRumors",
+                "date": "2026-07-03T16:13:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "MAPPA Gets to Work On 'Attack on Titan' One Last Time",
                 "desc": "If 'Attack on Titan 3' is meant to be the franchise's definitive game, then of course it needs a little dose of MAPPA, no?",
@@ -1174,99 +1264,99 @@
                 "source": "Game Developer",
                 "date": "2026-07-03T13:19:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "March LA.B's new Dive Watches, the Cool Belza Twin Models",
-                "desc": "Hit the waves with the new Belza Twin editions in bronze, with a higher depth rating and a cool 1970s personality for a robust surfer watch.",
-                "image": "https://monochrome-watches.com/app/uploads/2026/07/March-LAB-Belza-Twin-Bronze-Dive-Watch-2026-update-1.jpg",
-                "url": "https://monochrome-watches.com/march-lab-belza-twin-bronze-dive-watch-2026-update-introducing-price/",
-                "source": "Monochrome Watches",
-                "date": "2026-07-03T13:00:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A COF-graphene hybrid opens new horizons for lithium-sulfur batteries",
-                "desc": "Lithium-sulfur (Li-S) batteries combine the abundance and affordability of sulfur with an energy storage capability far beyond that of current lithium-ion technologies. Practical deployment, however, has been slowed by a ...",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/a-cof-graphene-hybrid.jpg",
-                "url": "https://techxplore.com/news/2026-07-cof-graphene-hybrid-horizons-lithium.html",
-                "source": "Tech Xplore",
-                "date": "2026-07-03T13:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I've Seen the Scary Headlines About AI. Here's Why I'm Still a Techno-Optimist",
-                "desc": "My experience in emerging tech gives me hope, but if the people who can fashion a future worth living in decide to opt out, we're screwed.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/opinion/i/ive-seen-t/ive-seen-the-scary-headlines-about-ai-heres-why-im-still-a-t_fn9v.1200.jpg",
-                "url": "https://au.pcmag.com/ai/118597/ive-seen-the-scary-headlines-about-ai-heres-why-im-still-a-techno-optimist",
-                "source": "PCMag Australia",
-                "date": "2026-07-03T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nothing Phone (1) receives final update as software support ends",
-                "desc": "The smartphone debuted in July 2022 running Android 12. The Nothing Phone (1) has officially reached the end of its software support lifecycle and will no...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-phone-1-final-update/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/nothing_phone_1_receives_final_update_as_software_support_ends-news-73561.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-03T12:58:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DESLOC V150 Plus Earns Kickstarter \"Project We Love\" Recognition for Its Creative Approach to Smart Lock Innovation",
-                "desc": "The world’s first low-light self-charging solar smart lock continues to gain Kickstarter momentum with solar power, 3D face recognition, AI […]",
-                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
-                "url": "https://technode.global/prnasia/desloc-v150-plus-earns-kickstarter-project-we-love-recognition-for-its-creative-approach-to-smart-lock-innovation/",
-                "source": "TNGlobal",
-                "date": "2026-07-03T12:57:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DJI now offers a pro version of its tiny Mic Mini 2 with backup recording.",
-                "desc": "After teasing the upgraded model alongside the original Mic Mini 2 that launched in April, DJI has announced the ¥629 ($93) Mic Mini 2S in China. It adds 14.5GB of storage in each transmitter for redundant recording (with a boost in audio quality) and the ability to wirelessly connect up to four microphones to a single transmitter.\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/dji1.jpg?quality=90&strip=all]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/dji1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-                "url": "https://www.theverge.com/tech/961278/dji-mic-mini-2s-wireless-microphone-china-launch",
-                "source": "The Verge",
-                "date": "2026-07-03T12:53:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Assassin’s Creed Black Flag Resynced release times in your region and New Zealand trick",
-                "desc": "The remake of 2013’s Assassin’s Creed 4: Black Flag is set to release on July 7, 2026, and release times for all platforms and regions have now been revealed.",
-                "image": "https://www.videogameschronicle.com/files/2026/07/assassins-creed-black-flag-resynced-4.jpg",
-                "url": "https://www.videogameschronicle.com/news/assassins-creed-black-flag-resynced-release-times-in-your-region-and-new-zealand-trick/",
-                "source": "Video Games Chronicle",
-                "date": "2026-07-03T12:53:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony to stop making PlayStation game discs from 2028",
-                "desc": "Sony to stop making PlayStation game discs from 2028",
-                "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7199/1783082021642.jpg",
-                "url": "https://t2online.in/tech/tech-news/sony-to-stop-making-playstation-game-discs-from-2028/2006161",
-                "source": "t2ONLINE",
-                "date": "2026-07-03T12:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NVIDIA GeForce NOW Starts July Off With 12 More Games, Sort Of Led By Monopoly: Star Wars Heroes vs. Villains",
-                "desc": "NVIDIA GeForce NOW adds 12 new games throughout July 2026, led by Monopoly: Star Wars Heroes vs. Villains and more cloud gaming releases.",
-                "image": "https://techgenyz.com/wp-content/uploads/2026/07/nvidia-gaming.webp",
-                "url": "https://techgenyz.com/nvidia-geforce-now-july-2026-games/",
-                "source": "Techgenyz",
-                "date": "2026-07-03T12:51:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ultraman Zero DLC comes to GigaBash next week",
-                "desc": "A Ultraman Zero DLC is heading its way to GigaBash on July 9, 2026. This is also in commemoration of the 60 year anniversary since Ultraman made his first TV appearance in 1966. This DLC features Ultraman Belial, and Ultraman Zero as new playable characters.  Here’s some more about the DLC, and its featured characters: This DLC adds “Ultraman Zero” and “Ultraman Belial”,...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/GigaBash-Ultraman-Zero-Featured.jpg",
-                "url": "https://nintendoeverything.com/ultraman-zero-dlc-comes-to-gigabash-next-week/",
-                "source": "Nintendo Everything",
-                "date": "2026-07-03T12:48:48Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "UN alarmed by violence in Lake Chad region",
+                "desc": "International, MNA | The United Nations voiced concern Friday over escalating violence in Africa's Lake Chad basin, which it said has cost 5,700 lives since November and triggered a displacement surge.",
+                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
+                "url": "https://macaubusiness.com/un-alarmed-by-violence-in-lake-chad-region/",
+                "source": "Macau Business",
+                "date": "2026-07-03T16:38:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lyra McKee’s family says justice system ‘completely failed’ as men found not guilty of murder",
+                "desc": "Journalist was shot while watching disturbances in Derry in 2019",
+                "image": "https://www.irishtimes.com/resizer/v2/4LKNVVLCWV4MFHDCRFGRP2ZMGA.jpg?smart=true&auth=7f126bb5f2295974f26ed7a1386fb1e3370064e16502d81431b330aa29bd126d&width=1200&height=630",
+                "url": "https://www.irishtimes.com/crime-law/courts/2026/07/03/three-men-found-not-guilty-of-murder-of-lyra-mckee/",
+                "source": "The Irish Times",
+                "date": "2026-07-03T16:37:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran’s $300 bln rebuild fund risks a familiar fate",
+                "desc": "A US-mooted reconstruction vehicle echoes attempts a decade ago to ​attract capital to the Islamic ​Republic. Yet despite more stable ⁠conditions, that investment fizzled out. ​Tapping Gulf state cash in return ​for a security pact with Iran is only slightly more likely to work.",
+                "image": "https://www.breakingviews.com/resizer/v2/UVUQTU6T6RCSNI2SYFA356F3VY.JPG?auth=d0601d15e7bd4ca1b498b6a3e20fef4309bf0eb6787b505be8a563820f117bb3&height=628&width=1200&quality=80&smart=true",
+                "url": "https://www.breakingviews.com/columns/considered-view/irans-300-bln-rebuild-fund-risks-familiar-fate-2026-07-03/",
+                "source": "Breakingviews",
+                "date": "2026-07-03T16:34:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India's Modi to visit Indonesia, Australia, New Zealand next week",
+                "desc": "International, MNA | Indian Prime Minister Narendra Modi will visit Indonesia, Australia and New Zealand next week, as New Delhi seeks to strengthen strategic ties in the region.",
+                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2026/04/Modi_shutterstock_2441612935.jpg",
+                "url": "https://macaubusiness.com/indias-modi-to-visit-indonesia-australia-new-zealand-next-week/",
+                "source": "Macau Business",
+                "date": "2026-07-03T16:33:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies",
+                "desc": "The ceremonies are expected to draw between 15 and 20 million mourners, before being laid to rest in the northeastern Iranian city of Mashhad, his birthplace.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--A_dvF0nZ--/c_crop,h_449,w_799,x_1,y_41/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-03T092026Z_1_LYNXMPEM620IJ_RTROPTP_3_IRAN-CRISIS-KHAMENEI.JPG?itok=_e_LMhxf",
+                "url": "https://www.channelnewsasia.com/world/khamenei-funeral-iran-tehran-body-lies-in-state-6230931",
+                "source": "CNA",
+                "date": "2026-07-03T16:33:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ZBC Launches Africa's First Weekly Wildlife TV Magazine Series",
+                "desc": "The Zimbabwe Broadcasting Corporation (ZBC) launched \"ZBC's Wild Africa Adventures\" on 30 June 2026, marking the debut of Africa's first weekly wildlife television magazine show.",
+                "image": "https://atta.travel/assets/img/favicon/favicon-96.png",
+                "url": "https://atta.travel/resource/zbc-launches-africa-s-first-weekly-wildlife-tv-magazine-series.html",
+                "source": "ATTA Travel",
+                "date": "2026-07-03T16:31:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran’s $300 bln Rebuild Fund Risks a Familiar Fate",
+                "desc": "By Afiq Fitri Alias LONDON, July 3 (Reuters Breakingviews) – The United States is again trying to lure foreign capital into Iran. A key part of last month’s ceasefire signed between Washington and Tehran was a $300 billion “reconstruction fund” for the Islamic Republic. The details may differ from a…",
+                "image": "https://energynow.com/wp-content/uploads/Iranians-after-an-airstrike-on-a-residential-building-in-Tehran-on-April-13-Iran-War-1200x810-1.jpg",
+                "url": "https://energynow.com/2026/07/irans-300-bln-rebuild-fund-risks-a-familiar-fate/",
+                "source": "EnergyNow.com",
+                "date": "2026-07-03T16:31:01Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Trump, 80, Thirsts After ‘So Popular’ Usha Vance, 40",
+                "desc": "“I’m doing this for a great second lady,” Trump said.",
+                "image": "https://www.thedailybeast.com/resizer/v2/YH6JIU4WWVGTXFP3OSOKNTYWYU.png?smart=true&auth=1c8def26c38fe4aabe4803de42c523a21fe619277dc8708428170a356b1596ea&width=1200&height=630",
+                "url": "https://www.thedailybeast.com/trump-80-thirsts-after-so-popular-usha-vance-40/",
+                "source": "The Daily Beast",
+                "date": "2026-07-03T16:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia: Somali President Meets Italian Interior Minister to Boost Bilateral Cooperation",
+                "desc": "Somali President Hassan Sheikh Mohamud on Friday received a high-level Italian delegation led by Interior Minister Matteo Piantedosi for talks focused on strengthening bilateral relations and expanding cooperation on security, migration and state-building.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607030463.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-03T16:25:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "African Union calls emergency meeting as US ends Somalia army funds",
+                "desc": "International, MNA | The African Union called an emergency meeting on its military mission in Somalia on Friday after Washington announced it would end critical funding over the lack of progress against Islamist insurgents.",
+                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
+                "url": "https://macaubusiness.com/african-union-calls-emergency-meeting-as-us-ends-somalia-army-funds/",
+                "source": "Macau Business",
+                "date": "2026-07-03T16:23:46Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ghana News Agency",
                 "desc": "Hamburg, July 2, (dpa/GNA) – A Norwegian Air aircraft travelling from Palma de Mallorca to Copenhagen, made an unplanned stop in Hamburg, after experiencing cabin pressure problems, a…",
@@ -1806,98 +1896,8 @@
                 "source": "The Nightly",
                 "date": "2026-07-03T12:48:26Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran to host dozens of foreign leaders for Khamenei's funeral, with Western nations absent",
-                "desc": "Russia's Medvedev, Pakistan's prime minister and Taliban officials are among roughly 30 country delegations expected as Iran buries slain Ayatollah Ali Khamenei this week.",
-                "image": "https://images.euronews.com/articles/stories/09/82/42/28/1200x675_cmsv2_dc1cf7b5-6876-5546-bb34-93564294a42f-9824228.jpg",
-                "url": "https://www.euronews.com/2026/07/03/iran-to-host-dozens-of-foreign-leaders-for-khameneis-funeral-with-western-nations-absent",
-                "source": "Euronews",
-                "date": "2026-07-03T12:46:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Instability in AI and machine learning publication quality",
-                "desc": "A study has revealed an annual growth rate of 67.8% in retracted research articles on artificial intelligence and machine learning over the last decad...",
-                "image": "https://www.universityworldnews.com/images/uwn-ball-320.png",
-                "url": "https://www.universityworldnews.com/post.php?story=20260703132615397",
-                "source": "University World News",
-                "date": "2026-07-03T12:45:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa deploys troops to bolster security during anti-migrant protests",
-                "desc": "JOHANNESBURG, July 3 (Reuters) - South Africa has deployed more than 3,000 soldiers nationwide to bolster security and support police this month during anti-migrant protests that organisers have vowed",
-                "image": "https://s.yimg.com/lo/mysterio/api/d2c87fc41d8607056cbe972e2c055c54f521539d6d48e8fcfcdeadeacfd36ea9/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa6c55bbef37e2a69e903ec0f10ec92af",
-                "url": "https://uk.news.yahoo.com/south-africa-deploys-troops-bolster-124541489.html",
-                "source": "Yahoo News UK",
-                "date": "2026-07-03T12:45:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European police hunt for Ukrainian woman in connection with Monaco bomb attack",
-                "desc": "The bombing has sent shockwaves through Monaco, a generally secure microstate near Nice in southern France that is a playground of the world's ultra-rich.",
-                "image": "https://images.euronews.com/articles/stories/09/82/43/10/1200x675_cmsv2_19e9c3a2-c147-57be-a98c-cad0430dd5d1-9824310.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/03/interpol-issues-red-notice-for-ukrainian-woman-over-monaco-bomb-attack",
-                "source": "Euronews.com",
-                "date": "2026-07-03T12:44:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda: Three Ugandans Killed in Anti-Migrant Violence in South Africa",
-                "desc": "At least three of Ugandans have been killed in South Africa as anti-migrant violence continues to spread across several provinces.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607030378.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-03T12:40:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia names 4 African countries where it plans to open new embassies as sanctions and fuel shortages push it beyond the West",
-                "desc": "Russia is moving to expand its diplomatic presence in Africa, with plans to open new missions in four countries as Moscow deepens its engagement with the continent amid worsening ties with the US and Europe. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/TBNktkuTURBXy8yMjYyOWI0OC1lNmYwLTRkZGUtYjljYy1jNGVjYzFiN2Q0NDcuanBlZ5KVAwDM1s0bAs0PMZMFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/lifestyle/russia-names-4-african-countries-where-it-plans-to-open-new-embassies-as-sanctions/wnmlpcr",
-                "source": "Business Insider Africa",
-                "date": "2026-07-03T12:40:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Judiciary posts 104pc case clearance rate; cutting backlog by 27pc in 2025/6",
-                "desc": "Speaking during the official release of the 2024/2025 Performance Management and Measurement Understanding (PMMU) evaluation report, Chief Justice Koome called for sustained investment in modern court infrastructure, expanded judicial capacity...",
-                "image": "https://capitalfm.africa/wp-content/uploads/2026/06/Photo-2.jpg",
-                "url": "https://capitalfm.africa/judiciary-posts-104pc-case-clearance-rate-cutting-backlog-by-27pc-in-2025-6/",
-                "source": "Capitalfm.co.ke",
-                "date": "2026-07-03T12:34:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia’s latest attack on Kyiv was exceptionally deadly - here is why",
-                "desc": "A ferocious Russian attack on Kyiv Thursday killed at least 30 people, making it the third deadliest assault against the Ukrainian capital since the start of the war.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283715027.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/03/world/ukraine-russia-kyiv-attack-analysis-intl",
-                "source": "CNN",
-                "date": "2026-07-03T12:33:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thai nurse defies Buddhist custom to save monks in deadly crash",
-                "desc": "A nurse in Thailand challenged Buddhist customs when she stepped in to treat the victims of a car accident that killed 10 monks.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/03/3991122.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/thai-nurse-defies-buddhist-custom-to-save-monks-in-deadly-crash",
-                "source": "The Star",
-                "date": "2026-07-03T12:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seychelles: Appointment of the Culture Reform Council",
-                "desc": "Seychelles: Appointment of the Culture Reform Council",
-                "image": "https://www.zawya.com/favicon.ico",
-                "url": "https://www.zawya.com/en/press-release/africa-press-releases/seychelles-appointment-of-the-culture-reform-council-lbf4imng",
-                "source": "ZAWYA",
-                "date": "2026-07-03T12:32:03Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T04:00:43.444115Z"
+    "lastGlobalSync": "2026-07-04T04:40:39.928540Z"
 }
