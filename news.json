@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Toyota Hilux still leads the way as new vehicle sales soar in June",
+                "desc": "South Africa's new vehicle sales showed no let in June, with yet another record sales increase for the 20th month in a row.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2026/02/Toyota-Hilux.jpg",
+                "url": "https://www.citizen.co.za/motoring/june-2026-new-vehicle-sales-figures/",
+                "source": "The Citizen",
+                "date": "2026-07-03T13:38:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Germany news: Workers protest Mercedes-Benz cost-cutting",
+                "desc": "Thousands of Mercedes-Benz workers across Germany are protesting the carmaker's cost-cutting drive. Meanwhile, firefighters rescued two window cleaners from a faulty platform high above Frankfurt. DW has more.",
+                "image": "https://static.dw.com/image/77816622_6.jpg",
+                "url": "https://www.dw.com/en/germany-news-workers-protest-mercedes-benz-cost-cutting/live-77815223",
+                "source": "DW.com",
+                "date": "2026-07-03T13:37:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla driver charged with manslaughter in Katy crash was Googling 'FSD too timid'",
+                "desc": "Harris County charged the Tesla driver in the fatal Katy FSD crash with manslaughter, citing 'too timid' FSD searches and a 73 mph accelerator override.",
+                "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/06/Tesla-Autopilot-crash-home-texas.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://electrek.co/2026/07/03/tesla-fsd-driver-manslaughter-katy-crash/",
+                "source": "Electrek",
+                "date": "2026-07-03T13:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Autonomous Vehicles: A Technology That Should Be Embraced",
+                "desc": "Artificial intelligence (AI) has become a foundational technology in the development of autonomous vehicles (Garikapati Shetiya, 2024), enabling these systems to perceive their environment, make driving decisions and execute vehicle control with minimal or no human intervention .",
+                "image": "https://cdn.modernghana.com/images/content/73202632553-i41p266ffa-autonomous-vehicles.jpg",
+                "url": "https://www.modernghana.com/news/1507566/autonomous-vehicles-a-technology-that-should-be.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-03T13:30:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Agile Practices: A Supply Chain Factor",
+                "desc": "Agile supply chain practice is characterized by its focus on flexibility, responsiveness, and collaborative engagement to swiftly adapt to evolving market demands and uncertainties .",
+                "image": "https://cdn.modernghana.com/images/content/73202632838-m5htk8v331-agile-supply-chain-1.jpg",
+                "url": "https://www.modernghana.com/news/1507567/agile-practices-a-supply-chain-factor.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-03T13:30:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How these companies improved employee engagement through listening, not wellness perks",
+                "desc": "As Singapore grapples with talent shortages, an ageing workforce and rapid AI disruption, its persistently low employee engagement is becoming an economic concern, experts say.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--SKlIDBdH--/c_crop,h_900,w_1600,x_0,y_144/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/03/employee-engagement-company-singapore-gfx-cna-today-big-read.png?itok=-IvJRcFz",
+                "url": "https://www.channelnewsasia.com/today/big-read/singapore-low-employee-engagement-managers-coaching-6227401",
+                "source": "CNA",
+                "date": "2026-07-03T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How To Claim A WhatsApp Username",
+                "desc": "Get ready to navigate a free-for-all of social media handles.",
+                "image": "https://www.engadget.com/img/gallery/how-to-claim-a-whatsapp-username/l-intro-1783026777.jpg",
+                "url": "https://www.engadget.com/2207358/how-to-claim-whatsapp-username/",
+                "source": "Engadget",
+                "date": "2026-07-03T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The inventions that tell the story of America, and the 1 innovation that made them possible",
+                "desc": "From the lightbulb to the airplane, to medical breakthroughs and the internet age, the past 250 years have been defined by America's intrepid intellect.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/03/dc005f0c-bed9-4229-8e74-a4044a2941f1/thumbnail/1200x630/e943021a2c136806a6f5d1bb9acd3e3a/gettyimages-804460030.jpg",
+                "url": "https://www.cbsnews.com/news/american-inventions-us-history-patent-system/",
+                "source": "CBS News",
+                "date": "2026-07-03T13:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "People awaiting hospital treatment to get three weeks’ notice under NHS England plans",
+                "desc": "Move inspired by customer service provided by online retailers such as John Lewis and Amazon",
+                "image": "https://i.guim.co.uk/img/media/434a1f8e6a22eb446c4c1c1643db3cdb817f71e2/521_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5db70c28861a048f9ccd9c53823d1d50",
+                "url": "https://www.theguardian.com/society/2026/jul/03/people-awaiting-hospital-treatment-three-weeks-notice-nhs-england",
+                "source": "The Guardian",
+                "date": "2026-07-03T13:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PBCOM Celebrates 100-Branch Milestone, Strengthening Presence Nationwide",
+                "desc": "June 2, 2026 marked a historic milestone for the Philippine Bank of Communications (PBCOM) with the inauguration of its 100th branch in Santiago, located at",
+                "image": "https://journal.com.ph/wp-content/uploads/2026/07/PBCOM-Santiago-Isabela-825x550.jpg",
+                "url": "https://journal.com.ph/pbcom-celebrates-100-branch-milestone-strengthening-presence-nationwide/",
+                "source": "journal.com.ph",
+                "date": "2026-07-03T13:14:15Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Thousands without power after thunderstorms roll through Quebec",
                 "desc": "Severe thunderstorms that swept across Quebec on Thursday evening resulted in tens of thousands of power outages.",
                 "image": "https://i.cbc.ca/ais/f570600f-4ba3-4450-86be-af9ddcc8b0a3,1783078060288/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C5472%2C3078%29%3BResize%3D620",
@@ -542,99 +632,99 @@
                 "source": "Gasgoo",
                 "date": "2026-07-03T02:30:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Guess which ASX stock is rocketing almost 30% today?",
-                "desc": "This ASX battery stock is rallying after announcing first commercial deliveries to Nyobolt, with more customer talks underway.",
-                "image": "https://www.fool.com.au/wp-content/uploads/2021/08/green-battery-16_9-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/03/guess-which-asx-stock-is-rocketing-almost-30-today/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-03T02:27:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toyota Corolla Cross Adventure revealed",
-                "desc": "Rugged special edition compact SUV steps out in Japan with a RAV4 Edge-inspired look",
-                "image": "https://editorial.pxcrush.net/carsales/general/editorial/toyota-corolla-cross-2027-z-adventure-7-1782963369.jpg",
-                "url": "https://www.carsales.com.au/editorial/details/toyota-corolla-cross-adventure-revealed-152387/",
-                "source": "Carsales",
-                "date": "2026-07-03T02:25:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exports miss FY26 target by $4.87bn",
-                "desc": "Proceeds contract 6pc year-on-year to $30.13bn; trade gap widens 21.57pc.",
-                "image": "https://i.dawn.com/large/2026/07/03081231a5a75c9.webp",
-                "url": "https://www.dawn.com/news/2012609",
-                "source": "Dawn",
-                "date": "2026-07-03T02:25:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exports miss FY26 target by $4.87bn",
-                "desc": "Proceeds contract 6pc year-on-year to $30.13bn; trade gap widens 21.57pc.",
-                "image": "https://i.dawn.com/large/2026/07/03081231a5a75c9.webp",
-                "url": "https://www.dawn.com/news/amp/2012609",
-                "source": "Dawn",
-                "date": "2026-07-03T02:25:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 3 July 2026",
-                "desc": "Indian stock market indices, Sensex and Nifty 50, are set to open positively on Friday, influenced by Wall Street gains, despite Asian market weakness. The Nifty IT sector led a rally as broader markets maintained bullish sentiment, with significant buying in various sectors.",
-                "image": "https://www.livemint.com/lm-img/img/2026/07/03/1600x900/logo/Buy_or_sell_stocks_to_buy_today_stock_market_news_1698472404481_1783043854549_61161834-f106-4a34-85fe-4c735e42c863.jpg",
-                "url": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-3-july-2026-11783042438748.html",
-                "source": "livemint.com",
-                "date": "2026-07-03T02:00:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "[SMM Nickel Morning Meeting Minutes] U.S. June ADP Employment Increase Misses Expectations; the Most",
-                "desc": "[7.3 Morning Meeting Minutes] US June ADP employment increased by 98,000, the smallest gain since March and below market expectations of 118,000. The most-traded SHFE nickel 2609 contract moved sideways in morning trading, closing the session at 125,880 yuan/mt, down 0.41%. A stronger US dollar and a shift in market expectations toward a more \"hawkish\" US Fed policy stance kept the macro environment challenging. Markets turned their attention to this week's US ADP and non-farm payrolls data. In the short term, nickel prices are expected to trade in the doldrums within the range of 125,000-135,000 yuan/mt.",
-                "image": "https://static.metal.com/common.metal.com/images/header-en/smm-logo.png",
-                "url": "https://news.metal.com/newscontent/103985396-smm-nickel-morning-meeting-minutes-us-june-adp-employment-increase-misses-expectations-the-most-traded-shfe-nickel-contr",
-                "source": "SMM Metal",
-                "date": "2026-07-03T01:59:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Geely EX2 launching in UK next month - Proton eMas 5 twin gains new wheels, interior, up to 345 km WLTP",
-                "desc": "It’s rare that we score one over Europe, but the Geely EX2 – known to you and me as the Proton eMas 5 – is only launching in the UK in late August, some ten …",
-                "image": "https://paultan.org/image/2026/07/Geely-EX2-UK-1-e1782986715720-1200x676.jpg",
-                "url": "https://paultan.org/2026/07/03/geely-ex2-launching-in-uk-next-month-proton-emas-5-twin-gains-new-wheels-interior-up-to-345-km-wltp/",
-                "source": "Paul Tan's Automotive News",
-                "date": "2026-07-03T01:55:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Makati Finance Corporation Announces Remote Annual Stockholders' Meeting for July 30, 2026",
-                "desc": "Makati Finance Corporation has scheduled its Annual Stockholders’ Meeting (ASM) on July 30, 2026 at 11:30 a.m., to be conducted through remote communication...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/03/113396.webp",
-                "url": "https://mb.com.ph/2026/07/03/makati-finance-corporation-announces-remote-annual-stockholders-meeting-for-july-30-2026",
-                "source": "Manila Bulletin",
-                "date": "2026-07-03T01:54:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tesla Model 3 driver charged with manslaughter in Katy, Texas crash",
-                "desc": "Tesla Model 3 driver Michael David Butler faces manslaughter charges after a crash in Katy, Texas, killed a 76-year-old woman. He claims the car was in Full Self-Driving mode.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/tesla-crash.gif",
-                "url": "https://www.foxnews.com/us/driver-charged-manslaughter-tesla-crashes-texas-home-kills-grandmother",
-                "source": "Fox News",
-                "date": "2026-07-03T01:50:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asia markets trade mixed as chip slump weighs on sentiment: Live updates",
-                "desc": "Asia-Pacific markets traded mixed on Friday as investors continued rotating out of technology stocks, tracking declines in the U.S.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108326701-1782389382215-gettyimages-2282338756-AFP_B7XX79E.jpeg?v=1782389422&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
-                "source": "CNBC",
-                "date": "2026-07-03T01:48:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Amazon Luna games (July 2026): Confirmed new free titles to play this month",
+                "desc": "Every month, Amazon Prime subscribers get a host of new games to play via Amazon Luna – here's every new title joining the service in July 2026.",
+                "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/07/amazon-luna-games-this-month-2608c89.jpg?resize=1200%2C630",
+                "url": "https://www.radiotimes.com/technology/gaming/amazon-luna-games/",
+                "source": "Radio Times",
+                "date": "2026-07-03T13:40:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These Dell Deals on Laptops and Desktops Are Popping Off All 4th Of July Weekend",
+                "desc": "A holiday weekend means holiday sales, so take some time to browse what Dell is offering for the nation's birthday celebration with hundreds off top hardware.",
+                "image": "https://i.pcmag.com/imagery/articles/01UMqd7HFH8UVciVmkI0pCW-1.fit_lim.size_1200x630.v1783043646.png",
+                "url": "https://www.pcmag.com/news/best-dell-laptop-desktop-deals-july-4th-2026-sale",
+                "source": "PCMag",
+                "date": "2026-07-03T13:38:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New studio //18.bravo is aiming for a \"radically different approach\" to game development",
+                "desc": "\"We're building a studio that ties leadership compensation to employee success,\" says Bowling",
+                "image": "https://assetsio.gnwcdn.com/cod-modern-warfare-2_js4053W.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/industry-veteran-robert-bowling-launches-new-developer-18bravo",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-03T13:34:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ShengShu Technology Unveils Vidu S1, Bringing Real-Time Interactive Generation to AI Video",
+                "desc": "SINGAPORE, July 3, 2026 /PRNewswire/ -- At the 2026 Global Digital Economy Conference, ShengShu Technology today unveiled Vidu S1, its next-generation video foundation model, delivering real-time interactive video generation that transforms AI video from creating single clips to enabling continuous, live interaction.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/03/1123919.jpg",
+                "url": "https://www.manilatimes.net/2026/07/03/tmt-newswire/pr-newswire/shengshu-technology-unveils-vidu-s1-bringing-real-time-interactive-generation-to-ai-video/2378110",
+                "source": "The Manila Times",
+                "date": "2026-07-03T13:31:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I stopped waiting for Android Studio and built my first app in Google AI Studio instead",
+                "desc": "Building directly for Android beats creating web apps by a mile.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/google-ai-studio-android-3.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/i-built-my-first-android-app-in-google-ai-studio/",
+                "source": "MakeUseOf",
+                "date": "2026-07-03T13:30:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cyberpunk 2077 Now an Indisputable Success at 40 Million Units Sold",
+                "desc": "Redemption story complete - Cyberpunk 2077 was quite rightly lambasted for the dire state it launched in almost six years ago, but what followed in the time ...",
+                "image": "https://images.pushsquare.com/3c682939012a5/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/cyberpunk-2077-now-an-indisputable-success-at-40-million-units-sold",
+                "source": "Push Square",
+                "date": "2026-07-03T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Random: Xbox Helps Release New Version Of Banjo-Kazooie With Unique Features",
+                "desc": "As part of the Evercade / Blaze Entertainment platforms - We've been waiting a very long time for Xbox to give us something new in regards to the Banjo-Kazoo...",
+                "image": "https://images.purexbox.com/1b48c1754b830/large.jpg",
+                "url": "https://www.purexbox.com/news/2026/07/random-xbox-helps-release-new-version-of-banjo-kazooie-with-unique-features",
+                "source": "Pure Xbox",
+                "date": "2026-07-03T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Young Founder Wants Your Old Laptop To Have A New Life",
+                "desc": "A new startup is looking for ways to extend the life of old laptops. The hope is to create less e-waster and save money.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a454f49dabb6152a6d090e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/monicasanders/2026/07/03/this-young-founder-wants-your-old-laptop-to-have-a-new-life/",
+                "source": "Forbes",
+                "date": "2026-07-03T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Gents built Question of Time, its own perfume brand",
+                "desc": "Meet Question of Time, the perfume line from Swedish retailer Gents that launches fragrances ten bottles at a time and quickly drops the ones that don't sell",
+                "image": "https://images.vs-static.com/DJah8yVxQwDSvWbmMT159lBbzrg=/0x403:1024x979/750x0/QOT_An_affair_steem_ed88422c49/QOT_An_affair_steem_ed88422c49.jpg",
+                "url": "https://www.voguescandinavia.com/articles/gents-question-of-time-perfume-brand",
+                "source": "Vogue Scandinavia",
+                "date": "2026-07-03T13:21:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Enginefall developer Red Rover Interactive is making layoffs",
+                "desc": "The studio has raised $20 million since breaking cover three years ago.",
+                "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte54d29449999a9ba/6a47b619b36d056003c51f32/Red_Rover_Interactive_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+                "url": "https://www.gamedeveloper.com/business/enginefall-developer-red-rover-interactive-is-making-layoffs",
+                "source": "Game Developer",
+                "date": "2026-07-03T13:19:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "March LA.B's new Dive Watches, the Cool Belza Twin Models",
                 "desc": "Hit the waves with the new Belza Twin editions in bronze, with a higher depth rating and a cool 1970s personality for a robust surfer watch.",
@@ -1174,99 +1264,99 @@
                 "source": "The Verge",
                 "date": "2026-07-02T23:54:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The hardest startup question isn’t how fast you can build. It’s why",
-                "desc": "AI can optimise the how of work. But the harder question remains: what is actually worth giving your life to?",
-                "image": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/07/shifu-kung-fu-panda-2.jpg?quality=70&w=1024",
-                "url": "https://www.startupdaily.net/after-hours/life-hacks/the-hardest-startup-question-isnt-how-fast-you-can-build-its-why/",
-                "source": "Startup Daily",
-                "date": "2026-07-02T23:52:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation Issues New Official Statement on PS Plus Price Changes",
-                "desc": "During a recent company meeting, a handful of PlayStation execs discuss PS Plus' role in the business and possible price increases to boot.",
-                "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/ps-plus-profitability.jpg?w=1600&h=900&fit=crop",
-                "url": "https://gamerant.com/ps-plus-price-changes-profitability/",
-                "source": "GameRant",
-                "date": "2026-07-02T23:46:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America)",
-                "desc": "Splashing news - Ahead of the launch of Splatoon Raiders on the Switch 2 later this month, an in-store demo for the game has gone live. If you happen to be ...",
-                "image": "https://images.nintendolife.com/82c178da87a40/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
-                "source": "Nintendo Life",
-                "date": "2026-07-02T23:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dune: Awakening console deep dive video released, physical edition announced",
-                "desc": "Following the announcement that Dune: Awakening will launch on consoles in September, Funcom has announced today that it has teamed up with Bandai Namco to release physical copies of Dune: Awakening on PS5 in Australia and New Zealand. Alongside the announcement, a developer deep dive video has been released showing off what players can expect",
-                "image": "https://powerup-gaming.com/wp-content/uploads/2026/06/ConsoleAnnoucement__ExploreDune-scaled.png",
-                "url": "https://powerup-gaming.com/dune-awakening-console-deep-dive-video-released-physical-edition-announced/",
-                "source": "powerup-gaming.com",
-                "date": "2026-07-02T23:24:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bentley Mulliner Introduces Side-to-Side Paint Fade Exclusively for Supersports",
-                "desc": "Bentley's in-house personalisation arm has created a new design theme for the Supersports that features a first-for-the-brand paint fade sweeping across the full width of the car.",
-                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/Design-Theme-by-Mulliner-3-jpg.webp",
-                "url": "https://www.tarmaclife.co.nz/news/bentley-mulliner-introduces-side-to-side-paint-fade-exclusively-for-supersports/",
-                "source": "Tarmac Life",
-                "date": "2026-07-02T23:03:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why's it so hard to find a bottle bank in the city centre?",
-                "desc": "The council only has one in all of Dublin 1.",
-                "image": "https://storage.ghost.io/c/9f/78/9f782dda-9dc9-44d1-b817-fe80588bdc76/content/images/size/w1200/2026/07/Bottle-bank-1.jpg",
-                "url": "https://www.dublininquirer.com/whys-it-so-hard-to-find-a-bottle-bank-in-the-city-centre/",
-                "source": "Dublin InQuirer",
-                "date": "2026-07-02T23:02:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Artificial intelligence: Yann LeCun works on more flexible AI",
-                "desc": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o",
-                "source": "BBC",
-                "date": "2026-07-02T23:02:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yann LeCun works on more flexible AI",
-                "desc": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
-                "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
-                "source": "BBC",
-                "date": "2026-07-02T23:02:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hands-on with the new Shimano Deore mechanical groupset, including real-world weights",
-                "desc": "We take a look at the updated Shimano Deore mechanical groupset to dive into its details and find out the weights of each component.",
-                "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/7d0cd43e-485b-4e19-aa47-3c13307b2149/0011141d-e01f-49a7-aab8-2b2a033d7a68/FotoJet-32.jpg?preview=false&platform=WEB&deviceId=fb9c997c-e89e-4afd-8143-14ec48cb0afc&w=1200",
-                "url": "https://www.bikeradar.com/features/first-look-friday/shimano-deore-m7200-weights-and-details",
-                "source": "BikeRadar",
-                "date": "2026-07-02T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rumour: Xbox Is 'Heavily Evaluating' Halo's Future Just Weeks Before Its PS5 Debut",
-                "desc": "Master plan - To say Xbox is in chaos right now would be an understatement. The platform holder is currently in the midst of managing mass layoffs throughou...",
-                "image": "https://images.pushsquare.com/75556a9e28633/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/rumour-xbox-is-heavily-evaluating-halos-future-just-weeks-before-its-ps5-debut",
-                "source": "Push Square",
-                "date": "2026-07-02T23:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Sick leave: Germany rising but not the worst in Europe",
+                "desc": "Sick leave in Germany has hit a new record, with workers taking an average of nearly 20 days off per year. As Chancellor Merz cracks down, how does the country's absenteeism compare to other countries?",
+                "image": "https://static.dw.com/image/77819894_6.jpg",
+                "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
+                "source": "DW.com",
+                "date": "2026-07-03T13:40:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa needs adaptive security architecture to respond to threats - CDS",
+                "desc": "CDS Gen Olufemi Oluyede says Africa needs a resilient and adaptive security architecture capable of responding to current and emerging threats",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/07/Olufemi-Oluyede.webp",
+                "url": "https://guardian.ng/news/africa-needs-adaptive-security-architecture-to-respond-to-threats-cds/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-03T13:38:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese Survey Ship Spotted Operating in Japan's EEZ",
+                "desc": "Naha, Okinawa Pref., July 3 (Jiji Press)--A Chinese maritime survey ship appeared to be extending a wire into …",
+                "image": "https://www.nippon.com/en/ncommon/contents/category_thumbnails/23/1448638/1448638.jpg",
+                "url": "https://www.nippon.com/en/news/yjj2026070301078/",
+                "source": "nippon.com",
+                "date": "2026-07-03T13:35:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Running on empty: How the gulf war is threatening Kenya’s food security",
+                "desc": "Environmental science and conservation news",
+                "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/03132332/72-year-old-Peter-Kitur-at-his-farm-in-Kipkeikei-Trans-Nzoia.jpg",
+                "url": "https://news.mongabay.com/2026/07/running-on-empty-how-the-gulf-war-is-threatening-kenyas-food-security/",
+                "source": "news - Mongabay",
+                "date": "2026-07-03T13:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pilot Dies After Firefighting Aircraft Crashes Near Rabat",
+                "desc": "A pilot was killed on Thursday after a Civil Protection firefighting aircraft crashed while assisting efforts to contain a forest fire.",
+                "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-14.11.55.webp",
+                "url": "https://www.moroccoworldnews.com/2026/07/327017/pilot-dies-after-firefighting-aircraft-crashes-near-rabat/",
+                "source": "Morocco World News",
+                "date": "2026-07-03T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Interpol names Ukrainian woman as suspect in Monaco bombing",
+                "desc": "Anastasiia Berezovska is named as the chief suspect responsible for injuring Ukrainian tycoon Vadym Yermolaiev.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260703__B96H9NN__v5__HighRes__MonacoFrancePoliceInjuryInvestigation-1783082725.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/3/interpol-names-ukrainian-woman-as-suspect-in-monaco-bombing",
+                "source": "Al Jazeera",
+                "date": "2026-07-03T13:29:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nanobubbles cleaned up the Lincoln reflecting pool: here’s how they could be used on dying seas and lakes",
+                "desc": "Made internationally famous by their use to clean up the Lincoln Memorial pool in Washington, this tech is starting to be used globally.",
+                "image": "https://images.theconversation.com/files/745849/original/file-20260703-57-1khlul.jpg?ixlib=rb-4.1.0&rect=0%2C226%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/nanobubbles-cleaned-up-the-lincoln-reflecting-pool-heres-how-they-could-be-used-on-dying-seas-and-lakes-286680",
+                "source": "The Conversation",
+                "date": "2026-07-03T13:25:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa: Prayer answered with peaceful protests, but immigrants still stuck in make-shift camps",
+                "desc": "South Africa remained relatively calm on June 30th as an unofficial ultimatum from anti-immigration groups expired without the violence many had feared. Save for a few isolated incidents, major cities avoided the looting and destruction seen in past protests, thanks to a robust police deployment and the government’s firm stance against lawlessness",
+                "image": "https://www.christiandaily.com/media/original/thumbnail/0/37/3790.png",
+                "url": "https://www.christiandaily.com/news/south-africa-prayer-answered-with-peaceful-protests-but-immigrants-still-stuck-in-make-shift-camps",
+                "source": "www.christiandaily.com",
+                "date": "2026-07-03T13:22:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Patti LuPone \"Furious\" That LGBTQ+ Cruise Ship Banned From Turkey Ports",
+                "desc": "By banning a cruise ship full of American LGBTQ+ travelers from docking, Turkish authorities have drawn the wrath of Broadway's Patti LuPone.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2212390462.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/patti-lupone-lgbtq-cruise-ship-turkey-1236973822/",
+                "source": "Deadline",
+                "date": "2026-07-03T13:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How robotic-assisted surgery is transforming healthcare in Kenya",
+                "desc": "Because robotic-assisted surgery allows doctors to avoid unnecessary injury to muscles, ligaments, and surrounding tissues, recovery is often faster than.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-03-133510.webp",
+                "url": "https://eastleighvoice.co.ke/health/375150/how-robotic-assisted-surgery-is-transforming-healthcare-in-kenya",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-03T13:17:26Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "South Africa deploys troops to bolster security during anti-migrant protests",
                 "desc": "JOHANNESBURG, July 3 (Reuters) - South ⁠Africa has deployed more than 3,000 soldiers nationwide to bolster security ⁠and support police this month during anti-migrant protests that organisers ‌have vowed to hold every week, a letter signed by the president showed on Friday.",
@@ -1806,98 +1896,8 @@
                 "source": "The Star",
                 "date": "2026-07-03T01:49:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Tibetan protester sets himself on fire outside UN headquarters in New York City",
-                "desc": "US News: A man carrying a Tibetan flag set himself on fire outside the United Nations headquarters in Manhattan, New York City, on Thursday evening in an appar.",
-                "image": "https://static.toiimg.com/thumb/msid-132150608,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/tibetan-protester-sets-himself-on-fire-outside-un-headquarters-in-new-york-city/articleshow/132150539.cms",
-                "source": "The Times of India",
-                "date": "2026-07-03T01:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan’s disaster plans fail to keep pace with tourist boom",
-                "desc": "Japan regularly drills its schoolchildren for earthquakes evacuations, but foreign visitors are another matter entirely.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/02/b0015cb5-1ddb-4df2-9a21-0ffd92d9cd80_6e4346ef.jpg?itok=zeqT34UM&v=1782987528",
-                "url": "https://www.scmp.com/week-asia/health-environment/article/3359189/japans-disaster-plans-fail-keep-pace-tourist-boom",
-                "source": "South China Morning Post",
-                "date": "2026-07-03T01:30:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s America is in a state of cold civil war. But on the nation’s 250th birthday, that’s entirely fitting",
-                "desc": "Throughout its epic history, the United States have been anything but. The republic’s semiquincentennial will be marked not by unity, but by entrenched division.",
-                "image": "https://static.ffx.io/images/$zoom_0.3773%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_74/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/064ab575ddff75f9c6a316efdd2a037353774cb4",
-                "url": "https://www.theage.com.au/world/north-america/trump-s-america-is-in-a-state-of-cold-civil-war-but-on-the-nation-s-250th-birthday-that-s-entirely-fitting-20260701-p60brp.html",
-                "source": "The Age",
-                "date": "2026-07-03T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s America is in a state of cold civil war. But on the nation’s 250th birthday, that’s entirely fitting",
-                "desc": "Throughout its epic history, the United States have been anything but. The republic’s semiquincentennial will be marked not by unity, but by entrenched division.",
-                "image": "https://static.ffx.io/images/$zoom_0.3773%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_74/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/064ab575ddff75f9c6a316efdd2a037353774cb4",
-                "url": "https://www.smh.com.au/world/north-america/trump-s-america-is-in-a-state-of-cold-civil-war-but-on-the-nation-s-250th-birthday-that-s-entirely-fitting-20260701-p60brp.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-03T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU targets Chinese imports amid trade talks",
-                "desc": "Brussels has ended a customs exemption for low-value imports from China while agreeing with Beijing to monitor trade flows and improve access to rare earth materials.",
-                "image": "https://static.dw.com/image/68356169_6.jpg",
-                "url": "https://www.dw.com/en/eu-targets-chinese-imports-amid-trade-talks/a-77800366",
-                "source": "DW.com",
-                "date": "2026-07-03T01:28:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ministry Of National Education And Associates In Research And Education For Development (ARED) Announce New Commitments To Multilingual Foundation Learning At 2026 Yidan Prize Conference In Dakar",
-                "desc": "The 2026 Yidan Prize Conference, themed “Unleashing Africa’s potential: the role of education in a new era of development,” concluded today with a joint",
-                "image": "https://newstrends.co.ke/wp-content/uploads/2026/05/NewsTrendsKE-with-APO-News-Updates.webp",
-                "url": "https://newstrends.co.ke/ministry-of-national-education-and-associates-in-research-and-education-for-development-ared-announce-new-commitments-to-multilingual-foundation-learning-at-2026-yidan-prize-conference-in-dakar/",
-                "source": "newstrends.co.ke",
-                "date": "2026-07-03T01:26:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Islamic Development Bank Institute (IsDBI) And Centre Of Islamic Finance, Compliance And Advice (CIFCA) Forge Strategic Partnership To Advance Islamic Finance In Tanzania",
-                "desc": "The Islamic Development Bank Institute (IsDBI) (www.IsDBInstitute.org) and the Tanzania-based Centre of Islamic Finance, Compliance and Advice (CIFCA) signed",
-                "image": "https://newstrends.co.ke/wp-content/uploads/2026/05/NewsTrendsKE-with-APO-News-Updates.webp",
-                "url": "https://newstrends.co.ke/islamic-development-bank-institute-isdbi-and-centre-of-islamic-finance-compliance-and-advice-cifca-forge-strategic-partnership-to-advance-islamic-finance-in-tanzania/",
-                "source": "newstrends.co.ke",
-                "date": "2026-07-03T01:26:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Société Nationale Des Pétroles Du Congo’s (SNPC) Maixent Raoul Ominga To Receive Lifetime Achievement Award At African Energy Week (AEW) 2026",
-                "desc": "Maixent Raoul Ominga, Director General of Société Nationale des Pétroles du Congo (SNPC), has been named the recipient of the Lifetime Achievement Award at",
-                "image": "https://newstrends.co.ke/wp-content/uploads/2026/05/NewsTrendsKE-with-APO-News-Updates.webp",
-                "url": "https://newstrends.co.ke/societe-nationale-des-petroles-du-congos-snpc-maixent-raoul-ominga-to-receive-lifetime-achievement-award-at-african-energy-week-aew-2026/",
-                "source": "newstrends.co.ke",
-                "date": "2026-07-03T01:26:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Moved to the US for better life, Gujarat family of three dies in tragic Ohio motel fire",
-                "desc": "The fire broke out at around 1.30 am local time. Witnesses said they heard a loud explosion before flames and thick smoke quickly spread through the building. Local media reported that the family became trapped inside their room and contacted the motel's front desk, desperately asking for help.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260703012106_Screenshot-2026-07-03-065032.png",
-                "url": "https://www.moneycontrol.com/city/moved-to-the-us-for-better-life-gujarat-family-of-three-dies-in-tragic-ohio-motel-fire-article-13964902.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-03T01:25:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ebola: Nigeria reports 80% risk communication, community engagement readiness",
-                "desc": "NIGERIA has reaffirmed its commitment to Ebola preparedness, reporting 80 per cent readiness in Risk Communication, Community Engagement (RCCE) and Infodemic Management though it has no confirmed Ebola case. Dr Jide Idris, Director-General, Nigeria Centre for Disease Control and Prevention (NCDC) said this on Thursday during the second Ebola RCCE+IM preparedness webinar. Idris said that",
-                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/image-102.png",
-                "url": "https://realnewsmagazine.net/ebola-nigeria-reports-80-risk-communication-community-engagement-readiness/",
-                "source": "Realnews Magazine",
-                "date": "2026-07-03T01:25:20Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T01:00:40.129537Z"
+    "lastGlobalSync": "2026-07-04T01:40:37.890845Z"
 }
