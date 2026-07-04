@@ -4,6 +4,33 @@
     "en": {
         "business": [
             {
+                "title": "Here's How Many Shares of Coca-Cola You'd Need for $5,000 in Yearly Dividends",
+                "desc": "Income investors will gravitate to this beverage giant.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876905%2Frow-of-coca-cola-bottles-lined-up-in-fridge_getty.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/03/how-much-coca-cola-stock-5000-yearly-dividends/",
+                "source": "The Motley Fool",
+                "date": "2026-07-03T23:59:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mueller Water Products (MWA) On Aging Water System Demand And A Fair Value Gap",
+                "desc": "Mueller Water Products (MWA) has been drawing attention after recent price moves, with the stock last closing at $24.97. This has prompted investors to reassess how its water infrastructure focus fits into their portfolios.\nSee our latest analysis for Mueller Water Products.\nRecent share price moves for Mueller Water Products have been choppy, with the stock down over the past week and quarter, while still showing a positive year to date share price return and strong multi year total...",
+                "image": "https://images.simplywall.st/asset/industry/3072000-choice2-main-header/1585186655182",
+                "url": "https://simplywall.st/stocks/us/capital-goods/nyse-mwa/mueller-water-products/news/mueller-water-products-mwa-on-aging-water-system-demand-and",
+                "source": "simplywall.st",
+                "date": "2026-07-03T23:58:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ascendis Pharma (ASND) Could Be 7% Undervalued Following Fresh ApproaCH Trial Data",
+                "desc": "Ascendis Pharma (NasdaqGS:ASND) is back in focus after new Week 104 radiographic data from its pivotal ApproaCH trial of once weekly TransCon CNP in children with achondroplasia highlighted continued improvements in lower limb alignment and growth.\nSee our latest analysis for Ascendis Pharma.\nThe fresh Week 104 ApproaCH data and February FDA approval sit alongside steady price momentum, with Ascendis Pharma posting a 1-day share price return of 2.51% and a 30-day share price return of 26.62%...",
+                "image": "https://images.simplywall.st/asset/industry/6111000-choice2-main-header/1585186599552",
+                "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-asnd/ascendis-pharma/news/ascendis-pharma-asnd-could-be-7-undervalued-following-fresh",
+                "source": "simplywall.st",
+                "date": "2026-07-03T23:58:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "3 Indian Penny Stocks With Positive Earnings Trading Below Fair Value",
                 "desc": "Penny stocks often get attention for the wrong reasons, but the Financially Fit Penny Stocks screener takes a different angle. It filters for companies trading below 5 that also show healthier balance sheets than many early stage peers, which can help you focus on potential opportunities with relatively lower financial risk. With global inflation, uneven growth and mixed manufacturing and services data shaping market sentiment, this type of quality filter can be useful for investors looking...",
                 "image": "https://images.simplywall.st/asset/industry/4133000-choice2-main-header/1585187156628",
@@ -604,33 +631,6 @@
                 "url": "https://simplywall.st/stocks/us/media/nyse-dis/walt-disney/news/disney-dis-settles-50-million-streaming-suit-as-abc-licenses",
                 "source": "simplywall.st",
                 "date": "2026-07-03T19:48:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Geological Survey of Victoria maps 200,000 unrecorded gold rush mining features",
-                "desc": "It has been 175 years since gold was first discovered in Victoria, and now a state government mapping project has discovered that there are far more relics of the gold rush left in the landscape than official records show.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/466540e6861ba34bba97557757afcb14?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=96&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-04/mineshafts-lidar-map-gold-rush-geological-survey-victoria/106860926",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-03T19:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ACT property market: south-west soars as inner north values drop",
-                "desc": "Weston Creek median values jump, with Stirling up 10.6 per cent. Discover why families are flocking to this \"affordable\" Canberra area.",
-                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/230199405/f8aaa3a8-e832-4403-b261-f1beee9fda18.jpg/r191_72_2015_1030_w1200_h630_fmax.jpg",
-                "url": "https://www.canberratimes.com.au/story/9303353/act-property-market-south-west-soars-as-inner-north-values-drop/",
-                "source": "The Canberra Times",
-                "date": "2026-07-03T19:37:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Buoyant tax receipts provide cover for runaway State spending",
-                "desc": "General government expenditure has jumped by 54 per cent since 2019",
-                "image": "https://www.irishtimes.com/resizer/v2/4XPIDJLBWWQJDBATR5WLCQMBEE.JPG?smart=true&auth=5b6067376ef4c213cfadf34093f68052ecdfdfaea498c9a7c12dc2ecd995db6e&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/2026/07/03/buoyant-tax-receipts-provide-cover-for-runaway-state-spending/",
-                "source": "The Irish Times",
-                "date": "2026-07-03T19:34:10Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T11:58:12.613236Z"
+    "lastGlobalSync": "2026-07-04T12:00:40.213791Z"
 }
