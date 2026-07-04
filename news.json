@@ -4,6 +4,33 @@
     "en": {
         "business": [
             {
+                "title": "EVs generally cost less to maintain than petrol cars",
+                "desc": "EV parts like the motor and batteries do not need as much maintenance as engines and transmissions. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ba9da3454d0239f670ccaeba238cb1760663ba7b1bd132f1c6f28c2e453e8765",
+                "url": "https://www.straitstimes.com/singapore/transport/evs-generally-cost-less-to-maintain-than-petrol-cars",
+                "source": "The Straits Times",
+                "date": "2026-07-03T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cement demand increases 7.2%",
+                "desc": "Cement demand increases 7.2%",
+                "image": "https://i.tribune.com.pk/media/images/Cement11/Cement11-640x480.webp",
+                "url": "https://tribune.com.pk/story/2616392/cement-demand-increases-72",
+                "source": "The Express Tribune",
+                "date": "2026-07-03T20:49:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European Bank For Reconstruction Eyes Nigerian Banks To Drive Investment Push",
+                "desc": "The European Bank for Reconstruction and Development (EBRD) has identified Nigeria's banking industry as key pillars of its investment strategy, saying it is",
+                "image": "https://leadership.ng/wp-content/uploads/2026/07/EBRD.jpeg",
+                "url": "https://leadership.ng/european-bank-for-reconstruction-eyes-nigerian-banks-to-drive-investment-push/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-07-03T20:40:59Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Data Breach: Providus bank customers confirm unauthorised transactions on cards",
                 "desc": "Customers of Providus Bank, now ProvidusUnity, have reported unauthorised card transactions on their card months after a data breach affected multiple",
                 "image": "https://dailypost.ng/wp-content/uploads/2026/07/Providus-bank.jpg",
@@ -605,36 +632,63 @@
                 "source": "Business Daily",
                 "date": "2026-07-03T17:15:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "DXC Technology (DXC) Enters LOXO Partnership To Bring Autonomous Logistics To Fleets",
-                "desc": "DXC Technology (NYSE:DXC) has entered a partnership with LOXO to bring autonomous logistics solutions to commercial fleets. The collaboration focuses on combining LOXO's Level 4 autonomy platform with DXC's global engineering capabilities. The agreement extends DXC's reach into autonomous transportation for commercial clients beyond its existing modernization and cloud work. For investors tracking DXC Technology, this partnership with LOXO adds a new angle to a company best known for IT...",
-                "image": "https://s.yimg.com/lo/mysterio/api/73FD24BAC06D1E58F332BF95A7AACA5446829E9AD5EB15FDC1AD3B40BCEBA778/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fcf3f0369cec0a4d8742d0cfe2fa44bae",
-                "url": "https://finance.yahoo.com/technology/articles/dxc-technology-dxc-enters-loxo-171318744.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAKVDNUat8pdcx18FBACP9TmfyxsSpuG-rVxmTJHMePu6sleEc4vz-Oc1YzERG5JebCrqZyzJz3V3ovhE_gNZKNTIrXm2fLFebgnAW2A5dhFrSz24ar6SZrB933XmxHk2gCWRujRiqu-IJFdktCWOThta8rjUKl4SRjxJliQA7Gcg&_guc_consent_skip=1783107395",
-                "source": "Yahoo Finance",
-                "date": "2026-07-03T17:13:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Schneider Electric To Acquire Cognite For Its’ Cutting-Edge Technology",
-                "desc": "Schneider Electric is acquiring Cognite, a provider of Agentic AI solutions, at a hefty 18.2 revenues. Cognite is growing fast because of their advanced technology.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a47ea88dc53cfff214bc4a3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/stevebanker/2026/07/03/schneider-electric-to-acquire-cognite-for-its-cutting-edge-technology/",
-                "source": "Forbes",
-                "date": "2026-07-03T17:10:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Around 90 jobs under threat at tech services firm Genpact",
-                "desc": "Around 90 jobs are under threat at the Irish operation of technology services firm Genpact.",
-                "image": "https://www.rte.ie/images/0024a264-1600.jpg",
-                "url": "https://www.rte.ie/news/2026/0703/1581675-genpact-jobs/",
-                "source": "RTE.ie",
-                "date": "2026-07-03T16:51:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "'Danganronpa 2x2' Slayhem Mode Brings New Thrills, Chills, & Kills",
+                "desc": "Perhaps even more excitingly, Spike Chunsoft's fixing that terrible side-scrolling map.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/danganronpa-2-main-image-1200x675.jpg",
+                "url": "https://gizmodo.com/danganronpa-2x2-slayhem-release-date-2000781253",
+                "source": "Gizmodo",
+                "date": "2026-07-03T21:00:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'We can tune the bass to get more output, pretty much for free': I asked audio specialist Audeze about its patented SLAM system for headphones, and the slam-dunks kept a-coming",
+                "desc": "An accidental SLAM dunk for a winning headphone recipe",
+                "image": "https://cdn.mos.cms.futurecdn.net/gG8RXCSDhNeLZwhNrnUpYF-1920-80.jpg",
+                "url": "https://www.techradar.com/audio/we-can-tune-the-bass-to-get-more-output-pretty-much-for-free-i-asked-audio-specialist-audeze-about-its-patented-slam-system-for-headphones-and-the-slam-dunks-kept-a-coming",
+                "source": "TechRadar",
+                "date": "2026-07-03T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Epomaker Launches NEX Pro Gaming Mouse and HE65 V2 TMR Keyboard",
+                "desc": "After teasing the HE65 V2 in early June, Epomaker has finally released the compact 65% TMR gaming keyboard, making it available in black or white for $99.99 on the Epomaker online shop or at Amazon. The HE65 V2 TMR, as the name suggests, is a 65% TMR keyboard with an 8 kHz polling rate, wireless con...",
+                "image": "https://www.techpowerup.com/img/Z3oACwAftB8Yyb8y.jpg",
+                "url": "https://www.techpowerup.com/350500/epomaker-launches-nex-pro-gaming-mouse-and-he65-v2-tmr-keyboard",
+                "source": "TechPowerUp",
+                "date": "2026-07-03T20:59:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jump On This Nintendo Switch 2 Camera Deal Before July 4 and Save 45%",
+                "desc": "Pick up the Nintendo Switch 2 camera for just $30 before the fireworks are over.",
+                "image": "https://www.cnet.com/a/img/resize/afa3077c6b0326eedbf4e35156b2734118dd047d/hub/2026/07/03/d1124267-a06f-4cdb-a314-829c0943aaa7/nintendo-switch-2-camera.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/deals/july-4-nintendo-switch-2-camera-deal/",
+                "source": "CNET",
+                "date": "2026-07-03T20:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giant ice sheet reached the Netherlands 1.3 million years earlier than thought",
+                "desc": "Researchers also said the Dutch gravel layers may preserve evidence of major meltwater floods.",
+                "image": "https://s.yimg.com/lo/mysterio/api/49e4f4de77e0d9b17e3b978f8b9e74198fe37a537a58b84350a923aa8342b7fe/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc860ca8f2dae16de1f2e8dd1c91c966f",
+                "url": "https://www.yahoo.com/news/science/articles/giant-ice-sheet-reached-netherlands-205100713.html",
+                "source": "Yahoo",
+                "date": "2026-07-03T20:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung All But Confirms July 22 Galaxy Unpacked Date for Fold 8 and Watch 9",
+                "desc": "Samsung is revving up for its summer hardware blitz, and the evidence is now piling up faster than ever. While the company has remained officially…",
+                "image": "https://img.biggo.com/dlfR3aeYGdfR9f2Xhr13z6vXAPOHFm1BYWfz930X_WA/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzIwMjYwNzAzMjA1MF9TYW1zdW5nLUdhbGF4eS1VbnBhY2tlZC1KdWx5LTIyLUZvbGQtOF8yMDI2MDcwNF8wNTAxNDYuanBn.jpg",
+                "url": "https://finance.biggo.com/news/202607032050_Samsung-Galaxy-Unpacked-July-22-Fold-8",
+                "source": "finance.biggo.com",
+                "date": "2026-07-03T20:50:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
                 "desc": "In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince, dual small-molecule-controlled genome editing systems that allow CRISPR activity to be switched on by drug inducers and kept largely silent in their absence.",
@@ -1210,63 +1264,36 @@
                 "source": "TechPowerUp",
                 "date": "2026-07-03T16:46:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What does a $1,700 pair of headphones sound like? Hands-on with the Audeze MM-520 planar magnetic headphones",
-                "desc": "Audeze MM-520 review: How good does a $1,700 pair of headphones really sound? We test the audio quality, build, technology, and whether the premium price is justified.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/audeze-title-8.jpg",
-                "url": "https://www.notebookcheck.net/What-does-a-1-700-pair-of-headphones-sound-like-Hands-on-with-the-Audeze-MM-520-planar-magnetic-headphones.1334193.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-03T16:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Wallet finally puts your Wear OS payments in one history",
-                "desc": "Google Wallet is finally merging Wear OS and Android payments into one transaction history, making it much easier to track purchases.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/google-wallet-add-to-wallet-button-scaled.jpeg",
-                "url": "https://www.androidauthority.com/google-wallet-purchase-made-on-watch-3684160/",
-                "source": "Android Authority",
-                "date": "2026-07-03T16:44:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BREAKING: Sony is resurrecting its RX10 bridge camera - new monster zoom Cyber-shot compact camera launches next week!",
-                "desc": "The 1-inch bridge camera is making an unexpected return, with the next Sony RX10 launching on July 09",
-                "image": "https://cdn.mos.cms.futurecdn.net/sRiBHk8sXXMNyEpMN4CfLL-2560-80.jpg",
-                "url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/breaking-sony-is-resurrecting-its-rx10-bridge-camera-new-monster-zoom-cyber-shot-compact-camera-launches-next-week",
-                "source": "Digital Camera World",
-                "date": "2026-07-03T16:33:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI helps find flaws in FatFs library used in millions of devices",
-                "desc": "Seven security vulnerabilities in the widely used FatFs filesystem library could expose millions of embedded devices to attacks.",
-                "image": "https://cyberinsider.com/wp-content/uploads/2026/07/AI-helps-find-flaws-in-FatFs-library-used-in-millions-of-devices.jpeg",
-                "url": "https://cyberinsider.com/ai-helps-find-flaws-in-fatfs-library-used-in-millions-of-devices/",
-                "source": "CyberInsider",
-                "date": "2026-07-03T16:30:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beta code hints at AirPods with cameras",
-                "desc": "Code in the latest iOS 27 developer beta describes handling images from a pair of cameras, and hints that these are surely the expected AirPods with cameras.",
-                "image": "https://photos5.appleinsider.com/gallery/68156-143664-000-lead-AirPods-Pro-d2-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/03/airpods-with-cameras-show-up-in-ios-27-beta-code",
-                "source": "AppleInsider",
-                "date": "2026-07-03T16:28:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Residents invited to first free clean-powered outdoor movie night in Mission",
-                "desc": "MISSION - Mission is kicking off its first-ever clean-powered movie night with a very fitting screening of Dis...",
-                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3024/files/2026/07/e1bc48b8-0c00-4997-887d-f96a56add2a9-1200x675.jpeg",
-                "url": "https://fraservalleytoday.ca/2026/07/03/residents-invited-to-first-free-clean-powered-outdoor-movie-night-in-mission/",
-                "source": "Fraser Valley Today",
-                "date": "2026-07-03T16:24:05Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Starmer: Burnham will have to spend as much time on foreign affairs as me",
+                "desc": "In an untypically candid interview, the outgoing PM tells the BBC it was \"really tough\" to accept his political career was over.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f72b/live/871da560-771d-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo",
+                "source": "BBC",
+                "date": "2026-07-03T21:00:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Johor a tougher test for DAP than Negeri Sembilan",
+                "desc": "Analyse the challenges facing DAP in the Johor state election compared to Negeri Sembilan, considering voter sentiment and new challengers. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4ea943643e377c1d349c5d41aa9701ae9fdd406d14b3631747a4580feb673b69",
+                "url": "https://www.straitstimes.com/asia/se-asia/wipeout-unlikely-but-johor-poses-tougher-test-for-dap-than-negeri-sembilan-in-coming-state-polls",
+                "source": "The Straits Times",
+                "date": "2026-07-03T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO summit: European members and Canada pledge Ukraine aid",
+                "desc": "The NATO alliance's European members and Canada have signaled a readiness to fully take over the financing of Ukraine's fight against Russia.",
+                "image": "https://static.dw.com/image/77825532_6.jpg",
+                "url": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447",
+                "source": "DW.com",
+                "date": "2026-07-03T20:52:01Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pubs, schools and police across West prepare for England match",
                 "desc": "Extended licensing hours, watch parties and extra patrols are planned for the 01:00 kick-off on Monday.",
@@ -1869,35 +1896,8 @@
                 "source": "Macau Business",
                 "date": "2026-07-03T16:33:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies",
-                "desc": "The ceremonies are expected to draw between 15 and 20 million mourners, before being laid to rest in the northeastern Iranian city of Mashhad, his birthplace.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--A_dvF0nZ--/c_crop,h_449,w_799,x_1,y_41/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-03T092026Z_1_LYNXMPEM620IJ_RTROPTP_3_IRAN-CRISIS-KHAMENEI.JPG?itok=_e_LMhxf",
-                "url": "https://www.channelnewsasia.com/world/khamenei-funeral-iran-tehran-body-lies-in-state-6230931",
-                "source": "CNA",
-                "date": "2026-07-03T16:33:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ZBC Launches Africa's First Weekly Wildlife TV Magazine Series",
-                "desc": "The Zimbabwe Broadcasting Corporation (ZBC) launched \"ZBC's Wild Africa Adventures\" on 30 June 2026, marking the debut of Africa's first weekly wildlife television magazine show.",
-                "image": "https://atta.travel/assets/img/favicon/favicon-96.png",
-                "url": "https://atta.travel/resource/zbc-launches-africa-s-first-weekly-wildlife-tv-magazine-series.html",
-                "source": "ATTA Travel",
-                "date": "2026-07-03T16:31:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran’s $300 bln Rebuild Fund Risks a Familiar Fate",
-                "desc": "By Afiq Fitri Alias LONDON, July 3 (Reuters Breakingviews) – The United States is again trying to lure foreign capital into Iran. A key part of last month’s ceasefire signed between Washington and Tehran was a $300 billion “reconstruction fund” for the Islamic Republic. The details may differ from a…",
-                "image": "https://energynow.com/wp-content/uploads/Iranians-after-an-airstrike-on-a-residential-building-in-Tehran-on-April-13-Iran-War-1200x810-1.jpg",
-                "url": "https://energynow.com/2026/07/irans-300-bln-rebuild-fund-risks-a-familiar-fate/",
-                "source": "EnergyNow.com",
-                "date": "2026-07-03T16:31:01Z",
-                "priority": "MAJOR_ALERT"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T08:40:39.911950Z"
+    "lastGlobalSync": "2026-07-04T09:00:40.762072Z"
 }
