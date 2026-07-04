@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Data Breach: Providus bank customers confirm unauthorised transactions on cards",
+                "desc": "Customers of Providus Bank, now ProvidusUnity, have reported unauthorised card transactions on their card months after a data breach affected multiple",
+                "image": "https://dailypost.ng/wp-content/uploads/2026/07/Providus-bank.jpg",
+                "url": "https://dailypost.ng/2026/07/03/data-breach-providus-bank-customers-confirm-unauthorised-transactions-on-cards/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-07-03T20:37:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unsolved: United Airlines Grounds New Premium Boeing 787-9 Again After Suffering TCAS Issues",
+                "desc": "The aircraft is facing yet another setback stemming from persistent TCAS issues.",
+                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/united-airlines-787-9-n61101.jfif?w=1600&h=900&fit=crop",
+                "url": "https://simpleflying.com/united-airlines-grounds-new-premium-boeing-787-9-again-suffering-tcas-issues/",
+                "source": "Simple Flying",
+                "date": "2026-07-03T20:36:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BC Ferries chair Joy MacPhail, two other directors out after terms not renewed",
+                "desc": "BC Ferries’ chair of the board of directors, Joy MacPhail, has left the position as well as two other directors.",
+                "image": "https://cheknews.ca/wp-content/uploads/2025/10/RAW-FERRY-WORKER-ABUSE-SURVEY-MI-2025-10-10_12480.jpg",
+                "url": "https://cheknews.ca/bc-ferries-chair-two-other-directors-out-after-terms-not-renewed-1334052/",
+                "source": "CHEK News",
+                "date": "2026-07-03T20:35:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aboitiz boosts renewable energy with Pangasinan solar farm",
+                "desc": "Aboitiz Power Corp. added 92 megawatts (MW) to the country’s power generation capacity with the inauguration on Tuesday",
+                "image": "https://newsinfo.inquirer.net/files/2026/07/SolarJuly2026.jpg",
+                "url": "https://newsinfo.inquirer.net/2257230/aboitiz-boosts-renewable-energy-with-pangasinan-solar-farm",
+                "source": "Inquirer.net",
+                "date": "2026-07-03T20:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Is Reshaping Tech Jobs and Boosting Demand for Versatile Skills",
+                "desc": "AI is changing what employers want from tech workers, but demand remains strong, according to an analysis of 2.85 million job listings.",
+                "image": "https://i.insider.com/6a4813c765e65d39ff1c9873?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-03T20:27:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Safety mesh mandatory for all manholes",
+                "desc": "Safety mesh mandatory for all manholes",
+                "image": "https://i.tribune.com.pk/media/images/181778877130-4/181778877130-4-640x480.webp",
+                "url": "https://tribune.com.pk/story/2616367/safety-mesh-mandatory-for-all-manholes",
+                "source": "The Express Tribune",
+                "date": "2026-07-03T20:20:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France and India Strengthen Luxury Ties Ahead of EU-India Trade Deal",
+                "desc": "France and India boost luxury trade ties as EU-India free trade deal nears, unlocking major opportunities for brands and markets on both sides.",
+                "image": "https://wwd.com/wp-content/uploads/2025/03/October-2021-SHOWSTOPPER_KAREENAKAPOOR_LAKME-ABSOLUTE-GRAND-FINALE-PRESENTS-GAURAV-GUPTA.jpeg?w=1000&h=563&crop=1",
+                "url": "https://wwd.com/business-news/government-trade/eu-india-free-trade-agreement-luxury-sector-tariffs-1239052172/",
+                "source": "WWD",
+                "date": "2026-07-03T20:18:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chile 400MW pumped storage project seeks grid connection green light",
+                "desc": "The Central de Bombeo Tarapacá project is seeking authorization to connect to the national grid and could eventually double its capacity to 800MW through a second development phase.",
+                "image": "https://www.bnamericas.com/assets/img/opengraphbna.jpg",
+                "url": "https://www.bnamericas.com/en/news/chile-400mw-pumped-storage-project-seeks-grid-connection-green-light",
+                "source": "BNamericas",
+                "date": "2026-07-03T20:17:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Calgary Stampede parade kicks off 10 days of western fun",
+                "desc": "A pair of Winter Olympians traded their skis and skates for hats and boots Friday as the Calgary Stampede parade kicked off 10 days of western-themed festivities.",
+                "image": "https://i.cbc.ca/ais/fa9f5cec-13c6-49ec-abca-8a217240604a,1783104628769/full/max/0/default.jpg?im=Crop%2Crect%3D%28375%2C475%2C5021%2C2824%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/calgary/calgary-stampede-parade-2026-9.7257432",
+                "source": "CBC",
+                "date": "2026-07-03T20:08:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "McMurtry Spéirling Pure revealed as ‘affordable’ way to reach F1 speeds",
+                "desc": "The McMurtry Spéirling – which has decimated track records wherever it goes – has been revealed in production form.",
+                "image": "https://storage.ghost.io/c/a9/b3/a9b3e204-3117-4792-9a32-46184029df44/content/images/size/w1200/2026/07/mcmurtry-speirling-pure-1.jpg",
+                "url": "https://torquecafe.com/mcmurtry-speirling-pure-revealed-as-affordable-way-to-reach-f1-speeds/",
+                "source": "Torquecafe",
+                "date": "2026-07-03T20:04:45Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "3 Energy Stocks Investors Are Watching As Oil Prices React To Supply Fears",
                 "desc": "Energy stocks are in the spotlight as the Federal Reserve hints at a pause in rate hikes, big banks report earnings ahead of analyst expectations, and oil prices react to rising geopolitical tensions. That mix has pushed questions about energy supply and market stability back to the forefront. For investors who see opportunity or prefer to stay cautious, understanding which stocks are most exposed to this news can be useful. This article breaks down 3 large, established energy stocks from our...",
                 "image": "https://images.simplywall.st/asset/industry/1022000-choice1-main-header/1585186551056",
@@ -542,99 +632,99 @@
                 "source": "RTE.ie",
                 "date": "2026-07-03T16:51:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya private sector activity picks up in June, PMI shows",
-                "desc": "NAIROBI, July 3 (Reuters) – Kenya’s private sector activity picked up in June, breaking a run of three previous monthly contractions, a survey showed on Friday. The Stanbic Bank Kenya Purchasing Managers’ Index rose to 50.0 in June from 46.6 a month earlier. Readings above 50.0 indicate growth in business activity, while those below that signal contraction. […]",
-                "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/01/JPG-Convert-4.png",
-                "url": "https://www.cnbcafrica.com/2026/kenya-private-sector-activity-picks-up-in-june-pmi-shows",
-                "source": "CNBC Africa",
-                "date": "2026-07-03T16:47:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Supreme Court reverses judgment ordering seizure of ship, crude oil cargo",
-                "desc": "The Nation Newspaper Supreme Court reverses judgment ordering seizure of ship, crude oil cargo",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2024/01/12091717/supreme-court-1.png",
-                "url": "https://thenationonlineng.net/supreme-court-reverses-judgment-ordering-seizure-of-ship-crude-oil-cargo/",
-                "source": "The Nation Newspaper",
-                "date": "2026-07-03T16:47:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cleaner Returns Purse With $730 and Credit Cards He Found while Cleaning Aeroplane, Company Reacts",
-                "desc": "A cabin cleaner has been celebrated by his employer for returning a purse containing dollars and several credit cards he found while cleaning an aeroplane.",
-                "image": "https://cdn.legit.ng/images/1200x675/7e843fe298953025.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1717520-cleaner-returns-purse-730-credit-cards-cleaning-aeroplane-company-reacts/",
-                "source": "Legit.ng",
-                "date": "2026-07-03T16:46:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pilot Was Bitten by Bat After Swarm Invaded Hotel Room, Lawsuit Says",
-                "desc": "A pilot, who was treated for possible rabies exposure, sued Marriott International, claiming his Denver hotel failed to offer him a new room after he woke up to a swarm of bats last year.",
-                "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02xp-bats/02xp-bats-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/03/us/bats-rabies-marriott-lawsuit.html",
-                "source": "The New York Times",
-                "date": "2026-07-03T16:24:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Feeder-free TIL expansion system makes advanced cancer immunotherapy safer",
-                "desc": "Conventional TIL therapy, clinically validatedrecently with the U.S. Food and Drug Administration approval of lifileucel for advanced melanoma,stillfaces substantial hurdles.",
-                "image": "https://www.news-medical.net/image-handler/picture/2018/7/By_Gorodenkoff_571684e159074a84992c0edbe24d0030-620x480.jpg",
-                "url": "https://www.news-medical.net/news/20260703/Feeder-free-TIL-expansion-system-makes-advanced-cancer-immunotherapy-safer.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-03T16:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man charged with manslaughter over Tesla crash originally blamed on car’s self-driving mode",
-                "desc": "Tesla said Michael Butler disabled his car’s self-driving mode before it plowed into Martha Avila’s home in June",
-                "image": "https://i.guim.co.uk/img/media/1057b3b3401dddbf20b9854cd05f7a0ea06db54b/0_303_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f1f4ef9ae3512d3256511316b0fba0b",
-                "url": "https://www.theguardian.com/us-news/2026/jul/03/tesla-texas-crash-manslaughter",
-                "source": "The Guardian",
-                "date": "2026-07-03T16:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Private Jet Sellers Enjoy Strong Tailwinds From IPO Surge, UHNW Growth",
-                "desc": "A flood of new wealth created by IPOs and the increase in the population of UHNWs is providing sellers of private jet flight programs with a strong tailwind",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a47db2bfa00999f8c1ac67c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/douggollan/2026/07/03/private-jet-sellers-enjoy-strong-tailwinds-from-ipo-surge-uhnw-growth/",
-                "source": "Forbes",
-                "date": "2026-07-03T16:15:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Midyear Economic Check-In: A World Diverging",
-                "desc": "Shaky economic foundations remain the central 2026 macro theme, reinforced by geopolitical shocks and persistent vulnerabilities in public finances and inflation anchors.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204539947/image_2204539947.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4919743-midyear-economic-check-in-a-world-diverging",
-                "source": "Seeking Alpha",
-                "date": "2026-07-03T16:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flying high: Police say passenger pulled off airplane at PDX after pot found in luggage",
-                "desc": "A New York man did not get to complete his flight back East after a large amount of marijuana was found inside his checked luggage at PDX.",
-                "image": "https://katu.com/resources/media2/16x9/1280/1320/center/90/457f9342-6e9d-472a-801e-c543738b8af9-TSAFundingcaptioned.jpg",
-                "url": "https://katu.com/news/local/flying-high-police-say-passenger-pulled-off-airplane-at-pdx-after-pot-found-in-luggage-pdx-portland-international-airport-john-kennedy-airport-alaska-airlines",
-                "source": "KATU",
-                "date": "2026-07-03T16:06:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cavan woman leads the way in mental health and mindfulness",
-                "desc": "A Co Cavan woman is on a mission to spread awareness around mental health and suicide prevention.",
-                "image": "https://img.resized.co/northernsound-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1nLm5vcnRoZXJuc291bmQuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcL1BhdWxpbmUtQ2xhcmtlLTEwMjR4NzY4LnBuZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cubm9ydGhlcm5zb3VuZC5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjI4ZDUyY2VkNDFmYWU5ZTE3NzE5MmJlYjFhMDI5ZTk5YWVhM2Y1M2QifQ==/cavan-woman-leads-the-way-in-mental-health-and-mindfulness.png",
-                "url": "https://www.northernsound.ie/news/cavan-woman-leads-the-way-in-mental-health-and-mindfulness-285823",
-                "source": "NorthernSound",
-                "date": "2026-07-03T16:06:40Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
+                "desc": "In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince, dual small-molecule-controlled genome editing systems that allow CRISPR activity to be switched on by drug inducers and kept largely silent in their absence.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/small-molecule-switche.jpg",
+                "url": "https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html",
+                "source": "Phys.org",
+                "date": "2026-07-03T20:40:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Preposterous $500 saving on this 65” Samsung S90F OLED TV in Amazon deal",
+                "desc": "Be sure to grab this offer quickly on this terrific OLED TV, which we still think is the best option on the market for most buyers.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Preposterous-500-saving-on-this-65-Samsung-S90F-OLED-TV-in-Amazon-deal.jpg",
+                "url": "https://www.pcguide.com/deals/preposterous-500-saving-on-this-65-samsung-s90f-oled-tv-in-amazon-deal/",
+                "source": "PC Guide",
+                "date": "2026-07-03T20:32:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google's latest updates for Chrome extensions are a big boon for privacy",
+                "desc": "A rare privacy win for Chrome users",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/chrome-extension-save-as-png-angle.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/googles-latest-updates-for-chrome-extensions-are-a-big-boon-for-privacy/",
+                "source": "MakeUseOf",
+                "date": "2026-07-03T20:26:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Retake control!' of... video games: French presidential hopeful",
+                "desc": "International, MNA | France's hard-left presidential hopeful Jean-Luc Melenchon, who supports nationalising basic services, came out strongly Friday in favour of property rights... to video games.",
+                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
+                "url": "https://macaubusiness.com/retake-control-of-video-games-french-presidential-hopeful/",
+                "source": "Macau Business",
+                "date": "2026-07-03T20:23:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Survey reveals which older phone you'd choose over a 2026 model",
+                "desc": "We polled our readers on which older phone you’d buy if you weren't buying the latest model, and the results were tight at the top.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-oneplus-13-google-pixel-9a-hero-scaled.jpg",
+                "url": "https://www.androidauthority.com/older-android-phone-2026-poll-results-3684172/",
+                "source": "Android Authority",
+                "date": "2026-07-03T20:19:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hostinger Introduces Coupon Code for First Time Users to Get 20% Off via HostVerify.co",
+                "desc": "San Francisco, CA, July 03, 2026 (GLOBE NEWSWIRE) -- Hostinger remains a premier choice for launching and managing websites globally. To help users minimize setup expenses, HostVerify.co has partnered with Hostinger to offer an exclusive 20% discount for first time users. When accessing Hostinger through the verified promotional links on HostVerify.co, the 20% discount activates automatically at checkout across all web hosting, professional email, and VPS hosting plans. This seamless integration eliminates the need for a manual coupon code while significantly lowering upfront infrastructure costs for individual creators and growing businesses alike.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/04/1124235.png",
+                "url": "https://www.manilatimes.net/2026/07/04/tmt-newswire/globenewswire/hostinger-introduces-coupon-code-for-first-time-users-to-get-20-off-via-hostverifyco/2378289",
+                "source": "The Manila Times",
+                "date": "2026-07-03T20:17:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Loop: iPhone 18 Pro Pre-Order Dates, New iPad Pro Details, iPhone 16e Special Offers",
+                "desc": "This week’s Apple headlines: iPhone 18 Pro pre-orders, Apple's significant data leak, iOS 27 dates, new iPad Pro and MacBook Pro details, refurbished iPhone 16e and more...",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6945a6b3e5c989d44db1888d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/ewanspence/2026/07/03/apple-news-headlines-iphone-18-pro-preorder-dates-new-ipad-pro-macbook-pro/",
+                "source": "Forbes",
+                "date": "2026-07-03T20:03:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Android Circuit: Galaxy Z Fold8 Wide Teased, Fighting For F-Droid, Magic V6 Arrives In UK",
+                "desc": "This week’s Android headlines: Galaxy Z Fold Wide teased, the final Galaxy Z Flip, Honor Magic V6 in the UK, OnePlus pushes Oppo brand, fighting for F-Droid and more...",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/69a441879eb0f332fc37efcc/0x0.jpg?format=jpg&crop=679,382,x145,y4,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/ewanspence/2026/07/03/android-news-headlines-galaxy-z-fold8-wide-honor-magic-v6-f-droid-oneplus-oppo/",
+                "source": "Forbes",
+                "date": "2026-07-03T20:03:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Always do this before updating your BIOS",
+                "desc": "Before every BIOS update, take this one step to avoid hours of reconfiguration.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/lenovo-laptop-showing-bios-menu.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/always-do-this-before-updating-your-bios/",
+                "source": "MakeUseOf",
+                "date": "2026-07-03T20:01:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The oldest known image of the cosmos is a Bronze Age disc of bronze and gold, dug from a German hilltop by looters and recovered three years later in a Swiss police sting",
+                "desc": "Buried around 1600 BC, looted in 1999 and seized in a Basel sting in 2002, the Nebra sky disc carries what one research team calls the earliest concrete picture of the night sky. How firmly the bronze can prove that is still argued.",
+                "image": "https://spacedaily.com/wp-content/uploads/2026/07/nebra-sky-disc-1600x840-1.jpg",
+                "url": "https://spacedaily.com/s-the-oldest-known-image-of-the-cosmos-is-a-bronze-age-disc-of-bronze-and-gold-dug-from-a-german-hilltop-by-looters-and-recovered-three-years-later-in-a-swiss-police-sting/",
+                "source": "Space Daily",
+                "date": "2026-07-03T20:00:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "AWOL Aetherion Max",
                 "desc": "The AWOL Aetherion Max is an exceptional projector thanks to superb image quality, high brightness, super-short input lag, and an ultra short throw that gives you a big image from close to the screen.",
@@ -1174,99 +1264,90 @@
                 "source": "Fraser Valley Today",
                 "date": "2026-07-03T16:24:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Home Q&A: How GPS trackers can keep our pets safe and healthy",
-                "desc": "At home and on staycation, this tech is offering more and more ways to provide us with vital peace of mind",
-                "image": "https://www.irishexaminer.com/cms_media/module_img/10283/5141763_5_org_iStock-2166332122.jpg",
-                "url": "https://www.irishexaminer.com/property/homeandgardens/arid-41873040.html",
-                "source": "Irish Examiner",
-                "date": "2026-07-03T16:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 developer Rockstar Games accused of enabling crunch, failing to address gender pay gap, and weaponizing bonuses",
-                "desc": "GTA 6 studio Rockstar Games has been accused of enabling crunch, failing to address gender-based pay inequity, and weaponizing bonuses.",
-                "image": "https://cdn.mos.cms.futurecdn.net/j8k3uX7LDW9AMpD2LGzrUL-2560-80.jpg",
-                "url": "https://www.techradar.com/gaming/gaming-industry/gta-6-developer-rockstar-games-accused-of-enabling-crunch-failing-to-address-gender-pay-gap-and-weaponizing-bonuses",
-                "source": "TechRadar",
-                "date": "2026-07-03T16:21:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HUAWEI MatePad Pro Max Flagship Tablet Is Now Available In Malaysia",
-                "desc": "Huawei has announced the availability of the MatePad Pro Max in Malaysia, featuring a 13.2-inch OLED display, Kirin T93 Pro chip, plus 12GB RAM and 512GB storage.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/04001544/huaweimatepromaxcover.jpg",
-                "url": "https://pokde.net/gadget/tablet/huawei-matepad-pro-max-available",
-                "source": "Pokde.Net",
-                "date": "2026-07-03T16:21:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony is teasing its first new RX10 superzoom camera in nearly nine years.",
-                "desc": "The Sony Alpha Instagram account shared a short and vague teaser for a new Sony RX10 camera that will be announced on July 9th at 10AM ET. The last version was 2017’s RX10 IV that launched with a 24-600mm 25x optical zoom lens, a 20.1-megapixel 1-inch sensor, and up to 24fps capture capabilities with autofocus and tracking.\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sony.jpg?quality=90&strip=all]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sony.jpg?quality=90&strip=all&crop=0,10.698809344798,100,78.602381310404",
-                "url": "https://www.theverge.com/tech/961376/sony-teaser-rx10-digital-camera-superzoom-lens",
-                "source": "The Verge",
-                "date": "2026-07-03T16:20:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Prime Day 2026 starts July 4: Samsung Galaxy S25 Ultra at Rs 84,999, Sennheiser Momentum TWS 4 for Rs 17,499, and more deals on phones, laptops, more",
-                "desc": "Tech News News: Amazon's Prime Day 2026 sale goes live at midnight on July 4 and runs for 72 hours, until 11:59 pm on July 6. This marks the tenth edition of the even.",
-                "image": "https://static.toiimg.com/thumb/msid-132166166,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-prime-day-2026-starts-july-4-samsung-galaxy-s25-ultra-at-rs-84999-sennheiser-momentum-tws-4-for-rs-17499-and-more-deals-on-phones-laptops-more/articleshow/132166166.cms",
-                "source": "The Times of India",
-                "date": "2026-07-03T16:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The MacRumors Show: Latest iPhone 18 Pro Leaks and Rumors",
-                "desc": "On this week's episode of The MacRumors Show, we discuss the latest leaks and rumors surrounding the iPhone 18 Pro. Subscribe to The MacRumors Show YouTube channel for more videos Tata Electronics, one of Apple's manufacturing partners in India, was hit by a ransomware attack that resulted in more than 200,000 internal files being posted online, including component lists, supplier data, and images of iPhone 18 Pro test units.",
-                "image": "https://images.macrumors.com/t/x7Wjm3XRfAVoPy1y91GtVZeFeSQ=/2500x/article-new/2026/07/TMRS-200-Latest-iPhone-18-Pro-Leaks-and-Rumors-Thumb.jpg",
-                "url": "https://www.macrumors.com/2026/07/03/the-macrumors-show-latest-iphone-18-pro-rumors/",
-                "source": "MacRumors",
-                "date": "2026-07-03T16:13:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MAPPA Gets to Work On 'Attack on Titan' One Last Time",
-                "desc": "If 'Attack on Titan 3' is meant to be the franchise's definitive game, then of course it needs a little dose of MAPPA, no?",
-                "image": "https://gizmodo.com/app/uploads/2026/07/attack-on-titan-hed-1200x675.jpg",
-                "url": "https://gizmodo.com/attack-on-titan-3-video-game-mappa-opening-animation-2000781138",
-                "source": "Gizmodo",
-                "date": "2026-07-03T16:00:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Study reveals systemic barriers slowing down circular plastics transition",
-                "desc": "A new study from the University of Eastern Finland shows that the transition toward a circular plastics economy is hindered by systemic interdependencies and internal contradictions within ecosystems.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-reveals-systemic.jpg",
-                "url": "https://phys.org/news/2026-07-reveals-barriers-circular-plastics-transition.html",
-                "source": "Phys.org",
-                "date": "2026-07-03T16:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This New Xbox Controller Looks Absolutely Insane, And It's Releasing This Year",
-                "desc": "\"Bringing professional grade flight controls to the Xbox for the very first time\" - Have you been playing much Microsoft Flight Simulator lately? If you have...",
-                "image": "https://images.purexbox.com/b9bfd83029213/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/07/this-new-xbox-controller-looks-absolutely-insane-and-its-releasing-this-year",
-                "source": "Pure Xbox",
-                "date": "2026-07-03T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fable 5 Came Back Worse: 4 Ways the Ban Changed Everything",
-                "desc": "Anthropic's most advanced AI is back online, but it's a shadow of the model that launched in June.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/opinion/f/fable-5-ca/fable-5-came-back-worse-4-ways-the-ban-changed-everything_2sqz.1200.jpg",
-                "url": "https://au.pcmag.com/ai/118603/fable-5-came-back-worse-4-ways-the-ban-changed-everything",
-                "source": "PCMag Australia",
-                "date": "2026-07-03T16:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Pubs, schools and police across West prepare for England match",
+                "desc": "Extended licensing hours, watch parties and extra patrols are planned for the 01:00 kick-off on Monday.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f9a3/live/4cdd7940-76e4-11f1-9842-7718f5ead045.jpg",
+                "url": "https://www.bbc.com/news/articles/ckg8edgxvzko",
+                "source": "BBC",
+                "date": "2026-07-03T20:29:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNHCR warns escalating Lake Chad violence driving sharp rise in displacement",
+                "desc": "Similarly, nearly 1,800 attacks and more than 5,700 deaths were recorded between September 2025 and May 2026 alone, reflecting what the agency described.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-03-214034.webp",
+                "url": "https://eastleighvoice.co.ke/index.php/africa/375323/unhcr-warns-escalating-lake-chad-violence-driving-sharp-rise-in-displacement",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-03T20:19:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNHCR warns escalating Lake Chad violence driving sharp rise in displacement",
+                "desc": "Similarly, nearly 1,800 attacks and more than 5,700 deaths were recorded between September 2025 and May 2026 alone, reflecting what the agency described.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-03-214034.webp",
+                "url": "https://eastleighvoice.co.ke/africa/375323/unhcr-warns-escalating-lake-chad-violence-driving-sharp-rise-in-displacement",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-03T20:19:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ministerial Forum On Critical Minerals Value Chain, and Beneficiation - Pathways for African Transformation",
+                "desc": "What: Ministerial Forum on Critical Minerals Value Chain, and Beneficiation: Pathways for African Transformation",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607030517.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-03T20:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Falling Oil Prices Are Putting Pressure On African Exporter Budgets Across The Continent. But The Real Strain Is Showing In Nigeria’s Heavy Dependence On Crude Revenue.",
+                "desc": "Falling oil price expectations are renewing pressure on African crude exporters, threatening government budgets that depend heavily on energy revenue just as debt costs, currency weakness and public",
+                "image": "https://d.ibtimes.com/en/full/4650926/nigeria-energy-oil-investment.jpg",
+                "url": "https://www.ibtimes.com/falling-oil-prices-are-putting-pressure-african-exporter-budgets-across-continent-real-strain-3804906",
+                "source": "International Business Times",
+                "date": "2026-07-03T20:12:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Major Russian oil refinery suspends operations again after Ukrainian drone strike",
+                "desc": "The Lukoil-Nizhegorodorgsintez plant is the fourth-largest oil refinery in Russia, second-largest producer of gasoline, and Lukoil's largest refinery.",
+                "image": "https://assets.kyivindependent.com/content/images/2026/07/Screenshot-2026-07-02-at-4_13_38-PM_20260702-121435.png",
+                "url": "https://kyivindependent.com/major-russian-oil-refinery-suspends-operations-again-after-ukrainian-drone-strike/",
+                "source": "The Kyiv Independent",
+                "date": "2026-07-03T20:11:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Weekend briefing: East Asia's economies all make notable progress",
+                "desc": "China service sector improves; ditto Japan; Korea's stock market on a wild ride; Vietnam rising & upgraded by the World Bank; global food prices ease; UST 10yr at 4.49%; gold rises and oil stable; NZ$1 = 57.1 USc; TWI-5 = 60.9",
+                "image": "https://www.interest.co.nz/sites/default/files/feature_images/wanaka-winter.jpg",
+                "url": "https://www.interest.co.nz/economy/139252/china-service-sector-improves-ditto-japan-koreas-stock-market-wild-ride-vietnam",
+                "source": "Interest.co.nz",
+                "date": "2026-07-03T20:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "African Development Bank and Korean Partners Showcase Koafec Cooperation At 2026 Annual Meetings",
+                "desc": "Announcement - The African Development Bank Group and its Korean partners jointly ran a Korea-Africa Economic Cooperation (KOAFEC) promotional booth during the Bank Group's 2026 Annual Meetings, held in Brazzaville from 25 to 29 May.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607030516.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-03T20:05:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scientist-Turned-Entrepreneur Builds Global Organic Cosmetics Brand From Tunisia's Natural Heritage",
+                "desc": "Announcement - When Ibtihel Ben Hadj Mbarek-Fredj left a successful academic career in 2019, she was taking a calculated risk. After earning a PhD in biotechnology and spending 15 years conducting research at the University of Monastir, she chose to leave the laboratory and transform years of scientific research into practical business solutions.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607030515.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-03T20:03:28Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "UN to close Burkina Faso rights office in November after government suspension",
                 "desc": "According to UN High Commissioner for Human Rights Volker Türk, months of engagement with Burkinabe authorities have failed to resolve the impasse.",
@@ -1815,89 +1896,8 @@
                 "source": "EnergyNow.com",
                 "date": "2026-07-03T16:31:01Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Trump, 80, Thirsts After ‘So Popular’ Usha Vance, 40",
-                "desc": "“I’m doing this for a great second lady,” Trump said.",
-                "image": "https://www.thedailybeast.com/resizer/v2/YH6JIU4WWVGTXFP3OSOKNTYWYU.png?smart=true&auth=1c8def26c38fe4aabe4803de42c523a21fe619277dc8708428170a356b1596ea&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/trump-80-thirsts-after-so-popular-usha-vance-40/",
-                "source": "The Daily Beast",
-                "date": "2026-07-03T16:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Somalia: Somali President Meets Italian Interior Minister to Boost Bilateral Cooperation",
-                "desc": "Somali President Hassan Sheikh Mohamud on Friday received a high-level Italian delegation led by Interior Minister Matteo Piantedosi for talks focused on strengthening bilateral relations and expanding cooperation on security, migration and state-building.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607030463.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-03T16:25:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African Union calls emergency meeting as US ends Somalia army funds",
-                "desc": "International, MNA | The African Union called an emergency meeting on its military mission in Somalia on Friday after Washington announced it would end critical funding over the lack of progress against Islamist insurgents.",
-                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
-                "url": "https://macaubusiness.com/african-union-calls-emergency-meeting-as-us-ends-somalia-army-funds/",
-                "source": "Macau Business",
-                "date": "2026-07-03T16:23:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghana News Agency",
-                "desc": "Hamburg, July 2, (dpa/GNA) – A Norwegian Air aircraft travelling from Palma de Mallorca to Copenhagen, made an unplanned stop in Hamburg, after experiencing cabin pressure problems, a…",
-                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
-                "url": "https://gna.org.gh/2026/07/five-get-nosebleeds-after-norwegian-jets-emergency-landing-in-hamburg/",
-                "source": "Ghana News Agency",
-                "date": "2026-07-03T15:58:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK parents: share your views on guidance to not put photos of children on public display",
-                "desc": "We would like to hear how parents feel following guidance from the UK National Crime Agency about sharing photos of their children publicly online",
-                "image": "https://i.guim.co.uk/img/media/77482423e65b48adbef4c14fc07323451468923d/233_0_2525_2019/master/2525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f73112685da7ef6702c66fa36d3083d",
-                "url": "https://www.theguardian.com/media/2026/jul/03/uk-parents-share-your-views-on-guidance-to-not-put-photos-of-children-on-public-display",
-                "source": "The Guardian",
-                "date": "2026-07-03T15:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AFRICOM outlines its African-led, US-enabled strategy to address security threats across the continent",
-                "desc": "Commander General Dagvin Anderson said the posture makes the US play a supporting role by providing capabilities that African partners may lack while.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-03-145720.webp",
-                "url": "https://eastleighvoice.co.ke/africa/375193/africom-outlines-its-african-led-us-enabled-strategy-to-address-security-threats-across-the-continent",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-03T15:48:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Caribbean's Most Peaceful Island Of 2026 Is A Renowned Beach Beauty With Refreshing Waters",
-                "desc": "The Global Peace Index is out, and this tropical paradise with stunning beaches and cool waterfalls is the most peaceful island in the Caribbean in 2026.",
-                "image": "https://www.islands.com/img/gallery/the-caribbeans-most-peaceful-island-of-2026-is-a-renowned-beach-beauty-with-refreshing-waters/l-intro-1782945884.jpg",
-                "url": "https://www.islands.com/2206462/jamaica-iconic-beach-gem-refreshing-warters-most-peaceful-island-caribbean-2026/",
-                "source": "islands.com",
-                "date": "2026-07-03T15:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xenophobia: Uganda repatriates 273 nationals from South Africa",
-                "desc": "Uganda repatriated 273 of its citizens from South Africa following xenophobic attacks.",
-                "image": "https://gazettengr.com/wp-content/uploads/images.jpgUganda-repatriates-273-nationals-from-South-Africa.jpg",
-                "url": "https://gazettengr.com/xenophobia-uganda-repatriates-273-nationals-from-south-africa/",
-                "source": "Peoples Gazette Nigeria",
-                "date": "2026-07-03T15:40:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada revises visa wait times: What Indian travellers should know",
-                "desc": "Visitor visas for Indians have also seen a marginal improvement, with processing time decreasing from 22 days to 21 days.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251127093653_visaapplication.png",
-                "url": "https://www.moneycontrol.com/news/india/canada-revises-visa-wait-times-what-indian-travellers-should-know-13965656.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-03T15:39:55Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T08:00:42.574118Z"
+    "lastGlobalSync": "2026-07-04T08:40:39.911950Z"
 }
