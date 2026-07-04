@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "She Defrauded the Bank. It's Still Paying Her Legal Fees",
+                "desc": "It's an odd footnote to a fraud case involving JPMorgan Chase. The bank has to pay keep paying the legal fees of entrepreneur Charlie Javice—even though she was convicted...",
+                "image": "https://img2-azrcdn.newser.com/image/1696289-12-20260703080947.jpeg",
+                "url": "https://www.newser.com/story/392177/she-defrauded-the-bank-its-still-paying-her-legal-fees.html",
+                "source": "Newser",
+                "date": "2026-07-03T12:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More hit CPF retirement targets at 55",
+                "desc": "Discover how more Singapore residents are achieving CPF savings targets at age 55, leading to increased withdrawals and retirement payout trends. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/39bc4a46d073b8a92f253b0b3d9ea947f58e6cb528c1257b5d31cb840cd2d1ac",
+                "url": "https://www.straitstimes.com/business/more-hitting-cpf-retirement-targets-at-the-milestone-age-of-55",
+                "source": "The Straits Times",
+                "date": "2026-07-03T12:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Filipinos most stressed in the workplace in Southeast Asia: report",
+                "desc": "Filipino employees are the most stressed in Southeast Asia, according to the latest workplace study by Global Analytics group Gallup.",
+                "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/stressed%20worker%20banner.jpg",
+                "url": "https://philstarlife.com/news-and-views/559450-filipinos-most-stressed-in-the-workplace-southeast-asia-gallup-report",
+                "source": "Philstar Life",
+                "date": "2026-07-03T12:30:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ethiopia hits an all-time high in trade revenue for one of its most important exports",
+                "desc": "Ethiopia’s coffee exports have hit a milestone, reaching the $3 billion mark for the first time in the country’s history. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/QGQktkpTURBXy8wMTcyNWYwMGM2ZjliN2E4OWI3N2JiY2YxZWU1MjFjYS5qcGeSlQMAL80F3M0DTJMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/ethiopia-hits-an-all-time-high-in-trade-revenue-for-one-of-its-most-important-exports/90zlxv9",
+                "source": "Business Insider Africa",
+                "date": "2026-07-03T12:30:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dorset cafe wowing customers with top-notch breakfasts",
+                "desc": "The Fisherman Cafe in Poole has been earning rave reviews from customers for its breakfasts",
+                "image": "https://www.bournemouthecho.co.uk/resources/images/21136550.jpg?type=og-image",
+                "url": "https://www.bournemouthecho.co.uk/news/26251352.dorset-cafe-wowing-customers-top-notch-breakfasts/",
+                "source": "Bournemouth Echo",
+                "date": "2026-07-03T12:30:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The new-build housing glut: It’s not just condos",
+                "desc": "Empty, unsold, new duplexes and townhouses are at a peak not seen since the 1990s",
+                "image": "https://www.theglobeandmail.com/resizer/v2/DCAGQRKYJFHKDGIJTP7NQQKSN4.JPG?auth=c5afd275b870acc201f1f7d9fa1f1b9af045907ca1cf2e58f6364b4d3101bf60&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/real-estate/vancouver/article-the-new-build-housing-glut-its-not-just-condos/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-03T12:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Parent Alphabet Invested $900 Million Into SpaceX in January 2015 -- Here's How Much That Investment Is Worth Today",
+                "desc": "Alphabet's stake in SpaceX is now worth more than the gross domestic product (GDP) of Costa Rica.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877052%2Frocket-coins-calculator-financial-metrics-to-moon-crypto-invest-getty.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/03/googl-invested-900-million-spcx-how-much-today/",
+                "source": "The Motley Fool",
+                "date": "2026-07-03T12:29:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI is outpacing the rules, Europe’s top bankers and regulators warn",
+                "desc": "Europe's top bankers and financial regulators are grappling with how to better regulate AI risks.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108126365-1743745926179-gettyimages-1820209027-ai-robot-digital-display.jpeg?v=1748222707&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/03/ai-outpacing-rules-europe-top-bankers-regulators-warn.html",
+                "source": "CNBC",
+                "date": "2026-07-03T12:21:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK: Bejo and Resurrect bio partner to advance spinach disease resistance",
+                "desc": "Bejo and UK based biotechnology company Resurrect Bio have announced a joint development agreement to explore new approaches to disease resistance with a focus on downy mildew in spinach, one…",
+                "image": "https://www.hortidaily.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2026/07/03/RB.jpg?preset=OgImage",
+                "url": "https://www.hortidaily.com/article/9853744/uk-bejo-and-resurrect-bio-partner-to-advance-spinach-disease-resistance/",
+                "source": "Hortidaily",
+                "date": "2026-07-03T12:19:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jaecoo J5 Hybrid to get larger 5.1 kWh battery for more EV range, V2L upgrade; 354 PS 1.5T powertrain?",
+                "desc": "2026 Jaecoo J5 Hybrid update; image by Yu Lei Kan Che via Car News China The Jaecoo J5 Hybrid has been sighted in China sporting a range of upgrades, including a hybrid powertrain with greater …",
+                "image": "https://paultan.org/image/2026/07/2026-Jaecoo-J5-Hybrid-updated-CNC-e1783078379646-1200x630.jpg",
+                "url": "https://paultan.org/2026/07/03/jaecoo-j5-hybrid-to-get-larger-5-1-kwh-battery-for-more-ev-range-v2l-upgrade-354-ps-1-5t-powertrain/",
+                "source": "Paul Tan's Automotive News",
+                "date": "2026-07-03T12:16:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "AI skills required for 4 out of 10 graduate jobs in China, says recruitment portal",
                 "desc": "University of Hong Kong professors say ‘messy jobs’ that span multiple tasks more immune to challenges posed by technology.",
                 "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/03/02ae7d67-bb7c-47a3-9613-565773a4c5d9_7e866b20.jpg?itok=BTtI5K_T&v=1783071417",
@@ -542,99 +632,99 @@
                 "source": "The Japan Times",
                 "date": "2026-07-03T01:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Japan fin min says ready to respond to FX moves",
-                "desc": "Verbal intervention to support the yen",
-                "image": "https://images.investinglive.com/images/Yen%20pop%20up%20a%20little%2003%20July%202026_id_a0758448-a3e8-4830-b549-8fb5ac333a12_size975.jpg",
-                "url": "https://investinglive.com/forex/japan-fin-min-says-ready-to-respond-to-fx-moves-20260703/",
-                "source": "investingLive",
-                "date": "2026-07-03T01:39:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RBI lands a gut punch on prop traders",
-                "desc": "An explainer on the RBI's latest capital market exposure rules for banks and why they're hitting prop trading firms.",
-                "image": "https://cdn.finshots.app/images/2026/07/RBI-making-tougher-rules.jpg",
-                "url": "https://finshots.in/markets/rbi-lands-a-gut-punch-on-prop-traders/",
-                "source": "Finshots",
-                "date": "2026-07-03T01:32:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "StanChart Beyond Card extends 100,000 miles welcome offer",
-                "desc": "The StanChart Beyond Card has extended its 100,000 miles welcome bonus till 31 March 2027, though the hefty S$20,000 minimum spend remains unchanged.",
-                "image": "https://milelion.com/wp-content/uploads/2024/11/sc-beyond-hero.jpg",
-                "url": "https://milelion.com/2026/07/03/stanchart-beyond-card-extends-100000-miles-welcome-offer/",
-                "source": "The MileLion",
-                "date": "2026-07-03T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Illegal weight loss drug floods SA",
-                "desc": "An investigation uncovers a rapidly growing, highly lucrative shadow market in South Africa for unapproved weight-loss drugs like Retatrutide, sold openly online and in gyms despite severe health warnings from regulators. These experimental injectables pose significant risks due to unknown composition and lack of sterility.",
-                "image": "https://images.newsteam.io/image/400/GbSdY1y2zcoMwhMzY12DSVjHoDcymf15Rk85RsF3deaVCMhMCNseE6vqVYApJ9iV9aBRhCrWkUtc8XJ79qYfSpQDua5dyMMnHCSEP5oxbfxj5kKnwsTDhLqFyJCK4JNWzwdKrRetmgxH729kNPH82",
-                "url": "https://mg.co.za/news/south-africa/2026-07-02-illegal-weight-loss-drug-floods-sa/",
-                "source": "Mail & Guardian",
-                "date": "2026-07-03T01:28:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
-                "desc": "Canada moved to advance a Pacific Coast pipeline from Alberta as Prime Minister Mark Carney seeks to diversify oil exports beyond the United States while easing separatist tensions and preserving environmental protections on British Columbia’s northern coast.",
-                "image": "https://dims.apnews.com/dims4/default/9109e45/2147483647/strip/true/crop/4000x2665+0+148/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2Fd47d6d6b19d03b715b6a6a16dd86%2Ff0223298a4f146639100db5436be85d9",
-                "url": "https://apnews.com/article/canada-oil-pipline-alberta-british-columbia-654fe58e72da9bd976563223b7759c2e",
-                "source": "AP News",
-                "date": "2026-07-03T01:25:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Viral chaos as battery management apps turn smartphones into ‘kill switch’ for e-rickshaws",
-                "desc": "Viral videos showed a number of people filming themselves approaching e-rickshaws and switching them off mid-journey using a mobile app. | India News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/03/550x309/ANI-20260613253-0_1783040976285_1783041000103_bb94a066-27c0-412a-8fab-6861b8385a0b.jpg",
-                "url": "https://www.hindustantimes.com/india-news/viral-chaos-as-battery-management-apps-turn-smartphones-into-kill-switch-for-erickshaws-101783040403140.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-03T01:20:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philippine M&A value climbs to ₱860 billion as retail deals lead surge",
-                "desc": "The value of the country’s merger and acquisitions (M&A) notifications rose by six percent to nearly ₱860 billion in 2025, driven largely by proposed deals...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/02/113335.webp",
-                "url": "https://mb.com.ph/2026/07/02/philippine-ma-value-climbs-to-860-billion-as-retail-deals-lead-surge",
-                "source": "Manila Bulletin",
-                "date": "2026-07-03T01:18:45Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "The opportunities and challenges in solar power generation",
-                "desc": "Solar power expands in the Philippines as costs drop, but grid integration and energy storage present challenges. Explore the impacts on the country's grid.",
-                "image": "https://aboitizeyes.aboitiz.com/wp-content/uploads/2026/05/Gemini_Generated_Image_dhsp6hdhsp6hdhsp-1024x664.png",
-                "url": "https://aboitizeyes.aboitiz.com/leadership/the-opportunities-and-challenges-in-solar-power-generation/",
-                "source": "Aboitiz Eyes",
-                "date": "2026-07-03T01:14:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI proposes handing U.S. government a 5% stake, report says",
-                "desc": "The move follows growing public backlash ​in the U.S. over AI’s potential to cause economic upheaval, including layoffs, and could help OpenAI sweeten ties with the government.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/03/549629.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/03/openai-us-government-stake/",
-                "source": "The Japan Times",
-                "date": "2026-07-03T01:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asia FX Talk - Softer non-farm payrolls and suspected intervention supported JPY",
-                "desc": "Overnight the Dollar was generally weaker and JPY strengthened driven by softer than expected payrolls, coupled with suspected FX intervention by authorities.",
-                "image": "https://www.mufgresearch.com/media/xvumbnm4/asiancurrencies_111717182.png",
-                "url": "https://www.mufgresearch.com/fx/asia-fx-talk-softer-non-farm-payrolls-and-suspected-intervention-supported-jpy-3-july-2026/",
-                "source": "MUFG Research",
-                "date": "2026-07-03T01:11:54Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Honkai: Star Rail Version 4.4 \"In Ravages Does the Whistle Sound\" Arrives on July 15",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/031320-695853b0/KV_4.4.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=c91245b9b4a0766e91cb49c3a43a016999a91abdb21e88545fac8de8fc4d8819",
+                "url": "https://www.gamespress.com/Honkai-Star-Rail-Version-44-In-Ravages-Does-the-Whistle-Sound-Arrives-",
+                "source": "Games Press",
+                "date": "2026-07-03T12:38:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta Launches Pocket AI App for Interactive Games and Gizmos",
+                "desc": "Meta has launched Pocket, a new AI-powered app that lets users create, play and share interactive games and experiences using simple text…",
+                "image": "https://techeconomy.ng/wp-content/uploads/2026/07/Meta-Pocket-app-.png",
+                "url": "https://techeconomy.ng/meta-launches-pocket-ai-interactive-games-app/",
+                "source": "Techeconomy",
+                "date": "2026-07-03T12:36:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple is set to equip the iPhone 18 Pro and Max with slower storage than the 17 Pro",
+                "desc": "The iPhone 18 Pro and Max models with 256 GB and 512 GB TLC storage may prove to be faster than the 1 TB or 2 TB variants. To keep costs down, some of the 1 TB variants will feature QLC storage, whilst the 2 TB iPhone 18 Pro will feature QLC storage only.",
+                "image": "https://img.mezha.ua/mezha/images/doc/5/f/316036/5fcc42095c692674921b816276d74188.jpeg?w=1200&q=85&stamp=1783082252",
+                "url": "https://mezha.ua/en/news/apple-iphone-18-pro-qlc-312916/",
+                "source": "Mezha",
+                "date": "2026-07-03T12:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Honkai: Star Rail Version 4.4 \"In Ravages Does the Whistle Sound\" Arrives on July 15",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/031320-695853b0/KV_4.4.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=c91245b9b4a0766e91cb49c3a43a016999a91abdb21e88545fac8de8fc4d8819",
+                "url": "https://www.gamespress.com/en-US/Honkai-Star-Rail-Version-44-In-Ravages-Does-the-Whistle-Sound-Arrives-",
+                "source": "Games Press",
+                "date": "2026-07-03T12:35:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DESY Maps Open-Boundary Quantum Circuits With New Algorithm",
+                "desc": "DESY researchers classified integrable Yang-Baxter circuits with open boundaries and varying geometries, developing a gate-mapping algorithm based on.",
+                "image": "https://quantumzeitgeist.com/wp-content/uploads/desy-maps-boundary-quantum-circuits-algorithm-1200x630.jpg",
+                "url": "https://quantumzeitgeist.com/boundary-quantum-circuits-desy-maps/",
+                "source": "Quantum Zeitgeist",
+                "date": "2026-07-03T12:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Perplexity's Founder Doesn't Think the American Dream Is Over",
+                "desc": "Aravind Srinivas, the CEO of Perplexity, praised America's startup culture on \"The Joe Rogan Experience.\"",
+                "image": "https://i.insider.com/6a4785bc65e65d39ff1c9682?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/perplexity-ceo-founder-american-dream-risk-business-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-03T12:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hunan Normal University Team Models Giant Atom Dynamics For Waveguide Quantum Emission",
+                "desc": "Until now, a giant atom’s radiative behaviour has differed from that of its smaller counterparts, exhibiting population trapping when coupling points were closely spaced. However, calculations demonstrate that when the distance, *d*, between these coupling points exceeds the coherent length, *L*, the giant atom’s dynamics become Markovian, mirroring a small atom’s response. This control over spontaneous emission, achieved by adjusting energy spacing and time delay, expands possibilities for manipulating quantum emitters within waveguide systems.",
+                "image": "https://quantumzeitgeist.com/wp-content/uploads/hunan-normal-university-team-models-giant-atom-dynamics-for-waveguide-quantum-em-1200x630.jpg",
+                "url": "https://quantumzeitgeist.com/hunan-normal-university-models-giant-atom-dynamics-waveguide-quantum/",
+                "source": "Quantum Zeitgeist",
+                "date": "2026-07-03T12:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fuchs-Sondheimer Theory Fails As Films Drop Below Few Nanometers",
+                "desc": "Ultra-thin films, essential for nanoelectronics, experience increased electrical resistivity as thickness decreases to the few-nanometer scale. Current interpretations based on the Fuchs-Sondheimer theory are proving inadequate as films reach this extreme confinement, necessitating a shift toward understanding quantum-confinement effects.",
+                "image": "https://quantumzeitgeist.com/wp-content/uploads/fuchs-sondheimer-theory-fails-films-drop-1024x630.jpg",
+                "url": "https://quantumzeitgeist.com/fuchs-sondheimer-theory-fails-films-drop/",
+                "source": "Quantum Zeitgeist",
+                "date": "2026-07-03T12:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quasi-Momentum Distribution Function Computed For First Time",
+                "desc": "Researchers at the University of Bologna have, for the first time, analytically computed the quasi-momentum distribution function for systems mapping to free fermions. This work addresses the behavior of integrable systems following a quantum quench, particularly those with an exponential degeneracy of energy eigenvalues.",
+                "image": "https://quantumzeitgeist.com/wp-content/uploads/universita-di-bologna-quasi-momentum-distribution-1200x630.jpg",
+                "url": "https://quantumzeitgeist.com/universita-di-bologna-quasi-momentum-distribution/",
+                "source": "Quantum Zeitgeist",
+                "date": "2026-07-03T12:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OPPO Reno16 Series Brings Three AI Models, an Intelligent Memory Hub, and the Latest from ColorOS 16",
+                "desc": "New Delhi [India], July 3: As smartphones become the primary gateway to work, travel, creativity, and everyday decision-making, users increasingly expect intelligence that anticipates rather than simply responds. The OPPO Reno16, powered by the Snapdragon 7 Gen 4 Chipset and ColorOS 16, is built for exactly that a device that helps creators, professionals, and explorers remember more, organise better, travel smarter, and get answers faster, without the friction of switching between apps, managing multiple tools, or losing momentum to manual tasks.",
+                "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260703123304-thumbnail-320x180-70.jpg",
+                "url": "https://www.aninews.in/news/business/oppo-reno16-series-brings-three-ai-models-an-intelligent-memory-hub-and-the-latest-from-coloros-1620260703180332/",
+                "source": "ANI News",
+                "date": "2026-07-03T12:33:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Wedding of the Week: Cork college sweethearts are wed",
                 "desc": "Nikki Joyce and Scott Hurley first met in 2019 while studying at MTU and they were wed last month in Cork.",
@@ -1174,99 +1264,99 @@
                 "source": "IGN Southeast Asia",
                 "date": "2026-07-02T22:26:12Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Millyard Viper V10 Motorcycle Is Going Up For Auction",
-                "desc": "H&H Classics is auctioning the 2009 Millyard Viper V10, a unique, world-record-breaking motorcycle created by engineer Allen Millyard, on Wednesday, July 22nd, at the National Motorcycle Museum in Solihull.",
-                "image": "https://cdn-fastly.motorcycle.com/media/2026/07/02/18151/social-44667445.jpg?size=1200x628",
-                "url": "https://www.motorcycle.com/bikes/news/millyard-viper-v10-motorcycle-is-going-up-for-auction-44667445",
-                "source": "Motorcycle.com",
-                "date": "2026-07-02T22:23:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX Secretly Unveiled New AI Device to Investors. Is It a Phone or Not?",
-                "desc": "Though publicly denied by Elon Musk, a new AI device from SpaceX wouldn't be very surprising.",
-                "image": "https://www.cnet.com/a/img/resize/7e1176030e078bceb92428dc60cadda8e58ee4be/hub/2026/06/11/682a67c1-9097-4fc9-a8b1-87f71971f1dc/3.png?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/services-and-software/spacex-shows-new-ai-device-investors-phone-rumor/",
-                "source": "cnet.com",
-                "date": "2026-07-02T22:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple's Q3 results on July 30 could be Cook's last",
-                "desc": "Apple has confirmed that its financials for the third quarter of 2026 will be reported on July 30. It certainly will be an event with a lot of talking points from the quarter, and it might be the last one with Tim Cook in attendance.",
-                "image": "https://photos5.appleinsider.com/gallery/68132-143608-67173-141259-cook-financial-2022-xl-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/02/what-to-expect-from-apples-q3-2026-results-on-july-30",
-                "source": "AppleInsider",
-                "date": "2026-07-02T22:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony to stop releasing PlayStation games on discs",
-                "desc": "Sony says it will stop releasing new video games for the PlayStation on disc in January 2028, following a shift in consumer preferences. “Following this...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/MHAWDNUTNVDYDIRRIP4VCNEEM4.jpg?auth=e70b53676dcbe237f6522bd861725264c0277a2bb39cc370a6f1d1d492f973fc&width=1200&height=675&quality=70&focal=2242%2C1181&smart=false",
-                "url": "https://www.nzherald.co.nz/technology/its-a-catastrophe-sony-to-stop-releasing-playstation-games-on-discs/KHW6TGEGGZFE3MGQNNYXBQ5ONM/",
-                "source": "NZ Herald",
-                "date": "2026-07-02T22:16:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple’s ‘Hide My Email’ feature reportedly has a year-old bug that reveals real email addresses",
-                "desc": "The vulnerability, discovered by EasyOptOuts co-founder Tyler Murphy, allows individuals with knowledge of the exploit to uncover the real email address masked by the anonymous alias.",
-                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2025/08/AdobeStock_283005101_Editorial_Use_Only.jpg",
-                "url": "https://www.scworld.com/brief/apples-hide-my-email-feature-has-a-year-old-bug-that-reveals-real-email-addresses",
-                "source": "SC Media",
-                "date": "2026-07-02T22:13:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KTM 690 Rally Spotted in Near",
-                "desc": "KTM’s “Adventure” models have become one of the brand’s defining pillars, but the latest machine spotted for the first time in near‑production trim suggests the Austrians are preparing to expand its rally-influence in their lineup. Captured near KTM’s headquarters in Austria by moto paparazzo Bernhard M. Hoehne, the photo reveals what appears to be the […]",
-                "image": "https://www.advpulse.com/wp-content/uploads/2026/07/ktm-690-rally-model-spied.jpg",
-                "url": "https://www.advpulse.com/adv-news/ktm-690-rally-spotted-in-near-production-form/?fbclid=IwY2xjawSz9shleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7dv35XUuHMRzVFIbbybJrfFBm7_gMiN9PbZfOsoc1p0hHhT0ld2e-AYTHQzQ_aem_Vn147CYZf_Uhgkg7vwWyRg",
-                "source": "ADV Pulse",
-                "date": "2026-07-02T22:03:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Your Millennial Talent Is Building Its Real Network Without You-At Essence Fest",
-                "desc": "The corporate ladder promised a network and didn't deliver. A generation of Black millennial founders found one at Essence Fest instead. Here's what that means.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a46d5529981ac3f8b30bbe6/0x0.jpg?format=jpg&crop=2157,1695,x0,y0,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/jasminebrowley/2026/07/02/your-millennial-talent-is-building-its-real-network-without-you-at-essence-fest/",
-                "source": "Forbes",
-                "date": "2026-07-02T22:00:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Did someone say shark? Apex predator joins pirates, butterflies and more for icy plunge",
-                "desc": "Several hundred people took part in the traditional Devonport Midwinter Dip off Windsor Reserve on 21 June, led into the water by Devonport Druid Chris Mullane. The Officers Mess provided the post-swim soup. Uh-oh… Shark Elise Kandziora with Eva and Fleur Delaney If the hat fits… Stephen Perry opted to mix formality with fleece-lined warmth. […]",
-                "image": "https://devonportflagstaff.co.nz/wp-content/uploads/2026/07/MidwinterSwim_1_800x800.jpg",
-                "url": "https://devonportflagstaff.co.nz/did-someone-say-shark-apex-predator-joins-pirates-butterflies-and-more-for-icy-plunge/",
-                "source": "The Devonport Flagstaff",
-                "date": "2026-07-02T22:00:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shanxi University Team Models Spin-Density-Wave Phase For Fermion Lattice Systems",
-                "desc": "Conventional expectations of spin-density wave ordering predict a single wave vector of 2kF, yet this work demonstrates a departure from that rule. Within a dynamic lattice, spin imbalance in fermions generates two distinct ordering phenomena at wave vectors 2kF↑ and 2kF↓. These newly observed phases persist even with repulsive interactions between electrons, offering a refined understanding of magnetism in correlated materials.",
-                "image": "https://quantumzeitgeist.com/wp-content/uploads/shanxi-university-team-models-spin-density-wave-phase-for-fermion-lattice-system-1024x630.jpg",
-                "url": "https://quantumzeitgeist.com/shanxi-university-models-spin-density-wave-phase-fermion-lattice/",
-                "source": "Quantum Zeitgeist",
-                "date": "2026-07-02T21:53:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A little peek at Panic’s Big Walk experience.",
-                "desc": "Check out this video tour of Panic’s demo showroom for Big Walk, its next game, at the company’s offices in Portland. I got to see this for my preview, and it was delightful.\nIf you want to check out the experience for yourself, Panic is taking signups now for July 7th through August 4th, which is Big Walk’s release date.\n[Media: https://www.youtube.com/watch?v=RfG15IJdsv8]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/games/961136/a-little-peek-at-panics-big-walk-experience",
-                "source": "The Verge",
-                "date": "2026-07-02T21:37:57Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Uganda: Three Ugandans Killed in Anti-Migrant Violence in South Africa",
+                "desc": "At least three of Ugandans have been killed in South Africa as anti-migrant violence continues to spread across several provinces.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607030378.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-03T12:40:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia names 4 African countries where it plans to open new embassies as sanctions and fuel shortages push it beyond the West",
+                "desc": "Russia is moving to expand its diplomatic presence in Africa, with plans to open new missions in four countries as Moscow deepens its engagement with the continent amid worsening ties with the US and Europe. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/TBNktkuTURBXy8yMjYyOWI0OC1lNmYwLTRkZGUtYjljYy1jNGVjYzFiN2Q0NDcuanBlZ5KVAwDM1s0bAs0PMZMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/lifestyle/russia-names-4-african-countries-where-it-plans-to-open-new-embassies-as-sanctions/wnmlpcr",
+                "source": "Business Insider Africa",
+                "date": "2026-07-03T12:40:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judiciary posts 104pc case clearance rate; cutting backlog by 27pc in 2025/6",
+                "desc": "Speaking during the official release of the 2024/2025 Performance Management and Measurement Understanding (PMMU) evaluation report, Chief Justice Koome called for sustained investment in modern court infrastructure, expanded judicial capacity...",
+                "image": "https://capitalfm.africa/wp-content/uploads/2026/06/Photo-2.jpg",
+                "url": "https://capitalfm.africa/judiciary-posts-104pc-case-clearance-rate-cutting-backlog-by-27pc-in-2025-6/",
+                "source": "Capitalfm.co.ke",
+                "date": "2026-07-03T12:34:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia’s latest attack on Kyiv was exceptionally deadly - here is why",
+                "desc": "A ferocious Russian attack on Kyiv Thursday killed at least 30 people, making it the third deadliest assault against the Ukrainian capital since the start of the war.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283715027.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/03/world/ukraine-russia-kyiv-attack-analysis-intl",
+                "source": "CNN",
+                "date": "2026-07-03T12:33:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thai nurse defies Buddhist custom to save monks in deadly crash",
+                "desc": "A nurse in Thailand challenged Buddhist customs when she stepped in to treat the victims of a car accident that killed 10 monks.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/03/3991122.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/thai-nurse-defies-buddhist-custom-to-save-monks-in-deadly-crash",
+                "source": "The Star",
+                "date": "2026-07-03T12:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seychelles: Appointment of the Culture Reform Council",
+                "desc": "Seychelles: Appointment of the Culture Reform Council",
+                "image": "https://www.zawya.com/favicon.ico",
+                "url": "https://www.zawya.com/en/press-release/africa-press-releases/seychelles-appointment-of-the-culture-reform-council-lbf4imng",
+                "source": "ZAWYA",
+                "date": "2026-07-03T12:32:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DRC plans $1.5B fiber-optic project along Congo River",
+                "desc": "The DRC has partnered with China's Genew Technologies to build a fiber-optic route along the Congo River worth US1.5 billion.",
+                "image": "https://eu-images.contentstack.com/v3/assets/blta47798dd33129a0c/blt8ffdac02696e8c4e/6a479307b5df6b949b5199ee/DRC_flag_(1)_(1)_(1)_(1)_(1)_(1).jpg?disable=upscale&width=1200&height=630&fit=crop",
+                "url": "https://www.connectingafrica.com/fiber-networking/drc-plans-1-5b-fiber-optic-project-along-congo-river",
+                "source": "Connecting Africa",
+                "date": "2026-07-03T12:31:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid",
+                "desc": "UN human rights chief Volker Turk issued the warning over growing fears of an imminent RSF assault.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1783076077.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/3/un-sounds-red-alert-over-human-rights-catastrophe-in-sudans-el-obeid",
+                "source": "Al Jazeera",
+                "date": "2026-07-03T12:27:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FAO launches new digital tool to help farmers grow the right crops in the right places",
+                "desc": "Farmers, extension workers and governments now have a powerful new tool to help identify the crops best suited to specific parcels of land, enabling more efficient use of resources and greater resilience to climate change. This follows the launch of a digital tool dubbed CropSuit by the Food and Agriculture Organization of the United Nations […]",
+                "image": "https://farmersreviewafrica.com/wp-content/uploads/2024/04/digital-agriculture.jpg",
+                "url": "https://farmersreviewafrica.com/fao-launches-new-digital-tool-to-help-farmers-grow-the-right-crops-in-the-right-places/",
+                "source": "Farmers Review Africa",
+                "date": "2026-07-03T12:23:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘This is a patient’: Thai nurse defies Buddhist taboo to treat monks after fatal crash",
+                "desc": "BANGKOK, July 3 — A nurse in Thailand challenged Buddhist customs when she stepped in to treat the victims of a car accident that killed 10 monks.An 11-year-old boy, who took...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/03/350055.jpg",
+                "url": "https://www.malaymail.com/news/world/2026/07/03/this-is-a-patient-thai-nurse-defies-buddhist-taboo-to-treat-monks-after-fatal-crash/226260",
+                "source": "Malay Mail",
+                "date": "2026-07-03T12:22:14Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump Freedom 250 sponsors include companies with federal business",
                 "desc": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
@@ -1806,98 +1896,8 @@
                 "source": "Free Malaysia Today",
                 "date": "2026-07-03T00:30:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump posts AI video of him as doctor treating critics’ ‘derangement syndrome’",
-                "desc": "President, in latest AI-generated social media post, targets prominent celebrities who have spoken out against him",
-                "image": "https://i.guim.co.uk/img/media/5ebdbe4137e0cb8ce7bfc06337169c428e8cf3b4/332_0_3309_2649/master/3309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad8aa6a04c4c15b1872f095994711ca6",
-                "url": "https://www.theguardian.com/us-news/2026/jul/02/trump-ai-video-doctor",
-                "source": "The Guardian",
-                "date": "2026-07-03T00:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Suspect identified in Monaco parcel bombing",
-                "desc": "Monaco's prosecutor's office say the suspect is a foreign national and no longer in Monaco.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e67/live/bc6c8f20-766d-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo",
-                "source": "BBC",
-                "date": "2026-07-03T00:21:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Suspect identified in Monaco parcel bombing",
-                "desc": "Monaco's prosecutor's office say the suspect is a foreign national and no longer in Monaco.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6e67/live/bc6c8f20-766d-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/c4gy603z2qlo",
-                "source": "BBC",
-                "date": "2026-07-03T00:21:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU Commission and EIB allocate €2.5bn of ETS revenues to projects in 11 EU countries",
-                "desc": "EU and global regulatory and policy monitoring, fact-checking, legal documents, policy positions, business, finance, digital transformation, security, sustainability.",
-                "image": "https://ieu-monitoring.com/wp-content/uploads//2023/11/ieu-logo-neu-150x150.png",
-                "url": "https://ieu-monitoring.com/editorial/eu-commission-and-eib-allocate-e2-5bn-of-ets-revenues-to-projects-in-11-eu-countries/1244720?utm_source=ieu-portal",
-                "source": "INSIGHT EU MONITORING",
-                "date": "2026-07-03T00:17:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A $580 taxi fare sparks fresh concerns over tourist scams in South Korea",
-                "desc": "A broader pattern of complaints over unfair pricing and service practices facing foreign visitors has emerged. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ed10a260e0713e4503b9aeb089deeda212c5487e8b6e4e21698e26539b2ae512",
-                "url": "https://www.straitstimes.com/asia/east-asia/a-s580-taxi-fare-sparks-fresh-concerns-over-tourist-scams-in-south-korea",
-                "source": "The Straits Times",
-                "date": "2026-07-03T00:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Part of stage falls during rehearsals for Donald Trump’s event",
-                "desc": "Meanwhile, Democrats released a report accusing Trump of taking over America’s 250th anniversary celebrations for his own gain and creating a “blueprint for corruption”.",
-                "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/87191aea8b2f7b46a6260be76a95020304938f70",
-                "url": "https://www.smh.com.au/world/north-america/stage-falls-apart-officials-give-speeches-to-no-one-at-trump-s-state-fair-20260703-p60c8a.html",
-                "source": "smh.com.au",
-                "date": "2026-07-03T00:12:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran's Supreme Leader Mojtaba Khamenei absent from wife's funeral: Report",
-                "desc": "Zahra Hadad-Adel was killed in the US-Israeli strike on Ali Khamenei's residence on February 28 this year.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260702235620_Iran-wife.jpg",
-                "url": "https://www.moneycontrol.com/world/iran-s-supreme-leader-mojtaba-khamenei-absent-from-wife-s-funeral-report-article-13964888.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-03T00:00:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bhutan’s heritage arts hang in the balance as modernity comes knocking",
-                "desc": "What does the quest for economic progress mean for the Himalayan kingdom’s rich culture of traditional arts?",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_postmag/public/d8/images/canvas/2026/07/02/c53087ca-eb61-407e-9c4b-11d18ae92361_50615e3f.jpg?itok=j_uEabUA&v=1782991562",
-                "url": "https://www.scmp.com/postmag/culture/article/3359198/bhutans-heritage-arts-hang-balance-modernity-comes-knocking",
-                "source": "South China Morning Post",
-                "date": "2026-07-03T00:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASEAN must strike a balanced AI relationship with China",
-                "desc": "China’s AI rise offers ASEAN real economic benefits, but deepening integration without a clear strategy risks long-term dependency.",
-                "image": "https://eastasiaforum.org/wp-content/uploads/2026/07/2025-04-23T095423Z_232057915_MT1VCG000D58HYK_RTRMADP_3_VCG-1200x800.jpg",
-                "url": "https://eastasiaforum.org/2026/07/03/asean-must-strike-a-balanced-ai-relationship-with-china/",
-                "source": "East Asia Forum",
-                "date": "2026-07-03T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World in Turmoil: Key Global Events Unfold",
-                "desc": "This summary offers a glimpse into pressing world events, including the death of Hong Kong bookseller Lam Wing-kee in Taipei, revived debates involving a rebel Catholic group in Switzerland, Russian aggressions in Ukraine, European scrutiny of shadow fleet tankers, and international responses to various crises and agreements.",
-                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_06_33_8443168.jpg&width=920&format=jpeg",
-                "url": "https://www.devdiscourse.com/article/law-order/3944487-world-in-turmoil-key-global-events-unfold",
-                "source": "Devdiscourse",
-                "date": "2026-07-02T23:57:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T00:01:00.532264Z"
+    "lastGlobalSync": "2026-07-04T00:40:41.119621Z"
 }
