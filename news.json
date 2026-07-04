@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "This premium economy felt more economy than premium",
+                "desc": "We had flown premium economy with Emirates, and it was well worth it. But with travel via the Middle East no longer an option, we went with another carrier.",
+                "image": "https://static.ffx.io/images/$zoom_0.11123949579831931%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/0d5d7c34054c40b22b4a154b255da7ecaa915fc5",
+                "url": "https://www.smh.com.au/traveller/travel-news/this-premium-economy-felt-more-economy-than-premium-20260701-p60brv.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-03T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Melbourne suburbs where home values just dropped $100,000 or more",
+                "desc": "Some parts of the market are bearing the brunt of a lack of confidence, interest rate rises and investor tax changes.",
+                "image": "https://static.ffx.io/images/$zoom_0.294%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_95%2C$y_16/t_crop_custom/q_86%2Cf_auto/86a4c339150f44ea9bda01957028478ee6357655",
+                "url": "https://www.theage.com.au/property/news/melbourne-suburbs-where-home-values-just-dropped-100-000-or-more-20260701-p60bsm.html",
+                "source": "The Age",
+                "date": "2026-07-03T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Central Bank Gold Statistics: Central Banks Remain Committed To Gold",
+                "desc": "Central banks were back in buying mode in May – and with a little more spring in their step.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219056031/image_2219056031.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4919754-central-bank-gold-statistics-central-banks-remain-committed-to-gold",
+                "source": "Seeking Alpha",
+                "date": "2026-07-03T18:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "California is banning ‘sell-by’ food dates. How Canada’s packaging compares",
+                "desc": "Starting Wednesday, California Assembly Bill 660 went into effect. The law prohibits the use of 'sell-by' dates on food packets in an effort to reduce food waste.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/sell-by-date.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11951663/california-sell-by-food-labels-canada/",
+                "source": "Global News",
+                "date": "2026-07-03T18:41:38Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'Economic abduction!' Opposition to appeal court ruling clearing Safaricom stake sale to Vodacom",
                 "desc": "Barely four days after the government completed the sale of a 15 per cent stake in Safaricom to South Africa's telecom giant Vodacom Group, the opposition has renewed its legal battle against the transaction.",
                 "image": "https://assets.citizen.digital/171156/conversions/b66567e9-37d2-4030-a6be-8667e369b0f2_kalonzo-og_image.webp",
@@ -596,45 +632,99 @@
                 "source": "The Straits Times",
                 "date": "2026-07-03T14:50:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic Wants to Make Its Own Drugs With Help from Claude",
-                "desc": "The AI company is launching preclinical drug programs for overlooked diseases.",
-                "image": "https://cdn.zmescience.com/wp-content/uploads/2026/07/c96394fc-58fa-4181-a6b0-f9bdcba6c383.jpg",
-                "url": "https://www.zmescience.com/research/technology/anthropic-wants-to-make-its-own-drugs-with-help-from-claude/",
-                "source": "ZME Science",
-                "date": "2026-07-03T14:48:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Irish doctor who faked burglary faces possible sanction after fitness-to-practise finding",
-                "desc": "Dr Anthony McGrath was given an eight-year prison sentence in 2019 after staging a burglary at his home to pay debts",
-                "image": "https://www.irishtimes.com/resizer/v2/CRMH6Y73D3B5VPRDTHL6RWVZJI.jpg?smart=true&auth=cde900b71260722c426e28e1f9d67a0e0c3633408a48c0c7de50b2787aa456a9&width=1200&height=630",
-                "url": "https://www.irishtimes.com/health/2026/07/03/irish-doctor-who-faked-burglary-faces-possible-sanction-after-fitness-to-practise-finding/",
-                "source": "The Irish Times",
-                "date": "2026-07-03T14:43:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insas, Inari Amertron, UEM Sunrise, Nova MSC, Theta Edge, Rohas Tecnic, WTK, Hextar Industries, Mesiniaga, Jati Tinggi, TNB, Radium",
-                "desc": "Here is a brief recap of some business news and corporate announcements that made the headlines on Friday.",
-                "image": "https://assets.theedgemarkets.com/CITN Companies-in-the-news_theedgemalaysia_8.jpg",
-                "url": "https://theedgemalaysia.com/node/809383",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-03T14:40:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Agentic AI could redefine how air cargo moves",
-                "desc": "Artificial intelligence has become one of aviation's most discussed technologies, but its impact is varying significantly across different parts of the",
-                "image": "https://aircargoweek.com/wp-content/uploads/2026/06/Page-7-Bottom-Story-shutterstock_2750387155-1.jpg",
-                "url": "https://aircargoweek.com/agentic-ai-could-redefine-how-air-cargo-moves/",
-                "source": "Air Cargo Week",
-                "date": "2026-07-03T14:40:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I can finally set up Google Home Speakers for my home theater",
+                "desc": "Your options are limited, but you can finally do it, a decade after Google's first smart speaker.",
+                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/2025/09/google-home-speaker-porceline-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.pocket-lint.com/how-to-set-up-google-home-speakers-for-your-home-theater/",
+                "source": "Pocket-lint",
+                "date": "2026-07-03T19:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Supercharged Deal: Take 25% Off This Noco XGrid Charging Stand for July 4th Weekend",
+                "desc": "You'll need all your energy for the upcoming holiday weekend, and you'll need to keep your devices charged, too. The Noco Xgrid 3-in-1 charging stand is 25% off and perfect for powering all your devices at once.",
+                "image": "https://i.pcmag.com/imagery/articles/03JPu6LQ7Bnk6zevUxOCuQW-1.fit_lim.size_1200x630.v1782941974.png",
+                "url": "https://www.pcmag.com/deals/deal-take-25-off-noco-xgrid-charging-stand-july-4th-wekend-july-3",
+                "source": "PCMag",
+                "date": "2026-07-03T19:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rünge Cars's Flat-8 Engine Project Spans Across Generations",
+                "desc": "Christopher Rünge is a master of old-school coachbuilding, but his son Fin is helping transform the business into something for the modern day.",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/85208d11-8a6d-43d2-bb36-5adfda1b8b00.jpg?crop=0.833xw:0.691xh;0.0737xw,0.141xh&resize=1200:*",
+                "url": "https://www.roadandtrack.com/news/a71810675/runge-cars-flat-8-engine-multi-generational-project/",
+                "source": "Road & Track",
+                "date": "2026-07-03T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung admitting defeat to Motorola? Galaxy Z Flip 8 could be its last flip phone",
+                "desc": "Book-style foldables might be Samsung's future.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/08/galaxy-z-flip-7-review-fixed-7.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/samsung-galaxy-z-flip-8-could-be-its-last-flip-phone/",
+                "source": "How-To Geek",
+                "date": "2026-07-03T18:53:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy S26 Ultra price drops below Rs 1,20,000 with flat Rs 19,001 discount on Flipkart",
+                "desc": "Samsung Galaxy S26 Ultra is available below Rs 1,20,000 on Flipkart with a flat Rs 19,001 discount. Eligible bank offers can further reduce the effective price.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260225180422_Galaxy-S26-Ultra.png",
+                "url": "https://www.moneycontrol.com/technology/samsung-galaxy-s26-ultra-price-drops-below-rs-1-20-000-with-flat-rs-19-001-discount-on-flipkart-article-13965729.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-03T18:50:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Design Director Calls the New Fitbit Air a Total Win",
+                "desc": "Google's Jonah Becker has revealed that the massive early success of the screenless Fitbit Air proves consumers are suffering from display fatigue.",
+                "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/07/Fitbit-Air-Running.jpg",
+                "url": "https://www.iphoneincanada.ca/2026/07/03/google-design-director-calls-the-new-fitbit-air-a-total-win/",
+                "source": "iPhone in Canada",
+                "date": "2026-07-03T18:50:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027",
+                "desc": "New alternate “Slayhem” scenario to be about 35 hours long",
+                "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/239263/img-6917.jpeg",
+                "url": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263",
+                "source": "Anime News Network",
+                "date": "2026-07-03T18:44:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The browser wars aren't about search anymore - here are the best alternatives to Chrome and Safari",
+                "desc": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+                "image": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
+                "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+                "source": "TechCrunch",
+                "date": "2026-07-03T18:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it?",
+                "desc": "The Oura Ring 5 In-Depth Review, covering accuracy, new features, size comparisons, and plenty more. I dive into whether or not it's worth it.",
+                "image": "https://media.dcrainmaker.com/images/2026/07/FinalThumbnail1.jpg",
+                "url": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html",
+                "source": "DC Rainmaker",
+                "date": "2026-07-03T18:42:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Friendly AF 50mm F/1.8 Neo for Sony, Nikon Z, and Leica L",
+                "desc": "TTArtisan has announced the AF 50mm F/1.8 Neo, a full-frame autofocus prime for Sony E, Nikon Z, and Leica L mounts. Priced at just $89, it is one of the most affordable AF lenses available.",
+                "image": "https://media.imaging-resource.com/2026/07/03183257/TTartisan-AF-50mm-f1.8-NEO-lens-for-Nikon-Z-mount-1.jpg",
+                "url": "https://www.imaging-resource.com/news/ttartisan-introduces-budget-friendly-af-50mm-f-1-8-neo-for-sony-nikon-z-and-leica-l/",
+                "source": "Imaging Resource",
+                "date": "2026-07-03T18:40:55Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Xiaomi's NAS Entry Ignites Market: Storage Anxiety and AI Agents Drive Industry Toward Intelligent Convergence",
                 "desc": "Xiaomi's smart storage crowdfunding campaign surpassed 20 million yuan in its first hour, marking the official entry of a major smartphone maker into…",
@@ -1174,99 +1264,99 @@
                 "source": "The Verge",
                 "date": "2026-07-03T15:29:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New macOS malware PamStealer uses PAM to validate stolen data",
-                "desc": "New macOS infostealer PamStealer validates victims' macOS passwords through the OS’s Pluggable Authentication Modules before stealing them.",
-                "image": "https://cyberinsider.com/wp-content/uploads/2026/07/New-macOS-malware-PamStealer-uses-PAM-to-validate-stolen-data.jpg",
-                "url": "https://cyberinsider.com/new-macos-malware-pamstealer-uses-pam-to-validate-stolen-data/",
-                "source": "CyberInsider",
-                "date": "2026-07-03T15:29:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Computer Monitor Deals: July 4th Savings Worth Keeping an Eye on From Asus, Dell, LG, and Samsung",
-                "desc": "Whether you're working or playing, you need a quality monitor, and we're here to give you the best Fourth of July deals for this weekend with hundreds off top-rated models to help you upgrade your setup for less.",
-                "image": "https://i.pcmag.com/imagery/articles/07aywcdVXFWpIZxnTOHAUdw-11.fit_lim.size_1200x630.v1783087352.png",
-                "url": "https://www.pcmag.com/news/best-computer-monitor-deals-july-4th-2026-sale",
-                "source": "PCMag",
-                "date": "2026-07-03T15:28:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazing 4th of July Weekend Deals on Laptops and Desktops from Apple, Dell, HP, and More",
-                "desc": "The holiday weekend is here, and before you power down your devices for fun in the sun, check out these massive discounts on top-rated PCs from leading brands.",
-                "image": "https://i.pcmag.com/imagery/articles/07Et7u7WjbohWihBY7WtMf8-1.fit_lim.size_1200x630.v1783043700.png",
-                "url": "https://www.pcmag.com/news/best-laptop-desktop-deals-july-4th-2026-sale",
-                "source": "PCMag",
-                "date": "2026-07-03T15:28:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Maingear MG-1 MK. II",
-                "desc": "Maingear’s MG-1 Mk. II is one of the best gaming desktops on the market, thanks to powerful hardware and a swappable front panel that brings both style and customization.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/review/m/maingear-m/maingear-mg-1-mk-ii_awg6.1200.jpg",
-                "url": "https://au.pcmag.com/desktop-pcs/118602/maingear-mg-1-mk-ii",
-                "source": "PCMag Australia",
-                "date": "2026-07-03T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google is changing how Chrome extensions handle your data",
-                "desc": "Google is tightening Chrome extension rules with stricter privacy requirements, AI safeguards, and new bans on prediction market tools.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Extensions_on_Google_Chrome_for_Android.jpg",
-                "url": "https://www.androidauthority.com/chrome-web-store-extension-stricter-rules-3684115/",
-                "source": "Android Authority",
-                "date": "2026-07-03T14:59:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This slim camera has a transparent LCD screen for a viewfinder",
-                "desc": "The Godox C100 skips a color preview screen for a multi-function viewfinder that can double as a light meter.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox1.jpg?quality=90&strip=all&crop=0%2C10.742615643625%2C100%2C78.514768712751&w=1200",
-                "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-                "source": "The Verge",
-                "date": "2026-07-03T14:51:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HOBEEC launches two haptic mystery games for Apple Watch",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/zh-TW/HOBEEC-launches-two-haptic-mystery-games-for-Apple-Watch",
-                "source": "Games Press",
-                "date": "2026-07-03T14:50:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Costing the Bikes, Tires, Wheels a Team Takes",
-                "desc": "Tour de France teams carry enough tech to buy a 5-bed luxury home – and that's only the start of their multi-million investment in the race.",
-                "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-2215202804.jpg",
-                "url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-team-tech-truck/?scope=anon",
-                "source": "Outside Magazine",
-                "date": "2026-07-03T14:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HOBEEC launches two haptic mystery games for Apple Watch",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/HOBEEC-launches-two-haptic-mystery-games-for-Apple-Watch",
-                "source": "Games Press",
-                "date": "2026-07-03T14:48:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Capacity Fast Charging For Laptops And Phones",
-                "desc": "ReelCharge is a newer tech company focused on making practical charging accessories, including their powerful power bank for laptops and phones.",
-                "image": "https://macsources.com/wp-content/uploads/2026/07/001-ReelCharge-ReelPro-200WPowerBank-Jul26.jpg",
-                "url": "https://macsources.com/reelcharge-usb-c-power-bank-27000mah-200w-review/",
-                "source": "MacSources",
-                "date": "2026-07-03T14:47:07Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "The terrifying stretch of sea standing between you and your dream trip",
+                "desc": "The Drake Passage is so infamous that many travellers who’d love to visit Antarctica don’t dare cross it. But is it really that bad?",
+                "image": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/af6734adb89ddb055e25fce17e08883ab976443e",
+                "url": "https://www.smh.com.au/traveller/reviews-and-advice/the-terrifying-stretch-of-sea-standing-between-you-and-your-dream-trip-20260612-p606cd.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-03T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "America 250 quiz: How much do you know about Trump, TV and the Big Apple?",
+                "desc": "Put your knowledge to the test with our special 25-question superquiz. Can you get the perfect score?",
+                "image": "https://static.ffx.io/images/$zoom_0.6622%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/03fb1f4aea8832e02c1b40f65a2a74209a7e37a1",
+                "url": "https://www.theage.com.au/world/north-america/america-250-quiz-how-much-do-you-know-about-trump-tv-and-the-big-apple-20260703-p60cgf.html",
+                "source": "The Age",
+                "date": "2026-07-03T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Underrated American city named one of the most ‘beautiful’ spots in the country",
+                "desc": "There’s so much more to the US than New York and Los Angeles - here are the most breathtaking places.",
+                "image": "https://static.ffx.io/images/$zoom_0.4236%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/2a9b4132e4e798cc1dca9c864994881d394588066d1c40c3e3e320c227a090ff",
+                "url": "https://www.nine.com.au/travel/international/usa-most-beautiful-places-cities-national-parks-lakes-rivers-20260703-p60ceq.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-03T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "America 250 quiz: How much do you know about Trump, TV and the Big Apple?",
+                "desc": "Put your knowledge to the test with our special 25-question superquiz. Can you get the perfect score?",
+                "image": "https://static.ffx.io/images/$zoom_0.6622%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/03fb1f4aea8832e02c1b40f65a2a74209a7e37a1",
+                "url": "https://www.smh.com.au/world/north-america/america-250-quiz-how-much-do-you-know-about-trump-tv-and-the-big-apple-20260703-p60cgf.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-03T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India pushes to upgrade ASEAN FTA, advances talks on CECA with Australia",
+                "desc": "The Ministry of External Affairs (MEA) on Friday said that it is working with its ASEAN partners to review and upgrade the ASEAN-India Trade in Goods Agreement (AITIGA), while negotiations are also progressing on a Comprehensive Economic Cooperation Agreement (CECA) with India.",
+                "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260703185940-thumbnail-320x180-70.jpg",
+                "url": "https://www.aninews.in/news/world/asia/india-pushes-to-upgrade-asean-fta-advances-talks-on-ceca-with-australia20260704002954/",
+                "source": "ANI News",
+                "date": "2026-07-03T18:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somali state minister rejects Crisis Group warning on al",
+                "desc": "Mogadishu (HOL) — Somalia’s State Minister for Foreign Affairs, Ali Bal’ad, has pushed back against a new International Crisis Group report warning that al-Shabab made major military gains in 2025 and reversed many of the territorial advances claimed by the Somali government over the past two years.",
+                "image": "https://www.hiiraan.com/uploads/2026/07/17830617181782997802616378206_1215554150755218_5791883492643333058_n.jpg",
+                "url": "https://www.hiiraan.com/news4/2026/Jul/205585/somali_state_minister_rejects_crisis_group_warning_on_alshabab_gains.aspx",
+                "source": "Hiiraan Online",
+                "date": "2026-07-03T18:58:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukrainian woman named as suspect in Monaco bombing",
+                "desc": "The bombing reportedly targeted a Ukrainian tycoon with links to Russia who renounced his Ukrainian citizenship nearly a decade ago.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/anastasiia-berezovska-a-suspect-in-the-monaco-bombing-that-r-EXFICONW4BBXJCLGECGICBL47A.jpg?auth=3a0fac35ed0ef889079b00494d264179e4adcc8c8cee3d27c900f24bf777861c&quality=70&width=600&height=315&focal=242%2C128",
+                "url": "https://www.1news.co.nz/2026/07/04/ukrainian-woman-named-as-suspect-in-monaco-bombing/",
+                "source": "1News",
+                "date": "2026-07-03T18:55:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Huge wildfire rips through Costa Brava as 12,000 people warned to 'stay indoors'",
+                "desc": "A wildfire near the Costa Brava has torn through around 750 hectares of forest, sparking stay-at-home orders for around 12,000 people in several municipalities",
+                "image": "https://i2-prod.mirror.co.uk/article37385656.ece/ALTERNATES/s1200d/0_Screenshot-2026-07-03-at-185230JPG.jpg",
+                "url": "https://www.mirror.co.uk/news/world-news/costa-brava-holiday-hotspot-wildfire-37375589",
+                "source": "The Mirror",
+                "date": "2026-07-03T18:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Cup 2026: England v Mexico could move because of storm threat",
+                "desc": "England's World Cup last-16 tie with Mexico could be moved to earlier on Sunday because of the threat of storms.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f30/live/6152b0e0-770f-11f1-beb9-b5355696e847.jpg",
+                "url": "https://www.bbc.com/sport/football/articles/cvgmz3jyq9qo",
+                "source": "BBC",
+                "date": "2026-07-03T18:43:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pope praises US history of welcoming immigrants in implicit rebuke to Trump",
+                "desc": "Pope Leo urges Americans to live up to the ideals of the Declaration of Independence in his first major address to the US",
+                "image": "https://i.guim.co.uk/img/media/cf9bbf34c4424208392e8f5289f70b7415e8f782/221_0_2558_2047/master/2558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=087e14654bd3e3af5a1d49ab6b53c2eb",
+                "url": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
+                "source": "The Guardian",
+                "date": "2026-07-03T18:43:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
                 "desc": "The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks.",
@@ -1806,98 +1896,8 @@
                 "source": "Global Trade Magazine",
                 "date": "2026-07-03T14:58:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NATO to reaffirm iron-clad commitment to Article 5 at Ankara summit",
-                "desc": "As NATO leaders prepare for their summit in Ankara next week, a document seen by Euronews says all 32 members – including the US – are still committed to the alliance's principle of collective defence.",
-                "image": "https://images.euronews.com/articles/stories/09/82/45/88/1200x675_cmsv2_fea58083-cdee-5c74-8a68-0dfe86206da0-9824588.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/03/nato-to-reaffirm-iron-clad-commitment-to-article-5-at-ankara-summit",
-                "source": "Euronews",
-                "date": "2026-07-03T14:56:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German row over plan for workers to need sick note on first day of illness",
-                "desc": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cc88/live/e9d7efa0-76e4-11f1-9842-7718f5ead045.jpg",
-                "url": "https://www.bbc.com/news/articles/c4gyxnj38m1o",
-                "source": "BBC",
-                "date": "2026-07-03T14:56:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German row over plan for workers to need sick note on first day of illness",
-                "desc": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc88/live/e9d7efa0-76e4-11f1-9842-7718f5ead045.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o",
-                "source": "BBC",
-                "date": "2026-07-03T14:56:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NCLA Tells Second Circuit: Stop New York City’s Unconstitutional Rideshare Tracking Regime",
-                "desc": "Wheely USA, Inc., Mayfair-NY LLC, Kensington-NY LLC v. The City of New York",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/03/1124088.png",
-                "url": "https://www.manilatimes.net/2026/07/03/tmt-newswire/globenewswire/ncla-tells-second-circuit-stop-new-york-citys-unconstitutional-rideshare-tracking-regime/2378182",
-                "source": "The Manila Times",
-                "date": "2026-07-03T14:55:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
-                "desc": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
-                "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02int-russia-crimea-mpkc/02int-russia-crimea-mpkc-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
-                "source": "The New York Times",
-                "date": "2026-07-03T14:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-                "desc": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/edfe/live/f0916630-76cd-11f1-b508-3b3f1f22a3c1.jpg",
-                "url": "https://www.bbc.com/news/articles/c8x27k180x8o",
-                "source": "BBC",
-                "date": "2026-07-03T14:53:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Earthquakes causes US$13 billion in damage to Venezuela's infrastructure",
-                "desc": "UNDRR study estimates US$37 billion in direct physical damage caused by the June earthquakes in Venezuela, of which US$13 billion correspond to infrastructure and US$24 billion to buildings.",
-                "image": "https://cdnimg.bnamericas.com/mCtnphBSGfBBQzhyrRTyJgBkbTVZjweXfLMEnItCtsJkTxirRVsAGfDEDjBzhVJW.jpg",
-                "url": "https://www.bnamericas.com/en/news/earthquakes-causes-us13-billion-in-damage-to-venezuelas-infrastructure",
-                "source": "BNamericas",
-                "date": "2026-07-03T14:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
-                "desc": "The closure of the Strait of Hormuz disrupted shipments of fertilizer and natural gas, a key component in fertilizer manufacturing. It's unlikely to cause major price hikes for U.S. grocery shoppers.",
-                "image": "https://kuow-prod.imgix.net/store/576e30d763d2d117e8a5803fddc0b68b?fm=jpg&fit=max&w=1200&h=628&q=80",
-                "url": "https://www.kuow.org/stories/how-a-fertilizer-shortage-caused-by-the-iran-war-could-affect-u-s-food-prices",
-                "source": "KUOW",
-                "date": "2026-07-03T14:47:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fire razes shops, destroys goods worth millions at Ibadan market",
-                "desc": "Goods worth millions of naira were destroyed early Friday morning after a fire gutted parts of the popular Bode Market in Ibadan, Oyo State",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/Oyo-State-Fire-Services-Agency-OYSFA.webp",
-                "url": "https://guardian.ng/news/nigeria/metro/fire-razes-shops-destroys-goods-worth-millions-at-ibadan-market/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-03T14:38:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India approves buying $5.46 billion in military equipment",
-                "desc": "India also plans to purchase a high-altitude unmanned aircraft platform for the air force, to be used for intelligence gathering and remote sensing.",
-                "image": "https://i.dawn.com/large/2026/07/0319371405eb4fb.webp",
-                "url": "https://www.dawn.com/news/2012724",
-                "source": "Dawn",
-                "date": "2026-07-03T14:37:24Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T06:40:42.633381Z"
+    "lastGlobalSync": "2026-07-04T07:00:39.252042Z"
 }
