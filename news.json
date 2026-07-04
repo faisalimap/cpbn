@@ -4,6 +4,60 @@
     "en": {
         "business": [
             {
+                "title": "Pancakes, pipelines and independence: politics serving up new flavour at this year’s Calgary Stampede",
+                "desc": "Generations of Canada’s political class have summited at the “Greatest Outdoor Show on Earth” to shake hands and flip pancakes. This year’s festival arrives with a looming referendum on Alberta’s future within Canada and, as of Thursday night, a multibillion-dollar pipeline bid.",
+                "image": "https://i.cbc.ca/ais/193397e3-e601-4715-9991-0b0123eb9a92,1783119251325/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/calgary/stampede-jeromy-farkas-pierre-poilievre-danielle-smith-9.7258169",
+                "source": "CBC",
+                "date": "2026-07-03T23:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Caterpillar Stock And 2 More Industrial Names Facing Fed And Trade Pressure",
+                "desc": "With the Fed hinting at a possible pause in rate hikes, inflation showing signs of settling, and global risks keeping investors cautious, some stocks are more exposed to this mix of signals than others. This article looks at three stocks that sit right in the crosshairs of Fed policy shifts and global uncertainty, showing where the recent news may be helping and where it may be hurting. One stock appears positioned to benefit if borrowing costs stabilize, while two others look more vulnerable...",
+                "image": "https://images.simplywall.st/asset/company-cover/330123-main-header/1756255571695",
+                "url": "https://simplywall.st/stocks/us/real-estate/nyse-pld/prologis/news/caterpillar-stock-and-2-more-industrial-names-facing-fed-and",
+                "source": "simplywall.st",
+                "date": "2026-07-03T23:37:30Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "“We are being sold out.” German VW workers blast union betrayal as auto plants are sacrificed to rearmament drive",
+                "desc": "While the government and corporations pour billions into rearmament and war, wages in the auto industry are to be cut and entire workforces laid off.",
+                "image": "https://www.wsws.org/asset/af561df9-97c0-4caf-8f5c-1cb82afbaa77?rendition=1600x900",
+                "url": "https://www.wsws.org/en/articles/2026/07/03/oxys-j03.html",
+                "source": "World Socialist Web Site",
+                "date": "2026-07-03T23:35:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Workers Struggles: Asia, Australia and the Pacific",
+                "desc": "South Korea: Kakao platform workers strike again for higher wage and bonus; India: Rajasthan sanitation workers strike for job security; Australia: Campbell’s Soups workers continue walkouts over pay; Peabody extends Wambo mine lockout of washery workers.",
+                "image": "https://www.wsws.org/asset/2ba71a42-f46f-46ff-98ca-5a7bf5c1db09?rendition=image2560&v=2",
+                "url": "https://www.wsws.org/en/articles/2026/07/03/fbkw-j03.html",
+                "source": "World Socialist Web Site",
+                "date": "2026-07-03T23:26:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CORRECTION FROM SOURCE: Goldgroup Announces 4:1 Consolidation Ratio and Grant of Stock Options",
+                "desc": "Vancouver, British Columbia--(Newsfile Corp. - July 3, 2026) - Goldgroup Mining Inc. (TSXV: GGA) (OTCQX: GGAZF) (FSE: 55G0) (\"Goldgroup\" or the \"Company\")...",
+                "image": "https://www.newsfilecorp.com/socialImage/1060/facebook/303979",
+                "url": "https://www.newsfilecorp.com/release/303979/CORRECTION-FROM-SOURCE-Goldgroup-Announces-41-Consolidation-Ratio-and-Grant-of-Stock-Options",
+                "source": "TMX Newsfile",
+                "date": "2026-07-03T23:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Julian Koh on Singapore furniture brand Commune",
+                "desc": "Backed by his family’s furniture manufacturing business, Koda, Julian Koh is shaping Commune into a Singapore design brand for modern Asian living.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--qUpc3AuC--/c_crop,h_572,w_1017,x_1,y_132/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/01/hero-julian-koh-commune.jpg?itok=Wf24QaiP",
+                "url": "https://cnaluxury.channelnewsasia.com/people/singapore-furniture-brand-commune-koda-julian-koh-294451",
+                "source": "CNA Luxury",
+                "date": "2026-07-03T23:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Mazda Boss Thinks Current EV Sales Spike Is Temporary",
                 "desc": "Mazda Australia’s top executive believes the recent surge in electric vehicle sales is likely temporary rather than evidence of a permanent market shift. According to Mazda Australia boss Vinesh Bhindi, the spike appears to be ... Read more",
                 "image": "https://s.yimg.com/lo/mysterio/api/0583bc58b7501e6ef4b4dde8cb0ae87835247c87fb9aded7127f47e710ba32e9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2Fa2d89692ef556c98d58521d11304db7b",
@@ -578,63 +632,36 @@
                 "source": "BNN Bloomberg",
                 "date": "2026-07-03T19:17:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Spotify deletes 500K streams of popular song over Kalshi, Polymarket user manipulation claims",
-                "desc": "Prediction market traders are alleging foul play after Spotify removed half a million streams from a top charting song.",
-                "image": "https://helios-i.mashable.com/imagery/articles/04PozdOODeE3hPkYDI1JfpT/hero-image.fill.size_1200x675.v1783101894.jpg",
-                "url": "https://mashable.com/tech/spotify-deletes-malcolm-todd-streams-manipulation-prediction-markets",
-                "source": "Mashable",
-                "date": "2026-07-03T19:10:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dutch Supreme Court rules against automatic refunds for illegal online gambling losses",
-                "desc": "Many people who lost money gambling with unlicensed online casinos are likely to be unable to recover their losses. Although numerous players have taken legal action in recent years to reclaim their money, the Supreme Court ruled on Friday that contracts between players and illegal online gambling operators are not inherently invalid.",
-                "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2021-03/Depositphotos_44946465_xl-2015.jpg?h=df966e70",
-                "url": "https://nltimes.nl/2026/07/03/dutch-supreme-court-rules-automatic-refunds-illegal-online-gambling-losses",
-                "source": "NL Times",
-                "date": "2026-07-03T19:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "QORAY Mobility & Energies Introduces Founding Executive Team",
-                "desc": "QORAY Mobility & Energies, a leading clean energy company, formally introduces its founding executive team driving sustainable solutions across Nigeria.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/ray-a_1783107776.webp",
-                "url": "https://punchng.com/qoray-mobility-energies-formally-introduces-its-founding-executive-team/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-03T19:08:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This premium economy felt more economy than premium",
-                "desc": "We had flown premium economy with Emirates, and it was well worth it. But with travel via the Middle East no longer an option, we went with another carrier.",
-                "image": "https://static.ffx.io/images/$zoom_0.11123949579831931%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/0d5d7c34054c40b22b4a154b255da7ecaa915fc5",
-                "url": "https://www.smh.com.au/traveller/travel-news/this-premium-economy-felt-more-economy-than-premium-20260701-p60brv.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-03T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Melbourne suburbs where home values just dropped $100,000 or more",
-                "desc": "Some parts of the market are bearing the brunt of a lack of confidence, interest rate rises and investor tax changes.",
-                "image": "https://static.ffx.io/images/$zoom_0.294%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_95%2C$y_16/t_crop_custom/q_86%2Cf_auto/86a4c339150f44ea9bda01957028478ee6357655",
-                "url": "https://www.theage.com.au/property/news/melbourne-suburbs-where-home-values-just-dropped-100-000-or-more-20260701-p60bsm.html",
-                "source": "The Age",
-                "date": "2026-07-03T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Central Bank Gold Statistics: Central Banks Remain Committed To Gold",
-                "desc": "Central banks were back in buying mode in May – and with a little more spring in their step.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219056031/image_2219056031.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4919754-central-bank-gold-statistics-central-banks-remain-committed-to-gold",
-                "source": "Seeking Alpha",
-                "date": "2026-07-03T18:46:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Google Maps could soon order food for you using Gemini",
+                "desc": "Google Maps is reportedly developing a Gemini-powered feature that could let users discover restaurants and place food orders without leaving the app.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-04T045739.541.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/social-media/google-maps-could-soon-order-food-for-you-using-gemini/",
+                "source": "Digital Trends",
+                "date": "2026-07-03T23:31:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Metso launches ELL Series screens to boost quarry throughput by up to 20% without expanding footprint",
+                "desc": "Metso is expanding its screening offering for the European market with the launch of the ELL Series™ inclined screens, designed for secondary and tertiary aggregates applications.  &nbs...",
+                "image": "https://hub-4.com/favicon.ico?1780917217",
+                "url": "https://hub-4.com/news/metso-launches-ell-series-screens-to-boost-quarry-throughput-by-up-to-20-without-expanding-footprint",
+                "source": "HUB-4.COM",
+                "date": "2026-07-03T23:03:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ferrari Returns to the Manual Gearbox with Limited 12Cilindri Manuale",
+                "desc": "Ferrari has revealed the 12Cilindri Manuale, a limited-run V12 grand tourer featuring a clutch pedal and open-gate shifter for the first time in 14 years.",
+                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/6a46839042fcdc00215f0443-ferrari_9_mod.avif",
+                "url": "https://www.tarmaclife.co.nz/news/ferrari-returns-to-the-manual-gearbox-with-limited-12cilindri-manuale/",
+                "source": "Tarmac Life",
+                "date": "2026-07-03T23:03:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "1993 Suzuki Cara with gullwings up for sale",
                 "desc": "This 1993 Suzuki Cara appeared on Bring A Trailer. The rare kei sports car features a mid-engine setup and gullwing doors. See photos here.",
@@ -1237,36 +1264,63 @@
                 "source": "80 Level",
                 "date": "2026-07-03T18:23:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ferrari appeals to traditionalists with new V12 manual gearbox li",
-                "desc": "Ferrari unveils its 12Cilindri Manuale V12 model with a manual gearbox, appealing to traditionalists and boosting its luxury portfolio. Read more.",
-                "image": "https://www.globalbankingandfinance.com/i/cloud-5eae20d0-7537-4fab-aa3a-1cf541b04118/width=1200,height=630,quality=80,format=auto,fit=cover/",
-                "url": "https://www.globalbankingandfinance.com/ferrari-appeals-traditionalists-new-v12-manual-gearbox/",
-                "source": "Global Banking & Finance Review",
-                "date": "2026-07-03T18:22:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASUS Vivobook 15 With Intel Core 5 Series 3 Launches In India Alongside Prime Day And GOAT Sale Laptop Offers",
-                "desc": "ASUS has launched the new ASUS Vivobook 15, India's first laptop powered by the Intel Core 5 Series 3 processor, timed with Amazon Prime Day 2026 and the",
-                "image": "https://www.gogi.in/wp-content/uploads/2026/07/asus-amzon-prime-day.jpg",
-                "url": "https://www.gogi.in/asus-vivobook-15-with-intel-core-5-series-3-launches-in-india-alongside-prime-day-and-goat-sale-laptop-offers.html",
-                "source": "Gogi Tech",
-                "date": "2026-07-03T18:20:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASICS' Vanilla GEL-KAYANO 12.1 Just Got Triple Dipped",
-                "desc": "ASICS GEL-KAYANO 12.1 gets a triple collaboration from MADNESS and INVINCIBLE, reworking the Ronnie Fieg developed silhouette in a clean vanilla finish.",
-                "image": "https://www.highsnobiety.com/static-assets/dato/1783078429-asics-madness.png",
-                "url": "https://www.highsnobiety.com/p/asics-x-madness-x-invincible-gel-kayano/",
-                "source": "Highsnobiety",
-                "date": "2026-07-03T18:20:01Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "New report: RSF training camps, supply routes in Libya fuelling Sudan’s war - ‘What we’ve uncovered is really just the tip of the iceberg’",
+                "desc": "Andrew Bergman interviews Klaas van Dijken, Director of Lighthouse Reports for Radio Dabanga The United...",
+                "image": "https://www.dabangasudan.org/wp-content/uploads/2025/10/الفاشر.png",
+                "url": "https://www.dabangasudan.org/en/all-news/article/new-report-rsf-training-camps-supply-routes-in-libya-fuelling-sudans-war-what-weve-uncovered-is-really-just-the-tip-of-the-iceberg",
+                "source": "Dabanga Radio TV Online",
+                "date": "2026-07-03T23:33:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia looks to students to make up for mounting losses in Ukraine",
+                "desc": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/06a1/live/88ce0e80-4dde-11f1-b2c8-65f42a4a3cfa.jpg",
+                "url": "https://www.bbc.com/news/articles/cp8lnnr080go",
+                "source": "BBC",
+                "date": "2026-07-03T23:24:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia looks to students to make up for mounting losses in Ukraine",
+                "desc": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06a1/live/88ce0e80-4dde-11f1-b2c8-65f42a4a3cfa.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go",
+                "source": "BBC",
+                "date": "2026-07-03T23:24:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNHCR Warns Lake Chad Basin At Tipping Point As Violence, Displacement Surge",
+                "desc": "ABUJA - UNHCR, the UN Refugee Agency, is alarmed that escalating violence across the Lake Chad Basin is driving a sharp increase in forced displacement and insecurity, threatening to reverse recent fragile stabilization across the region. Across the Lake Chad Basin, incorporating swathes of Cameroon, Chad, Niger and Nigeria, more than 3.5 million people are forcibly...",
+                "image": "https://independent.ng/wp-content/uploads/2026/07/UNHCR-1.jpg",
+                "url": "https://independent.ng/unhcr-warns-lake-chad-basin-at-tipping-point-as-violence-displacement-surge/",
+                "source": "Independent Newspaper Nigeria",
+                "date": "2026-07-03T23:17:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A name rejected: Tajik parents face state list dictating what they can call their children",
+                "desc": "DUSHANBE, July 4 — After giving birth, Shakhnoza Nazarova thought registering her daughter’s name would be a mere formality. Instead, her chosen name was rejected—deemed...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/03/349951.jpg",
+                "url": "https://www.malaymail.com/news/life/2026/07/04/a-name-rejected-tajik-parents-face-state-list-dictating-what-they-can-call-their-children/226192",
+                "source": "Malay Mail",
+                "date": "2026-07-03T23:03:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "S. Korean duo held over US$39mil fake cheque",
+                "desc": "TWO South Korean men were arrested after they attempted to deposit a fake cheque amounting to US$39mil (RM158mil) at a bank in Hong Kong's Tsim Sha Tsui district.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/04/3991775.jpeg",
+                "url": "https://www.thestar.com.my/news/nation/2026/07/04/s-korean-duo-held-over-us39mil-fake-cheque",
+                "source": "The Star",
+                "date": "2026-07-03T23:02:55Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Election 2026: Why more ‘free’ policies could cost New Zealand dearly",
                 "desc": "As the election campaign gets underway, the promises have started coming thick and fast. This time around, we’re hearing a lot about free stuff. The all too...",
@@ -1842,62 +1896,8 @@
                 "source": "Ecofin Agency",
                 "date": "2026-07-03T18:34:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hope Returns To Tambura As Families Rebuild Their Lives After Years Of Conflict",
-                "desc": "Download logo",
-                "image": "https://newstrends.co.ke/wp-content/uploads/2026/05/NewsTrendsKE-with-APO-News-Updates.webp",
-                "url": "https://newstrends.co.ke/hope-returns-to-tambura-as-families-rebuild-their-lives-after-years-of-conflict/",
-                "source": "newstrends.co.ke",
-                "date": "2026-07-03T18:28:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eritrea: Seminars Aimed at Eradicating Harmful Practices",
-                "desc": "Eritrea: Seminars Aimed at Eradicating Harmful Practices",
-                "image": "https://www.zawya.com/favicon.ico",
-                "url": "https://www.zawya.com/en/press-release/africa-press-releases/eritrea-seminars-aimed-at-eradicating-harmful-practices-prcqfgcy",
-                "source": "ZAWYA",
-                "date": "2026-07-03T18:27:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bigotry by South Africans; it won’t give them wealth they badly want",
-                "desc": "COMMENT | OBED K KATUREEBE | South Africa is in the news, unfortunately, for all the wrong reasons. Imagine Black Africans chasing and lynching fellow Africans, who are seeking economic fortunes, out of their country. For some time, South Africa has been the number one economy in Africa because of its highly diversified GDP, world-class …",
-                "image": "https://www.independent.co.ug/wp-content/uploads/2026/07/Ugandans-evacuated.jpg",
-                "url": "https://www.independent.co.ug/bigotry-by-south-africans-it-wont-give-them-wealth-they-badly-want/",
-                "source": "The Independent Uganda",
-                "date": "2026-07-03T18:26:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria Condoles Qatar Over Deadly Explosion At Ras Laffan Industrial Complex",
-                "desc": "ABUJA - The Federal Government has expressed profound sorrow over the tragic explosion at the Ras Laffan Industrial Complex in the State of Qatar, which claimed the lives of 13 people and left 66 others injured. In a statement issued on Friday by the spokesperson of the Ministry of Foreign Affairs, Kimiebi Imomotimi Ebienfa, Ambassador Bianca...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/Bianca-Ojukwu-1bo.jpg",
-                "url": "https://independent.ng/nigeria-condoles-qatar-over-deadly-explosion-at-ras-laffan-industrial-complex/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-03T18:24:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Turkey bans cruise ship of LGBTQ+ passengers from docking",
-                "desc": "Turkish authorities banned a cruise ship of LGBTQ+ travelers from docking, according to Atlantis Events, the company hosting the Mediterranean tour.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/03/USAT/90796178007-20200221-t-143512-z-801859719-rc-225-f-9-pz-433-rtrmadp-3-leisurevoyagesvirgin.JPG?crop=3999,2250,x0,y208&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/travel/cruises/2026/07/03/turkey-bans-lgbtq-cruise-docking-atlantis-events/90794399007/",
-                "source": "USA Today",
-                "date": "2026-07-03T18:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Keiko Fujimori officially declared winner of Peru presidential race",
-                "desc": "Peru’s electoral authority solidifies right-wing Fujimori’s narrow victory over left-wing Roberto Sanchez.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a47fd0e-1783102734.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race",
-                "source": "Al Jazeera",
-                "date": "2026-07-03T18:22:30Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T11:00:41.068013Z"
+    "lastGlobalSync": "2026-07-04T11:40:41.062152Z"
 }
