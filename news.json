@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Agentic AI could redefine how air cargo moves",
+                "desc": "Artificial intelligence has become one of aviation's most discussed technologies, but its impact is varying significantly across different parts of the",
+                "image": "https://aircargoweek.com/wp-content/uploads/2026/06/Page-7-Bottom-Story-shutterstock_2750387155-1.jpg",
+                "url": "https://aircargoweek.com/agentic-ai-could-redefine-how-air-cargo-moves/",
+                "source": "Air Cargo Week",
+                "date": "2026-07-03T14:40:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wema Bank unveils University of Uyo as first pitch centre for Hackaholics 7.0",
+                "desc": "Wema Bank has unveiled the University of Uyo as the first pitch centre for Hackaholics 7.0, its flagship platform for nurturing technology",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/Wema-Banks-Hackaholics-6.0-empowers-tech-innovators-in-Akure-Zaria-Ibadan-Lagos.webp",
+                "url": "https://guardian.ng/news/wema-bank-unveils-university-of-uyo-as-first-pitch-centre-for-hackaholics-7-0/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-03T14:38:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's which stores, restaurants are open, closed on July 4",
+                "desc": "Many major retailers and restaurants in the United States will be open on July 4, while others adjust hours or close. See who's open before you go.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/fourth-of-july-shopping.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/retail/major-retailers-close-july-4-heres-where-you-can-still-shop-eat",
+                "source": "Fox Business",
+                "date": "2026-07-03T14:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xenophobia: MTN Nigeria belongs to Nigerians, not South Africa alone - Toriola",
+                "desc": "The Nation Newspaper Xenophobia: MTN Nigeria belongs to Nigerians, not South Africa alone — Toriola",
+                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/07/03153607/Karl-Toriola.jpg",
+                "url": "https://thenationonlineng.net/xenophobia-mtn-nigeria-belongs-to-nigerians-not-south-africa-alone-toriola/",
+                "source": "The Nation Newspaper",
+                "date": "2026-07-03T14:37:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PNJ shares hit floor after legal proceedings initiated against former exec of gem-testing subsidiary",
+                "desc": "Shares of Phu Nhuan Jewelry JSC (HoSE: PNJ) fell by the daily limit on Friday after authorities had initiated legal proceedings against the former director of its wholly owned gem-testing subsidiary P-LAB over an alleged cross-border diamond smuggling ring.",
+                "image": "https://t.ex-cdn.com/theinvestor.vn/560w/files/honghanh.nguyen/2026/07/03/5702-pnj-205644.jpg",
+                "url": "https://theinvestor.vn/pnj-shares-hit-floor-after-legal-proceedings-initiated-against-former-exec-of-gem-testing-subsidiary-d19455.html",
+                "source": "Theinvestor",
+                "date": "2026-07-03T14:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Southern Water to introduce hosepipe ban in Hampshire and the Isle of Wight",
+                "desc": "The ban will come into force on Friday 10 July, as Southern Water says water levels in the River Test are 'critically low'. | ITV News Meridian",
+                "image": "https://s.yimg.com/lo/mysterio/api/479e4fe6d6f3b0d6677710d7584084c40bee514f016540edc85b687f83bd79b3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fitv_news_193%2F60557d0e0060dbc3a16b83b0f241b03e",
+                "url": "https://uk.news.yahoo.com/southern-water-introduce-hosepipe-ban-045352795.html",
+                "source": "Yahoo News UK",
+                "date": "2026-07-03T14:36:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Rat infestation' supermarket in Wolverhampton must pay over £8k",
+                "desc": "Evidence of rodent activity was found on a sales floor in Wolverhampton, the council says.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da41/live/513c3c50-76e0-11f1-9510-1546718f668b.png",
+                "url": "https://www.bbc.co.uk/news/articles/ckg4w7820leo",
+                "source": "BBC",
+                "date": "2026-07-03T14:36:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Norovirus outbreak on Princess cruise affects more than 120 passengers",
+                "desc": "The CDC said that 102 passengers and 23 crew members reported becoming ill during the voyage on the Ruby Princess, travelling from San Francisco to Canada and Alaska.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/norovirus-princess-cruise.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11951499/norovirus-outbreak-princess-cruise/",
+                "source": "Global News",
+                "date": "2026-07-03T14:36:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows",
+                "desc": "OPEC’s crude oil production surged last month as Persian Gulf members restored exports through the Strait of Hormuz amid a peace accord between the US and Iran, according to a Bloomberg survey.",
+                "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+                "url": "https://news.bloomberglaw.com/environment-and-energy/opec-output-surged-in-june-as-hormuz-flows-jumped-survey-shows",
+                "source": "Bloomberg Law News",
+                "date": "2026-07-03T14:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The beauty products worth spending on - and the ones you can buy cheap, according to a beauty editor",
+                "desc": "From serums to hand soap, fragrances to hair stylers, here are the beauty buys that justify the price tag and the ones you can happily get on a budget",
+                "image": "https://i.guim.co.uk/img/media/ce58fa405e1ab2de7c035198a40f5d4b262f2086/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVrLnBuZw&enable=upscale&s=3bc9718943dc3a93e6abe31228ee4364",
+                "url": "https://www.theguardian.com/thefilter/2026/jul/03/beauty-products-worth-money-expert-picks-uk",
+                "source": "The Guardian",
+                "date": "2026-07-03T14:34:09Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Oman Air's Massive Move: 5 New Nonstop Routes Launch In A Week",
                 "desc": "All of them use aircraft from the Boeing 737 family.",
                 "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/416-oman-air-boeing-737-800-markus-mainka-_-shutterstock.jpg?w=1600&h=900&fit=crop",
@@ -542,99 +632,99 @@
                 "source": "Torquecafe",
                 "date": "2026-07-03T03:29:44Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Mauritius Supreme Court halts Chappal Energies rights issue",
-                "desc": "The Nation Newspaper Mauritius Supreme Court halts Chappal Energies rights issue",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/07/03042331/Mauritius-1.jpg",
-                "url": "https://thenationonlineng.net/mauritius-supreme-court-halts-chappal-energies-rights-issue/",
-                "source": "The Nation Newspaper",
-                "date": "2026-07-03T03:28:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GWM Philippines Just Had Its Best Monthly Sales In Its History Last June",
-                "desc": "Record breaking for GWM!",
-                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKszcfmZQq9SIa5qcp3fcIN-UqrZut4BuiQFf5WZdggFSKkW0yUnx4Ynz8eLA-Z9SebqNNWP2ljJ5dzwI_0TvDA4SHzGafDqjYg2nilEcFJg9kPpchWQDFw920qtxaWQcwzyi1JbhWLOq3UmjIXiBHqd1Ifu94_ZR3YWRGct1TAwaPJ3l4NDRJVztPhyphenhyphenV/w1200/gwm_june_2026_sales.jpg",
-                "url": "https://www.carguide.ph/2026/07/gwm-philippines-just-had-its-best.html",
-                "source": "CarGuide.PH",
-                "date": "2026-07-03T03:27:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WhatsApp police scam: Scammer knows middle name",
-                "desc": "A man's curiosity led him to answer a fake police WhatsApp video call, only to be stunned when the scammer revealed his middle name.",
-                "image": "https://cassette.sphdigital.com.sg/image/stomp/e18eec8eaee56dc8cd29d6a78560001ac705435583acd55641d4acbc4bff13a8",
-                "url": "https://www.stomp.sg/singapore-seen/curious-man-answers-fake-police-whatsapp-video-call-stunned-scammer-knows-his-middle-name",
-                "source": "Stomp",
-                "date": "2026-07-03T03:23:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysian shares climb as Asian markets rise with dimming US rate hike prospects, ringgit also strengthens",
-                "desc": "KUALA LUMPUR (July 3): Malaysian shares rose on Friday as investors across Asia walk back expectations for higher US interest rates. The ringgit also strengthened.",
-                "image": "https://assets.theedgemarkets.com/20240805_115346_theedgemalaysia_1-FBM KLCI-Bursa Malaysia-stock-market-pricing-px-SY_APP_1.jpg",
-                "url": "https://theedgemalaysia.com/node/809276",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-03T03:22:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SA is loving ‘the Beeb’: BBC viewership up 50% on DStv",
-                "desc": "How BBC turned DStv's channel cull into a viewership windfall",
-                "image": "https://www.businessday.co.za/resizer/v2/NHH7RTUSCJDVJAUM7O5FPGNVRI.JPG?smart=true&auth=99cbdf33d1524ae3e11baf9db12e2047a3cb064e02599252d955a90edff8cd66&width=1200&height=630",
-                "url": "https://www.businessday.co.za/companies/2026-07-03-bbc-says-dstv-channel-cuts-have-lifted-its-sa-viewership/",
-                "source": "Business Day",
-                "date": "2026-07-03T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Billionaire Johann Rupert's quiet land reform effort has given 24,000 South Africans title deeds to their homes",
-                "desc": "Johann Rupert has been funding the Khaya Lam land reform programme, enabling over 24,000 South Africans to obtain legal ownership of their homes. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/DpaktkpTURBXy81NmYwYjVmN2YyZDM4ZGY5ZWUyZDJmOTM3YmIzM2MyZi5wbmeSlQMAJc0Fsc0DM5MFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/markets/billionaire-johann-ruperts-quiet-land-reform-effort-has-given-24000-south-africans/fc9yhzs",
-                "source": "Business Insider Africa",
-                "date": "2026-07-03T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Eastern Cape’s most important business city just got the hotel infrastructure to match",
-                "desc": "Gqeberha has long had the economic weight without the business travel infrastructure to support it. The Capital Boardwalk with its conferencing facilities, long-stay apartments, and extended-stay rates finally closes that gap.",
-                "image": "https://cdn.dailymaverick.co.za/i/lQSONxoKqZZ5IpPvNEBj3GL0CgI=/800x0/smart/filters:strip_exif()/file/attachments/2994/TheCapitalBoardwalkExterior14_784850_548416.jpg",
-                "url": "https://www.dailymaverick.co.za/article/2026-07-02-the-eastern-capes-most-important-business-city-just-got-the-hotel-infrastructure-to-match/",
-                "source": "Daily Maverick",
-                "date": "2026-07-03T02:59:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trade setup for July 3: Can NIFTY50 give sustained close above 24,250 on Friday?",
-                "desc": "The benchmark indices are expected to maintain their winning streak on Friday. The open interest data for the coming weekly expiry suggests the range of 24,000 to 24,500, indicating a possibility of a breakout above 24,250.",
-                "image": "https://assets.upstox.com/content/assets/images/news/trade-setup-friday.webp",
-                "url": "https://upstox.com/news/market-news/trading/trade-setup-for-july-3-can-nifty-50-give-sustained-close-above-24-250-on-friday/article-196320/",
-                "source": "Upstox",
-                "date": "2026-07-03T02:58:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Westpac economist says households may be better off than a year ago",
-                "desc": "Afre you feeling richer than you were a year ago?",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--EavfZDT_--/t_tohu-badge-facebook/f_auto/q_auto/4JRM62R_bhfvdjshknals_png",
-                "url": "https://www.rnz.co.nz/news/personal-finance/660525/westpac-economist-says-households-may-be-better-off-than-a-year-ago",
-                "source": "RNZ",
-                "date": "2026-07-03T02:56:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India asks Meta to put off WhatsApp username rollout",
-                "desc": "Voices concern that the change can make it easier for fraudsters to target victims.",
-                "image": "https://i.dawn.com/large/2026/07/03083753cfbece0.webp",
-                "url": "https://www.dawn.com/news/2012632",
-                "source": "Dawn",
-                "date": "2026-07-03T02:55:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "'MemoMind One' Display Smart Glasses Blast Past $500K Crowdfunding Mark",
+                "desc": "MemoMind, a new AI hardware brand from projector manufacturer XGIMI, launched a crowdfunding campaign for its first smart glasses last week, the MemoMind One, which include dual displays, microphones, and open ear speakers—but no built-in camera. The News First shown at CES 2026 in Las Vegas in January, MemoMind One launched a Kickstarter last Sunday […]",
+                "image": "https://roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg",
+                "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
+                "source": "Road to VR",
+                "date": "2026-07-03T14:37:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warhammer 40,000: Dawn of War 4 showcases Space Marines vs Orks multiplayer gameplay",
+                "desc": "Warhammer 40,000: Dawn of War 4 has revealed a new multiplayer deep dive, highlighting the unique playstyles of the Space Marines and Orks ahead of launch.",
+                "image": "https://media.altchar.com/prod/images/gm_featured_image/b59a9e517512-warhamme40kdawnofwar.jpg",
+                "url": "https://www.altchar.com/game-news/warhammer-40000-dawn-of-war-4-showcases-space-marines-vs-orks-multiplayer-gameplay-azndg0U92AAF",
+                "source": "AltChar",
+                "date": "2026-07-03T14:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dao And Colleagues Develop Lorentz 2DRNN Neural Quantum States For 2D Transverse Field Ising Models",
+                "desc": "Until now, accurately modelling quantum systems at their critical points has favoured conventional Euclidean neural networks. New results demonstrate that hyperbolic recurrent neural networks definitively outperform their Euclidean counterparts when simulating the two-dimensional Transverse Field Ising Model, extending previous advantages seen in one-dimensional systems. This marks the first demonstration of superior performance for hyperbolic neural quantum states in two dimensions, even with system sizes up to N=12.",
+                "image": "https://quantumzeitgeist.com/wp-content/uploads/dao-and-colleagues-develop-lorentz-2drnn-neural-quantum-states-for-2d-transverse-1200x630.jpg",
+                "url": "https://quantumzeitgeist.com/dao-colleagues-lorentz-2drnn-neural-quantum-states-2d-transverse-field/",
+                "source": "Quantum Zeitgeist",
+                "date": "2026-07-03T14:35:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unidata Launches Egocentric Data System to Train Humanoid Robots",
+                "desc": "One of the first commercial capture systems built to give humanoid robots the 3D signals they use at inference: depth, camera pose, and full-body tracking.",
+                "image": "https://img.einnews.com/facebook/1145309/pico-4-ultra-motion-trackers.png",
+                "url": "https://www.einpresswire.com/article/924189993/unidata-launches-egocentric-data-system-to-train-humanoid-robots",
+                "source": "EIN Presswire",
+                "date": "2026-07-03T14:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft Edge finally lets you sign in with a Google account",
+                "desc": "The latest Edge update adds support for signing in with a Google account.",
+                "image": "https://cdn.mos.cms.futurecdn.net/pLEUcZKVvh73Lu8jFNUe5A-2560-80.jpg",
+                "url": "https://www.windowscentral.com/software-apps/microsoft-edge-finally-lets-you-sign-in-with-a-google-account",
+                "source": "Windows Central",
+                "date": "2026-07-03T14:34:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta debuts AI-powered gaming app Pocket",
+                "desc": "Meta has quietly launched a new application called Pocket, an AI-powered platform that allows users to create and share small interactive apps and games using text prompts.",
+                "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/meta%20pocket.png",
+                "url": "https://www.thedailystar.net/news/tech-startup/news/meta-debuts-ai-powered-gaming-app-pocket-4214991",
+                "source": "The Daily Star",
+                "date": "2026-07-03T14:30:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nintendo Speaking With The Pokémon Company Over Widespread Card Scalping 'Issue'",
+                "desc": "Nintendo's president has been asked to address the current state of Pokémon card shortages and scalping, which many fans feel is worse than ever, despite 10 billion cards being printed last year.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/03/gettyimages-2257874242-1783088289737.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/nintendo-president-says-the-pokemon-company-will-take-measures-to-respond-to-widespread-card-scalping-issues",
+                "source": "IGN",
+                "date": "2026-07-03T14:23:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google is fixing a confusing Android Auto connection roadblock",
+                "desc": "Google is finally fixing a confusing Android Auto connection roadblock caused by Android's Advanced Protection Mode. Here's what's changing!",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-auto-third-party-apps.jpg",
+                "url": "https://www.androidauthority.com/android-auto-advanced-protection-mode-conflict-apk-teardown-3684063/",
+                "source": "Android Authority",
+                "date": "2026-07-03T14:19:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Angry Gamers Won’t Get Sony To Change Its Mind Over PlayStation Discs This Time",
+                "desc": "This may be the most upset gamers have been at Sony and PlayStation ever, but its plans to kill physical discs will not be rethought.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a47c349c0d45c2dfdb60730/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/paultassi/2026/07/03/angry-gamers-wont-get-sony-to-change-its-mind-over-playstation-discs-this-time/",
+                "source": "Forbes",
+                "date": "2026-07-03T14:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 18 Pro leaks, AirDrop security, and iPhone Fold orders increase",
+                "desc": "New leaks about the iPhone 18 Pro seem to be annoying Apple, while the guessing game continues over whether the iPhone Fold is coming in September, plus why we should not believe that the iPhone is the end of civilization, on the AppleInsider Podcast.",
+                "image": "https://photos5.appleinsider.com/gallery/68154-143657-645-lede-Podcast-article-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/03/iphone-18-pro-leaks-airdrop-security-concerns-and-increased-iphone-fold-orders-on-the-appleinsider-podcast",
+                "source": "AppleInsider",
+                "date": "2026-07-03T14:18:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Some agentic AI browsers may come with major cybersecurity risks",
                 "desc": "In the last year or so, artificial intelligence companies have rolled out a spate of web browsers equipped with AI agents. A user might ask one of these agents to plan a vacation, and it will open browser tabs to research ...",
@@ -1174,99 +1264,99 @@
                 "source": "Inquirer Technology",
                 "date": "2026-07-03T02:43:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Signals Another PlayStation Plus Price Hike May Be on the Way",
-                "desc": "Sony is reportedly signaling another PlayStation Plus price hike as the top executives sat down and made some bold claims about its subscribers.",
-                "image": "https://static.beebom.com/wp-content/uploads/2026/07/Sony-Discusses-PlayStation-Plus-Price-hike-again.jpg",
-                "url": "https://beebom.com/sony-discusses-playstation-plus-price-hike-again/",
-                "source": "Beebom",
-                "date": "2026-07-03T02:42:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Abenson Birthday Sale: Exclusive Deals & Big Savings",
-                "desc": "Abenson is celebrating another year of serving Filipino homes with a month-long birthday sale filled with exciting deals, exclusive offers",
-                "image": "https://cf-images.assettype.com/sunstar%2F2026-07-03%2Fpvwjhas8%2F1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.sunstar.com.ph/pampanga/abenson-birthday-sale-exclusive-deals-big-savings",
-                "source": "SunStar Publishing Inc.",
-                "date": "2026-07-03T02:40:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mamamia Restructures Commercial Team Ahead Of CRO Georgie Nichols' Departure",
-                "desc": "Mamamia's CRO and opening batter for its indoor cricket team will depart in August.",
-                "image": "https://www.bandt.com.au/information/uploads/2026/07/Untitled-900-x-600-px-2026-07-03T123613.226.png",
-                "url": "https://www.bandt.com.au/mamamia-restructures-commercial-team-ahead-of-cro-georgie-nichols-departure/",
-                "source": "bandt.com.au",
-                "date": "2026-07-03T02:37:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KTC Introduces H27E6, a 27-Inch WQHD 300Hz Monitor Built for Esports, Streaming, Creation, and Productivity",
-                "desc": "Houston, Texas, July 02, 2026 (GLOBE NEWSWIRE) -- KTC, a professional display brand serving global gaming, creative, and productivity users, has introduced the KTC H27E6, a 27-inch WQHD Fast IPS monitor designed to meet the rising demand for high-refresh, multi-functional displays. Featuring a native 300Hz refresh rate, overclocking support up to 320Hz, professional-grade color accuracy, HDR400 certification, full ergonomic adjustment, and optional 90-degree vertical rotation, the H27E6 positions itself as an all-round monitor for esports gamers, Twitch streamers, content creators, developers, and office professionals.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/03/1123301.png",
-                "url": "https://www.manilatimes.net/2026/07/03/tmt-newswire/globenewswire/ktc-introduces-h27e6-a-27-inch-wqhd-300hz-monitor-built-for-esports-streaming-creation-and-productivity/2377899",
-                "source": "The Manila Times",
-                "date": "2026-07-03T02:30:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "High Great Innovation Announces Pricing for Three Formation Drone Platforms for Outdoor and Indoor Shows",
-                "desc": "The EMO Mini, EMO Plus and FYLO Mini expand the company's portfolio for large-scale outdoor formations, payload-enabled performances and close-proximity indoor experiences.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/03/1123295.jpg",
-                "url": "https://www.manilatimes.net/2026/07/03/tmt-newswire/pr-newswire/high-great-innovation-announces-pricing-for-three-formation-drone-platforms-for-outdoor-and-indoor-shows/2377897",
-                "source": "The Manila Times",
-                "date": "2026-07-03T02:29:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sydney Firm Delivers IT, AV and Cabling Under One Roof",
-                "desc": "Genconnect Technologies Offers Boardroom AV Sydney Businesses Can Pair With IT and Cabling Sydney, Australia - July 2,",
-                "image": "https://bloximages.newyork1.vip.townnews.com/mykxlg.com/content/tncms/assets/v3/editorial/d/f7/df778eac-8204-52d6-8927-00da81fdd6b6/6a472af4624e2.image.png?crop=700%2C368%2C0%2C147",
-                "url": "https://www.mykxlg.com/online_features/press_releases/sydney-firm-delivers-it-av-and-cabling-under-one-roof/article_27517afe-5498-5e4d-b277-71a4bd5f7953.html",
-                "source": "mykxlg.com",
-                "date": "2026-07-03T02:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kiwibank introduces Kiwis to ‘Buck’ - the green-wooled sheep who refuses to follow the flock in new campaign via Special NZ, Together, DNA + TRA",
-                "desc": "Kiwibank has launched \"Bank Kiwi\", the next evolution of its brand platform and customer movement designed to challenge the status quo of banking in New Zealand.\nAt the heart of the launch is Buck — an unlikely new face of banking and a green-wooled sheep who refuses to follow the flock. Creat",
-                "image": "https://campaignbrief.com/wp-content/uploads/2026/07/1_Buck_Salon.gif",
-                "url": "https://campaignbrief.com/kiwibank-introduces-kiwis-to-buck-the-green-wooled-sheep-who-refuses-to-follow-the-flock-in-new-campaign-via-special-together-dna-and-tra/",
-                "source": "Campaign Brief",
-                "date": "2026-07-03T01:31:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kiwibank introduces Kiwis to ‘Buck’ - the green-wooled sheep who refuses to follow the flock in new campaign via Special, Together, DNA and TRA",
-                "desc": "Kiwibank has launched \"Bank Kiwi\", the next evolution of its brand platform and customer movement designed to challenge the status quo of banking in New Zealand.\nAt the heart of the launch is Buck — an unlikely new face of banking and a green-wooled sheep who refuses to follow the flock. Creat",
-                "image": "https://campaignbrief.co.nz/wp-content/uploads/sites/4/2026/07/1_Buck_Salon.gif",
-                "url": "https://campaignbrief.co.nz/2026/07/03/kiwibank-introduces-kiwis-to-buck-the-green-wooled-sheep-who-refuses-to-follow-the-flock-in-new-campaign-via-special-together-dna-and-tra/",
-                "source": "Campaign Brief NZ",
-                "date": "2026-07-03T01:30:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kobelco SK1300DLC-11 Redefines Demolition Work",
-                "desc": "Kobelco’s new demolition excavator, the SK1300DLC-11, is quickly earning its place in high-reach demolition as a machine built to handle heavier tools without sacrificing safety.",
-                "image": "https://i0.wp.com/www.constructionkenya.com/wp-content/uploads/2026/07/Kobelco-SK1300DLC-11.jpg?resize=1200%2C665&ssl=1",
-                "url": "https://www.constructionkenya.com/13353/kobelco-sk1300dlc-11-demolition-work/",
-                "source": "Construction Kenya",
-                "date": "2026-07-03T01:28:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Learn Free Skills on Your Phone in 2026: The Complete Beginner’s Guide",
-                "desc": "Learn how to learn free skills on your phone in 2026 using trusted apps, online courses, and AI tools to grow your career.",
-                "image": "https://h2g6j3q2.delivery.rocketcdn.me/wp-content/uploads/2026/07/E5570314-74AE-4C76-8691-CA2416A36516.jpg",
-                "url": "https://www.techcityng.com/how-to-learn-free-skills-on-phone-2026/",
-                "source": "techcityng.com",
-                "date": "2026-07-03T01:28:33Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Fire razes shops, destroys goods worth millions at Ibadan market",
+                "desc": "Goods worth millions of naira were destroyed early Friday morning after a fire gutted parts of the popular Bode Market in Ibadan, Oyo State",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/Oyo-State-Fire-Services-Agency-OYSFA.webp",
+                "url": "https://guardian.ng/news/nigeria/metro/fire-razes-shops-destroys-goods-worth-millions-at-ibadan-market/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-03T14:38:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India approves buying $5.46 billion in military equipment",
+                "desc": "India also plans to purchase a high-altitude unmanned aircraft platform for the air force, to be used for intelligence gathering and remote sensing.",
+                "image": "https://i.dawn.com/large/2026/07/0319371405eb4fb.webp",
+                "url": "https://www.dawn.com/news/2012724",
+                "source": "Dawn",
+                "date": "2026-07-03T14:37:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mines and security - Samia’s two-track strategy with Washington",
+                "desc": "President Samia Suluhu Hassan is spending millions on US lobbyists to protect a critical minerals pipeline from congressional sanctions, President Samia Suluhu Hassan has been publicly dismissive about the effects of losing western funding in the wake of last October’s brutal elections, in which over 500 protestors were killed, and the state authority awarded her an implausible 97-98% share of the popular vote. Last month her government published its budget for the 2026/27 financial year with plans to increase spending by 10% – although the United States and the European Union are cutting aid flows by 40%.",
+                "image": "https://www.africa-confidential.com/resources/1/uploads/articles/6c9768e6-9f67-495e-b579-1bec71b307a6.jpg",
+                "url": "https://www.africa-confidential.com/article-preview/id/16080/mines-and-security-%e2%80%93-samias-two-track-strategy-with-washington",
+                "source": "Africa Confidential",
+                "date": "2026-07-03T14:36:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lithuanian president warns NATO could fracture over defense spending",
+                "desc": "If European countries fail to meet NATO’s 5 percent spending target, the alliance will split into “two or three parts,” Gitanas Nausėda warned.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/03/GettyImages-2283867004-scaled.jpg",
+                "url": "https://www.politico.eu/article/lithuania-president-gitanas-nauseda-nato-fracture-defense-spending/",
+                "source": "politico.eu",
+                "date": "2026-07-03T14:35:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China's warning reveals what really happened at Modi-Takaichi summit",
+                "desc": "India and Japan's recent summit in Delhi has sparked concern in Beijing. Agreements on defense, critical minerals, and AI signal a strategic shift, prompting China to caution against \"exclusive small groupings.\" The summit's focus on economic security, diversified supply chains, and defense co-development, particularly the UNICORN project, directly challenges China's economic and strategic leverage. This collaboration, alongside renewed Quad support, signals a growing regional architecture aimed at balancing China's influence.",
+                "image": "https://img.etimg.com/thumb/msid-132163861,width-1200,height-630,imgsize-151286,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/news/india/chinas-warning-reveals-what-really-happened-at-modi-takaichi-summit/articleshow/132163846.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-03T14:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Syrian ex-colonel accused of crimes against humanity deemed 'unfit to plead'",
+                "desc": "Salem Al-Salem, 58, is charged with three counts of murder as a crime against humanity, three counts of torture and one charge of conduct ancillary to murder.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c6db/live/34223f40-1c7f-11f1-a7bf-efb6e72f87e6.jpg",
+                "url": "https://www.bbc.com/news/articles/cly87w9z0e5o",
+                "source": "BBC",
+                "date": "2026-07-03T14:33:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Regime expects millions for delayed ceremony",
+                "desc": "Four months after Ayatollah Ali Khamenei was killed in U.S.-Israeli strikes, Iran is preparing for a massive multi-day funeral. It’s a calculated move by the regime to project strength and unity during a shaky peace deal with the U.S.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260703-iran-2-rs-be7779.jpg",
+                "url": "https://www.nbcnews.com/world/iran/iran-funeral-supreme-leader-khamenei-rcna352664",
+                "source": "NBC News",
+                "date": "2026-07-03T14:32:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CNN’s Kaitlan Collins trolls Trump by reporting on the state fair by reporting in the middle of the empty field",
+                "desc": "The president has claimed the fair is “packed with happy people” but footage from the National Mall tells a different story",
+                "image": "https://static.independent.co.uk/2026/07/03/13/16/Screenshot-2026-07-03-at-14-52-00.png?trim=0,410,251,369&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/kaitlan-collins-trump-america-250-cnn-report-b3008418.html",
+                "source": "The Independent",
+                "date": "2026-07-03T14:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s new man in Dodoma may boost investor play",
+                "desc": "Critical minerals, rare earths and the Beijing-Moscow axis could reshape Washington’s view of Samia’s government, Looking for a way to target United States security and commercial interests, President Samia Suluhu Hassan’s government wants to lean on Washington’s new ambassador to Tanzania, William Trachman, who described the country as being of ‘immense strategic importance’ during a rocky Senate hearing on 28 April. After conceding that the election violence had ‘raised serious concerns about Tanzania’s trajectory as a reliable partner’, Trachman was lambasted by senators claiming he was soft-pedalling on the Hassan government.",
+                "image": "https://www.africa-confidential.com/resources/1/uploads/articles/2afaa1f7-80f8-4891-a203-5cb7a7e6b1f7.jpg",
+                "url": "https://www.africa-confidential.com/article-preview/id/16081/trumps-new-man-in-dodoma-may-boost-investor-play",
+                "source": "Africa Confidential",
+                "date": "2026-07-03T14:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Extends Protection for Ethiopian Migrants While Court Fight Continues",
+                "desc": "Ethiopian nationals under the United States Temporary Protected Status (TPS) programme will continue to retain legal stay and work authorisation after a",
+                "image": "https://birrmetrics.com/wp-content/uploads/2026/07/GettyImages-1251559190-USImmigration.jpg",
+                "url": "https://birrmetrics.com/us-extends-protection-for-ethiopian-migrants-while-court-fight-continues/",
+                "source": "Birr Metrics",
+                "date": "2026-07-03T14:24:52Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Canada Post stopping parcel delivery to some EU countries because of new duty",
                 "desc": "Canada Post says it is suspending service to some European Union countries over new customs rules for low-value shipments, saying it's not accepting parcels destined for a dozen countries until further notice.",
@@ -1806,98 +1896,8 @@
                 "source": "The Citizen",
                 "date": "2026-07-03T03:22:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Turkish comedian arrested for 'insulting' Islam and Erdogan",
-                "desc": "Turkish comedian Deniz Göktaş was arrested at Istanbul Airport on Thursday following a stand-up show posted to YouTube. The 32-year-old faces multiple probes, including \"publicly insulting religious values\" and insulting President Recep Tayyip Erdoğan.",
-                "image": "https://images.euronews.com/articles/stories/09/82/34/57/1200x675_cmsv2_a4a87b1c-3371-5978-a0ae-1b73239194ad-9823457.jpg",
-                "url": "https://www.euronews.com/culture/2026/07/03/turkish-comedian-arrested-for-insulting-islam-and-erdogan",
-                "source": "Euronews",
-                "date": "2026-07-03T02:55:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A US$450 taxi fare sparks fresh concerns over tourist scams in South Korea",
-                "desc": "SEOUL: A series of high-profile overcharging incidents is raising fresh concerns over whether South Korea's tourism infrastructure is keeping pace with its growing international reputation.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/03/3989945.png",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/a-us450-taxi-fare-sparks-fresh-concerns-over-tourist-scams-in-south-korea",
-                "source": "The Star",
-                "date": "2026-07-03T02:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pakistan May Rename Its ‘Afghan’ Missiles After Defense Minister Calls Mahmud Ghaznavi a 'Robber & Thief'",
-                "desc": "Pakistan’s conflict with Afghanistan is forcing the country to confront its own history and revisit its icons. For decades, Pakistan has idolized Afghan and Central Asian Turkic nationals, kings, sultans, warlords, and invaders as its national heroes. It named its most potent missiles Ghaznavi, Ghori, Babur, Abdali, etc after them. Pakistan has long glorified these […]",
-                "image": "https://www.eurasiantimes.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-191213.jpg",
-                "url": "https://www.eurasiantimes.com/pakistan-may-rename-its-afghan-missiles/",
-                "source": "EurAsian Times",
-                "date": "2026-07-03T02:49:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rankings show priorities",
-                "desc": "The ‘World Universities Rankings’ may be a rough measure of quality. But they do reveal a lot.",
-                "image": "https://i.dawn.com/large/2026/07/0307444856b8b68.webp",
-                "url": "https://www.dawn.com/news/2012620",
-                "source": "Dawn",
-                "date": "2026-07-03T02:44:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Closing the gap",
-                "desc": "THE numbers are encouraging, yet one cannot help but rue the opportunities still being lost. The GSMA’s Mobile...",
-                "image": "https://www.dawn.com/_img/social-default.jpg",
-                "url": "https://www.dawn.com/news/2012611",
-                "source": "Dawn",
-                "date": "2026-07-03T02:31:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bali, Phuket or Sentosa? Singapore’s grand 20-year resort plan",
-                "desc": "The upgrade aims to create ‘the next generation of world-class experiences’ while staying true to the island’s unique identity.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/02/dc84a096-5352-417c-aa51-f2273ee5f6c3_40377044.jpg?itok=_RJ6lFfl&v=1783007842",
-                "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3359217/bali-phuket-or-sentosa-singapores-grand-20-year-resort-plan",
-                "source": "South China Morning Post",
-                "date": "2026-07-03T02:31:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump insists 'there's nothing wrong' with his big crypto gains",
-                "desc": "In the financial disclosures, Trump reported making about $594 million from World Liberty Financial, which he and his sons co-founded, roughly $636 million in income tied to his memecoin business and nearly $197 million from an equity sale related to Stablecoin Holdco.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260702170514_Trump-New-0010.jpg",
-                "url": "https://www.moneycontrol.com/world/trump-insists-there-s-nothing-wrong-with-his-big-crypto-gains-article-13964948.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-03T02:25:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Texas Judge Blocks Bid to Widen Davis-Bacon Rules",
-                "desc": "A federal court in Texas has struck down key parts of a Biden administration attempt to extend prevailing wage rules beyond construction work.",
-                "image": "https://i0.wp.com/www.constructionkenya.com/wp-content/uploads/2026/07/Workers.jpg?resize=1200%2C665&ssl=1",
-                "url": "https://www.constructionkenya.com/13359/judge-blocks-bid-to-widen-davis-bacon-rules/",
-                "source": "Construction Kenya",
-                "date": "2026-07-03T02:18:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
-                "desc": "David Hearn could face up to 10 years in prison if convicted, but critics question the legitimacy of Trump’s claims.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/IMG_7684-1783029427.jpeg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism",
-                "source": "Al Jazeera",
-                "date": "2026-07-03T02:18:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kyiv suffers deadliest attack this year, after Russia 'unleashed hell'",
-                "desc": "At least 27 people are dead and the city's key Red Cross warehouse has been destroyed, as search efforts are still underway.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/75d0dc2048b3c2f1d1b1cfb39f7145b2?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=192&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-03/ukraine-kyiv-deadliest-attack-2026-russia-invasion-war/106874742",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-03T02:10:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T02:00:44.083585Z"
+    "lastGlobalSync": "2026-07-04T02:40:39.977306Z"
 }
