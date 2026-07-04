@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "High winds down trees, sudden storms knock out power in southwestern Ontario",
+                "desc": "Winds of more than 100 kilometres per hour downed trees and knocked out power to parts of southwestern Ontario Friday evening as storms moved through the region.",
+                "image": "https://i.cbc.ca/ais/48852384-b10a-419f-aa00-7d7727db0604,1783127698021/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C202%2C1007%2C566%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/windsor/windsor-storm-july-3-2026-9.7258409",
+                "source": "CBC",
+                "date": "2026-07-04T01:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Equities revive as US rate-hike risk eases",
+                "desc": "RECAP: Asian equities rebounded yesterday as the prospect of an imminent interest rate increase by the US Federal Reserve receded after data showed new job creation had declined sharply.",
+                "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+                "url": "https://www.bangkokpost.com/business/general/3280699/equities-revive-as-us-ratehike-risk-eases",
+                "source": "Bangkok Post",
+                "date": "2026-07-04T01:37:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Discover Taiwan's \"Waves of Wonder\" at the Travel Madness Expo (TME) 2026",
+                "desc": "Filipino travelers dreaming of their next international adventure can look forward to a taste of Taiwan at the Travel Madness Expo (TME) 2026. From July 10 to...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/04/113709.webp",
+                "url": "https://mb.com.ph/2026/07/04/discover-taiwans-waves-of-wonder-at-the-travel-madness-expo-tme-2026",
+                "source": "Manila Bulletin",
+                "date": "2026-07-04T01:34:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fed’s Warsh vows to ‘disappoint’ anyone who thinks he will tolerate inflation above 2%",
+                "desc": "Kevin Warsh reaffirmed the Fed’s independence, saying it will remain unchanged despite Donald Trump’s expectations for lower borrowing costs.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/8eec1bc3-kevin-warsh-13052026.webp",
+                "url": "https://www.freemalaysiatoday.com/category/business/2026/07/04/feds-warsh-vows-to-disappoint-anyone-who-thinks-he-will-tolerate-inflation-above-2",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-04T01:32:32Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Gold prices have fallen. Here's what could trigger the next rally",
+                "desc": "Trade policy, inflation, geopolitics, recession fears and central bank buying will determine whether gold resumes its bull run or extends its correction.",
+                "image": "https://www.livemint.com/lm-img/img/2026/07/03/1600x900/logo/pexels-photo-8442336_1783079317694_1783079326842_9bf23379-4be1-4e19-b2ec-98375a2a438e.jpeg",
+                "url": "https://www.livemint.com/market/commodities/gold-price-forecast-what-could-trigger-the-next-rally-2026-11783076811520.html",
+                "source": "livemint.com",
+                "date": "2026-07-04T01:30:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangote Refinery Imports 40.4m Barrels of Crude in Two Month",
+                "desc": "Dangote Petroleum Refinery imported 40.4 million barrels of crude oil between May and June 2026, spending $4.48bn on feedstock purchases. Learn more about",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/DANGOTE-REFINERY.webp",
+                "url": "https://punchng.com/dangote-imports-40-4m-barrels-of-crude-in-two-months/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-04T01:15:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SEC Expands Crypto Oversight with Seven New Firms",
+                "desc": "Nigeria's SEC admits seven new digital asset firms into its regulatory incubation programme, expanding crypto oversight and formalising the fast-growing se",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/SEC-860x517_1782256968.webp",
+                "url": "https://punchng.com/sec-expands-crypto-oversight-with-seven-new-firms/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-04T01:15:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RCBC made InstaPay transfers free, with conditions. BSP isn’t impressed.",
+                "desc": "RCBC joined the zero-fee wave, but its 30-transfer cap has caught the BSP's attention, with a top official saying the setup doesn't comply with the new rules",
+                "image": "https://www.rappler.com/tachyon/r3-assets/612F469A6EA84F6BAE882D2B94A4B421/img/8A77D174D7C54C1290DBFB9A29B6843D/rcbc-pse-februrary-12-2018.jpg",
+                "url": "https://www.rappler.com/newsbreak/inside-track/rcbc-instapay-transfers-free-conditions-bangko-sentral-not-impressed/",
+                "source": "Rappler",
+                "date": "2026-07-04T01:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Geely Galaxy Cruiser 700 interior exposed with 1128 horsepower hybrid powertrain",
+                "desc": "Geely official cabin images expose the physical switches inside the high-power hybrid SUV.",
+                "image": "https://carnewschina.com/wp-content/uploads/2026/07/image-insertion-scaled_webhook_1500x900_q85_1783127334.jpg",
+                "url": "https://carnewschina.com/2026/07/04/geely-galaxy-cruiser-700-interior-official-images-revealed/",
+                "source": "CarNewsChina.com",
+                "date": "2026-07-04T01:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla Beat Delivery Estimates by 74,000 Vehicles -- and the Stock Had Its Worst Day in Nearly a Year. Here's Why.",
+                "desc": "How does a company crush its own sales target and get punished for it?",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877448%2Fis-tesla-stock-a-buy.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/03/tesla-beat-delivery-estimates-by-74000-vehicles-an/",
+                "source": "The Motley Fool",
+                "date": "2026-07-04T01:03:11Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Joy MacPhail out as chair of B.C. Ferries board",
                 "desc": "Four years after she took on the role, Joy MacPhail is out as chair of B.C. Ferries’ board after her term was not renewed.",
                 "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/07/web1_07042026-vtc-news-mcphail-out.jpg;w=1000;h=618;mode=crop",
@@ -542,99 +632,45 @@
                 "source": "Yahoo Autos",
                 "date": "2026-07-03T21:17:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "As EVs move up a gear in S’pore, what happens after the sale?",
-                "desc": "Electric cars made up six in 10 new-car registrations in the first five months of 2026 as incentives, better technology and a wider range of models drew buyers in. The Straits Times explores what owning an EV in Singapore means.",
-                "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/07/electric-vehicle-ownership/2026-ev-chargers.jpg",
-                "url": "https://www.straitstimes.com/multimedia/graphics/2026/07/electric-vehicle-ownership/index.html",
-                "source": "The Straits Times",
-                "date": "2026-07-03T21:15:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold and silver hold post-NFP gains as hike bets move out - Kitco PM Report",
-                "desc": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher late Friday in North American trade, as Thursday’s weaker-than-expected U.S. employment report continued to pressure the dollar and support precious metals into a thin holiday-weekend tape. At the time of writing, spot gold was trading near $4,174.10 an ounce, up 1.27%, while spot silver was trading near $62.270, up 2.36% on the session.Gold’s session range was $4,120.50 to $4,196.10, leaving the metal below the $4,200 resistance zone but above the post-payrolls breakout level. Silver’s session range was $60.80 to $63.02, with the metal extending its outperformance after reclaiming the $60.00 level.Positioning after Thursday’s nonfarm payrolls report remains supportive for metals, but not fully dovish. The dollar extended its post-data weakness, while the 10-year Treasury yield held near the 4.5% area rather than breaking decisively lower. The message for gold is mixed but constructive: the report reduced urgency around additional near-term Fed tightening, but traders still price material odds of another hike later this year, keeping the rate channel relevant even as labor momentum softens.The Strait of Hormuz situation is best characterized as normalized flow with unresolved governance risk. Oil prices are trading near prewar levels as shipping flows through the strait recover and near-term supply looks ample, but U.S.-Iran negotiations remain fragile and disputes over Hormuz administration and transit fees are still unresolved. The current market impact is disinflationary at the margin: WTI is near $68.73 a barrel and Brent near $72.02, reducing the immediate energy-shock impulse for yields and the Fed. Gold’s move is therefore being driven more by the dollar-and-rate response to payrolls than by fresh panic demand from the waterway.The key outside markets see Nymex WTI crude oil prices steady and trading around $68.73 a barrel, while Brent crude was near $72.02. The U.S. dollar index is lower. The yield on the benchmark 10-year U.S. Treasury note is trading near the 4.5% area.Technically, spot gold bulls' next upside price objective is to push prices back above the $4,200.00 to $4,350.00 resistance zone, with a sustained move targeting $4,500.00 and then $5,000.00. Bears' next near-term downside price objective is a break below $4,091.00, with deeper downside targets at $4,000.00 and then $3,950.00. First resistance is seen at $4,200.00 and then at $4,350.00. First support is seen at $4,091.00 and then at $4,000.00.Spot silver bulls' next upside price objective is to drive prices back above the $64.00 to $64.50 area, with a move above that zone targeting $72.00 and then $89.00. The next downside price objective for the bears is a break below $60.05, with deeper downside targets at $58.00 and then $55.00. First resistance is seen at $64.00 and then at $64.50. Next support is seen at $60.05 and then at $58.00.",
-                "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.057755217146126&width=1023.8844895657&height=576&scale_width=1920&token=18bd122c055bcc2a81092cd114c57655240d3948ac282c641bc43507789aca0a",
-                "url": "https://www.kitco.com/news/article/2026-07-03/gold-and-silver-hold-post-nfp-gains-hike-bets-move-out-kitco-pm-report",
-                "source": "KITCO",
-                "date": "2026-07-03T21:03:04Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Berry Boom Drives Exports, Jobs, and Precision Agriculture",
-                "desc": "Mexico’s berry industry has become one of the country’s most dynamic agricultural sectors, producing more than 900,000t/y.",
-                "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-07/couleur-strawberries-1396330_640.jpg?h=9eb1c85d&itok=b_Lrv6hb",
-                "url": "https://mexicobusiness.news/agribusiness/news/berry-boom-drives-exports-jobs-and-precision-agriculture",
-                "source": "Mexico Business News",
-                "date": "2026-07-03T21:01:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EVs generally cost less to maintain than petrol cars",
-                "desc": "EV parts like the motor and batteries do not need as much maintenance as engines and transmissions. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ba9da3454d0239f670ccaeba238cb1760663ba7b1bd132f1c6f28c2e453e8765",
-                "url": "https://www.straitstimes.com/singapore/transport/evs-generally-cost-less-to-maintain-than-petrol-cars",
-                "source": "The Straits Times",
-                "date": "2026-07-03T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cement demand increases 7.2%",
-                "desc": "Cement demand increases 7.2%",
-                "image": "https://i.tribune.com.pk/media/images/Cement11/Cement11-640x480.webp",
-                "url": "https://tribune.com.pk/story/2616392/cement-demand-increases-72",
-                "source": "The Express Tribune",
-                "date": "2026-07-03T20:49:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European Bank For Reconstruction Eyes Nigerian Banks To Drive Investment Push",
-                "desc": "The European Bank for Reconstruction and Development (EBRD) has identified Nigeria's banking industry as key pillars of its investment strategy, saying it is",
-                "image": "https://leadership.ng/wp-content/uploads/2026/07/EBRD.jpeg",
-                "url": "https://leadership.ng/european-bank-for-reconstruction-eyes-nigerian-banks-to-drive-investment-push/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-07-03T20:40:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data Breach: Providus bank customers confirm unauthorised transactions on cards",
-                "desc": "Customers of Providus Bank, now ProvidusUnity, have reported unauthorised card transactions on their card months after a data breach affected multiple",
-                "image": "https://dailypost.ng/wp-content/uploads/2026/07/Providus-bank.jpg",
-                "url": "https://dailypost.ng/2026/07/03/data-breach-providus-bank-customers-confirm-unauthorised-transactions-on-cards/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-03T20:37:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unsolved: United Airlines Grounds New Premium Boeing 787-9 Again After Suffering TCAS Issues",
-                "desc": "The aircraft is facing yet another setback stemming from persistent TCAS issues.",
-                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/united-airlines-787-9-n61101.jfif?w=1600&h=900&fit=crop",
-                "url": "https://simpleflying.com/united-airlines-grounds-new-premium-boeing-787-9-again-suffering-tcas-issues/",
-                "source": "Simple Flying",
-                "date": "2026-07-03T20:36:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BC Ferries chair Joy MacPhail, two other directors out after terms not renewed",
-                "desc": "BC Ferries’ chair of the board of directors, Joy MacPhail, has left the position as well as two other directors.",
-                "image": "https://cheknews.ca/wp-content/uploads/2025/10/RAW-FERRY-WORKER-ABUSE-SURVEY-MI-2025-10-10_12480.jpg",
-                "url": "https://cheknews.ca/bc-ferries-chair-two-other-directors-out-after-terms-not-renewed-1334052/",
-                "source": "CHEK News",
-                "date": "2026-07-03T20:35:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aboitiz boosts renewable energy with Pangasinan solar farm",
-                "desc": "Aboitiz Power Corp. added 92 megawatts (MW) to the country’s power generation capacity with the inauguration on Tuesday",
-                "image": "https://newsinfo.inquirer.net/files/2026/07/SolarJuly2026.jpg",
-                "url": "https://newsinfo.inquirer.net/2257230/aboitiz-boosts-renewable-energy-with-pangasinan-solar-farm",
-                "source": "Inquirer.net",
-                "date": "2026-07-03T20:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Philips Evnia launches M4 gaming monitors with Triple-Mode display technology",
+                "desc": "Philips Evnia has introduced its new M4 gaming monitor lineup, bringing Triple-Mode display technology to gamers in the Asia-Pacific region. The new lineup",
+                "image": "https://walastech.com/wp-content/uploads/2026/07/f50a8716c8454e348158e78e19e09f63-1.jpg",
+                "url": "https://walastech.com/news/philips-evnia-m4-gaming-monitors-sg/",
+                "source": "WalasTech",
+                "date": "2026-07-04T01:36:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PS6 Could Be Digital-Only After PlayStation Ends Physical Game Discs",
+                "desc": "Sony confirmed it will stop producing new PlayStation game discs from 2028, underscoring the company’s shift toward digital distribution.\nIn analysis cited by Forbes, an analyst suggested the PS6 coul...",
+                "image": "https://s.yimg.com/lo/mysterio/api/e7f861ccd24a44cc9f6f2e49a52507f71ac5092ce4f09a6b2ef16ff3519fa968/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgamerevolution_videos_410%2F568ad3f61b814eb53de5a76a1afddbbd",
+                "url": "https://www.yahoo.com/news/videos/ps6-could-digital-only-playstation-012451795.html",
+                "source": "Yahoo",
+                "date": "2026-07-04T01:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PS Store Drops Pair of Fun Free PS5 Games, Trophies Included",
+                "desc": "The PlayStation Store has added two relaxing titles at no cost, relevant to players tracking trophies and low-friction gameplay.\nThe Legend of Fireball (PS5, PS4) and Splash of Color (PS5) join the ca...",
+                "image": "https://s.yimg.com/lo/mysterio/api/e57a9e874d977f8c8c7d9577f65d3d03060ff7e3dc3ce95cb133d1eb3e8a8156/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fplaystation_lifestyle_videos_296%2F7f68aa42e394ac94bf0d6f584688211f",
+                "url": "https://www.yahoo.com/news/videos/ps-store-drops-pair-fun-012256877.html",
+                "source": "Yahoo",
+                "date": "2026-07-04T01:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Suicide Squad: Kill the Justice League Developers Wanted to Quit the Industry After the Game Was Released",
+                "desc": "Fall from grace.",
+                "image": "https://sm.ign.com/t/ign_ap/news/s/suicide-sq/suicide-squad-kill-the-justice-league-developers-wanted-to-q_mnrb.1200.jpg",
+                "url": "https://sea.ign.com/suicide-squad-kill-the-justice-league/245081/suicide-squad-kill-the-justice-league-developers-wanted-to-quit-the-industry-after-the-game-was-rele",
+                "source": "IGN Southeast Asia",
+                "date": "2026-07-04T01:21:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The JAS Tensei NSX restomod will be a 35-unit limited release",
                 "desc": "The JAS Tensei, designed by Pininfarina, is a Honda NSX restomod with a 3.5-liter V6 and pop-up headlights limited to only 35 units. See details here.",
@@ -1228,45 +1264,99 @@
                 "source": "How-To Geek",
                 "date": "2026-07-03T18:53:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy S26 Ultra price drops below Rs 1,20,000 with flat Rs 19,001 discount on Flipkart",
-                "desc": "Samsung Galaxy S26 Ultra is available below Rs 1,20,000 on Flipkart with a flat Rs 19,001 discount. Eligible bank offers can further reduce the effective price.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260225180422_Galaxy-S26-Ultra.png",
-                "url": "https://www.moneycontrol.com/technology/samsung-galaxy-s26-ultra-price-drops-below-rs-1-20-000-with-flat-rs-19-001-discount-on-flipkart-article-13965729.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-03T18:50:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Design Director Calls the New Fitbit Air a Total Win",
-                "desc": "Google's Jonah Becker has revealed that the massive early success of the screenless Fitbit Air proves consumers are suffering from display fatigue.",
-                "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/07/Fitbit-Air-Running.jpg",
-                "url": "https://www.iphoneincanada.ca/2026/07/03/google-design-director-calls-the-new-fitbit-air-a-total-win/",
-                "source": "iPhone in Canada",
-                "date": "2026-07-03T18:50:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027",
-                "desc": "New alternate “Slayhem” scenario to be about 35 hours long",
-                "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/239263/img-6917.jpeg",
-                "url": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263",
-                "source": "Anime News Network",
-                "date": "2026-07-03T18:44:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The browser wars aren't about search anymore - here are the best alternatives to Chrome and Safari",
-                "desc": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-                "image": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
-                "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-                "source": "TechCrunch",
-                "date": "2026-07-03T18:43:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "AMECEA: Ubuntu: African Value that Strengthens Small Christian Communities in Eastern Africa, Says Catholic Nun",
+                "desc": "By Sr. Henriette Anne, FSSA\nSmall Christian Communities (SCCs) have become central to the life of the Church; hence, greater attention should be given to rooting it into Africa’s own cultural values, especially the African Philosophical tradition of “Ubuntu”, says Sr. Jecinter Antoinnette Okoth, the author of the third topic in the new book recently published by the Pastoral Department of the Association of Member Episcopal Conferences in Eastern Africa (AMECEA), in celebrating the Golden Jubilee of SCCs in the region,\nSr. Okoth, a member of Franciscan Sisters of St. Anna and in charge of the AMECEA Online Newsletter explained in her paper on “Ubuntu as a Cultural Foundation for Small Christian Communities in AMECEA Region” that “Ubuntu-based SCCs are not merely a cultural preference or a pastoral convenience, but a lived expression of a reflective Christian reality, a form of common life rooted in the very nature of God.”\nFocusing on how Ubuntu values can inform SCCs' practices, she pointed out that participatory leadership and decision-making, economic sharing and mutual aid, hospitality and inclusion are some of the ways SCCs can make good use of Ubuntu values.\nAccording to Sr. Okoth, the participatory leadership and decision-making approach challenges hierarchical approaches that can sometimes find their way into Church structures. “When this approach is brought into SCCs, it reframes what leadership means: the role of an animator is not to direct or control but to facilitate, creating the conditions for the community itself to discern its way forward”, she said.\nDrawing on the work of Fr. Joseph Healey, whose research across the AMECEA region demonstrates that thriving SCCs are those that rotate leadership, equip members with facilitation skills, and rely on consensus when making important decisions, she noted that participatory leadership and decision-making approaches do not create confusion; rather, they “honour the ubuntu spirit while drawing out the gifts that each member carries.\nOn economic sharing and mutual aid, the Kenyan nun expressed that in the African communities, supporting one another was not optional and that the same spirit should define SCCs.  “SCCs that are shaped by this spirit develop similar habits: members pool savings and make sure that orphans, widows, and the elderly are not left to struggle alone,” she said.\nThe sister further said that Ubuntu teaches that “every stranger carries the same share of humanity as anyone else and therefore deserves to be welcomed, not turned away,” a call that is inviting and challenging SCCs to stay open to other members rather than being closed and becoming exclusive.\nDrawing on Agbonkhianmeghe Orobator's theological reflection, she argues that outreach is not simply an act of charity performed for strangers. Rather, it flows from recognising that “person in need is not really an outsider at all, but a member of the same human family.”\nWhile Ubuntu values offer a rich cultural foundation for the Church, Sr. Okoth also acknowledged that there are challenges in applying Ubuntu to SCCs, including cultural diversity within the AMECEA region, stretching across Eritrea, Ethiopia, Kenya, Malawi, South Sudan, Sudan, Tanzania, Uganda, and Zambia, home to many ethnic communities; each community has its own customs, languages, and social structures.\nAlthough Ubuntu has become widely recognised as an African philosophy, Sr. Okoth reminded readers that its origins come from the Nguni peoples of Southern Africa. Its key values, mutual care, hospitality, and community responsibility, are important across the continent. However, how these values are expressed can vary from one community to another.\n“SCCs would be making a mistake,” Okoth cautions, “if they simply labelled ubuntu “African culture” and applied it everywhere as though the continent were one uniform whole. Instead, she urged that Ubuntu should be understood as a guiding philosophy rather than a rigid cultural template.\nShe also warns against painting African culture as if it is unchanging. African societies are always evolving. Factors like urbanization, migration, education, and globalization are changing family life, community ties, and cultural identity, and young people often navigate two worlds. They inherit community expectations based on African traditions while also facing modern cultures that focus on personal freedom and individual success. She stressed that “SCCs need to engage with this tension rather than assume that a straightforward, unbroken cultural tradition is simply available to be tapped. The cultural ground is more complicated”.\nDrawing on the work of Anne Nasimiyu-Wasike, she added that authentic Ubuntu theology should reclaim communal values that honour women's wisdom while rejecting traditions that deny their dignity. “Successful ubuntu-based SCCs intentionally promote women’s leadership, ensure gender balance in decision-making, and address harmful practices such as domestic violence. They champion Ubuntu’s core idea of equality, treating everyone with dignity while setting aside any traditions that go against that goal. This requires ongoing discernment to distinguish liberating cultural wisdom from oppressive traditions”\nAddressing the modernity and individualism challenge that is also facing SCCs Sr Okoth borrowed from Jesse Mugambi that the answer to this challenge “is not to dig in and defend African tradition against all outside influence, but to enter into an honest conversation between what African culture offers and what the modern world brings”.\nTo develop the Ubuntu-based spirit into practice, Sr. Okoth recommended that the Church in the AMECEA region put into place an intentional formation in Ubuntu Theology covering various topics, including communal values, Biblical and doctrinal roots of the Church, and how Ubuntu shapes the everyday life of SCCs.\nOther recommendations included “documentation and sharing of successful, Ubuntu-based SCC practices across the region, which would prevent SCCs from reinventing solutions and build a regional identity around a shared commitment to Ubuntu-based ecclesiology”, “structural support from diocesan and parish levels and engagement with contemporary challenges.”",
+                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
+                "url": "https://communications.amecea.org/index.php/2026/07/04/amecea-ubuntu-african-value-that-strengthens-small-christian-communities-in-eastern-africa-says-catholic-nun/",
+                "source": "AMECEA",
+                "date": "2026-07-04T01:35:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Belgian diamond group that won tariff relief gifts Trump lavishly encrusted ring",
+                "desc": "Ring featuring hundreds of diamonds and patriotic symbols was handed to the US ambassador in Belgium for delivery to the president; White House says it has not yet been presented",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260704013116_Ring-Trump.jpg",
+                "url": "https://www.moneycontrol.com/world/belgian-diamond-group-that-won-tariff-relief-gifts-trump-lavishly-encrusted-ring-article-13965788.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-04T01:32:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Starmer warns Burnham he cannot spend less time on diplomacy",
+                "desc": "Prime minister also speaks of his ‘intensely personal decision’ to step down in first interview since resigning",
+                "image": "https://i.guim.co.uk/img/media/40a9a3e7e235b5285d86ccc8a816cd2ae5a7fb31/723_0_5145_4115/master/5145.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91b28dace1785d37e91fe35847cc1324",
+                "url": "https://www.theguardian.com/politics/2026/jul/03/starmer-warns-burnham-he-cannot-spend-less-time-on-diplomacy",
+                "source": "The Guardian",
+                "date": "2026-07-04T01:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ERITREA: Archbishop Tesfamariam of Asmara Marks 25 Years of Episcopal Service",
+                "desc": "Zerayohannes Ghebrehiwet\nArchbishop Menghisteab Tesfamariam, the Metropolitan Archbishop of Asmara, Eritrea, celebrated the Silver Jubilee of his episcopal ordination on Saturday, June 27, 2026, at the Cathedral of Our Lady of Perpetual Help Kidane Mehret in a solemn Mass of Thanksgiving that brought together the entire Catholic family of the Arch Eparchy of Asmara in a joyful expression of gratitude to God.\nThe celebration was marked by the presence of three fellow bishops, dozens of concelebrants, religious congregations, seminarians, and the faithful from all the parishes of the Arch Eparchy, as well as family members and friends of the Archbishop\nArchbishop Tesfamariam was accompanied by Bishop Thomas Osman of the Barentu Eparchy, Bishop Kidanemariam Yebiyo of the Keren Eparchy, and Bishop Fikremariam Hagos of the Segeneiti Eparchy, along with Superior Generals of Monasteries and presbyter seats and 55 co-celebrants. Students of St. George Major Seminary, religious congregations, and the faithful from across the Arch Eparchy filled the cathedral for the occasion.\nIn his homily, Archbishop Tesfamariam began with the verse of Psalm 133: How good and how pleasant it is when brothers dwell together as one! and described it as a rich school of prayer for all seasons of life encompassing worship and praise, thanksgiving and rejoicing, supplication and repentance in equal measure, whatever circumstances a person may face.\n[caption id=attachment_24952 align=alignright width=300] Archbishop's brother presenting his speech[/caption]\nTurning to his own 25-year journey, he reflected on Psalm 124, Had not the Lord been with us as the honest question that comes to mind when he surveys the road travelled, and answered it with the words of Psalm 116: How can I repay the Lord for all the great good done for me? I will raise the cup of salvation and call on the name of the Lord.\nWhat I feel today is heartfelt gratitude, he told the congregation simply.\nThe Archbishop said that the journey has not been without its difficulties. He acknowledged being accompanied, strengthened, challenged, and even at times defeated by the prayers, advice, and honest counsel of those around him: bishops, priests, religious, the faithful young and old, families, and friends in Eritrea and in the diaspora abroad. In these 25 years of journey, I was not alone, he said, inviting all present to join him in magnifying the Lord together.\nArchbishop Tesfamariam used the occasion to trace the history of the Ge'ez Rite Catholic Church in Eritrea, which was established in 1930 with Bishop Kidanemariam Kassa as the first indigenous bishop. He named each of his five predecessors in the seat of the Arch Eparchy of Asmara: Bishop Kidanemariam Kassa, Bishop Yakob Ghebreyesus, Bishop Asratemariam Yemiru, Bishop Abraha Franswa, and Bishop Zekarias Yohannes, before noting that he himself is the sixth successor. From the Eparchy of Asmara, three further episcopal seats have been born: the Eparchies of Barentu, Keren, and Segeneiti.\nWith pastoral humility, the Archbishop noted that he is already praying for the bishop who will one day succeed him. Trusting in God, we did what we can, and the rest will be completed by those who succeed me, he said, offering a prayer of eternal rest for those who have gone before him and wisdom for those who will follow.\nHe also expressed particular devotion to two great missionary saints who have accompanied his ministry: St. Justin De Jacobi and St. Daniel Comboni. Through their intercession and example, they have played a special role in my pastoral ministry, he said, and every morning I pray for their intercession.\n[caption id=attachment_24967 align=alignright width=300] Rev. Fr. Thomas presenting short life history of the archbishop[/caption]\nAt the conclusion of the Mass, Rev. Fr. Thomas Negash, Secretary General of the Catholic Secretariat of the Arch Eparchy of Asmara, presented a brief account of the Archbishop's life and 25 years of episcopal ministry.\nBorn in Berakit Abay in December 1948, Archbishop Tesfamariam entered the Comboni Minor Seminary in Dekemhare on 10th October 1963. He completed his novitiate in Ethiopia, made his first temporary vow on June 25, 1973 — the Feast of St. Daniel Comboni — and pursued studies in Philosophy in Asmara and Theology in Uganda. He was ordained a priest on February 18, 1979, by the late Bishop Abraha François, in the Comboni Fathers' convent in Asmara.\nHis priestly ministry took him from his home village of Berakit Abay, where he taught Catechism to children and youth, to Uganda, where he served as a missionary in Karamoja from 1979 to 1985, to Addis Ababa, and eventually to Chicago, where he served as head of students and completed a Master's Degree in Pastoral Theology, while also providing pastoral care for Catholics in San Francisco.\nReturning to Eritrea, he served as Coordinator of Pastoral Activities in the Catholic Secretariat of the Eparchy of Asmara from 1998 to 2001, playing a leading role in pastoral and administrative development and guiding the first Eparchial Synod.\nOn June 25, 2001, he was nominated by Pope St. John Paul II to succeed the late Bishop Zecarias Yohannes and was ordained bishop on September 16, 2001, at the Cathedral of Our Lady of Perpetual Help — the same cathedral where he celebrated his Silver Jubilee a quarter of a century later.",
+                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
+                "url": "https://communications.amecea.org/index.php/2026/07/04/eritrea-archbishop-tesfamariam-of-asmara-marks-25-years-of-episcopal-service/",
+                "source": "AMECEA",
+                "date": "2026-07-04T01:25:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cambodian king returns from China after cancer treatment",
+                "desc": "PHNOM PENH: Cambodia's King Norodom Sihamoni returned home on Friday (July 3) from China where he was treated for prostate cancer, according to state media, with the palace saying his health was improved.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/04/3991840.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/04/cambodian-king-returns-from-china-after-cancer-treatment",
+                "source": "The Star",
+                "date": "2026-07-04T01:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SOUTH SUDAN: Justice and Peace Commission Empowers Women to Lead Peacebuilding in South Sudan",
+                "desc": "Ginaba Lino\nThe Justice and Peace Commission (JPC) of the Sudan and South Sudan Catholic Bishops’ Conference (SSSCBC), in partnership with Norwegian Church Aid (NCA), has trained women leaders in peacebuilding and conflict transformation in the Catholic Diocese of Torit, Eastern Equatoria State.\nWomen in South Sudan are increasingly being recognized as key actors in building sustainable peace and fostering reconciliation in communities affected by conflict.\nThe two-day training workshop brought together women from different communities under a newly launched six-month initiative known as “Together for Peace.” The project seeks to strengthen grassroots peace-building efforts, promote social cohesion, and empower women to play a more active role in preventing and resolving conflicts at the community level.\nThe initiative comes at a time when South Sudan continues to face localized conflicts, inter-communal tensions, and challenges related to social cohesion despite ongoing efforts to consolidate peace. Women, who are often among the most affected by violence and displacement, remain underrepresented in decision-making forums where peace and security issues are discussed.\nSpeaking during the opening session of the training, Fr. John Opi Severino, National Coordinator of the Justice and Peace Commission, underscored the importance of empowering women as agents of peace and reconciliation.\nHe explained that the project aims to strengthen community-based peace-building and conflict transformation mechanisms while rebuilding trust among communities through inclusive dialogue, reconciliation initiatives, and collaborative activities.\nFr. Opi said the initiative is designed not only to address the immediate causes of conflict but also to tackle deeper issues such as mistrust, trauma, and divisions that have persisted in communities following years of conflict.\nIt’s to strengthen community base peace building and conflict transformation by enhancing the capacity of women and community actors to prevent and manage conflicts in the community, to promote social cohesion and rebuild trust among communities through inclusive dialogue, reconciliation initiative and collaborative activities such as trust, division caused by war those years, to increase participation of women, youth and other marginalize groups in peaceful processes by creating safe and inclusive platform for inclusive decision making at community level, to reduce drivers of local conflicts and violence by addressing grievances such as women, youth exclusion across ethnic groups.\nAccording to Fr. Opi, women possess unique experiences and perspectives that make them valuable contributors to peacebuilding efforts. Their involvement in mediation, reconciliation, and community dialogue can help address long-standing grievances and foster stronger social bonds among communities.\nHe further noted that the project seeks to create safe and inclusive spaces where women, youth, and other marginalized groups can participate meaningfully in decision-making processes. Such participation, he said, is essential for achieving sustainable peace because it ensures that the voices of all members of society are heard and considered.\nThe Catholic Church has long been at the forefront of promoting peace, justice, and reconciliation in South Sudan. Through its Justice and Peace Commission, the Church continues to work with local communities, government institutions, and development partners to address the root causes of conflict and strengthen peaceful coexistence.\nFor Norwegian Church Aid, the training represents an important investment in community resilience and inclusive peace-building.\nMr. Mini Hiteng Odihak, Program Manager for Norwegian Church Aid in Torit, emphasized that women must be recognized as key stakeholders in peace processes rather than passive observers.\nHe pointed out that women often bear the greatest burden during times of conflict, experiencing displacement, loss of livelihoods, and disruptions to family and community life. Despite these challenges, they frequently play crucial roles in maintaining social cohesion and supporting recovery efforts.\nAs Norwegian Church Aid we believe this training is important because it trains and shape women to know that they have right to participate in decision makings mainly during round table discussions regarding peace processes. Women should only just be cooks at home but they should key people in decision makings because if you look at women in case of any conflicts they are the once suffering in the community despite of their generosity in the at family and community levels.\nMr. Hiteng stressed that meaningful peace cannot be achieved if women are excluded from discussions that shape the future of their communities. He noted that empowering women with knowledge and skills in peacebuilding enables them to contribute effectively to dialogue, mediation, and conflict prevention initiatives.\nThe training covered various aspects of peacebuilding, including conflict analysis, dialogue facilitation, reconciliation, community engagement, and strategies for addressing the root causes of violence. Participants were encouraged to become peace ambassadors within their communities and to use the skills acquired during the training to promote peaceful coexistence.\nThe workshop also highlighted the importance of strengthening partnerships among faith-based organizations, government institutions, civil society organizations, and local communities in advancing peace initiatives.\nMr. Hiteng called for greater collaboration among stakeholders in Eastern Equatoria State to ensure that women are fully involved in efforts aimed at preventing conflict and building lasting peace.\nIn Eastern Equatoria State, we need to work together with relevant church institutions, relevant Government institutions such as ministry of peace building, peace commissions, and civil society to building women strength in peace processes.\nParticipants welcomed the training, describing it as a valuable opportunity to acquire practical skills and deepen their understanding of peace-building. Many expressed hope that the knowledge gained would help them contribute more effectively to reconciliation efforts in their respective communities.\nThe emphasis on women’s participation aligns with global and regional commitments, including the United Nations Security Council Resolution 1325 on Women, Peace and Security, which recognizes the critical role women play in conflict prevention, peace negotiations, peace-building, and post-conflict recovery.\nAcross Africa, faith-based organizations continue to advocate for greater inclusion of women in peace processes, recognizing that sustainable peace requires the active participation of all sectors of society. In South Sudan, where local conflicts continue to affect communities, empowering women to take leadership roles in peace-building is increasingly viewed as an essential component of long-term stability and development.\nThe “Together for Peace” project is a six-month initiative jointly implemented by the Justice and Peace Commission of the Sudan and South Sudan Catholic Bishops’ Conference and Norwegian Church Aid. The project planned to be implemented in Torit Diocese, Juba Archdiocese, and Wau Diocese with the goal of strengthening community-led peace-building and conflict transformation mechanisms.\nThe initiative focuses on promoting reconciliation, fostering social cohesion, rebuilding trust among communities affected by conflict, and addressing the root causes of violence through dialogue and inclusive engagement. It also seeks to increase the meaningful participation of women, youth, and other marginalized groups in peace processes and decision-making structures at the community level.\nThrough trainings, community dialogues, reconciliation activities, and collaborative peace initiatives, the project aims to equip local communities with the tools and skills needed to prevent conflict, manage disputes peacefully, and build resilient societies. Running for six months, the project is expected to contribute significantly to ongoing efforts to promote peace, justice, and sustainable development in Eastern Equatoria State and beyond.",
+                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
+                "url": "https://communications.amecea.org/index.php/2026/07/04/south-sudan-justice-and-peace-commission-empowers-women-to-lead-peacebuilding-in-south-sudan/",
+                "source": "AMECEA",
+                "date": "2026-07-04T01:20:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SOUTH SUDAN: Prelate Urges Seminarians to Embrace Humility, Transformation, and Lifelong Service Through Christ",
+                "desc": "Ginaba Lino\nBishop Eduardo Hiiboro Kussala has called on seminarians preparing for the priesthood to embrace a life of humility, transformation, and faithful service, reminding them that authentic ministry is rooted not in personal ability but in God's enduring love and grace.\nDelivering the homily during the installation of seminarians into the Ministries of Lector and Acolyte at St. Paul's Major Seminary, Bishop Hiiboro described the occasion as a celebration of hope for the Church and a powerful reminder that God continues to raise faithful servants for His people despite the challenges facing the world.\nAddressing priests, religious, seminary formators, families, and guests gathered for the liturgical celebration, the bishop expressed gratitude for the opportunity to witness the formation of future priests, saying the Church has every reason to rejoice whenever young men generously respond to God's call.\nDrawing inspiration from the feast of Saint Peter, Bishop Hiiboro reflected on the Apostle's transformation from a man marked by weakness and failure into the courageous leader of the early Church.\nIt was not his intelligence, his strength, or his past. Peter became a saint because he allowed himself to be transformed by the love of Christ.\nHe reminded the seminarians that their vocation does not begin with their love for God, but with God's unconditional love for them.\nBefore you chose Christ, He had already chosen you, the bishop said. Your vocation is founded on God's everlasting love. Never forget that.\nAcknowledging the many sacrifices seminarians make on their journey toward priesthood, Bishop Hiiboro recognized that many have endured personal hardships, including the loss of loved ones, family struggles, financial difficulties, and the demanding discipline of seminary life.\nHe encouraged them not to view these experiences as obstacles but as part of God's plan to prepare them for faithful ministry.\nHe explained that a diamond forms deep beneath the earth over billions of years under immense pressure before emerging as one of the world's most precious stones.\nPressure does not destroy a diamond, he said. Pressure reveals its beauty.\nUsing the analogy, he told the seminarians that every lecture, examination, correction, moment of silence, rule, and challenge encountered in the seminary is part of God's process of shaping them into faithful servants.\nEvery difficulty is purifying you, he said. You are not ordinary people. God is forming you into something precious for His Church.\nThe bishop reminded those being instituted as Lectors that they are now entrusted with a sacred responsibility as official ministers of the Word of God.\nThe Word of God created you, he said. When you proclaim that Word, you become its faithful custodian. Treat it with reverence because it has the power to transform lives.\nHe also encouraged the new Acolytes to deepen their devotion to the Eucharist, describing their ministry as a privilege that brings them closer to Christ present in the Blessed Sacrament.\nAlthough the ministries of Lector and Acolyte are transitional stages on the journey to priesthood, Bishop Hiiboro stressed that they carry profound spiritual significance and demand maturity, commitment, and faithful witness.\nTurning to the realities facing Sudan and South Sudan, the bishop challenged the seminarians to become agents of healing and hope in societies wounded by conflict, violence, corruption, displacement, and suffering.\nYou know where you come from, he said. You know the pain and the struggles of our people. Your calling is to become part of the solution.\nHe urged the future priests not to distance themselves from the people they are called to serve but to accompany communities with compassion, humility, and courage.\nBishop Hiiboro further encouraged the seminarians to cultivate fraternity within the seminary by supporting one another instead of allowing pride, competition, or selfish ambition to divide them.\nThis seminary is a workshop where God is shaping you, he said. Be a blessing to your colleagues. Help one another grow. Correct one another with love. Build each other up.\nHe emphasized that true greatness in priesthood is measured not by authority or status but by humble service.\nThe Church does not simply need more priests, he said. She needs holy priests—priests who are close to the people, especially the young, and who faithfully reflect the heart of Jesus Christ.\nConcluding his homily, Bishop Hiiboro left the seminarians with three simple yet profound truths that he urged them never to forget throughout their lives and ministry:\nGod is alive. God created you. God is calling you every day.\nHe encouraged them to walk in the unity of faith, remain humble, preach Christ faithfully, love the world with the compassion of Jesus, and become blessings wherever they are sent.\nLove Jesus Christ, he said. Remain humble. Become a blessing to everyone you meet.\nThe celebration concluded with the formal institution of the seminarians into the Ministries of Lector and Acolyte, marking another important milestone in their preparation for the priesthood and reaffirming the Church's commitment to forming servant leaders rooted in faith, humility, and the transforming love of Christ.",
+                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
+                "url": "https://communications.amecea.org/index.php/2026/07/04/south-sudan-prelate-urges-seminarians-to-embrace-humility-transformation-and-lifelong-service-through-christ/",
+                "source": "AMECEA",
+                "date": "2026-07-04T01:15:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US agrees to halt talks with Iran for a week as funeral for Khamenei begins",
+                "desc": "Denuclearization talks between the U.S. and Iran are on hold for a week as the Iranian government prepares a funeral for Ayatollah Ali Khamenei in Tehran, the capital. The funeral is expected to last from July 4 to July 9.",
+                "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/07/c34da4b24b864619468647bb911eb35a.png",
+                "url": "https://www.foxnews.com/live-news/us-iran-peace-talks-pause-supreme-leader-ayatollah-khamenei-funeral-july-3-2026",
+                "source": "Fox News",
+                "date": "2026-07-04T01:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MALAWI: Police Service Bids Farewell to Rev. Fr. Likhutcha After Nine Years of Dedicated Chaplaincy",
+                "desc": "Sam kalimba\nThe Malawi Police Service, in collaboration with St. Ignatius Catholic Parish, on Saturday, June 27, accorded a heartfelt farewell to Rev. Fr. Steven Alfred Likhutcha, ending his remarkable nine-year ministry as Chaplain of the Malawi Police Service.\nThe farewell ceremony, held at the Inspector General's Ground at Police Headquarters in Lilongwe, was attended by the Inspector General of Police, Mr. Richard Chakupaleza Chikoko Luhanga, Deputy Inspector General Dr. Noel Mlowoka Kayira, former Inspector General Rodney Jose (2018–2019), members of the Police Management Team, clergy, religious and parishioners.\nThe event began with a solemn Eucharistic Celebration presided over by Fr. Likhutcha and concelebrated by the Malawi Defence Force Chaplain, Rev. Fr. Augustine Likado, DP, the newly appointed Malawi Police Service Catholic Chaplain Rev. Fr. Steven Namame of the Catholic Diocese of Mangochi, Rev. Fr. John Mangwere, SAC, together with other priests.\nFr. Likhutcha's journey with the Malawi Police Service began nine years ago when he was appointed Police Chaplain by the then Episcopal Conference of Malawi, now the Malawi Conference of Catholic Bishops (MCCB). A diocesan priest of the Catholic Archdiocese of Zomba, he relocated from his home diocese to Police Headquarters in Lilongwe, which canonically falls under the Catholic Archdiocese of Lilongwe. In addition to his national chaplaincy responsibilities, he automatically became Parish Priest of St. Ignatius Catholic Parish, serving the spiritual needs of police officers, their families, and the surrounding Catholic community.\nHis ministry extended beyond pastoral care. As a commissioned police officer, Fr. Likhutcha faithfully served within the Malawi Police Service, rising through the ranks to become an Assistant Commissioner of Police. His unique dual vocation as both priest and police officer enabled him to provide spiritual leadership while contributing to the welfare, discipline and moral formation of police personnel.\nIn 2025, the Malawi Conference of Catholic Bishops appointed Rev. Fr. Steven Namame as the new Police Chaplain, marking the conclusion of Fr. Likhutcha's official assignment after nearly a decade of dedicated service.\nSpeaking during the farewell ceremony, Inspector General Mr. Luhanga expressed profound appreciation for Fr. Likhutcha's unwavering commitment to the Malawi Police Service. He particularly commended his efforts in strengthening the family apostolate within the police service and his pastoral leadership at St. Ignatius Parish.\nThe Inspector General further appealed to the Department of Spirituals, Integrity and Counselling Services to continue engaging former chaplains, saying their experience and wisdom remain valuable to the institution even after their formal assignments end.\nHe also acknowledged the contribution of another Catholic priest and former Police Chaplain, Rev. Fr. David Bello of the Catholic Archdiocese of Blantyre, emphasizing that the Church possesses a wealth of pastoral experience that should continue to benefit the Malawi Police Service.\nIn his farewell remarks, Fr. Likhutcha challenged the Department of Spirituals, Integrity and Counselling Services to remain the moral conscience of the Malawi Police Service.\nThe department should serve as the conscience of the institution by providing moral and spiritual guidance to all officers, including top management, so that the police serve Malawians according to the will of God, he said.\nBeyond his responsibilities within the Police Service, Fr. Likhutcha actively served the wider Catholic community in the Archdiocese of Lilongwe. He was Chaplain of the Divine Mercy Apostolate, Chaplain to the Maula Deanery Choirs and an active member of the Association of Catholic Journalists, demonstrating his commitment to evangelization through various ministries.\nFollowing the completion of his national assignment, Fr. Likhutcha has returned to his parent Diocese of Zomba, where he now serves as Parish Priest while also overseeing development initiatives as the Diocesan Projects and Investments Coordinator.\nHis farewell was more than a ceremonial send-off; it was a celebration of faithful service, compassionate leadership and a ministry that bridged the Church and one of Malawi's key public institutions. As he embarks on a new chapter of priestly ministry, Fr. Likhutcha leaves behind a lasting legacy of spiritual accompaniment, integrity and dedication that will continue to inspire both the Malawi Police Service and the Catholic faithful.",
+                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
+                "url": "https://communications.amecea.org/index.php/2026/07/04/malawi-police-service-bids-farewell-to-rev-fr-likhutcha-after-nine-years-of-dedicated-chaplaincy/",
+                "source": "AMECEA",
+                "date": "2026-07-04T01:10:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What rights is the government proposing for co",
+                "desc": "Co-habiting couples in England and Wales could be given more protections if they break up under new government proposals.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f64e/live/be7ea2f0-6bbc-11f1-8e1d-bbbb1017d210.jpg",
+                "url": "https://www.bbc.com/news/articles/cx2vx4dvgzno",
+                "source": "BBC",
+                "date": "2026-07-04T01:10:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "European Conservatives Bring Unity Message To US: Ukraine Matters. Iran Does, Too",
                 "desc": "As NATO leaders prepare to gather for next week's summit, a group of senior European conservative lawmakers visited Washington with a message they hope will resonate inside the Trump administration: Support for Ukraine and concern over Iran are not mutually exclusive.",
@@ -1806,98 +1896,8 @@
                 "source": "International Business Times",
                 "date": "2026-07-03T20:12:57Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Major Russian oil refinery suspends operations again after Ukrainian drone strike",
-                "desc": "The Lukoil-Nizhegorodorgsintez plant is the fourth-largest oil refinery in Russia, second-largest producer of gasoline, and Lukoil's largest refinery.",
-                "image": "https://assets.kyivindependent.com/content/images/2026/07/Screenshot-2026-07-02-at-4_13_38-PM_20260702-121435.png",
-                "url": "https://kyivindependent.com/major-russian-oil-refinery-suspends-operations-again-after-ukrainian-drone-strike/",
-                "source": "The Kyiv Independent",
-                "date": "2026-07-03T20:11:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Weekend briefing: East Asia's economies all make notable progress",
-                "desc": "China service sector improves; ditto Japan; Korea's stock market on a wild ride; Vietnam rising & upgraded by the World Bank; global food prices ease; UST 10yr at 4.49%; gold rises and oil stable; NZ$1 = 57.1 USc; TWI-5 = 60.9",
-                "image": "https://www.interest.co.nz/sites/default/files/feature_images/wanaka-winter.jpg",
-                "url": "https://www.interest.co.nz/economy/139252/china-service-sector-improves-ditto-japan-koreas-stock-market-wild-ride-vietnam",
-                "source": "Interest.co.nz",
-                "date": "2026-07-03T20:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African Development Bank and Korean Partners Showcase Koafec Cooperation At 2026 Annual Meetings",
-                "desc": "Announcement - The African Development Bank Group and its Korean partners jointly ran a Korea-Africa Economic Cooperation (KOAFEC) promotional booth during the Bank Group's 2026 Annual Meetings, held in Brazzaville from 25 to 29 May.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607030516.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-03T20:05:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scientist-Turned-Entrepreneur Builds Global Organic Cosmetics Brand From Tunisia's Natural Heritage",
-                "desc": "Announcement - When Ibtihel Ben Hadj Mbarek-Fredj left a successful academic career in 2019, she was taking a calculated risk. After earning a PhD in biotechnology and spending 15 years conducting research at the University of Monastir, she chose to leave the laboratory and transform years of scientific research into practical business solutions.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607030515.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-03T20:03:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN to close Burkina Faso rights office in November after government suspension",
-                "desc": "According to UN High Commissioner for Human Rights Volker Türk, months of engagement with Burkinabe authorities have failed to resolve the impasse.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/01/Volker-Turk.jpeg",
-                "url": "https://eastleighvoice.co.ke/africa/375306/un-to-close-burkina-faso-rights-office-in-november-after-government-suspension",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-03T19:55:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Survival to Prosperity: Why Small Businesses and Agriculture Hold the Key to Nigeria’s Economic Recovery",
-                "desc": "Across Nigeria today, millions of families wake up every morning with one pressing question: How do we survive another day in a difficult economy? Rising food prices, inflation, unemployment, and the high cost of transportation have made life challenging for households across the country .",
-                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
-                "url": "https://www.modernghana.com/news/1507655/from-survival-to-prosperity-why-small-businesses.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-03T19:50:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Somalia holds first Independence Day celebration in Saudi Arabia in 35 years",
-                "desc": "Somalia’s embassy in Riyadh hosted its first Independence Day celebration since the collapse of the central government in 1991",
-                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgg7I1ccKi4EUkhTpoXeGYLVrluzQ3sxImRWnN",
-                "url": "https://www.dawan.africa/news/somalia-holds-first-independence-day-celebration-in-saudi-arabia-in-35-years",
-                "source": "Dawan Africa",
-                "date": "2026-07-03T19:49:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-                "desc": "Human rights and media freedom organisations warned that the agreement prevents ‘recourse to international courts’.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a47e843-1783097411.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say",
-                "source": "Al Jazeera",
-                "date": "2026-07-03T19:49:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WFP: Conflict and shrinking humanitarian assistance drives northern Nigeria hunger crisis to levels not seen in nearly a decade",
-                "desc": "ABUJA, Nigeria – The United Nations World Food Programme warned today that Nigeria's food security crisis is worsening faster than previously anticipated. Conflict is driving hunger in some northern states, particularly the northeast, to levels not seen in almost a decade.",
-                "image": "https://hornobserver.com/uploads/article/photo/thumbs/IMG_884C45-970569-369DE5-5BB7A3-172E2F-65ED3E.jpg",
-                "url": "https://hornobserver.com/articles/3676/WFP-Conflict-and-shrinking-humanitarian-assistance-drives-northern-Nigeria-hunger-crisis-to-levels-not-seen-in-nearly-a-decade",
-                "source": "Horn Observer",
-                "date": "2026-07-03T19:47:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lebanese-Syrian drug trafficker gets 30 years in US terrorism case",
-                "desc": "Prosecutors said that Antoine Kassis used ties to Syria's Assad regime to broker cocaine-for-weapons deals.",
-                "image": "https://static.jns.org/dims4/default/69a233c/2147483647/strip/true/crop/1920x1080+0+99/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2025%2F10%2FGavel-Legal-Law-Court.jpg",
-                "url": "https://www.jns.org/news/u-s-news/lebanese-syrian-drug-trafficker-gets-30-years-in-us-terrorism-case",
-                "source": "JNS.org",
-                "date": "2026-07-03T19:41:15Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T13:00:40.516451Z"
+    "lastGlobalSync": "2026-07-04T13:40:41.610080Z"
 }
