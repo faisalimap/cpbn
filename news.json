@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "As lay-offs hit, China’s unemployed find sanctuary in Communist Party centres",
+                "desc": "Chinese jobseekers use free office space to establish routines and hide their employment status from families while looking for work.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/29/ad074f29-56b3-4f9f-8ab1-78356399982c_2d8090e0.jpg?itok=ZF9v_ReI&v=1782695593",
+                "url": "https://www.scmp.com/economy/article/3358684/lay-offs-hit-chinas-unemployed-find-sanctuary-communist-party-centres",
+                "source": "South China Morning Post",
+                "date": "2026-07-05T02:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A look at Singapore's new cruise terminal ahead of its Jul 7 opening",
+                "desc": "The Singapore Cruise Centre will have self-service check-in kiosks, automated boarding gates and biometric immigration clearance, similar to an airport.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--UQW_PpnY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/03/260702_singapore_cruise_centre_new_harbourfront_terminal_preview_hero_v5.jpg?itok=IL4uh7J7",
+                "url": "https://www.channelnewsasia.com/singapore/new-singapore-cruise-centre-harbourfront-batam-bintan-6229551",
+                "source": "CNA",
+                "date": "2026-07-05T02:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pipavav | An Indian yard’s unlikely bet on cutting-edge shipbuilding",
+                "desc": "Pipavav shipyard pioneers India's shift to green shipbuilding, securing landmark contracts for ammonia-fueled vessels amid industry transformation.",
+                "image": "https://th-i.thgim.com/public/business/gerb28/article71183541.ece/alternates/LANDSCAPE_1200/new%20An%20Aerial%20View%20of%20SDHI.jpg",
+                "url": "https://www.thehindu.com/business/pipavav-an-indian-yards-unlikely-bet-on-cutting-edge-shipbuilding/article71183415.ece",
+                "source": "The Hindu",
+                "date": "2026-07-05T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung SDI Supplies AI Data Center Battery Cells to Taiwan's Simplo Technology",
+                "desc": "Samsung SDI has supplied hundreds of millions of battery cells for artificial intelligence",
+                "image": "https://cdn.thelec.net/news/photo/202607/11952_12048_174.png",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=11952",
+                "source": "thelec.net",
+                "date": "2026-07-05T01:55:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The city that became an influencer heaven",
+                "desc": "Influencers are showing the world why they think Manchester is a great place it is to live.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1f55/live/e4563460-60c3-11f1-ba0c-494087e54831.jpg",
+                "url": "https://www.bbc.com/news/articles/cp8p8y937ydo",
+                "source": "BBC",
+                "date": "2026-07-05T01:52:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mancunian swagger: The city that became an influencer heaven",
+                "desc": "Influencers are showing the world why they think Manchester is a great place it is to live.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f55/live/e4563460-60c3-11f1-ba0c-494087e54831.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cp8p8y937ydo",
+                "source": "BBC",
+                "date": "2026-07-05T01:52:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Asian landlords are ready for a hawkish Fed",
+                "desc": "The lesson across these markets is the same: Property owners who cleaned up their debt profiles ahead of time are well poised to navigate any economic turmoil.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/05/549636.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/commentary/2026/07/05/japan/asian-landlords-hawkish-fed/",
+                "source": "The Japan Times",
+                "date": "2026-07-05T01:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia Stock Is Now Cheaper Than Coca-Cola. Here's the Math.",
+                "desc": "The market's most valuable company now trades at a discount to a soda maker.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877471%2Fnvidia-nvda-stock.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/04/nvidia-stock-is-now-cheaper-than-coca-cola-heres-t/",
+                "source": "The Motley Fool",
+                "date": "2026-07-05T01:49:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japanese beer imports top 100,000 tons for 1st time in 2025 on rising demand",
+                "desc": "Imports of Japanese beer into Korea surpassed 100,000 tons for the first time last year, driven by growing demand at convenience stores, supermarke...",
+                "image": "https://newsimg.koreatimes.co.kr/2026/07/05/50f0b21c-ecaa-480d-8b73-5f9d7f40f93b.jpg",
+                "url": "https://www.koreatimes.co.kr/business/20260705/japanese-beer-imports-top-100000-tons-for-1st-time-in-2025-on-rising-demand",
+                "source": "The Korea Times",
+                "date": "2026-07-05T01:48:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Korean won falls nearly 6% against dollar this year amid foreign stock sell",
+                "desc": "The Korean won has fallen nearly 6 percent against the U.S. dollar this year, central bank data showed Sunday, as foreign investors sold off more t...",
+                "image": "https://newsimg.koreatimes.co.kr/2026/07/05/1ee96f50-2faf-42f1-b611-6ad13b64f125.jpg",
+                "url": "https://www.koreatimes.co.kr/economy/20260705/korean-won-falls-nearly-6-against-dollar-this-year-amid-foreign-stock-sell-off",
+                "source": "The Korea Times",
+                "date": "2026-07-05T01:47:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Discos lose 1.13 million customers amid rising energy costs",
                 "desc": "Nigerian Electricity Distribution Companies (Discos) lost over 1.13 million customers in 2025 due to unreliable power supply and rising energy costs.",
                 "image": "https://punchng.com/wp-content/uploads/2026/06/Power.webp",
@@ -542,99 +632,63 @@
                 "source": "Yahoo Autos",
                 "date": "2026-07-04T21:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cooking gas price reduction update in Nigeria",
-                "desc": "The prices of liquefied petroleum gas, known as cooking gas, have continued to fall across parts of Nigeria after weeks of upsurge due to supply",
-                "image": "https://dailypost.ng/wp-content/uploads/2025/10/Cooking-gas.jpg",
-                "url": "https://dailypost.ng/2026/07/04/cooking-gas-price-reduction-update-in-nigeria/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-04T21:39:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'The political stuff pushed us over the edge': Meet five Americans who made Ireland their home",
-                "desc": "Nearly 10,000 Americans moved to Ireland in the year to April 2025 — almost double the previous year. As the US marks Independence Day, Kirstie McDermott meets those who’ve made Ireland home",
-                "image": "https://www.irishexaminer.com/cms_media/module_img/10276/5138202_6_org_MixCollage-30-Jun-2026-10-52-AM-2908.jpg",
-                "url": "https://www.irishexaminer.com/lifestyle/people/arid-41871345.html",
-                "source": "Irish Examiner",
-                "date": "2026-07-04T21:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dell announces $250 investment for millions of children through Trump Accounts",
-                "desc": "Michael Dell and Susan Dell announced a public-private partnership to give $250 to the first 25 million qualifying children who enroll in Trump Accounts, expanding a new investment program for young Americans.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/dell-family-trump-account.png?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/economy/michael-dell-celebrates-americas-250th-birthday-gift-seed-american-dream-millions-kids",
-                "source": "Fox Business",
-                "date": "2026-07-04T21:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Volkswagen considering selling Chinese-developed models in Europe - report",
-                "desc": "Volkswagen could flesh out its European range with models developed by its Chinese partners.",
-                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2026-01-volkswagen-id-era-9x-3.jpg",
-                "url": "https://www.carexpert.com.au/car-news/volkswagen-considering-selling-chinese-developed-models-in-europe-report",
-                "source": "CarExpert",
-                "date": "2026-07-04T21:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dentists seeing complications after Australians travel overseas for treatments they cannot afford at home",
-                "desc": "Janelle Jeal thought having dental care overseas would be life changing. It was, but for the wrong reasons.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/13b05ba719337f7fd8592c212bd6f61d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-05/dental-work-overseas-complications/106804096",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-04T21:02:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VIP sales at condo launches under scrutiny after agents get first dibs",
-                "desc": "SINGAPORE - The Council for Estate Agencies (CEA) is in discussions with property agencies about the practice of VIP sales and priority bookings at new private home launches, The Straits Times has lea...",
-                "image": "https://s.yimg.com/ny/api/res/1.2/GNbkpBexVrOuTaZsaS2tqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/straits_times_442/939267f63cbd579d1de2f1edb8dce00b",
-                "url": "https://sg.news.yahoo.com/vip-sales-condo-launches-under-210000793.html",
-                "source": "Yahoo News Singapore",
-                "date": "2026-07-04T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I passed on the SpaceX IPO. Was it prudence or a failure of imagination?",
-                "desc": "The fundamentals didn't stack up, but watching paper millionaires emerge overnight tested my investment decision. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/54370ac150410cddf92aeb2263d71c566118ad27891434852f2ee105a15330da",
-                "url": "https://www.straitstimes.com/business/i-passed-on-spacex-and-the-markets-made-me-feel-briefly-foolish",
-                "source": "The Straits Times",
-                "date": "2026-07-04T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If You'd Put $10,000 Into Intel Stock at the Start of 2026, Here's How Much You'd Have Today",
-                "desc": "The exact math on 2026's most dramatic large-cap comeback -- and the question it leaves for latecomers.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877472%2Fintel-stock-performance.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/04/if-youd-put-10000-into-intel-stock-at-the-start-of/",
-                "source": "The Motley Fool",
-                "date": "2026-07-04T20:55:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Time for a bipartisan approach: Why Labour should get on board with compulsory KiwiSaver - Liam Dann",
-                "desc": "The Labour Party should do our children and grandchildren a favour and get on board with compulsory KiwiSaver... now, while the idea has momentum. This is a...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/CG5DO3LOX5COLLA3SFGEKJSBSQ.jpg?auth=a311cebae83f9444879aea4fce4a9fffb0fef420f4d05f55ca99a878087e3cae&width=1200&height=675&quality=70&smart=true",
-                "url": "https://www.nzherald.co.nz/business/time-for-a-bipartisan-approach-why-labour-should-get-on-board-with-compulsory-kiwisaver-liam-dann/premium/OSHXNLRAKRASNCOS2LBI5DKGFM/",
-                "source": "NZ Herald",
-                "date": "2026-07-04T20:54:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Something none of us could have predicted'",
-                "desc": "California farmer Cesar Mora gave away a staggering 182,000 pounds of nectarines for free, sparking a massive community response.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133282292.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/04/us-news/california-fruit-farmer-reveals-results-of-his-massive-nectarine-giveaway-something-none-of-us-could-have-predicted/",
-                "source": "New York Post",
-                "date": "2026-07-04T20:50:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "GTA 6 On Track To Overthrow The Best-Selling Video Game Of All-Time",
+                "desc": "If any game can do it, it's got to be GTA 6",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt15b5300735fe18b9/6a43e9a32e040c0e673fa539/gta-6-best-selling-ever.jpg",
+                "url": "https://www.gamingbible.com/news/gta-6-overthrow-best-selling-game-554798-20260630",
+                "source": "GAMINGbible",
+                "date": "2026-07-05T02:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Persistent Display We Never Got",
+                "desc": "We all know the e-ink persistent displays, as they're cheap and plentiful enough to have become ubiquitous in applications such as supermarket price labels. But we don't often see some of the other te...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/07/persistent-display-featured.jpg",
+                "url": "https://hackaday.com/2026/07/04/the-persistent-display-we-never-got/",
+                "source": "Hackaday",
+                "date": "2026-07-05T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation Adds Ability to Terminate Your PS5 Account and All Your Games Over Inactivity",
+                "desc": "PlayStation has added the ability to terminate your PS5 account and remove your access to all your games over inactivity.",
+                "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/12/p-l-a-y-s-t-a-t-i-o-n.png?resize=2000,1125",
+                "url": "https://comicbook.com/gaming/news/ps5-playstation-games-psn-account-terminate/",
+                "source": "ComicBook.com",
+                "date": "2026-07-05T01:51:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Has Apple Really Stopped Using Titanium On Some Of Its iPhones?",
+                "desc": "Has Apple really stopped using titanium on some of its iPhones? We explain why the iPhone 17 Pro switched to aluminum and the iPhone Air kept it.",
+                "image": "https://www.slashgear.com/img/gallery/has-apple-really-stopped-using-titanium-on-some-of-its-iphones/l-intro-1782893698.jpg",
+                "url": "https://www.slashgear.com/2205654/why-apple-stopped-using-titanium-for-iphones-explained/",
+                "source": "SlashGear",
+                "date": "2026-07-05T01:46:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Takeaway Lessons On Online Food Choices",
+                "desc": "Graphic courtesy PixabayThe appearance of food images on a menu can influence whether we order big or small - or potentially choose healthy or more",
+                "image": "https://news.flinders.edu.au/wp-content/uploads/2026/07/Pixabay-graphic-cropped.jpg",
+                "url": "https://www.miragenews.com/takeaway-lessons-on-online-food-choices-1704771/",
+                "source": "Mirage News",
+                "date": "2026-07-05T01:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Makes The Ford 1969 Mustang One Of The Most Unique American Muscle Cars Ever Built",
+                "desc": "The 1969 Ford Boss Mustang is extremely rare and coveted by enthusiasts worldwide - and for good reason. Here's why it's one of the coolest cars ever made.",
+                "image": "https://s.yimg.com/lo/mysterio/api/4a52230e1284dcf1920a2bec9a7f0b28dc6eacaafe79d0bf3f74dffe434648bc/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fslash_gear_112%2F09e18ed633b78deeeaef6b5d91f3e2cd",
+                "url": "https://autos.yahoo.com/classic-and-collector/articles/makes-ford-1969-mustang-one-014500411.html",
+                "source": "Yahoo Autos",
+                "date": "2026-07-05T01:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Not Apple, Not Bose: These Wireless Earbuds Get Consumer Reports' Best Audio Score",
                 "desc": "Two Sony models and a lesser-known brand topped Consumer Reports' sound quality rankings for wireless earbuds, beating out some of the bigger names.",
@@ -1210,63 +1264,99 @@
                 "source": "How-To Geek",
                 "date": "2026-07-04T19:45:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Is the retro handheld market saturated? MagicX unveils new handheld with 2DS vibes",
-                "desc": "MagicX is developing a new gaming handheld that strongly resembles a Nintendo 2DS. The device may launch in two versions at different price points.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicx.jpg",
-                "url": "https://www.notebookcheck.net/Is-the-retro-handheld-market-saturated-MagicX-unveils-new-handheld-with-2DS-vibes.1335001.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-04T19:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List",
-                "desc": "Samsung's One UI 9 testing lineup grew again this week. Here's every confirmed device, plus a recap of what's already landed in previous updates.",
-                "image": "https://s.yimg.com/lo/mysterio/api/04152a21679f424aa8547534782d3bcd3946130bf6b67cc395e55a19444e64c2/lightyear_networkapi/resizefill_w959_h639;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fe801a71167ab7069541c0bf6872f51c3",
-                "url": "https://ca.news.yahoo.com/millions-more-galaxy-phones-join-193238688.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-07-04T19:32:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List",
-                "desc": "Samsung's One UI 9 testing lineup grew again this week. Here's every confirmed device, plus a recap of what's already landed in previous updates.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a47d127440ffb48b7b5bc45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/jaymcgregor/2026/07/04/samsung-one-ui-9-update-for-galaxy-s23-fe--galaxy-a57-galaxy-z-fold6/",
-                "source": "Forbes",
-                "date": "2026-07-04T19:32:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List",
-                "desc": "Samsung's One UI 9 testing lineup grew again this week. Here's every confirmed device, plus a recap of what's already landed in previous updates.",
-                "image": "https://s.yimg.com/os/en/forbes_contributor_845/e801a71167ab7069541c0bf6872f51c3",
-                "url": "https://au.news.yahoo.com/millions-more-galaxy-phones-join-193238688.html",
-                "source": "Yahoo News Australia",
-                "date": "2026-07-04T19:32:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Clair Obscur Director Warns 'Perfect' Games Like GTA 6 And The Elder Scrolls Are 'Boring'",
-                "desc": "It's the imperfections that make games truly great.",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltc929b0f7eb85a0b0/6a4933caf056e65a4d41b556/Clair_Obscur_Boring_GTA_6_Elder_Scrolls_6.jpg",
-                "url": "https://www.gamingbible.com/news/clair-obscur-boring-perfect-games-gta-6-the-elder-scrolls-591218-20260704",
-                "source": "GAMINGbible",
-                "date": "2026-07-04T19:31:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I revived a 15-year-old laptop with an OS that runs entirely in memory",
-                "desc": "Skip drive bottlenecks entirely: see how a \"Frugal Install\" forces a bloated web browser to run directly through pure, volatile memory.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/puppy-task-manager.JPG?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/i-revived-a-15-year-old-laptop-with-an-os-that-runs-entirely-in-memory/",
-                "source": "MakeUseOf",
-                "date": "2026-07-04T19:30:18Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "@Our Lady of Africa Church",
+                "desc": "Join in for this Sunday's Mass",
+                "image": "https://newvision-media.s3.amazonaws.com/cms/46597036-c578-462e-805e-1ff190bf3952.png",
+                "url": "https://www.newvision.co.ug/category/entertainment/online-church-our-lady-of-africa-church-mbuya-NV_236553_072026",
+                "source": "NewVision.co.ug",
+                "date": "2026-07-05T02:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NRM MPs convene in Kampala to vote for caucus lead",
+                "desc": "The elections are being held during the NRM Parliamentary Caucus meeting at the Office of the President in Kampala and presided over by Tanga Odoi, the chairperson of the NRM electoral commission.",
+                "image": "https://newvision-media.s3.amazonaws.com/cms/65406244-5deb-4578-9c89-f3c731c17c7b.jpg",
+                "url": "https://www.newvision.co.ug/category/politics/nrm-mps-convene-in-kampala-to-vote-for-caucus-NV_236561_072026",
+                "source": "NewVision.co.ug",
+                "date": "2026-07-05T02:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Best Crowd-less Summer Destinations, According To Reddit Users",
+                "desc": "You don’t have to give up on the idea of a crowd-less summer just yet; Reddit, as it turns out, has a few suggestions.",
+                "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2026/06/26141054/crowd-less-summer-1600x900.jpeg",
+                "url": "https://www.travelandleisureasia.com/sea/destinations/the-search-for-a-crowd-less-summer-sent-us-to-reddit/",
+                "source": "Travel and Leisure Asia",
+                "date": "2026-07-05T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for Applications: Human Rights Scholarship - University of Melbourne 2026",
+                "desc": "The Human Rights Scholarship is offered by the University of Melbourne and provides a highly competitive funding opportunity for both domestic and",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/05/Human-Rights-Scholarship.webp",
+                "url": "https://www.globalsouthopportunities.com/2026/07/05/scholarship-60/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-05T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine hits Russian oil terminal; smoke rises over St Petersburg facility - watch",
+                "desc": "Europe News: Ukrainian drones struck an oil terminal in Russia's second-largest city of St Petersburg and targeted military infrastructure near the Baltic coast ov.",
+                "image": "https://static.toiimg.com/thumb/msid-132189813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-hits-russian-oil-terminal-smoke-rises-over-st-petersburg-facility-watch/articleshow/132189773.cms",
+                "source": "The Times of India",
+                "date": "2026-07-05T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vast areas of coral reef could resist climate change: study",
+                "desc": "In the crystalline waters off Kenya's coast, coral reefs are thriving – evidence of a rare good news story in the battle to protect oceans from the ravages of climate change.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/06/28/3981281.jpg",
+                "url": "https://www.thestar.com.my/lifestyle/living/2026/07/05/vast-areas-of-coral-reef-could-resist-climate-change-study",
+                "source": "The Star",
+                "date": "2026-07-05T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Whereabouts of Iran’s new supreme leader unknown as public mourning of Khamenei continues",
+                "desc": "The first day of public ceremonies honoring the late ayatollah was held in Iran on Saturday. Tehran has paused diplomacy with the US for the funeral. Follow for live updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283962387.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/04/world/live-news/iran-khamenei-funeral-war-trump",
+                "source": "CNN",
+                "date": "2026-07-05T01:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mamdani's wife ditches America 250 events for Islamic wellness retreat in Spain, ignites backlash",
+                "desc": "Rama Duwaji attended an Islamic retreat in Spain before America 250 celebrations, while Mayor Zohran Mamdani remained in New York.",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/04/550x309/KNICKS-PARADE-5_1783209401390_1783209420543_1766ec66-17b8-41ae-a7f9-0552128ef378.jpg",
+                "url": "https://www.hindustantimes.com/world-news/us-news/mamdanis-wife-ditches-america-250-events-for-islamic-wellness-retreat-in-spain-ignites-backlash-101783209066964.html",
+                "source": "Hindustan Times",
+                "date": "2026-07-05T01:58:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OMWENGA: Voters must reject tribalism that hobbles Kenya’s progress",
+                "desc": "Excellent leadership has never been the monopoly of large ethnic blocs and demographic size has no correlation with integrity.",
+                "image": "https://cdn.radioafrica.digital/image/2026/02/83dba475-26ba-4650-a5c0-ba0db6b5ec1b.png?1783232055713",
+                "url": "https://www.the-star.co.ke/siasa/2026-07-05-omwenga-voters-must-reject-tribalism-that-hobbles-progress",
+                "source": "the-star.co.ke",
+                "date": "2026-07-05T01:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AJUOK: Media freedoms and why leaders must adjust to modern realities",
+                "desc": "The leadership in the region lives in the past. The days when freedoms were curtailed and press freedom a mere mirage are fast coming to an end.",
+                "image": "https://cdn.radioafrica.digital/image/2004/09/SejCUEXeafDQpnlXpq3zbxM2DBCm_TU1iGq9jJ1OpYaWmt6uq1tf5333bilSNiGrN4VxUwqmkXcDKtojyvHFpGbpNwwsvV3COzaB.jpeg?1783233758637",
+                "url": "https://www.the-star.co.ke/siasa/2026-07-05-ajuok-media-freedoms-and-why-leaders-must-adjust-to-modern-realities",
+                "source": "the-star.co.ke",
+                "date": "2026-07-05T01:55:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Thomas Tuchel: England must 'not lose their heads' amid tricky Mexico buildup at World Cup",
                 "desc": "Thomas Tuchel has told his England players \"not to lose their heads\" despite a turbulent buildup to their World Cup round-of-16 clash against Mexico.",
@@ -1806,98 +1896,8 @@
                 "source": "RNZ",
                 "date": "2026-07-04T20:44:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. Senator Proposes Memecoin Ban for Elected Officials After Trump's $636M Earnings",
-                "desc": "A renewed ethics fight over President Donald Trump’s cryptocurrency earnings has sharpened as U.S. Senator Kirsten Gillibrand pushes to ban elected officials fr",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/u-s-senator-proposes-memecoin-ban-for-elected-officials-after-trump-s-636m-earnings",
-                "source": "KuCoin",
-                "date": "2026-07-04T20:42:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pope Leo visits US Ambassador to the Holy See for the Fourth of July",
-                "desc": "Commemorating the Fourth of July that marks the 250th anniversary of the founding of the United States of America, Pope Leo XIV visits the US ...",
-                "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/04/af7855a5-3f9b-4483-8c82-f5bae758c1d4.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-                "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-xiv-fourth-4th-of-july-2026-250-usa-ambassador-holy-see.html",
-                "source": "Vatican News",
-                "date": "2026-07-04T20:33:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya reaffirms ties with Rwanda as it marks Liberation Day celebrations",
-                "desc": "Rwandan High Commissioner Ernest Rwamucyo thanked Kenya for standing alongside Rwanda throughout its transformation, saying the two countries’.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2024/05/kagz.jpeg",
-                "url": "https://eastleighvoice.co.ke/regional/375694/kenya-reaffirms-ties-with-rwanda-as-it-marks-liberation-day-celebrations",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-04T20:14:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
-                "desc": "In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can ‘open a new page of hope’.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a4952731b912-1783190131.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country",
-                "source": "Al Jazeera",
-                "date": "2026-07-04T20:09:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "21 applicants per seat in LU’s 5-yr LLB course",
-                "desc": "Lucknow University UG admissions 2026-27 see intense competition: integrated LLB tops with 21 applicants/seat; BBA 17. Entrance exam July 6-12.",
-                "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-                "url": "https://timesofindia.indiatimes.com/city/lucknow/21-applicants-per-seat-in-lus-5-yr-llb-course/articleshow/132187313.cms",
-                "source": "The Times of India",
-                "date": "2026-07-04T20:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These Australians appear on a ‘bounty wall’ in a Hong Kong museum exhibit",
-                "desc": "Hong Kong’s Museum of History also cites Australia’s foreign interference laws in defence of Beijing’s national security crackdown.",
-                "image": "https://static.ffx.io/images/$zoom_0.5624096819537657%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_890%2C$y_352/t_crop_custom/q_86%2Cf_auto/926c9d75071189912af14c27e7b0e2dabd8cfbf24caf005dffe15631d9abbef7",
-                "url": "https://www.smh.com.au/world/asia/these-australians-appear-on-a-bounty-wall-in-an-hk-museum-exhibit-it-warns-they-ll-be-pursued-for-life-20260610-p605gw.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-04T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘International law is our compass’ in global conflict, UN rights chief tells RFI",
-                "desc": "Speaking to RFI this week, Türk warned that civilians are paying the highest price for the war between Iran, Israel and the United States from worsening repression inside Iran to wider instability across the Middle East .",
-                "image": "https://cdn.modernghana.com/images/content/74202693606-uapctgfsrm-ap25344363322854.jpg",
-                "url": "https://www.modernghana.com/news/1507847/international-law-is-our-compass-in-global-confl.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-04T19:59:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Leaders Know UAE Backs Massacres in Sudan. Stopping Them Would Be Too Costly.",
-                "desc": "The Emirates’ promised $1.4 trillion investment in the US appears to be incentivizing Washington to look the other way.",
-                "image": "https://truthout.org/app/uploads/2026/07/GettyImages-2281259162-scaled.jpg",
-                "url": "https://truthout.org/articles/us-leaders-know-uae-backs-massacres-in-sudan-stopping-them-would-be-too-costly/",
-                "source": "Truthout",
-                "date": "2026-07-04T19:49:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/07/04/6a4961a3b59dc1783194019.jpg",
-                "url": "https://techreviewafrica.com/news/6177/former-vice-president-of-nigeria-engages-global-leaders-at-hamburg-sustainability-conference",
-                "source": "Tech Review Africa",
-                "date": "2026-07-04T19:44:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A politically charged holiday: The US celebrates its 250th anniversary",
-                "desc": "The semiquincentennial has been meet with controversy, as President Trump seeks to exert influence over the celebration.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a493a1801001-1783183896.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary",
-                "source": "Al Jazeera",
-                "date": "2026-07-04T19:43:35Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-05T13:40:39.171523Z"
+    "lastGlobalSync": "2026-07-05T14:00:38.271077Z"
 }
