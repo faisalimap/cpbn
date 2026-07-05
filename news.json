@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "'Eggciting' news: Orillia man cracks record at U.S. egg-eating contest",
+                "desc": "'For the rest of the weekend I got to be a celebrity around the campus which was fun,' says good egg who is also a personal trainer, fitness instructor at rec centre",
+                "image": "https://www.vmcdn.ca/f/files/orilliamatters/images/charity/20260629eggeaterjohnathanclark2.jpeg;w=1200;h=800;mode=crop",
+                "url": "https://www.orilliamatters.com/local-news/eggciting-news-orillia-man-cracks-record-at-us-egg-eating-contest-12486282",
+                "source": "OrilliaMatters.com",
+                "date": "2026-07-04T18:35:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crypto already owns the trade",
+                "desc": "SPCX enters the Nasdaq-100 on July 7 with $4.3B in passive buying. Inside the tokenized shares, pre-IPO perps, and 18,712 BTC behind the trade.",
+                "image": "https://media.crypto.news/2026/06/Elon-Musk1.webp",
+                "url": "https://crypto.news/spacex-joins-nasdaq-100-crypto-already-owns-the-trade/",
+                "source": "Crypto News",
+                "date": "2026-07-04T18:31:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Will the RBNZ 'get a hike under the belt' or 'give the economy breathing room?'",
+                "desc": "Bank economists divided on whether the Reserve Bank will increase the Official Cash Rate on July 8 after May's close call",
+                "image": "https://www.interest.co.nz/sites/default/files/2024-02/rbnz-reserve-bank.jpg",
+                "url": "https://www.interest.co.nz/economy/139251/bank-economists-divided-whether-reserve-bank-will-increase-official-cash-rate-july-8",
+                "source": "Interest.co.nz",
+                "date": "2026-07-04T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold prices rise EGP 135 over past week as global rally lifts local market",
+                "desc": "Gold prices in Egypt recorded a strong weekly increase, supported by a sharp rally in international bullion markets after weaker-than-expected US labour market data fuelled expectations that the US Federal Reserve could adopt a less restrictive monetary policy, according to a technical report issued by online gold and jewellery trading platform iSagha. The report showed",
+                "image": "https://images.dailynewsegypt.com/2026/07/ذهب.jpg",
+                "url": "https://www.dailynewsegypt.com/2026/07/04/gold-prices-rise-egp-135-over-past-week-as-global-rally-lifts-local-market/",
+                "source": "Dailynewsegypt",
+                "date": "2026-07-04T18:28:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic launches Claude Science in public beta: a workbench for scientists",
+                "desc": "Anthropic has put Claude Science into public beta, and it’s available now. The pitch is bigger than “here’s a model for researchers.” Anthropic is fra",
+                "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/07/anthropic-launches-claude-science-in-public-beta-a-workbench-20260704.jpg",
+                "url": "https://en.softonic.com/articles/anthropic-launches-claude-science-in-public-beta-a-workbench-for-scientists",
+                "source": "en.softonic.com",
+                "date": "2026-07-04T18:22:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Higher-for-Longer Rates Are a Gift for Life Insurers. MetLife and Prudential Are Cashing In.",
+                "desc": "The life insurance business model will be a big winner if rates stay high or rise even further.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876237%2F23_11_28-a-person-sitting-across-a-desk-from-two-people-in-a-negotiation-_mf-dload-gettyimages-1477040217-1281x800-141e56b.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/04/higher-for-longer-rates-are-a-gift-for-life-insure/",
+                "source": "The Motley Fool",
+                "date": "2026-07-04T18:19:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK scientists test whether food waste could become a natural rival to synthetic vitamin C",
+                "desc": "Fruit and vegetable material can lose up to 60% of its vitamins and minerals during processing.",
+                "image": "https://s.yimg.com/lo/mysterio/api/d0478d1076b14555cc0852400058fa9303e471e73575723ae670aa34c31b3fdc/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F97b5bed7227c8f1933e7e9a5cad2cd0c",
+                "url": "https://www.yahoo.com/news/science/articles/uk-scientists-test-whether-food-181800301.html",
+                "source": "Yahoo",
+                "date": "2026-07-04T18:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian firms see relief as easing Middle East crisis cuts oil prices",
+                "desc": "The easing of geopolitical tensions in the Middle East and the fall in global crude oil prices have brightened the outlook for Ni",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/02/NESG-1.jpg",
+                "url": "https://businessday.ng/companies/article/nigerian-firms-see-relief-as-easing-middle-east-crisis-cuts-oil-prices/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-04T18:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin retakes $63,000, reversing end-June losses",
+                "desc": "The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/9671b1d7488457d9192370d402ecbdd3c3ea9589-4452x2504.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+                "source": "CoinDesk",
+                "date": "2026-07-04T18:10:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A plan to freeze the creator's Bitcoin sparks fierce debate over crypto rules",
+                "desc": "Industry leaders warn that locking up Satoshi Nakamoto's wallet crosses a dangerous line and goes against the foundational ethos of digital assets.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/58eab2c21500ffeaf7befff78c12ae0576153044-3721x2093.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+                "source": "CoinDesk",
+                "date": "2026-07-04T18:00:46Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Drivers urged to fill up on petrol and diesel before Monday - here's why",
                 "desc": "The Met Office has forecast a return to hot weather starting on Sunday and peaking on Monday",
                 "image": "https://i2-prod.liverpoolecho.co.uk/article34238285.ece/ALTERNATES/s1200d/0_Petrol-pump-filling-nozzles.jpg",
@@ -542,99 +632,72 @@
                 "source": "Chronicle Live",
                 "date": "2026-07-04T14:58:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A New Era at the Federal Reserve?",
-                "desc": "Scholars propose reforms to help the Federal Reserve better achieve its mandate.",
-                "image": "https://www.theregreview.org/wp-content/uploads/2026/07/7.4seminar1354774187.jpg",
-                "url": "https://www.theregreview.org/2026/07/04/seminar-a-new-era-at-the-federal-reserve/",
-                "source": "The Regulatory Review",
-                "date": "2026-07-04T14:55:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US brands unveil patriotic deals and snacks for America’s 250th",
-                "desc": "Brands from Steak ‘n Shake to Dunkin’ are leaning into America’s 250th with patriotic deals, limited-edition snacks and red, white and blue collectibles.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/america-250-oreo-and-eagle-cups-dunkin.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/lifestyle/us-brands-go-patriotic-17-76-burger-deals-eagle-cups-americas-250th",
-                "source": "Fox Business",
-                "date": "2026-07-04T14:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Stocks to Buy on the AI Infrastructure Sell-Off",
-                "desc": "Nvidia, AMD, and Micron look like good buys on this pullback.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876779%2Fgettyimages-1461323126.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/04/3-stocks-to-buy-on-the-ai-infrastructure-sell/",
-                "source": "The Motley Fool",
-                "date": "2026-07-04T14:48:31Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Huawei Reveals Hybrid Bonding Process For The Kirin 2026’s 3D Stacking Design In New Paper To Intensify Competition; Perks Include Better Efficiency & Bandwidth",
-                "desc": "A new paper reveals how Huawei plans to increase competition by introducing hybrid bonding to the Kirin 2026 for 3D stacking purposes",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Kirin-2026.jpg",
-                "url": "https://wccftech.com/huawei-kirin-2026-paper-shows-hybrid-bonding-for-3d-stacking-to-boost-competition/",
-                "source": "Wccftech",
-                "date": "2026-07-04T14:40:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scope Ratings assigns AA- long -term ratings to the Republic of Iceland with Stable Outlook",
-                "desc": "Scope Ratings has assigned the Icelandic Treasury an AA- credit rating in domestic and foreign currencies with a stable outlook. Scope Ratings is a European credit rating agency that assesses Iceland's creditworthiness for the first time. The company began assessing sovereign creditworthiness in 2017 and has since grown and issued ratings for 38 countries. Scope is the only company of its kind in Europe that is recognized within the European Central Bank's rating framework.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/04/1124770.jpg",
-                "url": "https://www.manilatimes.net/2026/07/04/tmt-newswire/globenewswire/scope-ratings-assigns-aa-long-term-ratings-to-the-republic-of-iceland-with-stable-outlook/2378451",
-                "source": "The Manila Times",
-                "date": "2026-07-04T14:39:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indra Nooyi: Indra Nooyi's statements spark backlash among Indian women professionals",
-                "desc": "Women News: Indra Nooyi, former CEO of PepsiCo, ignites controversy over her remarks about leadership and meritocracy in India, facing backlash from Indian women professionals who highlight the achievements of female leaders in the country.",
-                "image": "https://static.toiimg.com/thumb/msid-132183065,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/women/would-never-become-a-ceo-if-i-worked-in-india-why-former-pepsico-ceo-indra-nooyis-remarks-are-not-going-down-well-with-indian-working-women/articleshow/132183053.cms",
-                "source": "The Times of India",
-                "date": "2026-07-04T14:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VinFast honored for investor relations excellence at the Asian Excellence Awards 2026",
-                "desc": "HONG KONG SAR - Media OutReach Newswire - 4 July 2026 - At the Asian Excellence Awards 2026 ceremony held in Hong Kong, VinFast was recognized with three prestigious awards,...",
-                "image": "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png",
-                "url": "https://www.malaymail.com/news/money/mediaoutreach/2026/07/04/vinfast-honored-for-investor-relations-excellence-at-the-asian-excellence-awards-2026/474483",
-                "source": "Malay Mail",
-                "date": "2026-07-04T14:33:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NOBLE Becomes First Major Police Group to Endorse Clarity Act",
-                "desc": "For years, the go-to argument against crypto regulation has been a simple one: digital assets help criminals. Now, the National Organization of Black Law Enforc",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/noble-becomes-first-major-police-group-to-endorse-clarity-act",
-                "source": "KuCoin",
-                "date": "2026-07-04T14:33:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kumaraswamy meets founders of Ather, River and other EV startups as industry seeks PM E-DRIVE extension, PLI Auto revision",
-                "desc": "Founders of Ather Energy, Matter, River, Euler Motors and Raptee.HV urged the Centre to extend PM E-DRIVE scheme and revise PLI Auto scheme, saying the changes would help new-age EV companies scale manufacturing, boost exports and compete globally.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260704135549_kumaranna.jpg",
-                "url": "https://www.moneycontrol.com/news/business/startup/kumaraswamy-meets-founders-of-ather-river-and-other-ev-startups-as-industry-seeks-pm-e-drive-extension-pli-auto-revision-13966119.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-04T14:32:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Has the rising cost of airfare changed your plans about flying somewhere this summer?",
-                "desc": "Canadians continue to hop on board airplanes this summer even as ticket prices remain well above last year’s levels — despite a recent drop in fuel costs.",
-                "image": "https://www.castanet.net/content/2026/7/large/screen_shot_2026-07-03_at_4.46.05_pm_p4291764.jpg",
-                "url": "https://www.castanet.net/news/Poll/623062/Has-the-rising-cost-of-airfare-changed-your-plans-about-flying-somewhere-this-summer-",
-                "source": "Castanet",
-                "date": "2026-07-04T14:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Formentera Fashion Takes Center Stage in Sant Francesc at the 18th Formentera Fashion Runway",
+                "desc": "The 18th Formentera Fashion Runway brought together ten local brands in Sant Francesc, showcasing sustainable fashion, artisan craftsmanship and Mediterranean-i",
+                "image": "https://www.diariodeibiza.com/ep-contenido/files/2026/07/formentera-fashion-1080x719.webp",
+                "url": "https://www.diariodeibiza.com/news/formentera-fashion-takes-center-stage-sant-francesc-18th-formentera-fashion-runway/",
+                "source": "Ibiza Daily News",
+                "date": "2026-07-04T18:34:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I removed a mesh node and my Wi-Fi got faster, not slower",
+                "desc": "Building a mesh router system isn't a number's game.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/google-nest-wifi-pro-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/i-removed-mesh-node-my-wi-fi-got-faster/",
+                "source": "MakeUseOf",
+                "date": "2026-07-04T18:30:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"I Almost Left Sony Over That One\" - Meet The Unreleased PlayStation Pad With A PS1 Inside",
+                "desc": "\"Sony licensing couldn't get their act together about the royalty terms\" - Sony almost crammed a PlayStation inside a DualShock controller, it has been revea...",
+                "image": "https://images.timeextension.com/009e751275599/large.jpg",
+                "url": "https://www.timeextension.com/news/2026/07/i-almost-left-sony-over-that-one-meet-the-unreleased-playstation-pad-with-a-ps1-inside",
+                "source": "Time Extension",
+                "date": "2026-07-04T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Speaker Series Succeeds the Oberon",
+                "desc": "With SONIK, DALI is introducing a new speaker series featuring seven models, hybrid tweeters, SMC technology, and prices starting at 498 euros per pair.",
+                "image": "https://stereoguide.com/wp-content/uploads/2026/07/DALI-SONIK-Lifestyle-Surround-02.jpg",
+                "url": "https://stereoguide.com/guides/news/dali-sonik-new-speaker-series-aims-to-continue-the-oberons-success-story/",
+                "source": "stereoguide.com",
+                "date": "2026-07-04T18:13:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Only iPhone 15 Pro and Newer Will Get Apple’s New Siri AI This Fall",
+                "desc": "Apple confirmed at WWDC 2026 that its long-delayed Siri AI will launch with iOS 27 this fall, but only on iPhones that support Apple…",
+                "image": "https://img.biggo.com/cmgCfjJXrzSs4gMmISc2MPp2As2M5Ei9RDzDneX35wc/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzJkZGRhMzRlLWNkOTctNGQwYi04Yjc4LTgzNzc4ZTI0MTU4ZV8xNzgzMTg4ODgyX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/2ddda34e-cd97-4d0b-8b78-83778e24158e",
+                "source": "finance.biggo.com",
+                "date": "2026-07-04T18:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The five hidden pitfalls of fitness tracking",
+                "desc": "Experts say fitness trackers often privilege steps over strength, rest and context, which can leave some users with a distorted view of health.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/man-checking-smart-watch-generic-YSZQIQOHRRHN3A3ERFK4UQKMKM.jpg?auth=3288da474b63a2b50d6904083dd58bd902e85948813533fa5f40743c13db9065&quality=70&width=600&height=315&focal=620%2C228",
+                "url": "https://www.1news.co.nz/2026/07/05/the-five-hidden-pitfalls-of-fitness-tracking/",
+                "source": "1News",
+                "date": "2026-07-04T18:03:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scientists Just Unlocked an Endless Army of Cancer-Fighting Cells",
+                "desc": "The human immune system has evolved an incredible ability to fight off cancerous cells.",
+                "image": "https://www.sciencealert.com/images/2026/07/CancerAttack.jpg",
+                "url": "https://www.sciencealert.com/scientists-just-unlocked-an-endless-army-of-cancer-fighting-cells",
+                "source": "ScienceAlert",
+                "date": "2026-07-04T18:02:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "YMTC SSDs Ship With Global Lenovo Laptops for the First Time",
                 "desc": "According to a new review of the ThinkBook 14 G9 from Notebookcheck, Lenovo has started shipping its global laptop configurations with SSDs made by YMTC for the first time. This is significant news, considering that SSD prices have been skyrocketing in recent months due to a massive shortage of NAND...",
@@ -1201,72 +1264,54 @@
                 "source": "CNET",
                 "date": "2026-07-04T14:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Z Fold 8 prices have leaked, and what are we doing?",
-                "desc": "Peak ironic comedy. That’s how I’d describe leaked prices for the Galaxy Z Fold 8 series, as Samsung’s all-new “Wide”...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/04/samsung-galaxy-z-fold-8-price-leak/",
-                "source": "9to5Google",
-                "date": "2026-07-04T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yesterday’s Technology, Re-engineered Today",
-                "desc": "Watching [sprite_tm]’s build of a handheld 486-based gaming computer, we got to thinking about retro computers and the eternal questions of how much of the computer needs to be actually “old” fo...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/retroedition_featured.png",
-                "url": "https://hackaday.com/2026/07/04/yesterdays-technology-re-engineered-today/",
-                "source": "Hackaday",
-                "date": "2026-07-04T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stop Chasing the Latest AI Models: They're Rarely Worth Your Time or Money",
-                "desc": "Unless you're coding or stress-testing benchmarks, the \"latest and greatest\" usually won't change how you use AI.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/opinion/s/stop-chasi/stop-chasing-the-latest-ai-models-theyre-rarely-worth-your-t_b2nm.1200.png",
-                "url": "https://au.pcmag.com/ai/118614/stop-chasing-the-latest-ai-models-theyre-rarely-worth-your-time-or-money",
-                "source": "PCMag Australia",
-                "date": "2026-07-04T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fitness apps may leave users feeling ashamed, new study finds",
-                "desc": "Nearly a quarter of negative social media posts about popular fitness apps described feelings of shame, disappointment, or demotivation, according to a 2025 study from University College London and...",
-                "image": "https://www.thenews.com.pk/assets/uploads/2026-07-04/1408085_065902_updates.jpg",
-                "url": "https://www.thenews.com.pk/latest/1408085-fitness-apps-may-leave-users-feeling-ashamed-new-study-finds",
-                "source": "The News International",
-                "date": "2026-07-04T13:54:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The summer hair trend stylish women are wearing",
-                "desc": "The laissez-faire hairstyle is having a renaissance",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/d07998a1-548f-4130-9b6d-4b699d418420.jpg?crop=1.00xw:0.334xh;0,0.0556xh&resize=1200:*",
-                "url": "https://www.harpersbazaar.com/uk/beauty/hair/a71822338/french-fringe-for-summer/",
-                "source": "Harper's BAZAAR",
-                "date": "2026-07-04T13:33:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Watch Ultra 2 Bands Leak: New Colors for 2026",
-                "desc": "Samsung Galaxy Watch Ultra 2 and Watch9 bands just leaked in 60 press images — new colors, Ultra branding, and trail-ready designs ahead of July 22, 2026.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Galaxy-Watch-Ultra-2-Bands-Leak-New-Colors-for-2026.jpg",
-                "url": "https://memeburn.com/galaxy-watch-ultra-2-bands-leak/",
-                "source": "Memeburn",
-                "date": "2026-07-04T13:31:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung’s UFS 5.0 storage is here, twice the speed of today’s premium memory",
-                "desc": "A new breakthrough despite (or because of) ongoing memory shortage.",
-                "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/8e93c6c24b0741805c2134306bef47f74aabb2281d34fcd1c10598dd915f0038",
-                "url": "https://www.hardwarezone.com.sg/pc/storage/samsung-ufs-5-0-announced-launch-q4-2026",
-                "source": "HardwareZone",
-                "date": "2026-07-04T13:31:07Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Over 1,000 Sudanese return home from Egypt under ongoing repatriation programme",
+                "desc": "Priority within the programme is being given to vulnerable individuals, particularly the sick and elderly. Some of the cases will be transported by air.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-04-180314.webp",
+                "url": "https://eastleighvoice.co.ke/south-sudan/375653/over-1000-sudanese-return-home-from-egypt-under-ongoing-repatriation-programme",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-04T18:28:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cooperatives, a people-centered form of enterprise aiming social justice",
+                "desc": "TEHRAN - The International Day of Cooperatives is marked every year on July 4. The 2026 theme of the  International Day of Cooperatives, “Cooperatives for a peaceful world”, affirms the contribution of cooperative enterprises to social justice, inclusion and solidarity.",
+                "image": "https://media.mehrnews.com/d/2026/07/04/4/6088190.jpg?ts=1783189460493",
+                "url": "https://www.tehrantimes.com/news/527883/Cooperatives-a-people-centered-form-of-enterprise-aiming-social",
+                "source": "Tehran Times",
+                "date": "2026-07-04T18:25:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
+                "desc": "The visit would mark Netanyahu’s seventh visit to the US since Trump returned to office for a second term as president.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a494196-1783185814.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week",
+                "source": "Al Jazeera",
+                "date": "2026-07-04T18:20:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal",
+                "desc": "The Turkiye leader has repeatedly accused Israel of trying to undermine the US-Iran memorandum of understanding.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4933b3-1783182259.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal",
+                "source": "Al Jazeera",
+                "date": "2026-07-04T18:12:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Satguru Maharaj Ji knocks Ramaphosa over xenophobic violence in South Africa",
+                "desc": "The Nation Newspaper Satguru Maharaj Ji knocks Ramaphosa over xenophobic violence in South Africa",
+                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/07/04185922/IMG_8038.jpeg",
+                "url": "https://thenationonlineng.net/satguru-maharaj-ji-knocks-ramaphosa-over-xenophobic-violence-in-south-africa/",
+                "source": "The Nation Newspaper",
+                "date": "2026-07-04T18:00:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "African conference calls for greater investmen",
                 "desc": "Burundian Vice President Prosper Bazombanza said investing in girls means investing in future generations, noting that the education of girls and women opens doors to knowledge, dignity, and empowerment, enabling them to become essential agents of change within the family, the community, and the entire nation.",
@@ -1851,53 +1896,8 @@
                 "source": "The Moscow Times",
                 "date": "2026-07-04T13:11:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "First American pope marks July 4 on migrant island with plea for ‘compassion and generosity’",
-                "desc": "Pope Leo XIV marked July 4 with an appeal to Americans to welcome and receive immigrants with “compassion and generosity” as he made a visit to the frontlines of the migrant crisis in the Mediterranean.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-04t103201z-522899908-rc2x6maxvbr3-rtrmadp-3-pope-italy-lampedusa.JPG?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/04/europe/pope-italy-migrants-us-intl",
-                "source": "CNN",
-                "date": "2026-07-04T12:58:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump aims to right the ship on America’s 250th birthday",
-                "desc": "From a reflecting pool turned green with algae to cancelled acts and sparse attendance, a string of setbacks has dogged the president’s vision",
-                "image": "https://www.theglobeandmail.com/resizer/v2/O4KVFX6P6RGA3FE4NU62CI42FE.JPG?auth=496115b4123ca4bd4a7f6a96a0f348f13c18730408209baf08dddb8811bebf09&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/us-politics/article-trump-aims-to-right-the-ship-on-americas-250th-birthday/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-04T12:57:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A trip to India left me with 38 parasites in my brain",
-                "desc": "A UK woman suffered headaches, seizures and psychosis years after an India trip.",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/89625548-64d5-4a5e-a310-a802c20c4643.webp?1783211425213",
-                "url": "https://www.the-star.co.ke/news/world/2026-07-04-a-trip-to-india-left-me-with-38-parasites-in-my-brain",
-                "source": "the-star.co.ke",
-                "date": "2026-07-04T12:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DRC Emerges as Largest Transit Cargo Market for Tanzania Ports",
-                "desc": "Official port statistics show that cargo destined for or originating from the DRC through the Port of Dar es Salaam and Tanga increased from 4,180,902 tonnes in 2024 to 7,239,741 tonnes in 2025, representing a 73.2 percent increase.",
-                "image": "https://thechanzo.com/wp-content/uploads/2023/08/Bandari-1.jpeg",
-                "url": "https://thechanzo.com/2026/07/04/drc-emerges-as-largest-transit-cargo-market-for-tanzania-ports/",
-                "source": "The Chanzo",
-                "date": "2026-07-04T12:50:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tom Kean got months of paid sick leave - after voting against it for others",
-                "desc": "The congressman spent four months mysteriously away from work, but he doesn’t seem to think his constituents should get mandated sick days",
-                "image": "https://i.guim.co.uk/img/media/44a42e3567a703d633c1fdc418f9067a001d1282/588_0_5423_4339/master/5423.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1776d7a7954ec1a5a7de753997f4dae6",
-                "url": "https://www.theguardian.com/commentisfree/2026/jul/04/tom-kean-jr-sick-leave-mental-health-depression",
-                "source": "The Guardian",
-                "date": "2026-07-04T12:47:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-05T06:00:40.001932Z"
+    "lastGlobalSync": "2026-07-05T06:40:41.750835Z"
 }
