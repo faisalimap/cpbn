@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Unmanned autonomous systems: How naval warfare is poised for a major transformation",
+                "desc": "International News: The Indian Navy’s recent Request for Information (RFI) for Tactical Multi-Copter Surveillance Drones marks a significant step to further integrate unm.",
+                "image": "https://static.toiimg.com/thumb/msid-132181834,width-1280,height-720,imgsize-104004,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/defence/international/unmanned-autonomous-systems-how-naval-warfare-is-poised-for-a-major-transformation/articleshow/132181789.cms",
+                "source": "The Times of India",
+                "date": "2026-07-04T12:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BYD Seal 08 hits 65,000 orders in just over 30 hours with 694 hp dual motors",
+                "desc": "Initial customer bookings for the new BYD Seal 08 sedan accelerated despite cell manufacturing output limitations.",
+                "image": "https://carnewschina.com/wp-content/uploads/2026/07/e6af94e4ba9ae8bfaae6b5b7e8b1b908e78886e58d95e58f8ae4baa4e4bb98e997aee9a298-scaled_webhook_1200x720_q85_1783168662.jpg",
+                "url": "https://carnewschina.com/2026/07/04/byd-seal-08-flagship-sedan-sales-production/",
+                "source": "CarNewsChina.com",
+                "date": "2026-07-04T12:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Powering TZ’s future through strategic energy investment, infrastructure growth",
+                "desc": "DAR ES SALAAM: TANZANIA’S ambition to become a middle-income, industrialised economy is anchored on one critical foundation: reliable, affordable, and sustainable energy. Without sufficient electricity to power industries, support businesses, and meet household demand, economic transformation remains constrained. As a result, energy development has become one of the country’s most strategic national priorities. Over the …",
+                "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/Capture-1.png",
+                "url": "https://dailynews.co.tz/powering-tzs-future-through-strategic-energy-investment-infrastructure-growth/",
+                "source": "dailynews.co.tz",
+                "date": "2026-07-04T12:35:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wisconsin residents sue Microsoft over noise caused by new data center",
+                "desc": "Residents have also complained the area has become a ‘dust bowl’ due to construction",
+                "image": "https://static.independent.co.uk/2026/07/03/18/51/Microsofts-Fairwater-data-center.jpeg?trim=0,4,0,4&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/wisconsin-microsoft-data-center-lawsuit-noise-b3008643.html",
+                "source": "The Independent",
+                "date": "2026-07-04T12:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over 842,000 without power across the country as US is blanketed by heatwave",
+                "desc": "As America begins to celebrate its 250th birthday on Saturday, there are nearly 1 million outages being reported across multiple states.",
+                "image": "https://i.abcnewsfe.com/a/63bd3121-e50a-4e2f-8d54-012a36126911/us-heatwave-america-250_1783161612353_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/US/1-million-power-country-us-blanketed-heatwave/story?id=134467508",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-04T12:34:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New-Gen Toyota Hilux India Launch Confirmed For 28 July",
+                "desc": "Toyota has confirmed that the new-generation Hilux will be launched in India on 28 July. The updated lifestyle pickup is expected to bring sharper styling, a more premium cabin, and additional features.",
+                "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/223184/new-hilux-exterior-left-front-three-quarter.jpeg?isig=0&isig=0&art=1&q=80",
+                "url": "https://www.carwale.com/news/new-gen-toyota-hilux-india-launch-confirmed-for-28-july/",
+                "source": "CarWale",
+                "date": "2026-07-04T12:31:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rs 15 Lakh Japanese SUV Gets Hummer",
+                "desc": "Want the Hummer experience and crabwalk around the road, but don't want to break your bank? Here's something for you - Maruti Jimny Modified",
+                "image": "https://motoroctane.com/wp-content/uploads/2026/07/Maruti-Jimny-Modified-2.jpg",
+                "url": "https://motoroctane.com/news/316907-rs-15-lakh-japanese-suv-gets-hummer-like-feature",
+                "source": "MotorOctane",
+                "date": "2026-07-04T12:30:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla limits employee AI spending (TSLA:NASDAQ)",
+                "desc": "Tesla (TSLA) stock is in focus as the company plans to cap employee AI tool spending at $200/week starting Monday. Read more here.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w630",
+                "url": "https://seekingalpha.com/news/4611500-tesla-limits-employee-ai-spending",
+                "source": "Seeking Alpha",
+                "date": "2026-07-04T12:29:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NAICOM tasks NIA to rebuild trust, expand insurance coverage",
+                "desc": "The Nation Newspaper NAICOM tasks NIA to rebuild trust, expand insurance coverage",
+                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2025/10/17035528/NAICOM.png",
+                "url": "https://thenationonlineng.net/naicom-tasks-nia-to-rebuild-trust-expand-insurance-coverage/",
+                "source": "The Nation Newspaper",
+                "date": "2026-07-04T12:29:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NAICOM tasks NIA to expand insurance access to 100m Nigerians",
+                "desc": "The Commissioner for Insurance and Chief Executive Officer of the National Insurance Commission (NAICOM), Olusegun Omosehin, has charged the Nigerian Insurers Association (NIA) to expand insurance penetration by reaching more than 100 million Nigerians who have never owned an insurance policy.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2025/08/NAICOM.jpg",
+                "url": "https://thesun.ng/naicom-tasks-nia-to-expand-insurance-access-to-100m-nigerians/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-04T12:27:17Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Justice Ashok Bhushan demits office as NCLAT Chairperson after nearly five-year tenure",
                 "desc": "Justice Ashok Bhushan is set to demit office of the Chairperson of the National Company Law Appellate Tribunal.",
                 "image": "https://cf-images.assettype.com/barandbench%2F2021-10%2F368597ad-73d5-4bf6-bf74-0190d973e161%2F21.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
@@ -542,99 +632,99 @@
                 "source": "Yahoo",
                 "date": "2026-07-04T00:46:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Future of Sneaky Dee's appears safe after proposal to redevelop land withdrawn",
-                "desc": "A proposed development which had threatened the future of an iconic downtown restaurant and dive bar is no longer moving forward.",
-                "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/03/sneaky-dees-3.jpg",
-                "url": "https://toronto.citynews.ca/2026/07/03/future-of-sneaky-dees-appears-safe-after-proposal-to-redevelop-land-withdrawn/",
-                "source": "CityNews Toronto",
-                "date": "2026-07-04T00:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Melbourne auction clearance rates reflect investor exodus, property experts say",
-                "desc": "With clearance rates in Melbourne sitting just above 50 per cent, experts say sluggish sales show investors have lost trust in bricks and mortar.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/2369b6532f993df84f7dd3af7a2b9335?impolicy=wcms_watermark_news&cropH=2811&cropW=4997&xPos=1&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-04/melbourne-property-auction-clearance-rates-reflect-exodus/106862748",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-04T00:38:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "farming heartland poised for rebirth of Katanning Gold Project",
-                "desc": "The rebirth of the mothballed Badgebup Gold Mine is expected to bring new industry and inject hundreds of workers into one of WA's premier farming regions.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/995151b4be12affd0a49b66fdb9bc5e8?impolicy=wcms_watermark_news&cropH=2304&cropW=4096&xPos=0&yPos=384&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/rural/2026-07-04/wa-farming-heartland-poised-for-rebirth-of-katanning-mine/106865612",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-04T00:37:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Repositioning for sustainable returns + the feud at Talam",
-                "desc": "The unprecedented blockage of the Strait of Hormuz, which cut off roughly 20% of the world’s oil supply, influenced much of the first half of 2026, stoking fears of a prolonged global energy crisis that would weigh on corporate earnings and global economic growth.",
-                "image": "https://assets.theedgemarkets.com/TEM_Weekly_Highlights_1634.jpg",
-                "url": "https://theedgemalaysia.com/node/809395",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-04T00:37:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn",
-                "desc": "City’s net employment outlook for third quarter plunges to minus 9 per cent, 20 percentage points lower than previous quarter, ManpowerGroup reveals.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/29/668e1a62-b5c7-4ff6-94f2-f02792fec91c_be81580d.jpg?itok=pVff6R2a&v=1782737261",
-                "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358791/hong-kong-graduates-crossroads-ai-takes-over-entry-level-jobs-experts-warn",
-                "source": "South China Morning Post",
-                "date": "2026-07-04T00:30:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Welcome to the Mark Carney major projects sweepstakes",
-                "desc": "You get a port! And you get a tunnel! And everybody gets a pipeline, whether or not they want one!",
-                "image": "https://www.theglobeandmail.com/resizer/v2/2LQJA2D2NZGATAFCJQUJ74SZPQ.JPG?auth=158a22d6442cf4b3282b288b60cc90a796f21f8290efa96445d28abf97729bb7&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/politics/opinion/article-welcome-to-the-mark-carney-major-projects-sweepstakes/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-04T00:24:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thousands of customers affected by widespread power outages in Halifax area amid heat wave",
-                "desc": "Thousands of Nova Scotia Power customers lost electricity on Friday night. Nova Scotia Power says there was a transmission interruption just before 8 p.m. Electricity is estimated to be restored around midnight.",
-                "image": "https://i.cbc.ca/ais/1.7545221,1763496300732/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/nova-scotia/power-outages-reported-in-halifax-amid-heat-warning-9.7258329",
-                "source": "CBC",
-                "date": "2026-07-04T00:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TikTok Shop brings top K-Beauty brands to Filipino shoppers",
-                "desc": "TikTok Shop brings top K-Beauty brands to Filipino shoppers — Daily Tribune",
-                "image": "https://images.assettype.com/tribune/2026-07-04/837fv9if/KBeauty-CampaignKV.jpg?w=1200&auto=format",
-                "url": "https://tribune.net.ph/2026/07/04/tiktok-shop-brings-top-k-beauty-brands-to-filipino-shoppers",
-                "source": "Daily Tribune",
-                "date": "2026-07-04T00:18:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NNPC Begins Evaluation of Chinese Refinery Partnership Deal",
-                "desc": "NNPC is evaluating a partnership with Chinese firms to rehabilitate Port Harcourt and Warri refineries, aiming for profitable, self-sustaining operations.",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/NNPCL.webp",
-                "url": "https://punchng.com/nnpc-begins-evaluation-of-chinese-refinery-partnership-deal/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-04T00:15:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CIPM Tasks Employers on Workforce Transformation, Value Crea",
-                "desc": "CIPM urges organisations to rethink workforce structures and prioritise human capital development to remain competitive and create long-term value amidst e",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/CIPM.webp",
-                "url": "https://punchng.com/cipm-tasks-employers-on-workforce-transformation-value-creation/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-04T00:14:48Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "JMGO Offers Special Savings on 4K Projectors Ahead of the Tournament Final",
+                "desc": "SHENZHEN, China, July 4, 2026 /PRNewswire/ -- As the tournament reaches its final stage, JMGO is offering limited-time savings on its award-winning 4K projector lineup through July 19. Featuring the N3 Ultimate, N1S 4K and N1S Ultimate, the promotion gives sports fans an easy way to enjoy every goal, replay and celebration on an immersive big screen with vibrant triple-laser visuals and effortless setup. The offers are available through the JMGO Webstore and on Amazon.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/04/1124658.jpg",
+                "url": "https://www.manilatimes.net/2026/07/04/tmt-newswire/pr-newswire/jmgo-offers-special-savings-on-4k-projectors-ahead-of-the-tournament-final/2378405",
+                "source": "The Manila Times",
+                "date": "2026-07-04T12:35:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can Wearing the Hypershell Exoskeleton on a Bike Replace an E-Bike? I Tested Both",
+                "desc": "I’m an out-of-shape cycle enthusiast. I tested the Hypershell exoskeleton on a regular bike versus an e-bike and found a clear winner.",
+                "image": "https://www.cnet.com/a/img/resize/7ce76d6b4af7262032a1ddeaa10c93ff77ca5706/hub/2026/05/19/10e24197-1558-4565-9056-ccd3d20ec4d2/hypershell-vs-ebike-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/roadshow/news/can-wearing-hypershell-exoskeleton-bike-replace-e-bike-i-tested-both/",
+                "source": "CNET",
+                "date": "2026-07-04T12:33:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "breaking' satellite engine can run continuously for 14 hours",
+                "desc": "China's new 750 N telecoms satellite engine marks a significant propulsion milestone after its maiden flight.",
+                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/chinese-satellite-engine.jpg",
+                "url": "https://interestingengineering.com/space/china-satellite-engine-continuous-operation",
+                "source": "Interesting Engineering",
+                "date": "2026-07-04T12:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 things to ask before buying any Amazon, Google, or other smart speaker",
+                "desc": "Don't waste your money.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/06/the-amazon-echo-spot-on-the-home-screen.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/things-ask-buying-amazon-google-other-smart-speaker/",
+                "source": "How-To Geek",
+                "date": "2026-07-04T12:30:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I've worn an Oura Ring for 5 years. The Oura Ring 5 is its finest work yet",
+                "desc": "So good, in fact, I don't know where Oura can go next",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/oura-ring-5-finger-1.JPG?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/oura-ring-5-is-ouras-finest-smart-ring-yet/",
+                "source": "Android Police",
+                "date": "2026-07-04T12:30:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AirPods 4 Make a Fourth of July Comeback at Their Lowest Price of the Year on Amazon, Not at the Apple Store",
+                "desc": "Make everything sound better with this excellent deal.",
+                "image": "https://gizmodo.com/app/uploads/2026/06/airpods-deal-1-1200x675.jpg",
+                "url": "https://gizmodo.com/airpods-4-make-a-fourth-of-july-comeback-at-their-lowest-price-of-the-year-on-amazon-not-at-the-apple-store-2000778845",
+                "source": "Gizmodo",
+                "date": "2026-07-04T12:28:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OnePlus and realme Rumored to Switch to ColorOS Soon",
+                "desc": "A new report claims that OnePlus and realme might stop using OxygenOS and realme UI on their smartphones. According to Smartprix, OPPO is further integrating OnePlus and realme into its ecosystem. The company may combine its three Android interfaces, ColorOS, OxygenOS, and realme UI, into a single platform based on ColorOS. OxygenOS has been used…",
+                "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/06/realme-c100-review-12.png?fit=1200%2C675&ssl=1",
+                "url": "https://manilashaker.com/oneplus-and-realme-rumored-to-switch-to-coloros-soon/",
+                "source": "ManilaShaker Philippines",
+                "date": "2026-07-04T12:27:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft picks 2K Games co-founder to lead Ghost Recon, The Division, and Splinter Cell franchises",
+                "desc": "Ubisoft hires a games industry veteran that had a direct hand in big games like BioShock, Borderlands, XCOM, and more at 2K Games and Take-Two Interactive.",
+                "image": "https://static.tweaktown.com/news/1/1/112467_2_ubisoft-picks-2k-games-co-founder-to-lead-ghost-recon-the-division-and-splinter-cell-under-creative-house-2_full.png",
+                "url": "https://www.tweaktown.com/news/112467/ubisoft-picks-2k-games-co-founder-to-lead-ghost-recon-the-division-and-splinter-cell-franchises/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-04T12:26:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "JMGO Offers Special Savings on 4K Projectors Ahead of the Tournament Final",
+                "desc": "SHENZHEN, China, July 4, 2026 /PRNewswire/ -- As the tournament reaches its final stage, JMGO is offering limited-time savings on its award-winning 4K",
+                "image": "https://aijourn.com/wp-content/uploads/2024/04/cropped-The-AI-Journal-1-32x32.png",
+                "url": "https://aijourn.com/jmgo-offers-special-savings-on-4k-projectors-ahead-of-the-tournament-final/",
+                "source": "The AI Journal",
+                "date": "2026-07-04T12:23:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "30th Anniversary Watch",
+                "desc": "Casio officially unveils the Pokémon x G-SHOCK GA-110PKM-7A watch for the franchise's 30th anniversary at $270 USD, featuring 30 Pokémon.",
+                "image": "https://www.stylerave.com/wp-content/uploads/2026/05/cropped-SR-icon-32x32.png",
+                "url": "https://www.stylerave.com/pokemon-g-shock-ga-110pkm-7a-30th-anniversary/",
+                "source": "Style Rave",
+                "date": "2026-07-04T12:22:30Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Fanfiction Communities Target AI-generated Fanworks and Detection Methods",
                 "desc": "For AI and ML practitioners, the surge in community-built detection efforts highlights tensions between dataset provenance, model outputs, and social harm in creative spaces. The Verge reports that a new fanworks movement has emerged aiming to identify fanfiction written with generative AI, and that community-run detection methods are proliferating but producing questionable results (The Verge, Jul 4, 2026). Reporting shows these efforts can misclassify human authors and create social conflict within fandoms (The Verge). Earlier coverage documents that large language models are trained on scraped fanfiction, Gizmodo reported that **Archive of Our Own (AO3)** and other fan sites have been included in large web crawls used for model training, and Wired has covered related issues such as erotic chatbots and boundary concerns in fandom spaces.",
@@ -1174,99 +1264,99 @@
                 "source": "TechRadar",
                 "date": "2026-07-03T21:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Epomaker Launches NEX Pro Gaming Mouse and HE65 V2 TMR Keyboard",
-                "desc": "After teasing the HE65 V2 in early June, Epomaker has finally released the compact 65% TMR gaming keyboard, making it available in black or white for $99.99 on the Epomaker online shop or at Amazon. The HE65 V2 TMR, as the name suggests, is a 65% TMR keyboard with an 8 kHz polling rate, wireless con...",
-                "image": "https://www.techpowerup.com/img/Z3oACwAftB8Yyb8y.jpg",
-                "url": "https://www.techpowerup.com/350500/epomaker-launches-nex-pro-gaming-mouse-and-he65-v2-tmr-keyboard",
-                "source": "TechPowerUp",
-                "date": "2026-07-03T20:59:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jump On This Nintendo Switch 2 Camera Deal Before July 4 and Save 45%",
-                "desc": "Pick up the Nintendo Switch 2 camera for just $30 before the fireworks are over.",
-                "image": "https://www.cnet.com/a/img/resize/afa3077c6b0326eedbf4e35156b2734118dd047d/hub/2026/07/03/d1124267-a06f-4cdb-a314-829c0943aaa7/nintendo-switch-2-camera.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/july-4-nintendo-switch-2-camera-deal/",
-                "source": "CNET",
-                "date": "2026-07-03T20:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Giant ice sheet reached the Netherlands 1.3 million years earlier than thought",
-                "desc": "Researchers also said the Dutch gravel layers may preserve evidence of major meltwater floods.",
-                "image": "https://s.yimg.com/lo/mysterio/api/49e4f4de77e0d9b17e3b978f8b9e74198fe37a537a58b84350a923aa8342b7fe/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc860ca8f2dae16de1f2e8dd1c91c966f",
-                "url": "https://www.yahoo.com/news/science/articles/giant-ice-sheet-reached-netherlands-205100713.html",
-                "source": "Yahoo",
-                "date": "2026-07-03T20:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung All But Confirms July 22 Galaxy Unpacked Date for Fold 8 and Watch 9",
-                "desc": "Samsung is revving up for its summer hardware blitz, and the evidence is now piling up faster than ever. While the company has remained officially…",
-                "image": "https://img.biggo.com/dlfR3aeYGdfR9f2Xhr13z6vXAPOHFm1BYWfz930X_WA/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzIwMjYwNzAzMjA1MF9TYW1zdW5nLUdhbGF4eS1VbnBhY2tlZC1KdWx5LTIyLUZvbGQtOF8yMDI2MDcwNF8wNTAxNDYuanBn.jpg",
-                "url": "https://finance.biggo.com/news/202607032050_Samsung-Galaxy-Unpacked-July-22-Fold-8",
-                "source": "finance.biggo.com",
-                "date": "2026-07-03T20:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
-                "desc": "In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince, dual small-molecule-controlled genome editing systems that allow CRISPR activity to be switched on by drug inducers and kept largely silent in their absence.",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/small-molecule-switche.jpg",
-                "url": "https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html",
-                "source": "Phys.org",
-                "date": "2026-07-03T20:40:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Preposterous $500 saving on this 65” Samsung S90F OLED TV in Amazon deal",
-                "desc": "Be sure to grab this offer quickly on this terrific OLED TV, which we still think is the best option on the market for most buyers.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Preposterous-500-saving-on-this-65-Samsung-S90F-OLED-TV-in-Amazon-deal.jpg",
-                "url": "https://www.pcguide.com/deals/preposterous-500-saving-on-this-65-samsung-s90f-oled-tv-in-amazon-deal/",
-                "source": "PC Guide",
-                "date": "2026-07-03T20:32:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's latest updates for Chrome extensions are a big boon for privacy",
-                "desc": "A rare privacy win for Chrome users",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/chrome-extension-save-as-png-angle.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/googles-latest-updates-for-chrome-extensions-are-a-big-boon-for-privacy/",
-                "source": "MakeUseOf",
-                "date": "2026-07-03T20:26:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Retake control!' of... video games: French presidential hopeful",
-                "desc": "International, MNA | France's hard-left presidential hopeful Jean-Luc Melenchon, who supports nationalising basic services, came out strongly Friday in favour of property rights... to video games.",
-                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
-                "url": "https://macaubusiness.com/retake-control-of-video-games-french-presidential-hopeful/",
-                "source": "Macau Business",
-                "date": "2026-07-03T20:23:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Survey reveals which older phone you'd choose over a 2026 model",
-                "desc": "We polled our readers on which older phone you’d buy if you weren't buying the latest model, and the results were tight at the top.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-oneplus-13-google-pixel-9a-hero-scaled.jpg",
-                "url": "https://www.androidauthority.com/older-android-phone-2026-poll-results-3684172/",
-                "source": "Android Authority",
-                "date": "2026-07-03T20:19:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hostinger Introduces Coupon Code for First Time Users to Get 20% Off via HostVerify.co",
-                "desc": "San Francisco, CA, July 03, 2026 (GLOBE NEWSWIRE) -- Hostinger remains a premier choice for launching and managing websites globally. To help users minimize setup expenses, HostVerify.co has partnered with Hostinger to offer an exclusive 20% discount for first time users. When accessing Hostinger through the verified promotional links on HostVerify.co, the 20% discount activates automatically at checkout across all web hosting, professional email, and VPS hosting plans. This seamless integration eliminates the need for a manual coupon code while significantly lowering upfront infrastructure costs for individual creators and growing businesses alike.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/04/1124235.png",
-                "url": "https://www.manilatimes.net/2026/07/04/tmt-newswire/globenewswire/hostinger-introduces-coupon-code-for-first-time-users-to-get-20-off-via-hostverifyco/2378289",
-                "source": "The Manila Times",
-                "date": "2026-07-03T20:17:06Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Mali’s army says rebels launch new attacks on towns and cities",
+                "desc": "Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fceee1160c-1778183905.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali",
+                "source": "Al Jazeera",
+                "date": "2026-07-04T12:39:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BBC London's Jo Good returns on air after Bedford train crash",
+                "desc": "Jo Good has been recovering after suffering four broken bones in the train crash on 19 June.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bde5/live/aa1f6130-76fe-11f1-9e14-057377bcce93.jpg",
+                "url": "https://www.bbc.com/news/articles/cp8rpn75gmgo",
+                "source": "BBC",
+                "date": "2026-07-04T12:38:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dark Eagle & HACM: Two U.S. Hypersonic Missile Programs, One Common Problem - Further Delays",
+                "desc": "The United States’ efforts to field operational hypersonic weapons have faced new setbacks, with the US Army’s Long-Range Hypersonic Weapon (LRHW) program and the US Air Force’s Hypersonic Attack Cruise Missile (HACM) both falling further behind schedule. A new Government Accountability Office (GAO) report published on July 2, 2026, states that the US Department of […]",
+                "image": "https://www.eurasiantimes.com/wp-content/uploads/2022/03/Dark-Eagle-hypersonic.png",
+                "url": "https://www.eurasiantimes.com/dark-eagle-hacm-two-u-s-hypersonic-missile-hacm/",
+                "source": "EurAsian Times",
+                "date": "2026-07-04T12:35:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two African warships are set to share the spotlight with the world's strongest navy",
+                "desc": "In light of the United States’ 250th anniversary, representatives from several African countries are poised to take part in the historic event. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/5xJktkuTURBXy9kMDAyOTk2NS05ZWJmLTQ5ZTQtYjEwNS1hOGM1N2E4NDZmOWYuanBlZ5KVAwDMas0NOs0HcpMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/lifestyle/two-african-warships-are-set-to-share-the-spotlight-with-the-worlds-strongest-navy/nt43h25",
+                "source": "Business Insider Africa",
+                "date": "2026-07-04T12:35:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+                "desc": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+                "url": "https://www.bbc.com/news/articles/c8j2vmzxezro",
+                "source": "BBC",
+                "date": "2026-07-04T12:34:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+                "desc": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+                "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro",
+                "source": "BBC",
+                "date": "2026-07-04T12:34:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mayor Parker to hold annual Celebration of Freedom",
+                "desc": "Seven civic leaders will be honored during the City of Philadelphia's Celebration of Freedom ceremony on Saturday.",
+                "image": "https://media.nbcphiladelphia.com/2025/12/cherelle-parker.jpg?quality=85&strip=all&resize=1200%2C675",
+                "url": "https://www.nbcphiladelphia.com/news/local/mayor-cherelle-parker-announces-honorees-of-the-philadelphia-freedom-award/4425469/",
+                "source": "NBC10 Philadelphia",
+                "date": "2026-07-04T12:31:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands of Iranians gather in Tehran to mourn Khamenei",
+                "desc": "Thousands of Iranians crowded an outdoor prayer complex in Tehran to view the coffin of Ayatollah Ali Khamenei, who ruled the Islamic Republic for 37 years before he was killed in February.",
+                "image": "https://www.rte.ie/images/0024a372-1600.jpg",
+                "url": "https://www.rte.ie/news/middle-east/2026/0704/1581758-khamenei-funeral/",
+                "source": "RTE.ie",
+                "date": "2026-07-04T12:28:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Teach For All Opens Global Applications for Remote Media and Editorial Coordinator Position: Applicants From More than 35 Countries Can Apply",
+                "desc": "Global education network Teach For All has announced the recruitment of a Remote Media and Editorial Coordinator, inviting qualified professionals from more",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2025/09/GlobalSouthOpportunities-IconicMark-RGB-FullColor.png?fit=32%2C32&ssl=1",
+                "url": "https://www.globalsouthopportunities.com/2026/07/04/global-160/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-04T12:23:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What the Sahel's Security Crisis Means for Nigeria",
+                "desc": "The security fortunes of Niger, Mali, Burkina Faso and Chad are therefore closely intertwined with Nigeria's.",
+                "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/08/pmnewslogo-75x50.gif",
+                "url": "https://pmnewsnigeria.com/2026/07/04/what-the-sahels-security-crisis-means-for-nigeria/",
+                "source": "PM News Nigeria",
+                "date": "2026-07-04T12:18:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pakistan deputy PM Ishaq Dar under fire over grandson's arrest in gang rape case",
                 "desc": "Ishaq Dar's grandson, Muhammad Raza Dar, was among four men arrested in gang rape of two foreign women in Lahore on June 29.   | World News",
@@ -1806,98 +1896,8 @@
                 "source": "Capitalfm.co.ke",
                 "date": "2026-07-03T23:46:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Albanese targets ‘right-wing parties’ identity crisis",
-                "desc": "On the cusp of parliament’s five-week winter break, Labor insiders are warmed by signs the government has One Nation’s measure, while the Coalition are floundering.",
-                "image": "https://admin.thesaturdaypaper.com.au/sites/default/files/styles/comment/public/2026-07/Bonge%20Albanese%20Labr%20polls%20One%20Nation.jpg.png",
-                "url": "https://www.thesaturdaypaper.com.au/comment/politics/2026/07/03/albanese-targets-right-wing-parties-identity-crisis",
-                "source": "The Saturday Paper",
-                "date": "2026-07-03T23:41:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New report: RSF training camps, supply routes in Libya fuelling Sudan’s war - ‘What we’ve uncovered is really just the tip of the iceberg’",
-                "desc": "Andrew Bergman interviews Klaas van Dijken, Director of Lighthouse Reports for Radio Dabanga The United...",
-                "image": "https://www.dabangasudan.org/wp-content/uploads/2025/10/الفاشر.png",
-                "url": "https://www.dabangasudan.org/en/all-news/article/new-report-rsf-training-camps-supply-routes-in-libya-fuelling-sudans-war-what-weve-uncovered-is-really-just-the-tip-of-the-iceberg",
-                "source": "Dabanga Radio TV Online",
-                "date": "2026-07-03T23:33:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia looks to students to make up for mounting losses in Ukraine",
-                "desc": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/06a1/live/88ce0e80-4dde-11f1-b2c8-65f42a4a3cfa.jpg",
-                "url": "https://www.bbc.com/news/articles/cp8lnnr080go",
-                "source": "BBC",
-                "date": "2026-07-03T23:24:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia looks to students to make up for mounting losses in Ukraine",
-                "desc": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06a1/live/88ce0e80-4dde-11f1-b2c8-65f42a4a3cfa.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go",
-                "source": "BBC",
-                "date": "2026-07-03T23:24:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UNHCR Warns Lake Chad Basin At Tipping Point As Violence, Displacement Surge",
-                "desc": "ABUJA - UNHCR, the UN Refugee Agency, is alarmed that escalating violence across the Lake Chad Basin is driving a sharp increase in forced displacement and insecurity, threatening to reverse recent fragile stabilization across the region. Across the Lake Chad Basin, incorporating swathes of Cameroon, Chad, Niger and Nigeria, more than 3.5 million people are forcibly...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/UNHCR-1.jpg",
-                "url": "https://independent.ng/unhcr-warns-lake-chad-basin-at-tipping-point-as-violence-displacement-surge/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-03T23:17:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A name rejected: Tajik parents face state list dictating what they can call their children",
-                "desc": "DUSHANBE, July 4 — After giving birth, Shakhnoza Nazarova thought registering her daughter’s name would be a mere formality. Instead, her chosen name was rejected—deemed...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/03/349951.jpg",
-                "url": "https://www.malaymail.com/news/life/2026/07/04/a-name-rejected-tajik-parents-face-state-list-dictating-what-they-can-call-their-children/226192",
-                "source": "Malay Mail",
-                "date": "2026-07-03T23:03:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "S. Korean duo held over US$39mil fake cheque",
-                "desc": "TWO South Korean men were arrested after they attempted to deposit a fake cheque amounting to US$39mil (RM158mil) at a bank in Hong Kong's Tsim Sha Tsui district.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/04/3991775.jpeg",
-                "url": "https://www.thestar.com.my/news/nation/2026/07/04/s-korean-duo-held-over-us39mil-fake-cheque",
-                "source": "The Star",
-                "date": "2026-07-03T23:02:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Election 2026: Why more ‘free’ policies could cost New Zealand dearly",
-                "desc": "As the election campaign gets underway, the promises have started coming thick and fast. This time around, we’re hearing a lot about free stuff. The all too...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/OVJJNMWVORFX7BHXOQEHJWASJE.jpg?auth=7d2fa267a6e540504b0e13bdeca34732d9fc437a9923fb0878219ebf30991aa7&width=1200&height=675&quality=70&focal=1025%2C483&smart=false",
-                "url": "https://www.nzherald.co.nz/business/election-2026-why-more-free-policies-could-cost-new-zealand-dearly/premium/G4ZCH7BKURGKVKIVJ3XVSV745Y/",
-                "source": "NZ Herald",
-                "date": "2026-07-03T23:00:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From The Promise Of Independence To The Test Of Constitutionalism: Has Uganda Preserved The Republic Envisioned By Its Founders ?",
-                "desc": "By Hon. J. J. Opondo *",
-                "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/story-8-pic-1-hon.-j.j.-opondo-says-ugandas-future-depends-on-stronger-institutions-constitutional-governance-and-peaceful-democratic-transition.jpg",
-                "url": "https://panafricanvisions.com/2026/07/from-the-promise-of-independence-to-the-test-of-constitutionalism-has-uganda-preserved-the-republic-envisioned-by-its-founders/",
-                "source": "pan african visions",
-                "date": "2026-07-03T22:40:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Islamic State's African Reckoning: From Scattered Insurgencies to a Continental Network",
-                "desc": "For much of the past decade, the Islamic State 39;s African affiliates operated as isolated fires the Sahel burning here, the Lake Chad Basin smoldering there, each insurgency consolidating its own turf with little coordination between them .",
-                "image": "https://cdn.modernghana.com/images/content/732026110651-m6htk8w331-screenshot20260622-2000462.png",
-                "url": "https://www.modernghana.com/news/1507682/the-islamic-states-african-reckoning-from-scatte.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-03T22:30:37Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-05T00:15:03.923280Z"
+    "lastGlobalSync": "2026-07-05T00:40:40.790181Z"
 }
