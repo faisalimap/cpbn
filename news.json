@@ -4,6 +4,24 @@
     "en": {
         "business": [
             {
+                "title": "PSX climbs 3.23% on easing oil, ME de-escalation",
+                "desc": "PSX climbs 3.23% on easing oil, ME de-escalation",
+                "image": "https://i.tribune.com.pk/media/images/41783201835-2/41783201835-2-640x480.webp",
+                "url": "https://tribune.com.pk/story/2616514/psx-climbs-323-on-easing-oil-me-de-escalation",
+                "source": "The Express Tribune",
+                "date": "2026-07-04T21:53:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rolls-Royce Turned A One-Off Phantom Into A Yacht On Wheels",
+                "desc": "Very few brands can produce one car for one person; this type of bespoke service is usually offered by high-luxury brand marques like Rolls-Royce. They have a dedicated department that can make any person's dream Rolls-Royce come true, with the uniqueness of being the only one of that model ...",
+                "image": "https://s.yimg.com/lo/mysterio/api/dbe06546e14f8edb7025e81637e83dd66a2c9f4b08cdaaea59a0322a389b5aa3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fautoblog_arena_articles_145%2Fa670d68f63d9c608eff97bcfa577293f",
+                "url": "https://autos.yahoo.com/classic-and-collector/articles/rolls-royce-turned-one-off-214500254.html",
+                "source": "Yahoo Autos",
+                "date": "2026-07-04T21:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Cooking gas price reduction update in Nigeria",
                 "desc": "The prices of liquefied petroleum gas, known as cooking gas, have continued to fall across parts of Nigeria after weeks of upsurge due to supply",
                 "image": "https://dailypost.ng/wp-content/uploads/2025/10/Cooking-gas.jpg",
@@ -614,27 +632,27 @@
                 "source": "Quiver Quantitative",
                 "date": "2026-07-04T17:33:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Gulf oil exports jump in June on record UAE flows",
-                "desc": "Gulf oil exports in June jumped more than 3 million barrels from May to exceed 10 million barrels per day as the US military helped to keep oil flowing through the Strait of Hormuz, data showed, though exports remained 40 percent below pre-war levels.",
-                "image": "https://www.thedailystar.net/themes/custom/swallow/favicon.ico",
-                "url": "https://www.thedailystar.net/business/global-economy/news/gulf-oil-exports-jump-june-record-uae-flows-4215791",
-                "source": "The Daily Star",
-                "date": "2026-07-04T17:31:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Under-the-Radar AI Energy Stocks to Buy Right Now",
-                "desc": "The massive spending by hyperscalers is creating massive demand for reliable energy solutions.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876928%2Fpower-solutions-battery-storage-wind-turbines-solar-panels-getty.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/04/3-under-the-radar-ai-energy-stocks-to-buy-now/",
-                "source": "The Motley Fool",
-                "date": "2026-07-04T17:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Apple's Hide My Email feature leaks real addresses, bug unpatched for over a year",
+                "desc": "A critical vulnerability in Apple's Hide My Email service has been discovered that can expose users' real email addresses, and the company has…",
+                "image": "https://img.biggo.com/46oFUfxOdGvqFhjncqDJ3cEWa7MWuGFMfBOts47snf8/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzIwMjYwNzA0MjE1MF9BcHBsZV9IaWRlX015X0VtYWlsX2xlYWtzX3JlYWxfZW1haWxfYWRkcmVzc2VzX2J1Z191bnBhdGNoZWRfMjAyNjA3MDVfMDYwMTQ1LmpwZw.jpg",
+                "url": "https://finance.biggo.com/news/202607042150_Apple_Hide_My_Email_leaks_real_email_addresses_bug_unpatched",
+                "source": "finance.biggo.com",
+                "date": "2026-07-04T21:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Audiokit Pro King of Digital D1: vintage digital synth app gets major free 1.7 update",
+                "desc": "AudioKit King of Digital is a new iOS AUv3 synth app that takes you back to the sounds of famous vintage digital synthesizers.",
+                "image": "https://synthanatomy.com/wp-content/uploads/2023/11/Audiokit-Pro-King-of-Digital-D1-1.7.jpg",
+                "url": "https://synthanatomy.com/2026/07/audiokit-king-of-digital-a-vintage-digital-synth-celebration-in-a-new-ios-app.html",
+                "source": "synth anatomy",
+                "date": "2026-07-04T21:44:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "New Steam Machine rival offers a Ryzen 9 CPU and RX 7600 XT for $849, but you have to bring your own RAM",
                 "desc": "AOOSTAR's GODY mini PC undercuts the Steam Machine with a Ryzen 9 CPU and RX 7600 XT GPU for $849, but there's a big catch: it doesn't have RAM.",
@@ -1246,27 +1264,36 @@
                 "source": "Dawn",
                 "date": "2026-07-04T16:38:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Steam Machine Has Its Own ‘Red Ring Of Death’",
-                "desc": "History doesn’t always repeat itself, but it often rhymes, as one Steam Machine owner discovered a familiar fatal error alert",
-                "image": "https://kotaku.com/app/uploads/2026/07/redring-1200x675.jpg",
-                "url": "https://kotaku.com/the-steam-machine-has-its-own-red-ring-of-death-2000712587",
-                "source": "Kotaku",
-                "date": "2026-07-04T16:30:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I cut my Bambu printer off from Bambu's cloud and lost exactly two features",
-                "desc": "I finally own the printer I paid for.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/orcaslicer-running-on-windows-laptop-in-front-of-3d-printer.JPG?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/cut-bambu-printer-bambus-cloud-lost-two-features/",
-                "source": "MakeUseOf",
-                "date": "2026-07-04T16:30:17Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Through War and Loss, Iran Moves Against Dissidents",
+                "desc": "Iran is staging mass mourning in public while silencing critics in private, according to rights advocates and people close to those detained. As the state prepares a high-profile...",
+                "image": "https://cdn.newser.com/image/1696537-12-20260704171502.jpeg",
+                "url": "https://www.newser.com/story/392259/iran-projects-unity-while-moving-against-dissidents.html",
+                "source": "Newser",
+                "date": "2026-07-04T21:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sky News Australia",
+                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+                "source": "Sky News Australia",
+                "date": "2026-07-04T21:41:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump tries again to delay $5m sexual abuse payout to E Jean Carroll",
+                "desc": "Lawyers file request days after US supreme court declined to hear an appeal, with payout topping $5.8m with interest",
+                "image": "https://i.guim.co.uk/img/media/dd2f81113aadc2e8aa4d235d917ad586f330254b/318_0_3183_2547/master/3183.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a37f1a6736be099eafc94f3d709de83",
+                "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-delay-5m-payout-e-jean-carroll",
+                "source": "The Guardian",
+                "date": "2026-07-04T21:41:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Russia's fuel crisis is so bad that a mom and her baby waited in line for 18 hours to get gas",
                 "desc": "Energy analysts have estimated that 25% or more of Russia’s oil refining capacity has been taken offline by Ukraine's drone attacks.",
@@ -1869,35 +1896,8 @@
                 "source": "Episcopal News Service",
                 "date": "2026-07-04T16:14:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Maharaj Ji Condemns Xenophobic Attacks In South Africa, Calls For Protection Of Africans",
-                "desc": "The Spiritual Leader and Founder of the One Love Family, Satguru Maharaj Ji, has condemned the recurring xenophobic attacks against Nigerians and other African nationals living and working in South Africa, describing the violence as \"barbaric\" and \"unacceptable.\" In a statement made available to journalists in Ibadan on Saturday, Maharaj Ji expressed concern over the...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-04-at-17.07.50.jpeg",
-                "url": "https://independent.ng/maharaj-ji-condemns-xenophobic-attacks-in-south-africa-calls-for-protection-of-africans/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-04T16:13:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Battle for Global Film Hubs",
-                "desc": "Southeast Asia is locked in a multi-billion-dollar battle for film production. How aggressive new tax rebates are reshaping the regional screen economy.",
-                "image": "https://substackcdn.com/image/fetch/$s_!XaXh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cc5ef34-6e15-468c-a011-7580e5593192_2070x1380.heic",
-                "url": "https://www.thesoutheastasiadesk.com/p/southeast-asia-battle-for-film-hub",
-                "source": "The Southeast Asia Desk",
-                "date": "2026-07-04T16:09:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Somalia Says Eight Al Shabaab Militants Killed in Basra Operation.",
-                "desc": "NISA says the raid targeted militants involved in bomb-making and attacks using explosive devices.",
-                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgYxWXux7VcfSm73TO6Fe1xDi204K8vtNakplR",
-                "url": "https://www.dawan.africa/news/somalia-says-eight-al-shabaab-militants-killed-in-basra-operation",
-                "source": "Dawan Africa",
-                "date": "2026-07-04T16:06:31Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-05T09:40:38.930922Z"
+    "lastGlobalSync": "2026-07-05T09:55:08.783632Z"
 }
