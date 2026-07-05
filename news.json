@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "Justice Ashok Bhushan demits office as NCLAT Chairperson after nearly five-year tenure",
+                "desc": "Justice Ashok Bhushan is set to demit office of the Chairperson of the National Company Law Appellate Tribunal.",
+                "image": "https://cf-images.assettype.com/barandbench%2F2021-10%2F368597ad-73d5-4bf6-bf74-0190d973e161%2F21.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://www.barandbench.com/news/justice-ashok-bhushan-demits-office-of-the-chairperson-of-the-nclat",
+                "source": "Bar and Bench",
+                "date": "2026-07-04T12:12:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin Crashed 20% Over the Last 30 Days. Here's What History Says Comes Next.",
+                "desc": "Bitcoin may be down, but it isn't out.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876801%2Fbitcoin-with-chart.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/04/bitcoin-crashed-20-over-the-last-30-days-heres-wha/",
+                "source": "The Motley Fool",
+                "date": "2026-07-04T12:08:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese auto giant Chery takes control of former Nissan plant, creating nearly 3,000 jobs in South Africa",
+                "desc": "Chery has officially taken over Nissans manufacturing plant in Rosslyn, South Africa, marking a key step in its African expansion. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/d4JktkpTURBXy82ZTk4YmVhOGNiMzUzMTE0OWE3YzI0ZDkyYjc5N2RkNy5wbmeSlQMALc0DIM0BwpMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/chinese-auto-giant-chery-takes-control-of-former-nissan-plant-creating-nearly-3000/dj8yl0d",
+                "source": "Business Insider Africa",
+                "date": "2026-07-04T12:06:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
+                "desc": "The FCA's crypto framework has been praised for preserving global liquidity and supporting tokenization but firms will face significant hurdles to approval.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0513d0a4817ed047117319c2338d720ea07bb82-1920x1439.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+                "source": "CoinDesk",
+                "date": "2026-07-04T12:05:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Budweiser Reopens The Tab For Free Beer Celebrating America’s 250th",
+                "desc": "Budweiser's free-beer promotion stumbled at first, but the brand's course correction shows how seriously it is taking America's 250th and its own 150th anniversary year.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a48eb640351744689c64342/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/pamdanziger/2026/07/04/good-save-budweiser-reopens-the-tab-for-free-beer-celebrating-americas-250th/",
+                "source": "Forbes",
+                "date": "2026-07-04T12:01:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cathay Pacific to Resume Middle East Flights from September 1",
+                "desc": "Cathay Pacific Airways will resume operations on its Middle East routes from September 1. The airline will operate one daily round-trip flight on the Hong Kong–Dubai route, and four weekly round-trip flights on the Hong Kong–Riyadh route on Mondays, Thursdays, Fridays, and Saturdays. Ticket sales have already begun. Cathay Pacific Airways stated, “As we move toward the resumption of operations, we will continue to closely monitor developments in the Middle East region and respond carefully in line with the situation.” The carrier has extended special handling measures for tickets on flights to and from Dubai, Riyadh, and Doha. ■ Timetable CX731 Hong Kong (17:45) → Dubai (21:30) CX738 Dubai (22:50) […]",
+                "image": "https://www.traicy.com/wp-content/uploads/2022/12/CX-1.jpg",
+                "url": "https://en.traicy.com/posts/2026070437448/",
+                "source": "TRAICY Global",
+                "date": "2026-07-04T12:01:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "French Wine Giant's Succession Plot Thickens",
+                "desc": "As brutal heat has European growers looking anxiously at the sky, the Castel control battle rumbles on in France. Read the latest wine news & opinion on wine-searcher",
+                "image": "https://www.wine-searcher.com/images/news/99/83/998341438566a47072f_nunsun1.jpg",
+                "url": "https://www.wine-searcher.com/m/2026/07/french-wine-giants-succession-plot-thickens",
+                "source": "Wine-Searcher",
+                "date": "2026-07-04T12:01:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mayfair casino facing legal action after former waiter says he did not get fair share of tips",
+                "desc": "Former worker at Metropolitan on Park Lane in London says he had to share tips with managers and other staff",
+                "image": "https://i.guim.co.uk/img/media/1969ee4b4fcf76056e0e00ff1014de56799e0980/440_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85f7fd1d653d7511c6da9caf3e6cd1c0",
+                "url": "https://www.theguardian.com/business/2026/jul/04/a-mayfair-casino-is-facing-legal-action-from-a-former-waiter-who-says-he-was-not-given-a-fair-share-of-tips",
+                "source": "The Guardian",
+                "date": "2026-07-04T12:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Air Canada Goes Big: USA Widebody Flights Surge 35% This Summer",
                 "desc": "Air Canada's bold move to increase widebody flights to the US by 35% this summer signals a surge in trans-border travel.",
                 "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/air-canada-787-9-aircraft.jfif?w=1600&h=900&fit=crop",
@@ -560,81 +632,72 @@
                 "source": "Punch Newspapers",
                 "date": "2026-07-04T00:14:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Benin, Togo, Niger Owe Nigeria N17.45bn Electricity Debt",
-                "desc": "Benin, Togo, and Niger Republic owe Nigeria N17.45bn for electricity supplied in Q1 2026, contributing to Nigeria's power sector liquidity crisis.",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/electricity_1782688894.webp",
-                "url": "https://punchng.com/benin-togo-niger-owe-nigeria-n17-45bn-electricity-debt/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-04T00:14:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's How Many Shares of Coca-Cola You'd Need for $5,000 in Yearly Dividends",
-                "desc": "Income investors will gravitate to this beverage giant.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876905%2Frow-of-coca-cola-bottles-lined-up-in-fridge_getty.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/03/how-much-coca-cola-stock-5000-yearly-dividends/",
-                "source": "The Motley Fool",
-                "date": "2026-07-03T23:59:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mueller Water Products (MWA) On Aging Water System Demand And A Fair Value Gap",
-                "desc": "Mueller Water Products (MWA) has been drawing attention after recent price moves, with the stock last closing at $24.97. This has prompted investors to reassess how its water infrastructure focus fits into their portfolios.\nSee our latest analysis for Mueller Water Products.\nRecent share price moves for Mueller Water Products have been choppy, with the stock down over the past week and quarter, while still showing a positive year to date share price return and strong multi year total...",
-                "image": "https://images.simplywall.st/asset/industry/3072000-choice2-main-header/1585186655182",
-                "url": "https://simplywall.st/stocks/us/capital-goods/nyse-mwa/mueller-water-products/news/mueller-water-products-mwa-on-aging-water-system-demand-and",
-                "source": "simplywall.st",
-                "date": "2026-07-03T23:58:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ascendis Pharma (ASND) Could Be 7% Undervalued Following Fresh ApproaCH Trial Data",
-                "desc": "Ascendis Pharma (NasdaqGS:ASND) is back in focus after new Week 104 radiographic data from its pivotal ApproaCH trial of once weekly TransCon CNP in children with achondroplasia highlighted continued improvements in lower limb alignment and growth.\nSee our latest analysis for Ascendis Pharma.\nThe fresh Week 104 ApproaCH data and February FDA approval sit alongside steady price momentum, with Ascendis Pharma posting a 1-day share price return of 2.51% and a 30-day share price return of 26.62%...",
-                "image": "https://images.simplywall.st/asset/industry/6111000-choice2-main-header/1585186599552",
-                "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-asnd/ascendis-pharma/news/ascendis-pharma-asnd-could-be-7-undervalued-following-fresh",
-                "source": "simplywall.st",
-                "date": "2026-07-03T23:58:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Indian Penny Stocks With Positive Earnings Trading Below Fair Value",
-                "desc": "Penny stocks often get attention for the wrong reasons, but the Financially Fit Penny Stocks screener takes a different angle. It filters for companies trading below 5 that also show healthier balance sheets than many early stage peers, which can help you focus on potential opportunities with relatively lower financial risk. With global inflation, uneven growth and mixed manufacturing and services data shaping market sentiment, this type of quality filter can be useful for investors looking...",
-                "image": "https://images.simplywall.st/asset/industry/4133000-choice2-main-header/1585187156628",
-                "url": "https://simplywall.st/stocks/in/consumer-durables/bse-510245/swasti-vinayaka-synthetics-shares/news/3-indian-penny-stocks-with-positive-earnings-trading-below-f",
-                "source": "simplywall.st",
-                "date": "2026-07-03T23:58:03Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Rolls Royce (LSE:RR.) Ties Defence Plans To Bombardier Deal And Board Refresh",
-                "desc": "UK government outlines a substantial multi year defence spending increase, with an emphasis on next generation warfare technology and propulsion systems.\nRolls-Royce Holdings (LSE:RR.) highlights potential exposure to this plan across its defence engine and support programmes.\nThe company also forms an alliance with Bombardier to improve aircraft engine monitoring capabilities.\nRolls-Royce appoints new experienced non executive directors to its Board, reinforcing corporate governance and...",
-                "image": "https://images.simplywall.st/asset/industry/3021000-choice1-main-header/1585186644732",
-                "url": "https://simplywall.st/stocks/gb/capital-goods/lse-rr./rolls-royce-holdings-shares/news/rolls-royce-lserr-ties-defence-plans-to-bombardier-deal-and",
-                "source": "simplywall.st",
-                "date": "2026-07-03T23:57:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vale Stock And 2 Steel Names Facing Fresh Tariff Pressure",
-                "desc": "Trade tensions between the US, EU, and Brazil over steel and pig iron are reshaping parts of the global metals supply chain in real time, and that kind of disruption can quickly spill over into stock prices. With US tariffs on Brazilian pig iron set as high as 37.5% and tight EU quotas on Brazilian steel, some companies face higher costs, squeezed margins, or restricted market access. This article breaks down three stocks directly exposed to these new trade barriers, all on the risk side of...",
-                "image": "https://images.simplywall.st/asset/industry/2055000-choice2-main-header/1585186660639",
-                "url": "https://simplywall.st/stocks/br/materials/bovespa-vale3/vale-shares/news/vale-stock-and-2-steel-names-facing-fresh-tariff-pressure",
-                "source": "simplywall.st",
-                "date": "2026-07-03T23:57:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sezzle (SEZL) Is Up 11.9% After Russell Value Removal And Downgrade On Insider Sales Concerns",
-                "desc": "In late June 2026, Sezzle Inc. was removed from several Russell value-focused indexes, while Oppenheimer downgraded the stock citing valuation concerns amid insider share sales by the CFO.\nTogether, these developments highlight growing questions about how Sezzle’s recent rally aligns with its fundamentals, index inclusion profile, and insider confidence.\nNext, we’ll examine how Sezzle’s removal from key Russell value benchmarks may influence its investment narrative and longer-term...",
-                "image": "https://images.simplywall.st/asset/company-cover/fallback-main-header/1585186798760",
-                "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-sezl/sezzle/news/sezzle-sezl-is-up-119-after-russell-value-removal-and-downgr",
-                "source": "simplywall.st",
-                "date": "2026-07-03T23:57:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Fanfiction Communities Target AI-generated Fanworks and Detection Methods",
+                "desc": "For AI and ML practitioners, the surge in community-built detection efforts highlights tensions between dataset provenance, model outputs, and social harm in creative spaces. The Verge reports that a new fanworks movement has emerged aiming to identify fanfiction written with generative AI, and that community-run detection methods are proliferating but producing questionable results (The Verge, Jul 4, 2026). Reporting shows these efforts can misclassify human authors and create social conflict within fandoms (The Verge). Earlier coverage documents that large language models are trained on scraped fanfiction, Gizmodo reported that **Archive of Our Own (AO3)** and other fan sites have been included in large web crawls used for model training, and Wired has covered related issues such as erotic chatbots and boundary concerns in fandom spaces.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://letsdatascience.com/news/fanfiction-communities-target-ai-generated-fanworks-and-dete-540ac2d2",
+                "source": "Let's Data Science",
+                "date": "2026-07-04T12:11:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7 things your next phone needs if you want it to last for years",
+                "desc": "Want your next phone to last for years and years? Here are a few poiners to keep in mind before you buy it.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2022/10/google-pixel-7-pro-vs-samsung-galaxy-s22-plus-cameras.jpg",
+                "url": "https://www.androidauthority.com/buying-phone-long-term-tips-3680435/",
+                "source": "Android Authority",
+                "date": "2026-07-04T12:11:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Video Games Cost So Much More Now",
+                "desc": "Nintendo's new Switch 2 didn't just arrive with fanfare—it came with serious sticker shock. The $450 console, paired with expensive marquee titles like Mario Kart...",
+                "image": "https://cdn.newser.com/image/1696204-12-20260704074002.jpeg",
+                "url": "https://www.newser.com/story/391772/why-video-games-cost-so-much-more-now.html",
+                "source": "Newser",
+                "date": "2026-07-04T12:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I upgraded to the new Google Home Speaker for the AI, but I'm keeping it for the sound",
+                "desc": "The new 2026 Google Home Speaker is a full Gemini-powered relaunch of the company's fabled smart speaker line, but does it live up to the hype?",
+                "image": "https://s.yimg.com/lo/mysterio/api/58bad07a4cfcce1bad63f5db080fc1da4006fcbdd15206bc15c66d22fe339b31/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fandroid_central_347%2F69e8b61d6428d7bebfac6231c401aac2",
+                "url": "https://tech.yahoo.com/ai/gemini/articles/upgraded-google-home-speaker-ai-120500949.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-04T12:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Home Speaker 2026 review: Getting back to the basics",
+                "desc": "The new 2026 Google Home Speaker is a full Gemini-powered relaunch of the company's fabled smart speaker line, but does it live up to the hype?",
+                "image": "https://cdn.mos.cms.futurecdn.net/NYZV4dx79XHGaCbAd57Y8J-2048-80.jpg",
+                "url": "https://www.androidcentral.com/accessories/smart-home/google-home-speaker-2026-review",
+                "source": "Android Central",
+                "date": "2026-07-04T12:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Self-Driving Taxi Company Annoyed by the Naughty Thing Passengers Keep Doing in Its Cabs",
+                "desc": "Rowdy riders have informed some of the designed changes that Amazon-owned Zoox made in its refreshed robotaxi.",
+                "image": "https://futurism.com/wp-content/uploads/2026/06/self-driving-taxi-company-annoyed-naughty-passengers_da8f16.jpg?quality=85&w=1200",
+                "url": "https://futurism.com/advanced-transport/self-driving-taxi-company-annoyed-naughty-passengers",
+                "source": "Futurism",
+                "date": "2026-07-04T12:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minisforum AtomMan G1 Pro Desktop Review: The Wobbly Line Between Desktop and True Mini PC",
+                "desc": "Not quite a desktop tower or a mini PC, the AtomMan G1 Pro ends up with some of the drawbacks of both designs.",
+                "image": "https://www.cnet.com/a/img/resize/65a1227cbc924e6b924f8ca44ff0cf6e4f6e7dd9/hub/2026/06/28/7773af96-af9b-4db2-9f98-86653869e5c1/minisforum-atomman-g1-pro-1-of-6.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/computing/minisforum-atomman-g1-pro-desktop-review/",
+                "source": "CNET",
+                "date": "2026-07-04T12:00:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "TP-Link Deco BE77 Review: Great Mesh Wi-Fi for the Eero-Weary",
                 "desc": "TP-Link’s mesh Wi-Fi system is super fast, stable, and probably way more than my apartment needs.",
@@ -1201,72 +1264,99 @@
                 "source": "The Manila Times",
                 "date": "2026-07-03T20:17:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Loop: iPhone 18 Pro Pre-Order Dates, New iPad Pro Details, iPhone 16e Special Offers",
-                "desc": "This week’s Apple headlines: iPhone 18 Pro pre-orders, Apple's significant data leak, iOS 27 dates, new iPad Pro and MacBook Pro details, refurbished iPhone 16e and more...",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6945a6b3e5c989d44db1888d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/ewanspence/2026/07/03/apple-news-headlines-iphone-18-pro-preorder-dates-new-ipad-pro-macbook-pro/",
-                "source": "Forbes",
-                "date": "2026-07-03T20:03:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android Circuit: Galaxy Z Fold8 Wide Teased, Fighting For F-Droid, Magic V6 Arrives In UK",
-                "desc": "This week’s Android headlines: Galaxy Z Fold Wide teased, the final Galaxy Z Flip, Honor Magic V6 in the UK, OnePlus pushes Oppo brand, fighting for F-Droid and more...",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/69a441879eb0f332fc37efcc/0x0.jpg?format=jpg&crop=679,382,x145,y4,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/ewanspence/2026/07/03/android-news-headlines-galaxy-z-fold8-wide-honor-magic-v6-f-droid-oneplus-oppo/",
-                "source": "Forbes",
-                "date": "2026-07-03T20:03:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Always do this before updating your BIOS",
-                "desc": "Before every BIOS update, take this one step to avoid hours of reconfiguration.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/lenovo-laptop-showing-bios-menu.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/always-do-this-before-updating-your-bios/",
-                "source": "MakeUseOf",
-                "date": "2026-07-03T20:01:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The oldest known image of the cosmos is a Bronze Age disc of bronze and gold, dug from a German hilltop by looters and recovered three years later in a Swiss police sting",
-                "desc": "Buried around 1600 BC, looted in 1999 and seized in a Basel sting in 2002, the Nebra sky disc carries what one research team calls the earliest concrete picture of the night sky. How firmly the bronze can prove that is still argued.",
-                "image": "https://spacedaily.com/wp-content/uploads/2026/07/nebra-sky-disc-1600x840-1.jpg",
-                "url": "https://spacedaily.com/s-the-oldest-known-image-of-the-cosmos-is-a-bronze-age-disc-of-bronze-and-gold-dug-from-a-german-hilltop-by-looters-and-recovered-three-years-later-in-a-swiss-police-sting/",
-                "source": "Space Daily",
-                "date": "2026-07-03T20:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AWOL Aetherion Max",
-                "desc": "The AWOL Aetherion Max is an exceptional projector thanks to superb image quality, high brightness, super-short input lag, and an ultra short throw that gives you a big image from close to the screen.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/review/a/awol-aethe/awol-aetherion-max_8eaa.1200.jpg",
-                "url": "https://au.pcmag.com/projectors/118608/awol-aetherion-max",
-                "source": "PCMag Australia",
-                "date": "2026-07-03T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Chase's Darragh Ennis uses 'genius' tip to fall asleep fast and anyone can do it",
-                "desc": "Dublin-born Darragh Ennis, known as The Menace on The Chase, has shared his 'genius' tip that helps him fall asleep in minutes - and it's so easy for anyone to do",
-                "image": "https://i2-prod.irishmirror.ie/article35828758.ece/ALTERNATES/s1200d/1_The-Chase.jpg",
-                "url": "https://www.irishmirror.ie/lifestyle/health/chases-darragh-ennis-uses-genius-37383468",
-                "source": "Irish Mirror",
-                "date": "2026-07-03T19:56:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AMD Ryzen 9800X3D and Radeon RX 9070 XT PC deal delivers RTX 5070 Ti level raster performance for a cheaper price",
-                "desc": "This great build is an absolute steal at this price - perfect for QHD or QHD+ gaming on the high settings - don't miss out!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/AMD-Ryzen-9800X3D-and-Radeon-RX-9070-XT-PC-deal-delivers-RTX-5070-Ti-level-raster-performance-for-a-cheaper-price.jpg",
-                "url": "https://www.pcguide.com/deals/amd-ryzen-9800x3d-and-radeon-rx-9070-xt-pc-deal-delivers-rtx-5070-ti-level-raster-performance-for-a-cheaper-price/",
-                "source": "PC Guide",
-                "date": "2026-07-03T19:48:11Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Pakistan deputy PM Ishaq Dar under fire over grandson's arrest in gang rape case",
+                "desc": "Ishaq Dar's grandson, Muhammad Raza Dar, was among four men arrested in gang rape of two foreign women in Lahore on June 29.   | World News",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/04/550x309/IRAN-CRISIS-EGYPT-QUAD-22_1783165489789_1783165574717_8f2a7f77-ac0d-4d34-a9a1-0c0025177eb3.JPG",
+                "url": "https://www.hindustantimes.com/india-news/pakistan-deputy-pm-ishaq-dar-under-fire-over-grandsons-arrest-in-gangrape-case-101783164341944.html",
+                "source": "Hindustan Times",
+                "date": "2026-07-04T12:12:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Salmonella Noodles with Goat Kebab?-Welcome to European Food Safety",
+                "desc": "Ukrainian-made noodles have caused a salmonella epidemic in EU countries as a UK chain was revealed to have been selling ‘lamb’ kebabs made mainly of skin, fat, and goat.",
+                "image": "https://europeanconservative.com/wp-content/uploads/2026/07/instant-noodles-and-kebab.jpg",
+                "url": "https://europeanconservative.com/articles/news/salmonella-noodles-goat-kebab-eu-uk-food-safety-consumers-fraud/",
+                "source": "The European Conservative",
+                "date": "2026-07-04T12:12:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ghana joins international information exchange via TV BRICS",
+                "desc": "GNA is Ghana’s leading state news agency founded in 1957 with headquarters in Accra.",
+                "image": "https://gazettengr.com/wp-content/uploads/Untitled-1-2600.png",
+                "url": "https://gazettengr.com/ghana-joins-international-information-exchange-via-tv-brics/",
+                "source": "Peoples Gazette Nigeria",
+                "date": "2026-07-04T12:10:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands of protesters in Germany rally against far-right AfD",
+                "desc": "The demonstrations did not stop the party’s annual congress in Erfurt from starting on time.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/04/GettyImages-2284001417-scaled.jpg",
+                "url": "https://www.politico.eu/article/thousands-of-protesters-in-germany-rally-against-far-right-afd/",
+                "source": "politico.eu",
+                "date": "2026-07-04T12:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats",
+                "desc": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a48b6f6b582-1783150326.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats",
+                "source": "Al Jazeera",
+                "date": "2026-07-04T12:07:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German riot police clash with protesters hoping to block far-right AfD conference",
+                "desc": "Thousands of police deployed to Erfurt in central Germany as AfD holds conference on key Nazi date",
+                "image": "https://i.guim.co.uk/img/media/a71ec38d3b30a97c4eed9682737ae9562c7a20e1/239_0_3824_3060/master/3824.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d634870baed3cfad0678d99ceaaf3775",
+                "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
+                "source": "The Guardian",
+                "date": "2026-07-04T12:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mayon Volcano Alert Level 3 Triggers Major Travel Disruptions Across Philippines, Indonesia, Japan, Thailand in 2026",
+                "desc": "PHIVOLCS reports 327 rockfalls and active lava emission at Mount Mayon as Alert Level 3 escalates volcanic risk across Southeast Asia aviation corridors and tourism zones.",
+                "image": "https://images.nomadlawyer.org/images/blog/travel-alert/2026/07/mayon-volcano-alert-level-3-philippines-travel-disruption-southeast-asia-2026.jpg",
+                "url": "https://www.nomadlawyer.org/mayon-volcano-alert-level-3-philippines-travel-disruption-southeast-asia-2026",
+                "source": "Nomad Lawyer",
+                "date": "2026-07-04T12:03:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korea Announces Scholarships for Kenyan Students: Eligibility and How to Apply",
+                "desc": "The Kenyan Embassy in Seoul has announced the opening of applications for the 2026 Fall Semester Woojung Education and Culture Foundation Scholarship,",
+                "image": "https://cdn.thekenyatimes.com/2026/07/Students-Kenya-Embassy-Seoul-2026-07-04-1.png",
+                "url": "https://thekenyatimes.com/latest-kenya-times-news/south-korea-announces-scholarship-for-kenyan-students-eligibility-and-how-to-apply/",
+                "source": "The Kenya Times",
+                "date": "2026-07-04T12:01:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The empire of doubt, ally of convenience: America at 250, seen from India",
+                "desc": "India News: The United States turns 250 as the most powerful nation on earth. The story of its rise was written in treaties, dollars and aircraft carriers. The st.",
+                "image": "https://static.toiimg.com/thumb/msid-132180782,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/the-empire-of-doubt-ally-of-convenience-america-at-250-seen-from-india/articleshow/132180219.cms",
+                "source": "The Times of India",
+                "date": "2026-07-04T12:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran Live Updates: Crowds Gather in Tehran for Ayatollah Ali Khamenei's State Funeral",
+                "desc": "As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed four months ago at the start of the U.S.-Israeli attacks.",
+                "image": "https://static01.nyt.com/images/2026/07/04/multimedia/04iran-funeral-promo-tmjl/04iran-funeral-promo-tmjl-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei",
+                "source": "The New York Times",
+                "date": "2026-07-04T12:00:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Teo Nie Ching calls for harmonious campaigning after Pakatan materials vandalised in several Johor seats",
                 "desc": "KULAI, July 4 — Johor DAP chairman Teo Nie Ching has urged all parties to campaign in a harmonious manner after incidents of vandalism involving Pakatan Harapan (PH) campaign...",
@@ -1806,98 +1896,8 @@
                 "source": "Modern Ghana",
                 "date": "2026-07-03T22:30:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Beyond Textiles and Tiles: Ghana and Türkiye Chart a Path Toward Strategic Co-Investment",
-                "desc": "For much of the past two decades, the Ghana-T uuml;rkiye economic relationship followed a familiar script: Turkish goods textiles, cosmetics, building materials, electronics flowing into Ghanaian markets, valued locally for being sturdier than Chinese imports and cheaper than European ones .",
-                "image": "https://cdn.modernghana.com/images/content/732026111011-l5gsj7u3i1-screenshot20260703-2035561.png",
-                "url": "https://www.modernghana.com/news/1507685/beyond-textiles-and-tiles-ghana-and-trkiye-chart.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-03T22:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Catholic group in schism defends actions, claims to be victim",
-                "desc": "The traditionalist Catholics who defied Pope Leo XIV and caused a schism defended their actions Friday, insisting they were victim of an unjust sanction.",
-                "image": "https://globalnation.inquirer.net/files/2026/07/AP26182448575316-scaled.jpg",
-                "url": "https://globalnation.inquirer.net/329643/catholic-group-in-schism-defends-actions-claims-to-be-victim",
-                "source": "Inquirer.net",
-                "date": "2026-07-03T22:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Albanese government rejects all UN recommendations on improving LGBTQIA+ rights",
-                "desc": "The federal government has rejected all recommendations relating to the LGBTQIA+ community from the United Nations Human Rights Council (UNHRC) peer-review process.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--h8LJ6ARK--/t_tohu-badge-facebook/f_auto/q_auto/4JM0VJ4_1_png",
-                "url": "https://www.rnz.co.nz/news/world/665123/albanese-government-rejects-all-un-recommendations-on-improving-lgbtqia-rights",
-                "source": "RNZ",
-                "date": "2026-07-03T22:24:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Heatwave disrupts Fourth of July events across eastern U.S.",
-                "desc": "A dangerous heatwave disrupts Fourth of July celebrations across the eastern U.S., leading to numerous event cancellations and delays.",
-                "image": "https://th-i.thgim.com/public/incoming/u6um2t/article71180600.ece/alternates/LANDSCAPE_1200/2026-07-02T160739Z_917528407_RC2R5MA453LE_RTRMADP_3_USA-WEATHER.JPG",
-                "url": "https://www.thehindu.com/news/international/heatwave-disrupts-fourth-of-july-events-across-eastern-us/article71180594.ece",
-                "source": "The Hindu",
-                "date": "2026-07-03T22:20:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Forget horses - Australia’s wildest Outback race is back on the red dirt",
-                "desc": "Forget horse racing, Australia’s quirkiest Outback sporting adventure is back as racing camels, colourful characters and red dirt towns come together for the Desert Champions Way camel trail.",
-                "image": "https://dma0ixu6zshxu.cloudfront.net/wp-content/uploads/20260704131721/Cameleer-Emily-Parrott-with-2025-champions-Polished-Copper-and-Geoffrey-in-Jundah_photo-Aaron-Skin-608x405.jpg",
-                "url": "https://startsat60.com/media/news/forget-horses-australias-wildest-outback-race-is-back-on-the-red-dirt",
-                "source": "Starts at 60",
-                "date": "2026-07-03T22:17:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scottish firefighters help earthquake rescue efforts in Venezuela",
-                "desc": "Gavin Brown, Ian Hodgson and Brian Richards travelled to South America after the twin earthquakes struck on 24 June.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2775/live/db2f3610-771c-11f1-8820-0f5984f91e42.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/ckg0pjjgd2jo",
-                "source": "BBC",
-                "date": "2026-07-03T22:16:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dumber Than a 10 Year Old: Are Israeli Students Really That Stupid?",
-                "desc": "In a recent article by The Economist, the publication ranked Israel last among 15 OECD countries for proficiency in mathematics, and second last for reading comprehension",
-                "image": "https://img.haarets.co.il/bs/0000019f-1ccb-d759-a7bf-deefd1690000/80/01/0eb83ff34aff8d1a3499b0976a88/375216-2.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
-                "url": "https://www.haaretz.com/israel-news/2026-07-04/ty-article/dumber-than-a-10-year-old-are-israeli-students-really-that-stupid/0000019f-1ccb-d759-a7bf-deefd1690000",
-                "source": "Haaretz",
-                "date": "2026-07-03T22:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Denmark uninvites American officials from its big 4th of July bash",
-                "desc": "In response to U.S. President Donald Trump’s threats to take over Greenland, organizers of Denmark’s Fourth of July celebration have barred U.S. officials from taking part.",
-                "image": "https://i.cbc.ca/ais/60e70234-4e7b-43a2-bfc0-85cc91afccdc,1783111818630/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/radio/asithappens/america-denmark-celebration-fourth-of-july-9.7258001",
-                "source": "CBC",
-                "date": "2026-07-03T22:07:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Caldicot head teacher criticises school closures during heatwave",
-                "desc": "Alun Ebenezer kept his school open during the heatwave which he says taught pupils \"resilience\".",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/15cc/live/1d4f1340-76d1-11f1-b508-3b3f1f22a3c1.jpg",
-                "url": "https://www.bbc.com/news/articles/cwy0g08q1p5o",
-                "source": "BBC",
-                "date": "2026-07-03T21:56:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live updates: Khamenei’s casket on display as Iran prepares for days of huge funeral processions",
-                "desc": "Iran released images of the casket holding slain Supreme Leader Ayatollah Ali Khamenei. Iran’s army general warned the US and Israel against launching attacks during the procession. Follow for live updates",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-03t035608z-757683887-rc236masbrj8-rtrmadp-3-iran-crisis-khamenei.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/03/world/live-news/iran-funeral-war-trump",
-                "source": "CNN",
-                "date": "2026-07-03T21:56:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-05T00:00:38.652353Z"
+    "lastGlobalSync": "2026-07-05T00:15:03.923280Z"
 }
