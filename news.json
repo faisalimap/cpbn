@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "1 ASX dividend stock down 50% I'd buy right now",
+                "desc": "This ASX dividend stock has fallen heavily within the last year. Let’s look at why it’s an appealing buy today…",
+                "image": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1333684977-1-1200x675.jpg",
+                "url": "https://www.fool.com.au/2026/07/06/1-asx-dividend-stock-down-50-id-buy-right-now-4/",
+                "source": "The Motley Fool Australia",
+                "date": "2026-07-05T22:00:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CNA Explains: Why petrol prices will take time to fall to pre-conflict levels",
+                "desc": "Motorists should not expect to pay pre-conflict prices at the pump anytime soon, analysts say.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--fm9r8YQ8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2022/03/18/20220310_al_petrol_pump_generics02.jpg?itok=wbHwVazl",
+                "url": "https://www.channelnewsasia.com/singapore/petrol-pump-prices-diesel-oil-iran-war-6224496",
+                "source": "CNA",
+                "date": "2026-07-05T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "hour FX trading could reshape Korean won",
+                "desc": "Korea’s 24-hour won-dollar trading, set to launch Monday, is expected to reshape market dynamics as the local currency remains under pressure, with...",
+                "image": "https://newsimg.koreatimes.co.kr/2026/07/05/1da7a036-aa05-4cb1-b392-3451b82549fe.jpg",
+                "url": "https://www.koreatimes.co.kr/economy/others/20260706/how-24-hour-fx-trading-could-reshape-korean-won",
+                "source": "The Korea Times",
+                "date": "2026-07-05T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
+                "desc": "A handful of countries in the OPEC+ oil-producing alliance are planning to increase their outputs modestly next month",
+                "image": "https://i.abcnewsfe.com/a/4f54b602-2e8b-48e0-aaf6-1d6e647f50dc/wirestory_bae40a1146cea569ddfdfc39d4867441_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Business/wireStory/7-opec-countries-agree-expand-monthly-oil-production-134501573",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-05T21:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zoetis Stock: The 60% Decline Was Justified, But Shares Are Finally Buyable (NYSE:ZTS)",
+                "desc": "Zoetis (ZTS) at 12x earnings after a 52% drop: slow growth but dividends strong and 50% upside potential.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2253627318/image_2253627318.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4919936-zoetis-the-60-percent-decline-was-justified-but-shares-are-finally-buyable",
+                "source": "Seeking Alpha",
+                "date": "2026-07-05T21:54:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cigna expands China hospital cover as Hong Kong costs rise",
+                "desc": "Cigna Healthcare Hong Kong has adjusted its Cigna VHIS Series – Flexi Plan (Superior) in response to rising local medical costs.",
+                "image": "https://insuranceasia.com/s3/files/styles/opengraph/public/2026-07/by-s_kawee-from-envato_injured-asian-man-with-hand-splint-using-laptop-fo-2026-01-11-11-12-51-utc_insurance_payment_injure.jpg?h=a0def058&itok=DAAKIfkq",
+                "url": "https://insuranceasia.com/insurance/news/cigna-expands-china-hospital-cover-hong-kong-costs-rise",
+                "source": "Insurance Asia",
+                "date": "2026-07-05T21:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Consumers paying more for electronics as price of key components rises",
+                "desc": "Consumers are paying more for electronics as the price of key components continues to rise in line with demand for AI processors.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--l2h8BfB6--/t_tohu-badge-facebook/f_auto/q_auto/4K44HZC_Noel_Leeming_CEO_Jason_Bell_jpg",
+                "url": "https://www.rnz.co.nz/news/business/678399/consumers-paying-more-for-electronics-as-price-of-key-components-rises",
+                "source": "RNZ",
+                "date": "2026-07-05T21:43:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenyan Treasury Pushes 30% Reserve Requirement as Stablecoin Firms Warn of Higher Costs",
+                "desc": "Protecting the Local Market Cryptocurrency exchanges and Kenya’s National Treasury are reportedly locked in a standoff over a proposed regulation that would force stablecoin issuers",
+                "image": "https://cnews24.ru/uploads/0d0/0d06738742d081056bdc230d5d7683725213a8fd.jpg",
+                "url": "https://cryptonews.net/news/legal/33103008/",
+                "source": "Cryptonews.net",
+                "date": "2026-07-05T21:43:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Retail food prices stay above official rates",
+                "desc": "Retail food\nprices stay above official rates",
+                "image": "https://i.tribune.com.pk/media/images/231783287409-0/231783287409-0-640x480.webp",
+                "url": "https://tribune.com.pk/story/2616702/retail-food-prices-stay-above-official-rates",
+                "source": "The Express Tribune",
+                "date": "2026-07-05T21:41:30Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "5 things to watch on the ASX 200 on Monday",
                 "desc": "Austal Ltd (ASX: ASB) and ResMed Inc. (ASX: RMD) shares will be on watch on the ASX 200 on Monday...",
                 "image": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1497146967-1-1200x675.jpg",
@@ -551,90 +632,72 @@
                 "source": "CoinDesk",
                 "date": "2026-07-05T18:32:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Australian mining firm eyes $4 billion prize after Otago gold find",
-                "desc": "An Australian mining firm has struck a gold deposit inland from Dunedin that it believes could be worth billions of dollars.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--j4AkeAkM--/t_tohu-badge-facebook/f_auto/q_auto/4KRMBRK_MicrosoftTeams_image_6_png",
-                "url": "https://www.rnz.co.nz/news/business/677627/australian-mining-firm-eyes-4-billion-prize-after-otago-gold-find",
-                "source": "RNZ",
-                "date": "2026-07-05T18:31:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crossed Wires: The final frontier - science fiction comes to the stock exchange",
-                "desc": "Rocket launch was, until SpaceX, a niche industry — strategically vital, economically marginal, dominated by governments (US, USSR/Russia, France and China). That has changed with startling speed, and the reason is a very old economic force — scarcity.",
-                "image": "https://cdn.dailymaverick.co.za/i/ot41FvpWkqs36Kl5LLysdL8X2_Q=/800x0/smart/filters:strip_exif()/file/attachments/orphans/960px-Dyson_Swarm_realistic_representation_296716.jpg",
-                "url": "https://www.dailymaverick.co.za/article/2026-07-05-crossed-wires-the-final-frontier-science-fiction-comes-to-the-stock-exchange/",
-                "source": "Daily Maverick",
-                "date": "2026-07-05T18:27:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigerian Stocks Market Fall 1.21% As Investors Take Profits Despite Stronger Trading",
-                "desc": "The Nigerian stock market declined 1.21% last week as investors took profits, despite stronger trading activity, with financial services stocks dominating.",
-                "image": "https://cdn.legit.ng/images/1200x675/e71c6b985c354e5c.jpeg?v=1",
-                "url": "https://www.legit.ng/business-economy/capital-market/1717740-nigerian-stocks-fall-121-investors-profits-stronger-trading/",
-                "source": "Legit.ng",
-                "date": "2026-07-05T18:26:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is the NZ economy looking up at last?",
-                "desc": "ASB economists say the worst may be mostly over for the New Zealand economy.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--SPuwXovD--/t_tohu-badge-facebook/f_auto/q_auto/4MJVYQD_copyright_image_248569",
-                "url": "https://www.rnz.co.nz/news/business/677593/is-the-nz-economy-looking-up-at-last",
-                "source": "RNZ",
-                "date": "2026-07-05T18:23:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Income tax department slaps notices on foreign investors with no earnings",
-                "desc": "Foreign investors are receiving unexpected tax notices in India, even for transactions where no profit or dividend was earned. The tax department is initiating reassessment proceedings, questioning the absence of income tax returns for share purchases. Experts highlight that such notices, potentially triggered by remittance data, may be misapplied to transactions that didn't generate income, causing confusion and compliance burdens for overseas entities.",
-                "image": "https://img.etimg.com/thumb/msid-132201655,width-1200,height-630,imgsize-41124,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/news/india/income-tax-department-slaps-notices-on-foreign-investors-with-no-earnings/articleshow/132201606.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-05T18:22:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firework strikes Delta flight landing in Chicago",
-                "desc": "A Delta flight was struck by a firework while descending into Chicago on July Fourth, according to the airline.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250710-Delta-plane-aa-1202-51075a.jpg",
-                "url": "https://www.nbcnews.com/news/us-news/firework-strikes-delta-flight-landing-chicago-rcna353054",
-                "source": "NBC News",
-                "date": "2026-07-05T18:21:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Agent Pulls Off a Ransomware Attack Without Human Help",
-                "desc": "An autonomous AI agent has executed what researchers describe as the first agentic ransomware attack, exploiting vulnerabilities, stealing credentials and",
-                "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/ai-agent-pulls-off-ransomware-attack-without-human-help-image_large-6-a-32155.jpg",
-                "url": "https://www.bankinfosecurity.com/ai-agent-pulls-off-ransomware-attack-without-human-help-a-32155",
-                "source": "BankInfoSecurity",
-                "date": "2026-07-05T18:17:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Airline CEO canvasses government, private sector collaboration",
-                "desc": "The Managing Director of Aero Contractors, Ado Sanusi, has called for stronger collaboration between the Federal government and private sector",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/Federal-Government-Of-Nigeria-FGN.webp",
-                "url": "https://guardian.ng/news/airline-ceo-canvasses-government-private-sector-collaboration-for-aviation-growth/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-05T18:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "$10m mansion finally sells after sitting vacant for years",
-                "desc": "The vendors thought it was too valuable to rent out., All things property, under OneRoof",
-                "image": "https://s.oneroof.co.nz/image/f0/c3/f0c3898a94feeffa02aac9c283516e82.jpg?x-oss-process=image/quality,q_80",
-                "url": "https://www.oneroof.co.nz/news/10m-mansion-finally-sells-after-sitting-vacant-for-years-49800",
-                "source": "OneRoof",
-                "date": "2026-07-05T18:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Google Messages is so much better when you turn off this annoying feature",
+                "desc": "Expressive animations are the bane of my existence, and I should've disabled them sooner.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/google-messages-no-sim-7.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/google-messages-better-turn-off-annoying-feature/",
+                "source": "MakeUseOf",
+                "date": "2026-07-05T22:00:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I tried self-hosting email and quickly remembered why people don't",
+                "desc": "For once, self-hosting is not a great option.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/02/a7306760.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/tried-self-hosting-email-and-quickly-remembered-why-people-dont/",
+                "source": "How-To Geek",
+                "date": "2026-07-05T22:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quote of the day by OpenAI CEO Sam Altman: 'One of the tech industry’s worst mistakes in a long time was that everybody could go full remote forever' — closing the doors to pandemic-era flexibility",
+                "desc": "Despite championing remote working, the technology industry was among the first sectors to row back on this new era",
+                "image": "https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk-2560-80.jpg",
+                "url": "https://www.techradar.com/pro/quote-of-the-day-by-openai-ceo-sam-altman-one-of-the-tech-industrys-worst-mistakes-in-a-long-time-was-that-everybody-could-go-full-remote-forever-closing-the-doors-to-pandemic-era-flexibility",
+                "source": "TechRadar",
+                "date": "2026-07-05T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Panasonic launches TOUGHBOOK 56 rugged laptop in Australia",
+                "desc": "Remote crews can now tap faster links and on-device AI as Panasonic replaces its TOUGHBOOK 55 with a tougher 56 model from AUD $5,199.",
+                "image": "https://futurefive.com.au/uploads/story/2026/07/03/compatible_ChatGPT_Image_Jul_3__2026__11_16_17_PM.jpg",
+                "url": "https://futurefive.com.au/story/panasonic-launches-toughbook-56-rugged-laptop-in-australia",
+                "source": "futurefive.com.au",
+                "date": "2026-07-05T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What exactly is Ferrari's new 'manual' transmission?",
+                "desc": "Ferrari's new 12Cilindri Manuale uses a system where physical hardware and smart software work together to recreate the sensation of a manual from a DCT.",
+                "image": "https://www.drivencarguide.co.nz/media/2sofgc20/ferrari-12cilindri-manuale-003.jpg?v=1dd0d22fb40f3d0",
+                "url": "https://www.drivencarguide.co.nz/news/what-exactly-is-ferraris-new-manual-transmission/",
+                "source": "Driven Car Guide",
+                "date": "2026-07-05T21:49:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4 Google Features Trapped Behind A Paywall On Android Phones",
+                "desc": "There's a common notion that Google's features are generally free, but it's not entirely true. Many of its AI features require subscribing to a Google AI plan.",
+                "image": "https://www.bgr.com/img/gallery/4-google-features-trapped-behind-a-paywall-on-android-phones/l-intro-1782843678.jpg",
+                "url": "https://www.bgr.com/2205254/google-features-trapped-behind-paywall-android-phone/",
+                "source": "bgr.com",
+                "date": "2026-07-05T21:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yuri Milner's breakthrough listen partnered with NVIDIA. What an AI scanning 800 million radio channels is actually looking for.",
+                "desc": "Since 2015, NVIDIA's graphics processing units have been at the centre of Breakthrough Listen's computing infrastructure.",
+                "image": "https://media.itwire.com/2026/07/05/yuri-milners-breakthrough-listen-partnered-with-nvidia-what-an-ai-scanning-800-million-radio-channels-is-actually-looking-for-f1ffefe660e5.webp",
+                "url": "https://itwire.com/guest-articles/guest-opinion/yuri-milners-breakthrough-listen-partnered-with-nvidia-what-an-ai-scanning-800-million-radio-channels-is-actually-looking-for",
+                "source": "iTWire",
+                "date": "2026-07-05T21:43:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Super Mario Bros. Wonder dev reveals how the Inchworm Pipe sound effect was made",
                 "desc": "One of the developers behind Super Mario Bros. Wonder has shared some in-depth insight into how he came up with the sound effect for the Inchworm Pipe. Warp Pipes have long been a staple of the series. In Super Mario Bros. Wonder, the game introduces a new take on that element. The Inchworm Pipe comes to life as part of...",
@@ -1201,72 +1264,72 @@
                 "source": "MacRumors",
                 "date": "2026-07-05T17:28:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "5 underrated Android features I'm constantly showing people",
-                "desc": "Your Android has a lot of features hiding in plain sight.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/android-mascot-standing-next-to-a-smartphone-with-a-robotic-arm-holding-a-message-icon-on-a-conveyor-belt.png?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/underrated-android-features-i-show-people/",
-                "source": "How-To Geek",
-                "date": "2026-07-05T17:28:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Says It Will Still Make Physical Discs After 2028, As Long As The Game Came Out Before Then",
-                "desc": "Anything released after 2028 will still be digital-only.",
-                "image": "https://s.yimg.com/lo/mysterio/api/c828ba1539b70bc980340f393d09ba5310b54a2ae4951b70a61088f0351690b0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_100%2Fafc4e8278c2f8ac764ad26e61eefee54",
-                "url": "https://tech.yahoo.com/gaming/articles/sony-says-still-physical-discs-172708516.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-05T17:27:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel Launches Football Edition Plushie In Malaysia, Limited to 200 Units",
-                "desc": "Google Pixel has introduced a Football Edition Pixel Plushie in Malaysia, limited to 200 redemptions for eligible Pixel purchasers on a first-come first-serve basis.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/06011115/googlepixelfootballplushiecover.jpg",
-                "url": "https://pokde.net/gadget/smartphone/google-pixel-football-edition-plushie",
-                "source": "Pokde.Net",
-                "date": "2026-07-05T17:12:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Z Fold 8 Wide Leak: Graphite Dummy Surfaces",
-                "desc": "A new Galaxy Z Fold 8 Wide dummy unit just leaked in Graphite black, with an S26 Ultra size comparison from Ice Universe. Here's what July's Unpacked could bring.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Wide-Leak-Graphite-Dummy-Surfaces.jpg",
-                "url": "https://memeburn.com/alaxy-z-fold-8-wide-dummy-leak/",
-                "source": "Memeburn",
-                "date": "2026-07-05T17:11:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PSMA PET/CT Guidance Linked to Longer Biochemical Control in Oligometastatic Castration",
-                "desc": "PSMA PET/CT Guidance Linked to Longer Biochemical Control in Oligometastatic Castration-Resistant Prostate Cancer / castration-resistant prostate cancer,",
-                "image": "https://oncodaily.com/pub/uploads/2026/07/IMG_0641.webp",
-                "url": "https://oncodaily.com/library/psma-pet-ct",
-                "source": "Oncodaily",
-                "date": "2026-07-05T17:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "My expensive earbuds sounded average until I changed one Android audio setting",
-                "desc": "It's that one setting you need to tweak.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/a-hand-holding-out-a-pair-of-earbuds-in-the-sun.png?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/expensive-earbuds-sounded-average-until-changed-android-audio-setting/",
-                "source": "MakeUseOf",
-                "date": "2026-07-05T17:00:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Send Massive Files Fast for Life: Transfr Pro Is Only $70 Right Now",
-                "desc": "Transfr Pro lets you send huge files securely, professionally, and without limitations. And right now, you can use code JULY30 to get 86% off a lifetime subscription!",
-                "image": "https://i.pcmag.com/imagery/articles/031geEJ06SprzWbhm7d0tg5-2.fit_lim.size_1200x630.v1783099037.png",
-                "url": "https://www.pcmag.com/deals/send-massive-files-fast-for-life-transfr-pro-is-only-70-right-now",
-                "source": "PCMag",
-                "date": "2026-07-05T17:00:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "South China Morning Post",
+                "desc": "Foreign policy analyst outlines how Beijing should react to a country that sees it as neither a ‘partner nor friend’.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/05/4ed911a0-4e59-4835-a882-2561b95e121b_06b5c755.jpg?itok=Wj4L7ei6&v=1783232205",
+                "url": "https://www.scmp.com/news/china/diplomacy/article/3359456/wu-xinbo-why-trumps-america-first-foreign-policy-may-be-driving-chinas-rise",
+                "source": "South China Morning Post",
+                "date": "2026-07-05T22:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Johor polls: Will BN’s Onn Hafiz retain the state’s top job, or can the opposition offer a better path?",
+                "desc": "Barisan Nasional’s Onn Hafiz Ghazi is bidding for a second term as Johor chief minister. Who are his potential rivals from Pakatan Harapan and Perikatan Nasional?",
+                "image": "https://dam.mediacorp.sg/image/upload/s--4v1682Mc--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/03/3_panel_composite_2_0.png?itok=NGgieCjW",
+                "url": "https://www.channelnewsasia.com/asia/johor-state-election-onn-hafiz-chief-minister-contenders-maszlee-malik-sahruddin-jamal-6230276",
+                "source": "CNA",
+                "date": "2026-07-05T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Commentary: The fragile reopening of Hormuz is no return to normal for Asia",
+                "desc": "A return to pre-war normalcy in the Strait of Hormuz is likely to be slow. This holds implications for Asia, says Coface chief APAC economist Bernard Aw.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--ScQM9BRV--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-27T215951Z_1_LYNXMPEM5Q0QR_RTROPTP_3_IRAN-CRISIS-FERTILIZERS.JPG?itok=OJsiG7Pb",
+                "url": "https://www.channelnewsasia.com/commentary/iran-war-strait-hormuz-fragile-reopening-what-it-means-asia-6229406",
+                "source": "CNA",
+                "date": "2026-07-05T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rodríguez defends Venezuela’s earthquake response as death toll passes 3,000",
+                "desc": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster",
+                "image": "https://i.guim.co.uk/img/media/8484070a522057b1eb049841190d3af484688d7c/453_0_4854_3884/master/4854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=793f3da7d20c5b45716827b763e37d11",
+                "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
+                "source": "The Guardian",
+                "date": "2026-07-05T21:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Priya Paul made The Park Hotels unmistakably her own",
+                "desc": "After taking over The Park Hotels at 22, Priya Paul built one of India’s most distinctive hospitality portfolios, from design-led city hotels to restored palaces.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--xnaSOgev--/c_crop,h_567,w_1009,x_1,y_89/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/29/hero-priya-paul-final.jpg?itok=PfcMf3rM",
+                "url": "https://cnaluxury.channelnewsasia.com/people/priya-paul-park-hotels-india-hospitality-294411",
+                "source": "CNA Luxury",
+                "date": "2026-07-05T21:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eight wounded, including four children, after July Fourth cookout shooting near Coney Island",
+                "desc": "The shooter fled but police did recover a gun, police commissioner says",
+                "image": "https://www.theglobeandmail.com/resizer/v2/U5IAORQFPBBSDOTXBNIG4NX4C4.jpg?auth=f492c8cfcc94cc1e0e0f19f246fd8d59595a0b01068b18fd401027f5cb8be2fb&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/world/article-eight-wounded-including-four-children-after-july-fourth-cookout/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-05T21:47:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AG: Government pledge to disobey High Court undermines core principles of rule of law",
+                "desc": "Herzog: Disobeying court ruling crosses a red line; opposition leaders warn against weakening of democratic norms, envision 'anarchy in the streets'; Israel Bar Association chair: 'Israel will not survive' if move goes unchallenged",
+                "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/FotoJet-22.jpg",
+                "url": "https://www.timesofisrael.com/herzog-opposition-leaders-assail-government-for-declaring-it-will-disobey-high-court/",
+                "source": "The Times of Israel",
+                "date": "2026-07-05T21:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pope Leo XIV Says Christ is Hope Amid the Scourge of War",
                 "desc": "The pontiff prayed the Angelus in St. Peter’s Square before traveling to Castel Gandolfo for three weeks of vacation.",
@@ -1833,71 +1896,8 @@
                 "source": "politico.eu",
                 "date": "2026-07-05T17:27:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Some Lebanese Christian Villages 'Asked to Be Annexed to Israel', Netanyahu Says",
-                "desc": "Israeli Prime Minister Benjamin Netanyahu said on Sunday that some Christian villages in southern Lebanon had asked to be annexed by Israel for protection from Hezbollah, a claim made as he reaffirmed…",
-                "image": "data:image/svg+xml,path { fill: %23262626 } @media (prefers-color-scheme: dark) { path { fill: %23EEEFE9 } }",
-                "url": "https://ground.news/article/netanyahu-says-several-lebanese-christian-villages-have-asked-to-be-annexed-by-israel",
-                "source": "Ground News",
-                "date": "2026-07-05T17:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israeli settlers attempt to cross into Syrian side of Hermon, detained by IDF",
-                "desc": "The group said it intentionally positioned itself in a mountainous area to make evacuation difficult, emphasizing that it wished to avoid violence.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728430",
-                "url": "https://www.jpost.com/israel-news/article-901506",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-05T17:15:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African Universities are Going Digital, but the Transformation Is Far From Complete",
-                "desc": "African universities are expanding digital services, with Benin launching a national distance learning platform for its public universities from the",
-                "image": "https://www.ecofinagency.com/media/k2/items/cache/1ea1229c953870a7fd240142616d0859_S.jpg",
-                "url": "https://www.ecofinagency.com/news-services/0507-57077-african-universities-are-going-digital-but-the-transformation-is-far-from-complete",
-                "source": "Ecofin Agency",
-                "date": "2026-07-05T17:12:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "(Video) Tai Po Road crash victim, 21, was devoted son who worked multiple jobs to support sick father",
-                "desc": "The 21-year-old motorcyclist killed in Sunday's crash on Tai Po Road has been identified as Jason Tam, a car enthusiast who worked as an apprentice at a BMW garage in Chai Wan, dreaming of one day opening his own workshop.",
-                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/a5f99e5c69f711382c40b63b2a6b22c1/2026-07/COVER.jpg",
-                "url": "https://www.thestandard.com.hk/news/article/336429/Video-Tai-Po-Road-crash-victim-21-was-devoted-son-who-worked-multiple-jobs-to-support-sick-father",
-                "source": "The Standard (HK)",
-                "date": "2026-07-05T17:10:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda says Ebola outbreak contained, seeks lifting of travel restrictions",
-                "desc": "According to the Ministry of Health, as of July 5, Uganda had recorded 20 confirmed Ebola cases",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/29b45907-8343-4e87-a672-587ad0e0c4ee.webp?1783276637961",
-                "url": "https://www.the-star.co.ke/news/africa/2026-07-05-uganda-says-ebola-outbreak-contained",
-                "source": "the-star.co.ke",
-                "date": "2026-07-05T17:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "West Asia War LIVE: New Iran leader absent as other sons pay respects to Khamenei",
-                "desc": "Follow live updates on the historic state funeral of Ayatollah Ali Khamenei. Track foreign delegate arrivals and Iran's transition under Mojtaba Khamenei.",
-                "image": "https://th-i.thgim.com/public/incoming/mpb4gd/article71186645.ece/alternates/LANDSCAPE_1200/2026-07-05T162819Z_109940410_RC2R7MAAL43Q_RTRMADP_3_IRAN-CRISIS-KHAMENEI.JPG",
-                "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-5-2026-khamenei-funeral-ceremonies/article71185001.ece",
-                "source": "The Hindu",
-                "date": "2026-07-05T17:08:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netanyahu says Lebanese Christian villages asked to be annexed to Israel",
-                "desc": "The prime minister tells Fox News that some villages in southern Lebanon sought Israeli protection from Hezbollah, saying Israel defends Christians there and elsewhere",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/21/SJNn6a7Hfzl/SJNn6a7Hfzl_1_166_1601_901_0_large.jpg",
-                "url": "https://www.ynetnews.com/article/hyx0cz00xzg",
-                "source": "Ynetnews",
-                "date": "2026-07-05T17:07:33Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-06T09:40:43.372074Z"
+    "lastGlobalSync": "2026-07-06T10:00:44.073794Z"
 }
