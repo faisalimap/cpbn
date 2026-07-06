@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "The cost of Silicon Valley AI tokens has reached 30% of employees' salaries.",
+                "desc": "Only $0.99 per million tokens.This is the actual cost from SemiAnalysis—the most rigorous semiconductor research firm in Silicon Valley.But even more striking i",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/silicon-valley-ai-token-costs-reach-30-of-employee-salaries",
+                "source": "KuCoin",
+                "date": "2026-07-06T00:33:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seven Hobart bars to close as owner goes into voluntary administration",
+                "desc": "Seven Hobart bars, including the Observatory Bar and the Republic, are closing \"in the immediate term\" as owner Pub Banc Group is placed into voluntary administration. The administrator says the aim is for the venues to reopen under new ownership.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/74aa86006f9a39185aaecdb315828937?impolicy=wcms_watermark_news&cropH=1051&cropW=1869&xPos=51&yPos=228&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-06/seven-hobart-bars-to-close-pub-banc-group-liquidation/106883686",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-06T00:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plans to transform part of Cardiff city centre revealed",
+                "desc": "One of the city's shopping centres is about to get a makeover",
+                "image": "https://i2-prod.walesonline.co.uk/article34233751.ece/ALTERNATES/s1200d/0_Queen-Quarter-CGI-PR-Phil-Sheridan.jpg",
+                "url": "https://www.walesonline.co.uk/whats-on/shopping/plans-transform-part-cardiff-city-34233752",
+                "source": "Wales Online",
+                "date": "2026-07-06T00:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China wants to solve the hardest problem in robotics - making hands",
+                "desc": "Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful products",
+                "image": "https://i.guim.co.uk/img/media/53ea9534d7a24ef08bb20853830b00a7491fc319/349_0_4998_3998/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c02543a9954f062fd0aaf156c770e5e4",
+                "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+                "source": "The Guardian",
+                "date": "2026-07-06T00:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China memory module giant’s first-half profit set to jump more than 600-fold",
+                "desc": "Longsys says net profit could reach up to 11 billion yuan, as strong demand and tight global wafer supply lift the downstream memory sector.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/05/192974a3-5586-4ea0-9f4f-dcf068e211a8_a6299eb8.jpg?itok=uu8bjO8h&v=1783252089",
+                "url": "https://www.scmp.com/tech/big-tech/article/3359483/china-memory-module-giants-first-half-profit-set-jump-more-600-fold",
+                "source": "South China Morning Post",
+                "date": "2026-07-06T00:30:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As tech rallies and consumer shares lag, China’s stock market forms microcosm for economy",
+                "desc": "The stock market catalogues China’s uneven growth, as manufacturing expands and consumption falls.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/03/69365bed-de70-4c8c-aabc-1bc5f5cebf4c_d03080ce.jpg?itok=DZ4WsaFk&v=1783062385",
+                "url": "https://www.scmp.com/business/china-business/article/3359285/tech-rallies-and-consumer-shares-lag-chinas-stock-market-forms-microcosm-economy",
+                "source": "South China Morning Post",
+                "date": "2026-07-06T00:30:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mikano Motors’ Deepal G318 flaunts off",
+                "desc": "The Deepal G318, a premium range-extended electric SUV developed by Deepal, a brand under the Changan Automobile Group, is attracting increasing attention in Nigeria’s growing electric vehicle market.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/Deepal-G318-Range-Extended-Electric-Vehicle-REEV-SUV.jpg",
+                "url": "https://thesun.ng/mikano-motors-deepal-g318-flaunts-off-road-agility-excites-fifa-world-cup-viewers/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-06T00:23:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Earn up to 11 mpd on Pelago bookings for July 2026",
+                "desc": "From now till 2 August 2026, earn an extra 7 mpd on Pelago bookings via Kris+, stackable with up to 4 mpd from credit cards.",
+                "image": "https://milelion.com/wp-content/uploads/2026/07/kris-pelago-2.jpg",
+                "url": "https://milelion.com/2026/07/06/earn-up-to-11-mpd-on-pelago-bookings-for-july-2026/",
+                "source": "The MileLion",
+                "date": "2026-07-06T00:22:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PingPong Payments Secures In-Principle Approval for a Capital Markets Services Licence",
+                "desc": "SINGAPORE, July 6, 2026 /PRNewswire/ -- PingPong, the embedded financial infrastructure for global businesses, has secured in-principle approval from the Monetary Authority of Singapore (MAS) for a Capital Markets Services (CMS) licence.",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/06/tmt-newswire/pr-newswire/pingpong-payments-secures-in-principle-approval-for-a-capital-markets-services-licence/2378689",
+                "source": "The Manila Times",
+                "date": "2026-07-06T00:21:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lenders temper Vi business plan, seek group's guarantor for massive loan",
+                "desc": "Lenders are prevailing upon the company to scale back its financial projections, while also demanding a corporate guarantee from another Aditya Birla Group firm, according to two people aware of the development.",
+                "image": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/3-0-137076683-DSC-2408-0_1679830215691_1783267894931_58532950-2405-4dfd-b436-154c53e998f0.jpg",
+                "url": "https://www.livemint.com/companies/news/vodafone-idea-vi-lenders-business-plan-loan-guarantee-aditya-birla-sbi-11783239174672.html",
+                "source": "livemint.com",
+                "date": "2026-07-06T00:20:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nasdaq Surges 12.8% in First Half, but Wall Street Says U.S. Stocks Aren't Overheated",
                 "desc": "U.S. stocks posted their best first-half performance in six years during the first half of 2026, with the Nasdaq climbing 12.8% and the Russell 2000…",
                 "image": "https://img.biggo.com/7Y8nHSCNWbgyH13VZMUcApdDNnJAHMMeLnp181GgiVY/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2ZhZTRmOGU3LWY1MzctNDhhOS04ODE4LWQ2MjRmODg1MGJjM18xNzgzMjk3MjI5X2RlZmF1bHQuanBn.jpg",
@@ -542,99 +632,99 @@
                 "source": "TechCrunch",
                 "date": "2026-07-05T21:35:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Dangote Refinery Boosts Operations with 40.4 Million Barrels of Imported Crude",
-                "desc": "Dangote Petroleum Refinery imported 40.4 million barrels of crude oil worth approximately $4.48 billion between May and June 2026, expanding feedstock supply as it ramps up refining operations and diversifies crude sourcing.",
-                "image": "http://static1.squarespace.com/static/665f92f354532c3140db9a8a/t/6a4acf6c0eab5e4e90cabcf6/1783287660902/dangote-refinery-crude.webp?format=1500w",
-                "url": "https://www.nigeriahousingmarket.com/news/dangote-refinery-imports-40-4-million-barrels-crude-two-months",
-                "source": "nigeriahousingmarket.com",
-                "date": "2026-07-05T21:33:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Steve's Music closing its doors in Montreal after more than 60 years",
-                "desc": "The music store has been an institution in Montreal, Toronto and Ottawa. Its Sainte-Catherine Street storefront will be the final location to close.",
-                "image": "https://i.cbc.ca/ais/b912082b-ab71-4ef6-b676-016f8fe2c4ea,1783283702618/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/montreal/steves-music-montreal-store-closing-9.7259266",
-                "source": "CBC",
-                "date": "2026-07-05T21:32:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bitcoin Price Prediction: BTC Tests $63K as $65.7K Becomes the Key Target",
-                "desc": "Bitcoin is stuck between a bearish liquidity-sweep setup and a bullish breakout attempt above $63,000. If $BTC holds above this zone, $65,700 becomes the next major test, but failure",
-                "image": "https://cnews24.ru/uploads/395/395b8394ce9009a3bf2d5a9ee7ad06daddd67f7c.jpg",
-                "url": "https://cryptonews.net/news/bitcoin/33103544/",
-                "source": "Cryptonews.net",
-                "date": "2026-07-05T21:30:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zurich enters home insurance market through Honey deal",
-                "desc": "Zurich Financial Services Australia will enter the personal home insurance market from October 2026 under an expanded partnership with Honey Insurance.",
-                "image": "https://insuranceasia.com/s3/files/styles/opengraph/public/2026-07/by-by-dekddui1405-from-envato_real-estate-agents-explain-models-of-housing-estat-2023-11-27-05-03-23-utc_0.jpg?h=a0def058&itok=DUfV55ci",
-                "url": "https://insuranceasia.com/insurance/news/zurich-enters-home-insurance-market-through-honey-deal",
-                "source": "Insurance Asia",
-                "date": "2026-07-05T21:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spot Gold Rises 1.4%, Snaps Five",
-                "desc": "Weak U.S. jobs data pushed gold up 1.4% to $4,182.28 an ounce, ending a five-week slide as rate hike bets faded.",
-                "image": "https://www.briefs.co/wp-content/uploads/2026/07/spot-gold-rises-1-4-snaps-five-week-losing-streak.png",
-                "url": "https://www.briefs.co/news/spot-gold-rises-1-4-snaps-five-week-losing-streak/",
-                "source": "Briefs Finance",
-                "date": "2026-07-05T21:27:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Retiree in Newark Spends $150 a Week on Groceries: Food Budget",
-                "desc": "John Goldstein, a 75-year-old retiree in New Jersey, says he still eats well even as he budgets to manage rising health costs.",
-                "image": "https://i.insider.com/6a46bcae1bba93485607b029?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/retiree-in-newark-spends-150-a-week-groceries-food-budget-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-05T21:23:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chery celebrates Nissan Rosslyn plant deal as Mashatile claims credit",
-                "desc": "There’s something strange about the order of events Deputy President Paul Mashatile described about the Chery deal to take ownership of the Nissan plant in Rosslyn, but it is still a significant win for industrial South Africa.",
-                "image": "https://cdn.dailymaverick.co.za/i/_BccjzHthK10N2bK2_RMzDNuC5U=/800x0/smart/filters:strip_exif()/file/attachments/orphans/CHERY_204815_626230.jpg",
-                "url": "https://www.dailymaverick.co.za/article/2026-07-05-chery-celebrates-nissan-rosslyn-plant-deal-as-mashatile-claims-credit/",
-                "source": "Daily Maverick",
-                "date": "2026-07-05T21:12:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Natural Gas Price Forecast: Breakout or Breakdown Ahead?",
-                "desc": "Natural gas holds support at the 20-day moving average and trendline as volatility compresses, with price approaching key resistance near $3.40 and the 200-day moving average.",
-                "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/ChatGPT-Image-Jun-9-2025-04_11_25-PM-1.jpg?func=cover&q=70&width=1201",
-                "url": "https://www.fxempire.com/forecasts/article/natural-gas-price-forecast-breakout-or-breakdown-ahead-1608303",
-                "source": "FXEmpire",
-                "date": "2026-07-05T21:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Should you threaten to quit for a pay rise?",
-                "desc": "Discover if threatening to quit can secure a pay rise or if it will backfire, with expert career advice for navigating workplace challenges. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6ec608a123712f51381542eae9f62ac860968c3c9f98e8066279b381227c2113",
-                "url": "https://www.straitstimes.com/singapore/jobs/askst-jobs-should-you-threaten-to-quit-just-for-a-pay-rise",
-                "source": "The Straits Times",
-                "date": "2026-07-05T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sports and music festivals are the new battleground for American Express and Chase in their pursuit of high",
-                "desc": "Airport lounges aren’t just found at airports anymore. They’re popping up at sporting events and music festivals.",
-                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-                "url": "https://www.aol.com/articles/sports-music-festivals-battleground-american-210000000.html",
-                "source": "AOL.com",
-                "date": "2026-07-05T21:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "iPhone 17 Pro Max 2TB deal will save you $111 of this flagship Apple smartphone",
+                "desc": "Although it’s a renewed handset, it comes with Amazon’s Renewed Guarantee, meaning you shouldn’t have any problems.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/iPhone-17-Pro-Max-2TB-deal-will-save-you-111-of-this-flagship-Apple-smartphone.jpg",
+                "url": "https://www.pcguide.com/deals/iphone-17-pro-max-2tb-deal-will-save-you-111-of-this-flagship-apple-smartphone/",
+                "source": "PC Guide",
+                "date": "2026-07-06T00:40:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The iPhone 17 Pro In A Time Capsule Highlights Apple’s Restrictive Practices",
+                "desc": "Burying an iPhone 17 Pro in a time capsule sounds fun, but Apple's restrictive practices make its survival in 2276 unlikely. What does that mean for consumers in 2026?",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/69d912aa6183af74e3dedd04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/ewanspence/2026/07/05/apple-iphone-time-capsule-planned-obsolescence/",
+                "source": "Forbes",
+                "date": "2026-07-06T00:40:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone, Earbuds & Laptops Deals",
+                "desc": "Best tech deals on Amazon Prime Day 2026. Follow Bhaskar English Updates. From the latest iPhone and gaming laptops to smart TVs, wireless earbuds, and power banks, the Amazon Prime Day Sale 2026 offers discounts across almost every major electronics category.",
+                "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/07/06/artboard-2-copy-2_1783277991.jpg",
+                "url": "https://www.bhaskarenglish.in/tech-science/news/amazon-prime-day-sale-2026-great-deal-iphone-earbuds-laptops-deals-138369419.html",
+                "source": "Bhaskar English",
+                "date": "2026-07-06T00:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi Watch 5 Review: Premium Android Smartwatch with Excellent Battery Life and Innovative EMG Gestures",
+                "desc": "Read our Xiaomi Watch 5 review covering battery life, Wear OS 6, EMG gesture controls, health tracking and whether it's worth buying in Australia.",
+                "image": "https://i0.wp.com/www.digitalreviews.net/wp-content/uploads/2026/07/Xiaomi_Watch_5_feat.jpg?fit=1200%2C628&ssl=1",
+                "url": "https://www.digitalreviews.net/reviews/lifestyle/xiaomi-watch-5-review-australia/",
+                "source": "Digital Reviews Network",
+                "date": "2026-07-06T00:35:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Watch Series 11 deal chops $70 off the price of this 46mm smartwatch",
+                "desc": "This latest-gen, GPS only model comes with Bluetooth 5.3, Wi-Fi 4, and 64GB storage. Grab this deal now while it lasts!",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Apple-Watch-Series-11-deal-chops-70-off-the-price-of-this-46mm-smartwatch.jpg",
+                "url": "https://www.pcguide.com/deals/apple-watch-series-11-deal-chops-70-off-the-price-of-this-46mm-smartwatch/",
+                "source": "PC Guide",
+                "date": "2026-07-06T00:35:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel 10a review: same G4 chip as the 9a, but Google's $849 mid-ranger still out-updates the iPhone 17e and Samsung's Galaxy A trio",
+                "desc": "Google's cheapest 2026 phone landed in March at AUD $849 for 128GB, or $999 for 256GB. That's the exact same sticker as last year's Pixel 9a, and it runs the exact same Google...",
+                "image": "https://media.itwire.com/2026/07/06/pixel-10a-review-same-g4-chip-as-the-9a-but-googles-849-mid-ranger-still-out-updates-the-iphone-17e-and-samsungs-galaxy-a-trio-f1214f9876bb.webp",
+                "url": "https://itwire.com/your-it-news/home-it/pixel-10a-review-same-g4-chip-as-the-9a-but-googles-849-mid-ranger-still-out-updates-the-iphone-17e-and-samsungs-galaxy-a-trio",
+                "source": "iTWire",
+                "date": "2026-07-06T00:34:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BleachBit 6.0.2 Adds Support for Cleaning AI Models from Google Chrome",
+                "desc": "BleachBit 6.0.2 open-source and free disk space cleaner and privacy manager is now available for download with new features and improvements.",
+                "image": "https://9to5linux.com/wp-content/uploads/2026/07/bb602.webp",
+                "url": "https://9to5linux.com/bleachbit-6-0-2-adds-support-for-cleaning-ai-models-from-google-chrome",
+                "source": "9to5Linux",
+                "date": "2026-07-06T00:33:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox may let Activision run Halo: Campaign Evolved studio, in surprising leak",
+                "desc": "The Halo: Campaign Evolved developers already shifted their focus to improve efficiency. Yet, a leak reveals that Xbox could task Activision Blizzard with overseeing Halo Studios. Microsoft wants the shooter franchise to become more profitable by releasing games regularly.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ActivisionBlizzardHalo.jpg",
+                "url": "https://www.notebookcheck.net/Xbox-may-let-Activision-run-Halo-Campaign-Evolved-studio-in-surprising-leak.1335389.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-06T00:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aussies can’t stop adding this cleaning device to their homes this winter: ‘It’s a game-changer’",
+                "desc": "ECOVACS is slashing prices during Amazon Australia’s Prime Day sale.",
+                "image": "https://images.7news.com.au/publication/C-22535130/cb7c2eb3183a6af81a153250a533eaa3c3fa217d-16x9-x0y0w1280h720.png?imwidth=1200",
+                "url": "https://7news.com.au/7you/tech/aussies-cant-stop-adding-this-cleaning-device-to-their-homes-this-winter-its-a-game-changer-c-22535130",
+                "source": "7NEWS",
+                "date": "2026-07-06T00:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "System76 intros new Panther Lake-powered gaming laptop with glossy OLED",
+                "desc": "Linux lovers will be familiar with the offerings from System76, the latest of which happens to be an Intel Panther Lake-powered 15.3-inch OLED gamer with a glossy display and powerful graphics.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/system76_linux_laptop_intel_panther_lake.jpg",
+                "url": "https://www.notebookcheck.net/System76-intros-new-Panther-Lake-powered-gaming-laptop-with-glossy-OLED.1334519.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-06T00:17:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Inch Gaming Laptops with New CPUs — BigGo Finance",
                 "desc": "Unitcom announced on July 2 the addition of new processor configurations to two 18-inch high-end laptops under its iiyama PC gaming brand \"LEVEL∞.\"…",
@@ -1174,99 +1264,63 @@
                 "source": "Gripped Climbing Magazine",
                 "date": "2026-07-05T21:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ferrari 12Cilindri Manuale: Ferrari Brings Back the Manual, But Reinvents It for the Digital Age",
-                "desc": "Ferrari revives the manual driving experience with the 12Cilindri Manuale, featuring innovative Manual-by-Wire technology, a gated shifter and a naturally aspirated V12.",
-                "image": "https://static.wixstatic.com/media/1da610_bef382323954442a8b4539886fdd2f97~mv2.png/v1/fill/w_667,h_1000,al_c,q_90,usm_0.66_1.00_0.01/1da610_bef382323954442a8b4539886fdd2f97~mv2.png",
-                "url": "https://www.autopunditz.com/post/ferrari-12cilindri-manuale-manual-by-wire",
-                "source": "Autopunditz",
-                "date": "2026-07-05T20:56:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Track Day Reveals Career Mode Built Around Player Choice, Risk, and Motorsport Progression",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Track-Day-Reveals-Career-Mode-Built-Around-Player-Choice-Risk-and-Moto",
-                "source": "Games Press",
-                "date": "2026-07-05T20:51:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ferrari’s manual gearbox returns after 14 years, but there is a catch",
-                "desc": "The 12Cilindri gets a clutch pedal and classic gated shifter for a limited run of 1,499 cars, but the system is electronically operated, costs about 50% more and may reach 4.5 million shekels ($1.2 million) in Israel",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/05/BJI0EapP7Mg/BJI0EapP7Mg_0_562_3000_1689_0_large.jpg",
-                "url": "https://www.ynetnews.com/sport/article/ry6s6fdqml",
-                "source": "Ynetnews",
-                "date": "2026-07-05T20:46:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta slammed for charging $20 a month for built-in smart glasses feature",
-                "desc": "Tech giant faces backlash after launching a $20/month Meta One Premium subscription for smart glasses, limiting a local on-device feature to 3 free hours despite no cloud costs, sparking outrage over hardware paywalls",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/30/rJDEu0g1Wl/rJDEu0g1Wl_163_28_834_469_0_large.jpg",
-                "url": "https://www.ynetnews.com/tech-and-digital/article/sjj4b0vqze",
-                "source": "Ynetnews",
-                "date": "2026-07-05T20:43:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
-                "desc": "According to supply chain analyst Ming-Chi Kuo, Apple is likely to have very limited supply for iPhone Ultra at its...",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
-                "source": "9to5Mac",
-                "date": "2026-07-05T20:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Obsidian decided to do Grounded 2 once it settled on creating bug mounts",
-                "desc": "The first Grounded wasn't built to make rideable insects fun, but Grounded 2 is built from the ground up to properly utilize the feature.",
-                "image": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2026/07/02/grounded-2-video-interview_feature.jpg",
-                "url": "https://www.shacknews.com/article/149887/grounded-2-video-interview",
-                "source": "Shacknews",
-                "date": "2026-07-05T20:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Asks Gran Turismo 7 Players What They Want in Future Updates",
-                "desc": "Sony has sent out a new invitation-only Gran Turismo 7 survey covering progression, monthly updates, and what players want to see in future updates.",
-                "image": "https://www.gtplanet.net/wp-content/uploads/2026/07/mercedes-amg-gt3-spa-gt7.webp",
-                "url": "https://www.gtplanet.net/sony-asks-gran-turismo-7-players-what-they-want-in-future-updates-20260705/",
-                "source": "GTPlanet",
-                "date": "2026-07-05T20:21:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marvel Tokon Blocked in 132 Countries, and It Looks Like PSN Requirements Are to Blame",
-                "desc": "Gut punch.",
-                "image": "https://sm.ign.com/t/ign_ap/news/m/marvel-tok/marvel-tokon-blocked-in-132-countries-and-it-looks-like-psn_ecp9.1200.png",
-                "url": "https://sea.ign.com/marvel-tokon-fighting-souls/245092/marvel-tokon-blocked-in-132-countries-and-it-looks-like-psn-requirements-are-to-blame",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-05T20:10:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "6 horror games with soundtracks for the truly brave, from 'Bloodborne' to 'Dead Space'",
-                "desc": "What makes a great horror soundtrack, beyond the obvious BRAAMs, violin effects, and perhaps a bit of sound effects? There is more than one answer.",
-                "image": "https://img.theweek.in/content/dam/week/en/archive/news/sci-tech/images/2026/7/6/resident-evil-requiem-dead-space-playstation-ign.jpg",
-                "url": "https://www.theweek.in/news/sci-tech/2026/07/06/6-horror-games-with-soundtracks-for-the-truly-brave-from-bloodborne-to-dead-space.html",
-                "source": "theweek.in",
-                "date": "2026-07-05T20:08:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I tested my eGPU with Oculink and Thunderbolt, and it wasn’t close",
-                "desc": "Real fast, but one fatal flaw.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/07/assembled-egpu-with-peripherals-plugged-in.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/i-tested-my-egpu-with-oculink-and-thunderbolt-and-it-wasnt-close/",
-                "source": "MakeUseOf",
-                "date": "2026-07-05T20:05:18Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Repatriation wave grows despite closure of centre",
+                "desc": "Afrika Spear spokesperson Bethwell Mbelu said the organisation was concerned by the steady stream of arrivals.",
+                "image": "https://witness.co.za/wp-content/uploads/sites/144/2026/06/malawians-2.jpg",
+                "url": "https://witness.co.za/news/2026/07/06/repatriation-wave-grows-despite-closure-of-centre/",
+                "source": "The Witness | Your compass in the community",
+                "date": "2026-07-06T00:40:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What the Myanmar regime is signalling to ASEAN by rejecting access to Aung San Suu Kyi",
+                "desc": "Analysts say the Myanmar regime’s continued refusal to be pressured by ASEAN shows it believes that the grouping is \"somewhat toothless.\"",
+                "image": "https://asianews.network/wp-content/uploads/2026/07/AFP__20210224__93N7NA__v1__MidRes__MyanmarPoliticsMilitary.jpg",
+                "url": "https://asianews.network/what-the-myanmar-regime-is-signalling-to-asean-by-rejecting-access-to-aung-san-suu-kyi/",
+                "source": "Asia News Network",
+                "date": "2026-07-06T00:30:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia attacks Ukrainian capital Kyiv with ballistic missiles on eve of critical NATO summit",
+                "desc": "Ukraine’s capital Kyiv came under attack by Russian ballistic missiles early Monday morning, the country’s air force said, on the eve of a critical NATO summit in Turkey that US President Donald Trump plans to attend.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-06t001200z-1967293058-rc2z7mael0j1-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk",
+                "source": "CNN",
+                "date": "2026-07-06T00:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Insurer wrongly rejects claim because cruise ship a 'public place'",
+                "desc": "A woman who complained after her travel insurer refused to pay for a phone and glasses lost while she was on a cruise ship has been awarded $2600.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--NjGYzFeU--/t_tohu-badge-facebook/f_auto/q_auto/4JLX0YF_cruise_ship_holiday_vacation_generic_jpg",
+                "url": "https://www.rnz.co.nz/news/business/679309/insurer-wrongly-rejects-claim-because-cruise-ship-a-public-place",
+                "source": "RNZ",
+                "date": "2026-07-06T00:21:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China-friendly KMT stunts Taiwan’s attempt to grow into a fully formed hedgehog",
+                "desc": "Perhaps the strongest sign that Taiwan was on the verge of a strategic breakthrough came in early May, when the Taiwanese legislature, led by the China-friendly Kuomintang (KMT), passed a pared-down version of the special ...",
+                "image": "https://www.aspistrategist.org.au/wp-content/uploads/2026/07/GettyImages-2178281837-2-scaled.jpg",
+                "url": "https://www.aspistrategist.org.au/china-friendly-kmt-stunts-taiwans-attempt-to-grow-into-a-fully-formed-hedgehog/",
+                "source": "The Strategist | ASPI's analysis and commentary site",
+                "date": "2026-07-06T00:18:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police leadership needs fundamental overhaul, review finds",
+                "desc": "Development and recruitment processes in the service need reforming, an independent report says.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/da77/live/4b8540a0-5e98-11f1-926a-77cd300adf90.jpg",
+                "url": "https://www.bbc.com/news/articles/crlwwkyg610o",
+                "source": "BBC",
+                "date": "2026-07-06T00:17:01Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Foreign cruise visitors to Korea tops 200,000 in May",
                 "desc": "South Korea welcomed more than 200,000 foreign cruise arrivals in May for the first time, led by a surge in Chinese visitors. Jeju, Busan and Incheon saw strong traffic as cruise tourism continued to grow.",
@@ -1842,62 +1896,8 @@
                 "source": "Dailynewsegypt",
                 "date": "2026-07-05T20:33:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
-                "desc": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
-                "source": "TechCrunch",
-                "date": "2026-07-05T20:29:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Report: Hamas to announce dissolution of its Gaza government after nearly 20 years",
-                "desc": "Saudi-owned Asharq Al-Awsat says the move is meant to clear the way for a technocrat committee under Trump’s Gaza plan, while new Cairo talks focus on phase two of the ceasefire and Hamas’ disarmament",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/15/BkgsTf26F1g/BkgsTf26F1g_0_0_3000_1689_0_large.jpg",
-                "url": "https://www.ynetnews.com/article/rj40nn007gx",
-                "source": "Ynetnews",
-                "date": "2026-07-05T20:25:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EAC Kiswahili commission opens debate on artificial intelligence's role in advancing Kiswahili",
-                "desc": "Dr Asiimwe further revealed that the commission is exploring partnerships with Kiswahili stakeholders to establish training courses for journalists who lack proficiency in the language.",
-                "image": "https://www.thecitizen.co.tz/resource/image/5518990/landscape_ratio3x2/1200/800/6e0b1139d15eb0dd960812245b25579c/kb/gadi-1.jpg",
-                "url": "https://www.thecitizen.co.tz/tanzania/news/east-africa-news/eac-kiswahili-commission-opens-debate-on-artificial-intelligence-s-role-in-advancing-kiswahili-5518988",
-                "source": "thecitizen.co.tz",
-                "date": "2026-07-05T20:22:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Super Typhoon Bavi slams islands with 285 km/h winds",
-                "desc": "Super Typhoon Bavi is one of the strongest typhoons to ever make landfall in the western Pacific basin",
-                "image": "https://images.twnmm.com/c55i45ef3o2a/4g40JY2QHahAJOpNnvAOu0/acc03ca79bfbd284be57da3ee0076c7b/snapshot-2026-07-05T22_20_00Z.jpg?fm=jpg&q=80",
-                "url": "https://www.theweathernetwork.com/en/news/weather/severe/super-typhoon-bavi-rota-category-5-285-kmh-winds?_guid_iss_=1",
-                "source": "The Weather Network",
-                "date": "2026-07-05T20:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IDF says Hezbollah cell hit in south Lebanon, warns it will attack if truce violated",
-                "desc": "Military reports operatives spotted close to buffer zone; Zamir tours Beaufort Castle, nearby Hezbollah tunnels; Netanyahu claims Christian villages seek annexation to Israel",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/WhatsApp_Image_2026-07-05_at_11.02.50_3.jpeg",
-                "url": "https://www.timesofisrael.com/idf-says-hezbollah-cell-hit-in-south-lebanon-warns-it-will-attack-if-truce-violated/",
-                "source": "The Times of Israel",
-                "date": "2026-07-05T20:10:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanzania police arrest suspects over alleged plot to protest and kill government leaders",
-                "desc": "According to Mr Misime, investigations have uncovered alleged efforts to incite violence through social media platforms and online discussion groups.",
-                "image": "https://www.thecitizen.co.tz/resource/image/5518766/landscape_ratio3x2/1200/800/49f141030498ece5ed100afb24e45198/MB/maandamano-pic.jpg",
-                "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-police-arrest-suspects-over-alleged-plot-to-protest-and-kill-government-leaders-5518764",
-                "source": "thecitizen.co.tz",
-                "date": "2026-07-05T20:10:04Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-06T12:16:12.810965Z"
+    "lastGlobalSync": "2026-07-06T12:40:39.169772Z"
 }
