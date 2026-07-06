@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "5 things to watch on the ASX 200 on Monday",
+                "desc": "Austal Ltd (ASX: ASB) and ResMed Inc. (ASX: RMD) shares will be on watch on the ASX 200 on Monday...",
+                "image": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1497146967-1-1200x675.jpg",
+                "url": "https://www.fool.com.au/2026/07/06/5-things-to-watch-on-the-asx-200-on-monday-06-july-2026/",
+                "source": "The Motley Fool Australia",
+                "date": "2026-07-05T21:39:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uber’s European expansion plans may have hit a speed bump",
+                "desc": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+                "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+                "source": "TechCrunch",
+                "date": "2026-07-05T21:35:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangote Refinery Boosts Operations with 40.4 Million Barrels of Imported Crude",
+                "desc": "Dangote Petroleum Refinery imported 40.4 million barrels of crude oil worth approximately $4.48 billion between May and June 2026, expanding feedstock supply as it ramps up refining operations and diversifies crude sourcing.",
+                "image": "http://static1.squarespace.com/static/665f92f354532c3140db9a8a/t/6a4acf6c0eab5e4e90cabcf6/1783287660902/dangote-refinery-crude.webp?format=1500w",
+                "url": "https://www.nigeriahousingmarket.com/news/dangote-refinery-imports-40-4-million-barrels-crude-two-months",
+                "source": "nigeriahousingmarket.com",
+                "date": "2026-07-05T21:33:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Steve's Music closing its doors in Montreal after more than 60 years",
+                "desc": "The music store has been an institution in Montreal, Toronto and Ottawa. Its Sainte-Catherine Street storefront will be the final location to close.",
+                "image": "https://i.cbc.ca/ais/b912082b-ab71-4ef6-b676-016f8fe2c4ea,1783283702618/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/montreal/steves-music-montreal-store-closing-9.7259266",
+                "source": "CBC",
+                "date": "2026-07-05T21:32:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin Price Prediction: BTC Tests $63K as $65.7K Becomes the Key Target",
+                "desc": "Bitcoin is stuck between a bearish liquidity-sweep setup and a bullish breakout attempt above $63,000. If $BTC holds above this zone, $65,700 becomes the next major test, but failure",
+                "image": "https://cnews24.ru/uploads/395/395b8394ce9009a3bf2d5a9ee7ad06daddd67f7c.jpg",
+                "url": "https://cryptonews.net/news/bitcoin/33103544/",
+                "source": "Cryptonews.net",
+                "date": "2026-07-05T21:30:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zurich enters home insurance market through Honey deal",
+                "desc": "Zurich Financial Services Australia will enter the personal home insurance market from October 2026 under an expanded partnership with Honey Insurance.",
+                "image": "https://insuranceasia.com/s3/files/styles/opengraph/public/2026-07/by-by-dekddui1405-from-envato_real-estate-agents-explain-models-of-housing-estat-2023-11-27-05-03-23-utc_0.jpg?h=a0def058&itok=DUfV55ci",
+                "url": "https://insuranceasia.com/insurance/news/zurich-enters-home-insurance-market-through-honey-deal",
+                "source": "Insurance Asia",
+                "date": "2026-07-05T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spot Gold Rises 1.4%, Snaps Five",
+                "desc": "Weak U.S. jobs data pushed gold up 1.4% to $4,182.28 an ounce, ending a five-week slide as rate hike bets faded.",
+                "image": "https://www.briefs.co/wp-content/uploads/2026/07/spot-gold-rises-1-4-snaps-five-week-losing-streak.png",
+                "url": "https://www.briefs.co/news/spot-gold-rises-1-4-snaps-five-week-losing-streak/",
+                "source": "Briefs Finance",
+                "date": "2026-07-05T21:27:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Retiree in Newark Spends $150 a Week on Groceries: Food Budget",
+                "desc": "John Goldstein, a 75-year-old retiree in New Jersey, says he still eats well even as he budgets to manage rising health costs.",
+                "image": "https://i.insider.com/6a46bcae1bba93485607b029?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/retiree-in-newark-spends-150-a-week-groceries-food-budget-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-05T21:23:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chery celebrates Nissan Rosslyn plant deal as Mashatile claims credit",
+                "desc": "There’s something strange about the order of events Deputy President Paul Mashatile described about the Chery deal to take ownership of the Nissan plant in Rosslyn, but it is still a significant win for industrial South Africa.",
+                "image": "https://cdn.dailymaverick.co.za/i/_BccjzHthK10N2bK2_RMzDNuC5U=/800x0/smart/filters:strip_exif()/file/attachments/orphans/CHERY_204815_626230.jpg",
+                "url": "https://www.dailymaverick.co.za/article/2026-07-05-chery-celebrates-nissan-rosslyn-plant-deal-as-mashatile-claims-credit/",
+                "source": "Daily Maverick",
+                "date": "2026-07-05T21:12:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Natural Gas Price Forecast: Breakout or Breakdown Ahead?",
+                "desc": "Natural gas holds support at the 20-day moving average and trendline as volatility compresses, with price approaching key resistance near $3.40 and the 200-day moving average.",
+                "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/ChatGPT-Image-Jun-9-2025-04_11_25-PM-1.jpg?func=cover&q=70&width=1201",
+                "url": "https://www.fxempire.com/forecasts/article/natural-gas-price-forecast-breakout-or-breakdown-ahead-1608303",
+                "source": "FXEmpire",
+                "date": "2026-07-05T21:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Should you threaten to quit for a pay rise?",
                 "desc": "Discover if threatening to quit can secure a pay rise or if it will backfire, with expert career advice for navigating workplace challenges. Read more at straitstimes.com.",
                 "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6ec608a123712f51381542eae9f62ac860968c3c9f98e8066279b381227c2113",
@@ -542,99 +632,63 @@
                 "source": "OneRoof",
                 "date": "2026-07-05T18:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "BIZ BUZZ: Gasmen is next BSP treasury chief",
-                "desc": "The hunt for the next Bangko Sentral ng Pilipinas (BSP) treasury chief is over with the successor handpicked by the central bank's governor.",
-                "image": "https://business.inquirer.net/files/2026/06/BizBuzzLogo.jpg",
-                "url": "https://business.inquirer.net/598967/biz-buzz-gasmen-is-next-bsp-treasury-chief",
-                "source": "Inquirer.net",
-                "date": "2026-07-05T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israel delegation to leave for US amid concern about military aid",
-                "desc": "The current military aid agreement expires in 2028 and there is concern that the Trump administration is foot dragging on future aid.",
-                "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1740648996/direct/shutterstock_2589320083_awow3f.jpg",
-                "url": "https://en.globes.co.il/en/article-israel-delegation-to-leave-for-us-amid-concern-about-military-aid-1001547961",
-                "source": "Globes - Israel Business News",
-                "date": "2026-07-05T17:57:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seplat ends routine gas flaring, expands LPG investment - Mgt",
-                "desc": "SEPLAT Energy Plc says it has ended routine gas flaring across its onshore operations in Nigeria, describing the milestone as a major step in its commitment to cleaner energy and environmental sustainability. Mr Samson Ezugworie, Chief Operating Officer and Executive Director of Seplat Energy, disclosed this on Sunday in Benin during a parley with journalists.",
-                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/IMG-20260705-WA0011.jpg",
-                "url": "https://realnewsmagazine.net/seplat-ends-routine-gas-flaring-expands-lpg-investment-mgt/",
-                "source": "Realnews Magazine",
-                "date": "2026-07-05T17:57:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France’s richest man Arnault hit with €22 million tax assessment",
-                "desc": "The heart of the matter concerns the “complex shareholding” of  LVMH Moët Hennessy Louis Vuitton SE.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2283728255-e1783273976104.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/05/france-richest-man-lvmh-billionaire-bernard-arnault-22-million-euro-tax-assessment/",
-                "source": "Fortune",
-                "date": "2026-07-05T17:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "$3.85m industrial site to be divided and sold",
-                "desc": "RM Capital acquired a 5,144sqm corner site on Central Park Road, near the entrance to the Yandina Industrial Park, for $3.85m.",
-                "image": "https://www.sunshinecoastnews.com.au/wp-content/uploads/2026/06/SCN230626-JoshMyers-RemiRafter-RMC-Yandina-Fund.jpg",
-                "url": "https://www.sunshinecoastnews.com.au/2026/07/06/3-85m-industrial-site-to-be-divided-and-sold/",
-                "source": "Sunshine Coast News",
-                "date": "2026-07-05T17:55:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VAT Income Boosts Nigeria’s Non-Oil Economy, Analysts Positive On Outlook",
-                "desc": "Nigeria’s improved value-added tax (VAT) collection continues to drive growth in the non-oil sector, resulting in significant diversification away from a",
-                "image": "https://dmarketforces.com/wp-content/uploads/2026/07/VAT-Income-Boosts-Nigerias-Non-Oil-Economy-Analysts-Positive-on-Outlook.jpg",
-                "url": "https://dmarketforces.com/vat-income-boosts-nigerias-non-oil-economy-analysts-positive-on-outlook/",
-                "source": "MarketForces Africa",
-                "date": "2026-07-05T17:48:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SK Hynix seeks access to AI investors in $29 billion U.S. listing",
-                "desc": "Over the past 12 months, SK Hynix’s Korea-listed shares and Micron’s stock have gained about 700%.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2283571482-e1783273315632.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/05/sk-hynix-us-stock-listing-nasdaq-29-billion-micron-ai-boom-chips/",
-                "source": "Fortune",
-                "date": "2026-07-05T17:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "She Code Africa empowers over 150 women in Edo with digital skills",
-                "desc": "More than 150 women and girls in Edo State have successfully completed a six-day digital literacy programme aimed at equipping",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Edo-women.jpg",
-                "url": "https://businessday.ng/life/article/she-code-africa-empowers-over-150-women-in-edo-with-digital-skills/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-05T17:47:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CEMAC Central Bank Eyes Yuan Reserves to Cut Transaction Costs in Trade with China",
-                "desc": "The BEAC is considering adding China’s yuan to its foreign exchange reserves to support trade with China\nHolding yuan reserves could reduce currency",
-                "image": "https://www.ecofinagency.com/media/k2/items/cache/dbbed2b719280a99ff84d751f56548af_S.jpg",
-                "url": "https://www.ecofinagency.com/news-finances/0507-57080-cemac-central-bank-eyes-yuan-reserves-to-cut-transaction-costs-in-trade-with-china",
-                "source": "Ecofin Agency",
-                "date": "2026-07-05T17:42:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Was Volatile in the First Half of 2026. Here's How to Invest in Gold for the Rest of the Year.",
-                "desc": "The volatility in gold looks set to continue, but the underlying fundamentals favor taking a positive long-term view on the gold price.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876412%2Fgold-demand-first-quarter-2026.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/05/gold-was-volatile-in-the-first-half-of-2026-heres/",
-                "source": "The Motley Fool",
-                "date": "2026-07-05T17:36:19Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Super Mario Bros. Wonder dev reveals how the Inchworm Pipe sound effect was made",
+                "desc": "One of the developers behind Super Mario Bros. Wonder has shared some in-depth insight into how he came up with the sound effect for the Inchworm Pipe. Warp Pipes have long been a staple of the series. In Super Mario Bros. Wonder, the game introduces a new take on that element. The Inchworm Pipe comes to life as part of...",
+                "image": "https://nintendoeverything.com/wp-content/uploads/Mario-Wonder-Inchworm-Pipe-sound-effect.jpg",
+                "url": "https://nintendoeverything.com/super-mario-bros-wonder-dev-reveals-how-the-inchworm-pipe-sound-effect-was-made/",
+                "source": "Nintendo Everything",
+                "date": "2026-07-05T21:33:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nintendo’s Hit Sci-Fi Franchise Officially Returns This Month",
+                "desc": "Nintendo's Splatoon series is making a comeback soon with a single-player spin-off that will play with the popular shooter's formula.",
+                "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/nintendo-logo.jpg?w=1600&h=900&fit=crop",
+                "url": "https://collider.com/splatoon-raiders-nintendo-switch-2-release-july-23-2026/",
+                "source": "Collider",
+                "date": "2026-07-05T21:30:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mini Suites Give NYC Office Tenants Max Flexibility",
+                "desc": "Increasing preference for flexible and scalable office space by both small and large companies has given rise to \"mini suites\" within New York City office buildings.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4acb01b0e0826aaba17f34/0x0.jpg?format=jpg&crop=1264,711,x0,y38,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/jeffsteele/2026/07/05/mini-suites-give-nyc-office-tenants-max-flexibility/",
+                "source": "Forbes",
+                "date": "2026-07-05T21:26:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "It Might Be Cheaper To Buy A Nintendo Switch 2 In Japan, But There's Just One Problem",
+                "desc": "The price gap between the U.S. and Japanese Switch 2 is sizable, but Nintendo built in one limitation that changes the math for buyers.",
+                "image": "https://www.bgr.com/img/gallery/it-might-be-cheaper-to-buy-a-nintendo-switch-2-in-japan-but-theres-just-one-problem/l-intro-1782915216.jpg",
+                "url": "https://www.bgr.com/2205851/is-nintendo-switch-2-cheaper-in-japan/",
+                "source": "bgr.com",
+                "date": "2026-07-05T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Safari's New MCP Server Enables AI Debugging For SEO And CWV",
+                "desc": "Apple's WebKit announced a new MCP server for Safari, enabling AI agents to debug websites for SEO and Core Web Vitals.",
+                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/apple-webkit-safari-mcp-378.jpg",
+                "url": "https://www.searchenginejournal.com/safaris-mcp-server/581487/",
+                "source": "Search Engine Journal",
+                "date": "2026-07-05T21:15:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nintendo Switch 2 Edition is certainly worth checking out",
+                "desc": "Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition is a worthy upgrade for fans of the franchise.",
+                "image": "https://www.theaureview.com/wp-content/uploads/2026/07/xenoblade_chronicles_definitive_edition_ns2e-1.jpg",
+                "url": "https://www.theaureview.com/games/xenoblade-chronicles-definitive-edition-nintendo-switch-2-edition-review/",
+                "source": "The AU Review",
+                "date": "2026-07-05T21:04:24Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "I never use Gmail on Android without changing these 6 settings",
                 "desc": "Time to actually set up your Gmail.",
@@ -1210,63 +1264,90 @@
                 "source": "PCMag",
                 "date": "2026-07-05T17:00:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Summer Games Done Quick 2026 is starting right about now.",
-                "desc": "Catch the event over the next week on Twitch, though my preferred way to watch is to catch VODs after the fact on YouTube.\nYou can browse the whole schedule on the GDQ website. This year, there’s even a pinball showcase.\n[Link: Summer Games Done Quick 2026 Schedule | https://gamesdonequick.com/schedule/66 | Games Done Quick]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/games/961118/summer-games-done-quick-2026-is-starting-right-about-now",
-                "source": "The Verge",
-                "date": "2026-07-05T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blood Strike × One Punch Man Collaboration Available Now",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Blood-Strike-One-Punch-Man-Collaboration-Available-Now",
-                "source": "Games Press",
-                "date": "2026-07-05T16:58:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ARK: SURVIVAL ASCENDED EXPANDS TO THE SEA AND SKY WITH TIDES OF FORTUNE & SURPRISE DRAGONTOPIA DROP!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/06/051845-b9ff99c6/cefa24a4-3123-2324-1cc1-f7a11053334b.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=bc2cae8fa1dc95c6bf259cda149834e1f9cfd3000ec283d722ab8f9d861a3813",
-                "url": "https://www.gamespress.com/de/ARK-SURVIVAL-ASCENDED-EXPANDS-TO-THE-SEA-AND-SKY-WITH-TIDES-OF-FORTUNE",
-                "source": "Games Press",
-                "date": "2026-07-05T16:58:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ARK: SURVIVAL ASCENDED EXPANDS TO THE SEA AND SKY WITH TIDES OF FORTUNE & SURPRISE DRAGONTOPIA DROP!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/06/051845-b9ff99c6/cefa24a4-3123-2324-1cc1-f7a11053334b.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=bc2cae8fa1dc95c6bf259cda149834e1f9cfd3000ec283d722ab8f9d861a3813",
-                "url": "https://www.gamespress.com/ARK-SURVIVAL-ASCENDED-EXPANDS-TO-THE-SEA-AND-SKY-WITH-TIDES-OF-FORTUNE",
-                "source": "Games Press",
-                "date": "2026-07-05T16:58:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Razer x Wuthering Waves Collection Now Open For Pre",
-                "desc": "Razer has announced the Razer x Wuthering Waves Collection in collaboration with Kuro Games, featuring four Denia-themed gaming peripherals now available for pre-order globally.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/06005228/razerxwutheringwavescover.jpg",
-                "url": "https://pokde.net/system/pc/pc-accessory/razer-x-wuthering-waves-collection",
-                "source": "Pokde.Net",
-                "date": "2026-07-05T16:55:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crimson Desert update 1.13.00 is live: Damiane and Oongka reach the Abyss",
-                "desc": "Crimson Desert is now on version 1.13.00, and the biggest change is easy to spot: Damiane and Oongka can finally enter the Abyss. Insert inline Ad her",
-                "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/07/crimson-desert-update-1-13-00-is-live-damiane-and-oongka-rea-20260705.jpg",
-                "url": "https://en.softonic.com/articles/crimson-desert-update-1-13-00-is-live-damiane-and-oongka-reach-the-abyss?ex=RAMP-4479.0&rex=true",
-                "source": "en.softonic.com",
-                "date": "2026-07-05T16:52:30Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Pope Leo XIV Says Christ is Hope Amid the Scourge of War",
+                "desc": "The pontiff prayed the Angelus in St. Peter’s Square before traveling to Castel Gandolfo for three weeks of vacation.",
+                "image": "https://www.aciafrica.org/images/_ris2392_bwuukz.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22753/pope-leo-xiv-says-christ-is-hope-amid-the-scourge-of-war",
+                "source": "ACI Africa",
+                "date": "2026-07-05T21:35:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South African Court Allows Private Rhino Horn Exports",
+                "desc": "A South African court dismissed a government appeal, allowing a private farmer to export rhino horn from his 450 captive rhinos.",
+                "image": "https://www.briefs.co/wp-content/uploads/2026/07/south-african-court-allows-private-rhino-owners-to-export-ho.png",
+                "url": "https://www.briefs.co/news/south-african-court-allows-private-rhino-owners-to-export-horn/",
+                "source": "Briefs Finance",
+                "date": "2026-07-05T21:27:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mexico vs England: Thomas Tuchel's side face a huge altitude problem by playing World Cup round of 16 at 7,000 feet",
+                "desc": "England take on Mexico in Mexico City for a place in the World Cup quarter-finals on Monday morning at 1am UK time; Thomas Tuchel says playing at an altitude of 7,000 feet is a huge advantage for the co-hosts, with England unable to adapt to the conditions",
+                "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-mexico-azteca-stadium_7288006.jpg?20260702120417",
+                "url": "https://www.skysports.com/football/news/12098/13559666/mexico-vs-england-thomas-tuchels-side-face-a-huge-altitude-problem-by-playing-world-cup-round-of-16-at-7-000-feet",
+                "source": "Sky Sports",
+                "date": "2026-07-05T21:17:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump to meet Ukraine's Zelenskyy and Syria's al-Sharaa at NATO summit",
+                "desc": "Trump plans to meet with Ukrainian President Volodymyr Zelenskyy and Syrian President Ahmad al-Sharaa on Wednesday, the White House said.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108322378-1781606380324-gettyimages-2281244016-AFP_B78X7KA.jpeg?v=1781606424&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/05/trump-to-meet-ukraines-zelenskyy-and-syrias-al-sharaa-at-nato-summit.html",
+                "source": "CNBC",
+                "date": "2026-07-05T21:14:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mexico vs England: Azteca Stadium issues shelter-in-place order because of severe weather",
+                "desc": "Supporters are told to stay in their seats as an electrical storm approaches Azteca Stadium before Mexico v England in the last 16 of the World Cup.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2117/live/8c88b0c0-78b8-11f1-a153-7f64e09767e4.jpg",
+                "url": "https://www.bbc.com/sport/football/articles/clyeegldnmpo",
+                "source": "BBC",
+                "date": "2026-07-05T21:14:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
+                "desc": "Since he started work as NATO secretary-general almost two years ago, Mark Rutte has spent much of his time trying to keep the United States anchored to the world’s biggest military alliance.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/0434734/2147483647/strip/true/crop/5545x2911+0+393/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2Fac%2F4790bb574a688f1e626ee4cdc08c%2Fb4cd0207e81442d6baea1429be763f3c.jpg",
+                "url": "https://www.latimes.com/world-nation/story/2026-07-05/nato-chief-faces-challenge-at-summit-as-trump-demands-loyalty-not-just-burden-sharing",
+                "source": "Los Angeles Times",
+                "date": "2026-07-05T21:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wildfires rage in Portugal, Greece and Spain while Greek authorities warn of toxic smoke",
+                "desc": "Firefighters battled wildfires in Portugal, Greece and Spain on Sunday, with Spain and Italy sending reinforcements to Portugal to fight a massive blaze burning for several days.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Europe-wildfires.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11953775/wildfires-portugal-greece-spain-toxic-smoke/",
+                "source": "Global News",
+                "date": "2026-07-05T21:12:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICC exit: Amnesty Intl decries waning rights in Burkina Faso, Mali, Niger",
+                "desc": "Amnesty International is alarmed by the withdrawal of Burkina Faso, Mali, and Niger from the Rome Statute of the International Criminal Court (ICC). The",
+                "image": "https://dailypost.ng/wp-content/uploads/2026/07/Amnesty.jpeg",
+                "url": "https://dailypost.ng/2026/07/05/icc-exit-amnesty-intl-decries-waning-rights-in-burkina-faso-mali-niger/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-07-05T21:03:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Watch Mexico Vs. England Online for Free From Anywhere",
+                "desc": "The Round of 16 is underway at the World Cup. We'll show you where to watch Mexico vs. England online.",
+                "image": "https://i.insider.com/6a4ab4d365e65d39ff1c9c3d?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-mexico-vs-england-world-cup-2026",
+                "source": "Business Insider",
+                "date": "2026-07-05T21:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Japan’s New Restroom Guidelines Aim to Reduce Waiting Times for Women",
                 "desc": "Stations, airports, and bus terminals in Japan tend to have fewer toilets for women than men, based on past ideas that men were more likely to be passing through. New government guidelines seek to address this disparity.",
@@ -1815,89 +1896,8 @@
                 "source": "Ynetnews",
                 "date": "2026-07-05T17:07:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sierra Leone Suspends $25 Airport Security Levy",
-                "desc": "Sierra Leone suspends $25 airport security levy pending investigation, a move expected to ease travel, ahead of the July ECOWAS Summit",
-                "image": "https://cdn.thenewsnigeria.com.ng/2026/07/Bioo.png",
-                "url": "https://thenewsnigeria.com.ng/2026/07/05/sierra-leone-suspends-25-airport-security-levy/",
-                "source": "thenewsnigeria.com.ng",
-                "date": "2026-07-05T16:59:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firefighters battle wildfires in Portugal, Greece and Spain",
-                "desc": "Hundreds of firefighters are battling wildfires in Portugal, Spain and Greece. Spain and Italy have sent reinforcements to Portugal, where a massive blaze has been burning for more than three days.",
-                "image": "https://dims.apnews.com/dims4/default/63a6775/2147483647/strip/true/crop/3425x2282+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F0c%2F63a5c1dbf21093d65d51311dec7b%2F0e26370c6c0c4177b39dcb36b6640a37",
-                "url": "https://apnews.com/article/greece-portugal-wildfire-vouzela-thessaloniki-f2ad8db8f37063ba0f06adb25fbd7a78",
-                "source": "AP News",
-                "date": "2026-07-05T16:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Powerless Putin is being humiliated in his home city",
-                "desc": "Ukraine's attacks on St Petersburg are putting unprecedented pressure on Russia's leader - just as Nato is about to meet",
-                "image": "https://inews.co.uk/wp-content/uploads/2026/07/SEI_300087351.jpg?crop=0px%2C98px%2C1920px%2C1083px&resize=1200%2C675",
-                "url": "https://inews.co.uk/news/world/powerless-putin-humiliated-home-city-4625852",
-                "source": "The i Paper",
-                "date": "2026-07-05T16:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pope Leo addresses issues of migrant deaths, AI weapons on world stage",
-                "desc": "Pope Leo XIV is going on summer vacation after a whirlwind finale to the first half of 2026.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/ae993ff/2147483647/strip/true/crop/1542x810+0+109/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2F2f%2F594b0f4041d4abbab85fee019dff%2F2b8a5e82ccc64c1193add9217beca99a.jpg",
-                "url": "https://www.latimes.com/world-nation/story/2026-07-05/from-addressing-migrant-deaths-to-ai-weapons-pope-leo-flexes-papal-muscle-on-world-stage",
-                "source": "Los Angeles Times",
-                "date": "2026-07-05T16:55:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Congo Pushes for Global Rules to Manage Mineral Exploitation",
-                "desc": "Congo Pushes for Global Rules to Manage Mineral Exploitation - PassBlue",
-                "image": "https://passblue.com/wp-content/uploads/2026/07/2026-07-01_Zenon-Ngay-Mukongo_DR-Congo_179.jpg",
-                "url": "https://passblue.com/2026/07/05/congo-pushes-for-global-rules-to-manage-mineral-exploitation/",
-                "source": "PassBlue",
-                "date": "2026-07-05T16:49:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "driving dad went on the run after horror crash killed his seven",
-                "desc": "Wanted man Emmanuel Sakyi was convicted in his absence of causing death by dangerous driving",
-                "image": "https://i2-prod.birminghammail.co.uk/article34240710.ece/ALTERNATES/s1200d/0_KA_BEM050626_crash.jpg",
-                "url": "https://www.birminghammail.co.uk/news/uk-news/drink-driving-dad-went-run-34240698",
-                "source": "Birmingham Live",
-                "date": "2026-07-05T16:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Catholic sect in Cork says prayers for Pope Leo after being excommunicated by pontiff",
-                "desc": "The Catholic Church considers the unauthorised ordination of bishops so serious that it causes those taking part in the ceremony to be automatically excommunicated",
-                "image": "https://www.irishexaminer.com/cms_media/module_img/10289/5144918_5_org_Our_20Lady_20of_20the_20Rosary.jpg",
-                "url": "https://www.irishexaminer.com/news/arid-41874371.html",
-                "source": "Irish Examiner",
-                "date": "2026-07-05T16:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "POLITICAL WEEK AHEAD: Sita probe, healthcare conference and Madlanga commission dominate busy week",
-                "desc": "PSC releases Sita probe findings as Madlanga commission resumes hearings this week",
-                "image": "https://www.businessday.co.za/resizer/v2/2L7UVVOUSRC55PMTLV6UTHBPCY.jpg?smart=true&auth=79251e308d8bcd5854039e172bd3c6c94520e4fbe7700ffdc7d72616d193701b&width=1200&height=630",
-                "url": "https://www.businessday.co.za/politics/2026-07-05-political-week-ahead-sita-probe-healthcare-conference-and-madlanga-commission-dominate-busy-week/",
-                "source": "Business Day",
-                "date": "2026-07-05T16:43:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What is the religious and political messaging behind Khamenei’s funeral?",
-                "desc": "The Islamic Republic is leaning into religious imagery to hone its political messages locally and across the region.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260703__B94M7UN__v1__HighRes__StateFuneralOfLateSupremeLeaderAyatollahAliKham-1783042254.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral",
-                "source": "Al Jazeera",
-                "date": "2026-07-05T16:42:44Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-06T09:00:48.648689Z"
+    "lastGlobalSync": "2026-07-06T09:40:43.372074Z"
 }
