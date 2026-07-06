@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "$10m mansion finally sells after sitting vacant for years",
+                "desc": "The vendors thought it was too valuable to rent out., All things property, under OneRoof",
+                "image": "https://s.oneroof.co.nz/image/f0/c3/f0c3898a94feeffa02aac9c283516e82.jpg?x-oss-process=image/quality,q_80",
+                "url": "https://www.oneroof.co.nz/news/10m-mansion-finally-sells-after-sitting-vacant-for-years-49800",
+                "source": "OneRoof",
+                "date": "2026-07-05T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BIZ BUZZ: Gasmen is next BSP treasury chief",
+                "desc": "The hunt for the next Bangko Sentral ng Pilipinas (BSP) treasury chief is over with the successor handpicked by the central bank's governor.",
+                "image": "https://business.inquirer.net/files/2026/06/BizBuzzLogo.jpg",
+                "url": "https://business.inquirer.net/598967/biz-buzz-gasmen-is-next-bsp-treasury-chief",
+                "source": "Inquirer.net",
+                "date": "2026-07-05T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israel delegation to leave for US amid concern about military aid",
+                "desc": "The current military aid agreement expires in 2028 and there is concern that the Trump administration is foot dragging on future aid.",
+                "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1740648996/direct/shutterstock_2589320083_awow3f.jpg",
+                "url": "https://en.globes.co.il/en/article-israel-delegation-to-leave-for-us-amid-concern-about-military-aid-1001547961",
+                "source": "Globes - Israel Business News",
+                "date": "2026-07-05T17:57:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seplat ends routine gas flaring, expands LPG investment - Mgt",
+                "desc": "SEPLAT Energy Plc says it has ended routine gas flaring across its onshore operations in Nigeria, describing the milestone as a major step in its commitment to cleaner energy and environmental sustainability. Mr Samson Ezugworie, Chief Operating Officer and Executive Director of Seplat Energy, disclosed this on Sunday in Benin during a parley with journalists.",
+                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/IMG-20260705-WA0011.jpg",
+                "url": "https://realnewsmagazine.net/seplat-ends-routine-gas-flaring-expands-lpg-investment-mgt/",
+                "source": "Realnews Magazine",
+                "date": "2026-07-05T17:57:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France’s richest man Arnault hit with €22 million tax assessment",
+                "desc": "The heart of the matter concerns the “complex shareholding” of  LVMH Moët Hennessy Louis Vuitton SE.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2283728255-e1783273976104.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/05/france-richest-man-lvmh-billionaire-bernard-arnault-22-million-euro-tax-assessment/",
+                "source": "Fortune",
+                "date": "2026-07-05T17:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "$3.85m industrial site to be divided and sold",
+                "desc": "RM Capital acquired a 5,144sqm corner site on Central Park Road, near the entrance to the Yandina Industrial Park, for $3.85m.",
+                "image": "https://www.sunshinecoastnews.com.au/wp-content/uploads/2026/06/SCN230626-JoshMyers-RemiRafter-RMC-Yandina-Fund.jpg",
+                "url": "https://www.sunshinecoastnews.com.au/2026/07/06/3-85m-industrial-site-to-be-divided-and-sold/",
+                "source": "Sunshine Coast News",
+                "date": "2026-07-05T17:55:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "VAT Income Boosts Nigeria’s Non-Oil Economy, Analysts Positive On Outlook",
+                "desc": "Nigeria’s improved value-added tax (VAT) collection continues to drive growth in the non-oil sector, resulting in significant diversification away from a",
+                "image": "https://dmarketforces.com/wp-content/uploads/2026/07/VAT-Income-Boosts-Nigerias-Non-Oil-Economy-Analysts-Positive-on-Outlook.jpg",
+                "url": "https://dmarketforces.com/vat-income-boosts-nigerias-non-oil-economy-analysts-positive-on-outlook/",
+                "source": "MarketForces Africa",
+                "date": "2026-07-05T17:48:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SK Hynix seeks access to AI investors in $29 billion U.S. listing",
+                "desc": "Over the past 12 months, SK Hynix’s Korea-listed shares and Micron’s stock have gained about 700%.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2283571482-e1783273315632.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/05/sk-hynix-us-stock-listing-nasdaq-29-billion-micron-ai-boom-chips/",
+                "source": "Fortune",
+                "date": "2026-07-05T17:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "She Code Africa empowers over 150 women in Edo with digital skills",
+                "desc": "More than 150 women and girls in Edo State have successfully completed a six-day digital literacy programme aimed at equipping",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Edo-women.jpg",
+                "url": "https://businessday.ng/life/article/she-code-africa-empowers-over-150-women-in-edo-with-digital-skills/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-05T17:47:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CEMAC Central Bank Eyes Yuan Reserves to Cut Transaction Costs in Trade with China",
+                "desc": "The BEAC is considering adding China’s yuan to its foreign exchange reserves to support trade with China\nHolding yuan reserves could reduce currency",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/dbbed2b719280a99ff84d751f56548af_S.jpg",
+                "url": "https://www.ecofinagency.com/news-finances/0507-57080-cemac-central-bank-eyes-yuan-reserves-to-cut-transaction-costs-in-trade-with-china",
+                "source": "Ecofin Agency",
+                "date": "2026-07-05T17:42:34Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Gold Was Volatile in the First Half of 2026. Here's How to Invest in Gold for the Rest of the Year.",
                 "desc": "The volatility in gold looks set to continue, but the underlying fundamentals favor taking a positive long-term view on the gold price.",
                 "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876412%2Fgold-demand-first-quarter-2026.png&w=1200&op=resize",
@@ -542,99 +632,63 @@
                 "source": "Wccftech",
                 "date": "2026-07-05T14:34:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "America's AI economy is creating jobs, and putting millions at risk",
-                "desc": "While founders are launching companies faster than ever, researchers warn that millions of white-collar workers face growing disruption.",
-                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/06/23/ry7rYZOGfg/ry7rYZOGfg_0_171_2000_1126_0_large.jpg",
-                "url": "https://www.calcalistech.com/ctechnews/article/ry700fkuqmx",
-                "source": "CTech",
-                "date": "2026-07-05T14:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 Thing That Could Send Meta Platforms Stock Soaring in 2026",
-                "desc": "Meta Platforms trades at an incredible discount, and its growth is poised to accelerate.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F859620%2Fsocial-media-networking-likes-facebook-meta-instagram-1200x800-5b2df79.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/05/1-thing-that-could-send-meta-platforms-stock-soar/",
-                "source": "The Motley Fool",
-                "date": "2026-07-05T14:31:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dalal Street Week Ahead: TCS Q1 earnings, FOMC minutes, oil prices, monsoon progress among 10 key factors to watch",
-                "desc": "Going ahead, the market is expected to remain positive despite intermittent consolidation, with investors focusing on the FOMC minutes, June quarter earnings, oil prices, and the progress of the monsoon.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2022/01/Dalal-Street-AFP.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-tcs-q1-earnings-fomc-minutes-oil-prices-monsoon-progress-among-10-key-factors-to-watch-13966481.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-05T14:28:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa proposes crypto tax guidance under existing rules",
-                "desc": "South Africa’s SARS seeks feedback on draft crypto tax guidance, treating trades, swaps and spending under current income and capital gains rules.",
-                "image": "https://media.crypto.news/2026/02/Crypto-payments-are-entering-the-mainstream.webp",
-                "url": "https://crypto.news/south-africa-proposes-crypto-tax-guidance-under-existing-rules/",
-                "source": "Crypto News",
-                "date": "2026-07-05T14:24:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China's 'artificial sun' hits new milestone",
-                "desc": "China has achieved a major milestone in its pursuit of commercial nuclear fusion as two domestically developed superconducting magnets successfully passed full-load testing. These critical components belong to the Experimental Advanced Superconducting",
-                "image": "https://news.cgtn.com/news/2026-07-05/China-s-artificial-sun-hits-new-milestone-1OxkTJLqBCU/img/33a1303a984240769967db7c2e863bf7/33a1303a984240769967db7c2e863bf7-1280.jpeg",
-                "url": "https://news.cgtn.com/news/2026-07-05/China-s-artificial-sun-hits-new-milestone-1OxkTJLqBCU/p.html",
-                "source": "news.cgtn.com",
-                "date": "2026-07-05T14:24:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "With vacations 'crazy expensive,' small businesses say Americans are staying closer to home",
-                "desc": "“This summer, we’re still doing a couple overnights and the lake house, but nothing else.”",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26181700711209-e1783260954584.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/05/high-airfares-gas-prices-vacations-small-business-owners-summer/",
-                "source": "Fortune",
-                "date": "2026-07-05T14:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If You'd Parked $1,000 in the iShares Semiconductor ETF 5 Years Ago, Here's What You'd Have Today",
-                "desc": "The ETF has been a four-bagger in that span.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876293%2Fgettyimages-1319077248.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/05/if-1000-ishares-semiconductor-etf-how-much/",
-                "source": "The Motley Fool",
-                "date": "2026-07-05T14:00:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hyundai And Kia Want To Put Wind Turbines In Your Car's Bumper",
-                "desc": "This hybrid or EV recharging patent is just so weird it might actually work.",
-                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2026-hyundai-palisade-grille-shutter.jpg?w=1600&h=900&fit=crop",
-                "url": "https://carbuzz.com/hyundai-kia-wind-turbine-patent/",
-                "source": "CarBuzz",
-                "date": "2026-07-05T14:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kinyara Sugar to Pay Shs 5.5bn as Farmer Cash Top-up",
-                "desc": "Kinyara Sugar Ltd is set to pay Shs 5.5 billion as cash top up to farmers that supplied sugarcane to Kinyara Sugar factory during the 2025/2026 financial year. The cash top up refers to the additional money Kinyara Sugar Ltd pays to its contracted farmers at the end of a financial year on top of …",
-                "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/97e2bcc2-9142-490e-8fad-743a535ca536.jpeg",
-                "url": "https://chimpreports.com/kinyara-sugar-to-pay-shs-5-5b-as-farmer-cash-top-up/",
-                "source": "ChimpReports",
-                "date": "2026-07-05T13:59:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The best 4th of July sales aren't over yet: Here's what to buy from Walmart, Home Depot, REI, Patagonia and more",
-                "desc": "Our team of shopping experts tracked down the best sales across the web — score big at Best Buy, Kate Spade Outlet, Lululemon, Old Navy, QVC and more.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ebda6b472687967726468a8639bac020ab6a16bd2c4e785a7d190b2e9223fa8c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fupdatedjuly4main1_6167.png",
-                "url": "https://shopping.yahoo.com/deals/article/the-best-4th-of-july-sales-arent-over-yet-heres-what-to-buy-from-walmart-home-depot-rei-patagonia-and-more-205550822.html",
-                "source": "Yahoo",
-                "date": "2026-07-05T13:58:04Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I stopped paying for file recovery - Windows had a hidden tool all along",
+                "desc": "Your recovery odds depend on timing, not which tool you buy.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/using-winfr-on-windows.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/i-stopped-paying-for-file-recovery-windows-had-a-hidden-tool-all-along/",
+                "source": "MakeUseOf",
+                "date": "2026-07-05T18:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hideo Kojima Warns of 'Frightening' Digital Future After PlayStation Reveals Plan to End Physical Disc Production",
+                "desc": "\"So, what is happening to video games in 2028, might also happen to movies.\"",
+                "image": "https://sm.ign.com/t/ign_in/news/h/hideo-koji/hideo-kojima-warns-of-frightening-digital-future-after-plays_3v3f.1200.jpg",
+                "url": "https://in.ign.com/metal-gear-solid/265473/hideo-kojima-warns-of-frightening-digital-future-after-playstation-reveals-plan-to-end-physical-disc",
+                "source": "IGN India",
+                "date": "2026-07-05T18:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 18 Pricing and Features Revealed, Release Date Insight",
+                "desc": "iPhone 18 pricing revealed: Find out if it will cost more or less than iPhone 17, plus key features and the expected release date you can't miss.",
+                "image": "https://cdn.rswebsols.com/wp-content/uploads/2026/02/red-iphone-18.jpg",
+                "url": "https://www.rswebsols.com/news/iphone-18-pricing-revealed-will-it-cost-less-or-more-than-iphone-17-discover-anticipated-features-and-release-date/",
+                "source": "RS Web Solutions",
+                "date": "2026-07-05T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SmallRig Transformers Dual Handheld Video Cage Kit with Wireless Control Review",
+                "desc": "The SmallRig Transformers Megatron Dual Handheld Video Cage Kit with Wireless Control for iPhone 17 Pro/Pro Max is hard to justify for the price, with a bulky design and only a handful of useful features.",
+                "image": "https://www.cgmagonline.com/wp-content/uploads/2026/05/smallrig-transformers-megatron-dual-handheld-video-cage-kit-review-2026-05-04-373605.jpg",
+                "url": "https://www.cgmagonline.com/review/hardware/smallrig-transformers-video-cage-kit/",
+                "source": "CGMagazine",
+                "date": "2026-07-05T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hideo Kojima Really Sad About Frightening Digital Future After Sony Ends PlayStation Physical Disc Production",
+                "desc": "Metal Gear Solid and Death Stranding creator Hideo Kojima has warned of a \"frightening\" digital future just days after Sony announced it would soon end production for physical PlayStation discs.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/05/hideo-kojima-1783273421850.png?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/hideo-kojima-warns-of-frightening-digital-future-after-playstation-reveals-plan-to-end-physical-disc-production",
+                "source": "IGN",
+                "date": "2026-07-05T17:50:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Long Do Owners Say Sennheiser Headphones Usually Last?",
+                "desc": "Sennheiser makes some of the best premium headphones on the market, and that quality translates to longevity. A pair of Sennheisers can last years or decades.",
+                "image": "https://www.bgr.com/img/gallery/how-long-do-owners-say-sennheiser-headphones-usually-last/l-intro-1782782679.jpg",
+                "url": "https://www.bgr.com/2205199/how-long-do-owners-say-sennheiser-headphones-last-sennheiser/",
+                "source": "bgr.com",
+                "date": "2026-07-05T17:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Honkai: Star Rail Version 4.4 Launches July 15 with Himeko Nova and Fate/stay night Collaboration Phase 2",
                 "desc": "HoYoverse has announced Honkai: Star Rail Version 4.4 \"In Ravages Does the Whistle Sound,\" launching July 15 with a new story arc, Himeko Nova, and the second phase of the Fate/stay night Unlimited Blade Works collaboration beginning July 24.",
@@ -1210,63 +1264,99 @@
                 "source": "Kotaku",
                 "date": "2026-07-05T14:18:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "ASUS ExpertBook Ultra packs Intel Core Ultra, unthrottled cooling into sub-1kg frame starting at ₱129,995",
-                "desc": "The ASUS ExpertBook Ultra business laptop has launched in the Philippines with a starting price of ₱129,995 ($2,115). Here are its specs!",
-                "image": "https://www.revu.com.ph/wp-content/uploads/2026/07/ASUS-ExpertBook-Ultra-price-specs-REVU-Philippines-a.jpg",
-                "url": "https://www.revu.com.ph/2026/07/asus-expertbook-ultra-price-philippines/",
-                "source": "REVU Philippines",
-                "date": "2026-07-05T14:18:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Starlux Airlines receives “Silver Airsorayama” A350",
-                "desc": "Starlux Airlines has taken delivery of the eye-catching “Silver Airsorayama” Airbus A350-1000",
-                "image": "https://www.aerotime.aero/images/2026/01/STARLUX-AIRSORAYAMA-livery-Airbus-A350-1000-1-e1783260853337.jpg",
-                "url": "https://www.aerotime.aero/articles/starlux-airlines-receives-eye-catching-silver-airsorayama-a350-1000a",
-                "source": "AeroTime",
-                "date": "2026-07-05T14:15:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flipper Zero firmware development continues with community help",
-                "desc": "Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions.",
-                "image": "https://www.bleepstatic.com/content/hl-images/2024/09/09/flipper.jpg",
-                "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-                "source": "BleepingComputer",
-                "date": "2026-07-05T14:14:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Epic Games settles a court case against former contractor accused of leaking Fortnite collaborations",
-                "desc": "Former contractor Hayden Cohen has agreed to a judgment that bars them from \"possessing, accessing, using, or disclosing any of Epic’s confidential or trade sec",
-                "image": "https://assetsio.gnwcdn.com/fortnite-star-wars-galaxy-of-games.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/epic-games-fortnite-settles-leaker-contractor-lawsuit",
-                "source": "Eurogamer.net",
-                "date": "2026-07-05T14:06:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gakuran codes (July 2026)",
-                "desc": "Redeem new Gakuran codes, and a free reroll might help you escape butting heads with taller students in this ambitious school life sim.",
-                "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/gakuran-codes-featured-pcgn.jpg",
-                "url": "https://www.pcgamesn.com/gakuran/codes",
-                "source": "PCGamesN",
-                "date": "2026-07-05T14:06:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Razer partners with Kuro Games for official Wuthering Waves peripheral collection",
-                "desc": "Razer has announced the Wuthering Waves Collection, an official lineup of gaming peripherals created in collaboration with Kuro Games. Inspired by the game's newest Resonator, Denia, the collection features a gaming chair, a wireless keyboard, a wireless mouse, and an oversized mouse mat, all designed with custom-themed visuals. The Razer Iskur V2 X Wuthering Waves",
-                "image": "https://www.kitguru.net/wp-content/uploads/2026/07/wuthering-waves-1920x700-nocompress-732x330.jpg",
-                "url": "https://www.kitguru.net/peripherals/joao-silva/razer-partners-with-kuro-games-for-official-wuthering-waves-peripheral-collection/",
-                "source": "KitGuru",
-                "date": "2026-07-05T14:00:41Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Cape Town Airport drug arrest: Man caught with over 50kg of suspected khat",
+                "desc": "A 46-year-old man was arrested at Cape Town International Airport after police allegedly found more than 50kg of suspected khat hidden in three suitcases during a weekend operation.",
+                "image": "https://www.capetownetc.com/wp-content/uploads/2026/07/ed-1.jpeg",
+                "url": "https://www.capetownetc.com/crime/cape-town-airport-drug-arrest-man-caught-with-over-50kg-of-suspected-khat/",
+                "source": "Cape Town ETC",
+                "date": "2026-07-05T18:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An attack on Poland would be Putin’s last fail",
+                "desc": "The US has warned Poland that Russia was plotting to attack it in a “few months” time, which would be the fastest way to end the Ukraine war, in president Vladimir Putin’s ultimate fail. The Russian emperor would go home from Poland not just naked, but also with a broken nose.",
+                "image": "https://static.euobserver.com/2025/07/2e54d1fa-81f9-44c7-8907-15040744f2ad-ddc3e69c-9666-4a9f-baa5-9e56f3d94043-5a4a6256-28c7-4072-82f4-ab6d017ed8bc.jpeg",
+                "url": "https://euobserver.com/225852/an-attack-on-poland-would-be-putins-last-fail/",
+                "source": "EUobserver",
+                "date": "2026-07-05T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israel",
+                "desc": "Middle East News: Israeli Prime Minister Benjamin Netanyahu on Sunday pushed back against US Vice-President JD Vance's assertion that the United States is Israel's \\\"onl.",
+                "image": "https://static.toiimg.com/thumb/msid-132206146,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/middle-east/we-have-some-other-friends-like-india-netanyahu-pushes-back-after-vance-calls-us-only-ally-of-israel/articleshow/132201235.cms",
+                "source": "The Times of India",
+                "date": "2026-07-05T17:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live updates: Iran war news; new supreme leader still yet to appear at Khamenei’s funeral",
+                "desc": "The son and successor of slain Supreme Leader Ali Khamenei has still yet to appear publicly as Iran prepares for the largest procession in his dayslong funeral. Follow live updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284156537.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://edition.cnn.com/2026/07/05/world/live-news/iran-khamenei-funeral-war-trump",
+                "source": "CNN",
+                "date": "2026-07-05T17:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMCON CEO Alade receives 16th African Business Leadership Awards in UK",
+                "desc": "The Managing Director/Chief Executive Officer of Asset Management Corporation of Nigeria (AMCON), Mr Gbenga Alade, at the 16th African Business Leadership",
+                "image": "https://blueprint.ng/wp-content/uploads/2023/12/award-trophy-500x500-1.webp",
+                "url": "https://blueprint.ng/amcon-ceo-alade-receives-16th-african-business-leadership-awards-in-uk/",
+                "source": "Blueprint Newspapers",
+                "date": "2026-07-05T17:57:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mallory McMorrow drops out of Michigan’s Democratic Senate primary",
+                "desc": "Mallory McMorrow dropped out of the Democratic Senate primary in Michigan on Sunday, narrowing the field to two as the party faces a crucial choice next month in picking a nominee to defend a must-win seat.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-12-21t053726z-271000996-rc2tdiadgxbw-rtrmadp-3-usa-trump-economy-michigan-20260705174643403.JPG?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/05/politics/mallory-mcmorrow-michigan-senate-end-campaign",
+                "source": "CNN",
+                "date": "2026-07-05T17:55:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pak intel officer shot dead while rescuing woman from kidnappers in Islamabad",
+                "desc": "A Pakistan Air Force officer was shot dead in Islamabad after intervening when a woman appeared to be in distress. The killing near Air Headquarters has triggered an investigation, with no arrest announced yet.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pakistan-intel-officer-killed-055014498-16x9_0.jpg?VersionId=L.IwTB3Dhs2DIBH8O3mAgCOTmntHjvut",
+                "url": "https://www.indiatoday.in/world/story/pakistan-intel-officer-shot-dead-while-rescuing-woman-from-kidnappers-in-islamabad-2941268-2026-07-05",
+                "source": "India Today",
+                "date": "2026-07-05T17:54:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poll Finds Most Africans Prefer Domestic Funding for Development, Even if It Means Higher Taxes",
+                "desc": "Most Africans prefer governments to fund development with domestic resources, even if it means higher taxes, rather than rely on external",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/e732319376b6309208c2bd7c9fc860c5_S.jpg",
+                "url": "https://www.ecofinagency.com/news/0507-57081-poll-finds-most-africans-prefer-domestic-funding-for-development-even-if-it-means-higher-taxes",
+                "source": "Ecofin Agency",
+                "date": "2026-07-05T17:54:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Speaker Johnson says House will pass Trump’s voter ID bill through arduous process after GOP revolt",
+                "desc": "House Speaker Mike Johnson said he plans to move quickly to advance President Donald Trump’s signature voter ID legislation through the arduous budget reconciliation process once the House returns to Washington, downplaying the heightened tensions within the GOP after he sent lawmakers home early for the holidays after a few Republicans brought the floor to a halt.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284031914-20260705154836127.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/05/politics/johnson-house-voter-id-bill",
+                "source": "CNN",
+                "date": "2026-07-05T17:53:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Johnson Says Congress Must Address Birthright Citizenship After SCOTUS Loss",
+                "desc": "The House speaker said Congress must fight to end birthright citizenship after the Supreme Court blocked Trump's executive order.",
+                "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/GettyImages-2284032021.jpg?w=1200&crop=1",
+                "url": "https://www.newsweek.com/johnson-congress-birthright-citizenship-scotus-ruling-12159422",
+                "source": "Newsweek",
+                "date": "2026-07-05T17:52:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Eight rescued from seaplane that landed in Manhattan's East River",
                 "desc": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
@@ -1806,98 +1896,8 @@
                 "source": "The Globe and Mail",
                 "date": "2026-07-05T14:34:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Will India pay Hormuz service fees? Iran signals concessions for 'friendly' nations",
-                "desc": "Iran plans to introduce service fees for ships transiting the Strait of Hormuz but says countries it considers",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260618114154_hormuznewpicdeal.png",
-                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/will-india-pay-hormuz-service-fees-iran-signals-concessions-for-friendly-nations-article-13966489.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-05T14:32:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa: the \"rainbow nation\" under siege",
-                "desc": "The end of apartheid turned South Africa into the most powerful symbol of political reconciliation in the 20th century. For years, the so-called “rainbow nat...",
-                "image": "https://www.atalayar.com/media/atalayar/images/2026/07/03/2026070314531318610.webp",
-                "url": "https://www.atalayar.com/en/articulo/politics/south-africa-the-rainbow-nation-under-siege/20260703145220227415.html",
-                "source": "Atalayar",
-                "date": "2026-07-05T14:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marine Le Pen and Jordan Bardella pledge unity ahead of judicial verdict",
-                "desc": "This week, a Paris court will rule on whether Marine Le Pen can run in the 2027 presidential election. Ahead of the verdict, Le Pen and the party’s president Jordan Bardella pledged to work as a duo.",
-                "image": "https://images.euronews.com/articles/stories/09/82/57/47/1200x675_cmsv2_39ecb6c5-519b-56c3-85d8-cfd7c7d06ff8-9825747.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/05/marine-le-pen-and-jordan-bardella-pledge-unity-ahead-of-judicial-verdict",
-                "source": "Euronews.com",
-                "date": "2026-07-05T14:21:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Euro Cranes 2026: Uganda's Missions Unite to Honour Diaspora in Amsterdam",
-                "desc": "Six of Uganda's diplomatic missions in Europe came together in Amsterdam this weekend to honour the country's diaspora at the Euro Cranes Tournament, an annual football competition that has grown into one of the clearest...",
-                "image": "https://nilepost.co.ug/new_cms/wp-content/uploads/2026/07/025fafd5-13bf-427c-ac91-78efb0f34f92.jpg",
-                "url": "https://nilepost.co.ug/news/353797/euro-cranes-2026-ugandas-missions-unite-to-honour-diaspora-in-amsterdam",
-                "source": "Nilepost",
-                "date": "2026-07-05T14:15:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kepro, Mombasa Push for Waste Segregation and Circular Economy",
-                "desc": "By Mbungu Harrison Email, thecoastnewspaper@gmail.com The Kenya Extended Producer Responsibility Organization (Kepro) in partnership with...",
-                "image": "https://www.thecoast.co.ke/wp-content/uploads/2026/07/IMG-20260703-WA0036.jpg?_t=1783260745",
-                "url": "https://www.thecoast.co.ke/2026/07/05/kepro-mombasa-push-for-waste-segregation-and-circular-economy/20/12/business-news/thecoast/16782/14/",
-                "source": "The Coast Media Group",
-                "date": "2026-07-05T14:14:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Lincoln Memorial Reflecting Pool became a real-world test case for nanobubbles, tiny gas bubbles that can clean water, fight algae and potentially help restore polluted lakes and seas",
-                "desc": "Science News: zThe Lincoln Memorial Reflecting Pool in Washington, DC has become more than a landmark. It is now a real-world testing ground for nanobubbles, micros.",
-                "image": "https://static.toiimg.com/thumb/msid-132197005,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/science/the-lincoln-memorial-reflecting-pool-became-a-real-world-test-case-for-nanobubbles-tiny-gas-bubbles-that-can-clean-water-fight-algae-and-potentially-help-restore-polluted-lakes-and-seas/articleshow/132196944.cms",
-                "source": "The Times of India",
-                "date": "2026-07-05T14:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Less Arrogance and a Little More Humility’ - Mick Ryan",
-                "desc": "Australian Gen. Mick Ryan shares his thoughts on what NATO has not yet understood about Ukraine.",
-                "image": "https://static.kyivpost.com/storage/2026/06/18/9ce57289bdd1edad61a1c032b24a3665.jpg?w=1200&q=90&f=jpg",
-                "url": "https://www.kyivpost.com/interviews/79534",
-                "source": "Kyiv Post",
-                "date": "2026-07-05T14:00:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scientists are now eyeing a possible ‘Mega El Niño’",
-                "desc": "Meteorologists are warning that a powerful El Niño climate pattern intensifying in the Pacific Ocean could evolve into a rare “Super El Niño.”",
-                "image": "https://san.com/wp-content/uploads/2026/07/070426-Super-El-Nino-FI.jpg",
-                "url": "https://san.com/cc/scientists-are-now-eyeing-a-possible-mega-el-nino/",
-                "source": "Straight Arrow News - SAN - Unbiased. Straight Facts.",
-                "date": "2026-07-05T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UIU School of Business and Economics launches ‘NEXUS Seminar Series’",
-                "desc": "The School of Business and Economics (SOBE) at United International University (UIU) launched the “NEXUS Seminar Series” at UIU Campus on Saturday.\nThis long-term initiative will serve as an institutional bridge for continuous industry-academia conversations on the intersection of busi",
-                "image": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_64ab31a5fc956964c2398f139705dfd0.jpg",
-                "url": "https://thefinancialexpress.com.bd/education/uiu-school-of-business-and-economics-launches-nexus-seminar-series",
-                "source": "The Financial Express",
-                "date": "2026-07-05T13:53:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "At least 15 Yemeni government troops killed in Hodeidah fighting",
-                "desc": "Yemeni minister says more than 50 Houthi fighters were killed in the Hodeidah clashes.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4a3f03d3f3-1783250691.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting",
-                "source": "Al Jazeera",
-                "date": "2026-07-05T13:51:49Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-06T05:40:39.956008Z"
+    "lastGlobalSync": "2026-07-06T06:00:38.536189Z"
 }
