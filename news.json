@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Durian prices fall to $1 per kg as rainy weather affects quality",
+                "desc": "Durian prices have dropped by 20-30% year-on-year at the farm gate, with Ri6 selling for as low as VND28,000 (US$1.06) per kilogram, as prolonged rains have hit fruit quality. - VnExpress International",
+                "image": "https://vcdn1-english.vnecdn.net/2026/07/06/sr-1783070093-2736-1783308888.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=W5BwLonbBGb-RTQQPm1VuQ",
+                "url": "https://e.vnexpress.net/news/business/economy/durian-prices-fall-to-1-per-kg-as-rainy-weather-affects-quality-5093135.html",
+                "source": "VnExpress International",
+                "date": "2026-07-06T03:40:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Early GCash bull says P10 IPO price is too high",
+                "desc": "One of GCash’s earliest bulls is lowering his initial public offering (IPO) price expectations, arguing that today’s tougher market calls for a more conservative valuation.",
+                "image": "https://insiderph.com/uploads/articles/thumb_1783308573522_9wp0r5vjnxe2flt6bozh-800x600.webp?v=1",
+                "url": "https://insiderph.com/early-gcash-bull-says-p10-ipo-price-is-too-high",
+                "source": "InsiderPH",
+                "date": "2026-07-06T03:37:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Consumer Staples Stocks With Defensive Demand Investors May Want To Watch",
+                "desc": "Long term unemployment in the U.S. has climbed to more than 1.8 million people, up 55% from 2023, and the pressure on household budgets is starting to show in everyday spending. For investors, that kind of strain can change how consumer staples stocks behave, as shoppers adjust what goes into their grocery carts and bathroom cabinets. This article looks at how that backdrop might affect larger, established consumer staples companies, and highlights 3 stocks from our screener that could be...",
+                "image": "https://images.simplywall.st/asset/industry/5121000-choice1-main-header/1585186829794",
+                "url": "https://simplywall.st/stocks/us/food-beverage-tobacco/nyse-bg/bunge-global/news/consumer-staples-stocks-with-defensive-demand-investors-may",
+                "source": "simplywall.st",
+                "date": "2026-07-06T03:37:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Takeda Pharmaceutical (TSE:4502) Is Up 5.3% After New Insilico AI Drug Discovery Deal - Has The Bull Case Changed?",
+                "desc": "On July 2, 2026, Insilico Medicine announced a collaboration with Takeda Pharmaceutical to apply its Pharma.AI platform to discover and optimize new drug candidates across Takeda’s therapeutic areas, in a deal that includes about US$60.00 million in initial and near-term payments and potential total value of about US$600.00 million plus tiered royalties, with Takeda gaining exclusive global rights to develop and commercialize any selected therapeutics.\nThis AI-powered discovery partnership...",
+                "image": "https://images.simplywall.st/asset/industry/6121000-choice1-main-header/1585186685410",
+                "url": "https://simplywall.st/stocks/jp/pharmaceuticals-biotech/tse-4502/takeda-pharmaceutical-shares/news/takeda-pharmaceutical-tse4502-is-up-53-after-new-insilico-ai",
+                "source": "simplywall.st",
+                "date": "2026-07-06T03:37:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Still A Long Way to Go for Indonesia’s Toll Contactless Payment",
+                "desc": "Indonesia has not even decided the location and timeline for the trial tests of this toll contactless payment system MLFF.",
+                "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2026/03/1773872107-5000x3328.webp",
+                "url": "https://jakartaglobe.id/business/still-a-long-way-to-go-for-indonesias-toll-contactless-payment",
+                "source": "Jakarta Globe",
+                "date": "2026-07-06T03:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amangbo earns Nigeria WBAF Africa signature award",
+                "desc": "Nigeria has been honoured with the Africa Signature Celebration Award 2026 by the World Business Angels Investment Forum (WBAF) in Turkiye",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/07/WBAF.jpg",
+                "url": "https://guardian.ng/news/amangbo-earns-nigeria-wbaf-africa-signature-award/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-06T03:30:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nearly a million wallets have lost $3.8 billion on Trump's memecoin while the president cleared $636 million — and the SEC has formally declared the whole arrangement outside its jurisdiction",
+                "desc": "Nearly one million retail investors have lost a combined $3.8 billion buying President Donald Trump's $TRUMP memecoin, while the president personally cleared $636 million from the same instrument, according to a blockchain analysis by cryptocurrency analytics firm Nansen.",
+                "image": "https://siliconcanals.com/wp-content/uploads/2026/07/nearly-a-million-wallets-have-lost-3-8-b.jpg",
+                "url": "https://siliconcanals.com/sc-n-nearly-a-million-wallets-have-lost-3-8-billion-on-trumps-memecoin-while-the-president-cleared-636-million-and-the-sec-has-formally-declared-the-whole-arrangement-outside-its-jurisdiction/",
+                "source": "Silicon Canals",
+                "date": "2026-07-06T03:29:16Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "TikTok cuts trust and safety jobs in latest global restructuring",
+                "desc": "TikTok is restructuring its global trust and safety operations as part of a broader effort to streamline its operating model, with fresh layoffs affecting employees across multiple markets.",
+                "image": "https://marketing-interactive-assets.b-cdn.net/article_images/tiktok-cuts-trust-and-safety-jobs-in-latest-global-restructuring/1783308379_TikTok%20%284%29.jpg",
+                "url": "https://www.marketing-interactive.com/tiktok-cuts-trust-and-safety-jobs-in-latest-global-restructuring",
+                "source": "Marketing-Interactive",
+                "date": "2026-07-06T03:26:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SK Hynix Q2 Operating Margin Forecast at 77%… Poised to Surpass Nvidia, TSMC for Global No. 1",
+                "desc": "SK Hynix is projected to post an operating margin of approximately 77% in the second quarter, surpassing Nvidia and TSMC to become the world's most…",
+                "image": "https://img.biggo.com/Z9nYlDBXO-LIECjxlEt0JNMbXwH9ttJZsL1xHvd1rzo/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2UxMjU0OTk3LTEwY2QtNGQxZS05NDBjLTc0YmY1OWJkYmYzMl8xNzgzMzA5NTYyX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/e1254997-10cd-4d1e-940c-74bf59bdbf32",
+                "source": "finance.biggo.com",
+                "date": "2026-07-06T03:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+                "desc": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+                "image": "https://s.yimg.com/lo/mysterio/api/0360459a0612b9006ce32f09351ddabaf7c826bb82c1560ee36f5f0eca75762f/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa752f690081026a2713cccbcaa2cb19d",
+                "url": "https://www.yahoo.com/news/world/articles/global-hub-fake-luxury-goods-220149507.html",
+                "source": "Yahoo",
+                "date": "2026-07-06T03:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "eGate rules to change at Bristol Airport from this week",
                 "desc": "New eGate rules come into force at Bristol Airport on Wednesday (July 8), speeding up arrivals and helping families returning from overseas.",
                 "image": "https://www.southwalesargus.co.uk/resources/images/20797134.jpg?type=og-image&yType=272",
@@ -542,99 +632,90 @@
                 "source": "livemint.com",
                 "date": "2026-07-06T00:20:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nasdaq Surges 12.8% in First Half, but Wall Street Says U.S. Stocks Aren't Overheated",
-                "desc": "U.S. stocks posted their best first-half performance in six years during the first half of 2026, with the Nasdaq climbing 12.8% and the Russell 2000…",
-                "image": "https://img.biggo.com/7Y8nHSCNWbgyH13VZMUcApdDNnJAHMMeLnp181GgiVY/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2ZhZTRmOGU3LWY1MzctNDhhOS04ODE4LWQ2MjRmODg1MGJjM18xNzgzMjk3MjI5X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/fae4f8e7-f537-48a9-8818-d624f8850bc3",
-                "source": "finance.biggo.com",
-                "date": "2026-07-06T00:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Calgary Stampede attendance numbers down from 2025",
-                "desc": "The Calgary Stampede's 2026 attendance is already seeing a drop from the previous year, which was close to breaking the record set in 2024.",
-                "image": "https://calgary.citynews.ca/wp-content/blogs.dir/sites/8/2025/07/06/2025-07-04-Calgary-Stampede-Chuckwagons-Sunday-2025-2485-AM-scaled-e1751825488246.jpg",
-                "url": "https://calgary.citynews.ca/2026/07/05/calgary-stampede-attendance-numbers-down-2025/",
-                "source": "CityNews Calgary",
-                "date": "2026-07-06T00:14:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 ASX 200 shares to buy now: experts",
-                "desc": "Experts explain why they have a favourable view of these 3 S&P/ASX 200 Index (ASX: XJO) shares for the new financial year.",
-                "image": "https://www.fool.com.au/wp-content/uploads/2022/02/shhhh-16.9-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/06/3-asx-200-shares-to-buy-now-experts/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-06T00:11:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tesla Pumps Brakes on In-House AI Usage",
-                "desc": "Tesla has reportedly become the latest major company to restrict employee AI usage. The company is set to impose a $200 weekly limit.",
-                "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Tesla-AI-use-1.jpg",
-                "url": "https://www.pymnts.com/news/artificial-intelligence/2026/tesla-pumps-brakes-on-in-house-ai-usage/",
-                "source": "PYMNTS.com",
-                "date": "2026-07-06T00:09:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All you need to know about Wegovy weight loss tablet",
-                "desc": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95e1/live/42e75270-76f4-11f1-b976-0b9c15b0ccfc.png",
-                "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo",
-                "source": "BBC",
-                "date": "2026-07-06T00:06:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All you need to know about Wegovy weight loss tablet",
-                "desc": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/95e1/live/42e75270-76f4-11f1-b976-0b9c15b0ccfc.png",
-                "url": "https://www.bbc.com/news/articles/czj8w4pjd4yo",
-                "source": "BBC",
-                "date": "2026-07-06T00:06:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fiji Airways targets cost cuts after US$66.4mn fuel hit",
-                "desc": "Fiji Airways (FJ, Nadi) is implementing a series of cost-saving measures after recording FJD150 million Fijian dollars (USD66.4 million) in additional fuel costs during the...",
-                "image": "https://www.ch-aviation.com/images/stockPhotos/2138/e7901b7a76e9742900ab9e7961b804388d51ca4e.jpg",
-                "url": "https://www.ch-aviation.com/news/169151-fiji-airways-targets-cost-cuts-after-us664mn-fuel-hit",
-                "source": "ch-aviation",
-                "date": "2026-07-06T00:05:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Could Buying Rocket Lab Stock Today Set You Up for Life?",
-                "desc": "Should investors bet big on Rocket Lab stock following its latest acquisition move?",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874256%2Fgettyimages-1980789687.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/05/could-buying-rocket-lab-stock-today-set-you-up-for/",
-                "source": "The Motley Fool",
-                "date": "2026-07-06T00:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "embracing fossil fuel: AT getting 8 new diesels; EV Maritime lands big Perth contract",
-                "desc": "Auckland Council re-embraces diesel. EV Maritime lands a big electric ferry contract in Western Australia. CDC’s value jumps by nearly a quarter in just...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/OUDNCPB2VFCZ7MY2FUFRAF6AGU.jpg?auth=132255e445dedb03e2ed28967c795ad058635a24870212d7fe5f9ffabffc1632&width=1200&height=675&quality=70&smart=true",
-                "url": "https://www.nzherald.co.nz/business/re-embracing-fossil-fuel-at-getting-8-new-diesels-ev-maritime-lands-big-perth-contract-tech-insider/premium/G6GM2D22FZFHRCGM4R5WRUV2YI/",
-                "source": "NZ Herald",
-                "date": "2026-07-06T00:00:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cybercrimes are rising dramatically in Asia and South Pacific",
-                "desc": "Countries across Asia and the South Pacific have registered a marked increase in cybercrime, and cybercrime made up 30% of all crime in over half of the countries in the region, according to a new report by INTERPOL, the global policing agency.",
-                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Technology/large/Cyber_Crime.jpg",
-                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96072/Type/eDaily/Asia-Pacific-Cybercrimes-are-rising-dramatically-in-Asia-and-South-Pacific",
-                "source": "Asia Insurance Review",
-                "date": "2026-07-06T00:00:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Buying a new iPhone? Apple will now pay more for your trade",
+                "desc": "Apple has recently increased trade-in values across its iPhone lineup, with the standard iPhone 16 receiving the biggest boost of $25. - VnExpress International",
+                "image": "https://vcdn1-english.vnecdn.net/2026/07/06/dscf085522491729738608-1783308-5475-3465-1783308476.png?w=680&h=0&q=100&dpr=1&fit=crop&s=YOw9yKA9ZZGKPoiJL5ZweA",
+                "url": "https://e.vnexpress.net/news/tech/tech-news/buying-a-new-iphone-apple-will-now-pay-more-for-your-trade-in-5093924.html",
+                "source": "VnExpress International",
+                "date": "2026-07-06T03:39:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jabra expands Evolve3 lineup with three new models offering professional voice headset options in noisy environments",
+                "desc": "Jabra expands the Evolve3 headset lineup, with three new professional quality, lightweight models designed for Teams, Meet and Zoom.",
+                "image": "https://eftm.com/wp-content/uploads/2026/07/Jabra-Evolve3-45-65-65-Flex-bright-gradient-scaled.png",
+                "url": "https://eftm.com/2026/07/jabra-expands-evolve3-lineup-with-three-new-models-offering-professional-voice-headset-options-in-noisy-environments-277912",
+                "source": "EFTM",
+                "date": "2026-07-06T03:39:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Maps Could Soon Add Food Ordering Feature",
+                "desc": "Google is planning to add a new feature to Google Maps through its AI feature, Ask Maps. The new feature will allow users to order food directly from Google Maps. It was discovered in the latest version of the Google Maps app for Android. While it is not yet available, hidden code suggests users may…",
+                "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/07/google-maps-could-soon-add-food-ordering-feature-2.png?fit=1200%2C630&ssl=1",
+                "url": "https://manilashaker.com/google-maps-could-soon-add-food-ordering-feature/",
+                "source": "ManilaShaker Philippines",
+                "date": "2026-07-06T03:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DJI Osmo 360 Standard Combo deal drops price to its lowest ever on Amazon!",
+                "desc": "Don’t miss out on this fantastic waterproof 8K video action camera with 120MP photos and 105GB storage - grab it now!",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/DJI-Osmo-360-Standard-Combo-deal-drops-price-to-its-lowest-ever-on-Amazon.jpg",
+                "url": "https://www.pcguide.com/deals/dji-osmo-360-standard-combo-deal-drops-price-to-its-lowest-ever-on-amazon/",
+                "source": "PC Guide",
+                "date": "2026-07-06T03:32:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 Best AI Writing Tools in 2026: Tested, Ranked, and Reviewed",
+                "desc": "Compare the 10 best AI writing tools in 2026 after testing leading platforms for SEO, content creation, copywriting, and advanced automation workflows.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/07/memeburn-best-ai-writing-tools.jpg",
+                "url": "https://memeburn.com/best-ai-writing-tools/",
+                "source": "Memeburn",
+                "date": "2026-07-06T03:31:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India Investigating Tata Data Leak That Exposed iPhone Secrets",
+                "desc": "Sensitive lists of components and suppliers as well as photos of iPhone 18 Pro models are among files that were posted on the ‌dark web by a ransomware group that stole data from Tata Electronics, Apple's Indian supplier",
+                "image": "https://www.businesstoday.com.my/wp-content/uploads/2026/03/Apple-iPhone-17e-accessories-260302.jpg",
+                "url": "https://www.businesstoday.com.my/2026/07/06/india-investigating-tata-data-leak-that-exposed-iphone-secrets/",
+                "source": "BusinessToday Malaysia",
+                "date": "2026-07-06T03:28:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony's Physical Disc Ban Announcement Views Surpass GTA 6 Trailer Views",
+                "desc": "Grand Theft Auto 6 is staying digital-first, for now, unaffected by Sony's 2028 disc cutoff, but these policies have fans fearing an end to owning games…",
+                "image": "https://media.gtaboom.com/variants/1920/media/images/db/94/sony-disc-ban-backlash-dwarfs-gta-6-hype.jpg",
+                "url": "https://www.gtaboom.com/sony-disc-ban-backlash-dwarfs-gta-6-hype-6795",
+                "source": "GTA BOOM",
+                "date": "2026-07-06T03:28:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ferrari 12Cilindri Manuale – first \"manual\" since California, DCT with by",
+                "desc": "Simulated gearshifts have been a trend for a while now, but rarely have we been given a “proper” manual experience. In a clear break from the polarising Luce, Ferrari is putting the focus back on …",
+                "image": "https://paultan.org/image/2026/07/Ferrari_9_MOD_c2f60fa5-9c91-4ce5-8b8f-588cb9b6b34b-e1783301663482-1200x677.jpeg",
+                "url": "https://paultan.org/2026/07/06/ferrari-12cilindri-manuale-first-manual-since-california-dct-with-by-wire-shifter-1499-units/",
+                "source": "Paul Tan's Automotive News",
+                "date": "2026-07-06T03:18:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft admits a Windows 11 bug is eating up to 500GB of storage, verify if you are affected",
+                "desc": "Microsoft admits a Windows 11 bug is silently eating up to 500GB of your storage, fix coming July 14, 2026.",
+                "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Windows-11-storage-bug-confirmed.jpg",
+                "url": "https://www.windowslatest.com/2026/07/06/microsoft-admits-a-windows-11-bug-is-eating-up-to-500gb-of-storage-verify-if-you-are-affected/",
+                "source": "Windows Latest",
+                "date": "2026-07-06T03:09:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Samsung T7 and Samsung T9 microSD review: Simpler branding",
                 "desc": "Can Buy...But -- the Samsung T7 and Samsung T9 microSD are pretty decent storage cards, but current prices mean you should only buy them if necessary.",
@@ -1183,90 +1264,99 @@
                 "source": "PC Guide",
                 "date": "2026-07-05T23:55:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Celebrating Independence Day: Freedom to Enjoy Every Summer Moment With VARON Oxygen Concentrator Solutions",
-                "desc": "NEW YORK, July 6, 2026 /PRNewswire/ — As Americans prepare to celebrate Independence Day, a season defined by freedom, family […]",
-                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
-                "url": "https://technode.global/prnasia/celebrating-independence-day-freedom-to-enjoy-every-summer-moment-with-varon-oxygen-concentrator-solutions/",
-                "source": "TNGlobal",
-                "date": "2026-07-05T23:54:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 MacBook Pro with 24GB RAM and 1TB SSD sees $150 price drop in Amazon deal",
-                "desc": "This 14-inch model laptop with Apple M5 chip is a fantastic creative laptop - grab it quickly while this deal is still live!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/2026-MacBook-Pro-with-24GB-RAM-and-1TB-SSD-sees-150-price-drop-in-Amazon-deal.jpg",
-                "url": "https://www.pcguide.com/deals/2026-macbook-pro-with-24gb-ram-and-1tb-ssd-sees-150-price-drop-in-amazon-deal/",
-                "source": "PC Guide",
-                "date": "2026-07-05T23:53:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Celebrating Independence Day: Freedom to Enjoy Every Summer Moment With VARON Oxygen Concentrator Solutions",
-                "desc": "NEW YORK, July 6, 2026 /PRNewswire/ -- As Americans prepare to celebrate Independence Day, a season defined by freedom, family gatherings, and summer living— VARON introduces its seasonal awareness campaign highlighting how modern respiratory support solutions can help individuals maintain comfort, mobility, and independence throughout the warmer months. Independence Day is…",
-                "image": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/03/image.jpg?fit=32%2C32&ssl=1",
-                "url": "https://www.thailand-business-news.com/pr-news/celebrating-independence-day-freedom-to-enjoy-every-summer-moment-with-varon-oxygen-concentrator-solutions",
-                "source": "Thailand Business News",
-                "date": "2026-07-05T23:49:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is Intel (INTC) Quietly Recasting Its AI Strategy Around Classrooms And The Edge?",
-                "desc": "In late June 2026, ASUS and Intel showcased an AI-ready education hardware ecosystem at ISTE+ASCD in Orlando, highlighting rugged K–12 devices, Chromebooks, NUC mini PCs, and edge AI accelerators built on Intel platforms.\nThis push into AI-enabled classroom infrastructure underlines Intel’s effort to extend its AI narrative beyond data centers and into privacy-sensitive edge computing for schools.\nNext, we’ll examine how Intel’s AI-focused education ecosystem, alongside its recent share...",
-                "image": "https://images.simplywall.st/asset/company-cover/21127-main-header/1756203058484",
-                "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-intc/intel/news/is-intel-intc-quietly-recasting-its-ai-strategy-around-class",
-                "source": "simplywall.st",
-                "date": "2026-07-05T23:44:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Washington Post predicted how tech will advance 50 years ago and the success rate is humbling",
-                "desc": "The Washington Post revisited a 1976 feature predicting life in 2026, revealing how accurately it foresaw smartphones, solar energy, gene editing, and other technological breakthroughs.",
-                "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-06T050148.168.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/cool-tech/the-washington-post-predicted-how-tech-will-advance-50-years-ago-and-the-success-rate-is-humbling/",
-                "source": "Digital Trends",
-                "date": "2026-07-05T23:37:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Acer releases new 16-inch laptop with 120 Hz OLED display and top end Core Ultra X9 388H processor",
-                "desc": "Acer has finally released its latest 16-inch laptop with Intel's most powerful Panther Lake processor. Now available with up to the Core Ultra X9 388H, the Acer Swift 16 (SF16-71T) also contains a 120 Hz AMOLED display, a 70 Wh battery and a built-in numberpad in a body that weighs around 1.5 kg.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-Swift-16-x9-388h-released-globally-kv.jpg",
-                "url": "https://www.notebookcheck.net/Acer-releases-new-16-inch-laptop-with-120-Hz-OLED-display-and-top-end-Core-Ultra-X9-388H-processor.1335235.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-05T23:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Largest Silent Auction returns to Tamworth Regional Gallery",
-                "desc": "Tamworth Regional Gallery will host its largest-ever Friends of Tamworth Regional Gallery Silent Auction in 2026, with more than 300 artworks by almost 100 regional artists on display.",
-                "image": "https://www.netimes.com.au/wp-content/uploads/NE-Times-13-22.jpg",
-                "url": "https://www.netimes.com.au/2026/07/06/largest-silent-auction-returns-to-tamworth-regional-gallery/",
-                "source": "New England Times",
-                "date": "2026-07-05T23:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Bittersweet Ending of Bungie's Greatest Game",
-                "desc": "After nearly 12 years, Bungie has cancelled all future plans for 'Destiny 2.'",
-                "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/08/destiny-2-warlock-gambit-guardian-fashion.jpg?w=1600&h=900&fit=crop",
-                "url": "https://collider.com/bungie-greatest-video-game-destiny-2-ending/",
-                "source": "Collider",
-                "date": "2026-07-05T23:30:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Celebrating Independence Day: Freedom to Enjoy Every Summer Moment With VARON Oxygen Concentrator Solutions",
-                "desc": "NEW YORK, July 6, 2026 /PRNewswire/ -- As Americans prepare to celebrate Independence Day, a season defined by freedom, family gatherings, and summer living- VARON introduces its seasonal awareness campaign highlighting how modern respiratory support solutions can help individuals maintain comfort, mobility, and independence throughout the warmer months.",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/07/06/tmt-newswire/pr-newswire/celebrating-independence-day-freedom-to-enjoy-every-summer-moment-with-varon-oxygen-concentrator-solutions/2378687",
-                "source": "The Manila Times",
-                "date": "2026-07-05T23:21:19Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "England hands Mexico its first World Cup loss at Estadio Azteca to reach quarter-finals",
+                "desc": "Jude Bellingham scored two goals 98 seconds apart, Harry Kane converted a penalty when England was down to 10 men, and the Three Lions handed Mexico its first World Cup loss at Estadio Azteca, a wild 3-2 victory on Sunday night to reach the quarterfinals.",
+                "image": "https://www.tsn.ca/resizer/v2/3OT2ACYXASVQNUEQT65EWR4PXA.jpg?smart=true&auth=a071a097060538c7a6954e3f59e5697bb3eeecbd944bb08b2044c45b0e45c4cc&width=1200&height=630",
+                "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/england-hands-mexico-its-first-world-cup-loss-at-estadio-azteca-to-reach-quarter-finals/",
+                "source": "TSN",
+                "date": "2026-07-06T03:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Soccer-Ten-man England beat battling Mexico 3-2 in last-16 thriller",
+                "desc": "MEXICO CITY, July 5 (Reuters) - ⁠Ten-man England weathered a Mexico storm at the Azteca Stadium to reach the World Cup quarter-finals ⁠for the third straight time with a rip-roaring 3-2 victory over the co-hosts on Sunday ‌thanks to a Jude Bellingham double and Harry Kane penalty.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/06/3994407.jpg",
+                "url": "https://www.thestar.com.my/sport/football/2026/07/06/soccer-ten-man-england-beat-battling-mexico-3-2-in-last-16-thriller",
+                "source": "The Star",
+                "date": "2026-07-06T03:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil, gas tankers cross Hormuz via Oman-Side route after u-turns",
+                "desc": "Oil and gas tankers navigate the Oman-side route in Hormuz after U-turns, amid rising tensions and shipping risks.",
+                "image": "https://bl-i.thgim.com/public/incoming/hu1c45/article71187894.ece/alternates/LANDSCAPE_1200/457925309.jpg",
+                "url": "https://www.thehindubusinessline.com/news/world/oil-gas-tankers-cross-hormuz-via-oman-side-route-after-u-turns/article71187800.ece",
+                "source": "BusinessLine",
+                "date": "2026-07-06T03:31:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mexico player ratings vs England: Julián Quiñones shines and Raúl Jiménez gives El Tri hope, but Jude Bellingham ends historic World Cup run in Azteca thriller",
+                "desc": "Mexico’s historic World Cup run ended in heartbreak at the Azteca, as Julián Quiñones starred and Raúl Jiménez gave El Tri hope before Jude Bellingham powered England to a thrilling 3-2 win.",
+                "image": "https://assets.goal.com/images/v3/blt70d5a42deea3988b/WCHQ_MATCH%20[16x9]%20(2).jpg",
+                "url": "https://www.goal.com/en-ng/lists/mexico-player-ratings-england-julian-quinones-raul-jimenez-el-tri-hope-jude-bellingham-world-cup-azteca/blt9eda29d955c22738",
+                "source": "Goal.com",
+                "date": "2026-07-06T03:29:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nearly a million wallets have lost $3.8 billion on Trump's memecoin while the president cleared $636 million — and the SEC has formally declared the whole arrangement outside its jurisdiction",
+                "desc": "Nearly one million retail investors have lost a combined $3.8 billion buying President Donald Trump's $TRUMP memecoin, while the president personally cleared $636 million from the same instrument, according to a blockchain analysis by cryptocurrency analytics firm Nansen.",
+                "image": "https://siliconcanals.com/wp-content/uploads/2026/07/nearly-a-million-wallets-have-lost-3-8-b.jpg",
+                "url": "https://siliconcanals.com/sc-n-nearly-a-million-wallets-have-lost-3-8-billion-on-trumps-memecoin-while-the-president-cleared-636-million-and-the-sec-has-formally-declared-the-whole-arrangement-outside-its-jurisdiction/",
+                "source": "Silicon Canals",
+                "date": "2026-07-06T03:29:16Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "10-man England beat Mexico 3-2 to advance to World Cup quarter-finals",
+                "desc": "England will now face Norway in the quarter-finals on Jul 11, after Erling Haaland led his country past five-time champions Brazil.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--LfFnIpv9--/c_crop,h_900,w_1600,x_0,y_112/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/06/2026-07-06t022547z_747845273_up1em7604pp8k_rtrmadp_3_soccer-worldcup-mex-eng.jpg?itok=OLlKjMdI",
+                "url": "https://www.channelnewsasia.com/sport/mexico-england-world-cup-2026-match-6234006",
+                "source": "CNA",
+                "date": "2026-07-06T03:27:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Major damage' as Super Typhoon Bavi makes landfall on US Pacific islands",
+                "desc": "The eye of the Category 5 super typhoon passed over the tiny island of Rota Monday morning local time, bringing winds of more than 241 km/h, also hitting the nearby islands of Guam, Tinian and Saipan.",
+                "image": "https://images.euronews.com/articles/stories/09/82/61/49/1200x675_cmsv2_cc414d7d-0ec0-5a44-a21d-97396b5b663b-9826149.jpg",
+                "url": "https://www.euronews.com/2026/07/06/major-damage-as-super-typhoon-bavi-makes-landfall-on-us-pacific-islands",
+                "source": "Euronews",
+                "date": "2026-07-06T03:27:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Funeral procession for Iran's late supreme leader",
+                "desc": "The funeral procession for Iran's late supreme leader Ali Khamenei and three family members has begun in Tehran, state television reported.",
+                "image": "https://www.rte.ie/images/0024a571-1600.jpg",
+                "url": "https://www.rte.ie/news/middle-east/2026/0706/1581919-middle-east-iran/",
+                "source": "RTE.ie",
+                "date": "2026-07-06T03:23:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 World Cup: Short-handed England holds off Mexico at home behind 2-minute Jude Bellingham brace",
+                "desc": "A straight red card early in the second half brought England down to 10 players, but the Three Lions were still able to overpower El Tri in Mexico City to advance to the quarterfinals.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ef5ffb2e73d87ab7c4a55c4e3794d53855f20f711d2bd354c14f2f2b6ec96515/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F84352377-9e1e-4f57-b5d2-4f1d6c2f1272",
+                "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-short-handed-england-holds-off-mexico-at-home-behind-2-minute-jude-bellingham-brace-030847028.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-06T03:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia launches deadly missile and drone attacks on Kyiv",
+                "desc": "At least seven killed in the Ukraine capital in the second major assault on the city and its surrounds in less than a week",
+                "image": "https://i.guim.co.uk/img/media/b95cdaa8a3e1cbfab72ab7988df2dc90bf3fbaee/185_0_3663_2931/master/3663.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21bc55622f0ef829095665c098d5b582",
+                "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
+                "source": "The Guardian",
+                "date": "2026-07-06T03:19:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Safety is our priority, says KQ after New York flight turns back",
                 "desc": "A Kenya Airways flight bound for New York was forced to return to Nairobi on Sunday evening after developing a technical fault mid-air. The airline described the turn-back as a precautionary safety measure, carried out in line with standard aviation procedures. Flight KQ 002D departed Nairobi for New York, but at approximately 7:50 pm, while […]",
@@ -1806,98 +1896,8 @@
                 "source": "SportsLine",
                 "date": "2026-07-06T00:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "England vs. Mexico prediction, odds, betting line, time: 2026 World Cup Round of 16 picks",
-                "desc": "SportsLine's Martin Green has revealed his England vs. Mexico best bets for their 2026 World Cup knockout stage match on Sunday",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/06/27/1f9fe15c-51f8-4879-8b7f-2fd8fff155aa/thumbnail/1200x675/7b26af58956536e3cf96343841117240/harry-kane-england-imagn-images-1.jpg",
-                "url": "https://www.cbssports.com/soccer/news/england-mexico-odds-prediction-time-2026-world-cup-round-16-picks-soccer-best-bets/",
-                "source": "CBS Sports",
-                "date": "2026-07-05T23:59:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "England 3-2 Mexico: Jude Bellingham and Harry Kane send 10-man Three Lions to quarter-finals",
-                "desc": "Watch live BBC One coverage, listen on 5 Live and get reaction, interviews and stats as England beat Mexico to reach the World Cup quarter-finals.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/28c3/live/29580230-78ea-11f1-ac9e-773036b43c15.jpg",
-                "url": "https://www.bbc.com/sport/football/live/cr5j14eyzm8t",
-                "source": "BBC",
-                "date": "2026-07-05T23:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mexico vs England World Cup Match Delayed by Severe Weather",
-                "desc": "The FIFA World Cup 2026 Round of 16 match between Mexico and England is delayed by one hour due to severe weather at Azteca Stadium in Mexico City.",
-                "image": "https://thenewsmill.com/tnm-og/555658.jpg",
-                "url": "https://thenewsmill.com/2026/07/mexico-vs-england-kickoff-delayed-by-one-hour-due-to-severe-weather-at-azteca-stadium/",
-                "source": "The News Mill",
-                "date": "2026-07-05T23:57:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 FIFA World Cup: Mexico vs England kickoff delayed",
-                "desc": "The Round of 16 clash between Mexico and England at the 2026 FIFA World Cup will not start as scheduled. Heavy rain and thunderstorms",
-                "image": "https://en.africatopsports.com/wp-content/uploads/2026/07/2026-FIFA-World-Cup-Mexico-vs-England-kickoff-delayed-e1783295642835.jpeg",
-                "url": "https://en.africatopsports.com/2026-fifa-world-cup-mexico-vs-england-kickoff-delayed/",
-                "source": "Africa Top Sports",
-                "date": "2026-07-05T23:54:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Maspalomas in Europe: Trade Fair Calendar to Attract Tourism to Southern Gran Canaria",
-                "desc": "Discover the calendar of trade fairs in Europe to promote Maspalomas and attract high-profile tourism to the south of Gran Canaria.",
-                "image": "https://maspalomas24h.com/upload/images/07_2026/2171_maspalomas24h.jpg",
-                "url": "https://maspalomas24h.uk/Article/10856/Maspalomas-on-a-European-tour%3A-a-calendar-of-trade-fairs-to-attract-tourism-to-the-south-of-Gran-Canaria",
-                "source": "maspalomas24h.uk",
-                "date": "2026-07-05T23:52:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GFL backs proposal for new administrative capital",
-                "desc": "The Secretary General of the Ghana Federation of Labour (GFL), Mr . Abraham Koomson, has declared the Federation 39;s support for the proposal to establish a new administrative capital for Ghana, describing the initiative as a bold and forward-looking step towards easing congestion in Accra, promoting balanced national development and creating more employment opportunities .",
-                "image": "https://cdn.modernghana.com/images/content/75202672432-0eu2xljwwr-gfl-sg-mr-abraham-koomson-.jpg",
-                "url": "https://www.modernghana.com/news/1507984/gfl-backs-proposal-for-new-administrative-capital.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-05T23:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Residents say no to stairlift over concerns for safety",
-                "desc": "A WOMAN in Shanghai who spent 60,000 yuan (RM35,978) installing a motorised stairlift for her mother was forced to dismantle the device after neighbours in her apartment building reported it to authorities, reported China Press.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/06/3994278.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/07/06/residents-say-no-to-stairlift--over-concerns-for-safety",
-                "source": "The Star",
-                "date": "2026-07-05T23:45:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Monday's World Cup predictions and previews including Mexico vs. England, Portugal vs. Spain",
-                "desc": "Sports Mole provides previews and predictions for Monday's matches at the 2026 World Cup, including Mexico against England, and Portugal against Spain.",
-                "image": "https://www.sportsmole.co.uk/thumbor/FOb5FlRbHSA5VGrG_8LohrlCvYc=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F06%2Ffotojet-2026-06-30t224809-667-6a443a02c1240509802518.jpg",
-                "url": "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/feature/ronaldo-to-struggle-mondays-world-cup-predictions-and-previews_600751.html",
-                "source": "Sports Mole",
-                "date": "2026-07-05T23:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sky News Australia",
-                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
-                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
-                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
-                "source": "Sky News Australia",
-                "date": "2026-07-05T23:35:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "England, Mexico match at World Cup delayed due to weather",
-                "desc": "— The kickoff for the World Cup round of 16 game between Mexico and England was delayed by one hour on Sunday night as a thunderstorm rolled through Estadio Azteca.",
-                "image": "https://www.sportsnet.ca/wp-content/uploads/2026/07/Mexico-England-delay.jpg",
-                "url": "https://www.sportsnet.ca/fifa-world-cup/article/england-mexico-match-at-world-cup-delayed-due-to-weather/",
-                "source": "Sportsnet.ca",
-                "date": "2026-07-05T23:32:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-06T15:00:40.235513Z"
+    "lastGlobalSync": "2026-07-06T15:40:41.201590Z"
 }
