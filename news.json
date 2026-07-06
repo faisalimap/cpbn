@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "AI model identifies where snoring starts in the airway",
+                "desc": "A new study developed a snore-source classification model that uses STFT spectrograms, pretrained CNN features, and an L2-regularized SVM to identify where snoring originates in the upper airway. Tested on the MPSSC dataset, the approach achieved a 67.1% test-set unweighted average recall, the highest value among the compared methods, but still needs external clinical validation.",
+                "image": "https://www.news-medical.net/images/news/ImageForNews_841679_17833017497379707.jpg",
+                "url": "https://www.news-medical.net/news/20260705/AI-model-identifies-where-snoring-starts-in-the-airway.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-06T01:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fueling system problem forces ground stop at Boston Logan International Airport",
+                "desc": "Trouble with a fueling system forced delays and cancellations of some flights departing Boston Logan International Airport on Sunday night.",
+                "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/file-photo-boston-logan-airport-gettyimages-2210264291-690d0a2871eda.jpg?crop=1.00xw:0.846xh;0,0.0660xh&resize=1200:*",
+                "url": "https://www.wcvb.com/article/fueling-problem-boston-logan-july-5-2026/71827860",
+                "source": "WCVB",
+                "date": "2026-07-06T01:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bristow deploys Africa’s first Airbus H160s for offshore operations",
+                "desc": "Bristow Group has introduced the Airbus H160 helicopter into service in Nigeria, marking the aircraft’s first deployment in support of the energy sector and rescue services within the Group and on the African continent.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/Bristow-2-563x353-1.jpg",
+                "url": "https://thesun.ng/bristow-deploys-africas-first-airbus-h160s-for-offshore-operations/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-06T01:35:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A dad revealed how his family of 5 eats at Chick-fil-A for under $45",
+                "desc": "A Chick-fil-A hack helps a family of five eat for under $45 by ordering nuggets and buns instead of chicken sandwiches amid rising fast food prices.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/09/0/0/chick-fil-a-sandwich.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/economy/dad-revealed-how-his-family-5-eats-chick-fil-a-under-45",
+                "source": "Fox Business",
+                "date": "2026-07-06T01:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil slips after OPEC+ agrees to raise output targets",
+                "desc": "Oil fell on Monday after OPEC+ agreed to further increase output targets from August while exports from key producers via the Strait are recovering, potentially adding to global supplies.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108299836-1777549843231-gettyimages-2273225031-US-NEW_YORK-CRUDE_OIL_PRICES-RISE.jpeg?v=1783301502&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/06/oil-slips-after-opec-agrees-to-raise-output-targets.html",
+                "source": "CNBC",
+                "date": "2026-07-06T01:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First Tick: Top global cues to watch in today's trade",
+                "desc": "Here is how financial markets across the globe fared overnight.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260627033447_Nifty_sensex_marketup.jpg",
+                "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-179-13965306.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-06T01:33:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Higher Open Called For Indonesia Stock Market",
+                "desc": "The Indonesia stock market has moved higher in three straight sessions, adding more than 230 points or 4 percent along the way. The Jakarta Composite Index now rests just above the 5,875-point plateau and it's tipped to open in the green again on Monday.",
+                "image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+                "url": "https://www.rttnews.com/3664614/higher-open-called-for-indonesia-stock-market.aspx",
+                "source": "RTTNews",
+                "date": "2026-07-06T01:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SunSirs: Precious Metals Prices Under Pressure amid Intertwined Macroeconomic and Geopolitical Factors",
+                "desc": "In the first half of the year, the shift in the US Fed's monetary policy expectations was the core driving",
+                "image": "https://img.100ppi.com/sunsirs_news/2026/07/06/b59eb73a629c75f449f125fd0d246930.png",
+                "url": "https://www.sunsirs.com/commodity-news/petail-34177.html",
+                "source": "Sunsirs",
+                "date": "2026-07-06T01:32:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why MSC wants a stake in Vizhinjam Port",
+                "desc": "The strategy behind MSC’s billion-dollar bet on Vizhinjam Port.",
+                "image": "https://cdn.finshots.app/images/2026/07/mSC.jpg",
+                "url": "https://finshots.in/archive/why-msc-wants-a-stake-in-vizhinjam-port/",
+                "source": "Finshots",
+                "date": "2026-07-06T01:31:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airtel and Jio Now Have Similar Rs 200 Data Packs",
+                "desc": "Bharti Airtel, recently announced a new prepaid plan of Rs 200. If you know about it, Jio also launched a new Rs 200 plan.",
+                "image": "https://telecomtalk.info/wp-content/uploads/2026/07/has-airtel-just-copied-jio-with-this.jpeg",
+                "url": "https://telecomtalk.info/airtel-jio-now-have-similar-rs200-data-packs/1009379/",
+                "source": "TelecomTalk",
+                "date": "2026-07-06T01:31:12Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Can China’s budget brands crack developed markets? Mixue shows it won’t be easy",
                 "desc": "Slow expansion in Japan and store closures in Hong Kong suggest low prices may not be enough to win over consumers in mature economies.",
                 "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/03/6696c015-f527-49b7-b703-89052da5b84d_6e40924c.jpg?itok=Xcb0YMVz&v=1783076200",
@@ -542,99 +632,45 @@
                 "source": "The Motley Fool",
                 "date": "2026-07-05T22:33:26Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Delta Flight 'felt a big bang' after apparently being hit by firework",
-                "desc": "Newly released audio reveals how pilots of a Delta Airlines flight reacted when a plane \"made contact with a firework\" while landing in Chicago.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/2b438faf-f32f-4f5a-8743-c81d44aff202.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-                "url": "https://www.wdsu.com/article/delta-flight-hit-by-firework-chicago-midway/71826191",
-                "source": "WDSU",
-                "date": "2026-07-05T22:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Delta Flight 'felt a big bang' after apparently being hit by firework",
-                "desc": "Newly released audio reveals how pilots of a Delta Airlines flight reacted when a plane \"made contact with a firework\" while landing in Chicago.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/2b438faf-f32f-4f5a-8743-c81d44aff202.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-                "url": "https://www.mynbc5.com/article/delta-flight-hit-by-firework-chicago-midway/71826191",
-                "source": "WPTZ",
-                "date": "2026-07-05T22:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Some of the nation’s rich are letting AI teach their kids",
-                "desc": "The nation’s wealthy are paying tens of thousands of dollars for their children to be beta testers for AI schools.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-                "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-                "source": "The Verge",
-                "date": "2026-07-05T22:30:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Catastrophe insurers risk losses as protection gap persists",
-                "desc": "Natural catastrophe insurance is expected to remain profitable over the long term, but both economic and insured losses will outpace GDP growth.",
-                "image": "https://asianbusinessreview.com/s3/files/styles/opengraph/public/2026-07/dibakar-roy-hnjnkuciigw-unsplash_flood_catastrophe.jpg?h=768a5661&itok=vDARAWFe",
-                "url": "https://asianbusinessreview.com/insurance/news/catastrophe-insurers-risk-losses-protection-gap-persists",
-                "source": "Asian Business Review",
-                "date": "2026-07-05T22:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If You'd Invested $10,000 in the SpaceX IPO, Here's How Much You Would Have Now",
-                "desc": "SpaceX completed a record IPO about three weeks ago.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877299%2Fgettyimages-1167803904.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/05/if-youd-invested-10000-in-the-spacex-ipo-heres-how/",
-                "source": "The Motley Fool",
-                "date": "2026-07-05T22:23:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cutting Through the Noise",
-                "desc": "Three AI adoption myths that are costing organizations the most and ways to debunk them.  By Alana Brandes  Seventy percent of leaders are now using AI tools daily, according to Guild's monthly Workforce",
-                "image": "https://www.hrotoday.com/wp-content/uploads/2026/06/AdobeStock_601594330-scaled-e1782835918317.jpeg",
-                "url": "https://www.hrotoday.com/hr-technology/cutting-through-the-noise/",
-                "source": "HRO Today",
-                "date": "2026-07-05T22:15:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Monday, July 6",
-                "desc": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/erikkain/2026/07/05/nyt-pips-answers-monday-july-6/",
-                "source": "Forbes",
-                "date": "2026-07-05T22:15:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mideast war continues to constrain industry",
-                "desc": "Thailand's automotive industry and supply chain may continue to feel the strain of conflicts in the Middle East despite peace negotiations, says Omoda & Jaecoo (Thailand) Co, a subsidiary of Chinese state-owned electric vehicle (EV) maker Chery Automobile.",
-                "image": "https://static.bangkokpost.com/media/content/dcx/2026/07/06/6145010_700.jpg",
-                "url": "https://www.bangkokpost.com/business/motoring/3281575/mideast-war-continues-to-constrain-industry",
-                "source": "Bangkok Post",
-                "date": "2026-07-05T22:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yoshita 1967 Wins European Leg of Circular Design Challenge",
-                "desc": "Paris-based Yoshita 1967 wins the European leg of the Relan Circular Design Challenge, and will take part in the October final at Lakmé Fashion Week.",
-                "image": "https://wwd.com/wp-content/uploads/2026/07/PRESSE_Lescribe_1event-06293-1.jpg?crop=0px%2C266px%2C2000px%2C1119px&resize=1000%2C563",
-                "url": "https://wwd.com/fashion-news/fashion-scoops/circular-design-challenge-yoshita-1967-europe-winner-1239052614/",
-                "source": "WWD",
-                "date": "2026-07-05T22:13:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 ASX dividend stock down 50% I'd buy right now",
-                "desc": "This ASX dividend stock has fallen heavily within the last year. Let’s look at why it’s an appealing buy today…",
-                "image": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1333684977-1-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/06/1-asx-dividend-stock-down-50-id-buy-right-now-4/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-05T22:00:11Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Samsung Electronics Deploys Galaxy Watch AI to Combat Heat Illness at Construction Sites, Aligned with South Korea's Labor Ministry Guidelines",
+                "desc": "Samsung Electronics has upgraded its Galaxy Watch-based AI safety management solution, the 'Heat Stress Management System,' in collaboration with…",
+                "image": "https://img.biggo.com/XSkzi6nscV_hjLPYAR_0FPvf5k_u2uXy4C2IEMcEV4A/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzBhMzdmMWVjLTg1ZWMtNGFlNi04NjFhLWVjMDBmYzkzMWVmNl8xNzgzMzAyMjg0X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/0a37f1ec-85ec-4ae6-861a-ec00fc931ef6",
+                "source": "finance.biggo.com",
+                "date": "2026-07-06T01:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Foldables Hierarchy Emerging",
+                "desc": "There could be an element of one-upmanship in the kind of foldable phone you buy this year. A third of  the foldables sold last year cost over $1,600 and",
+                "image": "https://www.electronicsweekly.com/wp-content/themes/ew/favicons/favicon-32x32.png",
+                "url": "https://www.electronicsweekly.com/news/business/foldables-2026-07/",
+                "source": "Electronics Weekly",
+                "date": "2026-07-06T01:33:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hideo Kojima Warns of 'Frightening' Digital Future After PlayStation Reveals Plan to End Physical Disc Production",
+                "desc": "\"So, what is happening to video games in 2028, might also happen to movies.\"",
+                "image": "https://sm.ign.com/t/ign_ap/news/h/hideo-koji/hideo-kojima-warns-of-frightening-digital-future-after-plays_y9ay.1200.jpg",
+                "url": "https://sea.ign.com/metal-gear-solid/245096/hideo-kojima-warns-of-frightening-digital-future-after-playstation-reveals-plan-to-end-physical-disc",
+                "source": "IGN Southeast Asia",
+                "date": "2026-07-06T01:20:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In Depth: Patek Philippe Star Caliber 2000",
+                "desc": "The three-complication problem.",
+                "image": "https://watchesbysjx.com/wp-content/uploads/2026/07/1-Patek-Philippe-Star-Caliber-2000-cover.jpg",
+                "url": "https://watchesbysjx.com/2026/07/patek-philippe-star-caliber-2000-in-depth.html",
+                "source": "SJX Watches",
+                "date": "2026-07-06T01:00:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Microsoft Edge",
                 "desc": "Microsoft Edge is the default web browser and PDF reader in Windows 11, but it needs to be configured correctly before it's safe to use.",
@@ -1228,45 +1264,99 @@
                 "source": "futurefive.com.au",
                 "date": "2026-07-05T22:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What exactly is Ferrari's new 'manual' transmission?",
-                "desc": "Ferrari's new 12Cilindri Manuale uses a system where physical hardware and smart software work together to recreate the sensation of a manual from a DCT.",
-                "image": "https://www.drivencarguide.co.nz/media/2sofgc20/ferrari-12cilindri-manuale-003.jpg?v=1dd0d22fb40f3d0",
-                "url": "https://www.drivencarguide.co.nz/news/what-exactly-is-ferraris-new-manual-transmission/",
-                "source": "Driven Car Guide",
-                "date": "2026-07-05T21:49:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 Google Features Trapped Behind A Paywall On Android Phones",
-                "desc": "There's a common notion that Google's features are generally free, but it's not entirely true. Many of its AI features require subscribing to a Google AI plan.",
-                "image": "https://www.bgr.com/img/gallery/4-google-features-trapped-behind-a-paywall-on-android-phones/l-intro-1782843678.jpg",
-                "url": "https://www.bgr.com/2205254/google-features-trapped-behind-paywall-android-phone/",
-                "source": "bgr.com",
-                "date": "2026-07-05T21:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yuri Milner's breakthrough listen partnered with NVIDIA. What an AI scanning 800 million radio channels is actually looking for.",
-                "desc": "Since 2015, NVIDIA's graphics processing units have been at the centre of Breakthrough Listen's computing infrastructure.",
-                "image": "https://media.itwire.com/2026/07/05/yuri-milners-breakthrough-listen-partnered-with-nvidia-what-an-ai-scanning-800-million-radio-channels-is-actually-looking-for-f1ffefe660e5.webp",
-                "url": "https://itwire.com/guest-articles/guest-opinion/yuri-milners-breakthrough-listen-partnered-with-nvidia-what-an-ai-scanning-800-million-radio-channels-is-actually-looking-for",
-                "source": "iTWire",
-                "date": "2026-07-05T21:43:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Super Mario Bros. Wonder dev reveals how the Inchworm Pipe sound effect was made",
-                "desc": "One of the developers behind Super Mario Bros. Wonder has shared some in-depth insight into how he came up with the sound effect for the Inchworm Pipe. Warp Pipes have long been a staple of the series. In Super Mario Bros. Wonder, the game introduces a new take on that element. The Inchworm Pipe comes to life as part of...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Mario-Wonder-Inchworm-Pipe-sound-effect.jpg",
-                "url": "https://nintendoeverything.com/super-mario-bros-wonder-dev-reveals-how-the-inchworm-pipe-sound-effect-was-made/",
-                "source": "Nintendo Everything",
-                "date": "2026-07-05T21:33:48Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Charting nation's next phase of development",
+                "desc": "After more than three decades of rapid expansion, China's economy reached a cyclical peak in the first quarter of 2010 and has since gradually shifted into a phase of medium-speed growth, with the binding constraints on growth evolving from supply shortages to demand insufficiency.",
+                "image": "http://img2.chinadaily.com.cn/images/202607/06/6a4b0663a310986e1018f86e.png",
+                "url": "https://www.chinadaily.com.cn/a/202607/06/WS6a4b0663a310986e2b463aa6.html",
+                "source": "China Daily",
+                "date": "2026-07-06T01:35:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet the Young & Official changemakers reshaping government from within",
+                "desc": "GovInsider’s inaugural Young & Official report spotlights nearly 100 public servants aged 35 and under, whose work is reshaping public service around the world.",
+                "image": "https://govinsider.asia/intl-en/article/:/uploads/2026/7/KV (1)-1783069657138-w300.jpg",
+                "url": "https://govinsider.asia/intl-en/article/meet-the-young-and-official-changemakers-reshaping-government-from-within",
+                "source": "GovInsider",
+                "date": "2026-07-06T01:34:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia news live: scientists identify likely source of Queensland space balls; native title approved for Kngwarreye birthplace",
+                "desc": "Follow live",
+                "image": "https://i.guim.co.uk/img/media/4f306b17811ef4803c18edba89b91e28bda63076/274_113_2155_1723/master/2155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=41016636dcfa3fb37f68a50ab1cead81",
+                "url": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
+                "source": "The Guardian",
+                "date": "2026-07-06T01:30:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia signs defence alliance with Pacific nation Fiji",
+                "desc": "Australia signed a new defence alliance with Fiji on Monday, bolstering ties with its South Pacific island neighbour as it seeks to outmanoeuvre China in the region. China sent waves through the regio...",
+                "image": "https://s.yimg.com/os/en/afp.com.sg/0345ff4302d390328f52f40b026ff333",
+                "url": "https://sg.news.yahoo.com/australia-signs-defence-alliance-pacific-012906241.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-07-06T01:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Battle Intensifies Over UN Eritrea Rights Mandate",
+                "desc": "By Jaya Ramachandran GENEVA | 6 July 2026 (IDN) — For thousands of Eritreans worldwide, the UN Special Rapporteur's office is more than an international appointment. It remains one of the few channels for victims, political prisoners, and families separated…",
+                "image": "https://indepthnews.net/wp-content/uploads/2026/07/UN-Human-Rights-Council-chamber-300x200.jpg",
+                "url": "https://indepthnews.net/battle-intensifies-over-un-eritrea-rights-mandate/",
+                "source": "IDN-InDepthNews",
+                "date": "2026-07-06T01:26:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia launches fresh missile, drone attack on Kyiv ahead of Nato summit in Turkey",
+                "desc": "Europe News: Russia launched a fresh wave of missile and drone attacks on Ukraine's capital early on Monday, escalating tensions just a day before a crucial Nato s.",
+                "image": "https://static.toiimg.com/thumb/msid-132205227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/europe/russia-launches-fresh-missile-drone-attack-on-kyiv-ahead-of-nato-summit-in-turkey/articleshow/132205221.cms",
+                "source": "The Times of India",
+                "date": "2026-07-06T01:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4 climbers rescued by helicopter after encountering bear in northern Japan",
+                "desc": "Four climbers were rescued by helicopter from a mountain in Hokkaido, northern Japan, after being stranded for about three and a half hours due to an encounter with a brown bear, police said Sunday.",
+                "image": "https://english-kyodo.ismcdn.jp/mwimgs/d/7/1200x/img_d738600a5b6db19949558569b2dda28f1545695.jpg",
+                "url": "https://english.kyodonews.net/articles/-/79222",
+                "source": "Japan Wire by Kyodo News",
+                "date": "2026-07-06T01:25:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nepal's First Online News Portal",
+                "desc": "MEXICO: The FIFA World Cup 2026 Round of 16 clash between Mexico and England was delayed by one hour on Sunday (Local Time) after severe weather, including lightning, heavy rain and hail, struck the area around the Azteca Stadium, reported ESPN. FIFA confirmed that the match, originally scheduled to begin at 6 p.m. local time, […]",
+                "image": "https://english.nepalnews.com/wp-content/uploads/2026/07/ANI-20260705234529.jpg",
+                "url": "https://english.nepalnews.com/s/sports/fifa-world-cup-2026-mexico-vs-england-kickoff-delayed-by-severe-weather-at-azteca/",
+                "source": "Nepalnews.com",
+                "date": "2026-07-06T01:16:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'We have tremendous support there': Netanyahu names India while rejecting Vance's 'only ally' claim",
+                "desc": "Israeli Prime Minister Benjamin Netanyahu cited India as one of Israel's strongest supporters, rejecting US Vice President JD Vance's suggestion that Washington is Israel's only powerful remaining ally.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260623102107_netanyahunew.png",
+                "url": "https://www.moneycontrol.com/world/we-have-tremendous-support-there-netanyahu-names-india-while-rejecting-vance-s-only-ally-claim-article-13966561.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-06T01:15:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anti-migrant protests draw thousands across South Africa",
+                "desc": "The demonstrations held in several cities were called to demand that all undocumented foreigners leave the country.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/06/550019.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/07/06/world/anti-migrant-protests-south-africa/",
+                "source": "The Japan Times",
+                "date": "2026-07-06T01:15:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "3 England (6 Jul, 2026) Game Analysis",
                 "desc": "Expert recap and game analysis of the Mexico vs. England Fifa World Cup game from 6 July 2026 on ESPN (IN).",
@@ -1806,98 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-05T21:59:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How Priya Paul made The Park Hotels unmistakably her own",
-                "desc": "After taking over The Park Hotels at 22, Priya Paul built one of India’s most distinctive hospitality portfolios, from design-led city hotels to restored palaces.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--xnaSOgev--/c_crop,h_567,w_1009,x_1,y_89/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/29/hero-priya-paul-final.jpg?itok=PfcMf3rM",
-                "url": "https://cnaluxury.channelnewsasia.com/people/priya-paul-park-hotels-india-hospitality-294411",
-                "source": "CNA Luxury",
-                "date": "2026-07-05T21:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eight wounded, including four children, after July Fourth cookout shooting near Coney Island",
-                "desc": "The shooter fled but police did recover a gun, police commissioner says",
-                "image": "https://www.theglobeandmail.com/resizer/v2/U5IAORQFPBBSDOTXBNIG4NX4C4.jpg?auth=f492c8cfcc94cc1e0e0f19f246fd8d59595a0b01068b18fd401027f5cb8be2fb&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-eight-wounded-including-four-children-after-july-fourth-cookout/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-05T21:47:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AG: Government pledge to disobey High Court undermines core principles of rule of law",
-                "desc": "Herzog: Disobeying court ruling crosses a red line; opposition leaders warn against weakening of democratic norms, envision 'anarchy in the streets'; Israel Bar Association chair: 'Israel will not survive' if move goes unchallenged",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/FotoJet-22.jpg",
-                "url": "https://www.timesofisrael.com/herzog-opposition-leaders-assail-government-for-declaring-it-will-disobey-high-court/",
-                "source": "The Times of Israel",
-                "date": "2026-07-05T21:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pope Leo XIV Says Christ is Hope Amid the Scourge of War",
-                "desc": "The pontiff prayed the Angelus in St. Peter’s Square before traveling to Castel Gandolfo for three weeks of vacation.",
-                "image": "https://www.aciafrica.org/images/_ris2392_bwuukz.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/22753/pope-leo-xiv-says-christ-is-hope-amid-the-scourge-of-war",
-                "source": "ACI Africa",
-                "date": "2026-07-05T21:35:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South African Court Allows Private Rhino Horn Exports",
-                "desc": "A South African court dismissed a government appeal, allowing a private farmer to export rhino horn from his 450 captive rhinos.",
-                "image": "https://www.briefs.co/wp-content/uploads/2026/07/south-african-court-allows-private-rhino-owners-to-export-ho.png",
-                "url": "https://www.briefs.co/news/south-african-court-allows-private-rhino-owners-to-export-horn/",
-                "source": "Briefs Finance",
-                "date": "2026-07-05T21:27:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mexico vs England: Thomas Tuchel's side face a huge altitude problem by playing World Cup round of 16 at 7,000 feet",
-                "desc": "England take on Mexico in Mexico City for a place in the World Cup quarter-finals on Monday morning at 1am UK time; Thomas Tuchel says playing at an altitude of 7,000 feet is a huge advantage for the co-hosts, with England unable to adapt to the conditions",
-                "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-mexico-azteca-stadium_7288006.jpg?20260702120417",
-                "url": "https://www.skysports.com/football/news/12098/13559666/mexico-vs-england-thomas-tuchels-side-face-a-huge-altitude-problem-by-playing-world-cup-round-of-16-at-7-000-feet",
-                "source": "Sky Sports",
-                "date": "2026-07-05T21:17:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump to meet Ukraine's Zelenskyy and Syria's al-Sharaa at NATO summit",
-                "desc": "Trump plans to meet with Ukrainian President Volodymyr Zelenskyy and Syrian President Ahmad al-Sharaa on Wednesday, the White House said.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108322378-1781606380324-gettyimages-2281244016-AFP_B78X7KA.jpeg?v=1781606424&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/05/trump-to-meet-ukraines-zelenskyy-and-syrias-al-sharaa-at-nato-summit.html",
-                "source": "CNBC",
-                "date": "2026-07-05T21:14:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mexico vs England: Azteca Stadium issues shelter-in-place order because of severe weather",
-                "desc": "Supporters are told to stay in their seats as an electrical storm approaches Azteca Stadium before Mexico v England in the last 16 of the World Cup.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2117/live/8c88b0c0-78b8-11f1-a153-7f64e09767e4.jpg",
-                "url": "https://www.bbc.com/sport/football/articles/clyeegldnmpo",
-                "source": "BBC",
-                "date": "2026-07-05T21:14:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
-                "desc": "Since he started work as NATO secretary-general almost two years ago, Mark Rutte has spent much of his time trying to keep the United States anchored to the world’s biggest military alliance.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/0434734/2147483647/strip/true/crop/5545x2911+0+393/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2Fac%2F4790bb574a688f1e626ee4cdc08c%2Fb4cd0207e81442d6baea1429be763f3c.jpg",
-                "url": "https://www.latimes.com/world-nation/story/2026-07-05/nato-chief-faces-challenge-at-summit-as-trump-demands-loyalty-not-just-burden-sharing",
-                "source": "Los Angeles Times",
-                "date": "2026-07-05T21:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wildfires rage in Portugal, Greece and Spain while Greek authorities warn of toxic smoke",
-                "desc": "Firefighters battled wildfires in Portugal, Greece and Spain on Sunday, with Spain and Italy sending reinforcements to Portugal to fight a massive blaze burning for several days.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Europe-wildfires.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11953775/wildfires-portugal-greece-spain-toxic-smoke/",
-                "source": "Global News",
-                "date": "2026-07-05T21:12:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-06T13:00:40.933433Z"
+    "lastGlobalSync": "2026-07-06T13:40:46.880435Z"
 }
