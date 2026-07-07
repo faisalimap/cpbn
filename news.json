@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Firm CPO prices keep sector positive",
+                "desc": "PETALING JAYA: The plantation sector's second half of the year (2H26) outlook remains positive, underpinned by firm crude palm oil (CPO) prices.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996267.jpg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/07/07/firm-cpo-prices-keep-sector-positive",
+                "source": "The Star",
+                "date": "2026-07-06T23:39:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "off pitched to revamp The Block",
+                "desc": "A wild pitch to fix the reality renovation show’s growing problem with auction flops could end its “property porn with a stopwatch” reputation.",
+                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_1c343f32c9c75671f261e96bd98423ca_04fe32645838e0b68d9196cf16901d7a.jpeg",
+                "url": "https://www.realestate.com.au/news/radical-spinoff-pitched-to-revamp-the-block/",
+                "source": "realestate.com.au",
+                "date": "2026-07-06T23:33:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon bars breastfeeding mum from business course",
+                "desc": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fbef/live/e08a6570-79d4-11f1-a400-b302bc872d47.jpg",
+                "url": "https://www.bbc.com/news/articles/cp9llgg5k8ro",
+                "source": "BBC",
+                "date": "2026-07-06T23:31:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon bars breastfeeding mum from business course",
+                "desc": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbef/live/e08a6570-79d4-11f1-a400-b302bc872d47.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro",
+                "source": "BBC",
+                "date": "2026-07-06T23:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Banks accused of failing most vulnerable customers",
+                "desc": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89f4/live/6a2491e0-7942-11f1-bfee-d367081f1131.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o",
+                "source": "BBC",
+                "date": "2026-07-06T23:29:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Banks accused of failing most vulnerable customers",
+                "desc": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/89f4/live/6a2491e0-7942-11f1-bfee-d367081f1131.jpg",
+                "url": "https://www.bbc.com/news/articles/cgl33dyk7y9o",
+                "source": "BBC",
+                "date": "2026-07-06T23:29:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Metrocon eyes SGX listing through Hatten takeover",
+                "desc": "SINGAPORE: A construction and engineering firm could soon make its Singapore Exchange (SGX) debut by taking over the Catalist listing of embattled Hatten Land.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996240.jpg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/07/07/metrocon-eyes-sgx-listing-through-hatten-takeover",
+                "source": "The Star",
+                "date": "2026-07-06T23:29:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Follows Palantir's Playbook: How Forward Deployed Engineers Target the Enterprise AI Gold Rush",
+                "desc": "Amazon Web Services announced that it will be investing $1 billion to implement forward deployed engineers in customer environments.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877440%2Famazon-logo.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/06/amazon-follows-palantirs-playbook-how-forward-dep/",
+                "source": "The Motley Fool",
+                "date": "2026-07-06T23:26:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GHF Fund Wins Dismissal of $300 Million Fraud Appeal Arising From Abraaj Collapse in Cayman Islands",
+                "desc": "Cleary Gottlieb represents GHF Fund in securing dismissal of an appeal in the $300 million fraud claim arising from the Abraaj collapse in the Cayman Islands.",
+                "image": "https://www.clearygottlieb.com/favicon.ico?ie=639189854964428767",
+                "url": "https://www.clearygottlieb.com/news-and-insights/news-listing/ghf-fund-wins-dismissal-of-300-million-fraud-appeal-in-abraaj-collapse-case",
+                "source": "Cleary Gottlieb",
+                "date": "2026-07-06T23:22:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Solstice Advanced Materials in $15 Billion Acquisition of Element Solutions",
+                "desc": "Cleary Gottlieb represents Solstice Advanced Materials in a $4.7 billion bridge commitment related to its $15 Billion Acquisition of Element Solutions.",
+                "image": "https://www.clearygottlieb.com/favicon.ico?ie=639189631275621111",
+                "url": "https://www.clearygottlieb.com/news-and-insights/news-listing/solstice-advanced-materials-in-15-billion-acquisition-of-element-solutions",
+                "source": "Cleary Gottlieb",
+                "date": "2026-07-06T23:22:36Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
                 "title": "A focus on AI, IPOs, diplomacy",
                 "desc": "After a tumultuous first half of the year, China prioritizes AI, IPOs and diplomacy during a critical H2.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108330578-1783301918334-gettyimages-2276638474-img_6080.jpeg?v=1783302841&w=1920&h=1080",
@@ -542,99 +632,99 @@
                 "source": "The Manila Times",
                 "date": "2026-07-06T20:36:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Wintrust to purchase Northern Trust guardianship services business",
-                "desc": "CHICAGO, July 06, 2026 (GLOBE NEWSWIRE) -- Northern Trust Corporation (NASDAQ: NTRS) and Wintrust Financial Corporation (NASDAQ: WTFC) today announced that Wintrust Private Trust Company, N.A., has entered into an agreement to purchase the guardianship services business of Northern Trust. The transaction is expected to close later this year. Terms of the transaction were not disclosed.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126687.png",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/wintrust-to-purchase-northern-trust-guardianship-services-business/2379364",
-                "source": "The Manila Times",
-                "date": "2026-07-06T20:36:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "American Assets Trust, Inc. Announces Second Quarter 2026 Earnings Release Date and Conference Call Information",
-                "desc": "SAN DIEGO, July 06, 2026 (GLOBE NEWSWIRE) -- American Assets Trust, Inc. (NYSE:AAT) (the 'Company”) will announce its second quarter 2026 earnings in a press release to be issued after the market closes on Tuesday, July 28, 2026.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126686.jpg",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/american-assets-trust-inc-announces-second-quarter-2026-earnings-release-date-and-conference-call-information/2379363",
-                "source": "The Manila Times",
-                "date": "2026-07-06T20:36:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lamar Advertising Company to Release Second Quarter Ended June 30, 2026 Operating Results",
-                "desc": "BATON ROUGE, La., July 06, 2026 (GLOBE NEWSWIRE) -- Lamar Advertising Company (Nasdaq: LAMR) will release its second quarter ended June 30, 2026 earnings report before the market opens on Thursday, August 6, 2026. Lamar will host a conference call on Thursday, August 6, 2026 at 8:00 a.m. (Central time) to discuss the Company’s results and answer questions relating to company operations.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126684.png",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/lamar-advertising-company-to-release-second-quarter-ended-june-30-2026-operating-results/2379361",
-                "source": "The Manila Times",
-                "date": "2026-07-06T20:36:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alcon and RxSight Announce Collaboration to Develop Adjustable PCIOLs",
-                "desc": "Non-exclusive license agreement for the development and commercialization of novel post-operative light adjustable PCIOL technologiesCollaboration aims to combine best-in-class PCIOL optics with first-in-class platform to enable fine-tuning of visual outcomes after cataract surgery ALISO VIEJO, Calif., July 06, 2026 (GLOBE NEWSWIRE) -- Alcon (SIX/NYSE: ALC), the global leader in eye care dedicated to helping people see brilliantly, and RxSight, Inc. (NASDAQ: RXST), an ophthalmic medical device company dedicated to providing high-quality customized vision to patients following cataract surgery, today announced a non-exclusive collaboration to jointly develop adjustable presbyopia-correcting intraocular lenses (PCIOLs).",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126682.png",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/alcon-and-rxsight-announce-collaboration-to-develop-adjustable-pciols/2379359",
-                "source": "The Manila Times",
-                "date": "2026-07-06T20:36:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More people buy second-hand electric car as fuel prices surge due to Iran war",
-                "desc": "Sales of used electric vehicles in the Netherlands rose sharply in the first half of this year, increasing more than 54% to 70,547 cars compared with a year earlier, according to industry group BOVAG.The increase came alongside a shifting used-car market, where overall sales fell while electric vehicles gained share. BOVAG attributed the surge in interest in used electric cars to higher fuel prices linked to the war in the Middle East, which pushed more consumers toward lower running-cost vehicles.",
-                "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2023-04/Depositphotos_633955126_L.jpg?h=56d0ca2e",
-                "url": "https://nltimes.nl/2026/07/06/people-buy-second-hand-electric-car-fuel-prices-surge-due-iran-war",
-                "source": "NL Times",
-                "date": "2026-07-06T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft to shed 4800 jobs in bid to save struggling Xbox gaming division",
-                "desc": "Microsoft is eliminating about 4800 jobs – roughly 2% of its global workforce – in a cost-cutting move that will deliver a sweeping restructuring of its...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/A5J746DHG5ENDNQU3TZO3Q335I.jpg?auth=333325f5919cac13a451a14150f6ab8ce0f2ce727e9826b8a19c33600b534931&width=1200&height=675&quality=70&smart=true",
-                "url": "https://www.nzherald.co.nz/business/microsoft-to-shed-4800-jobs-in-bid-to-save-struggling-xbox-gaming-division/FD64PF4FDNEQNOTTK6BX465OXA/",
-                "source": "NZ Herald",
-                "date": "2026-07-06T19:59:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Report: Sustainability goals are changing packaging automation equipment",
-                "desc": "PMMI sees growing demand for equipment capable of handling lightweighted packaging, post-consumer recycled (PCR) materials, smaller pack sizes, and elimination of secondary packaging.",
-                "image": "https://www.dcvelocity.com/media-library/image-of-packaging-products.png?id=67102340&width=1200&height=600&coordinates=0%2C3%2C0%2C4",
-                "url": "https://www.dcvelocity.com/material-handling/order-fulfillment-packing/packaging-unitizing-machinery/report-sustainability-goals-are-changing-packaging-automation-equipment",
-                "source": "DC Velocity",
-                "date": "2026-07-06T19:56:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WellSpan Health and Cancer Care Associates of York mark first day of integrated cancer care partnership",
-                "desc": "WellSpan Health and Cancer Care Associates of York mark first day of integrated cancer care partnership",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126632.jpg",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/wellspan-health-and-cancer-care-associates-of-york-mark-first-day-of-integrated-cancer-care-partnership/2379317",
-                "source": "The Manila Times",
-                "date": "2026-07-06T19:55:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Creatd, Inc. to Host Investor Conference Call on July 7, 2026",
-                "desc": "Creatd CEO Jeremy Frommer to lead a discussion on the microcap space at large and take investor questions",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126630.png",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/creatd-inc-to-host-investor-conference-call-on-july-7-2026/2379315",
-                "source": "The Manila Times",
-                "date": "2026-07-06T19:55:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump administration targets 702 rules in $1.5T deregulatory plan",
-                "desc": "Trump administration unveils sweeping deregulatory plan to eliminate over 700 federal rules, projecting $1.5 trillion in cost savings across EPA, USDA, SNAP and more.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/donald-trump-oval-office-03.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/economy/trump-admin-maps-out-sweeping-rollback-regulations-push-save-1-5t",
-                "source": "Fox Business",
-                "date": "2026-07-06T19:51:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "BMW M2 now faster than the more expensive M2 CS",
+                "desc": "The BMW M2 is already a rapid car, but the brand’s own track-focused performance package has made it even quicker than the more expensive M2 CS.",
+                "image": "https://storage.ghost.io/c/a9/b3/a9b3e204-3117-4792-9a32-46184029df44/content/images/size/w1200/2026/07/bmw-m2-m-performance-parts-1.jpg",
+                "url": "https://torquecafe.com/bmw-m2-now-faster-than-the-more-expensive-m2-cs/",
+                "source": "Torquecafe",
+                "date": "2026-07-06T23:36:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Luxury Global Exploration: The OPPO Find X9 Ultra as Your Smart Travel Partner",
+                "desc": "Somewhere between a delayed flight in Istanbul and a hawker stall in Penang, most Malaysian travellers have faced the same problem: a dead phone, a menu they cannot read, and a...",
+                "image": "https://media.itwire.com/2026/07/06/luxury-global-exploration-the-oppo-find-x9-ultra-as-your-smart-travel-partner-eb7ab520a6f1.jpg",
+                "url": "https://itwire.com/your-it-news/mobility/luxury-global-exploration-the-oppo-find-x9-ultra-as-your-smart-travel-partner",
+                "source": "iTWire",
+                "date": "2026-07-06T23:31:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst",
+                "desc": "This week's Java roundup for June 29th, 2026, features news highlighting: a new JEP candidate, Strict Field Initialization; point releases of GraalVM, JReleaser, RefactorFirst and Java Operator SDK; m",
+                "image": "https://res.infoq.com/news/2026/07/java-news-roundup-jun29-2026/en/headerimage/java-news-roundup-image-1783370367210.jpg",
+                "url": "https://www.infoq.com/news/2026/07/java-news-roundup-jun29-2026/",
+                "source": "infoq.com",
+                "date": "2026-07-06T23:30:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+                "desc": "Around the world women are marking their split with new - or repurposed engagement - rings.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9bda/live/5b5f1a60-79ef-11f1-a627-714adb4eed6e.jpg",
+                "url": "https://www.bbc.com/news/articles/c3wy56v4ge6o",
+                "source": "BBC",
+                "date": "2026-07-06T23:30:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+                "desc": "Around the world women are marking their split with new - or repurposed engagement - rings.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bda/live/5b5f1a60-79ef-11f1-a627-714adb4eed6e.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o",
+                "source": "BBC",
+                "date": "2026-07-06T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft Teams allows users to turn off AI features",
+                "desc": "Microsoft has introduced an in-meeting toggle for licensed organizers and presenters to control \"Meeting AI\" features during live calls.",
+                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2025/11/110525_microsoft_teams.jpg",
+                "url": "https://www.scworld.com/brief/microsoft-teams-allows-users-to-turn-off-ai-features",
+                "source": "SC Media",
+                "date": "2026-07-06T23:17:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'State of Decay 3 Is Still Coming': Undead Labs Commits to PS5 Survival Game As It Exits Xbox",
+                "desc": "Survivors stick together - I wrote an article just two weeks ago headlined ‘State of Decay 3 Looks to Have All the Ingredients for Success’. I’m genui...",
+                "image": "https://images.pushsquare.com/d7e7eaa2e1071/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/state-of-decay-3-is-still-coming-undead-labs-commits-to-ps5-survival-game-as-it-exits-xbox",
+                "source": "Push Square",
+                "date": "2026-07-06T23:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google previews Android Halo for AI agents on Android",
+                "desc": "Android 17 users will get a status bar space to track AI tasks and reply in place, as Google expands its operating-system AI push.",
+                "image": "https://futurefive.com.au/uploads/story/2026/07/06/compatible_image.jpg",
+                "url": "https://futurefive.com.au/story/google-previews-android-halo-for-ai-agents-on-android",
+                "source": "futurefive.com.au",
+                "date": "2026-07-06T23:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "style 1981 Reissue watch with ice blue dial and 35mm design",
+                "desc": "Timex launches the END. x 1981 Reissue watch with a 35mm stainless steel case, quartz movement, 50m water resistance, and a $199 price tag.",
+                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Timex-END-1981-Reissue-Inspired-watch.webp",
+                "url": "https://www.gizmochina.com/2026/07/06/timex-end-1981-reissue-inspired-watch-launched-specs-price/",
+                "source": "Gizmochina",
+                "date": "2026-07-06T23:09:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kaspersky Transforms Threat Intelligence Reporting into an Interactive Content Hub",
+                "desc": "Kindly share this postEasy interaction with exclusive Kaspersky reports, geo-filtering and actionable intelligence in a single click: expert insights on Advanced Persistent Threats (APT), Crimeware and Industrial Control Systems (ICS) threats are now available directly in Kaspersky Threat Intelligence Portal — with charts and visuals rendered inline. In an era of increasingly sophisticated and frequent […]",
+                "image": "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2026/03/Kaspersky-logo.png?resize=629%2C351&ssl=1",
+                "url": "https://www.nigeriacommunicationsweek.com.ng/kaspersky-transforms-threat-intelligence-reporting-into-an-interactive-content-hub/",
+                "source": "Nigeria Communications Week",
+                "date": "2026-07-06T23:08:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Microsoft's Xbox Business Reset",
                 "desc": "Microsoft's latest Xbox layoffs show the pressures facing one of gaming's biggest names and how the new CEO plans to change course.",
@@ -1174,99 +1264,99 @@
                 "source": "Medical Xpress",
                 "date": "2026-07-06T20:00:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Resident Evil Requiem Officially Returns July 30 With New DLC",
-                "desc": "Resident Evil Requiem is officially getting brand-new DLC on July 30 ahead of the release of Resident Evil Veronica in 2027.",
-                "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/re9-requiem-gameplay-lady-in-mirror-bathroom-press-kit-image.jpg?w=1600&h=900&fit=crop",
-                "url": "https://screenrant.com/resident-evil-requiem-amiibo-weapon-skins-july-2026/",
-                "source": "ScreenRant",
-                "date": "2026-07-06T20:00:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pokémon Go Hosting Major 10th Anniversary Broadcast This Week",
-                "desc": "Pokémon Go will hold a very special 10th anniversary broadcast this Thursday, July 9 — with details on what it will contain currently top secret.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/03/discover-pokmon-in-the-real-world-with-pokmon-go-00-02-36-1783093287762.png?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/pokmon-go-hosting-major-10th-anniversary-broadcast-this-week",
-                "source": "IGN",
-                "date": "2026-07-06T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "watchOS 27 beta 3 brings Siri AI to the Apple Watch",
-                "desc": "Apple Watch owners can now finally use the new-and-improved Siri AI, thanks to watchOS 27 beta 3.",
-                "image": "https://photos5.appleinsider.com/gallery/68173-143712-Siriwatch-Cropped-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/06/watchos-27-beta-3-brings-siri-ai-to-the-apple-watch",
-                "source": "AppleInsider",
-                "date": "2026-07-06T19:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "watchOS 27 adds three new Health upgrades for Apple Watch",
-                "desc": "watchOS 27 packs a variety of Health-related improvements for Apple Watch users that span three main areas, here’s what’s new.",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/06/watchos-27-adds-three-new-health-upgrades-for-apple-watch/",
-                "source": "9to5Mac",
-                "date": "2026-07-06T19:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android backups are changing and it's going to affect everyone's Google cloud storage",
-                "desc": "Luckily, it won't affect it by much",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/pixel-10-pro-xl-screen-hand.JPG?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/android-backup-change-to-google-account-storage/",
-                "source": "Android Police",
-                "date": "2026-07-06T19:53:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Save $80 on the Roborock Q7 M5 for Spotless Floors Without Lifting a Finger",
-                "desc": "It both vacuums and mops, uses advanced lidar navigation and you can pick it up for just $150 right now.",
-                "image": "https://www.cnet.com/a/img/resize/99cde3a6f0a870a3ccd465ad77e1362422bba341/hub/2026/07/06/5d61ea3c-57ca-4d63-87b4-d5df4e91b152/roborock-q7-m5-robot-vacuum.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/roborock-q7-m5-robot-vacuum-deal-2026-07-06/",
-                "source": "CNET",
-                "date": "2026-07-06T19:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ExpressVPN adds passkeys on password manager, passes security audit",
-                "desc": "ExpressVPN announced passkey support on its ExpressKeys password manager, along secure credential sharing and direct vault imports.",
-                "image": "https://cyberinsider.com/wp-content/uploads/2026/07/ExpressVPN-adds-passkeys-on-password-manager-passes-security-audit.png",
-                "url": "https://cyberinsider.com/expressvpn-adds-passkeys-on-password-manager-passes-security-audit/",
-                "source": "CyberInsider",
-                "date": "2026-07-06T19:52:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The rise of computer chips - and the race to control them",
-                "desc": "An analysis sets out the history of computing beyond software and Californian entrepreneurs.",
-                "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02099-y/d41586-026-02099-y_52839284.jpg",
-                "url": "https://www.nature.com/articles/d41586-026-02099-y?error=cookies_not_supported&code=ccbe6049-4453-4a1c-b75b-231099d6ec88",
-                "source": "Nature",
-                "date": "2026-07-06T19:51:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Portland Design Works Launches New AirForge Ultra Compact Mini Hand/C02 Pump",
-                "desc": "Today, Portland Design Works (PDW), a bicycle component company, launches the new AirForge Ultra Compact Mini Hand/C02 Pump",
-                "image": "https://bikerumor.com/wp-content/uploads/2026/07/Portland-Design-Works-AirForge-Mini-C02Hand-Pump-hero.jpeg",
-                "url": "https://bikerumor.com/portland-design-works-launches-new-airforge-ultra-compact-mini-hand-c02-pump/",
-                "source": "Bikerumor",
-                "date": "2026-07-06T19:39:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Madlad builds homebrew GPU using 8,192 RISC-V chips",
-                "desc": "The next version will have 32,000 MCUs",
-                "image": "https://image.theregister.com/5267263.jpg?imageId=5267263&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175",
-                "source": "The Register",
-                "date": "2026-07-06T19:39:04Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "U.S. vs Belgium FIFA World Cup LIVE: Belgium knocks out U.S.A. 4-1",
+                "desc": "FIFA World Cup 2026 | Follow The Hindu's LIVE coverage of U.S. vs Belgium knockout clash",
+                "image": "https://th-i.thgim.com/public/incoming/r3ckkg/article71191985.ece/alternates/LANDSCAPE_1200/2284971916.jpg",
+                "url": "https://www.thehindu.com/sport/football/us-vs-belgium-fifa-world-cup-match-live-score-updates-july-6-2026/article71191911.ece",
+                "source": "The Hindu",
+                "date": "2026-07-06T23:34:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese government tells critics not to ‘overinterpret’ missile test in Pacific as criticism grows",
+                "desc": "The Australian government says there was ‘insufficient notice’ as details of missile path are released by Taiwan government",
+                "image": "https://i.guim.co.uk/img/media/eb62fd438a63ba5f189cafa57f0e1e6778ee8022/117_0_2108_1687/master/2108.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ab98e3ea073a86870a8202873174b3a",
+                "url": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows",
+                "source": "The Guardian",
+                "date": "2026-07-06T23:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
+                "desc": "Save the Children says families in and around the city of el-Obeid are facing increasingly difficult conditions.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4bf3496129-1783362377.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/6/over-5500-children-displaced-by-fighting-in-sudans-el-obeid-charity-says",
+                "source": "Al Jazeera",
+                "date": "2026-07-06T23:32:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former defence minister lauds ‘staunch’ Winston Peters’ message to China on Pacific missile test",
+                "desc": "The Foreign Affairs Minister’s “staunch” stance on China testing missiles in the South Pacific is being lauded as sending a strong message to the superpower...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/3K3ARLWC5JFKTMGGLX4GD5HP4E.jpg?auth=9264e92759397339be4f1551f0d5042e53d150f9fbd65645c751b9ff204d7320&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/nz/australian-foreign-affairs-minister-warns-chinas-missile-test-could-lead-to-miscalculation-in-pacific/2NTPR7ZYLND7BISUBA7B43IMPY/",
+                "source": "NZ Herald",
+                "date": "2026-07-06T23:32:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Democrats' Maine Senate candidate Graham Platner accused of sexual assault",
+                "desc": "Maine Senate candidate Graham Platner says the allegation is \"categorically false\", but is considering his next steps as the report prompts several key backers to withdraw their endorsements.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/a0273e92ace8cadee4527226e554e7d6?impolicy=wcms_watermark_news&cropH=1658&cropW=2947&xPos=0&yPos=164&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-07/graham-platner-sexual-assault-allegations-maine-senate-race/106887312",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-06T23:29:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ESHRE 42nd Annual Meeting: Halving fertility treatment costs could more than double births, major global study shows",
+                "desc": "A landmark international study has found that halving patient out-of-pocket costs was associated with a 2.67-fold increase in births achieved through assisted reproductive technology (ART).",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/eshre-42nd-annual-meeting-halving-fertility-treatment-costs-could-more-than-double-births-major-global-study-shows/2379405",
+                "source": "The Manila Times",
+                "date": "2026-07-06T23:26:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Belgium dump US out of World Cup to advance to quarter finals after Balogun row",
+                "desc": "Belgium dumped the United States out of their own World Cup, as Charles De Ketelaere's brace secured a 4-1 win that was eclipsed by the bitter row over Folarin Balogun's ban.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--iyFLlr7j--/t_tohu-badge-facebook/f_auto/q_auto/4JLWLWQ_GettyImages_2284969525_jpg",
+                "url": "https://www.rnz.co.nz/news/sport/683686/belgium-dump-us-out-of-world-cup-to-advance-to-quarter-finals-after-balogun-row",
+                "source": "RNZ",
+                "date": "2026-07-06T23:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Korea's Frigate Bristles With A Comical Number Of Machine Guns",
+                "desc": "North Korea's Kang Kon warship released a full broadside of machine gun fire during a demonstration for Kim Kong Un.",
+                "image": "https://www.twz.com/wp-content/uploads/2026/07/north-korean-frigate-bristles-with-machine-guns.jpg?w=1200",
+                "url": "https://www.twz.com/sea/north-koreas-frigate-bristles-with-a-comical-number-of-machine-guns",
+                "source": "TWZ",
+                "date": "2026-07-06T23:18:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leading US Democrats withdraw support for Platner after assault allegations",
+                "desc": "Monday’s accusations are the latest in a long string of controversies surrounding the Maine Democratic Senate candidate.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26161067852261-1783375452.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations",
+                "source": "Al Jazeera",
+                "date": "2026-07-06T23:18:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nations Strengthen Regional Crisis Response At Health Security Summit In Malaysia",
+                "desc": "Key Takeaways Health security is national security. That was the consensus of a gathering of civilian, military and nongovernmental agency",
+                "image": "https://www.eurasiareview.com/wp-content/uploads/2026/07/a-30.jpeg",
+                "url": "https://www.eurasiareview.com/07072026-nations-strengthen-regional-crisis-response-at-health-security-summit-in-malaysia/",
+                "source": "Eurasia Review",
+                "date": "2026-07-06T23:17:52Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Woman who claimed US$187,000 investment in husband's home wins bigger share, not ownership",
                 "desc": "A High Court judge has awarded a divorced woman a larger share of improvements made to her former husband’s Norton property after she claimed to have poured more than £142,783 (about US$187,775) into its construction, but ruled that she could not take over the house. Justice Philipa Phillips ruled that Angela Chawapiwa Mutapiri (née Mareverwa) […]",
@@ -1806,98 +1896,8 @@
                 "source": "RNZ",
                 "date": "2026-07-06T19:49:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Graham Platner Faces Maine Voter Concerns As New Sexual Assault Allegation Lands",
-                "desc": "A new allegation against Graham Platner has intensified scrutiny as the Maine Democrat denies the claim.",
-                "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/AP26161067852261.jpg?w=1200&crop=1",
-                "url": "https://www.newsweek.com/graham-platner-polls-scandal-susan-collins-12162790",
-                "source": "Newsweek",
-                "date": "2026-07-06T19:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israel expands Jordan border defenses amid growing terror threats",
-                "desc": "IDF Division 96 oversees border security across military outposts in the Jordan Valley in Area C of Judea and Samaria, countering smuggling and threats from Iran.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/idf-jordan-valley-lookout.jpg",
-                "url": "https://www.foxnews.com/world/israel-fortifies-border-jordan-iran-seeks-new-terror-path",
-                "source": "Fox News",
-                "date": "2026-07-06T19:47:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Bishop of South Africa’s Catholic Diocese of Bethlehem Urged to Lead in Synodality",
-                "desc": "The new Local Ordinary of the Catholic Diocese of Bethlehem in South Africa has been challenged to embrace leadership that is rooted in synodality, discernment, humility, and unwavering fidelity to Christ, with a call to walk closely with the faithful while continually seeking God's will.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-06t175942_1783367160.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/22767/new-bishop-of-south-africas-catholic-diocese-of-bethlehem-urged-to-lead-in-synodality",
-                "source": "ACI Africa",
-                "date": "2026-07-06T19:46:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Avoid “partisan interests”: Catholic Bishop to 32 New Deacons in DR Congo",
-                "desc": "Thirty-two newly ordained Deacons in the Democratic Republic of Congo (DRC) have been challenged to become “holy signposts” who guide people to Christ through lives of missionary commitment, holiness, and joyful service.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-06t144606_1783367041.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/22765/avoid-partisan-interests-catholic-bishop-to-32-new-deacons-in-dr-congo",
-                "source": "ACI Africa",
-                "date": "2026-07-06T19:46:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Islandwide blackout hits Cuba as its fuel reserve dwindles and grid crumbles",
-                "desc": "An islandwide blackout has hit Cuba as fuel reserves dwindle and its electric grid continues to crumble.",
-                "image": "https://dims.apnews.com/dims4/default/55e9d6e/2147483647/strip/true/crop/8088x5389+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F66%2F9c2e210e503693826ebe57d3890e%2F91dd378eee414eac91b77dd7634b7eb0",
-                "url": "https://apnews.com/article/cuba-blackout-fuel-shortage-economic-crisis-a169e410e90e5cea6f9dd1dc859d6dd5",
-                "source": "AP News",
-                "date": "2026-07-06T19:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "High Court recognises Namibia bank liquidation, clears path to recover Zimbabwe assets",
-                "desc": "The High Court has recognised the liquidation of Namibia’s failed Small and Medium Enterprise Bank (SME Bank), paving the way for its court-appointed liquidators to recover assets in Zimbabwe and seek the enforcement of judgments obtained in Namibia. Justice Siyabona Musithu ruled in favour of David John Bruni and Ian Robert McLaren the joint final […]",
-                "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2023/04/13181521/high-court-of-zimbabwe-3.jpg",
-                "url": "https://www.newzimbabwe.com/high-court-recognises-namibia-bank-liquidation-clears-path-to-recover-zimbabwe-assets/",
-                "source": "NewZimbabwe.com",
-                "date": "2026-07-06T19:37:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry insiders slam royal courtiers for disinviting him",
-                "desc": "Royal insiders blame King Charles' \"men in gray suits\" for the latest chaotic dispute surrounding Prince Harry and his ill-fated trip to the UK.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/newspress-collage-sgxnn2pw5-1783366518851.jpg?quality=75&strip=all&1783352146&w=1200",
-                "url": "https://pagesix.com/2026/07/06/royal-family/prince-harry-insiders-slam-royal-courtiers-for-disinviting-him/",
-                "source": "Page Six",
-                "date": "2026-07-06T19:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SACU Still Matters for Deepening Regional Integration and Industrialisation",
-                "desc": "During the meeting of SACU members at the end of June 2026, the chairperson of the SACU Senior Trade Officials, Ms Xolelwa Mlumbi-Peter, said their meeting was necessary for Member States to strengthen regional",
-                "image": "https://www.thevillager.com.na/wp-content/uploads/2026/06/SACU-Fund.jpeg",
-                "url": "https://www.thevillager.com.na/national/2026/sacu-still-matters-for-deepening-regional-integration-and-industrialisation/",
-                "source": "The Villager Newspaper",
-                "date": "2026-07-06T19:35:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African Air Transport Convention 2026 Concludes with Landmark Lomé Declaration",
-                "desc": "African Air Transport Convention 2026 concludes in Lomé with the Lomé Declaration, advancing SAATM, aviation liberalisation, connectivity and investment.",
-                "image": "https://eturbonews.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=3157310&type=eturbonews&hash=ae16a0162add473389ae7da98f63e35b",
-                "url": "https://eturbonews.com/african-air-transport-convention-2026-lome-declaration-saatm/",
-                "source": "eTurboNews",
-                "date": "2026-07-06T19:33:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Access Canberra: EV owners overcharged due to data error",
-                "desc": "Access Canberra's system failure leads to EV buyers paying higher stamp duty. Uncover how the Green Vehicle Guide causes financial strain for motorists.",
-                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/231012065/dac2193b-38bc-4879-92de-e7d49f79095c.jpg/r0_36_1920_1044_w1200_h630_fmax.jpg",
-                "url": "https://www.canberratimes.com.au/story/9305478/access-canberra-ev-owners-overcharged-due-to-data-error/",
-                "source": "The Canberra Times",
-                "date": "2026-07-06T19:32:17Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-07T11:00:46.602642Z"
+    "lastGlobalSync": "2026-07-07T11:40:42.882108Z"
 }
