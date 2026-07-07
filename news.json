@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Leading Through Fire: Resilient Leadership for People, Planet, and the Future, published by Lumination Hive, Wins 2026 Nautilus Gold Award",
+                "desc": "The award-winning book offers a practical framework for leading with resilience, stewardship, and purpose in a rapidly changing world.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126724.jpg",
+                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/leading-through-fire-resilient-leadership-for-people-planet-and-the-future-published-by-lumination-hive-wins-2026-nautilus-gold-award/2379396",
+                "source": "The Manila Times",
+                "date": "2026-07-06T22:37:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rogers to become sole owner of MLSE as Tanenbaum sells remaining stake for $4.35B",
+                "desc": "The deal to buy the remaining 25 per cent stake in Maple Leaf Sports & Entertainment from Kilmer Sports Inc. means Rogers will own the Raptors, Leafs, Toronto FC, Argos, Marlies and Scotiabank Arena — plus the Blue Jays, Rogers Centre and Sportsnet, which it already owned. While the deal cements the company's dominance of Toronto sports, experts say it won't change anything for fans.",
+                "image": "https://i.cbc.ca/ais/d647bfac-3e27-4839-94cd-ab47def2b987,1783341454356/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C175%2C7203%2C4051%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/business/rogers-buying-mlse-9.7259583",
+                "source": "CBC",
+                "date": "2026-07-06T22:37:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deposits win for private banks, loans trophy for PSBs: Q1 throws up opposing trends; private growth seen as healthier",
+                "desc": "Private banks saw stronger deposit growth than public sector lenders in the June quarter. Public sector banks, however, achieved faster credit expansion during the same period. This divergence raises concerns about funding sustainability for state-run institutions. Private banks have steadily gained market share in deposits over a decade. Credit growth between the two bank types showed convergence in the recent quarter.",
+                "image": "https://img.etimg.com/thumb/msid-132225149,width-1200,height-630,imgsize-119540,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/deposits-win-for-private-banks-loans-trophy-for-psbs-q1-throws-up-opposing-trends-private-growth-seen-as-healthier/articleshow/132225141.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-06T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jim Cramer says these are the 5 stocks to buy during this market rotation",
+                "desc": "CNBC's Jim Cramer said investors should use the latest market rotation as an opportunity to buy high-quality companies.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/06/jim-cramer-stocks-buy-during-market-rotation.html",
+                "source": "CNBC",
+                "date": "2026-07-06T22:29:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GameChange Energy awarded 380 MWp tracker order in Australia",
+                "desc": "**media[1126720]**SYDNEY, July 7, 2026 /PRNewswire/ -- GameChange Energy, a global provider of renewable energy infrastructure solutions, today announced that it has been selected to supply its Genius Tracker™ 1P Terrain Following system for the 380 MWp Lower Wonga Solar Farm in Australia. The project is being developed by Lightsource bp, with INTEC Energy Solutions as the EPC partner.**media[1126721]**",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126718.jpg",
+                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/gamechange-energy-awarded-380-mwp-tracker-order-in-australia/2379394",
+                "source": "The Manila Times",
+                "date": "2026-07-06T22:26:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Tuesday, July 7",
+                "desc": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/erikkain/2026/07/06/nyt-pips-answers-walkthrough-tuesday-july-7/",
+                "source": "Forbes",
+                "date": "2026-07-06T22:26:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Don't Die' Guy Bryan Johnson Says He Has Serious Autoimmune Disease",
+                "desc": "\"My stomach is eating itself,\" wrote Johnson.",
+                "image": "https://gizmodo.com/app/uploads/2025/01/Bryan-Johnson-speaks-at-a-conference-in-Beverly-Hills-1200x675.jpg",
+                "url": "https://gizmodo.com/dont-die-guy-bryan-johnson-says-he-has-serious-autoimmune-disease-2000781915",
+                "source": "Gizmodo",
+                "date": "2026-07-06T22:23:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Greensteel secures historic BHP site for manufacturing return",
+                "desc": "Greensteel Australia announces a $500 million electric steel mill for Newcastle, Australia's first in decades. See how this zero-gas site will create jobs.",
+                "image": "https://www.newcastleherald.com.au/images/transform/v1/crop/frm/hAWJC77isbRCSsmqzS5A6F/3685d762-77b1-4415-a643-185688ee97a9.png/r0_24_1280_696_w1200_h630_fmax.jpg",
+                "url": "https://www.newcastleherald.com.au/story/9305616/greensteel-australia-500-million-revives-newcastle-steelmaking/",
+                "source": "Newcastle Herald",
+                "date": "2026-07-06T22:18:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exclusive Interview: Renaissance Africa Energy CEO Tony Attah On Indigenous Leadership, Energy Security, And Nigeria's Industrial Future",
+                "desc": "Nigeria's upstream sector is entering a defining phase as indigenous operators assume greater responsibility for sustaining production, expanding domestic gas",
+                "image": "https://i0.wp.com/www.majorwavesenergyreport.com/wp-content/uploads/2026/07/Mr-Attah-responds-to-questions.jpg",
+                "url": "https://www.majorwavesenergyreport.com/exclusive-interview-renaissance-africa-energy-ceo-tony-attah-on-indigenous-leadership-energy-security-and-nigerias-industrial-future/",
+                "source": "Majorwaves Energy Report",
+                "date": "2026-07-06T22:17:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Which countries have the most millionaires?",
+                "desc": "Strong stock market gains helped mint hundreds of thousands of new U.S. millionaires last year, according to UBS.",
+                "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/07/GettyImages-1410929318.jpg?w=1280",
+                "url": "https://www.newsnationnow.com/business/your-money/us-new-millionaires/",
+                "source": "NewsNation",
+                "date": "2026-07-06T22:14:34Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices",
                 "desc": "The earnings surge is intensifying political pressure, with President Trump demanding gasoline prices fall to $2.25–$2.50 per gallon and launching price-gouging investigations despite industry claims that pump prices lag crude price declines.",
                 "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-06_wtkpif8lym.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Manila Times",
                 "date": "2026-07-06T19:28:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "BP sells to Equinor its interest in Newfoundland & Labrador project",
-                "desc": "BP says it has signed a deal to sell its interest in the Bay du Nord project offshore Newfoundland and Labrador to Equinor, the project’s operator.",
-                "image": "https://www.bnnbloomberg.ca/resizer/v2/ZJV6B2JUQZYTELHYXTZFZYFXLM.jpg?smart=true&auth=c835e595d346ca35fc31acdca17c99b6698ae50f1ab4d253c8d7ac9196586964&width=1200&height=630",
-                "url": "https://www.bnnbloomberg.ca/business/company-news/2026/07/06/bp-sells-interest-in-bay-du-nord-project-offshore-newfoundland-and-labrador/",
-                "source": "BNN Bloomberg",
-                "date": "2026-07-06T19:27:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Making public transport fully accessible ‘could boost UK economy by £176bn’",
-                "desc": "Report says current network of buses, trains and stations effectively locks 2.8m people out of workforce",
-                "image": "https://i.guim.co.uk/img/media/ae64350907aa6500800b3b0eeda6c0995b8dbea7/18_0_4264_3413/master/4264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b782e4aa4c3ba9ba8a09e13b39ca3c3",
-                "url": "https://www.theguardian.com/uk-news/2026/jul/06/public-transport-fully-accessible-boost-uk-economy",
-                "source": "The Guardian",
-                "date": "2026-07-06T19:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks to Watch Today: Cochin Shipyard, Kratikal Tech, Hexaware, Titan, Varun Beverages, Trent, Concord Enviro, Blue Jet, RITES in focus on 07 July",
-                "desc": "Stocks to Watch, 07 Jul: Stocks like Titan Company, Trent, Jubilant FoodWorks, Hexaware Technologies, Torrent Pharmaceuticals, Varun Beverages, Blue Jet Healthcare, Concord Enviro Systems, RITES, Karnika Industries, Cochin Shipyard, and Kratikal Tech will be in focus on July 7.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260613040600_Sensex_market_Nifty.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-cochin-shipyard-kratikal-tech-hexaware-titan-varun-beverages-trent-concord-enviro-blue-jet-rites-in-focus-on-07-july-13967389.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-06T19:21:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Breakfast briefing: Global economic pressures ease",
-                "desc": "US services sector stable; Canada's dips but inflation elevated; a regional China bank collapses; China leads fintech patent race; Australian inflation expectations ease; UST 10yr at 4.48%; gold and oil stable; NZ$1 = 57 USc; TWI-5 = 60.8",
-                "image": "https://www.interest.co.nz/themes/custom/interest_19/favicon.ico",
-                "url": "https://www.interest.co.nz/economy/139273/us-services-sector-stable-canadas-dips-inflation-elevated-regional-china-bank",
-                "source": "Interest.co.nz",
-                "date": "2026-07-06T19:20:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Don't sleep while you are driving, Mounties remind public",
-                "desc": "While it may seem obvious to some, apparently others may need a bit of a reminder: if you are behind the wheel in a moving vehicle, stay awake.",
-                "image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/03/920266e712e04e176c3cdff3a005567317ef3f2e20476a00d609d01ba22b14e6.jpg",
-                "url": "https://vancouver.citynews.ca/2026/07/06/bc-highways-dont-sleep-while-driving/",
-                "source": "CityNews Vancouver",
-                "date": "2026-07-06T19:19:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The secret’s out about this cheaper business class to Europe",
-                "desc": "This airline doesn’t try to compete with the top-tier carriers. Instead, it delivers value for money with comfortable lie-flat seats and warm service.",
-                "image": "https://static.ffx.io/images/$zoom_0.4415%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/a9c01ca1577cf18b9a940ebedb2be05423a84c29",
-                "url": "https://www.smh.com.au/traveller/reviews-and-advice/the-secret-s-out-about-this-cheaper-business-class-to-europe-20260706-p60cyg.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The secret’s out about this cheaper business class to Europe",
-                "desc": "This airline doesn’t try to compete with the top-tier carriers. Instead, it delivers value for money with comfortable lie-flat seats and warm service.",
-                "image": "https://static.ffx.io/images/$zoom_0.4415%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/a9c01ca1577cf18b9a940ebedb2be05423a84c29",
-                "url": "https://www.brisbanetimes.com.au/traveller/reviews-and-advice/the-secret-s-out-about-this-cheaper-business-class-to-europe-20260706-p60cyg.html",
-                "source": "Brisbane Times",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Workplace watchdog WorkSafe rules on Jess Wilson’s forklift",
-                "desc": "Attention-grabbing social media stunts have been a winner for the state opposition leader, but getting behind the wheel of a forklift sparked an official investigation.",
-                "image": "https://static.ffx.io/images/$zoom_1.4708333333333332%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_506/t_crop_custom/q_86%2Cf_auto/37fd1a77df1dd4851aa38a94d4112d07e7f8ad69",
-                "url": "https://www.theage.com.au/politics/victoria/workplace-watchdog-rules-on-jess-wilson-s-forklift-driving-social-media-stunt-20260706-p60d2y.html",
-                "source": "The Age",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The sneaky reason some of your favourite grocery brands suddenly taste different",
-                "desc": "Unlike ‘shrinkflation’, this consumer trend can be harder to track.",
-                "image": "https://static.ffx.io/images/$zoom_1.261%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_246%2C$y_321/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f8d2535cd7f975a0ea9dd3fb3366671cb77e45bb",
-                "url": "https://www.nine.com.au/lifestyle/money/skimpflation-why-grocery-brand-items-suddenly-taste-different-20260706-p60ct6.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The secret’s out about this cheaper business class to Europe",
-                "desc": "This airline doesn’t try to compete with the top-tier carriers. Instead, it delivers value for money with comfortable lie-flat seats and warm service.",
-                "image": "https://static.ffx.io/images/$zoom_0.4415%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/a9c01ca1577cf18b9a940ebedb2be05423a84c29",
-                "url": "https://www.theage.com.au/traveller/reviews-and-advice/the-secret-s-out-about-this-cheaper-business-class-to-europe-20260706-p60cyg.html",
-                "source": "The Age",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "New VR game tracks player emotions in hopes of fostering empathy for marginalized communities",
+                "desc": "You're in a dance club bathed in a neon-purple glow, surrounded by ghostly silhouettes that sway to the music. A stranger at the bar greets you with a flirty wave: \"Hey, you look so cute!\" Sparks fly. It's all part of a virtual ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/new-vr-game-tracks-pla.jpg",
+                "url": "https://techxplore.com/news/2026-07-vr-game-tracks-player-emotions.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-06T22:40:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oppo Reno 16 Launches Globally With AI Snap Key and Big Price Jump",
+                "desc": "The Oppo Reno 16 launches across global markets with a dedicated AI button, triple 50MP cameras, and a 6,700mAh battery. But a steep price increase over the Reno 15 raises questions about value.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/07/oppo-reno-16-key-specifications-infographic.jpg",
+                "url": "https://memeburn.com/oppo-reno-16-launches-globally-with-ai-snap-key-and-big-price-jump/",
+                "source": "Memeburn",
+                "date": "2026-07-06T22:30:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Take a Virtual Tour of HP's InfoComm 2026 Booth",
+                "desc": "Missed HP at InfoComm 2026? Take a virtual booth tour covering the new Poly Focus 6 headsets, Studio Room Compute, VideoOS 5.1, Google Beam and more.",
+                "image": "https://ravepubs.com/wp-content/uploads/2026/07/hp-poly-booth-infocomm-2026-800x400.webp",
+                "url": "https://ravepubs.com/hp-infocomm-2026-virtual-booth-tour/",
+                "source": "rAVe [PUBS]",
+                "date": "2026-07-06T22:30:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NASA Administrator Jared Isaacman",
+                "desc": "NASA confirmed over the weekend that China is edging closer in its race with the United States to put humans on the moon’s surface.",
+                "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/04/69dc0e17896de9.17404263.jpeg?w=1280",
+                "url": "https://www.newsnationnow.com/space/nasa-space-race-china/",
+                "source": "NewsNation",
+                "date": "2026-07-06T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This MacBook Pro packs premium features for under $400",
+                "desc": "Bring home your own Apple MacBook Pro for only $394.97",
+                "image": "https://helios-i.mashable.com/imagery/articles/01KrJRlEZeXwBkjh4DUvQtT/hero-image.fill.size_1200x675.v1783035068.jpg",
+                "url": "https://mashable.com/tech/july-6-apple-macbook-pro-i5-2ghz-2020-16gb-ram-512gb-ssd-silver-refurbished",
+                "source": "Mashable",
+                "date": "2026-07-06T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Someone Built Every Major Engine Configuration Out of Lego - Using Only Air",
+                "desc": "Lego introduced its pneumatic system back in 1984, and it has remained a staple of the Technic line ever since, allowing builders to route compressed air through small tubes to drive pistons in reciprocating motion. Most people use it to…",
+                "image": "https://s.yimg.com/lo/mysterio/api/93f26b2d015cd79d171f367d88bc10a5d05602dfd6b8472c66e69d8af1a45099/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotorbiscuit_articles_333%2F344aa7cea057681fd1942afdce06b578",
+                "url": "https://autos.yahoo.com/people-and-culture/articles/someone-built-every-major-engine-222536478.html",
+                "source": "Yahoo Autos",
+                "date": "2026-07-06T22:25:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Should Eliminate the App Icon ‘Squircle Jail’",
+                "desc": "Shape was often the most iconic thing about an icon. Now it’s no part at all.",
+                "image": "https://daringfireball.net/graphics/df-wide-card.png",
+                "url": "https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail",
+                "source": "Daring Fireball",
+                "date": "2026-07-06T22:24:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Expands AI Training to Include Uploaded Media to Search",
+                "desc": "Google has expanded the scope of data it collects to train its AI models, now incorporating media uploaded to its search-related services.",
+                "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Google-Search-x1.jpg",
+                "url": "https://www.pymnts.com/google/2026/google-expands-ai-training-to-include-user-uploaded-media-via-search-tools/",
+                "source": "PYMNTS.com",
+                "date": "2026-07-06T22:19:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Everything New in iOS 27 Beta 3",
+                "desc": "Apple is continuing to refine iOS 27 ahead of its planned September launch, and the third beta includes several new features. Siri is more customizable, there's a fun new wallpaper action, and some useful improvements to Photos and Shortcuts. Siri Voice Beta 3 adds support for Siri voice customization on compatible devices. The customization option existed in prior betas, but it was not active.",
+                "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+                "url": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/",
+                "source": "MacRumors",
+                "date": "2026-07-06T22:19:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MAAP Enters the Performance Eyewear Market with the Launch of Advanced_Optics for On- and Off-Bike Wear",
+                "desc": "Alongside its top-tier apparel, MAAP is introducing 4 models of cycling and lifestyle sunglasses for its first entry into the premium eyewear market.",
+                "image": "https://bikerumor.com/wp-content/uploads/2026/07/MAAP-Eyewear-PR_4x3_05.jpeg",
+                "url": "https://bikerumor.com/maap-enters-the-performance-eyewear-market-with-the-launch-of-advanced_optics-for-on-and-off-bike-wear/",
+                "source": "Bikerumor",
+                "date": "2026-07-06T22:17:10Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Three planned junction upgrades to link four cycle routes in South Dublin",
                 "desc": "South Dublin County Council is planning to upgrade cycling and pedestrian provisions along a section of the Old Bawn Road ahead of a wider active travel route linking four routes that join it. It w…",
@@ -1174,99 +1264,99 @@
                 "source": "MacRumors",
                 "date": "2026-07-06T19:22:26Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "FIFA Gaming Legacy Outlasts EA Sports FC Rebrand as FIFA 19 and 21 Lead Instagram Engagement in 2026",
-                "desc": "A new LDShop study reveals that classic FIFA titles continue to dominate social media conversations, with FIFA 19 and 21 leading Instagram engagement despite the shift to EA Sports FC.",
-                "image": "https://images.nomadlawyer.org/images/blog/travel-news/2026/07/fifa-gaming-legacy-outlasts-ea-sports-fc-rebrand-instagram-engagement-2026.jpg",
-                "url": "https://www.nomadlawyer.org/fifa-gaming-legacy-outlasts-ea-sports-fc-rebrand-instagram-engagement-2026",
-                "source": "Nomad Lawyer",
-                "date": "2026-07-06T19:18:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gemini Live may soon give you more control with push-to-talk input",
-                "desc": "Gemini Live is working on an optional new input mode that would offer a push-to-talk interface instead of constantly listening.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175549-scaled.jpg",
-                "url": "https://www.androidauthority.com/gemini-live-push-to-talk-3684532/",
-                "source": "Android Authority",
-                "date": "2026-07-06T19:00:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Adventures of Elliot: The Millennium Tales (June 2026)",
-                "desc": "As voted by you - I've been putting these new Game of the Month votes together for over a year now, and I've got to just come out and say it: I don't think I...",
-                "image": "https://images.pushsquare.com/9bbbe552b1f59/large.jpg",
-                "url": "https://www.pushsquare.com/features/game-of-the-month-the-adventures-of-elliot-the-millennium-tales-june-2026",
-                "source": "Push Square",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple iPhone Ultra Faces Major Supply Challenges Before September Launch",
-                "desc": "Apple iPhone Ultra faces significant supply challenges ahead of its September launch, raising concerns about availability and potential delays for eager buyers.",
-                "image": "https://cdn.rswebsols.com/wp-content/uploads/2026/06/iphone-foldable-ultra.jpg",
-                "url": "https://www.rswebsols.com/news/apple-iphone-ultra-experiencing-major-supply-challenges-ahead-of-september-release/",
-                "source": "RS Web Solutions",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony True RGB Just Raised the Bar for TVs",
-                "desc": "Kate got an early, up-close look at Sony True RGB, Sony’s new RGB Mini-LED display tech that could finally challenge OLED. In this video, she breaks down how True RGB works, how it compares to other RGB Mini-LED TVs, and how Sony’s processing could make a difference in color accuracy, brightness and contrast.\nAfter following Sony’s Mini-LED development for years (starting with its 22-bit backlight system we showed you guys here on the channel) this this feels like a major step forward. If you’re interested in Sony TVs, OLED vs Mini-LED, RGB backlight technology, or the future of TV displays, this is one to watch. And because you're going to ask, True RGB isn’t in a consumer TV just yet, but it’s coming.",
-                "image": "https://s.yimg.com/lo/mysterio/api/0c285ee5f64d9764379ff539b658c6300c226627f41f91d772c3cba8e657cedc/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_guide_826%2Fff6021935a623e11ffead1e0b428f1eb",
-                "url": "https://tech.yahoo.com/videos/sony-true-rgb-just-raised-190000361.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Prime Members Can Get Two Free E-Books in July",
-                "desc": "First Reads gets you early access to new books across popular genres. Prime members get free Kindle e-books every month from a list hand-picked by editors.",
-                "image": "https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.fill.size_1200x675.png",
-                "url": "https://lifehacker.com/entertainment/free-kindle-books-july-2026",
-                "source": "Lifehacker",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Deals of the Day: Stream All Summer With 45% Off the Amazon Fire TV Stick Select",
-                "desc": "Plus, score $100 off the Hisense E6 TV and almost 20% off the Anker MagGo power bank.",
-                "image": "https://www.cnet.com/a/img/resize/f7cbc09ba73d558babf7d6af6640206160e15e7e/hub/2026/07/06/e6cd4833-f381-4a73-b0d1-ee94d360f98f/amazon-dod-76.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/amazon-deals-of-the-day-july-6-2026/",
-                "source": "CNET",
-                "date": "2026-07-06T18:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple TV App Now Offers Free 4K Upgrades for Select TV Shows",
-                "desc": "Apple has started offering free 4K upgrades for Mad Men and other TV shows it’s selling on its Apple TV app.",
-                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/07/Apple-TV-app.jpg",
-                "url": "https://www.thurrott.com/apple/338456/apple-tv-app-now-offers-free-4k-upgrades-for-select-tv-shows",
-                "source": "Thurrott.com",
-                "date": "2026-07-06T18:49:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Photos New Design Just Showed Up on Android",
-                "desc": "All of the way back in February of this year, Google started rolling out a new Google Photos design on iOS that would introduce a floating bottom bar. This would mark a change from attached bottom bars in Google apps to this new floating pill shape that modernizes the styling. Weirdly, up until...",
-                "image": "https://www.droid-life.com/wp-content/uploads/2026/07/Google-Photos-new-design-Android-1-1200x628.jpg",
-                "url": "https://www.droid-life.com/2026/07/06/google-photos-new-design-just-showed-up-on-android/",
-                "source": "Droid Life",
-                "date": "2026-07-06T18:46:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GitHub cuts short offer to burn repos on CD after mockery ensues",
-                "desc": "A purported jab of Sony’s physical media phase-out blows up on GitHub itself.",
-                "image": "https://image.theregister.com/257311.jpg?imageId=257311&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113",
-                "source": "The Register",
-                "date": "2026-07-06T18:46:45Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Pacific leaders criticise Chinese nuclear",
+                "desc": "Solomon Islands PM says a ballistic missile test carried out by China is \"not the act of a friend\", sentiments echoed by several Pacific leaders.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/94249b40f6a973ad539cf9658dc92b67?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-07/china-missile-nuclear-pacific-nauru-tuvalu/106887324",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-06T22:40:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andrew and Tristan Tate 'made over £1million from teenage sex trafficking victim, 17, through twisted webcam business'",
+                "desc": "ANDREW Tate and his brother Tristan made £1million from trafficking a teenager through their webcam sex business, police allege.\nThe...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-3o9mc5rya-1783377147476.jpg?quality=90&strip=all&1783380866&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/news/17248921/andrew-tristan-tate-alleged-teen-sex-trafficking-victim/",
+                "source": "The Irish Sun",
+                "date": "2026-07-06T22:37:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic Discovers Claude Built a Hidden Thinking Room During Training",
+                "desc": "Anthropic just published research showing that its Claude model quietly built itself an internal workspace for thinking, and nobody told it to. The company call",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/anthropic-discovers-claude-built-a-hidden-thinking-room-during-training",
+                "source": "KuCoin",
+                "date": "2026-07-06T22:33:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China Is Flooding Latin American Streets With Yutong Buses and Nicaragua Is Just the Start",
+                "desc": "Nicaragua has received 180 Yutong microbuses from China, the first tranche of a 600-unit commitment, as Beijing turns public transit delivery into a signature diplomatic tool across Latin America.",
+                "image": "https://mjengohub.co.ke/static/images/articles/6ca59ec072ad4f018cc6f1e776955957_1000189609.jpg",
+                "url": "https://mjengohub.co.ke/articles/industry-insights/china-is-flooding-latin-american-streets-with-yutong-buses-and-nicaragua-is-just-the-start",
+                "source": "Mjengo Hub",
+                "date": "2026-07-06T22:31:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Submarines to redeem years of Liberals' defence complacency: Ivison",
+                "desc": "It would have been unthinkable for the government to commit this easily to the largest procurement in Canadian history just two years ago.",
+                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/tkms-artist-1-_299541288.jpg",
+                "url": "https://nationalpost.com/opinion/john-ivison-expensive-submarines-are-the-cost-to-redeem-years-of-liberal-defence-complacency",
+                "source": "National Post",
+                "date": "2026-07-06T22:31:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Cup 2026: Is Balogun the scandal that could bring down Infantino?",
+                "desc": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/94dc/live/8a1615f0-796f-11f1-9290-9b15d0e76459.jpg",
+                "url": "https://www.bbc.com/sport/football/articles/cvgmmmgemd8o",
+                "source": "BBC",
+                "date": "2026-07-06T22:26:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police expand investigation into crash that killed 10 monks",
+                "desc": "Police are investigating whether an adult taught an 11-year-old autistic boy to drive before he crashed a pickup truck into a group of monks on July 2, killing 10 people and injuring several others.",
+                "image": "https://static.bangkokpost.com/media/content/20260707/c1_3281999_260707052437_700.jpg",
+                "url": "https://www.bangkokpost.com/thailand/general/3281999/police-expand-investigation-into-crash-that-killed-10-monks",
+                "source": "Bangkok Post",
+                "date": "2026-07-06T22:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elikya’s story: A documented migrant, yet her home was burnt down by anti",
+                "desc": "As March and March’s anti-migrant rhetoric continues to fuel fear across KwaZulu-Natal, documented refugees and asylum seekers say they are being targeted despite having legal status.",
+                "image": "https://cdn.dailymaverick.co.za/i/-kFbpwtyC06S3NXgJQKrzzYSUGU=/800x0/smart/filters:strip_exif()/file/attachments/orphans/6I1A6332_558904.jpg",
+                "url": "https://www.dailymaverick.co.za/article/2026-07-07-elikyas-story-a-documented-migrant-yet-her-home-was-burnt-down-by-vigilantes/",
+                "source": "Daily Maverick",
+                "date": "2026-07-06T22:22:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Victim of fatal hit-and-run on the A-7 in Mijas was Norwegian teenager who went missing in Marbella",
+                "desc": "The 17-year-old, who disappeared in the early hours of Monday morning morning in the Puerto Banús area, was hit by a lorry whose driver fled the scene",
+                "image": "https://s2.ppllstatics.com/surinenglish/www/multimedia/externo/2026/07/06/carretera-kivD-U306683124279mG-1200x840Diario%20Sur-RaFKbZVCYmCIF5buRkWZd5M-1200x840@Diario%20Sur.jpg",
+                "url": "https://www.surinenglish.com/malaga/17yearold-norwegian-girl-20260707001122-nt.html",
+                "source": "Sur in English",
+                "date": "2026-07-06T22:22:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Has Higher Education Failed Africa’s Development?",
+                "desc": "Every year, across the length and breadth of the African continent, a familiar and colorful ritual plays out .",
+                "image": "https://cdn.modernghana.com/images/content/77202610352-uypcsgerrm-5images.jpg",
+                "url": "https://www.modernghana.com/news/1508363/has-higher-education-failed-africas-development.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-06T22:20:55Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Australia Leads the Way While Indonesia, Malaysia, Singapore, Thailand and Vietnam Unite at Australia Marketplace South East Asia 2026 to Create a Gigantic Business Platform for Tourism Suppliers to E",
                 "desc": "Australia Marketplace South East Asia 2026 connects Australia with key Asian markets to expand tourism partnerships and boost regional travel growth.",
@@ -1806,98 +1896,8 @@
                 "source": "The Independent",
                 "date": "2026-07-06T18:57:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘We are Iran’s true missiles’: millions gather in Tehran for day four of Ali Khamenei’s funeral",
-                "desc": "Drums, chants and much talk of revenge fills the air as ‘voice of the Iranian nation’ marches in temperatures of 36C",
-                "image": "https://i.guim.co.uk/img/media/94bfbab75ede71fbf8e87600874ebe7030e419f1/1198_0_6002_4800/master/6002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1fd084c1389c6c95047265c43e975f19",
-                "url": "https://www.theguardian.com/world/2026/jul/06/iran-tehran-ali-khamenei-funeral-day-four",
-                "source": "The Guardian",
-                "date": "2026-07-06T18:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fixed Wing Air Ambulance Returning to Omaha Base",
-                "desc": "Pilatus PC-12 will be Air Method’s second fixed-wing asset in Nebraska",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126597.jpg",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/fixed-wing-air-ambulance-returning-to-omaha-base/2379299",
-                "source": "The Manila Times",
-                "date": "2026-07-06T18:55:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN Makes Stride in Geneva to Shield Children from AI’s Hidden Risks",
-                "desc": "By Edwin Austin At the inaugural United Nations Global Dialogue on Artificial Intelligence Governance in Geneva held on the 6th day of July, 2026, the UN Secretary-General, António Guterres, unveiled a landmark AI Child Safety Pledge aimed at safeguarding children from the growing risks posed by artificial intelligence. In a powerful address",
-                "image": "http://africasciencenews.org/wp-content/uploads/2026/07/20260706_193935-scaled.jpg",
-                "url": "http://africasciencenews.org/un-makes-stride-in-geneva-to-shield-children-from-ais-hidden-risks/",
-                "source": "Africa Science News",
-                "date": "2026-07-06T18:54:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN reports 300 children killed or injured in Sudan war in 2026 alone",
-                "desc": "The U.N. children's agency reports over 300 children have been killed or injured in Sudan in the first six months of the year, mostly from drone strikes.",
-                "image": "https://dims.apnews.com/dims4/default/0b2813b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2F8f%2F8e5cbe2e6d33c6e5af523e741e78%2F96778befd6f54c0689f1590853e022e2",
-                "url": "https://apnews.com/article/sudan-war-children-drone-rsf-army-9ac6245afb2c0e3cfc96da5ceda14f48",
-                "source": "AP News",
-                "date": "2026-07-06T18:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Federal judge in Columbus blocks Trump immigration benefits policy",
-                "desc": "A federal judge in Columbus temporarily blocked the Trump administration from enforcing USCIS policies that paused immigration benefit applications.",
-                "image": "https://www.dispatch.com/gcdn/authoring/authoring-images/2024/05/02/NCOD/73536464007-05-marbley-profile-clh-022.jpg?crop=1998,1123,x0,y715&width=1998&height=1123&format=pjpg&auto=webp",
-                "url": "https://www.dispatch.com/story/news/courts/2026/07/06/trump-uscis-immigration-benefits-policy-blocked-by-federal-judge-in-ohio/90823065007/",
-                "source": "The Columbus Dispatch",
-                "date": "2026-07-06T18:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "assisted online sexual abuse, study finds",
-                "desc": "About one in every 25 Australians under the age of 18 has been the victim or knows a victim of artificial intelligence-assisted online sexual abuse, according to a new study.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/58b2f31b44debab88ac12793f50e0c11?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=208&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-07/1-in-25-children-targeted-with-ai-sexual-imagery/106878000",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-06T18:46:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France pulls all diplomats from Burkina Faso: ministry",
-                "desc": "The move came after the Burkina Faso unilaterally sever diplomatic relations with France on June 26",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/01ccc2ea-a8e4-44ec-8b5b-20a9e12be85e.webp?1783375224449",
-                "url": "https://www.the-star.co.ke/news/world/2026-07-06-france-pulls-all-diplomats-from-burkina-faso",
-                "source": "the-star.co.ke",
-                "date": "2026-07-06T18:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa's procurement revolution starts with Artificial Intelligence",
-                "desc": "With technology shifting materially through the increasing use of artificial intelligence (AI) Africa has an opportunity to leapfrog traditional procurement models, accelerate institutional transformation, and reap the socioeconomic rewards.",
-                "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/07/africa-procurement-AI.jpg?fit=1170%2C633&ssl=1",
-                "url": "https://tanzaniatimes.net/africas-procurement-revolution-starts-with-artificial-intelligence/",
-                "source": "The Tanzania Times",
-                "date": "2026-07-06T18:39:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "French President Emmanuel Macron arrives in war-torn Syria",
-                "desc": "French President Emmanuel Macron has arrived in Syria, becoming the first major Western leader to visit since Bashar al-Assad's ouster in 2024.",
-                "image": "https://dims.apnews.com/dims4/default/388888e/2147483647/strip/true/crop/6822x4546+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F56%2F2f9b097d5163febe8e4023d740ae%2F1fafec55b3c041129b9d77e74fb0d21f",
-                "url": "https://apnews.com/article/macron-syria-185dd4b30f7c638c3fe6342338b1027e",
-                "source": "AP News",
-                "date": "2026-07-06T18:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
-                "desc": "The judiciary chief has emphasised the need to avenge Supreme Leader Ali Khamenei and prosecute foreign ‘aggressors’.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a4bdae0ab007-1783356128.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral",
-                "source": "Al Jazeera",
-                "date": "2026-07-06T18:33:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-07T10:00:43.046757Z"
+    "lastGlobalSync": "2026-07-07T10:40:42.716480Z"
 }
