@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices",
+                "desc": "The earnings surge is intensifying political pressure, with President Trump demanding gasoline prices fall to $2.25–$2.50 per gallon and launching price-gouging investigations despite industry claims that pump prices lag crude price declines.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-06_wtkpif8lym.jpg",
+                "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Heads-for-Record-Profits-as-Trump-Turns-Up-the-Heat-on-Gas-Prices.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China Purges Over 14,000 AI Products Amid “Qinglang” Cleanup Campaign",
+                "desc": "China removed over 14,000 AI products in the first phase of its Qinglang campaign to tighten AI sector control.",
+                "image": "https://s.yimg.com/lo/mysterio/api/b48711d06b3e940cdf25a83ad032c0a962c02dded7b7b952411eb1031214900f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fea7c886bc649a4fbe9440c0241c0618d",
+                "url": "https://www.yahoo.com/news/world/articles/china-purges-over-14-000-220000431.html",
+                "source": "Yahoo",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Retailers, wholesalers face logistical challenges halfway through beverage container return scheme transition period",
+                "desc": "The National Environment Agency and BCRS Ltd, which operates the scheme, told CNA that issues were still being identified and addressed during the scheme's transition period.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--b-ZagWrY--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/03/img_20260615_154936.jpg?itok=G_FlJiZT",
+                "url": "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-10-cent-deposit-errors-transition-6229386",
+                "source": "CNA",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Mind-blowing’: Video reportedly shows driver asleep in self-driving Tesla on B.C. highway",
+                "desc": "A shocking sight was captured on a busy Interior B.C. highway over the weekend with a driver apparently asleep at the wheel of a self-driving Tesla.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/tesla-asleep.png?w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11955585/video-reportedly-shows-driver-asleep-self-driving-tesla-bc-highway/",
+                "source": "Global News",
+                "date": "2026-07-06T21:58:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The World's Largest Flying Canvas Takes Flight: STARLUX AIRSORAYAMA Silver Redefines Art in the Sky",
+                "desc": "Born of Hajime Sorayama's vision and piloted by Chairman K.W. Chang, the flying masterpiece makes its inaugural journey from Airbus’ Toulouse base to Taiwan",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126713.png",
+                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/the-worlds-largest-flying-canvas-takes-flight-starlux-airsorayama-silver-redefines-art-in-the-sky/2379389",
+                "source": "The Manila Times",
+                "date": "2026-07-06T21:57:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Govt gives WhatsApp 3 more days to reply to notice on username",
+                "desc": "India News: NEW DELHI: Govt has given WhatsApp three more days to respond to its notice over the messaging platform's proposed username feature. The Meta-owned co.",
+                "image": "https://static.toiimg.com/thumb/msid-132225789,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/govt-gives-whatsapp-3-more-days-to-reply-to-notice-on-username/articleshow/132225790.cms",
+                "source": "The Times of India",
+                "date": "2026-07-06T21:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indonesia's carbon market emerges as new growth driver",
+                "desc": "Indonesia will officially launch its forestry carbon trading ecosystem on July 6, with an inaugural issuance of approximately 31 million tonnes of carbon dioxide equivalent (CO₂e), marking a major step in developing the country's carbon market as a new engine of economic growth.",
+                "image": "https://mediaen.vietnamplus.vn/images/f579a678cf9e90879541752073c260056a66ef4ceb4d9753029e10badd54c18beb12119cabcc8cd8d130ae50b9186bd1/images.jpg.webp",
+                "url": "https://en.vietnamplus.vn/indonesias-carbon-market-emerges-as-new-growth-driver-post347820.vnp",
+                "source": "Vietnam+ (VietnamPlus)",
+                "date": "2026-07-06T21:56:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft lays off 4,800 employees as Xbox studios spin off",
+                "desc": "The Xbox restructuring will involve divestment of four studios, Xbox's new head, Asha Sharma, said in a note to employees.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/06/USAT/90827266007-20260624-t-150340-z-1874767035-rc-2-f-0-mao-1-z-50-rtrmadp-3-microsoftquantum.JPG?crop=5748,3233,x0,y309&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/business/2026/07/06/microsoft-layoffs-xbox-studios/90827117007/",
+                "source": "USA Today",
+                "date": "2026-07-06T21:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters",
                 "desc": "Over 7T AI debt by 2029, There can be no Neoclouds without the Trinity. Nvidia's Backstop Economics Explained. AI Debt Needs Quantified. Nvidia's Objective is to Broaden Compute Access, Develop AI Financing, Grow Neoclouds.",
                 "image": "https://substackcdn.com/image/fetch/$s_!j1ys!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48e6add1-df37-4641-897f-d7a94b3a66b8_2752x1536.png",
@@ -560,81 +632,81 @@
                 "source": "The Age",
                 "date": "2026-07-06T19:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Why property investors may be buying in the wrong suburbs",
-                "desc": "Investors tend to buy where other investors have already purchased, not where the best returns are. Here’s where to look instead.",
-                "image": "https://static.ffx.io/images/$zoom_0.20539177657098526%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/7918406e4b984cb2c5d0df39d16b290117ccbfb6",
-                "url": "https://www.smh.com.au/property/news/why-property-investors-may-be-buying-in-the-wrong-suburbs-20260706-p60czi.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Questions linger over firm behind fake Macquarie bond",
-                "desc": "Capital Guard reassured clients with a prestigious address overlooking the best of Sydney Harbour, but its sole director lived far away.",
-                "image": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/9bba873c90c8ef072136a6fa33a95e0f2f95ec68",
-                "url": "https://www.smh.com.au/business/companies/capital-guard-offered-sydney-harbour-legitimacy-but-its-director-looked-out-on-an-outer-melbourne-field-20260703-p60cg5.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia drafts in neoclouds for ‘power battle’ with hyperscalers over AI supremacy",
-                "desc": "Elite investors including Softbank and Situational Awareness are dropping billions on the likes of Australia’s IREN, Firmus and Sharon AI. But can it last?",
-                "image": "https://static.capitalbrief.com/assets/03fbe9b3-29a3-4208-abcd-6c2a251969fd/1783327622/?key=img-social",
-                "url": "https://www.capitalbrief.com/article/nvidia-drafts-in-neoclouds-for-power-battle-with-hyperscalers-over-ai-supremacy-53b125ac-348a-437c-9863-188a43eeddb9/",
-                "source": "Capital Brief",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Anthropic wants Australian data centres, copyright deal ahead of IPO",
-                "desc": "The US tech giant has told data centre owners it will buy whatever capacity they can deliver by mid next year.",
-                "image": "https://static.ffx.io/images/$zoom_0.2905%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/28227b663c42312a5bdad488da6755ed734665409e671654e3bae29991aebabf",
-                "url": "https://www.afr.com/companies/infrastructure/anthropic-wants-australian-data-centres-copyright-deal-ahead-of-ipo-20260706-p60cwq",
-                "source": "AFR",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK EV target “mistake” helping Chinese car brands crush Euro rivals",
-                "desc": "While European makers struggle to meet ZEV targets, newer brands benefit from friendlier rules around emissions",
-                "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1700047035/autoexpress/2023/11/BYD Seal 2023 UK-11.jpg",
-                "url": "https://www.autoexpress.co.uk/news/369958/uk-ev-target-mistake-helping-chinese-car-brands-crush-euro-rivals",
-                "source": "Auto Express",
-                "date": "2026-07-06T18:59:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Synthetic securitisations as a credit risk management tool for banks and non-bank financial institutions in the UAE",
-                "desc": "As UAE banks and finance companies have experienced strong loan portfolio growth in 2025 and early 2026, coupled with a moderation in capital buffers,...",
-                "image": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12122_4252.jpg",
-                "url": "https://www.jdsupra.com/legalnews/synthetic-securitisations-as-a-credit-9894074/",
-                "source": "JD Supra",
-                "date": "2026-07-06T18:40:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "$60.4K Becomes 'most important area:' Five things to know in Bitcoin this week",
-                "desc": "Bitcoin ($BTC) starts the second week of June near two-week highs with traders keen to see bullish continuation. Key points:$BTC price action targets nearby liquidity as a trader names",
-                "image": "https://cnews24.ru/uploads/848/8483b66df0e3bf9274e577bcf9bb6d872d7c212b.jpg",
-                "url": "https://cryptonews.net/news/bitcoin/33106457/",
-                "source": "Cryptonews.net",
-                "date": "2026-07-06T18:38:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is an election really bad for the economy?",
-                "desc": "We are often told that the economy goes on hold in the lead-up to the election, as households and businesses put investing and purchasing decisions on ice while they wait to see what shape the next government will take.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--cxW5QRU_--/t_tohu-badge-facebook/f_auto/q_auto/4L1LVCM_EasyVotePack1_jpg",
-                "url": "https://www.rnz.co.nz/news/politics/682737/is-an-election-really-bad-for-the-economy",
-                "source": "RNZ",
-                "date": "2026-07-06T18:37:07Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Three planned junction upgrades to link four cycle routes in South Dublin",
+                "desc": "South Dublin County Council is planning to upgrade cycling and pedestrian provisions along a section of the Old Bawn Road ahead of a wider active travel route linking four routes that join it. It w…",
+                "image": "https://i0.wp.com/irishcycle.com/wp-content/uploads/2026/07/image-23.png?fit=932%2C573&quality=80&ssl=1",
+                "url": "https://irishcycle.com/2026/07/06/three-planned-junction-upgrades-to-link-four-cycle-routes-in-south-dublin/comment-page-1/",
+                "source": "IrishCycle.com",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Practically Every Comment on PlayStation's YouTube Is Now About Physical Discs",
+                "desc": "Even old videos are getting picketed - Sony has abandoned social media and I don’t expect it to return until at least next week now. Of course, part of it...",
+                "image": "https://images.pushsquare.com/de2676f7a4adb/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/practically-every-comment-on-playstations-youtube-is-now-about-physical-discs",
+                "source": "Push Square",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three planned junction upgrades to link four cycle routes in South Dublin",
+                "desc": "South Dublin County Council is planning to upgrade cycling and pedestrian provisions along a section of the Old Bawn Road ahead of a wider active travel route linking four routes that join it. It w…",
+                "image": "https://i0.wp.com/irishcycle.com/wp-content/uploads/2026/07/image-23.png?fit=932%2C573&quality=80&ssl=1",
+                "url": "https://irishcycle.com/2026/07/06/three-planned-junction-upgrades-to-link-four-cycle-routes-in-south-dublin/",
+                "source": "IrishCycle.com",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stop renting your cloud storage and own 20TB for life for just $350",
+                "desc": "Lock in 20TB of cloud storage forever with this Scramble Cloud Storage Lifetime Subscription.",
+                "image": "https://helios-i.mashable.com/imagery/articles/02MFBGJkvhRvzvDrYSD17n4/hero-image.fill.size_1200x675.v1783027564.jpg",
+                "url": "https://mashable.com/tech/july-6-scramble-cloud-cloud-storage-lifetime-subscription-20tb",
+                "source": "Mashable",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Australia launches seven-day Prime Day sale",
+                "desc": "Australian shoppers facing tighter budgets are being drawn to Amazon's biggest annual discount event, which covers hundreds of thousands of items.",
+                "image": "https://ecommercenews.com.au/uploads/story/2026/07/07/compatible_Arno_Lenior.jpg",
+                "url": "https://ecommercenews.com.au/story/amazon-australia-launches-seven-day-prime-day-sale",
+                "source": "ecommercenews.com.au",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stop starting every ChatGPT conversation from scratch - this one habit saves me time every week",
+                "desc": "Turn ChatGPT into something that already knows how you want to work.",
+                "image": "https://cdn.mos.cms.futurecdn.net/TLFzfSpYSs8YXZs5w49rJk-2560-80.png",
+                "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/stop-starting-every-chatgpt-conversation-from-scratch-this-one-habit-saves-me-time-every-week",
+                "source": "TechRadar",
+                "date": "2026-07-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Registration for Stylish Action RPG, ARES: THE IRON VANGUARD \"",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Com2uS-Holdings-Opens-Google-Play-and-Apple-App-Store-Pre-Registration",
+                "source": "Games Press",
+                "date": "2026-07-06T21:59:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Lays Off FanFest Creator Three Months After Bringing It Back",
+                "desc": "Chris Munson was a 15-year veteran of Microsoft",
+                "image": "https://kotaku.com/app/uploads/2026/07/fanfest-1200x675.jpg",
+                "url": "https://kotaku.com/xbox-lays-off-fanfest-guy-three-months-after-bringing-back-xbox-fanfest-2000713030",
+                "source": "Kotaku",
+                "date": "2026-07-06T21:57:49Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Testing ChatGPT Apps and Claude Connectors",
                 "desc": "We tested ChatGPT Apps and Claude Connectors for travel and found where the friction is in using AI for travel planning. Find out more.",
@@ -1192,81 +1264,18 @@
                 "source": "The Register",
                 "date": "2026-07-06T18:46:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sony FX5 Leak Details 16MP Stacked Sensor, Triple Base ISO and 5K Open Gate Recording",
-                "desc": "New Sony FX5 rumors reveal a stacked full-frame sensor, 5K Open Gate recording, triple base ISO, internal RAW, and more ahead of its expected July announcement.",
-                "image": "https://media.imaging-resource.com/2026/07/06183909/sony-fx3a-teaser.jpg",
-                "url": "https://www.imaging-resource.com/news/sony-fx5-leak-details-16mp-stacked-sensor-triple-base-iso-and-5k-open-gate-recording/",
-                "source": "Imaging Resource",
-                "date": "2026-07-06T18:45:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meet Abxylute's new mobile controller for gamers on a budget",
-                "desc": "Abxylute has launched a new telescopic mobile controller for Android and iOS. It's a cheaper version of last year's S8 model.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Abxylute-S8-Lite-1.jpg",
-                "url": "https://www.androidauthority.com/abxylute-s8-lite-mobile-controller-3684529/",
-                "source": "Android Authority",
-                "date": "2026-07-06T18:40:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S27 Pro will use a Snapdragon chip only in select regions, Exynos 2700 everywhere else",
-                "desc": "The Galaxy S27 Ultra will only use the upcoming Snapdragon Elite chip, but the Pro is not an Ultra. For a bit, the Samsung Galaxy S27 Pro sounded like a...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-pro-snapdragon-vs-exynos-rumor/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/galaxy_s27_pro_will_use_a_snapdragon_chip_only_in_select_regions_exynos_2700_everywhere_else-news-73587.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-06T18:31:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five Hacks Every Garmin Forerunner 970 User Should Know",
-                "desc": "Get more out of the watch you already have.",
-                "image": "https://sm.lifehacker.com/t/lifehacker_au/hack/f/five-hacks/five-hacks-every-garmin-forerunner-970-user-should-know_dtwu.1200.jpg",
-                "url": "https://au.lifehacker.com/fitness/118979/five-hacks-every-garmin-forerunner-970-user-should-know",
-                "source": "Lifehacker",
-                "date": "2026-07-06T18:30:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hacks Every Garmin Forerunner 970 User Should Know",
-                "desc": "The Garmin Forerunner 970 is stacked with training insights, but it takes some extra research to make the most of such a feature-dense watch. These are the five pieces of advice I wish I knew when I first unboxed my 970.",
-                "image": "https://lifehacker.com/imagery/articles/01KWHQW68QSFJ94JM017KE7NDV/hero-image.fill.size_1200x675.jpg",
-                "url": "https://lifehacker.com/health/hacks-every-garmin-forerunner-970-user-should-know",
-                "source": "Lifehacker",
-                "date": "2026-07-06T18:30:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Are People Ditching Wireless Earbuds, And Are Wired Headphones Really Making A Comeback?",
-                "desc": "Everything old is new again.",
-                "image": "https://www.engadget.com/img/gallery/why-are-people-ditching-wireless-earbuds-and-are-wired-headphones-really-making-a-comeback/l-intro-1783010048.jpg",
-                "url": "https://www.engadget.com/2207185/wired-iems-vs-wireless-earbuds/",
-                "source": "Engadget",
-                "date": "2026-07-06T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia brings 5-year old gaming GPU back from the dead, throws in $329 price tag",
-                "desc": "It appears that the RTX 3060 is once again available to buy in the US, featuring a $329 price tag and a two-generation old specifications. Just for context, entry-level variants of the much more powerful RTX 5060 8 GB cost just around $20 more.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/nvidia_rtx_5060_gaming_gpu.jpg",
-                "url": "https://www.notebookcheck.net/Nvidia-brings-5-year-old-gaming-GPU-back-from-the-dead-throws-in-329-price-tag.1335744.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-06T18:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Minisforum Debuts NAB9S Mini PC with DDR4 and 24-Core Intel i9 CPU",
-                "desc": "Minisforum has officially released the NAB9S mini PC, which has gone on sale for $399 for a barebones model and $759 for a pre-built version with 32 GB of DDR4-3200 RAM and a 1 TB SSD. Aside from opting for the older DDR4 standard instead of DDR5, Minisforum has also included a full 2.5-inch SATA...",
-                "image": "https://www.techpowerup.com/img/LVCbp8mgAKUzNiQR.jpg",
-                "url": "https://www.techpowerup.com/350552/minisforum-debuts-nab9s-mini-pc-with-ddr4-and-24-core-intel-i9-cpu",
-                "source": "TechPowerUp",
-                "date": "2026-07-06T18:23:35Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Australia Leads the Way While Indonesia, Malaysia, Singapore, Thailand and Vietnam Unite at Australia Marketplace South East Asia 2026 to Create a Gigantic Business Platform for Tourism Suppliers to E",
+                "desc": "Australia Marketplace South East Asia 2026 connects Australia with key Asian markets to expand tourism partnerships and boost regional travel growth.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/high-level-description-shot-on-iphone-a-_irBI3iVVXgGFy1NsR6jfAw_ntZAht8sQnaHHjwj7U1VaQ_cover_hd.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/3ccarsnschhe/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-06T22:00:22Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Cuba working to restore power after latest island-wide outage",
                 "desc": "Cuba began to slowly restore power on Monday after the country's national electric grid collapsed earlier in the day, the latest blow to an ‌island already suffering from severe energy, fuel and medicine shortages.",
@@ -1887,17 +1896,8 @@
                 "source": "Al Jazeera",
                 "date": "2026-07-06T18:33:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "African Trade & Investment Development Insurance (ATIDI) Marks 25 Years of impact at its 2026 Annual General Meeting",
-                "desc": "African Trade & Investment Development Insurance (ATIDI) Marks 25 Years of impact at its 2026 Annual General Meeting",
-                "image": "https://www.zawya.com/favicon.ico",
-                "url": "https://www.zawya.com/en/press-release/africa-press-releases/african-trade-investment-development-insurance-atidi-marks-25-years-of-impact-at-its-2026-annual-general-cfv5hyof",
-                "source": "ZAWYA",
-                "date": "2026-07-06T18:31:38Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-07T09:55:49.125604Z"
+    "lastGlobalSync": "2026-07-07T10:00:43.046757Z"
 }
