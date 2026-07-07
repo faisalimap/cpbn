@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "OCBC Rewards Card extends 26,000 bonus miles and free luggage welcome offer",
+                "desc": "From now till 31 August 2026, get 26,000 bonus miles and a Delsey luggage with a minimum spend of just S$600 on a new OCBC Rewards Card.",
+                "image": "https://milelion.com/wp-content/uploads/2026/03/ocbc-hero-fixed.jpg",
+                "url": "https://milelion.com/2026/07/07/ocbc-rewards-card-offering-26000-bonus-miles-and-free-luggage/",
+                "source": "The MileLion",
+                "date": "2026-07-07T00:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "When the disruptor gets disrupted: How Chinese open-source AI is eating its own industry",
+                "desc": "Chinese labs have flooded the market with models that are free to download, cheap to run and increasingly hard to dismiss as second-rate Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/4b710fc11ad9faf009e471344152f7fab07e6cab6d67114bd73fda3c5a6f063a?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/international/when-disruptor-gets-disrupted-how-chinese-open-source-ai-eating-its-own-industry",
+                "source": "The Business Times",
+                "date": "2026-07-07T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The real cost of e-invoicing: Are Philippine businesses ready?",
+                "desc": "The BIR’s move toward digital taxation is not merely changing how transactions are reported. It is placing greater visibility on how both businesses and regulators capture, process, and manage information.",
+                "image": "https://www.grantthornton.com.ph/contentassets/3bce3537f1364c64a462400fe15878e4/colleagues-having-a-conversation-in-the-reception-area-1200x627.jpg",
+                "url": "https://www.grantthornton.com.ph/insights/articles-and-updates1/lets-talk-tax/the-real-cost-of-e-invoicing-are-philippine-businesses-ready/",
+                "source": "Grant Thornton Philippines",
+                "date": "2026-07-07T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telcos Urge States to Cut Fibre Deployment Costs",
+                "desc": "Nigerian telcos are urging state governments to reduce fibre deployment costs, warning that high charges and infrastructure damage threaten broadband expan",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/2_1783380917.webp",
+                "url": "https://punchng.com/telcos-urge-states-to-cut-fibre-deployment-costs/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-06T23:59:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Next Point Advises Multi-Location Physical Therapy Practice Through Successful Healthcare M&A Transaction",
+                "desc": "Healthcare M&A advisor emphasizes the importance of early coordination among M&A, tax, legal, and wealth advisory teams in achieving successful owner outcomes",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126747.jpg",
+                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/next-point-advises-multi-location-physical-therapy-practice-through-successful-healthcare-ma-transaction/2379410",
+                "source": "The Manila Times",
+                "date": "2026-07-06T23:57:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What the ATM might tell us about AI and jobs (NPR+)",
+                "desc": "The threat of automation is a perennial fear for workers. But new tech doesn't always mean being replaced. Alex Mayyasi, the main author of Planet Money's new book, gives Jeff Guo and Nick Fountain a prime example: the introduction of the bank ATM. This is just one of the topics we dig into in today's bonus episode, a condensed audio version of our recent live virtual supporter event. Special guests Louis Lin and Jolyn Chen, co-owners of the Portland, Oregon restaurant Xiao Ye, tell us about their experience with \"market menu fit\" and how they feel about tipping on takeout. Lastly, the Planet Money team answers YOUR questions, including, \"What's the worst and best part of working at Planet Money?\" Show your support for Planet Money and the reporting we do by signing up for Planet Money+ in Apple Podcasts or at plus.npr.org/planetmoney. You'll be able to unlock this episode and other great bonus content. Regular episodes remain free to listen!",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+656/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F67d8f1504c50b0636615ed3f4525%2Fc5db1cba-adaf-4576-8926-edbb8748a79b.jpg",
+                "url": "https://www.npr.org/2026/07/06/nx-s1-5884040/what-the-atm-might-tell-us-about-ai-and-jobs-npr",
+                "source": "NPR",
+                "date": "2026-07-06T23:57:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 'first' AI-run ransomware attack still needed a human",
+                "desc": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ransomware-attack.png?resize=1200,686",
+                "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+                "source": "TechCrunch",
+                "date": "2026-07-06T23:56:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+                "desc": "With the right strategic commitments, the Asia-Pacific region could become a central exporter of medical innovation.",
+                "image": "https://www.bain.com/contentassets/94140d01b05d4912a207632911eefcd9/44873-gettyimages-2171748597-16-9.jpg",
+                "url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave/",
+                "source": "Bain & Company",
+                "date": "2026-07-06T23:55:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung profits jump 1,800% as AI chip sales soar",
+                "desc": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63fa/live/777f2260-78cf-11f1-99f6-757fc101c54a.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo",
+                "source": "BBC",
+                "date": "2026-07-06T23:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The power-hungry appliances that might be costing you money",
+                "desc": "Consumer NZ says having one of each major appliance will add about $30 a month to household power bills.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fridge-generic-istock-HZL6TCFU5FEX7BBMEIUI4QDSPY.jpg?auth=335c2b070bb235d8d2178738ef792b03ed4aa9daefd9b737c24ff2d52d498825&quality=70&width=600&height=315&focal=683%2C239",
+                "url": "https://www.1news.co.nz/2026/07/07/the-power-hungry-appliances-that-might-be-costing-you-money/",
+                "source": "1News",
+                "date": "2026-07-06T23:51:12Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Firm CPO prices keep sector positive",
                 "desc": "PETALING JAYA: The plantation sector's second half of the year (2H26) outlook remains positive, underpinned by firm crude palm oil (CPO) prices.",
                 "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996267.jpg",
@@ -542,99 +632,90 @@
                 "source": "The Manila Times",
                 "date": "2026-07-06T20:57:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Innospec Schedules Second Quarter 2026 Earnings Release and Conference Call",
-                "desc": "ENGLEWOOD, Colo., July 06, 2026 (GLOBE NEWSWIRE) -- Innospec Inc. (NASDAQ: IOSP) today announced that it will release second quarter 2026 earnings results on Tuesday, August 4, 2026 after market close. Following the release of its results, Patrick S. Williams, President and Chief Executive Officer, and Ian Cleminson, Executive Vice President and Chief Financial Officer, will host an interactive conference call on Wednesday, August 5, 2026, at 10:00 a.m. ET.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126698.jpg",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/innospec-schedules-second-quarter-2026-earnings-release-and-conference-call/2379373",
-                "source": "The Manila Times",
-                "date": "2026-07-06T20:56:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IPG Launches High-Performance Sustainable Air Pillow Film With 50% Recycled Content",
-                "desc": "IPG's PCR Air Pillow Film is a high-performance protective packaging solution designed to help companies achieve ambitious sustainability goals without compromising on quality or efficiency.**media[1126697]**",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126695.jpg",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/ipg-launches-high-performance-sustainable-air-pillow-film-with-50-recycled-content/2379372",
-                "source": "The Manila Times",
-                "date": "2026-07-06T20:56:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israeli unemployment rose in May, Central Bureau of Statistics survey reveals",
-                "desc": "According to the CBS Labor Force Survey Data for May 2026, a total of 4,469,000 Israelis were considered in the workforce (61.6%), of whom 126,500 (2.8%) were unemployed.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/702406",
-                "url": "https://www.jpost.com/israel-news/article-901569",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-06T20:56:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CRE Investor Communication During Challenging Times",
-                "desc": "Underperformance is an unavoidable reality in commercial real estate, particularly in periods marked by rising interest rates, valuation compression,...",
-                "image": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15989_5054.jpg",
-                "url": "https://www.jdsupra.com/legalnews/cre-investor-communication-during-1720970/",
-                "source": "JD Supra",
-                "date": "2026-07-06T20:55:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carloha launches nationwide emergency roadside support, opens service to all motorists",
-                "desc": "Carloha Nigeria, the authorised distributor of Chery vehicles in the country, has launched a nationwide emergency roadside assistance.........",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/CARLOHA.webp",
-                "url": "https://businessday.ng/transport/article/carloha-launches-nationwide-emergency-roadside-support-opens-service-to-all-motorists/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-06T20:39:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US judge tosses out Musk’s bid to void Twitter fraud verdict",
-                "desc": "Jurors had found owner Elon Musk liable for tweets questioning whether Twitter was overrun by fake and spam accounts.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-03T102636Z_752840012_RC29EJARMIQO_RTRMADP_3_FRANCE-COURT-X-1770140745.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/6/us-judge-tosses-out-musks-bid-to-void-twitter-fraud-verdict",
-                "source": "Al Jazeera",
-                "date": "2026-07-06T20:37:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASX to slip on open; Tech stocks rebound in US",
-                "desc": "Shares on the Australian stock exchange are expected to slip on opening.",
-                "image": "https://static.ffx.io/images/$zoom_0.1839%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/7a0a84fefa88e5363a9d31ed6e63045eca7b95e3",
-                "url": "https://www.smh.com.au/business/markets/asx-to-slip-on-open-tech-stocks-rebound-in-us-20260707-p60d4x.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-06T20:37:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NSDC Launches Elite Training Cohorts To Drive Nigeria’s Sugar Revolution",
-                "desc": "Chibuzor Emejor The National Sugar Development Council (NSDC) has launched Elite Training Cohorts to drive Nigeria's sugar revolution. This strategic blueprint for Nigeria’s industrial transformation has officially shifted from policy to aggressive execution. Grounded in the rigorous strategic framework of the National Sugar Master Plan (NSMP) 2.0, the National Sugar Development Council (NSDC) said it...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/IMG-20260706-WA0071.jpg",
-                "url": "https://independent.ng/nsdc-launches-elite-training-cohorts-to-drive-nigerias-sugar-revolution/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-06T20:37:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xilio Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-                "desc": "WALTHAM, Mass., July 06, 2026 (GLOBE NEWSWIRE) -- Xilio Therapeutics, Inc. (Nasdaq: XLO), a clinical-stage biotechnology company discovering and developing masked immuno-oncology therapies for people living with cancer, today announced that, effective July 1, 2026, the company granted non-qualified stock options to purchase 107,060 shares of its common stock to three new employees under Xilio Therapeutics’ 2022 Inducement Stock Incentive Plan.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126692.png",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/xilio-therapeutics-announces-inducement-grants-under-nasdaq-listing-rule-5635c4/2379369",
-                "source": "The Manila Times",
-                "date": "2026-07-06T20:36:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Plains All American Pipeline and Plains GP Holdings Announce Quarterly Distributions and Timing of Second Quarter 2026 Earnings",
-                "desc": "HOUSTON, July 06, 2026 (GLOBE NEWSWIRE) -- Plains All American Pipeline, L.P. (Nasdaq: PAA) and Plains GP Holdings (Nasdaq: PAGP) announced today their quarterly distributions with respect to the second quarter of 2026 and also announced timing of second quarter 2026 earnings.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126691.png",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/plains-all-american-pipeline-and-plains-gp-holdings-announce-quarterly-distributions-and-timing-of-second-quarter-2026-earnings/2379368",
-                "source": "The Manila Times",
-                "date": "2026-07-06T20:36:50Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "NASA chief says China may overtake U.S. in space race",
+                "desc": "China is rapidly advancing its lunar exploration program and is expected to eventually send taikonauts to the Moon, AzerNEWS reports.",
+                "image": "https://www.azernews.az/media/2026/07/07/image_4.png",
+                "url": "https://www.azernews.az/region/260722.html",
+                "source": "AzerNews",
+                "date": "2026-07-07T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gravity Game Unite Launches 2nd Open Beta Test for PC MMORPG Ragnarok Zero: Global",
+                "desc": "/PRNewswire/ -- Gravity Game Unite (GGU), the Malaysian subsidiary of global game company Gravity, has officially launched the 2nd Open Beta Test (OBT2) for...",
+                "image": "https://mma.prnewswire.com/media/3004262/ROZ_OBT_2_Is_Now_Open_1920x1080_EN.jpg?p=facebook",
+                "url": "https://www.prnewswire.co.uk/news-releases/gravity-game-unite-launches-2nd-open-beta-test-for-pc-mmorpg-ragnarok-zero-global-302818405.html",
+                "source": "PR Newswire UK",
+                "date": "2026-07-07T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "You can now add an E-Ink screen to your phone for dirt cheap",
+                "desc": "Magnetically sticks to your phone and it actually works",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/xteink-x4-on-blankets.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/you-can-now-add-an-e-ink-screen-to-your-phone-for-dirt-cheap/",
+                "source": "Android Police",
+                "date": "2026-07-07T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Courtenay dad wins $250K on lotto ticket given to him for Father’s Day",
+                "desc": "A man from Courtenay received what may be one of the best Father's Day gifts he will ever receive: winning $250,000 from a $20 Gold III Scratch & Win lottery ticket.",
+                "image": "https://victoriabuzz.com/wp-content/uploads/2026/07/Winner_Edward-G_960x540.jpg",
+                "url": "https://victoriabuzz.com/2026/07/courtenay-dad-wins-250k-on-lotto-ticket-given-to-him-for-fathers-day/",
+                "source": "Victoria Buzz",
+                "date": "2026-07-06T23:52:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple products drop to record-low price during Amazon Australia’s Prime Day sales - but you’ll have to be quick",
+                "desc": "Run, don’t walk: we’ve spotted Airpods, iPads and even Apple Watches marked down.",
+                "image": "https://images.7news.com.au/publication/C-22540700/054f72f0b3a116d4f386570dd01c1e37daef83cc-16x9-x0y0w1280h720.png?imwidth=1200",
+                "url": "https://7news.com.au/7you/tech/apple-products-drop-to-record-low-price-during-amazon-australias-prime-day-sales-but-youll-have-to-be-quick-c-22540700",
+                "source": "7NEWS",
+                "date": "2026-07-06T23:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iOS 27 beta 3 makes it easier to adjust AirPods Adaptive mode intensity",
+                "desc": "A new Listening Mode setting lets users more easily adjust how much ambient noise their AirPods allow through in Adaptive mode.",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/airpods-adaptive.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/06/ios-27-beta-3-makes-it-easier-to-adjust-airpods-adaptive-mode-intensity/",
+                "source": "9to5Mac",
+                "date": "2026-07-06T23:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Renting makes robots affordable for work and play",
+                "desc": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d48c/live/eaf47f10-6ed4-11f1-b1db-af71d47507d6.jpg",
+                "url": "https://www.bbc.com/news/articles/c4gymkg9lr2o",
+                "source": "BBC",
+                "date": "2026-07-06T23:48:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qualcomm's Reality Elite",
+                "desc": "Qualcomm's Snapdragon Reality Elite advances spatial AI with on-device processing, maintaining the lead in the mixed reality platform race.",
+                "image": "https://futurumgroup.com/wp-content/uploads/2026/07/Qualcomms-Snapdragon-Reality-Elite-Ups-the-Stakes-for-Spatial-AI-e1783368708874.jpg",
+                "url": "https://futurumgroup.com/insights/qualcomms-snapdragon-reality-elite-ups-the-stakes-for-spatial-ai/",
+                "source": "The Futurum Group",
+                "date": "2026-07-06T23:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BlueBolt Shares ‘Outlander’ Final Season VFX Breakdown Reel",
+                "desc": "Studio delivers 160 visual effects shots for the eighth and final season of STARZ’s epic time-traveling adventure based on Diana Gabaldon’s best-selling novels.",
+                "image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/outlander1.jpg?itok=gsm5-PPC",
+                "url": "https://www.awn.com/news/bluebolt-shares-outlander-final-season-vfx-breakdown-reel",
+                "source": "Animation World Network",
+                "date": "2026-07-06T23:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "BMW M2 now faster than the more expensive M2 CS",
                 "desc": "The BMW M2 is already a rapid car, but the brand’s own track-focused performance package has made it even quicker than the more expensive M2 CS.",
@@ -1183,90 +1264,63 @@
                 "source": "PCMag Australia",
                 "date": "2026-07-06T20:32:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "5 tiny Linux tools I can't live or work without",
-                "desc": "Linux has a wealth of applications, but sometimes the smaller tools get overlooked. Here's a list of those I'd prefer never to be without.",
-                "image": "https://www.zdnet.com/a/img/resize/9924176f1c440e1800a4cad7319762cb2603d8be/2026/06/30/e08f148c-6361-4cd7-8f00-d46ff199eb02/utilitieshero.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/5-tiny-linux-tools-i-cant-live-or-work-without/",
-                "source": "ZDNET",
-                "date": "2026-07-06T20:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenSSH 10.4 Released with Multiple Security Fixes, Post-Quantum Signature Support, and SSH Hardening Enhancements",
-                "desc": "The OpenSSH development team has released OpenSSH 10.4, delivering an important update that strengthens the security of one of the world's most widely deployed remote administration platforms.",
-                "image": "https://media.licdn.com/dms/image/v2/D4E12AQGWTBBA-hJ0Cw/article-cover_image-shrink_720_1280/B4EZ848ixTKQAU-/0/1783366826977?e=2147483647&v=beta&t=NE199GK96_mueNlaBJo10iuUlxJfN-8UdzCnGKEHU2g",
-                "url": "https://www.linkedin.com/pulse/openssh-104-released-multiple-security-fixes-post-quantum-ju0re",
-                "source": "LinkedIn",
-                "date": "2026-07-06T20:30:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
-                "desc": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks.",
-                "image": "https://www.bleepstatic.com/content/hl-images/2026/02/17/Microsoft--Teams.jpg",
-                "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-                "source": "BleepingComputer",
-                "date": "2026-07-06T20:23:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Deal as Sweet as Candy: Save 30% off Skullcandy Dime Evo Earbuds",
-                "desc": "The Skullcandy Dime Evo earbuds are affordable yet still provide detailed sound quality. You can now get them for $15 less in today's Amazon Deal of the Day.",
-                "image": "https://i.pcmag.com/imagery/articles/01ixnBk52Y54s5xCmigBpqe-2.fit_lim.size_1200x630.v1783367295.png",
-                "url": "https://www.pcmag.com/deals/deal-sweet-as-candy-save-30-off-skullcandy-dime-evo-earbuds-july-6",
-                "source": "PCMag",
-                "date": "2026-07-06T20:23:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MEMS inertial measurement unit released by Analog Devices",
-                "desc": "WILMINGTON, Massachusetts. Analog Devices Inc. released the ADIS16607, a miniature micro-electromechanical system (MEMS) inertial measurement unit (IMU) designed for navigation, stabilization, instrumentation, and uncrewed and autonomous vehicle applications, the company announced in a statement.",
-                "image": "https://data.militaryembedded.com/uploads/resize/1256/756/external/data.militaryembedded.com/uploads/articles/primary_images/1783369175.png",
-                "url": "https://militaryembedded.com/unmanned/rugged-computing/mems-inertial-measurement-unit-released-by-analog-devices",
-                "source": "Military Embedded Systems",
-                "date": "2026-07-06T20:21:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple will launch two new products this year that could reshape iPad’s future",
-                "desc": "The iPad is 16 years old, but two new products Apple is rumored to launch this year could have a major impact on the tablet’s future.",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-ipad-pro-ipados.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/06/apple-will-launch-two-new-products-this-year-that-could-reshape-ipads-future/",
-                "source": "9to5Mac",
-                "date": "2026-07-06T20:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best portable power station deal: Save 50% on the Anker Solix S2000",
-                "desc": "The Anker Solix S2000 is on sale for $599.99, down from the normal price of $1,199. That's a 50% discount.",
-                "image": "https://helios-i.mashable.com/imagery/articles/017wvZAJ4FBZRiFRurIhNc8/hero-image.fill.size_1200x675.v1783345960.jpg",
-                "url": "https://mashable.com/tech/july-6-anker-solix-s2000-deal",
-                "source": "Mashable",
-                "date": "2026-07-06T20:17:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Electrical imbalances at grain boundaries help explain solid-state battery failure",
-                "desc": "Next-generation batteries that use new electrolyte materials could achieve far higher energy density than today's lithium-ion batteries, without many of the safety concerns. But advanced batteries, such as those that use solid or almost-solid electrolytes, have been plagued by the formation of tiny spikes of lithium metal called dendrites that cause the batteries to lose efficiency and fail.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/discovery-helps-explai-1.jpg",
-                "url": "https://phys.org/news/2026-07-electrical-imbalances-grain-boundaries-solid.html",
-                "source": "Phys.org",
-                "date": "2026-07-06T20:00:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Full-fat dairy shows benefits without raising body fat or cholesterol, study finds",
-                "desc": "A Canadian study led by University of Toronto researcher Harvey Anderson is offering new evidence in support of consuming full-fat dairy. The findings, published recently in the Journal of Nutrition, demonstrate that three daily servings of full-fat dairy can be incorporated into a person's diet without negatively affecting their body weight or composition, energy metabolism or blood lipid levels.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2019/dairy.jpg",
-                "url": "https://medicalxpress.com/news/2026-07-full-fat-dairy-benefits-body.html",
-                "source": "Medical Xpress",
-                "date": "2026-07-06T20:00:32Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Live Updates: Latest from Israel, Iran, and Middle East",
+                "desc": "Defense Minister threatens Iranian regime during Khamenei's funeral • Hamas begins dissolving its Gaza government • Iran targeted civilians as tactic of war, new report pushes IRGC accountability",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728481",
+                "url": "https://www.jpost.com/middle-east/iran-news/2026-07-06/live-updates-901532",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-07T00:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indonesia’s export scheme may clash with WTO rules",
+                "desc": "Indonesia’s new export intermediary aims to curb misinvoicing but in doing so it risks breaking the WTO rules Jakarta says it wants to defend.",
+                "image": "https://eastasiaforum.org/wp-content/uploads/2026/07/2025-07-10T104630Z_627063786_RC2MJFA5KHK0_RTRMADP_3_USA-TRUMPS-TARIFFS-INDONESIA-1200x842.jpg",
+                "url": "https://eastasiaforum.org/2026/07/07/indonesias-export-scheme-may-clash-with-wto-rules/",
+                "source": "East Asia Forum",
+                "date": "2026-07-07T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+                "desc": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno",
+                "source": "BBC",
+                "date": "2026-07-06T23:55:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+                "desc": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg",
+                "url": "https://www.bbc.com/news/articles/cx2kkrx8jeno",
+                "source": "BBC",
+                "date": "2026-07-06T23:55:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia's Indian community prepares to put on a show for Prime Minister Narendra Modi",
+                "desc": "On a grey July day, a Melbourne community hall is bursting with colour as Australia's Indian community gears up to welcome Indian Prime Minister Narendra Modi.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/dfa67ee076f0254ba014826dd6b1b171?impolicy=wcms_watermark_news&cropH=2052&cropW=3648&xPos=0&yPos=549&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-07/indian-australian-community-prepares-as-melbourne-meets-modi/106881872",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-06T23:52:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry begins his UK visit with a court verdict",
+                "desc": "The Duke of Sussex begins a week of charity engagements and will hear the outcome of his newspaper court battle.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e465/live/eb6e1140-795b-11f1-b461-8fc790ffbac8.jpg",
+                "url": "https://www.bbc.com/news/articles/ce8mmm5v8j0o",
+                "source": "BBC",
+                "date": "2026-07-06T23:49:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "U.S. vs Belgium FIFA World Cup LIVE: Belgium knocks out U.S.A. 4-1",
                 "desc": "FIFA World Cup 2026 | Follow The Hindu's LIVE coverage of U.S. vs Belgium knockout clash",
@@ -1842,62 +1896,8 @@
                 "source": "Al Jazeera",
                 "date": "2026-07-06T20:20:53Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Canada Picks German Type 212 Submarine For Badly Needed Fleet Renewal",
-                "desc": "The 12-boat procurement is one of Canada’s biggest-ever defense buys and marks a major shift toward closer military cooperation with European allies. The 12-boat procurement is one of Canada’s biggest-ever defense buys and marks a major shift toward closer military cooperation with European allies.",
-                "image": "https://www.twz.com/wp-content/uploads/2026/07/CANADA-TYPE-212CD.jpg?w=1200",
-                "url": "https://www.twz.com/sea/canada-picks-german-type-212-submarine-for-badly-needed-fleet-renewal",
-                "source": "TWZ",
-                "date": "2026-07-06T19:59:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Somalia: Turkey renews mediation efforts as election dispute talks set to resume",
-                "desc": "Somalia: Turkey renews mediation efforts as election dispute talks set to resume",
-                "image": "https://uploads-garowe.s3.amazonaws.com/upload/images/Article/2026/1783367944/main/og.jpg",
-                "url": "https://www.garoweonline.com/en/news/somalia/somalia-turkey-renews-mediation-efforts-as-election-dispute-talks-set-to-resume",
-                "source": "Garowe Online",
-                "date": "2026-07-06T19:59:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Social welfare changes and dates for July, August and September",
-                "desc": "These include a payment date change and the annual Back to School Clothing and Footwear Allowance being issued",
-                "image": "https://i2-prod.dublinlive.ie/article28517988.ece/ALTERNATES/s1200d/2_GettyImages-1413357808.jpg",
-                "url": "https://www.dublinlive.ie/news/social-welfare-changes-dates-july-34245018",
-                "source": "Dublin Live",
-                "date": "2026-07-06T19:56:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia Pressures Moldovans to Sign Military Contracts at Border",
-                "desc": "Authorities say men aged 18-60 and those who’ve visited Ukraine face heightened scrutiny entering Russia.",
-                "image": "https://static.kyivpost.com/storage/2026/05/16/83611055a101c328bfa45366d6d25a49.jpg?w=1200&q=90&f=jpg",
-                "url": "https://www.kyivpost.com/post/79715",
-                "source": "Kyiv Post",
-                "date": "2026-07-06T19:55:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why FIFA’s Balogun red card suspension after Trump call is so controversial",
-                "desc": "FIFA’s decision has led to a furore in the football world – and accusations of bending its rules to please Trump.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4b7171d8e4-1783329137.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/sports/2026/7/6/why-fifas-balogun-red-card-suspension-after-trump-call-is-so-controversial",
-                "source": "Al Jazeera",
-                "date": "2026-07-06T19:49:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China missile test in South Pacific 'extremely unwelcome behaviour', Deputy Prime Minister David Seymour says",
-                "desc": "China's missile test in the South Pacific is \"extremely unwelcome behaviour\", and not what a country that wants to be accepted would do, Deputy Prime Minister David Seymour says.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--aAmClSiE--/t_tohu-badge-facebook/f_auto/q_auto/4JPGO8W_David_seymour_1_2_jpg",
-                "url": "https://www.rnz.co.nz/news/politics/682446/china-missile-test-in-south-pacific-extremely-unwelcome-behaviour-deputy-prime-minister-david-seymour-says",
-                "source": "RNZ",
-                "date": "2026-07-06T19:49:39Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-07T11:40:42.882108Z"
+    "lastGlobalSync": "2026-07-07T12:00:46.989471Z"
 }
