@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "USPS to raise the price of a Forever stamp to 82 cents on Sunday. Here's what to know.",
+                "desc": "The cost of a first-class Forever stamp has climbed 41% since 2021, and postal officials have signaled they want prices to rise even more.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/07/a87bec19-84cf-43a4-abee-92ef1f07981a/thumbnail/1200x630/610f63c308bc956ebafc329b151fb29b/gettyimages-2161800160.jpg",
+                "url": "https://www.cbsnews.com/news/usps-forever-stamp-price-increase-july-2026/",
+                "source": "CBS News",
+                "date": "2026-07-07T19:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Musk’s Fortune Drops $50 Billion In SpaceX Selloff",
+                "desc": "Shares of the rocket maker hovered just slightly over their debut price, even as Wall Street lauded the firm’s potential.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/69cd4061d6bf42f1faf075d1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/tylerroush/2026/07/07/elon-musks-net-worth-drops-50-billion-in-latest-spacex-selloff/",
+                "source": "Forbes",
+                "date": "2026-07-07T19:38:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "year gas supply deal, moves $3bn FLNG project closer to FID",
+                "desc": "UTM Offshore has secured a 15-year gas supply agreement, clearing a major hurdle towards reaching a final investment decision (FID) on its…",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2024/07/Untitled-design-2024-07-25T122037.005-1.png",
+                "url": "https://businessday.ng/energy/oilandgas/article/utm-offshore-secures-15-year-gas-supply-deal-moves-3bn-flng-project-closer-to-fid/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-07T19:38:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Securitize (SECZ), BlackRock's tokenization partner, slides 40% after SPAC debut",
+                "desc": "The decline fits into a pattern of recently-public digital asset companies sliding after debut, Arca's Jeff Dorman said.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/5327659df02632f543fcef456e95431561ddbbd4-4032x2268.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
+                "source": "CoinDesk",
+                "date": "2026-07-07T19:38:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Close to a million investors of the Trump memecoin lost a collective $3.8 billion, even as the president disclosed $636 million in earnings",
                 "desc": "The president launched the $TRUMP coin just before his inauguration last January.",
                 "image": "https://s.yimg.com/lo/mysterio/api/49528486dfbba6408393a635a80974add5107389fd5af1cad91240ac37cc22e6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F77f293331e7e2ba95b76d7d6e3564287",
@@ -596,45 +632,18 @@
                 "source": "Morningstar",
                 "date": "2026-07-07T16:37:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Should You Buy Micron Technology Stock While It Trades Below $1,000?",
-                "desc": "The high-flying stock has been in a tailspin in recent days.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877486%2Fa-person-looking-at-a-chart-on-their-laptop.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/07/should-you-buy-micron-technology-stock-while-it-tr/",
-                "source": "The Motley Fool",
-                "date": "2026-07-07T16:37:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vera Therapeutics Wins FDA Approval for TRUTAKNA",
-                "desc": "The drug cut proteinuria 42% vs. placebo at 36 weeks in ORIGIN 3. Continued approval depends on verified kidney-function benefit in Q3 2026.",
-                "image": "https://www.stocktitan.net/news_covers/Vera_Therapeutics_Receives_FDA_Accelerated_Approval_for_TRUTAKNA_for_Adult_Patients_with_Primary_Ig_1078943.webp",
-                "url": "https://www.stocktitan.net/news/VERA/vera-therapeutics-receives-fda-accelerated-approval-for-trutaknatm-3uwl22yiqkba.html",
-                "source": "Stock Titan",
-                "date": "2026-07-07T16:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PRA publishes statement on enhancing the usability and releasability of capital buffers",
-                "desc": "On 7 July 2026, the Prudential Regulation Authority (PRA) published a statement on enhancing the usability and releasability of capital buffers.",
-                "image": "https://www.regulationtomorrow.com/wp-content/uploads/sites/12/2024/02/Blog-Network-Meta-Image_1.png",
-                "url": "https://www.regulationtomorrow.com/2026/07/pra-publishes-statement-on-enhancing-the-usability-and-releasability-of-capital-buffers/",
-                "source": "Global Regulation Tomorrow",
-                "date": "2026-07-07T16:35:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "High Court orders RTÉ to hand over undercover footage",
-                "desc": "The High Court has ordered RTÉ to hand over all its undercover footage that was filmed in two nursing homes to the body responsible for monitoring and regulating these premises.",
-                "image": "https://www.rte.ie/images/0022a72f-1600.jpg",
-                "url": "https://www.rte.ie/news/ireland/2026/0707/1582265-rte-court/",
-                "source": "RTE.ie",
-                "date": "2026-07-07T16:35:07Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Amid Layoffs, Xbox Announces Tony Hawk's Pro Skater Coming to Game Pass",
+                "desc": "One of the upcoming games is the full release of the viral, Pokemon-esque game Palworld.",
+                "image": "https://www.cnet.com/a/img/resize/2c30fcd34612c5f8c46ef87941d00dc278f042e7/hub/2024/05/29/b1336b83-959a-4a4a-897b-b9ed9aa685a9/xbox-game-pass-ultimate-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/gaming/amid-layoffs-xbox-announces-tony-hawks-pro-skater-coming-to-game-pass/",
+                "source": "CNET",
+                "date": "2026-07-07T19:38:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "I cleaned up Windows credentials and found logins I forgot existed",
                 "desc": "Windows remembered accounts I had spiritually, emotionally, and legally moved on from.",
@@ -1255,18 +1264,36 @@
                 "source": "Push Square",
                 "date": "2026-07-07T16:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "\"Codename CURE II Storms Steam July 24, Bringing a Day",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Codename-CURE-II-Storms-Steam-July-24-Bringing-a-Day-One-DLC-Pack",
-                "source": "Games Press",
-                "date": "2026-07-07T16:41:15Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Farage political rivals say they will boycott ‘fake’ byelection after his resignation",
+                "desc": "Reform UK leader accused of having ‘hissy fit’ to distract from ongoing investigation in to undeclared £5m ‘gift’ he received",
+                "image": "https://www.irishtimes.com/resizer/v2/HZ4KGEXKTBEDH4UOURTRSYN55E.jpg?smart=true&auth=d6f6192597053a382fb8dd9affaa229acf9bf93f6236b335ce0500103112eb92&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/uk/2026/07/07/nigel-farage-resigns-from-parliament-but-will-stand-in-byelection/",
+                "source": "The Irish Times",
+                "date": "2026-07-07T19:39:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nine countries commit to global defence bank, Canada says",
+                "desc": "By Jonathan Spicer, Iain Withers and Marc JonesANKARA/LONDON, July 7 (Reuters) - Nine countries have committed to a new global defence bank, Canadian Prime Minister Mark Carney said on Tuesday, in a boost for the multilateral drive to help rearm allied nations.Carney said in a statement at the NATO summit in Turkey's capital Ankara that Albania, Belgium, Greece, Latvia, Luxembourg, Romania, Turkey and Ukraine had all pledged their support to the Defence, Security and Resilience Bank (DSRB), which will be based in Canada.",
+                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-07/2026-07-07T134057Z_2_LYNXMPEM660RN_RTROPTP_4_CANADA-DEFENCE-BANK.JPG?h=fe354dcb&itok=FS3xFu0x",
+                "url": "https://www.al-monitor.com/originals/2026/07/nine-countries-commit-global-defence-bank-canada-says",
+                "source": "Al-Monitor",
+                "date": "2026-07-07T19:37:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Old Dominion University Secures State Funding for Construction of Next-Generation Engineering and Arts Building to Fuel Virginia's Creative Tech Economy",
+                "desc": "Old Dominion University Secures State Funding for Construction of Next-Generation Engineering and Arts Building to Fuel Virginia's Creative Tech Economy",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1128490.jpg",
+                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/old-dominion-university-secures-state-funding-for-construction-of-next-generation-engineering-and-arts-building-to-fuel-virginias-creative-tech-economy/2380314",
+                "source": "The Manila Times",
+                "date": "2026-07-07T19:35:48Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "These Are the 11 Best Places in the World for Solo Retirees Moving Abroad, According to Expats",
                 "desc": "A new report highlights the towns and cities where expats say it’s easiest to build friendships while enjoying affordable living and excellent healthcare.",
@@ -1869,35 +1896,8 @@
                 "source": "Business News Nigeria",
                 "date": "2026-07-07T16:36:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Estonia and the Netherlands Sign Strategic Drone Pacts With Ukraine",
-                "desc": "Ukraine signed separate drone deals with the Netherlands and Estonia at the NATO summit. Nearly 20 nations want similar military technology agreements.",
-                "image": "https://storage.united24media.com/og/9/90/09c6435a96f726cf8f57b77a0275d909.jpg",
-                "url": "https://united24media.com/world/estonia-and-the-netherlands-sign-strategic-drone-pacts-with-ukraine-20547",
-                "source": "UNITED24 Media",
-                "date": "2026-07-07T16:35:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chris Mason: Farage attempts to seize back the agenda after finance row",
-                "desc": "His aim throughout the forthcoming campaign is to clearly frame this by-election as \"the people versus the establishment\".",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e88a/live/3b9507f0-7a24-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/c1my1g29gk7o",
-                "source": "BBC",
-                "date": "2026-07-07T16:34:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Falling bricks and buckling columns at a Manhattan high rise force evacuations",
-                "desc": "Reports of falling bricks and buckling columns have forced evacuations in the area around a Midtown Manhattan high-rise office building, fire officials said Tuesday.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/New-York-City-High-Rise.jpg-e1783442007573.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11956544/new-york-high-rise-evacuations/",
-                "source": "Global News",
-                "date": "2026-07-07T16:34:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T07:35:23.717531Z"
+    "lastGlobalSync": "2026-07-08T07:40:52.023448Z"
 }
