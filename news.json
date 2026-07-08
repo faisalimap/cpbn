@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Smith’s Plan for a Huge AI Data Centre Alarms Experts",
+                "desc": "The project near Edmonton will be powered by a giant gas plant.",
+                "image": "https://thetyee.ca/Opinion/2026/07/06/AlbertaDataCentre.jpeg",
+                "url": "https://thetyee.ca/Opinion/2026/07/07/Smith-Plan-AI-Data-Centre-Alarms-Experts/",
+                "source": "The Tyee",
+                "date": "2026-07-07T13:38:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin, XRP draw Japanese firms as weak yen drives treasury diversification",
+                "desc": "SBI VC Trade says corporate demand for crypto is rising as a weak yen pushes firms to diversify reserves, part of a run that took its registered accounts past 2 million.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca2bce4dae5116a25566d49125e6287a980ee2e8-1900x1268.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-xrp-draw-japanese-firms-as-weak-yen-drives-treasury-diversification",
+                "source": "CoinDesk",
+                "date": "2026-07-07T13:37:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon raising $25B in bond sale, won't issue more debt in 2026",
+                "desc": "It marks Amazon's latest debt raise as it looks to buttress its massive investments in artificial intelligence.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108160421-1750174010315-gettyimages-1235716044-GEEKWIRE_2021.jpeg?v=1764799156&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html",
+                "source": "CNBC",
+                "date": "2026-07-07T13:37:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Axia offers to acquire Plaza Retail REIT for $1.23B",
+                "desc": "Toronto real estate investment firm Axia Real Assets LP has proposed an acquisition of Plaza Retail REIT (PLZ-UN-T), which values the Fredericton-based retail property owner and developer at $1.23 billion.",
+                "image": "https://squall.nyc3.digitaloceanspaces.com/media/posts/2026070729-axia-plaza-800x600.jpg",
+                "url": "https://renx.ca/axia-offers-acquire-plaza-retail-reit-123b",
+                "source": "RENX",
+                "date": "2026-07-07T13:37:19Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "FIFA Puts a Spotlight on Tipping",
+                "desc": "As visitors from other countries poured into Vancouver bars and restaurants, some encountered an unfamiliar practice.",
+                "image": "https://thetyee.ca/News/2026/07/06/FIFATippingMain.jpg",
+                "url": "https://thetyee.ca/News/2026/07/07/FIFA-Puts-Spotlight-On-Tipping/",
+                "source": "The Tyee",
+                "date": "2026-07-07T13:36:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wema Bank: Three shareholders earned 63% of N50bn dividend payout",
+                "desc": "Just three ultra-high-net-worth investors emerged as the primary beneficiaries of Wema Bank Plc’s massive dividend distribution for the year 2025...",
+                "image": "https://cdn.businessday.ng/2021/11/WEMA-BANK-PICTURE.jpg",
+                "url": "https://businessday.ng/pro/article/wema-bank-three-shareholders-earned-63-of-n50bn-dividend-payout/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-07T13:34:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shipping prices soar",
+                "desc": "Shipping prices are soaring as companies rush to get ahead of a new round of U.S. tariffs that are expected towards the end of July.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/Q6PEHZ3UKJPRCIGNY7IJX4QRXU.jpg?smart=true&auth=23857de466013bcf22d296a5beb306c3de4a6f97a0323d3c93048a46ddff9700&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/business/economics/2026/07/07/shipping-prices-surge-as-companies-try-to-get-ahead-of-new-trump-tariffs/",
+                "source": "BNN Bloomberg",
+                "date": "2026-07-07T13:33:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMAP Platform Upgrades World Map Service with Multi",
+                "desc": "BEIJING, July 7, 2026 /PRNewswire/ -- AMAP, Alibaba's location-based services platform, has launched an upgraded version of its World Map service, expanding global point-of-interest (POI) coverage to more than 300 million records and adding multi-modal navigation tailored for international enterprise customers. The upgrade is designed for developers and enterprises in…",
+                "image": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/03/image.jpg?fit=32%2C32&ssl=1",
+                "url": "https://www.thailand-business-news.com/pr-news/amap-platform-upgrades-world-map-service-with-multi-modal-navigation-and-300m-poi",
+                "source": "Thailand Business News",
+                "date": "2026-07-07T13:31:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why the stock market is taking the chip washout in stride",
+                "desc": "Chipmakers are going through a rough patch, though you wouldn't know it just by looking at the broader market.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108292570-1776352972898-gettyimages-2271047263-AFP_A82T3NE.jpeg?v=1776353032&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/07/why-the-stock-market-is-taking-the-chip-washout-in-stride.html",
+                "source": "CNBC",
+                "date": "2026-07-07T13:29:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Company behind Crown Royal whisky signs deal to sell Ontario bottling plant",
+                "desc": "A spokesperson for the company behind Crown Royal stated that while the agreement for the Amherstburg facility has been signed, details about its buyer won't be shared.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Crown-Royal-whisky-e1783430559710.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11956252/crown-royal-whisky-signs-deal-sell-ontario-bottling-plant/",
+                "source": "Global News",
+                "date": "2026-07-07T13:27:50Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Big tech’s lofty climate goals wrecked by energy-hungry AI",
                 "desc": "Net-zero pledges of Google and Amazon slip out of reach, and struggling Meta makes frantic moves",
                 "image": "https://i.guim.co.uk/img/media/e23db2eeb7fb9eb44b8fe1a13d7097ac9681bee7/417_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2946362a7012e370af3049efe118388d",
@@ -542,99 +632,99 @@
                 "source": "The Manila Times",
                 "date": "2026-07-07T01:46:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Thailand Stands With Singapore, Indonesia, Malaysia and Vietnam as Iran War Fallout Threatens International Tourism Momentum With New Fuel Cost Surges, Flight Uncertainty, Pressure on Regional Travel",
-                "desc": "Rising fuel costs and flight uncertainty from Iran War create new pressure on Thailand and Southeast Asia’s international tourism growth.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Thailand-11.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/psmcegovgduc/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-07T01:40:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "View: Meta's cloud play will spice up Ambani-Adani rivalry",
-                "desc": "Meta Platforms is leasing its excess AI compute capacity to enterprise clients. This move will reshape the rivalry between Indian tycoons Mukesh Ambani and Gautam Adani. Ambani's Reliance and Meta are partnering on a large data center project. This alliance addresses data sovereignty concerns for Indian businesses. It allows local firms to use AI without data crossing national borders.",
-                "image": "https://img.etimg.com/thumb/msid-132228298,width-1200,height-630,imgsize-46018,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/view-metas-cloud-play-will-spice-up-ambani-adani-rivalry/articleshow/132228230.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-07T01:38:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "13 ASX 200 shares that doubled in value in FY26",
-                "desc": "The S&P/ASX 200 Index (ASX: XJO) provided total gross returns of 7% in FY26. Thirteen ASX 200 shares doubled in value — or better.",
-                "image": "https://www.fool.com.au/wp-content/uploads/2021/09/Leapfrogging-over-a-friend-16_9-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/07/13-asx-200-shares-that-doubled-in-value-in-fy26/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-07T01:37:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TCL Unveils AI-Powered Smart Home Products in Nigeria",
-                "desc": "TCL launches its 2026 AI-powered smart home products in Nigeria, including TVs, ACs, and appliances, aiming to offer premium technology at affordable price",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/1_1783378922-1200x630.webp",
-                "url": "https://punchng.com/tcl-unveils-ai-powered-smart-home-products-in-nigeria/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-07T01:35:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "To beat AI-powered attacks, India's Ministry of Defence is fighting fire with fire",
-                "desc": "Training AI systems on domestic datasets and internal operational information reduce reliance on external systems, maintain greater control over sensitive data, and tailor models to local requirements, says the Ministry’s IT and Cyber Director, Vivek Yadav.",
-                "image": "https://govinsider.asia/intl-en/article/:/uploads/2026/7/use this-1783300958121-w300.jpg",
-                "url": "https://govinsider.asia/intl-en/article/to-beat-ai-powered-attacks-indias-ministry-of-defence-is-fighting-fire-with-fire",
-                "source": "GovInsider",
-                "date": "2026-07-07T01:32:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia and Palantir Are Bringing Sovereign AI to the U.S. Government. Here's How.",
-                "desc": "Nvidia and Palantir are teaming up to bring open AI models to government agencies.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877441%2Fpalantir-and-nvidia-logos.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/06/palantir-and-nvidia-just-teamed-up-on-a-1-trillion/",
-                "source": "The Motley Fool",
-                "date": "2026-07-07T01:30:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore is once again the world's most expensive city",
-                "desc": "The Republic remains attractive due to its stable political climate, resilient economy and strong currency Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/c99fcce4e6dd6ae23c24cbbe9facba07a6b7b45b37237ed542b6e12197be3623?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/companies-markets/singapore-retains-top-spot-most-expensive-city-hnwis-five-apac-cities-global-top-10",
-                "source": "The Business Times",
-                "date": "2026-07-07T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From bench to business: How I-Corps trains scientists for industry",
-                "desc": "NSF’s I-Corps program provides entrepreneurial training and hands-on business research experience to scientists, helping them take academic discoveries beyond the bench and into society.",
-                "image": "https://www.asbmb.org/getmedia/4a19d112-2c0d-486a-85e7-047e1d893b50/12000x600-Mycsology.jpg?width=1200&height=600&ext=.jpg",
-                "url": "https://www.asbmb.org/asbmb-today/careers/070726/i-corps-trains-scientists-for-industry",
-                "source": "American Society for Biochemistry and Molecular Biology",
-                "date": "2026-07-07T01:26:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vending massage chair operator RNG Tech starts muted on first ACE Market day",
-                "desc": "KUALA LUMPUR (July 7): RNG Tech Bhd (KL:RESTNGO) kicked off its first day of trading with little fanfare on the ACE Market amid subdued demand for shares of the vending massage chair operator.",
-                "image": "https://assets.theedgemarkets.com/20260707_PEO_RNG_TECH_BERHAD_LISTING_CEREMONY_PG-4-group-px_APP.jpg",
-                "url": "https://theedgemalaysia.com/node/809619",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-07T01:21:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AirBorneo opens bookings for Kuala Lumpur route, unveils RM375 ‘Sarawakku Sayang’ promo fare",
-                "desc": "KUCHING, July 7 — AirBorneo has opened ticket sales for its new Kuala Lumpur route, offering promotional one-way Economy Class fares from RM375 as the Sarawak carrier prepares to...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/07/350607.jpg",
-                "url": "https://www.malaymail.com/news/malaysia/2026/07/07/airborneo-opens-bookings-for-kuala-lumpur-route-unveils-rm375-sarawakku-sayang-promo-fare/226637",
-                "source": "Malay Mail",
-                "date": "2026-07-07T01:21:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Amazon Cuts Toshiba's 43-Inch 4K Smart Fire TV by 57%, Even Cheaper Than No-Name Portable Monitor",
+                "desc": "This is an amazing deal, but it won't last for long.",
+                "image": "https://gizmodo.com/app/uploads/2026/06/toshiba-tv-1200x675.jpg",
+                "url": "https://gizmodo.com/amazon-cuts-toshibas-43-inch-4k-smart-fire-tv-by-57-even-cheaper-than-no-name-portable-monitor-2000781082",
+                "source": "Gizmodo",
+                "date": "2026-07-07T13:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Porsche 911 GT3 S/C rated: a convertible, yet still an epic driver's car",
+                "desc": "GT3 S/C is a convertible version of a world-beating sports car, and could be the one to have",
+                "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/porsche-911-gt3-sc-lead-image.jpg",
+                "url": "https://www.autocar.co.uk/car-news/new-cars/porsche-911-gt3-sc-rated-convertible-yet-still-epic-drivers-car",
+                "source": "Autocar",
+                "date": "2026-07-07T13:39:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Can Now Use Your Search Uploads for AI Training: Here's How to Opt Out",
+                "desc": "Google last month introduced a new Search Services History setting that can save your media uploads for AI development, unless you turn it off.",
+                "image": "https://i.pcmag.com/imagery/articles/00G26WkzvkvaNq7Jzi5RB0l-1.fit_lim.size_1200x630.v1783420270.png",
+                "url": "https://www.pcmag.com/news/google-can-now-use-your-search-uploads-for-ai-training-heres-how-to-opt",
+                "source": "PCMag",
+                "date": "2026-07-07T13:39:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Can Now Use Your Search Uploads for AI Training: Here's How to Opt Out",
+                "desc": "Google last month introduced a new Search Services History setting that can save your media uploads for AI development, unless you turn it off.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/g/google-can/google-can-now-use-your-search-uploads-for-ai-training-heres_t34q.1200.png",
+                "url": "https://au.pcmag.com/ai/118646/google-can-now-use-your-search-uploads-for-ai-training-heres-how-to-opt-out",
+                "source": "PCMag Australia",
+                "date": "2026-07-07T13:38:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Lola has revived a sportscar icon in a more sustainable form",
+                "desc": "The T70 Mk3B is one of Lola’s most famous cars and has now been given a new lease of life thanks to some clever, environmentally friendly innovations",
+                "image": "https://cdn-4.motorsport.com/images/amp/0rVxXVP0/s6/3o0a6478-2-5.jpg",
+                "url": "https://www.autosport.com/national/news/how-lola-has-revived-a-sportscar-icon-in-sustainable-form/10835119/",
+                "source": "Autosport",
+                "date": "2026-07-07T13:35:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\" ORBITALS’ INTERNATIONAL VOICE CAST UNITES INDUSTRY VETERANS FOR AN AUTHENTIC ANIME",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/ORBITALS-INTERNATIONAL-VOICE-CAST-UNITES-INDUSTRY-VETERANS-FOR-AN-AUTH",
+                "source": "Games Press",
+                "date": "2026-07-07T13:32:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\" ORBITALS’ INTERNATIONAL VOICE CAST UNITES INDUSTRY VETERANS FOR AN AUTHENTIC ANIME",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/ORBITALS-INTERNATIONAL-VOICE-CAST-UNITES-INDUSTRY-VETERANS-FOR-AN-AUTH",
+                "source": "Games Press",
+                "date": "2026-07-07T13:32:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7 Smart Mini Gadgets You Didn't Know Existed",
+                "desc": "Whether you're considering setting up a new smart home situation, or you're already well on your way, these gadgets could make your home life a little smoother.",
+                "image": "https://www.slashgear.com/img/gallery/7-smart-mini-gadgets-you-didnt-know-existed/l-intro-1783363260.jpg",
+                "url": "https://www.slashgear.com/2208925/smart-mini-gadgets-you-didnt-know-existed/",
+                "source": "SlashGear",
+                "date": "2026-07-07T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "James Bond, Hitman Studio's Project Fantasy Still Coming After Xbox Cuts",
+                "desc": "But the Istanbul team is forced to close - IO Interactive has confirmed its previously Xbox-funded game, currently codenamed Project Fantasy, won't be cancel...",
+                "image": "https://images.pushsquare.com/946c6b03a5063/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/james-bond-hitman-studios-project-fantasy-still-coming-after-xbox-cuts",
+                "source": "Push Square",
+                "date": "2026-07-07T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How To Protect Your Tech From Lightning Strikes",
+                "desc": "Doing a little work ahead of time will help keep your gadgets from being fried in an electrical storm.",
+                "image": "https://www.engadget.com/img/gallery/how-to-protect-your-tech-from-lightning-strikes/l-intro-1783344750.jpg",
+                "url": "https://www.engadget.com/2208395/how-to-protect-your-tech-from-lightning-strikes/",
+                "source": "Engadget",
+                "date": "2026-07-07T13:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "EU cannot stop Sony and other developers from scrapping physical discs, says Michael McGrath",
                 "desc": "PlayStation games will no longer be released on discs from January 2028, sparking fierce debate among gamers",
@@ -1174,99 +1264,99 @@
                 "source": "KuCoin",
                 "date": "2026-07-07T00:59:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What If The Best James Beard Awards Story Was In The Glass?",
-                "desc": "The 2026 James Beard Awards drinks winners show how bars, cocktails, wine service, whiskey and zero-proof pairings are changing American dining culture.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4c49464e4805c87bc93032/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/noelburgess/2026/07/06/the-james-beard-awards-drinks-winners-redefine-dining-in-2026/",
-                "source": "Forbes",
-                "date": "2026-07-07T00:58:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Death of physical media? Edmonton gamers disappointed Sony nixing physical copies in 2028.",
-                "desc": "No more disks for video games. As Sony announces it will stop making physical copies of games, Edmonton’s gaming community shares concern and disappointment.",
-                "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/adf35130-496c-441c-b2f2-872a54d038b8/011951be-d3f0-4062-8633-5f14240b8c8a/1920x1080/match/image.jpg",
-                "url": "https://edmonton.citynews.ca/video/2026/07/06/death-of-physical-media-edmonton-gamers-disappointed-sony-nixing-physical-copies-in-2028/",
-                "source": "CityNews Edmonton",
-                "date": "2026-07-07T00:57:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Luxury Home Learning Wings: Expert 2026 Design Guide",
-                "desc": "Discover how affluent families design private educational spaces with expert architecture, tech, and interior design.",
-                "image": "https://www.upscalelivingmag.com/wp-content/uploads/2026/07/Luxury-Home-Wings.-Vecteezy-medium.webp",
-                "url": "https://www.upscalelivingmag.com/brand-features/luxury-home-learning-wings-expert-2026-design-guide/",
-                "source": "www.upscalelivingmag.com",
-                "date": "2026-07-07T00:56:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pokémon GO Developer Niantic Changes Its Name And Logo",
-                "desc": "It will now be known as 'Scopely Explore' - After being acquired by the Savvy Games Group subsidiary Scopely last March for the sum of $3.5 billion, it's bee...",
-                "image": "https://images.nintendolife.com/8b3e81384a1bb/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/pokemon-go-developer-niantic-changes-its-name-and-logo",
-                "source": "Nintendo Life",
-                "date": "2026-07-07T00:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kaseya's MSP Success program aims to help MSP step into advisory role",
-                "desc": "Technology is no longer a differentiator for managed service providers (MSPs) -- the next phase of growth for MSPs will be about understanding the customer's business -- and to get there they will need business growth support.",
-                "image": "https://www.arnnet.com.au/wp-content/uploads/2026/07/4193479-0-36401200-1783385439-Shaun-Witherden-Headshot.jpg?quality=50&strip=all&w=1024",
-                "url": "https://www.arnnet.com.au/article/4193479/kaseyas-msp-success-program-aims-to-help-msp-step-into-advisory-role.html",
-                "source": "ARNnet",
-                "date": "2026-07-07T00:51:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Virtual telcos bundle AI with mobile plans",
-                "desc": "Discover how virtual telcos are bundling access to paid AI models with mobile plans for as little as $8 a month, sparking a price war. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/11a7d8b3671a96bf9918acc7c468e419db45aa1b3ee044b4fd488fccafbd3b9c",
-                "url": "https://www.straitstimes.com/tech/virtual-telcos-bundle-mobile-plans-with-access-to-paid-ai-models-for-as-low-as-8-a-month",
-                "source": "The Straits Times",
-                "date": "2026-07-07T00:47:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Excited, Terrified: Robotics Director Michael Milford on Future Tech",
-                "desc": "The QUT robotics department head says construction’s complexity may be a challenge AI and robotics can’t quite solve—yet…",
-                "image": "https://images.ctfassets.net/8pr762qjocl3/1TWC4bWEduGeOrkktbg7D3/96123971a5b34694af6acc9f3fbe4442/QUT-professor-michael-milford-HERO.jpg",
-                "url": "https://www.theurbandeveloper.com/articles/five-minutes-with-qut-robotics-director-michael-milford",
-                "source": "The Urban Developer",
-                "date": "2026-07-07T00:41:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oof: MST Mk1 EVO breaks cover, costs £195k",
-                "desc": "Nothing worth having comes easy, they say - the new 350hp Mk1 Evolution from MST cars is proof enough of that...",
-                "image": "https://images.pistonheads.com/nimg/51391/blobid0.jpg",
-                "url": "https://www.pistonheads.com/news/ph-britishcars/oof-mst-mk1-evo-breaks-cover-costs-195k/51391",
-                "source": "PistonHeads",
-                "date": "2026-07-07T00:31:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cost, specs, performance",
-                "desc": "The TerraMaster F4-425 Pro is a compact four-bay NAS that punches above its price class, with an eight-core Intel chip, three M.2 slots, and dual 5GbE networking, at the cost of a few real but manageable caveats.",
-                "image": "https://photos5.appleinsider.com/gallery/68163-143679-terramasterreview-1-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware",
-                "source": "AppleInsider",
-                "date": "2026-07-07T00:23:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows 11 will soon be able to reinstall itself and your drivers without a USB drive via new 'Cloud Rebuild' recovery method",
-                "desc": "A new recovery option coming to Windows 11 will let you reinstall the OS and your drivers using the internet without a USB key, even when Windows itself is unbootable.",
-                "image": "https://cdn.mos.cms.futurecdn.net/Sqcu6yCMhr5QH6DpmmvyRS-2048-80.jpg",
-                "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-will-soon-be-able-to-reinstall-itself-and-your-drivers-using-without-a-usb-key-via-new-cloud-rebuild-recovery-method",
-                "source": "Windows Central",
-                "date": "2026-07-07T00:19:36Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Tourists flee Spanish hotels & villas as wildfires spread towards holiday hotspots & Europe bakes in fresh 40C+ heatwave",
+                "desc": "TOURISTS have fled from their hotels and villas as wildfires spread towards Spanish holiday hotspots under a fresh 40C heatwave.\nAlmost 200...",
+                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/crop-39678316.jpg?quality=90&strip=all&1783435002&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.co.uk/news/39677394/tourists-flee-spain-wildfires-hit-holiday-hotspots/",
+                "source": "The Sun",
+                "date": "2026-07-07T13:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lithuania's parliament speaker says Belarus sanctions relief needs democratic change",
+                "desc": "VILNIUS - Lithuania can only discuss easing sanctions against Belarus after democratic changes take place in the country, parliament speaker Juo...",
+                "image": "https://media.baltictimes.com/media/photos/167815_433165856a3170ab78fc6_big.jpg",
+                "url": "https://www.baltictimes.com/lithuania_s_parliament_speaker_says_belarus_sanctions_relief_needs_democratic_change/",
+                "source": "The Baltic Times",
+                "date": "2026-07-07T13:38:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "French court clears way for Marine Le Pen to run for president but orders her to wear electronic tag",
+                "desc": "The French hard-right leader, who previously said she would not run for office if forced to wear a tag, is yet to respond publicly to the verdict.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a91/live/1081fa40-79f8-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/live/c70yk5xjyl1t",
+                "source": "BBC",
+                "date": "2026-07-07T13:37:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New fault discovery adds risk factor to South Africa's shale gas ambitions",
+                "desc": "Scientists at South Africa's University of Cape Town on Tuesday called for heightened monitoring of the Karoo Basin after ​uncovering evidence of a previously u",
+                "image": "https://clubofmozambique.com/wp-content/uploads/2026/07/South-Africa-gas.jpg",
+                "url": "https://clubofmozambique.com/news/new-fault-discovery-adds-risk-factor-to-south-africas-shale-gas-ambitions-uct-study/",
+                "source": "CLUB OF MOZAMBIQUE",
+                "date": "2026-07-07T13:36:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First Thing: Nato summit faces tricky diplomacy with Trump over his defense spending demands",
+                "desc": "Leaders meeting in Ankara urged to show concrete steps towards increasing their budget contribution",
+                "image": "https://i.guim.co.uk/img/media/b3ced592716fd22489448f1b509c73a6df828e68/521_697_3936_3149/master/3936.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a711684fac662538ec769ef945df55a",
+                "url": "https://www.theguardian.com/us-news/2026/jul/07/first-thing-nato-summit-tricky-diplomacy-trump-defense-spending-demands",
+                "source": "The Guardian",
+                "date": "2026-07-07T13:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lithuania's interior minister nominee backs EU migrant contributions over relocations",
+                "desc": "VILNIUS - Lithuania's interior minister nominee Martynas Katelynas said on Tuesday he supported paying financial contributions for all migra...",
+                "image": "https://media.baltictimes.com/media/photos/167815_433165856a3170ab78fc6_big.jpg",
+                "url": "https://www.baltictimes.com/lithuania_s_interior_minister_nominee_backs_eu_migrant_contributions_over_relocations/",
+                "source": "The Baltic Times",
+                "date": "2026-07-07T13:35:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigel Farage resigns and vows to fight byelection after pressure over finances",
+                "desc": "The Reform UK leader insisted he had not done anything wrong and hit out at opponents and the media.",
+                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMDcxNDMyMjhcXFwvMi44NDU1NTA2Mi0xLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNGNhYWYyODlmOTE0YmI3NDg5ODdjYmEwYzgxMDdjNjA0NmQ3NWIzMyJ9/nigel-farage-resigns-and-vows-to-fight-byelection-after-pressure-over-finances.jpg",
+                "url": "https://www.breakingnews.ie/world/nigel-farage-resigns-and-vows-to-fight-by-election-after-pressure-over-finances-1923525.html",
+                "source": "BreakingNews.ie",
+                "date": "2026-07-07T13:35:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tsikhanouskaya expects Lithuania to maintain principled Belarus policy",
+                "desc": "VILNIUS - Belarusian opposition leader Sviatlana Tsikhanouskaya said on Tuesday she expected Lithuania's new government to continue a princi...",
+                "image": "https://media.baltictimes.com/media/photos/167815_433165856a3170ab78fc6_big.jpg",
+                "url": "https://www.baltictimes.com/tsikhanouskaya_expects_lithuania_to_maintain_principled_belarus_policy/",
+                "source": "The Baltic Times",
+                "date": "2026-07-07T13:35:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry loses High Court privacy claim against the media in major defeat",
+                "desc": "Harry, who was in London at the time of the ruling, has brought several legal cases against the British press.",
+                "image": "https://static.ffx.io/images/$zoom_0.12256944444444444%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/f5027565e82f77e84a54c14211a2c33969e1f8be",
+                "url": "https://www.smh.com.au/world/europe/prince-harry-loses-privacy-claim-against-the-media-in-major-defeat-20260707-p60dgg.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-07T13:34:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s Youth Boom Creates Economic Opportunity but Raises Jobs Challenge",
+                "desc": "Africa’s median age will reach 19.5 years in 2026, giving the continent one of the youngest populations globally and creating both opportunities and",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/f45a5d4ceeff280cd7426fe715965359_S.jpg",
+                "url": "https://www.ecofinagency.com/news-services/0707-57137-africa-s-youth-boom-creates-economic-opportunity-but-raises-jobs-challenge",
+                "source": "Ecofin Agency",
+                "date": "2026-07-07T13:34:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Robert Ebert: Top banker jailed for fatal crash in Hong Kong wants to sue Ferrari for millions over brake failure",
                 "desc": "Robert Ebert was head of equities trading at Deutsche Bank when he ran over a security guard",
@@ -1806,98 +1896,8 @@
                 "source": "Modern Ghana",
                 "date": "2026-07-07T00:51:09Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sky News Australia",
-                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
-                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
-                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
-                "source": "Sky News Australia",
-                "date": "2026-07-07T00:49:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why some nations are turning down Trump's money",
-                "desc": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/934d/live/e2f21850-763f-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/ckg0921y8kdo",
-                "source": "BBC",
-                "date": "2026-07-07T00:49:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why some African nations are turning down Trump aid money",
-                "desc": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
-                "image": "https://s.yimg.com/lo/mysterio/api/972e0377a30fb400c7819daf2c275ce60c03a180c28961932e853ca34cfa879c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F77639b376e9cf33b39e44e08afa72e71",
-                "url": "https://ca.news.yahoo.com/why-african-nations-turning-down-004915421.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-07-07T00:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-                "desc": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/91be/live/fc88efc0-7985-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.com/news/articles/c07yy3j3nljo",
-                "source": "BBC",
-                "date": "2026-07-07T00:46:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-                "desc": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91be/live/fc88efc0-7985-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo",
-                "source": "BBC",
-                "date": "2026-07-07T00:46:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Corporate Japan’s rare-earth warnings get louder as China keeps spigot closed",
-                "desc": "As the economy strengthens, an unprecedented increase in company notices about critical ​minerals is flashing a warning signal for the quarters ahead.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/07/550226.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/07/economy/rare-earths-shortage-impact-economy/",
-                "source": "The Japan Times",
-                "date": "2026-07-07T00:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why undersea cables have become the next strategic prize in US-China rivalry",
-                "desc": "Carrying about 99 per cent of global data traffic, undersea cables have become a new front in the strategic rivalry between Washington and Beijing.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--EDtS6bYb--/c_crop,h_843,w_1500,x_0,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2022/06/29/sc_subsea_cable3.jpg?itok=QzM2tjLQ",
-                "url": "https://www.channelnewsasia.com/east-asia/us-china-strategic-rivalry-undersea-cables-6230026",
-                "source": "CNA",
-                "date": "2026-07-07T00:42:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
-                "desc": "How fighting for el-Obeid could shape both Sudan’s war and its humanitarian crisis.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1783076077.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase",
-                "source": "Al Jazeera",
-                "date": "2026-07-07T00:39:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Climate crisis reshapes travel as weather risks grow in 2026",
-                "desc": "A survey of over 32,500 people found that 74% of travelers now consider extreme weather an important factor when planning trips.",
-                "image": "https://asianews.network/wp-content/uploads/2026/07/BtRgFGCXuc4DD0T2xlZz.webp",
-                "url": "https://asianews.network/climate-crisis-reshapes-travel-as-weather-risks-grow-in-2026/",
-                "source": "Asia News Network",
-                "date": "2026-07-07T00:35:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sri Lanka prison riot kills 26, with more than 100 others wounded",
-                "desc": "Victims with cuts and gunshot injuries rushed to hospital after fighting between prisoners from two drug gangs",
-                "image": "https://i.guim.co.uk/img/media/6e967c0d7b1053f54545f2f5f7d9fb61e874dc0f/156_0_4453_3563/master/4453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91e77d0db03bb3633f6ba22d5443460d",
-                "url": "https://www.theguardian.com/world/2026/jul/07/sri-lanka-prison-riot-death-toll-injuries",
-                "source": "The Guardian",
-                "date": "2026-07-07T00:35:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T01:13:14.708266Z"
+    "lastGlobalSync": "2026-07-08T01:40:45.114398Z"
 }
