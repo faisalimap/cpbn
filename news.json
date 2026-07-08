@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "DBS Altitude Card offering 28,000 bonus miles or Samsonite luggage welcome gift",
+                "desc": "Apply for a DBS Altitude Card by 31 October 2026 and choose between 28,000 bonus miles or a Samsonite luggage, with a minimum spend of S$800.",
+                "image": "https://milelion.com/wp-content/uploads/2023/07/dbs-altitude-hero-3.jpg",
+                "url": "https://milelion.com/2026/07/08/dbs-altitude-card-renews-28000-miles-welcome-offer-adds-luggage-gift-alternative/",
+                "source": "The MileLion",
+                "date": "2026-07-08T02:00:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mainland China markets follow US in embracing tech stock dominance",
+                "desc": "AI boom sees long-time bellwether Kweichow Moutai cede top spot in CSI 300 Index weightings to Zhongjin Innolight.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/08/d44324c9-9363-402e-a6f1-6e83fa217598_299b67ec.jpg?itok=UU9LZHWx&v=1783474837",
+                "url": "https://www.scmp.com/business/china-business/article/3359788/mainland-china-markets-follow-us-embracing-tech-stock-dominance",
+                "source": "South China Morning Post",
+                "date": "2026-07-08T02:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Frasers Property launches Dunearn House condo with prices from S$2,799 psf",
+                "desc": "It is the first private residential project in the Bukit Timah Turf City master plan Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/a6ef4be6a1a90372b1d0189e402b88e67c440e1e24bcf7414e4a58091918e250?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/property/frasers-property-launches-dunearn-house-condo-prices-s2799-psf",
+                "source": "The Business Times",
+                "date": "2026-07-08T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hallyu generated $24.6b in exports in 2025: Report",
+                "desc": "Music exports surged 84 per cent from 2024. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0330faef3d6876191c95e319bc23383142ba2ab9aa26054ebf259a4c229ca176",
+                "url": "https://www.straitstimes.com/asia/east-asia/hallyu-generated-24-6b-in-exports-in-2025-report",
+                "source": "The Straits Times",
+                "date": "2026-07-08T01:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adani Enterprises raises ₹15,000 crore through QIP; Here are the funds who were issued shares",
+                "desc": "The board of Adani Enterprises approved the allotment of 5.20 crore equity shares with a face value of ₹1 each to eligible qualified institutional buyers.",
+                "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-e139c4d971c393813ad1ea056801e626.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://www.cnbctv18.com/market/adani-enterprises-share-price-raises-15000-crore-through-qip-here-are-the-funds-who-were-issued-shares-19940569.htm",
+                "source": "CNBC TV18",
+                "date": "2026-07-08T01:54:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Avenue lanes to close for MRT-7 roof installation",
+                "desc": "Two southbound lanes in North Avenue will be temporarily closed for two months for the ongoing construction of MRT-7.",
+                "image": "https://media.philstar.com/photos/2026/05/31/3_2026-05-31_20-02-10.jpg",
+                "url": "https://www.philstar.com/nation/2026/07/08/2540713/north-avenue-lanes-close-mrt-7-roof-installation",
+                "source": "Philstar.com",
+                "date": "2026-07-08T01:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese autonomous-driving firm Momenta rises 3% in Hong Kong debut",
+                "desc": "Chinese autonomous driving firm Momenta debuted on the Hong Kong stock exchange on Wednesday, rising 3%.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108204383-1758884184239-Momenta_Ai.jpg?v=1758884342&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html",
+                "source": "CNBC",
+                "date": "2026-07-08T01:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Energy Minister Simeon Brown calls on power networks to tackle scale and cost pressures",
+                "desc": "Energy Minister Simeon Brown expects the dozens of electricity distribution businesses to address what he sees as “challenges of scale and fragmentation” but...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/5JQSCKN2XNGB7BRLJS7U2YYDBE.jpg?auth=c417e302853a404ba36531f1a706cab4ea81df181a0f839fb4df533dea321c2a&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/business/companies/energy/energy-minister-simeon-brown-calls-on-power-networks-to-tackle-scale-and-cost-pressures/premium/BHVM43Z755B73FWPNRD7BNSXQM/",
+                "source": "NZ Herald",
+                "date": "2026-07-08T01:49:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia dock workers call for 28-hour week in AI talks",
+                "desc": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03ee/live/e53155d0-7a64-11f1-8afe-8b17e9163080.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo",
+                "source": "BBC",
+                "date": "2026-07-08T01:48:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia dock workers call for 28-hour week in AI talks",
+                "desc": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/03ee/live/e53155d0-7a64-11f1-8afe-8b17e9163080.jpg",
+                "url": "https://www.bbc.com/news/articles/cd95wendvdeo",
+                "source": "BBC",
+                "date": "2026-07-08T01:48:47Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Pedigree dog food recalled over metal and plastic contamination risk",
                 "desc": "Mars Petcare issued a Pedigree dog food recall over potential metal and plastic foreign material in two lots of canned food fraudulently diverted into the U.S. marketplace.",
                 "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/dog-eating-food.jpg?ve=1&tl=1",
@@ -541,96 +631,6 @@
                 "url": "https://mb.com.ph/2026/07/07/office-demand-plunges-32-as-geopolitical-shocks-force-corporate-pause",
                 "source": "Manila Bulletin",
                 "date": "2026-07-07T22:33:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Absolutely bananas’: San Francisco homes sell for $1m above asking price amid AI boom",
-                "desc": "Report finds widespread overbidding as rapid AI growth generates increased wealth in city where housing is scarce",
-                "image": "https://i.guim.co.uk/img/media/e2acdc09d54774a72d68350d8c84807f35acb657/379_0_5050_4039/master/5050.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b53e2999fea4cc8e35015b2c78788055",
-                "url": "https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai",
-                "source": "The Guardian",
-                "date": "2026-07-07T22:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Labour promises subsidies, new loan schemes for installing solar",
-                "desc": "Labour has joined the solar election policy contest, offering subsidies and two new loan schemes to remove the upfront cost of installing solar.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--twD2DvdK--/t_tohu-badge-facebook/f_auto/q_auto/4JM65AR_260701_Bridge_8_jpg",
-                "url": "https://www.rnz.co.nz/news/politics/685297/labour-promises-subsidies-new-loan-schemes-for-installing-solar",
-                "source": "RNZ",
-                "date": "2026-07-07T22:30:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air Canada is cutting back or delaying eight U.S.-bound routes",
-                "desc": "The airline is blaming the high cost of jet fuel and lower demand to travel south of the 49th parallel.",
-                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/06/adobestock_2015619638_editorial_use_only_303418303-1.jpg",
-                "url": "https://nationalpost.com/news/canada/air-canada-cutting-or-delaying-eight-u-s-routes-amid-high-jet-fuel-cost-and-lower-demand",
-                "source": "National Post",
-                "date": "2026-07-07T22:30:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Starlux: New airline looking to shake up the trans-Tasman market. Here’s what we know so far",
-                "desc": "Taiwanese carrier Starlux recently announced it will fly between Sydney and Auckland.",
-                "image": "https://static.ffx.io/images/$zoom_0.7359%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/421d404eeb058bb20703c8482efe52369f891fc603ad0c92bf8256ebd8f1ab9a",
-                "url": "https://www.nine.com.au/travel/starlux-new-airline-trans-tasman-route-what-we-know-so-far-20260708-p60di6.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-07T22:30:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jim Cramer says the market's reaction to Samsung may signal a shift in AI leadership",
-                "desc": "CNBC's Jim Cramer said Samsung's earnings sparked a sell-off in AI hardware stocks, while many tech names that have lagged this year rebounded.",
-                "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/07/jim-cramer-markets-reaction-samsung-signal-shift-ai-leadership.html",
-                "source": "CNBC",
-                "date": "2026-07-07T22:26:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump says stock market drove his 2025 income gains",
-                "desc": "The White House did not dispute PolitiFact’s calculations of the disclosure form’s figures.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/d01d0cd5-3f13-456d-ba1b-a47d32909b65.jpg?crop=1.00xw:0.846xh;0,0.0505xh&resize=1200:*",
-                "url": "https://www.kcra.com/article/trump-2025-income-fact-check/71858464",
-                "source": "KCRA",
-                "date": "2026-07-07T22:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump says stock market drove his 2025 income gains",
-                "desc": "The White House did not dispute PolitiFact’s calculations of the disclosure form’s figures.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/d01d0cd5-3f13-456d-ba1b-a47d32909b65.jpg?crop=1.00xw:0.846xh;0,0.0505xh&resize=1200:*",
-                "url": "https://www.wbaltv.com/article/trump-2025-income-fact-check/71858464",
-                "source": "WBAL-TV",
-                "date": "2026-07-07T22:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Hong Kong is fighting to redefine its future with an institutional moat, wealth surge",
-                "desc": "Officials deploy multipronged strategy – from tax incentives to new gold clearing system – to recalibrate city’s global standing amid shifting capital flows, regulatory changes.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/07/e7afd006-66ac-4fd3-b030-4e6e3236a724_51b54642.jpg?itok=1Ph_Y3ZJ&v=1783402918",
-                "url": "https://www.scmp.com/business/banking-finance/article/3359698/how-hong-kong-fighting-redefine-its-future-institutional-moat-wealth-surge",
-                "source": "South China Morning Post",
-                "date": "2026-07-07T22:00:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Markets live: Oil prices surge after US launches strikes on Iran, ASX to slip after Wall Street's tech sell-off",
-                "desc": "The Australian share market is likely to fall in morning trade after a sell-off across technology and artificial intelligence (AI) stocks knocked Wall Street's tech index sharply lower. Oil prices surged after the US confirmed it launched strikes on Iran, after three commercial ships were attacked near the Strait of Hormuz. Follow live.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/b46ef7ba423f4cbd92326131879ea127?impolicy=wcms_watermark_news&cropH=2700&cropW=4800&xPos=0&yPos=250&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-08/asx-markets-business-live-news/106891254",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-07T21:59:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images-Unless You Opt Out",
-                "desc": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-                "image": "https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/191:100/w_1280,c_limit/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg",
-                "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-                "source": "WIRED",
-                "date": "2026-07-07T21:59:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T13:40:45.977582Z"
+    "lastGlobalSync": "2026-07-08T14:01:18.806184Z"
 }
