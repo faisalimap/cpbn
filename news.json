@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Telstra users report mobile network has crashed across Australia",
+                "desc": "Telstra customers, as well as customers of mobile providers that use Telstra's network, have flooded outage detection websites with reports.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/450f4ab00359f0109c80ab3fef6d1598?impolicy=wcms_watermark_news&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-08/telstra-mobile-network-outage-wednesday-morning-july-8/106891176",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-07T20:37:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stretford Hill restates commitment to strong institutions",
+                "desc": "Stretford Hill Limited has reaffirmed commitment to strengthening institutions that enable sustainable infrastructure development through its",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/07/IMG-20260707-WA0021.jpg",
+                "url": "https://guardian.ng/news/stretford-hill-restates-commitment-to-strong-institutions-nba-law-week/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-07T20:36:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After govt notice, Meta details child safety steps",
+                "desc": "India News: NEW DELHI: Meta Tuesday announced a fresh set of measures to combat child exploitation across its platforms, days after the Indian govt issued a notic.",
+                "image": "https://static.toiimg.com/thumb/msid-132248746,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/after-govt-notice-meta-details-child-safety-steps/articleshow/132248749.cms",
+                "source": "The Times of India",
+                "date": "2026-07-07T20:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York",
+                "desc": "Anthropic, the artificial intelligence company, plans to lease a 16-story building in Hudson Square and to double its work force in New York City to 1,000 people this year.",
+                "image": "https://static01.nyt.com/images/2026/06/04/multimedia/00met-anthropic-nyc-01-gbhl/00met-anthropic-nyc-01-gbhl-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html",
+                "source": "The New York Times",
+                "date": "2026-07-07T20:34:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "kind government report says AI not yet causing mass job lay",
+                "desc": "Artificial intelligence is not yet causing a broad disruption to Australia's labour market, according to a government report.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/a98f2158afc62d79b005e7a560c67e77?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-08/government-report-finds-ai-not-yet-causing-mass-job-losses/106889304",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-07T20:30:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hormuz attacks, AI stock falls set to weigh on the ASX",
+                "desc": "Tensions in the Strait of Hormuz and worries about over-inflated AI stocks are expected to weigh on the Australian sharemarket.",
+                "image": "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/0e6855d5fd634c400b4e763381bdfb88b1f5e0d0",
+                "url": "https://www.smh.com.au/business/markets/hormuz-attacks-ai-stock-falls-set-to-weigh-on-the-asx-20260708-p60dgx.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-07T20:27:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Chinese AI Blockade Is Coming",
+                "desc": "Beijing has made a slew of moves in recent months to gatekeep its cutting edge and cost-efficient models.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4d5fc2aa2b638248cf8cc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/the-prompt/2026/07/07/the-chinese-ai-blockade-is-coming/",
+                "source": "Forbes",
+                "date": "2026-07-07T20:26:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israel’s electric vehicle boom goes into reverse",
+                "desc": "EVs fell to 11% of new car sales in 2026, below the global average, as tax incentives shrink and Europe and Asia move ahead",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/09/13/rkBIDmvJJT/rkBIDmvJJT_1_78_3000_1689_0_large.jpg",
+                "url": "https://www.ynetnews.com/culture/article/syh10rc7fl",
+                "source": "Ynetnews",
+                "date": "2026-07-07T20:16:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CARB defers initial SB 253 reporting deadline from August 10 to November 10 and plans rule changes",
+                "desc": "On June 24, CARB announced that it is deferring the deadline for initial Scope 1 and Scope 2 greenhouse gas emissions reporting under SB 253 from August 10...",
+                "image": "https://www.davispolk.com/sites/default/files/2021-06/Website_Social-Share-Image_1200x627.jpg",
+                "url": "https://www.davispolk.com/insights/client-update/carb-defers-initial-sb-253-reporting-deadline-august-10-november-10-and",
+                "source": "Davis Polk",
+                "date": "2026-07-07T20:11:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global oil prices spike following renewed tension in Strait of Hormuz",
+                "desc": "Global oil prices have spiked around 5 percent following renewed tension in the Strait of Hormuz.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--aTVwbnFP--/t_tohu-badge-facebook/f_auto/q_auto/4JMT4JY_AFP__20260618__B7HW7UM__v1__HighRes__IranUsIsraelWarTransportHormuz_jpg",
+                "url": "https://www.rnz.co.nz/news/business/684697/global-oil-prices-spike-following-renewed-tension-in-strait-of-hormuz",
+                "source": "RNZ",
+                "date": "2026-07-07T20:10:39Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Big Oil's Windfall Earnings Threaten to Reignite Trump's Price-Gouging Push",
                 "desc": "Trump is escalating pressure on oil companies, accusing them of price gouging and demanding gasoline prices fall toward $2.50 per gallon.",
                 "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_vc1rouiy3g.jpg",
@@ -542,99 +632,99 @@
                 "source": "investingLive",
                 "date": "2026-07-07T17:30:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "BILODEAU, Joseph Tommy",
-                "desc": "Joseph Tommy Bilodeau was born on November 26, 1941, in St‑Tite, Québec, and passed away on June 17, 2026, in Elliot Lake, Ontario",
-                "image": "https://www.vmcdn.ca/f/files/elliotlaketoday/images/announcements/obituaries/20260707-bilodeau-tommy.jpg;w=300;h=388;mode=crop",
-                "url": "https://www.sootoday.com/obituaries/bilodeau-joseph-tommy-12519204",
-                "source": "SooToday.com",
-                "date": "2026-07-07T17:30:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BHA CEO Brant Dunshea accuses government of 'a clear abdication of duty' over affordability checks",
-                "desc": "BHA chief executive Brant Dunshea has accused the government of abdicating responsibility for the introduction of affordability checks, which he... Read More",
-                "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/93aaf2b7ca52-bha-reaction.jpg",
-                "url": "https://www.racingpost.com/news/industry/affordability-checks/bha-ceo-brant-dunshea-accuses-government-of-a-clear-abdication-of-duty-over-affordability-checks-aErFQ3J6QRuk/",
-                "source": "Racing Post",
-                "date": "2026-07-07T16:59:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amid B.C.'s cost of living crisis, some are saying no to weddings",
-                "desc": "A TD survey found that many people are reconsidering saying yes to wedding invites as they grapple with B.C.'s high cost of living.",
-                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/wedding-guest.jpg?format=auto",
-                "url": "https://dailyhive.com/vancouver/bc-residents-reconsidering-wedding-invites",
-                "source": "Daily Hive",
-                "date": "2026-07-07T16:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Explained: What triggered the global stock market sell-off on Tuesday",
-                "desc": "The decline was driven by a combination of factors rather than a single trigger. Concerns over high AI-related valuations, escalating Middle East tensions, rising crude oil prices and uncertainty over the interest-rate outlook eroded investor confidence.",
-                "image": "https://cf-images.assettype.com/newindianexpress%2F2025-04-07%2Frbcy610m%2FAFP20250404397V7NPv2HighResNewYorkStockExchangeCloser.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.newindianexpress.com/business/2026/Jul/07/explained-what-triggered-the-global-stock-market-sell-off-on-tuesday",
-                "source": "The New Indian Express",
-                "date": "2026-07-07T16:56:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DIAGNOS to Extend the Exercise Period of Stock Warrants",
-                "desc": "BROSSARD, Quebec, July 07, 2026 (GLOBE NEWSWIRE) -- Diagnos Inc. ('DIAGNOS” or the 'Corporation”) (TSX Venture: ADK, OTCQB: DGNOF, FWB: 4D4A), a company dedicated to the early detection of critical health issues using advanced Artificial Intelligence (AI) techniques, announces that it intends to amend the expiry date of 6,715,369 stock warrants (each a 'Warrant”) from August 5, 2026 to June 5, 2027 (the 'Amendment”). The Warrants were issued as part of a non-brokered private placement of units initially announced on February 5, 2025 and on February 14, 2025.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1128380.png",
-                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/diagnos-to-extend-the-exercise-period-of-stock-warrants/2380259",
-                "source": "The Manila Times",
-                "date": "2026-07-07T16:54:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Six Kenyan SMEs secure Sh181m clean energy funding",
-                "desc": "High up-front set-up costs and costs associated with running inefficient appliances are the primary barriers to growth for businesses in Africa.",
-                "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/KilKpFPTqguD9OoXNv8dSoXuTqcGbZzsZtRpvAN5.jpg",
-                "url": "https://www.standardmedia.co.ke/business/enterprise/article/2001552265/kenyan-smes-land-sh181m-for-clean-energy-projects",
-                "source": "standardmedia.co.ke",
-                "date": "2026-07-07T16:53:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disney Reveals Highest Earning International Theme Park With $500 Million Profit Payout",
-                "desc": "Disney has revealed that the total profit payout it receives from one of its theme parks passed $500 million last year making it the studio's highest-earning international outpost.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4b532be633509cfbea6ca1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/carolinereid/2026/07/07/disney-reveals-highest-earning-international-theme-park-with-500-million-profit-payout/",
-                "source": "Forbes",
-                "date": "2026-07-07T16:51:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI stocks resume their drops and drag markets lower worldwide",
-                "desc": "The roller-coaster ride for AI stocks is snapping lower again and weighing on Wall Street. The S&P 500 fell 0.3% Tuesday, even though the majority of stocks within the index rose.",
-                "image": "https://dims.apnews.com/dims4/default/f94bf4b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F7a%2F6a0f742aef0967f9fc0ecb1c096e%2Fc7fa4771d743425b959ee46cb5640604",
-                "url": "https://apnews.com/article/stocks-markets-oil-ai-iran-e0194864aba4379a069ce31becae2558",
-                "source": "AP News",
-                "date": "2026-07-07T16:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rate Hike May Come Soon On Market Estimates",
-                "desc": "The FOMC is expected to raise rates in 2026 on inflation concerns.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a3a2a42b76643fa16a9a94a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/simonmoore/2026/07/07/rate-hike-may-come-soon-on-market-estimates/",
-                "source": "Forbes",
-                "date": "2026-07-07T16:48:02Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "FDA approves Vera Therapeutics kidney disease treatment",
-                "desc": "The drug was approved for the treatment of IgA nephropathy, a chronic autoimmune condition drawing wide interest from biotech companies.",
-                "image": "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_61891029-1024x576.jpeg",
-                "url": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/",
-                "source": "STAT",
-                "date": "2026-07-07T16:46:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "City Labs Launches Small Sat Demonstrator With Nuclear Battery",
+                "desc": "City Labs has launched a nuclear-battery powered cubesat into orbit from the SpaceX Transporter-17 rideshare mission.",
+                "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
+                "url": "https://aviationweek.com/space/satellites/city-labs-launches-small-sat-demonstrator-nuclear-battery",
+                "source": "Aviation Week",
+                "date": "2026-07-07T20:40:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple iPhone 18 Pro and Pro Max's battery details surface in regulatory filings",
+                "desc": "Their batteries are bigger than their predecessors'. A recent rumor claimed that the Apple iPhone 18 Pro Max's eSIM model will pack a 5,425 mAh battery,...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-iphone-18-pro-pro-max-battery-capacity-3c-certification/-952x498w6/gsmarena_001.jpg",
+                "url": "https://www.gsmarena.com/apple_iphone_18_pro_iphone_18_pro_max_battery_capacity_3c_certification-news-73603.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-07T20:39:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Pixel 11 Leak Hints at Higher Prices, New Colors and More Storage",
+                "desc": "While Google's official Pixel 11 unveiling is next month, several key features of the next Android phone may have been revealed early.",
+                "image": "https://www.cnet.com/a/img/resize/67f892782922eb14095b764d2949fdedbb6665f6/hub/2025/08/27/53e0ad41-ddd8-4387-ad5e-feb68485bd0c/pixel-10-pro-xl-review-test-cnet-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/google-pixel-11-leak-hints-at-higher-prices-new-colors-and-more-storage/",
+                "source": "CNET",
+                "date": "2026-07-07T20:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We Need Planetary Intelligence in the Age of AI",
+                "desc": "Will Marshall, CEO of Planet Labs, argues that planetary intelligence is the key to aligning AI with the best interests of humans.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/mRRkYyiumGMZDEdqFLQ8LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/time_72/20ba5c21daa50cdc09a8ed1889a3f47f",
+                "url": "https://malaysia.news.yahoo.com/planetary-intelligence-age-ai-203559136.html",
+                "source": "Yahoo",
+                "date": "2026-07-07T20:35:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We Need Planetary Intelligence in the Age of AI",
+                "desc": "Will Marshall, CEO of Planet Labs, argues that planetary intelligence is the key to aligning AI with the best interests of humans.",
+                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+                "url": "https://www.aol.com/articles/planetary-intelligence-age-ai-203559000.html",
+                "source": "AOL.com",
+                "date": "2026-07-07T20:35:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warhammer 40,000: Rogue Trader on Switch 2: Major Update and Free DLCs",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Warhammer-40000-Rogue-Trader-on-Switch-2-Major-Update-and-Free-DLCs",
+                "source": "Games Press",
+                "date": "2026-07-07T20:33:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Physical Games Are Going Away, but Call of Duty Is On PlayStation Plus This Month. That's Nice, Right?",
+                "desc": "All PS Plus subscribers can play Modern Warfare 3, CrossCode and more throughout July.",
+                "image": "https://www.cnet.com/a/img/resize/279451e79027f7621bebe5a1b00a6948cb56c686/hub/2026/07/01/02630516-0ea3-4360-bd8f-1a5dce2f780c/screenshot-2026-07-01-at-2-40-57pm.png?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/gaming/physical-games-are-going-away-but-call-of-duty-is-on-playstation-plus-this-month-thats-nice-right/",
+                "source": "CNET",
+                "date": "2026-07-07T20:31:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "9 Rhythm Heaven Groove Games That Made Me Want To Scream",
+                "desc": "In order of how close I got to actually doing it",
+                "image": "https://kotaku.com/app/uploads/2026/07/1000008531.jpg",
+                "url": "https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407",
+                "source": "Kotaku",
+                "date": "2026-07-07T20:30:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Escape the Kitchen Sink in Sponge Break",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Escape-the-Kitchen-Sink-in-Sponge-Break",
+                "source": "Games Press",
+                "date": "2026-07-07T20:28:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marvel Rivals Completely Reworks Team-Ups In Biggest Update Yet",
+                "desc": "Marvel Rivals has completely reworked how Team-Ups work in what is proving to be the biggest update for the game yet.",
+                "image": "https://insider-gaming.com/wp-content/uploads/2026/07/Marvel-Rivals-Apocalypse.jpg",
+                "url": "https://insider-gaming.com/marvel-rivals-completely-reworks-team-ups-in-biggest-update-yet/",
+                "source": "Insider Gaming",
+                "date": "2026-07-07T20:24:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How Samsung helps enterprises adopt AI with confidence",
                 "desc": "Learn how Samsung's secure Galaxy devices, Knox controls, and partner solutions support firms in putting AI governance into practice. Read more at straitstimes.com.",
@@ -1174,99 +1264,99 @@
                 "source": "Robb Report",
                 "date": "2026-07-07T17:00:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How public-private partnerships can turn Mars into an economic frontier (Op-Ed)",
-                "desc": "No single agency — not even NASA — can develop all the technologies and systems needed for sustained Mars settlement.",
-                "image": "https://cdn.mos.cms.futurecdn.net/mgPn3qGqcXRjJYygnng76g-2000-80.jpg",
-                "url": "https://www.space.com/space-exploration/how-public-private-partnerships-can-turn-mars-into-an-economic-frontier-op-ed",
-                "source": "Space",
-                "date": "2026-07-07T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"A Great Idea Only Matters If You're Able To Finish It\" - Atlantis Studio On Learning From The Past For Its Exclusive Switch 2 Horror",
-                "desc": "\"Ironically, I'm not actually good at horror games\" - Creating a horror game is no small feat. Creating one built around the concept of co-op play is even ha...",
-                "image": "https://images.nintendolife.com/3e94fd2a32348/large.jpg",
-                "url": "https://www.nintendolife.com/features/a-great-idea-only-matters-if-youre-able-to-finish-it-atlantis-studio-on-learning-from-the-past-for-its-exclusive-switch-2-horror",
-                "source": "Nintendo Life",
-                "date": "2026-07-07T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When An Engineering Education Doesn’t Teach You How To Really Make Anything",
-                "desc": "In the sweltering temperatures of an unusually hot European heatwave, I found myself having a chat with  a friend of mine from my university days. After discussing the health of his cat who had solve...",
-                "image": "https://hackaday.com/wp-content/uploads/2014/12/hacking-education.jpg",
-                "url": "https://hackaday.com/2026/07/07/when-an-engineering-education-doesnt-teach-you-how-to-really-make-anything/",
-                "source": "Hackaday",
-                "date": "2026-07-07T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strymon Announces New Timeline MX Multi-Delay Workstation",
-                "desc": "The legendary Timeline delay pedal gets a host of new features and capabilities for 2026",
-                "image": "https://img.einnews.com/facebook/1146227/tlmx-on-black-background.jpeg",
-                "url": "https://www.einpresswire.com/article/924789069/strymon-announces-new-timeline-mx-multi-delay-workstation",
-                "source": "EIN Presswire",
-                "date": "2026-07-07T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hennessey's New Manual-Only Hypercar Makes Over 2,000 HP",
-                "desc": "Hennessey Special Vehicles has just unveiled the Venom F5-M. The latest version of its flagship vehicle is the world’s most powerful manual hypercar.",
-                "image": "https://robbreport.com/wp-content/uploads/2026/07/hennessey-venom-f5-m-06.jpg?w=681&h=383&crop=1",
-                "url": "https://robbreport.com/motors/aviation/hennessey-venom-f5-m-manual-only-2000-hp-1238439240/",
-                "source": "Robb Report",
-                "date": "2026-07-07T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Developer turns Sony's headphones into real-time head tracker for PC simulators",
-                "desc": "It's an ingenious way to use OpenTrack and Sony's high-end headphones and earbuds. Most modern, high-end headphones and earbuds have accelerometers and...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/05/sony-1000x-the-collexion-yes-really-ifr/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/developer_turns_sonys_headphones_into_realtime_head_tracker_for_pc_simulators-news-73610.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-07T16:57:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Node Clustering on Scientific Computing",
-                "desc": "TAIPEI, July 7, 2026 /PRNewswire/ — GIGABYTE, the world’s leading computer brand, demonstrates how AI TOP ATOM four-node clustering scales […]",
-                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
-                "url": "https://technode.global/prnasia/gigabyte-demonstrates-ai-top-atom-four-node-clustering-on-scientific-computing/",
-                "source": "TNGlobal",
-                "date": "2026-07-07T16:55:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Escape from Violet Hold Is Now Live!",
-                "desc": "The plan is set. The guards are distracted. It’s time to Escape from Violet Hold!",
-                "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/3y/3Y9X9X7DA36T1782851368492.jpg",
-                "url": "https://news.blizzard.com/en-us/article/24287640/escape-from-violet-hold-is-now-live",
-                "source": "Blizzard News",
-                "date": "2026-07-07T16:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Save over $650 on the 2026 Hisense 65-inch U7 Mini LED 4K TV at Amazon",
-                "desc": "The Hisense 65-inch U7 Mini LED 4K TV is on sale for only $847.99, which beats its Prime Day price and marks a new best price ever.",
-                "image": "https://helios-i.mashable.com/imagery/articles/010AEHzrJo36wWntvpa7lhz/hero-image.fill.size_1200x675.v1783438274.png",
-                "url": "https://mashable.com/tech/july-7-hisense-u7-mini-led-tv-deal",
-                "source": "Mashable",
-                "date": "2026-07-07T16:52:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wedding-worthy camcorder: How to shop the Camp Snap CS-8 digital video camcorder",
-                "desc": "Spotted at Taylor Swift's wedding: The Camp Snap CS-8 Digital Video Camcorder is available to buy for $199.",
-                "image": "https://helios-i.mashable.com/imagery/articles/015oV3gyrrrRkKKuOwCFz38/hero-image.fill.size_1200x675.v1783440359.jpg",
-                "url": "https://mashable.com/life/july-7-campsnap-cs8-taylor-swift-wedding",
-                "source": "Mashable",
-                "date": "2026-07-07T16:51:11Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
+                "desc": "The senator has been hospitalised since June 14 with few details released, raising questions over his return to work.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4d55efe657-1783453167.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions",
+                "source": "Al Jazeera",
+                "date": "2026-07-07T20:38:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Search underway for missing cargo jet near Karachi coast",
+                "desc": "A large-scale sea search is underway off Karachi for a K2 Airways Boeing 737 cargo plane with five crew members after radar data indicates a possible crash.",
+                "image": "https://2.a7.org/files/pictures/000/1065363.jpg",
+                "url": "https://www.israelnationalnews.com/news/429810",
+                "source": "Israel National News",
+                "date": "2026-07-07T20:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "24 people with links to India-based gangs arrested in US, Canada, Europe",
+                "desc": "As part of this investigation, law enforcement has seized about 1,000 kg of cocaine and 1 kilogram of heroin along with $40,000 in cash and a dozen firearms. | India News",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/07/550x309/FBI_justice_1783456328037_1783456337328_1932237b-a61e-4f08-8de0-83996f9e22f5.jpg",
+                "url": "https://www.hindustantimes.com/india-news/operation-hard-ball-24-with-links-to-india-based-gangs-arrested-in-us-canada-europe-101783455964438.html",
+                "source": "Hindustan Times",
+                "date": "2026-07-07T20:35:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "39 Nueva Vizcaya villages on landslide, flood watch as Inday nears",
+                "desc": "Thirty-nine villages in five towns in Nueva Vizcaya have been placed under close monitoring for possible landslides and flooding due to Inday.",
+                "image": "https://newsinfo.inquirer.net/files/2022/09/Nueva-Vizcaya-map-filephoto-091122.jpg",
+                "url": "https://newsinfo.inquirer.net/2259451/39-nueva-vizcaya-villages-on-landslide-flood-watch-as-inday-nears",
+                "source": "Inquirer.net",
+                "date": "2026-07-07T20:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Netanyahu warns Trump over possible sale of F-35 jets",
+                "desc": "The US President has arrived at a critical NATO summit - and he’s not happy.",
+                "image": "https://static.ffx.io/images/$zoom_0.2097%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f13de7a573196390423533295a9e2fff4b263500c1cfc4423f15491cb3447814",
+                "url": "https://www.nine.com.au/world-news/nato-summit-us-politics-live-updates-donald-trump-latest-headlines-20260708-p60dh7.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-07T20:28:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia news live: major outage hits Telstra mobile network; PM to host three Pacific leaders in Brisbane",
+                "desc": "Follow live",
+                "image": "https://i.guim.co.uk/img/media/c7567d86bfa73f76ffe8ea94599bbec6ee242452/629_0_6293_5035/master/6293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a23eb4d5274840c29ccd8b23f0b6dad",
+                "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+                "source": "The Guardian",
+                "date": "2026-07-07T20:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN Secretary General Calls for Global Ban On AI ‘Killer Robots’",
+                "desc": "Others, meanwhile, argue that the US has a moral obligation to build powerful autonomous weapons systems—lest our adversaries get there first.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/Drones-1200x675.jpg",
+                "url": "https://gizmodo.com/un-secretary-general-calls-for-global-ban-on-ai-killer-robots-2000782542",
+                "source": "Gizmodo",
+                "date": "2026-07-07T20:25:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘You’re not going to have a Europe anymore’: Trump warns NATO over immigration",
+                "desc": "Trump was greeted warmly by Turkey’s strongman leader and then proceeded to take charge of their joint press conference in Ankara",
+                "image": "https://static.independent.co.uk/2026/07/07/14/download.-4.?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-turkey-nato-summit-b3010450.html",
+                "source": "The Independent",
+                "date": "2026-07-07T20:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Homegrown Catnip Lotion Matches Deet In Repelling Mosquitoes, Uganda Trial Finds",
+                "desc": "A locally produced catnip-based lotion has proven to be just as effective as Deet at repelling mosquitoes during field trials in Uganda, offering a",
+                "image": "https://leadership.ng/wp-content/uploads/2026/07/IMG_3393.jpg",
+                "url": "https://leadership.ng/homegrown-catnip-lotion-matches-deet-in-repelling-mosquitoes-uganda-trial-finds/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-07-07T20:19:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mitch McConnell, Joe Biden and the growing epidemic of politicians hiding health problems",
+                "desc": "Politicians are increasingly hiding their health problems, despite a national reckoning over the problem during the presidency of Joe Biden.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-19t161007z-1605047258-rc2fclaldsf6-rtrmadp-3-usa-army-congress.JPG?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/07/politics/mitch-mcconnell-joe-biden-health-problems",
+                "source": "CNN",
+                "date": "2026-07-07T20:14:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Hannah McQueen: Why every family should set up an enduring power of attorney early",
                 "desc": "The one legal document every family needs to talk to their parents about . There comes a point in almost every family when the roles begin to reverse. The...",
@@ -1806,98 +1896,8 @@
                 "source": "ACI Africa",
                 "date": "2026-07-07T17:00:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump eyes sweeping H-1B, green card and student visa changes. Why Indians could be hit hardest | Explained",
-                "desc": "The Trump administration is planning tighter rules for H-1B visas, green cards and student visas, with Indian professionals and students expected to be among the most affected.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260608182259_H-1B-New.jpg",
-                "url": "https://www.moneycontrol.com/world/trump-eyes-sweeping-h-1b-green-card-and-student-visa-changes-why-indians-could-be-hit-hardest-explained-article-13968329.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-07T16:58:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Government backs African Diplomatic Institutes Network to strengthen continental cooperation",
-                "desc": "The government has reaffirmed its commitment to building a new generation of African diplomats equipped to advance the continent 39;s interests, describing the effort as a strategic investment in Africa 39;s future diplomatic leadership .",
-                "image": "https://cdn.modernghana.com/images/content/77202633648-nsjum8x432-government-backs-afdni.jpeg",
-                "url": "https://www.modernghana.com/news/1508561/government-backs-african-diplomatic-institutes.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-07T16:57:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Catholic Activists Appeal With Ghana to Defend African Charter on Protection of Family against Foreign Attacks",
-                "desc": "Catholic activists at CitizenGo are calling upon the Speaker of the Parliament of Ghana, Hon. Alban Sumana Kingsford Bagbin, to stand firm and defend the African Charter on the Protection of the Family, Sovereignty, and Religious and Cultural Values against foreign attacks.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-07t195501_1783443310.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/22787/catholic-activists-appeal-with-ghana-to-defend-african-charter-on-protection-of-family-against-foreign-attacks",
-                "source": "ACI Africa",
-                "date": "2026-07-07T16:56:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Super Typhoon Bavi gets local name Inday even before entry into PAR",
-                "desc": "PAGASA already raises Signal No. 1 for the northeastern portion of Cagayan on Tuesday evening, July 7, due to the incoming Super Typhoon Inday (Bavi)",
-                "image": "https://www.rappler.com/tachyon/2026/07/inday-satellite-july-7-2026-10pm.png",
-                "url": "https://www.rappler.com/philippines/weather/super-typhoon-inday-update-pagasa-forecast-july-7-2026-11pm/",
-                "source": "Rappler",
-                "date": "2026-07-07T16:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Irish EuroMillions 'missing millionaire' claims £1 million prize",
-                "desc": "The EuroMillions winner from the draw on 24 April 2026, who bought their ticket in Co Tyrone, had not claimed their £1 million prize for months",
-                "image": "https://i2-prod.irishmirror.ie/article37399401.ece/ALTERNATES/s1200d/0_GettyImages-2271837319-1.jpg",
-                "url": "https://www.irishmirror.ie/news/irish-news/irish-euromillions-missing-millionaire-claims-37399402",
-                "source": "Irish Mirror",
-                "date": "2026-07-07T16:54:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qatar says Iran fully responsible after tankers struck in strait of Hormuz",
-                "desc": "Three vessels, including a Qatari LNG carrier, struck within hours close to Oman",
-                "image": "https://i.guim.co.uk/img/media/178d402dcc7aad0bd1b53a3d91c7721ff9701ce6/760_12_3757_3007/master/3757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07a71ae955210a5b987052b648a6d316",
-                "url": "https://www.theguardian.com/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz",
-                "source": "The Guardian",
-                "date": "2026-07-07T16:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mitch McConnell has been hospitalized for three weeks. Here’s what we know.",
-                "desc": "US Sen. Mitch McConnell has been hospitalized for three weeks and it’s still not clear why he was admitted or what his condition is.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-19t215908z-18252750-rc2jclajnpcg-rtrmadp-3-usa-congress-20260707140253616.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/07/politics/mitch-mcconnell-hospitalization-health",
-                "source": "CNN",
-                "date": "2026-07-07T16:51:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philippines to Accept 5 Destroyers from Japan",
-                "desc": "Tokyo, July 7 (Jiji Press)--The Philippines has reached a broad agreement with Japan on the transfer of five A…",
-                "image": "https://www.nippon.com/en/ncommon/contents/news/3035884/3035884.jpg",
-                "url": "https://www.nippon.com/en/news/yjj2026070701085/philippines-to-accept-5-destroyers-from-japan.html",
-                "source": "nippon.com",
-                "date": "2026-07-07T16:49:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Sudan medical evacuations rise as conflict intensifies:ICRC",
-                "desc": "Medical evacuations of wounded South Sudanese rose by 50 percent in the first half of 2026, the International Committee of the Red Cross said on Tuesday, as deadly conflict continued to limit access to healthcare in the country .",
-                "image": "https://cdn.modernghana.com/images/content/afp_most_evacuations_were_carried_out_by_air_to_juba_military_ho.jpg",
-                "url": "https://www.modernghana.com/news/1508616/south-sudan-medical-evacuations-rise-as-conflict.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-07T16:47:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AU urges renewed commitment to Africa’s integration agenda on Africa Integration Day",
-                "desc": "The Chairperson of the African Union (AU) Commission, H . E . Mahmoud Ali Youssouf, has called on African leaders and citizens to renew their commitment towards achieving deeper continental integration amid growing global economic uncertainties .",
-                "image": "https://cdn.modernghana.com/images/content/77202645138-wbrduhgtto-au-commission-chair.jpeg",
-                "url": "https://www.modernghana.com/news/1508591/au-urges-renewed-commitment-to-africas-integratio.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-07T16:47:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T08:00:49.279361Z"
+    "lastGlobalSync": "2026-07-08T08:40:47.793036Z"
 }
