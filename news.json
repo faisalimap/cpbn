@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Slower pace sees more Americans eye 'laid-back' Kiwi lifestyle",
+                "desc": "According to Robert Yang who has been living in New Zealand with his Kiwi partner since 2020, Aotearoa is a distant mysterious land to many Americans.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--nQzGKTcF--/t_tohu-badge-facebook/f_auto/q_auto/4JLTDML_RobertYang_headshot_full_1_jpg",
+                "url": "https://www.rnz.co.nz/news/community/685793/slower-pace-sees-more-americans-eye-laid-back-kiwi-lifestyle",
+                "source": "RNZ",
+                "date": "2026-07-08T00:34:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korea's Hottest Dating Prospects? Memory Workers Flush With Bonus Cash",
+                "desc": "South Koreans are now joking the best outfit on a first date is an SK Hynix uniform.",
+                "image": "https://i.pcmag.com/imagery/articles/07AHQlTRllwynZ2KL7UnNCZ-1.fit_lim.size_1200x630.v1783424039.jpg",
+                "url": "https://www.pcmag.com/news/south-koreas-hottest-dating-prospects-memory-workers-flush-with-bonus-cash",
+                "source": "PCMag",
+                "date": "2026-07-08T00:33:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "11% of Americans Are Currently Taking a GLP-1 Weight Loss Drug Like Wegovy",
+                "desc": "15% of Americans have ever taken the drugs, up from 6% in 2024.",
+                "image": "https://gizmodo.com/app/uploads/2025/06/wegovy-1200x675.jpg",
+                "url": "https://gizmodo.com/11-of-americans-are-currently-taking-a-glp-1-weight-loss-drug-like-wegovy-2000782666",
+                "source": "Gizmodo",
+                "date": "2026-07-08T00:30:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe Needs Control, Not Autarky: A New Test for European Industrial Autonomy",
+                "desc": "Europe’s green transition depends on foreign-controlled supply chains Factories alone do not create industrial autonomy Selective de-risking is stronger than full decoupling In 2024, China supplied 98 per",
+                "image": "https://economy.ac/sites/default/files/image/2026/07/Europe%20Needs%20Control%2C%20Not%20Autarky_20260706_ECON.jpg",
+                "url": "https://economy.ac/review/2026/07/202607289491",
+                "source": "economy.ac",
+                "date": "2026-07-08T00:26:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chaos in Australia as Telstra outage halts internet, phones, trains",
+                "desc": "The telco that powers about 25 million mobile services across the country confirmed it was looking into the issue impacting \"some mobile calls and data connections\".",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/wifi-sign-of-telstra-air-wifi-hotspot-in-sydney-WJ75EHAQVVARZP63Q6YLG6QFDQ.jpg?auth=eed9f2d71f7fa7a5b530c2c5a18bc4bdb4a15222cc4a7478d90b2b69dc2e8247&quality=70&width=600&height=315&focal=1061%2C597",
+                "url": "https://www.1news.co.nz/2026/07/08/chaos-in-australia-as-telstra-outage-halts-internet-phones-trains/",
+                "source": "1News",
+                "date": "2026-07-08T00:20:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CZR Exchange Unveils AI-Powered CZR Wallet to Advance Self-Custody and Web3 Accessibility",
+                "desc": "Standalone AI-powered wallet combines intelligent portfolio management, multi-chain support, and self-custody to simplify the Web3 experience",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1128618.jpg",
+                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/czr-exchange-unveils-ai-powered-czr-wallet-to-advance-self-custody-and-web3-accessibility/2380409",
+                "source": "The Manila Times",
+                "date": "2026-07-08T00:18:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Wednesday, July 8",
+                "desc": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/erikkain/2026/07/07/nyt-pips-answers-wednesday-july-8/",
+                "source": "Forbes",
+                "date": "2026-07-08T00:17:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India moves up 2 places in FDI inflow ranking",
+                "desc": "India Business News: New Delhi: India moved up two places to emerge as the 11th biggest recipient of foreign direct investment (FDI in 2025, with inflows jumping 44% to $3.",
+                "image": "https://static.toiimg.com/thumb/msid-132251073,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/business/india-business/india-moves-up-2-places-in-fdi-inflow-ranking/articleshow/132251071.cms",
+                "source": "The Times of India",
+                "date": "2026-07-08T00:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CBN crackdown to spur microfinance consolidation, deposit sh",
+                "desc": "The CBN's recent crackdown on microfinance banks, revoking 46 licenses, is expected to drive consolidation and shift deposits, strengthening Nigeria's fina",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/CBN-headquarters.webp",
+                "url": "https://punchng.com/cbn-crackdown-to-spur-microfinance-consolidation-deposit-shift/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-08T00:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Circle Internet Group Stock Lost 45% Last Month",
+                "desc": "Circle Internet Group stock crashed 45% in June. A new stablecoin rival and Bitcoin jitters made it a rough month.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877914%2Fcrcl-circle-internet-logo-purple.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/07/how-circle-internet-group-stock-lost-45-last-month/",
+                "source": "The Motley Fool",
+                "date": "2026-07-08T00:11:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Why the AI Boom Is About to Break the U.S. Power Grid",
                 "desc": "The U.S. power grid was built for a 20th-century economy and cannot deliver what the AI boom requires. A handful of companies that secured power capacity outside the American grid are about to look very different from the way they do today.",
                 "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_rs2albwe6v.jpg",
@@ -542,99 +632,99 @@
                 "source": "MarketForces Africa",
                 "date": "2026-07-07T20:58:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Jacana customers speak out about delayed power bills and huge discrepancies in charges",
-                "desc": "A single mother of six young children is paying off a $6,000 power bill after the Northern Territory's main energy retailer failed to send her a bill for almost 12 months. She's among thousands of Jacana Energy customers facing significant bills.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/a2a4785ea6307b01ba4a1026f0e7b6bd?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=45&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-08/nt-jacana-customers-delayed-expensive-bills-power-water/106885966",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-07T20:57:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The carbon emission reduction effect of green bond issuance: evidence from China",
-                "desc": "This paper examines green-bond issuance from two perspectives: the marketization of green finance and the application of government policies. Using Chinese provincial-level panel data (2007–2021), we apply a two-way fixed-effects model, a continuous difference-in-differences model, a mediation-effects framework, and Qualitative Comparative Analysis to systematically evaluate the carbon-reducing effect of green bond issuance and to test whether low-carbon pilot policies amplify this effect. The results show that green-bond issuance significantly lowers regional carbon intensity; the reduction is more pronounced in sparsely populated provinces, in regions with higher financial development, and among privately owned enterprises. Mechanism analysis reveals that green-bond issuance reduces carbon intensity through two mediated channels: green-technology innovation and industrial-structure upgrading. The mediation effect via green-technology innovation is further moderated by financing cost. Additional analysis demonstrates that the nationwide implementation of low-carbon pilot policies markedly stimulates green-bond issuance and thereby strengthens the carbon-reduction effect. Our findings corroborate the role of green bonds, a vital green-finance instrument, in reconciling economic growth with environmental protection, and this paper provides both empirical and theoretical support for implementing the green and low-carbon development strategy and for deepening the green-finance reform.",
-                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41599-026-08223-7?error=cookies_not_supported&code=cbaf4375-1005-49f5-9af9-385c5e2fce53",
-                "source": "Nature",
-                "date": "2026-07-07T20:56:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
-                "desc": "SpaceX joins Nasdaq-100 after IPO, bypassing traditional three-month trading rule for inclusion in the tech-heavy index.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4d5f37-1783455543.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one",
-                "source": "Al Jazeera",
-                "date": "2026-07-07T20:55:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Halifax police seeking man who yelled racial slurs, threats at family in Costco",
-                "desc": "The man then approached another customer and assaulted him, police said in a news release Tuesday. Police said hate is believed to be a motivating factor in the attack.",
-                "image": "https://i.cbc.ca/ais/2f357615-f766-4a48-bcda-95c7010de847,1783445333970/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C396%2C222%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/nova-scotia/costco-shoppers-threatened-by-man-at-halifax-store-9.7261445",
-                "source": "CBC",
-                "date": "2026-07-07T20:55:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Crude Oil, Product Inventories Fall Even As Hormuz Traffic Begins to Flow",
-                "desc": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by 399,000 barrels in the week ending July 3",
-                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-07_p1yclyidzv.jpg",
-                "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Product-Inventories-Fall-Even-As-Hormuz-Traffic-Begins-to-Flow.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-07T20:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Claude and ChatGPT Are Getting Too Expensive, Even for Microsoft",
-                "desc": "The tech giant is reportedly using its own AI models for some AI prompts in its Excel and Outlook software.",
-                "image": "https://gizmodo.com/app/uploads/2026/06/MicrosoftBuild2026-1200x675.jpg",
-                "url": "https://gizmodo.com/claude-and-chatgpt-are-getting-too-expensive-even-for-microsoft-2000782601",
-                "source": "Gizmodo",
-                "date": "2026-07-07T20:45:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ajaokuta Steel secures 20-year gas supply deal with NNPC",
-                "desc": "The Managing Director and Chief Executive Officer of Ajaokuta Steel Company Limited, Prof. Nasir Abdulsalam, has secured a major milestone in",
-                "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/Ajaokuta-Steel-deal.jpeg",
-                "url": "https://tribuneonlineng.com/ajaokuta-steel-secures-20-year-gas-supply-deal-with-nnpc/",
-                "source": "Tribune Online",
-                "date": "2026-07-07T20:45:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vertex Eyes Expansion Beyond Cystic Fibrosis with Planned $10B Crinetics Buyout",
-                "desc": "Vertex Pharmaceuticals has agreed to acquire Crinetics Pharmaceuticals for $10 billion cash, in a deal that would expand the buyer’s rare disease portfolio beyond its anchor indication of cystic fibrosis, by adding an approved treatment and a pipeline anchored by two Phase III candidates, all predicted to generate more than $5 billion in annual revenue.",
-                "image": "https://www.genengnews.com/wp-content/uploads/2026/07/CRINETICS-HQ-22222-default.jpg",
-                "url": "https://www.genengnews.com/topics/translational-medicine/vertex-eyes-expansion-beyond-cystic-fibrosis-with-planned-10b-crinetics-buyout/",
-                "source": "Genetic Engineering and Biotechnology News",
-                "date": "2026-07-07T20:41:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Telstra users report mobile network has crashed across Australia",
-                "desc": "Telstra customers, as well as customers of mobile providers that use Telstra's network, have flooded outage detection websites with reports.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/450f4ab00359f0109c80ab3fef6d1598?impolicy=wcms_watermark_news&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-08/telstra-mobile-network-outage-wednesday-morning-july-8/106891176",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-07T20:37:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stretford Hill restates commitment to strong institutions",
-                "desc": "Stretford Hill Limited has reaffirmed commitment to strengthening institutions that enable sustainable infrastructure development through its",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/07/IMG-20260707-WA0021.jpg",
-                "url": "https://guardian.ng/news/stretford-hill-restates-commitment-to-strong-institutions-nba-law-week/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-07T20:36:33Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Why WooCommerce Remains a Popular Choice for Online Stores",
+                "desc": "WooCommerce continues to be one of the most popular eCommerce solutions for online stores worldwide. Built on WordPress, it combines flexibility, scalability,",
+                "image": "https://www.tech-critter.com/wp-content/uploads/2026/07/pexels-photo-7054753.webp",
+                "url": "https://www.tech-critter.com/why-woocommerce-remains-a-popular-choice-for-online-stores/",
+                "source": "Tech Critter",
+                "date": "2026-07-08T00:39:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As AI Moves Into the Physical World, Humanity & AGI Summit 2026 Brings Global Leaders to Stanford",
+                "desc": "STANFORD, CA, July 07, 2026 (GLOBE NEWSWIRE) -- The AI Robotics Alliance of America, known as AIRA, will host the Humanity & AGI Summit 2026 on Sunday, July 12, at the Stanford Faculty Club, bringing together leading voices from artificial intelligence, robotics, science, public policy, venture capital and global thought leadership.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1128655.png",
+                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/as-ai-moves-into-the-physical-world-humanity-agi-summit-2026-brings-global-leaders-to-stanford/2380419",
+                "source": "The Manila Times",
+                "date": "2026-07-08T00:38:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "S/C: Porsche’s first 911 GT3 cabriolet tested",
+                "desc": "Speedster was loved but Porsche says GT customers wanted an easier roof",
+                "image": "https://www.goauto.com.au/images/fc9b638d31cb4d9ba929d7dbeb4d8d8404e79371.jpg",
+                "url": "https://www.goauto.com.au/news/porsche/speedster/s-c-porsche-rsquo-s-first-911-gt3-cabriolet-tested/2026-07-08/99771.html",
+                "source": "goauto.com.au",
+                "date": "2026-07-08T00:37:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brick Review: Adding a physical roadblock to end your doom-scrolling",
+                "desc": "Brick introduces a physical plastic key to digital wellness, adding a layer of real-world friction to easily bypassed screen limits.",
+                "image": "https://eftm.com/wp-content/uploads/2026/07/PXL_20260706_063251961-scaled.jpg",
+                "url": "https://eftm.com/2026/07/brick-review-adding-a-physical-roadblock-to-end-your-doom-scrolling-277956",
+                "source": "EFTM",
+                "date": "2026-07-08T00:35:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Meets Retouching: Claude Interviews Renowned International Retoucher Matt Supple",
+                "desc": "AI interviewing a human about AI — it had to happen eventually. Claude sits down with renowned retoucher Matt Supple to talk workflow, ethics, and the tools reshaping the industry.\nQ1: How do you see AI image generation enhancing your workflow as a retoucher?\nI've been using AI heavily in my wor",
+                "image": "https://campaignbrief.com/wp-content/uploads/2026/07/Matt-Supple-Claude-QA.jpg",
+                "url": "https://campaignbrief.com/ai-meets-retouching-claude-interviews-renowned-international-retoucher-matt-supple/",
+                "source": "Campaign Brief",
+                "date": "2026-07-08T00:32:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Meets Retouching: Claude Interviews Renowned International Retoucher Matt Supple",
+                "desc": "AI interviewing a human about AI — it had to happen eventually. Claude sits down with renowned retoucher Matt Supple to talk workflow, ethics, and the tools reshaping the industry.\nQ1: How do you see AI image generation enhancing your workflow as a retoucher?\nI've been using AI heavily in my wor",
+                "image": "https://campaignbrief.co.nz/wp-content/uploads/sites/4/2026/07/Matt-Supple-Claude-QA.jpg",
+                "url": "https://campaignbrief.co.nz/2026/07/08/ai-meets-retouching-claude-interviews-renowned-international-retoucher-matt-supple/",
+                "source": "Campaign Brief NZ",
+                "date": "2026-07-08T00:32:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Grand Seiko Ushio 300 Diver: Tide-inspired watch",
+                "desc": "Explore the Grand Seiko Ushio 300 Diver, a Spring Drive watch inspired by Japan's tides and crafted with precision and beauty.",
+                "image": "https://cassette.sphdigital.com.sg/image/thepeak/1632b5823961504dddfebe2d76f906964bedabc61452ad3525d94ba736dc15fd",
+                "url": "https://www.thepeakmagazine.com.sg/watch-jewellery/grand-seiko-ushio-journey?ref=titlestacked",
+                "source": "PEAK Singapore",
+                "date": "2026-07-08T00:25:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google officially reveals when it's launching the Pixel 11 series",
+                "desc": "The latest rumor was off by just one day. Mere hours ago a rumor claimed Google would, rather fittingly, (considering the naming) be unveiling the Pixel 11...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-event-date/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/google_officially_reveals_when_its_launching_the_pixel_11_series-news-73620.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-08T00:12:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung to get jump on Apple's first foldable with new phones in July",
+                "desc": "The Galaxy Unpacked event will be in London Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/fe65fe5b98fdf4e73d66123066d25cdd92bcae71432fbc4f1db4ad4212f6b286?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-get-jump-apples-first-foldable-new-phones-july",
+                "source": "The Business Times",
+                "date": "2026-07-08T00:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazfit's Screenless Wearable Tracks Fitness With an Added Waist Motion Sensor",
+                "desc": "The Helio Strap Pro was designed for Hyrox and hybrid athletes who want in-depth training insights.",
+                "image": "https://www.cnet.com/a/img/resize/95eab65de5df0883732db7b9d092274d484fc6ed/hub/2026/07/07/aac04230-85b6-4f2c-ac7f-9cb52e425792/amazfit-helio-strap-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/amazfit-helio-strap-pro/",
+                "source": "CNET",
+                "date": "2026-07-08T00:08:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Dolby Atmos wins over DTS:X for now - but the war isn't over",
                 "desc": "The war isn't over, but DTS is under heavy siege.",
@@ -1174,99 +1264,36 @@
                 "source": "TechPowerUp",
                 "date": "2026-07-07T20:42:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "City Labs Launches Small Sat Demonstrator With Nuclear Battery",
-                "desc": "City Labs has launched a nuclear-battery powered cubesat into orbit from the SpaceX Transporter-17 rideshare mission.",
-                "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
-                "url": "https://aviationweek.com/space/satellites/city-labs-launches-small-sat-demonstrator-nuclear-battery",
-                "source": "Aviation Week",
-                "date": "2026-07-07T20:40:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple iPhone 18 Pro and Pro Max's battery details surface in regulatory filings",
-                "desc": "Their batteries are bigger than their predecessors'. A recent rumor claimed that the Apple iPhone 18 Pro Max's eSIM model will pack a 5,425 mAh battery,...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-iphone-18-pro-pro-max-battery-capacity-3c-certification/-952x498w6/gsmarena_001.jpg",
-                "url": "https://www.gsmarena.com/apple_iphone_18_pro_iphone_18_pro_max_battery_capacity_3c_certification-news-73603.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-07T20:39:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel 11 Leak Hints at Higher Prices, New Colors and More Storage",
-                "desc": "While Google's official Pixel 11 unveiling is next month, several key features of the next Android phone may have been revealed early.",
-                "image": "https://www.cnet.com/a/img/resize/67f892782922eb14095b764d2949fdedbb6665f6/hub/2025/08/27/53e0ad41-ddd8-4387-ad5e-feb68485bd0c/pixel-10-pro-xl-review-test-cnet-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/mobile/google-pixel-11-leak-hints-at-higher-prices-new-colors-and-more-storage/",
-                "source": "CNET",
-                "date": "2026-07-07T20:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We Need Planetary Intelligence in the Age of AI",
-                "desc": "Will Marshall, CEO of Planet Labs, argues that planetary intelligence is the key to aligning AI with the best interests of humans.",
-                "image": "https://s.yimg.com/ny/api/res/1.2/mRRkYyiumGMZDEdqFLQ8LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/time_72/20ba5c21daa50cdc09a8ed1889a3f47f",
-                "url": "https://malaysia.news.yahoo.com/planetary-intelligence-age-ai-203559136.html",
-                "source": "Yahoo",
-                "date": "2026-07-07T20:35:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We Need Planetary Intelligence in the Age of AI",
-                "desc": "Will Marshall, CEO of Planet Labs, argues that planetary intelligence is the key to aligning AI with the best interests of humans.",
-                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-                "url": "https://www.aol.com/articles/planetary-intelligence-age-ai-203559000.html",
-                "source": "AOL.com",
-                "date": "2026-07-07T20:35:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Warhammer 40,000: Rogue Trader on Switch 2: Major Update and Free DLCs",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Warhammer-40000-Rogue-Trader-on-Switch-2-Major-Update-and-Free-DLCs",
-                "source": "Games Press",
-                "date": "2026-07-07T20:33:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Physical Games Are Going Away, but Call of Duty Is On PlayStation Plus This Month. That's Nice, Right?",
-                "desc": "All PS Plus subscribers can play Modern Warfare 3, CrossCode and more throughout July.",
-                "image": "https://www.cnet.com/a/img/resize/279451e79027f7621bebe5a1b00a6948cb56c686/hub/2026/07/01/02630516-0ea3-4360-bd8f-1a5dce2f780c/screenshot-2026-07-01-at-2-40-57pm.png?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/gaming/physical-games-are-going-away-but-call-of-duty-is-on-playstation-plus-this-month-thats-nice-right/",
-                "source": "CNET",
-                "date": "2026-07-07T20:31:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "9 Rhythm Heaven Groove Games That Made Me Want To Scream",
-                "desc": "In order of how close I got to actually doing it",
-                "image": "https://kotaku.com/app/uploads/2026/07/1000008531.jpg",
-                "url": "https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407",
-                "source": "Kotaku",
-                "date": "2026-07-07T20:30:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Escape the Kitchen Sink in Sponge Break",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Escape-the-Kitchen-Sink-in-Sponge-Break",
-                "source": "Games Press",
-                "date": "2026-07-07T20:28:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marvel Rivals Completely Reworks Team-Ups In Biggest Update Yet",
-                "desc": "Marvel Rivals has completely reworked how Team-Ups work in what is proving to be the biggest update for the game yet.",
-                "image": "https://insider-gaming.com/wp-content/uploads/2026/07/Marvel-Rivals-Apocalypse.jpg",
-                "url": "https://insider-gaming.com/marvel-rivals-completely-reworks-team-ups-in-biggest-update-yet/",
-                "source": "Insider Gaming",
-                "date": "2026-07-07T20:24:15Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Anantara Stanley & Livingstone Enhances Safari Offering with New Pool Suites and Spa Gazebo",
+                "desc": "Anantara Stanley & Livingstone Hotel has enhanced its safari offering with two new Pool Suites and a Spa Gazebo, adding private wellness and accommodation experiences within the Victoria Falls Private Game Reserve.",
+                "image": "https://www.hospitalityandcateringnews.com/wp-content/uploads/2026/07/anantara-stanley-livingstone-enhances-safari-offering-with-new-pool-suites-and-spa-gazebo.jpg",
+                "url": "https://www.hospitalityandcateringnews.com/2026/07/anantara-stanley-livingstone-enhances-safari-offering-with-new-pool-suites-and-spa-gazebo/",
+                "source": "Hospitality & Catering News",
+                "date": "2026-07-08T00:11:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Donald Trump makes fresh demands for Greenland at NATO summit",
+                "desc": "The president has threatened to pull all US troops out of Europe if he doesn’t get his way.",
+                "image": "https://static.ffx.io/images/$zoom_0.7915%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_24/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/e622a2106809cf9879820ad7f1b4167b4b8fd868",
+                "url": "https://www.nine.com.au/world-news/usa/donald-trump-makes-fresh-demands-for-greenland-at-nato-summit-20260708-p60djc.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-08T00:08:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "“If I were China”: A different way of thinking about Myanmar",
+                "desc": "Realpolitik will decide Myanmar’s fate – democratic advocates must speak to interests, not ideals, to gain international support.",
+                "image": "https://cdn.sanity.io/images/5dcouzig/production/de841e35dd96bcd324b89597e34d2dfcd844b266-3872x2592.jpg?rect=0,280,3872,2033&w=1200&h=630&fm=webp&q=85&fit=crop",
+                "url": "https://www.lowyinstitute.org/the-interpreter/if-i-were-china-a-different-way-of-thinking-about-myanmar",
+                "source": "Lowy Institute",
+                "date": "2026-07-08T00:03:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Cardinal López of Rabat, Morocco, Temporarily Steps Aside from Ministry Due to Abuse Investigation",
                 "desc": "Cardinal Cristóbal López Romero asserted his innocence in a brief statement carried by the EFE news agency. \"I have not committed any assault, violence, or sexual harassment,\" he said.",
@@ -1869,35 +1896,8 @@
                 "source": "PBS",
                 "date": "2026-07-07T19:52:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia becomes first foreign customer of India’s Astra air missile",
-                "desc": "Defence News: In a big boost for make-in-India weapons, Indonesia has become the first foreign customer of the country’s highly-advanced beyond-visual-range air-to-.",
-                "image": "https://static.toiimg.com/thumb/msid-132248589,width-1280,height-720,imgsize-2754739,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/defence/indonesia-becomes-first-foreign-customer-of-indias-astra-air-missile/articleshow/132248598.cms",
-                "source": "The Times of India",
-                "date": "2026-07-07T19:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IRCC publishes updated distribution of Express Entry candidate scores",
-                "desc": "The number of top-scoring candidate profiles in the Express Entry pool has fallen from 20,953 to 19,136, according to the latest data published by Canada’s immigration department. See how competitive your Express Entry profile is The most recent data was published on July 5, and compares as follows to the update published on June 21:",
-                "image": "https://www.cicnews.com/wp-content/uploads/2026/07/Express-Entry-pool-distribution.jpg",
-                "url": "https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html",
-                "source": "CIC News",
-                "date": "2026-07-07T19:48:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Security Threats: Joy Mba urges global protection for seafarers",
-                "desc": "As the global maritime community commemorated the 2026 Day of the Seafarer, maritime safety advocate and marine professional, Joy Uchechuku",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/07/fast1898.webp",
-                "url": "https://guardian.ng/business-services/maritime/security-threats-joy-mba-urges-global-protection-for-seafarers/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-07T19:48:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T12:00:50.739966Z"
+    "lastGlobalSync": "2026-07-08T12:40:43.212540Z"
 }
