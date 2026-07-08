@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code Before Production",
+                "desc": "Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to assess code changes and autonomously test software before",
+                "image": "https://res.infoq.com/news/2026/07/aws-devops-ai-agent/en/headerimage/generatedHeaderImage-1783328078228.jpg",
+                "url": "https://www.infoq.com/news/2026/07/aws-devops-ai-agent/",
+                "source": "infoq.com",
+                "date": "2026-07-07T12:00:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Govt to Sell 19 Vehicles from as Low as KSh 30k in Mega July Auction",
+                "desc": "The ODPP has announced a public auction of 19 unserviceable vehicles and surplus assets on July 22, 2026. Items include cars, motorcycles, and office equipment.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/27085bac2956a443.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/business-economy/631734-odpp-auction-19-vehicles-assorted-assets-reserve-prices-ksh30000/",
+                "source": "Tuko News",
+                "date": "2026-07-07T12:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hesai Technology expands in U.S. despite Pentagon blacklist",
+                "desc": "Hesai Technology was blacklisted as a national security threat in 2024 by the U.S. Department of Defense, which designated Hesai as a Chinese military entity.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108330328-1783028729085-Hesai_Lidar_3.jpg?v=1783365624&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
+                "source": "CNBC",
+                "date": "2026-07-07T12:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Starlink halts new sign-ups in seven counties as capacity exhausted",
+                "desc": "Unlike fibre operators that expand capacity by laying additional cables, satellite providers depend on available bandwidth from orbiting satellites serving specific geographical regions.",
+                "image": "https://www.businessdailyafrica.com/resource/image/5520004/landscape_ratio3x2/1200/800/6deeb99ef6d1f98b91331f9778bc03bf/PS/starlink.jpg",
+                "url": "https://www.businessdailyafrica.com/bd/corporate/companies/starlink-halts-new-sign-ups-in-seven-counties-5519990",
+                "source": "Business Daily",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sustainable oyster meat extract may reduce human intestinal inflammation",
+                "desc": "Ongoing research provides evidence that readily-available and sustainable oyster meat extract may have powerful anti-inflammatory effects on human intestinal cells.",
+                "image": "https://www.news-medical.net/image-handler/picture/2017/2/Crude_meat_on_a_white_background_-_Domnitsky_3710a2987d204d4eb5a138cf40b1b9bc-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20260707/Sustainable-oyster-meat-extract-may-reduce-human-intestinal-inflammation.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-07T11:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bank of Israel intervenes in forex trading again",
+                "desc": "The Bank of Israel bought foreign currency worth over $1 billion in June to moderate the strengthening of the shekel.",
+                "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1768834683/COT_Pic/800_a9bapo.jpg",
+                "url": "https://en.globes.co.il/en/article-bank-of-israel-intervenes-in-forex-trading-again-1001548114",
+                "source": "Globes - Israel Business News",
+                "date": "2026-07-07T11:57:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BlackRock to launch Nasdaq-100 ETF, challenging Invesco's dominance as AI rally boosts demand",
+                "desc": "July 7 (Reuters) - BlackRock said ⁠on Tuesday it would launch an exchange-traded fund tracking the ⁠technology-heavy Nasdaq-100 index, as it seeks to tap surging investor demand ‌for exposure to the AI-driven stock market rally.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3997487.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/07/blackrock-to-launch-nasdaq-100-etf-challenging-invesco039s-dominance-as-ai-rally-boosts-demand",
+                "source": "The Star",
+                "date": "2026-07-07T11:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 Tata Sierra EV On-Road Prices: Ex-showroom, TCS, Insurance, Road Tax, And Registration Fees",
+                "desc": "The Sierra EV AWD costs Rs 27.42 lakhs (Mumbai) on-road, which puts it in competition with higher-segment cars as well.",
+                "image": "https://stimg2.cardekho.com/images/carNewsimages/userimages/36271/1783425070370/GeneralNew.jpg",
+                "url": "https://www.cardekho.com/india-car-news/tata-sierra-ev-onroad-prices-check-how-much-the-sierra-ev-costs-in-indias-top-cities-36272.htm",
+                "source": "CarDekho",
+                "date": "2026-07-07T11:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Online gamblers betting more than £1,000 to face new checks",
+                "desc": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce95/live/96ae89e0-79f7-11f1-bb84-55f328ecb8d7.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno",
+                "source": "BBC",
+                "date": "2026-07-07T11:47:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "High-spending online gamblers to face financial risk checks",
+                "desc": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ce95/live/96ae89e0-79f7-11f1-bb84-55f328ecb8d7.jpg",
+                "url": "https://www.bbc.com/news/articles/cqj1xvy44xno",
+                "source": "BBC",
+                "date": "2026-07-07T11:47:50Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Judge’s absence stalls Dangote Refinery’s suit",
                 "desc": "Proceedings in the suit filed by Dangote Petroleum Refinery against the Federal Government over the alleged issuance of fuel import licences to some petroleum marketers were on Monday stalled following the absence of the presiding judge, Justice Chukwujekwu Aneke of the Federal High Court, Lagos.",
                 "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2025/04/image-167.webp",
@@ -542,99 +632,99 @@
                 "source": "TechCrunch",
                 "date": "2026-07-06T23:56:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
-                "desc": "With the right strategic commitments, the Asia-Pacific region could become a central exporter of medical innovation.",
-                "image": "https://www.bain.com/contentassets/94140d01b05d4912a207632911eefcd9/44873-gettyimages-2171748597-16-9.jpg",
-                "url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave/",
-                "source": "Bain & Company",
-                "date": "2026-07-06T23:55:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung profits jump 1,800% as AI chip sales soar",
-                "desc": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63fa/live/777f2260-78cf-11f1-99f6-757fc101c54a.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo",
-                "source": "BBC",
-                "date": "2026-07-06T23:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The power-hungry appliances that might be costing you money",
-                "desc": "Consumer NZ says having one of each major appliance will add about $30 a month to household power bills.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fridge-generic-istock-HZL6TCFU5FEX7BBMEIUI4QDSPY.jpg?auth=335c2b070bb235d8d2178738ef792b03ed4aa9daefd9b737c24ff2d52d498825&quality=70&width=600&height=315&focal=683%2C239",
-                "url": "https://www.1news.co.nz/2026/07/07/the-power-hungry-appliances-that-might-be-costing-you-money/",
-                "source": "1News",
-                "date": "2026-07-06T23:51:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firm CPO prices keep sector positive",
-                "desc": "PETALING JAYA: The plantation sector's second half of the year (2H26) outlook remains positive, underpinned by firm crude palm oil (CPO) prices.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996267.jpg",
-                "url": "https://www.thestar.com.my/business/business-news/2026/07/07/firm-cpo-prices-keep-sector-positive",
-                "source": "The Star",
-                "date": "2026-07-06T23:39:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "off pitched to revamp The Block",
-                "desc": "A wild pitch to fix the reality renovation show’s growing problem with auction flops could end its “property porn with a stopwatch” reputation.",
-                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_1c343f32c9c75671f261e96bd98423ca_04fe32645838e0b68d9196cf16901d7a.jpeg",
-                "url": "https://www.realestate.com.au/news/radical-spinoff-pitched-to-revamp-the-block/",
-                "source": "realestate.com.au",
-                "date": "2026-07-06T23:33:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon bars breastfeeding mum from business course",
-                "desc": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fbef/live/e08a6570-79d4-11f1-a400-b302bc872d47.jpg",
-                "url": "https://www.bbc.com/news/articles/cp9llgg5k8ro",
-                "source": "BBC",
-                "date": "2026-07-06T23:31:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon bars breastfeeding mum from business course",
-                "desc": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbef/live/e08a6570-79d4-11f1-a400-b302bc872d47.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro",
-                "source": "BBC",
-                "date": "2026-07-06T23:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Banks accused of failing most vulnerable customers",
-                "desc": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89f4/live/6a2491e0-7942-11f1-bfee-d367081f1131.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o",
-                "source": "BBC",
-                "date": "2026-07-06T23:29:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Banks accused of failing most vulnerable customers",
-                "desc": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/89f4/live/6a2491e0-7942-11f1-bfee-d367081f1131.jpg",
-                "url": "https://www.bbc.com/news/articles/cgl33dyk7y9o",
-                "source": "BBC",
-                "date": "2026-07-06T23:29:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Metrocon eyes SGX listing through Hatten takeover",
-                "desc": "SINGAPORE: A construction and engineering firm could soon make its Singapore Exchange (SGX) debut by taking over the Catalist listing of embattled Hatten Land.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996240.jpg",
-                "url": "https://www.thestar.com.my/business/business-news/2026/07/07/metrocon-eyes-sgx-listing-through-hatten-takeover",
-                "source": "The Star",
-                "date": "2026-07-06T23:29:32Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Chinese researchers find a peephole to any smartphone in its leaked radio signal",
+                "desc": "Authorities could be able to determine which apps are being used by analysing faint electromagnetic signals emitted as the device operates.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/07/3e990e3e-b28a-4d19-8167-b8a0771aaf96_b3ec883b.jpg?itok=sUrasxmu&v=1783401185",
+                "url": "https://www.scmp.com/news/china/science/article/3359688/chinese-researchers-find-peephole-any-smartphone-its-leaked-radio-signal",
+                "source": "South China Morning Post",
+                "date": "2026-07-07T12:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2027 Porsche 911 GT3 S/C First-Drive Review: The Ultimate 911, Actually",
+                "desc": "All the engagement of a Porsche 911 GT3, with all the thrill of sky and sound. What more could you want?",
+                "image": "https://www.thedrive.com/wp-content/uploads/2026/07/Porsche-911-GT3-SC-02.png?w=1200",
+                "url": "https://www.thedrive.com/car-reviews/2027-porsche-911-gt3-s-c-first-drive-review",
+                "source": "The Drive",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Porsche 911 GT3 S/C review: a 9,000rpm nat-asp flat-six and no roof…",
+                "desc": "Porsche’s GT department has finally made a proper cabrio, and unsurprisingly it’s really rather special",
+                "image": "https://www.topgear.com/sites/default/files/images/cars-road-test/2026/07/8e67e22f4363bafff49e2995c522ca23/S-GO_5105_012.jpg?w=1280&h=720",
+                "url": "https://www.topgear.com/car-reviews/porsche/911-992-gt-cabriolet-2026/gt3-sc-2dr/first-drive",
+                "source": "Top Gear",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These 32 Classic Arcade Games Are Coming to PS5 Across Two New Compilations",
+                "desc": "Insert coin - Publisher Gravity Game Arise will be bringing an impressive 32 classic 80s and 90s Jaleco arcade games to the PS5 this winter, as part of two c...",
+                "image": "https://images.pushsquare.com/e532dd8977533/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/these-32-classic-arcade-games-are-coming-to-ps5-across-two-new-compilations",
+                "source": "Push Square",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX just launched the 1st-ever nuclear-powered commercial satellite",
+                "desc": "A satellite aboard SpaceX's Transporter-17 rideshare mission is the first commercially designed and operated spacecraft to harness nuclear energy in orbit.",
+                "image": "https://cdn.mos.cms.futurecdn.net/mdeHisEKWAxDhVWUyC6HrB-1660-80.jpg",
+                "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-launched-the-1st-ever-nuclear-powered-commercial-satellite",
+                "source": "Space",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marshall Reveals Next-Generation Acton And Stanmore Wireless Speakers",
+                "desc": "Marshall has updated its Acton and Stanmore wireless Bluetooth speakers by adding Auracast technology and an improved sound that delivers a wider stereo soundstage.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4bb125d27a4e111c27f3fd/0x0.jpg?format=jpg&crop=879,631,x258,y210,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/marksparrow/2026/07/07/marshall-reveals-next-generation-acton-and-stanmore-wireless-speakers/",
+                "source": "Forbes",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marshall upgrades the bass and repairability of two wireless speakers",
+                "desc": "You can replace several parts on Marshall’s new Acton IV and Stanmore IV Bluetooth speakers, including the front grill.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/marshall_speaker1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+                "url": "https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair",
+                "source": "The Verge",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Barracuda Acquires Evo Security To Expand Identity Protection For MSPs: Exclusive",
+                "desc": "Barracuda is acquiring Evo Security to help MSPs sell and deploy identity security.",
+                "image": "https://www.crn.com/news/security/2026/media_1d628c6b313f641848fd3284b8a5f3e6db16d75a4.png?width=1200&format=pjpg&optimize=medium",
+                "url": "https://www.crn.com/news/security/2026/barracuda-acquires-evo-security-to-expand-identity-protection-for-msps-exclusive",
+                "source": "crn.com",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marshall's Acton IV And Stanmore IV Speakers Come With Customizable Buttons",
+                "desc": "Marshall has launched its next-generation vintage-inspired Acton and Stanmore speakers.",
+                "image": "https://www.engadget.com/img/gallery/marshalls-acton-iv-and-stanmore-iv-speakers-come-with-customizable-m-buttons/l-intro-1783418572.jpg",
+                "url": "https://www.engadget.com/2209353/marshall-acton-iv-stanmore-iv-speakers/",
+                "source": "Engadget",
+                "date": "2026-07-07T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kling AI spotlights advances in AI video through global competition",
+                "desc": "Kling AI, the artificial intelligence (AI) video arm of Chinese short‑form giant Kuaishou, held its NEXTGEN Awards Ceremony on Tuesday, spotlightin...",
+                "image": "https://newsimg.koreatimes.co.kr/2026/07/07/eaf137ef-2c97-4793-9503-9f95ae846e70.png",
+                "url": "https://www.koreatimes.co.kr/business/tech-science/20260707/kling-ai-spotlights-advances-in-ai-video-through-global-competition",
+                "source": "The Korea Times",
+                "date": "2026-07-07T11:58:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Style Edit: Omega watch elegance for your summer wardrobe",
                 "desc": "These Aqua Terra and Constellation models capture sunny elegance with smaller, more jewellery-like cases and striking colours.",
@@ -1174,99 +1264,99 @@
                 "source": "Games Press",
                 "date": "2026-07-06T22:42:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New VR game tracks player emotions in hopes of fostering empathy for marginalized communities",
-                "desc": "You're in a dance club bathed in a neon-purple glow, surrounded by ghostly silhouettes that sway to the music. A stranger at the bar greets you with a flirty wave: \"Hey, you look so cute!\" Sparks fly. It's all part of a virtual ...",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/new-vr-game-tracks-pla.jpg",
-                "url": "https://techxplore.com/news/2026-07-vr-game-tracks-player-emotions.html",
-                "source": "Tech Xplore",
-                "date": "2026-07-06T22:40:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oppo Reno 16 Launches Globally With AI Snap Key and Big Price Jump",
-                "desc": "The Oppo Reno 16 launches across global markets with a dedicated AI button, triple 50MP cameras, and a 6,700mAh battery. But a steep price increase over the Reno 15 raises questions about value.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/oppo-reno-16-key-specifications-infographic.jpg",
-                "url": "https://memeburn.com/oppo-reno-16-launches-globally-with-ai-snap-key-and-big-price-jump/",
-                "source": "Memeburn",
-                "date": "2026-07-06T22:30:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Take a Virtual Tour of HP's InfoComm 2026 Booth",
-                "desc": "Missed HP at InfoComm 2026? Take a virtual booth tour covering the new Poly Focus 6 headsets, Studio Room Compute, VideoOS 5.1, Google Beam and more.",
-                "image": "https://ravepubs.com/wp-content/uploads/2026/07/hp-poly-booth-infocomm-2026-800x400.webp",
-                "url": "https://ravepubs.com/hp-infocomm-2026-virtual-booth-tour/",
-                "source": "rAVe [PUBS]",
-                "date": "2026-07-06T22:30:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NASA Administrator Jared Isaacman",
-                "desc": "NASA confirmed over the weekend that China is edging closer in its race with the United States to put humans on the moon’s surface.",
-                "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/04/69dc0e17896de9.17404263.jpeg?w=1280",
-                "url": "https://www.newsnationnow.com/space/nasa-space-race-china/",
-                "source": "NewsNation",
-                "date": "2026-07-06T22:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This MacBook Pro packs premium features for under $400",
-                "desc": "Bring home your own Apple MacBook Pro for only $394.97",
-                "image": "https://helios-i.mashable.com/imagery/articles/01KrJRlEZeXwBkjh4DUvQtT/hero-image.fill.size_1200x675.v1783035068.jpg",
-                "url": "https://mashable.com/tech/july-6-apple-macbook-pro-i5-2ghz-2020-16gb-ram-512gb-ssd-silver-refurbished",
-                "source": "Mashable",
-                "date": "2026-07-06T22:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Someone Built Every Major Engine Configuration Out of Lego - Using Only Air",
-                "desc": "Lego introduced its pneumatic system back in 1984, and it has remained a staple of the Technic line ever since, allowing builders to route compressed air through small tubes to drive pistons in reciprocating motion. Most people use it to…",
-                "image": "https://s.yimg.com/lo/mysterio/api/93f26b2d015cd79d171f367d88bc10a5d05602dfd6b8472c66e69d8af1a45099/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotorbiscuit_articles_333%2F344aa7cea057681fd1942afdce06b578",
-                "url": "https://autos.yahoo.com/people-and-culture/articles/someone-built-every-major-engine-222536478.html",
-                "source": "Yahoo Autos",
-                "date": "2026-07-06T22:25:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Should Eliminate the App Icon ‘Squircle Jail’",
-                "desc": "Shape was often the most iconic thing about an icon. Now it’s no part at all.",
-                "image": "https://daringfireball.net/graphics/df-wide-card.png",
-                "url": "https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail",
-                "source": "Daring Fireball",
-                "date": "2026-07-06T22:24:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Expands AI Training to Include Uploaded Media to Search",
-                "desc": "Google has expanded the scope of data it collects to train its AI models, now incorporating media uploaded to its search-related services.",
-                "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Google-Search-x1.jpg",
-                "url": "https://www.pymnts.com/google/2026/google-expands-ai-training-to-include-user-uploaded-media-via-search-tools/",
-                "source": "PYMNTS.com",
-                "date": "2026-07-06T22:19:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Everything New in iOS 27 Beta 3",
-                "desc": "Apple is continuing to refine iOS 27 ahead of its planned September launch, and the third beta includes several new features. Siri is more customizable, there's a fun new wallpaper action, and some useful improvements to Photos and Shortcuts. Siri Voice Beta 3 adds support for Siri voice customization on compatible devices. The customization option existed in prior betas, but it was not active.",
-                "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-                "url": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/",
-                "source": "MacRumors",
-                "date": "2026-07-06T22:19:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MAAP Enters the Performance Eyewear Market with the Launch of Advanced_Optics for On- and Off-Bike Wear",
-                "desc": "Alongside its top-tier apparel, MAAP is introducing 4 models of cycling and lifestyle sunglasses for its first entry into the premium eyewear market.",
-                "image": "https://bikerumor.com/wp-content/uploads/2026/07/MAAP-Eyewear-PR_4x3_05.jpeg",
-                "url": "https://bikerumor.com/maap-enters-the-performance-eyewear-market-with-the-launch-of-advanced_optics-for-on-and-off-bike-wear/",
-                "source": "Bikerumor",
-                "date": "2026-07-06T22:17:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Clarkson's Farm Diddly Squat car park extension backed by council",
+                "desc": "Jeremy Clarkson was initially granted permission for three years for a car park at his Cotswolds farm.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8da2/live/bc66c220-5171-11ef-a1f5-a1d36cd75193.jpg",
+                "url": "https://www.bbc.com/news/articles/czdeml6lmq4o",
+                "source": "BBC",
+                "date": "2026-07-07T12:00:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigel Farage resigns as MP, says will fight by",
+                "desc": "Reform UK leader Nigel Farage has resigned as MP for Clacton, saying he will fight the forthcoming by-election.",
+                "image": "https://www.rte.ie/images/0024a7d8-1600.jpg",
+                "url": "https://www.rte.ie/news/uk/2026/0707/1582196-nigel-farage-uk/",
+                "source": "RTE.ie",
+                "date": "2026-07-07T11:59:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026/48 “Gig Workers in Malaysia: Is the New Law a Good Deal?” by Lee Hwok Aun",
+                "desc": "Malaysia’s 1.64 million gig workers (10 percent of the employed population) stand to gain from the introduction of contractual frameworks, mandatory injury insurance, dispute settlement mechanisms, and a consultative council for setting minimum earnings.",
+                "image": "https://iseas.edu.sg/wp-content/uploads/2026/07/AFP__20240814__HL_ELAFFORGUE_2488005__v1__HighRes__MalaysiaBikersFromThePopularTakeA-copy.jpeg",
+                "url": "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-48-gig-workers-in-malaysia-is-the-new-law-a-good-deal-by-lee-hwok-aun/",
+                "source": "ISEAS – Yusof Ishak Institute",
+                "date": "2026-07-07T11:59:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Syrian Arab Republic: Hama Governorate Profile | June 2026",
+                "desc": "Situation Report in English on Syrian Arab Republic about Agriculture, Camp Coordination and Camp Management and more; published on 7 Jul 2026 by OCHA",
+                "image": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/76/ea/76eabf2f-bfdd-4d89-9b20-572bae005f1f.jpg",
+                "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-hama-governorate-profile-june-2026",
+                "source": "ReliefWeb",
+                "date": "2026-07-07T11:57:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uganda: Floating solar PV project procurement advances",
+                "desc": "A utility-scale floating solar PV plant is expected to start Uganda’s procurement process for key engineering contracts in the near-term. The government is promoting the scheme, which has held discussions with major development finance institutions, as a blueprint for future FPV rollouts across Africa.",
+                "image": "https://www.africa-energy.com/storage/86513/Uegcl-isimba-hydropower-station.jpg",
+                "url": "https://www.africa-energy.com/news-centre/article/uganda-floating-solar-pv-project-procurement-advances",
+                "source": "African Energy",
+                "date": "2026-07-07T11:56:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Living well, but not for long: the health of one Swede costs 3.5 times more than that of one resident of Latvia",
+                "desc": "However, the responsible agency was not the Ministry of Health, but the Ministry of Economics, which can be explained by a slight reduction in the bureaucratic weight of Hosam Abu Meri due to the departure of his party comrade, the Prime Minister.",
+                "image": "https://news.inbox.eu/w/img/88/d2/88d23ae0e4b0a09c0b.webp",
+                "url": "https://news.inbox.eu/150h5o6-living-well-but-not-for-long-the-health-of-one-swede-costs-3-5-times-more-than-that-of-one-resident-of-latvia?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-07-07T11:55:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigel Farage to make a statement 'on future in public life’ today amid finances scrutiny",
+                "desc": "He is under pressure following reports that his long-term ally, George Cottrell, had provided funding for security and staffing in the year before he was elected.",
+                "image": "https://img2.thejournal.ie/article/7094060/river/?height=400&version=7094064",
+                "url": "https://www.thejournal.ie/farage-will-make-a-statement-on-future-in-public-life-amid-finances-scrutiny-7094060-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-07T11:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Millions mourn Iran's Supreme Leader Ayatollah Ali Khamenei",
+                "desc": "Hundreds of thousands of mourners have gathered in Iran for the funeral ceremonies of Supreme Leader Ayatollah Ali Khamenei.",
+                "image": "https://images.euronews.com/articles/stories/09/82/85/98/1024x538_cmsv2_9a0c2b3f-1c45-51f0-955d-bd00af2b2f79-9828598.jpg",
+                "url": "https://www.africanews.com/2026/07/07/millions-mourn-irans-supreme-leader-ayatollah-ali-khamenei/",
+                "source": "africanews.com",
+                "date": "2026-07-07T11:54:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "July and August account for nearly 30% of tourist visits to Latvia",
+                "desc": "Latvia may have its attractions all year round, but as far as tourists are concerned, July and August are the months when they most want to visit, according to data published by Eurostat on July...",
+                "image": "https://static.lsm.lv/media/2025/08/large/4/rbw9.jpg",
+                "url": "https://eng.lsm.lv/article/economy/economy/07.07.2026-july-and-august-account-for-nearly-30-of-tourist-visits-to-latvia.a654187/",
+                "source": "Latvian Public Media",
+                "date": "2026-07-07T11:52:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO summit begins in Turkey as Trump pushes for more defense spending and ponders Greenland",
+                "desc": "Amid simmering tensions between the U.S. and some NATO allies over Iran and Greenland, President Trump will continue to press other countries to boost defense spending.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/07/f87c05b5-9021-494b-8436-38f4f231881a/thumbnail/1200x630/d52159ac3b69987ec1ca068b94173040/gettyimages-2284490608.jpg",
+                "url": "https://www.cbsnews.com/news/nato-summit-begins-in-turkey-as-trump-pushes-for-more-defense-spending/",
+                "source": "CBS News",
+                "date": "2026-07-07T11:52:19Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Singapore Garden Festival 2026 Returns With Spectacular Floral Displays",
                 "desc": "Singapore Garden Festival 2026 features floral installations, gardening competitions, and workshops. Key details inside.",
@@ -1806,98 +1896,8 @@
                 "source": "Mjengo Hub",
                 "date": "2026-07-06T22:46:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Xenophobia in South Africa: A betrayal of African unity",
-                "desc": "For decades, Africa has spoken passionately about unity, solidarity, and the shared destiny of its people. From the struggle against colonialism to the fight against apartheid, Africans stood together, believing that the freedom of one nation was tied to the freedom of all. It is therefore deeply painful and unacceptable that, in the 21st century, fellow Africans continue to face xenophobic attacks, intimidation, discrimination, and violence in South Africa simply because they come from another African country.",
-                "image": "https://thebftonline.com/api/media/file/xenophobia.jpg",
-                "url": "https://thebftonline.com/article/xenophobia-in-south-africa",
-                "source": "Business & Financial Times",
-                "date": "2026-07-06T22:46:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pacific leaders criticise Chinese nuclear",
-                "desc": "Solomon Islands PM says a ballistic missile test carried out by China is \"not the act of a friend\", sentiments echoed by several Pacific leaders.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/94249b40f6a973ad539cf9658dc92b67?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-07/china-missile-nuclear-pacific-nauru-tuvalu/106887324",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-06T22:40:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andrew and Tristan Tate 'made over £1million from teenage sex trafficking victim, 17, through twisted webcam business'",
-                "desc": "ANDREW Tate and his brother Tristan made £1million from trafficking a teenager through their webcam sex business, police allege.\nThe...",
-                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-3o9mc5rya-1783377147476.jpg?quality=90&strip=all&1783380866&w=1920&h=1080&crop=1",
-                "url": "https://www.thesun.ie/news/17248921/andrew-tristan-tate-alleged-teen-sex-trafficking-victim/",
-                "source": "The Irish Sun",
-                "date": "2026-07-06T22:37:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic Discovers Claude Built a Hidden Thinking Room During Training",
-                "desc": "Anthropic just published research showing that its Claude model quietly built itself an internal workspace for thinking, and nobody told it to. The company call",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/anthropic-discovers-claude-built-a-hidden-thinking-room-during-training",
-                "source": "KuCoin",
-                "date": "2026-07-06T22:33:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China Is Flooding Latin American Streets With Yutong Buses and Nicaragua Is Just the Start",
-                "desc": "Nicaragua has received 180 Yutong microbuses from China, the first tranche of a 600-unit commitment, as Beijing turns public transit delivery into a signature diplomatic tool across Latin America.",
-                "image": "https://mjengohub.co.ke/static/images/articles/6ca59ec072ad4f018cc6f1e776955957_1000189609.jpg",
-                "url": "https://mjengohub.co.ke/articles/industry-insights/china-is-flooding-latin-american-streets-with-yutong-buses-and-nicaragua-is-just-the-start",
-                "source": "Mjengo Hub",
-                "date": "2026-07-06T22:31:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Submarines to redeem years of Liberals' defence complacency: Ivison",
-                "desc": "It would have been unthinkable for the government to commit this easily to the largest procurement in Canadian history just two years ago.",
-                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/tkms-artist-1-_299541288.jpg",
-                "url": "https://nationalpost.com/opinion/john-ivison-expensive-submarines-are-the-cost-to-redeem-years-of-liberal-defence-complacency",
-                "source": "National Post",
-                "date": "2026-07-06T22:31:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup 2026: Is Balogun the scandal that could bring down Infantino?",
-                "desc": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/94dc/live/8a1615f0-796f-11f1-9290-9b15d0e76459.jpg",
-                "url": "https://www.bbc.com/sport/football/articles/cvgmmmgemd8o",
-                "source": "BBC",
-                "date": "2026-07-06T22:26:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Police expand investigation into crash that killed 10 monks",
-                "desc": "Police are investigating whether an adult taught an 11-year-old autistic boy to drive before he crashed a pickup truck into a group of monks on July 2, killing 10 people and injuring several others.",
-                "image": "https://static.bangkokpost.com/media/content/20260707/c1_3281999_260707052437_700.jpg",
-                "url": "https://www.bangkokpost.com/thailand/general/3281999/police-expand-investigation-into-crash-that-killed-10-monks",
-                "source": "Bangkok Post",
-                "date": "2026-07-06T22:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elikya’s story: A documented migrant, yet her home was burnt down by anti",
-                "desc": "As March and March’s anti-migrant rhetoric continues to fuel fear across KwaZulu-Natal, documented refugees and asylum seekers say they are being targeted despite having legal status.",
-                "image": "https://cdn.dailymaverick.co.za/i/-kFbpwtyC06S3NXgJQKrzzYSUGU=/800x0/smart/filters:strip_exif()/file/attachments/orphans/6I1A6332_558904.jpg",
-                "url": "https://www.dailymaverick.co.za/article/2026-07-07-elikyas-story-a-documented-migrant-yet-her-home-was-burnt-down-by-vigilantes/",
-                "source": "Daily Maverick",
-                "date": "2026-07-06T22:22:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Victim of fatal hit-and-run on the A-7 in Mijas was Norwegian teenager who went missing in Marbella",
-                "desc": "The 17-year-old, who disappeared in the early hours of Monday morning morning in the Puerto Banús area, was hit by a lorry whose driver fled the scene",
-                "image": "https://s2.ppllstatics.com/surinenglish/www/multimedia/externo/2026/07/06/carretera-kivD-U306683124279mG-1200x840Diario%20Sur-RaFKbZVCYmCIF5buRkWZd5M-1200x840@Diario%20Sur.jpg",
-                "url": "https://www.surinenglish.com/malaga/17yearold-norwegian-girl-20260707001122-nt.html",
-                "source": "Sur in English",
-                "date": "2026-07-06T22:22:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-07T23:40:42.311732Z"
+    "lastGlobalSync": "2026-07-08T00:00:47.582195Z"
 }
