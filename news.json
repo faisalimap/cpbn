@@ -4,6 +4,24 @@
     "en": {
         "business": [
             {
+                "title": "How Hong Kong is fighting to redefine its future with an institutional moat, wealth surge",
+                "desc": "Officials deploy multipronged strategy – from tax incentives to new gold clearing system – to recalibrate city’s global standing amid shifting capital flows, regulatory changes.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/07/e7afd006-66ac-4fd3-b030-4e6e3236a724_51b54642.jpg?itok=1Ph_Y3ZJ&v=1783402918",
+                "url": "https://www.scmp.com/business/banking-finance/article/3359698/how-hong-kong-fighting-redefine-its-future-institutional-moat-wealth-surge",
+                "source": "South China Morning Post",
+                "date": "2026-07-07T22:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Markets live: Oil prices surge after US launches strikes on Iran, ASX to slip after Wall Street's tech sell-off",
+                "desc": "The Australian share market is likely to fall in morning trade after a sell-off across technology and artificial intelligence (AI) stocks knocked Wall Street's tech index sharply lower. Oil prices surged after the US confirmed it launched strikes on Iran, after three commercial ships were attacked near the Strait of Hormuz. Follow live.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/b46ef7ba423f4cbd92326131879ea127?impolicy=wcms_watermark_news&cropH=2700&cropW=4800&xPos=0&yPos=250&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-08/asx-markets-business-live-news/106891254",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-07T21:59:57Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images-Unless You Opt Out",
                 "desc": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
                 "image": "https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/191:100/w_1280,c_limit/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg",
@@ -614,27 +632,27 @@
                 "source": "SMH.com.au",
                 "date": "2026-07-07T19:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Is anywhere really worth queuing up for?",
-                "desc": "We’ve given in to the idea that the most popular experiences, the ones we’ve seen on our phones over and over again, are the best.",
-                "image": "https://static.ffx.io/images/$zoom_0.2741%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/33f6f0d33a4c96a6742d78f038fa32fdf6dc9ab1",
-                "url": "https://www.smh.com.au/traveller/reviews-and-advice/is-this-really-how-you-want-to-spend-your-holiday-we-ve-lost-our-minds-20260707-p60dak.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-07T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reclusive businessman steps down from a dozen companies",
-                "desc": "Lawyer and hotelier Michael O’Hara is under investigation in relation to alleged clandestine political donations.",
-                "image": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/fbddeb71a79d2a1255f0e77199e801634975572c",
-                "url": "https://www.smh.com.au/national/nsw/reclusive-businessman-named-by-icac-steps-down-from-a-dozen-companies-20260707-p60dee.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-07T19:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I turned off Windows Fast Startup and my boot time barely changed - but 3 persistent bugs disappeared",
+                "desc": "One overlooked Windows setting was quietly breaking three separate things.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/08/lenovo-laptop-showing-windows-11-startup-screen.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/turned-off-windows-fast-startup-boot-time-barely-changed-bugs-disappeared/",
+                "source": "MakeUseOf",
+                "date": "2026-07-07T22:00:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NVIDIA GeForce RTX 50 Super GPUs Surface Online",
+                "desc": "Previous rumors indicated that NVIDIA had seemingly indefinitely postponed the launch of the GeForce RTX 50 Super-series GPUs, with no real indication of a launch date for new Super cards in sight. With the recent apparent cancellation of the RTX 5050 9 GB GPU and RTX 60-series GPUs on the cards...",
+                "image": "https://www.techpowerup.com/img/XkEwJiHI4BqOQYEh.jpg",
+                "url": "https://www.techpowerup.com/350588/nvidia-geforce-rtx-50-super-gpus-surface-online",
+                "source": "TechPowerUp",
+                "date": "2026-07-07T21:59:52Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Critical Gitea Docker Bug Under Active Exploitation Exposes Repositories and Secrets",
                 "desc": "Attackers are exploiting a critical Gitea bug (CVE-2026-20896) that bypasses auth with a single HTTP header, exposing repos and sensitive data",
@@ -1246,27 +1264,18 @@
                 "source": "PCMag",
                 "date": "2026-07-07T18:30:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "X says top accounts steal videos from other users as it announces new video tools",
-                "desc": "X is launching an in-app video editor and recorder to encourage users to post more original content, while admitting many top accounts are stealing content.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
-                "source": "The Verge",
-                "date": "2026-07-07T18:28:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Confirms Radical New Wearable Without Galaxy Buds Brand",
-                "desc": "The latest Samsung Galaxy Able leak confirms the new wearable (SM-U600) drops the 'Buds' branding. What does this mean for Apple's AirPods dominance?",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4a90f7bf90a31d8764d2bb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/paulmonckton/2026/07/07/samsung-galaxy-able-watch-leak/",
-                "source": "Forbes",
-                "date": "2026-07-07T18:24:30Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Johor state polls: PAS’ bid to revive ties with UMNO has failed, says Bersatu chief Muhyiddin",
+                "desc": "Former Malaysian Prime Minister Muhyiddin Yassin tells CNA that his Bersatu party remains focused on making gains in the Johor polls despite its fractured ties with PAS under opposition coalition Perikatan Nasional.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--_pvMMy4v--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/06/nz8_1407_copy.jpg?itok=Oq9lg3sH",
+                "url": "https://www.channelnewsasia.com/asia/johor-state-polls-pas-bid-revive-ties-umno-has-failed-says-bersatu-chief-muhyiddin-6237971",
+                "source": "CNA",
+                "date": "2026-07-07T22:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Commentary: Was China’s submarine missile test a routine or warning shot?",
                 "desc": "The answer depends on who’s watching, says this academic.",
@@ -1887,17 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-07T18:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-                "desc": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3959/live/095fc1e0-7a32-11f1-ab76-d75965dea4d1.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo",
-                "source": "BBC",
-                "date": "2026-07-07T18:29:09Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T09:59:53.124634Z"
+    "lastGlobalSync": "2026-07-08T10:00:46.000903Z"
 }
