@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Canada’s trade surplus hit four-year high in May as Mideast war buoyed commodity prices",
+                "desc": "Merchandise exports rose 0.9%, the fourth consecutive monthly increase",
+                "image": "https://www.theglobeandmail.com/resizer/v2/TI4WJGCM5FHDFC4JLDF77GR6M4.jpg?auth=f0399d6d780ea76c0d4c1b0010efd9a8f0b7339691383caf6f1891d99efe5089&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/economy/article-canada-trade-surplus-may-2026-commodity-prices/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-07T15:37:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Iran war is over. Now what for oil?",
+                "desc": "Oil up $1.65 to $70.20 today",
+                "image": "https://images.investinglive.com/images/oil%20down%20pumpjack_id_69de4dc2-2850-4f77-8a40-a1d155975f84_size975.jpg",
+                "url": "https://investinglive.com/commodities/the-iran-war-is-over-now-what-for-oil-20260707/",
+                "source": "investingLive",
+                "date": "2026-07-07T15:36:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New CEO named at Sault Area Hospital",
+                "desc": "Murray Doucette will start his new job on Sept. 9",
+                "image": "https://www.vmcdn.ca/f/files/sootoday/images/health/sault-area-hospital/20260707-murray-doucette_president-and-ceo_2026.jpg;w=1200;h=800;mode=crop",
+                "url": "https://www.sootoday.com/local-news/new-ceo-named-at-sault-area-hospital-12518154",
+                "source": "SooToday.com",
+                "date": "2026-07-07T15:36:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ford is recalling over 42,000 Mustang Mach-E EVs",
+                "desc": "Ford is recalling nearly 43,000 Mustang Mach-E electric vehicles. This time, it’s due to a faulty differential unit that may...",
+                "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/06/Fords-EV-sales-May-2025.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://electrek.co/2026/07/07/ford-recalling-over-42000-mustang-mach-e-evs/",
+                "source": "Electrek",
+                "date": "2026-07-07T15:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ugandan Farmers Sue to Block $5 Billion East Africa Oil Pipeline",
+                "desc": "Ugandan farmers sue in UK court to halt the nearly finished $5 billion EACOP oil pipeline on environmental grounds.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-07_kjj7xwunhr.jpg",
+                "url": "https://oilprice.com/Latest-Energy-News/World-News/Ugandan-Farmers-Sue-to-Block-5-Billion-East-Africa-Oil-Pipeline.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-07T15:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian Dollar falls amid cautious Fedspeak",
+                "desc": "AUD/USD declines toward 0.6940 as the Australian Dollar (AUD) loses momentum, while the US Dollar (USD) remains supported by cautious remarks from the Federal Reserve (Fed) and lingering uncertainty over inflation.",
+                "image": "https://editorial.fxsstatic.com/images/i/aud-usd-001_Medium.jpg",
+                "url": "https://www.fxstreet.com/news/australian-dollar-falls-amid-cautious-fedspeak-202607071529",
+                "source": "FXStreet",
+                "date": "2026-07-07T15:29:55Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Have Grok’s controversies left it trailing behind other AI brands in the UK?",
+                "desc": "Elon Musk's AI platform is not popular with the UK public relative to other AI brands.",
+                "image": "https://ygo-assets-websites-editorial-emea.yougov.net/original_images/chatgpt_Nvy6pqS.jpg",
+                "url": "https://yougov.com/en-gb/articles/55131-have-groks-controversies-left-it-trailing-behind-other-ai-brands-in-the-uk",
+                "source": "YouGov",
+                "date": "2026-07-07T15:29:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Court tosses Microsoft's appeal in pre-owned software licenses battle",
+                "desc": "ValueLicensing celebrates while Redmond considers next steps",
+                "image": "https://image.theregister.com/1683836.jpg?imageId=1683836&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/software/2026/07/07/court-tosses-microsofts-appeal-in-pre-owned-software-licenses-battle/5267742",
+                "source": "The Register",
+                "date": "2026-07-07T15:28:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangote unveils funding plan for $17 billion Kenya refinery set to become Africa’s second largest",
+                "desc": "Africas richest man, Aliko Dangote, has unveiled how he plans to finance his proposed refinery in Kenya, offering fresh details about one of the continents most ambitious energy projects. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/HzpktkpTURBXy80NDY0N2MxOTIxMjI3NGJiMDZlMzVhOGFkM2Q0NmJiOC5qcGeSlQMAAM0EsM0Co5MFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/dangote-unveils-funding-plan-for-dollar17-billion-kenya-refinery-set-to-become/r2y94qe",
+                "source": "Business Insider Africa",
+                "date": "2026-07-07T15:27:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold, silver extend losses on weak global cues",
+                "desc": "Mumbai — Gold and silver prices extended losses for a second consecutive session Tuesday, with both precious metals falling by up to 2 percent amid weakness in global markets. On …",
+                "image": "https://indianewengland.com/wp-content/uploads/2026/07/Gold.png",
+                "url": "https://indianewengland.com/gold-silver-extend-losses-on-weak-global-cues/",
+                "source": "INDIA New England News",
+                "date": "2026-07-07T15:27:04Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "PAL Aerospace Adapts Dash 8s for Greenland Maritime Surveillance",
                 "desc": "PAL Aerospace has been contracted to convert two Air Greenland DHC-8-200 aircraft into modern maritime surveillance aircraft for Arctic operations. Read details.",
                 "image": "https://www.navalnews.com/wp-content/uploads/2026/07/PAL-Aerospace-Adapts-Dash-8s-for-Greenland-Maritime-Surveillance.jpg",
@@ -542,99 +632,99 @@
                 "source": "Newser",
                 "date": "2026-07-07T12:49:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "One SpaceX analyst sees Musk's space company quintupling to $800",
-                "desc": "Raymond James and other shops on the Street released on Tuesday their calls on SpaceX as the 25-day quiet period for underwriters of its IPO ended.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108324918-1782142360494-gettyimages-2281775976-boivin-notitle260619_npgQq.jpeg?v=1783429034&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/07/one-spacex-analyst-sees-musks-space-company-quintupling-to-800.html",
-                "source": "CNBC",
-                "date": "2026-07-07T12:40:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pasqal and MegazoneCloud Partner to Bring Quantum Computing to South Korea",
-                "desc": "Pasqal’s neutral-atom quantum technology will be explored through MegazoneCloud’s services to support enterprise quantum adoption in South Korea.",
-                "image": "https://thequantuminsider.com/wp-content/uploads/2026/07/2026-07-07_17-34.png",
-                "url": "https://thequantuminsider.com/2026/07/07/pasqal-megazonecloud-quantum-computing-korea/",
-                "source": "The Quantum Insider",
-                "date": "2026-07-07T12:39:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Study Breaks New Ground On The Benefits Of Immigration To Innovation",
-                "desc": "A recent study breaks new ground on the benefits of immigration to innovation by focusing on where immigrants decide to live and work.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a484aaa3875ef309e2240f7/0x0.jpg?format=jpg&crop=1953,1100,x0,y124,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/stuartanderson/2026/07/07/study-breaks-new-ground-on-the-benefits-of-immigration-to-innovation/",
-                "source": "Forbes",
-                "date": "2026-07-07T12:38:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. Trade Deficit Widens in May on Record Goods Imports",
-                "desc": "Imports of foreign goods, including pharmaceuticals and equipment for data centers, hit a record high, pushing the monthly trade deficit to its highest level in over a year.",
-                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07dc-trade-qgcj/07dc-trade-qgcj-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html",
-                "source": "The New York Times",
-                "date": "2026-07-07T12:36:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New EV-SELEX strategy accelerates drug discovery for wide range of GPCRs",
-                "desc": "G protein-coupled receptors (GPCRs) are the most abundantly expressed proteins in the human body, which regulate diverse physiological processes ranging from pain perception to hormone signaling.",
-                "image": "https://www.news-medical.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
-                "url": "https://www.news-medical.net/news/20260707/New-EV-SELEX-strategy-accelerates-drug-discovery-for-wide-range-of-GPCRs.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-07T12:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Four African currencies that outperformed in the first half of 2026",
-                "desc": "The first half of 2026 tested African currencies as the US-Iran war rattled global financial markets, disrupted oil supplies...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/06/various-money-african-countries-close-600nw-1022475298.webp",
-                "url": "https://businessday.ng/africa/article/four-african-currencies-that-outperformed-in-the-first-half-of-2026/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-07T12:35:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "n6 appoints Broad Institute Principal Investigator Aziz Al'Khafaji as Scientific Advisor, advancing AutoNorm™ as the new standard in NGS library preparation",
-                "desc": "n6 Tec, Inc. (n6), the developer of icon96™, the first and only intelligent thermocycler platform with real-time, per-well adaptive amplification (iconPCR™ with AutoNorm), today announced the appointment of Dr. Aziz Al'Khafaji as Scientific Advisor.",
-                "image": "https://www.news-medical.net/image-handler/picture/2014/7/Genomics-620x480.jpg",
-                "url": "https://www.news-medical.net/news/20260707/n6-appoints-Broad-Institute-Principal-Investigator-Aziz-AlKhafaji-as-Scientific-Advisor-advancing-AutoNorme284a2-as-the-new-standard-in-NGS-library-preparation.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-07T12:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rivian stock falls 10% amid plans to sell 75 million shares",
-                "desc": "The capital raise occurred during extended hours trading following Rivian shares increasing 8.1% on Monday after increasing 19.2% last week.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108318200-1780933801384-IMG_3873.jpeg?v=1780933999&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html",
-                "source": "CNBC",
-                "date": "2026-07-07T12:34:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump puts brakes on OpenAI’s newest AI model",
-                "desc": "OpenAI says GPT-5.6 Sol will launch with a limited preview for trusted partners approved by the Trump administration before broader ChatGPT and API availability.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/2-fake-chatgpt-apps-are-hijacking-your-phone-without-you-knowing-copy.jpg",
-                "url": "https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model",
-                "source": "Fox News",
-                "date": "2026-07-07T12:34:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chip Stocks Tumble on AI Anxiety as Oil Climbs: Markets Wrap",
-                "desc": "(Bloomberg) -- A selloff in chipmakers dragged down stocks on concerns over whether massive artificial-intelligence investments will justify lofty valuations while higher oil prices lifted bond yields.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764756856",
-                "url": "https://www.swissinfo.ch/eng/chip-stocks-tumble-on-ai-anxiety-as-oil-climbs%3a-markets-wrap/91707429",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-07T12:33:11Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "MV7i: Professional Recording Without the Complexity by Shure Incorporated",
+                "desc": "Shure’s MV7i Smart Microphone & Interface delivers the world’s first and patented technology that allows users to plug in an additional XLR mic or instrument of their choice into the MV7i for two-channel recording.",
+                "image": "http://globaldesignnews.com/wp-content/uploads/2026/07/32748_2.webp",
+                "url": "https://globaldesignnews.com/mv7i-professional-recording-without-the-complexity-by-shure-incorporated/",
+                "source": "Global Design News",
+                "date": "2026-07-07T15:40:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An AI-powered control system for robots with legs",
+                "desc": "Walking robots, such as quadruped robotic dogs, must be able to move safely through rough, often changing environments. Today, there are two main ways to program these walking, or legged, robots. The first is called model ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/an-ai-powered-control.jpg",
+                "url": "https://techxplore.com/news/2026-07-ai-powered-robots-legs.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-07T15:40:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung is increasing prices on these Galaxy smartphones, again",
+                "desc": "As RAMageddon’s impact only gets worse, Samsung is increasing prices on a number of Galaxy smartphones, again. Samsung has raised...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-a17-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/07/samsung-is-increasing-prices-on-these-galaxy-smartphones-again/",
+                "source": "9to5Google",
+                "date": "2026-07-07T15:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Samsung Galaxy S26 Ultra gets a $270 price drop at Amazon",
+                "desc": "The Samsung Galaxy S26 Ultra drops to $1,030 on Amazon, a 21% cut from RRP on Samsung’s latest flagship phone.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-ultra-standing-hero.jpg",
+                "url": "https://www.androidauthority.com/deal-samsung-galaxy-s26-ultra-3684904/",
+                "source": "Android Authority",
+                "date": "2026-07-07T15:38:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation's first post since announcing the end of physical discs has been met with nothing but backlash",
+                "desc": "Backlash surrounding PlayStation's decision to stop producing game discs continues to rage on as Sony chooses to ignore the angry mob online.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/PlayStation-5-Pro-console-stood-up-on-desk.jpg",
+                "url": "https://www.pcguide.com/news/playstations-first-post-since-announcing-the-end-of-physical-discs-has-been-met-with-nothing-but-backlash/",
+                "source": "PC Guide",
+                "date": "2026-07-07T15:38:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iRobot Redefines Floor Care with the Introduction of a 5-in-1 Disinfecting Hard Floor Cleaner Along with a New Generation of Roomba Robots",
+                "desc": "Reflecting iRobot's continued commitment to consumer-led innovation, the expanded portfolio introduces a breakthrough new hard floor care solution alongside",
+                "image": "https://mmx.prnewswire.com/media/MS1878223/Roomba-Electro-Plus_7-7-26.jpg",
+                "url": "https://aijourn.com/irobot-redefines-floor-care-with-the-introduction-of-a-5-in-1-disinfecting-hard-floor-cleaner-along-with-a-new-generation-of-roomba-robots/",
+                "source": "The AI Journal",
+                "date": "2026-07-07T15:30:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GIGABYTE Demonstrates AI TOP ATOM Four-Node Clustering on Scientific Computing",
+                "desc": "TAIPEI, July 7, 2026 /PRNewswire/ -- GIGABYTE, the world's leading computer brand, demonstrates how AI TOP ATOM four-node clustering scales local AI computing for increasingly complex workloads. As AI models, scientific simulations, and enterprise applications continue to grow in size and complexity, standalone systems are increasingly insufficient to meet rising memory and compute demands. AI TOP ATOM clustering removes that constraint, enabling memory-intensive workloads to run locally without compromising on data security.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1128267.jpg",
+                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/gigabyte-demonstrates-ai-top-atom-four-node-clustering-on-scientific-computing/2380191",
+                "source": "The Manila Times",
+                "date": "2026-07-07T15:30:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Autonomous Monitor Averts Drone Crashes Instantly",
+                "desc": "Key Takeaways:A University of Houston engineer developed a real-time safety system that helps quadrotor drones avoid crashes.\nThe new technology can",
+                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1579154392128-bf8c7ebee541%3Fixlib%3Drb-1.2.1%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
+                "url": "https://www.miragenews.com/autonomous-monitor-averts-drone-crashes-1706076/",
+                "source": "Mirage News",
+                "date": "2026-07-07T15:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX Launches the First Commercial Nuclear-Powered Satellite",
+                "desc": "A tiny tritium battery could open darker, colder parts of space.",
+                "image": "https://cdn.zmescience.com/wp-content/uploads/2026/07/tritiumbattery.jpeg",
+                "url": "https://www.zmescience.com/science/news-science/spacex-launches-the-first-commercial-nuclear-powered-satellite/",
+                "source": "ZME Science",
+                "date": "2026-07-07T15:29:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Process Intensification Through Digital And Physical Downstream Connectivity",
+                "desc": "See how downstream steps can be linked into a coordinated workflow, with practical insight into automation, equipment integration, and process...",
+                "image": "https://vertassets.blob.core.windows.net/image/ee38a5a8/ee38a5a8-ce09-44b9-b2b2-52c710d27ac4/gettyimages_2196950201_scientists_chromatography_system_training.jpg",
+                "url": "https://www.bioprocessonline.com/doc/process-intensification-through-digital-and-physical-downstream-connectivity-0001",
+                "source": "Bioprocess Online",
+                "date": "2026-07-07T15:28:50Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Awe-Inspiring Science Facts to Make You Feel Better About Being Alive Right Now",
                 "desc": "In case you missed it, last week the ScienceAlert team shared their favorite science facts for you to use as conversation starters over the 4th of July weekend.",
@@ -1174,99 +1264,99 @@
                 "source": "Club386",
                 "date": "2026-07-07T13:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo confirms plans to continue selling Switch 1 outside of Europe",
-                "desc": "Following yesterday’s news pertaining to Europe, Nintendo has confirmed that the original Switch will continue to be sold in all major regions. A couple of announcements were made yesterday. One thing we heard is that Nintendo Switch will no longer be sold in Europe starting in early 2027. It wasn’t entirely clear what would be happening elsewhere. Nintendo didn’t provide...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Switch-1-availability-2027.jpg",
-                "url": "https://nintendoeverything.com/nintendo-confirms-plans-to-continue-selling-switch-1-outside-of-europe/",
-                "source": "Nintendo Everything",
-                "date": "2026-07-07T12:33:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seloger Scores Against Jinka Again As Courts Rule Against Aggregator",
-                "desc": "The Versailles Economic Activities Court has ruled against the aggregator Jinka for deceptive business practices and unfair competition.",
-                "image": "https://www.onlinemarketplaces.com/wp-content/uploads/2026/07/jinka-seloger.png",
-                "url": "https://www.onlinemarketplaces.com/articles/seloger-scores-against-jinka-again-as-courts-rule-against-aggregator/",
-                "source": "onlinemarketplaces.com",
-                "date": "2026-07-07T12:32:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LadBible struggles show impact of Meta and Google algorithms",
-                "desc": "News and lifestyle publishers are very much the canaries in the coal mines of social media.",
-                "image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/devuavhjng8.jpg?fit=1600%2C1200&ssl=1",
-                "url": "https://musically.com/2026/07/07/ladbible-struggles-show-impact-of-meta-and-google-algorithms/",
-                "source": "Music Ally",
-                "date": "2026-07-07T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bullish JP Morgan bumps AAPL price target to $345",
-                "desc": "JP Morgan increased the price target for Apple's stock to $345, insisting that the RAM-driven hardware cost increases won't impact long-term revenue gains.",
-                "image": "https://photos5.appleinsider.com/gallery/68179-143719-67551-142284-67319-141682-macstudio1-xl-xl-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/07/bullish-jp-morgan-bumps-aapl-price-target-to-345",
-                "source": "AppleInsider",
-                "date": "2026-07-07T12:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Black Desert Mobile Introduces the Transcendence Class Remaster, a Combat Skill Overhaul Update",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Black-Desert-Mobile-Introduces-the-Transcendence-Class-Remaster-a-Comb",
-                "source": "Games Press",
-                "date": "2026-07-07T12:22:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Messages is dead, but here's a temporary workaround",
-                "desc": "Samsung Messages has shut down for US users, but here is how you can continue using it temporarily with this workaround. Check it out!",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/samsung-messages-app-logo-2026-2-scaled.jpg",
-                "url": "https://www.androidauthority.com/samsung-messages-shut-down-workaround-3684815/",
-                "source": "Android Authority",
-                "date": "2026-07-07T12:19:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Problematic MIFUs for Low-Level Disinfection: ACHC and APIC Drive a Collaborative Solution",
-                "desc": "Manufacturer instructions that don't work in the real world? APIC and ACHC just released a game-changing toolkit. Learn how infection prevention and facilities leaders can now evaluate problematic disinfection guidelines with confidence, balance adherence with operations, and protect patient safety. Read the solution.",
-                "image": "https://cdn.sanity.io/images/0vv8moc6/infenctioncontrol/bf8fbcbf35bad4f0718d92ed38783b8a75a4e2b2-1920x1080.jpg",
-                "url": "https://www.infectioncontroltoday.com/view/problematic-mifus-low-level-disinfection-achc-apic-drive-collaborative-solution",
-                "source": "Infection Control Today",
-                "date": "2026-07-07T12:19:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honor Magic V Wide: Yet another foldable jumps on the iPhone Ultra bandwagon with a huge battery",
-                "desc": "It’s not just Samsung and Xiaomi anymore — Honor is also working on a more compact and wider foldable, which is likely intended to compete with Apple’s iPhone Ultra, set to launch this September. As a leaker recently revealed, the specs and price goal seem to point to a flagship device. Regarding battery size, Honor apparently aims to outperform the entire competition once again.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Honor-Magic-V-Wide-Noch-einer-springt-mit-Riesenakku-auf-den-iPhone-Ultra-Zug-auf-2.jpg",
-                "url": "https://www.notebookcheck.net/Honor-Magic-V-Wide-Yet-another-foldable-jumps-on-the-iPhone-Ultra-bandwagon-with-a-huge-battery.1336703.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-07T12:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“What is the point of owning a PlayStation 6 anymore?” - Reddit discussion goes viral",
-                "desc": "Following Sony's announced end to disc-based releases, a Reddit discussion has fundamentally called the PlayStation 6 into question. Many fans see the shift to purely digital games as the decisive break from the traditional console, though not everyone shares this view.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PS6-Daseinsberichtigung.jpg",
-                "url": "https://www.notebookcheck.net/What-is-the-point-of-owning-a-PlayStation-6-anymore-Reddit-discussion-goes-viral.1336702.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-07T12:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "party apps in the latest developer beta",
-                "desc": "We’ve been looking out for new features in iOS 27 beta 3, and we’ve now found an additional one: the...",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Siri-AI-can-pull-info-from-third-party-apps-in-the-latest-developer-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/07/siri-ai-can-pull-info-from-third-party-apps-in-the-latest-developer-beta/",
-                "source": "9to5Mac",
-                "date": "2026-07-07T12:13:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Equine 'colleagues' can help protect therapists from burnout",
+                "desc": "\"Including a big, warm creature in the therapy space creates a completely different dynamic than what can be achieved in an office,\" said Charlotte Fiskum, associate professor of psychology at the Norwegian University of Science and Technology (NTNU). She has led a study at NTNU demonstrating that equine-assisted therapy helps therapists and protects them from burnout.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/equine-colleagues-can.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-equine-colleagues-therapists-burnout.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-07T15:40:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zimbabwe begins blueberry exports to China as it targets a $400 million market",
+                "desc": "Zimbabwe has started exporting fresh blueberries to China after signing a phytosanitary protocol in September 2025. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/RG_ktkpTURBXy8yZGZiZWFlNzhmZTkxMWI5OTUxN2U5YTdlMzk2M2IwYy5qcGeSlQMAzQEZzRV8zQwVkwXNBLDNAnY",
+                "url": "https://africa.businessinsider.com/local/markets/zimbabwe-begins-blueberry-exports-to-china-as-it-targets-a-dollar400-million-market/csnwv3y",
+                "source": "Business Insider Africa",
+                "date": "2026-07-07T15:39:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rahm Emanuel to deliver ‘painful’ truths on Israel in Tel Aviv speech",
+                "desc": "Rahm Emanuel will declare that “the most important thing a true friend can do is to tell the truth even when it’s painful,” in a speech at Tel Aviv University aimed at forcing a reconfiguration of US policy on unconditional support for Israel.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26081691457250.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/07/politics/rahm-emanuel-israel-speech",
+                "source": "CNN",
+                "date": "2026-07-07T15:38:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
+                "desc": "The Ukrainian authorities said that Anastasiia Berezovska, who officials said was behind the explosion last week, had been shot.",
+                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-ukraine-monaco-bomber-promo-hp/07int-ukraine-monaco-bomber-01-tfmz-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html",
+                "source": "The New York Times",
+                "date": "2026-07-07T15:34:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tunisia plans transition to sustainable alternatives to single-use plastic bags",
+                "desc": "Tunisia has proposed legislation to ban single-use plastic bags, promote sustainable alternatives, support green manufacturing and advance the country's transition to a circular economy.",
+                "image": "https://tvbrics.com/upload/dev2fun.imagecompress/webp/resize_cache/iblock/a92/300_300_1/r6caxb3z3ygrxbaw7m99mxg10ue1a4cj.webp",
+                "url": "https://tvbrics.com/en/news/tunisia-proposes-ban-on-single-use-plastic-bags/",
+                "source": "TV BRICS",
+                "date": "2026-07-07T15:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "London Business School announces £25 million gift from the David and Molly Pyott Foundation and David and Molly Pyott",
+                "desc": "London Business School announces £25 million gift from the David and Molly Pyott Foundation and David and Molly Pyott",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1128282.jpg",
+                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/london-business-school-announces-25-million-gift-from-the-david-and-molly-pyott-foundation-and-david-and-molly-pyott/2380197",
+                "source": "The Manila Times",
+                "date": "2026-07-07T15:32:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia’s Largest Oil Refinery Halts Production After Drone Attack, Sources Say",
+                "desc": "Russia's largest oil refinery in the Omsk region of western Siberia has halted operations following a Ukrainian drone attack, two industry sources said on Tuesday.",
+                "image": "https://static.themoscowtimes.com/image/og/c2/93190__c2c19dfb08b27e37e3508427267f7d95.jpg",
+                "url": "https://www.themoscowtimes.com/2026/07/07/russias-largest-oil-refinery-halts-production-after-drone-attack-sources-say-a93190",
+                "source": "The Moscow Times",
+                "date": "2026-07-07T15:31:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What do Farage's Clacton constituents think of his resignation?",
+                "desc": "People living in Clacton share contrasting feelings of frustration and support towards Nigel Farage.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c206/live/2b0a83c0-7a14-11f1-a37f-8d94fb2430cd.jpg",
+                "url": "https://www.bbc.com/news/articles/c892npw2jkvo",
+                "source": "BBC",
+                "date": "2026-07-07T15:28:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Carney arrives at NATO summit, meets allies on sidelines",
+                "desc": "The NATO summit is expected to focus on a collective increase in defence budgeting as well as alliance unity amid an increasingly threatening world.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Carney-NATO-summit.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11956182/carney-nato-summit/",
+                "source": "Global News",
+                "date": "2026-07-07T15:27:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangote unveils funding plan for $17 billion Kenya refinery set to become Africa’s second largest",
+                "desc": "Africas richest man, Aliko Dangote, has unveiled how he plans to finance his proposed refinery in Kenya, offering fresh details about one of the continents most ambitious energy projects. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/HzpktkpTURBXy80NDY0N2MxOTIxMjI3NGJiMDZlMzVhOGFkM2Q0NmJiOC5qcGeSlQMAAM0EsM0Co5MFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/dangote-unveils-funding-plan-for-dollar17-billion-kenya-refinery-set-to-become/r2y94qe",
+                "source": "Business Insider Africa",
+                "date": "2026-07-07T15:27:37Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "What does China’s submarine missile test mean for its nuclear triad expansion?",
                 "desc": "More than a technical milestone, undersea launch sends strategic signal to the US and Beijing’s neighbours in Asia-Pacific, analysts say.",
@@ -1806,98 +1896,8 @@
                 "source": "TechAfrica News",
                 "date": "2026-07-07T12:51:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "German designer emerges as “Grand Champion” at Singapore Garden Festival 2026",
-                "desc": "Anja Ersing from Germany was crowned the Grand Champion at the Floral Windows to the World Championship (FWWC), a signature competition of the Singapore Garden Festival (SGF) that pits…",
-                "image": "https://www.floraldaily.com/remote/https/agfstorage.blob.core.windows.net/misc/FD_com/2026/07/07/SG1.jpg?preset=OgImage",
-                "url": "https://www.floraldaily.com/article/9854655/german-designer-emerges-as-grand-champion-at-singapore-garden-festival-2026/",
-                "source": "FloralDaily",
-                "date": "2026-07-07T12:39:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Court clears way for Marine Le Pen to run in 2027 but under one condition",
-                "desc": "The verdict found Marine Le Pen guilty of embezzlement but softened the ban on holding elected office.",
-                "image": "https://static.ffx.io/images/$zoom_0.5244556722076407%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1484%2C$y_62/t_crop_custom/q_86%2Cf_auto/8d6e6c6fae24d820f4bd18dc2f08f2d0a205c2fe",
-                "url": "https://www.smh.com.au/world/europe/french-court-clears-way-for-far-right-presidential-candidate-on-one-strict-condition-20260707-p60dga.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-07T12:39:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe’s New Best Budget City Breaks for Travellers Looking to Stay Under €1,000? Sofia, Belgrade, Bucharest and Gdańsk are top on the List",
-                "desc": "Travel Europe for under €1,000! Uncover the budget-friendly magic of Sofia, Belgrade, Bucharest, and Gdańsk—and see how to plan your dream short vacation.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/oo.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/b20lwmbkuvi2/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-07T12:35:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Four African currencies that outperformed in the first half of 2026",
-                "desc": "The first half of 2026 tested African currencies as the US-Iran war rattled global financial markets, disrupted oil supplies...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/06/various-money-african-countries-close-600nw-1022475298.webp",
-                "url": "https://businessday.ng/africa/article/four-african-currencies-that-outperformed-in-the-first-half-of-2026/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-07T12:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "French court clears Marine Le Pen to run for office in 2027, but under a condition she rejects",
-                "desc": "Verdict declared Le Pen guilty of embezzlement, ruled she must wear electronic bracelet",
-                "image": "https://www.theglobeandmail.com/resizer/v2/6REDRWZ2P5DQHPKUKJZ6Q7C2HM.jpg?auth=2f63beb6349353b86da1145eb070d68d201501912c9577a5767d3c2b875db560&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-marine-le-pen-verdict-embezzlement-eu-court-paris-french-election/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-07T12:33:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qatar blames Iran for striking tanker in strait as huge crowds mourn Khamenei",
-                "desc": "The caskets of the slain leader and family were driven through the streets of the seminary city of Qom on Tuesday, where hundreds of thousands of people carried flags and banners comparing Khamenei to martyrs.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--s0uFn6xU--/c_crop,h_449,w_799,x_1,y_38/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-07T093140Z_2_LYNXMPEM660G7_RTROPTP_3_IRAN-CRISIS-KHAMENEI.JPG?itok=_uUCAtw3",
-                "url": "https://www.channelnewsasia.com/world/iran-khamenei-funeral-hormuz-tankers-hit-6237986",
-                "source": "CNA",
-                "date": "2026-07-07T12:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Please help us’: Zelenskyy presses NATO for air defense aid",
-                "desc": "Ukraine’s president said Patriot production is not enough and urged Europe to build mass-produced anti-ballistic systems “today, not years from now.”",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/07/GettyImages-2284490499-scaled.jpg",
-                "url": "https://www.politico.eu/article/volodymyr-zelenskyy-ukraine-ankara-nato-for-air-defense-aid/",
-                "source": "politico.eu",
-                "date": "2026-07-07T12:30:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Allow visa-on-arrival for all Africans to boost intra-African trade - AfCFTA Secretary-General",
-                "desc": "The Secretary-General of the African Continental Free Trade Area (AfCFTA), Wamkele Mene, has called on African governments to adopt visa-on-arrival policies",
-                "image": "https://i0.wp.com/www.gbcghanaonline.com/wp-content/uploads/2026/07/Mr-Mene.png",
-                "url": "https://www.gbcghanaonline.com/news/business/allow-visa-on-arrival-for-all-africans-to-boost-intra-african-trade-afcfta-secretary-general/2026/",
-                "source": "GBC Ghana Online",
-                "date": "2026-07-07T12:28:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The World's Most Liveable Cities In 2026, Ranked",
-                "desc": "The EIU's Global Liveability Index 2026 has ranked the world's most liveable cities – here's the full top 10, and why Copenhagen came out on top again.",
-                "image": "https://media.timeout.com/images/106368724/image.jpg",
-                "url": "https://www.timeout.com/news/the-worlds-most-liveable-cities-in-2026-have-been-named-with-one-european-capital-topping-the-list-again-070726",
-                "source": "Time Out Worldwide",
-                "date": "2026-07-07T12:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Climate justice in Africa: floods, fossil fuels and the fightback",
-                "desc": "This week in Spotlight on Africa, we look at climate change, environmental justice and the challenges of adaptation. While Europe's heatwaves make headlines, temperatures are also climbing across Africa,…",
-                "image": "https://s.rfi.fr/media/display/585d91be-4af3-11f1-b2ce-005056bfb2b6/w:1280/p:16x9/2-e-waka-electric-bikes-IMG-2518.jpg",
-                "url": "https://www.rfi.fr/en/podcasts/spotlight-on-africa/20260707-climate-justice-in-africa-floods-fossil-fuels-and-the-fightback",
-                "source": "RFI",
-                "date": "2026-07-07T12:27:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T03:00:45.076875Z"
+    "lastGlobalSync": "2026-07-08T03:40:44.212901Z"
 }
