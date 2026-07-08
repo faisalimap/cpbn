@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Big tech’s lofty climate goals wrecked by energy-hungry AI",
+                "desc": "Net-zero pledges of Google and Amazon slip out of reach, and struggling Meta makes frantic moves",
+                "image": "https://i.guim.co.uk/img/media/e23db2eeb7fb9eb44b8fe1a13d7097ac9681bee7/417_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2946362a7012e370af3049efe118388d",
+                "url": "https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis",
+                "source": "The Guardian",
+                "date": "2026-07-07T13:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Robert Ebert: Top banker jailed for fatal crash in Hong Kong wants to sue Ferrari for millions over brake failure",
+                "desc": "Robert Ebert was head of equities trading at Deutsche Bank when he ran over a security guard",
+                "image": "https://static.independent.co.uk/2026/07/07/13/27/RobertEbertCourt3.jpeg?trim=624,0,1104,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/uk/home-news/robert-ebert-ferrari-hong-kong-b3010456.html",
+                "source": "The Independent",
+                "date": "2026-07-07T13:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Apex of civilizational ambition'",
+                "desc": "Financial underwriters of SpaceX's IPO are now free to release their equity research.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108321262-1781283556406-IMG_9530.jpg?v=1781283681&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/07/banks-start-bullish-ratings-on-spacex-apex-of-civilizational-ambition.html",
+                "source": "CNBC",
+                "date": "2026-07-07T13:11:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippine Airlines to offer more flights to Japan, Australia for holidays",
+                "desc": "Thinking of where to spend your holiday?",
+                "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Melanie_temp/PAL_MOREFLIGHTS%20BANNER.png",
+                "url": "https://philstarlife.com/news-and-views/558945-philippine-airlines-to-offer-more-flights-to-japan-australia-for-holidays",
+                "source": "Philstar Life",
+                "date": "2026-07-07T13:09:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thames Water creditors ‘will bid for company even if it is nationalised’",
+                "desc": "Group of 100 investors still discussing £10bn rescue proposal with officials from regulator Ofwat, says report",
+                "image": "https://i.guim.co.uk/img/media/063bd40584adf6d02c3db14de72bee43568eef39/61_0_4426_3543/master/4426.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc52b6ce38410681ebabd7303e18e7c8",
+                "url": "https://www.theguardian.com/business/2026/jul/07/thames-water-creditors-bid-nationalised-rescue-ofwat",
+                "source": "The Guardian",
+                "date": "2026-07-07T13:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NBFCs' gold loans jump nearly 70 pc in May, fastest across segments: RBI data",
+                "desc": "Outstanding loans against gold jewellery stood at Rs 3.29 lakh crore at the end of May 2026, up 69.9 per cent from Rs 1.94 lakh crore a year earlier.",
+                "image": "https://img.etimg.com/thumb/msid-132240846,width-1200,height-630,imgsize-215030,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-gold-loans-jump-nearly-70-pc-in-may-fastest-across-segments-rbi-data/articleshow/132240830.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-07T13:08:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump promised to cut electric bills in half. His energy policy is doing the opposite, new analysis finds",
+                "desc": "American’s are paying more for power as the Trump administration’s attacks on renewable energy collide with increased energy demand.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2260914514a.JPG?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/07/climate/trump-electricity-bills-renewables-energy-costs",
+                "source": "CNN",
+                "date": "2026-07-07T13:07:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Egypt continues groundbreaking form in Samurai bond market",
+                "desc": "The country has issued its first sustainability Samurai bond, the first by an African sovereign to be directly guaranteed by an African multilateral financial institution.",
+                "image": "https://www.africanlawbusiness.com/wp-content/uploads/2026/07/Green_finance_iStock_resized.jpg",
+                "url": "https://www.africanlawbusiness.com/news/egypt-continues-groundbreaking-form-in-samurai-bond-market/",
+                "source": "African Law & Business",
+                "date": "2026-07-07T13:07:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GSS releases landmark report to standardise Ghana's Non-Standard Units of measurement",
+                "desc": "GSS releases landmark report to standardise Ghana's Non-Standard Units of measurement",
+                "image": "https://www.graphic.com.gh/images/2023/may/22/stattie.jpg",
+                "url": "https://www.graphic.com.gh/business/business-news/gss-releases-landmark-report-to-standardise-ghanas-non-standard-units-of-measurement.html",
+                "source": "Graphic Online",
+                "date": "2026-07-07T13:06:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Are new cars lacking in quality and becoming more difficult to repair?",
+                "desc": "Modern cars may be safer and cleverer, but whether they’ll prove better over 20 years on our roads is another matter",
+                "image": "https://www.irishtimes.com/resizer/v2/DBEQ25FJMJFHTFWVFCVVDJRKH4.jpg?smart=true&auth=714597f041532962ef38eabff783f440dda20eeef8e7db0f7d843532a7475ac6&width=1200&height=630",
+                "url": "https://www.irishtimes.com/motors/2026/07/07/are-new-cars-lacking-in-quality-and-becoming-more-difficult-to-repair/",
+                "source": "The Irish Times",
+                "date": "2026-07-07T13:06:34Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Astro's X3 targets digital first users with ‘no box, no installation, no contract’ streaming service",
                 "desc": "In an attempt to reverse the slide in its subscriber base and provide a simple-to-sign-up instant alternative to combat content piracy, Astro Malaysia Holdings Bhd (KL: ASTRO) is launching an X3 streaming service from July 20 from as low as RM39.99 per month.",
                 "image": "https://assets.theedgemarkets.com/ASTRO_0621.JPG",
@@ -542,99 +632,99 @@
                 "source": "Malay Mail",
                 "date": "2026-07-07T01:21:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Carbonix wins SAIL III approval for drones",
-                "desc": "Sydney-based Carbonix says it has become the first company in Australia to achieve Safety Assurance Integrity Level (SAIL) III certification for a drone. The ce...",
-                "image": "https://media.asianaviation.com/uploads/Carbonix-drone-flying-1024x683.jpg",
-                "url": "https://asianaviation.com/posts/carbonix-wins-sail-iii-approval-for-drones",
-                "source": "Asian Aviation",
-                "date": "2026-07-07T01:00:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air Algerie NS26 Leased A320 Operations at Algiers",
-                "desc": "Published at 1800PDT 06JUL26 / 0100GMT 07JUL26 Air Algerie during Northern summer 2026 season included Airbus A320 aircraft to its operation, operated by Avion Express. The following focuses on planned A320 operation on international routes, to/from Algiers . One-time service is excluded from thi",
-                "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
-                "url": "https://www.aeroroutes.com/eng/260706-ahns26320",
-                "source": "AeroRoutes",
-                "date": "2026-07-07T01:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SCG and ASEAN Strengthen Industrial Collaboration Amid Global Transformation",
-                "desc": "The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.",
-                "image": "https://images.media-outreach.com/Images/Thumb/550x/784352/784352-SCG-and-ASEAN-Strengthen-.jpeg",
-                "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607062100DGAP____ASPR_____corporate_2361126_en-1",
-                "source": "Financial Times",
-                "date": "2026-07-07T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Backbone Woos Banks After CBN Data Storage Directive",
-                "desc": "Galaxy Backbone intensifies efforts to attract banks and fintechs to its digital infrastructure services following the CBN's directive on local data storag",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/Galaxy-Backbone-.webp",
-                "url": "https://punchng.com/galaxy-backbone-woos-banks-after-cbn-directive/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-07T00:57:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tokyo stocks mixed on US Dow's record close, weak chip shares",
-                "desc": "TOKYO (Kyodo) -- Tokyo stocks were mixed early Tuesday as buying following the U.S. Dow Jones index's record-high close was offset by selling of some",
-                "image": "https://cdn.mainichi.jp/vol1/2026/07/01/20260701p2g00m0bu041000p/0c10.jpg?1",
-                "url": "https://mainichi.jp/english/articles/20260707/p2g/00m/0bu/009000c",
-                "source": "毎日新聞",
-                "date": "2026-07-07T00:53:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Betr shifts gaming licence to Tasmania from Northern Territory",
-                "desc": "The company is heading south after the NT doubled its tax cap…",
-                "image": "https://cdn.pulsetasmania.com.au/images/pmg/a89eee16-5poiz8ouywn6pxx_vdvm2_ewndt.jpg",
-                "url": "https://pulsetasmania.com.au/news/betr-shifts-gaming-licence-to-tasmania-from-northern-territory/",
-                "source": "Pulse Tasmania",
-                "date": "2026-07-07T00:49:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Virtual telcos bundle AI with mobile plans",
-                "desc": "Discover how virtual telcos are bundling access to paid AI models with mobile plans for as little as $8 a month, sparking a price war. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/11a7d8b3671a96bf9918acc7c468e419db45aa1b3ee044b4fd488fccafbd3b9c",
-                "url": "https://www.straitstimes.com/tech/virtual-telcos-bundle-mobile-plans-with-access-to-paid-ai-models-for-as-low-as-8-a-month",
-                "source": "The Straits Times",
-                "date": "2026-07-07T00:47:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Webull Malaysia Launches OpenAPI, Allowing Investors to Trade US Stocks and ETFs via Plain Language AI",
-                "desc": "**media[1126770]**Webull Malaysia's OpenAPI lets local retail investors use plain-language AI commands to query real-time market data, check account positions, and place, modify and cancel orders across US stocks and ETFsAPI-driven trading tools, previously reserved for developers and quantitative traders, are now available to everyday Malaysian investorsThis is part of Webull Corporation's global push to make AI-driven investing more accessible, which includes the global rollout of its Model Context Protocol (MCP) serverKUALA LUMPUR, Malaysia, July 7, 2026 /PRNewswire/ -- Webull Securities (Malaysia) Sdn. Bhd. ('Webull Malaysia'), a subsidiary of Webull Corporation (NASDAQ: BULL), the owner of the Webull trading platform, today announced the launch of its OpenAPI in Malaysia, enabling local retail investors to connect AI agents and tools directly to Webull's trading infrastructure. The launch bridges the gap between Malaysian retail investors and the hedge-fund-level tools that have, until now, been available mainly to advanced developers and quantitative traders. As a result of this launch, Webull users will gain access to its high-quality, real-time market data and execution services via API, allowing for AI-informed investment through their AI model of choice.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126769.jpg",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/webull-malaysia-launches-openapi-allowing-investors-to-trade-us-stocks-and-etfs-via-plain-language-ai/2379419",
-                "source": "The Manila Times",
-                "date": "2026-07-07T00:46:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft to cut thousands of jobs, Xbox to be hit hard",
-                "desc": "The move will affect the company's gaming division, which has been facing the outcome of a \"not healthy\" business model. The jobs cut will not be replaced by AI, Microsoft's VP said.",
-                "image": "https://static.dw.com/image/74028752_6.jpg",
-                "url": "https://www.dw.com/en/microsoft-to-cut-thousands-of-jobs-xbox-to-be-hit-hard/a-77857704",
-                "source": "DW.com",
-                "date": "2026-07-07T00:46:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Corporate Japan’s warnings over rare earths get louder as China keeps the spigot closed",
-                "desc": "As the economy strengthens, an unprecedented increase in company notices about critical ​minerals is flashing a warning signal for the quarters ahead.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/07/550226.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/07/economy/rare-earths-shortage-impact-economy/",
-                "source": "The Japan Times",
-                "date": "2026-07-07T00:44:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "EU cannot stop Sony and other developers from scrapping physical discs, says Michael McGrath",
+                "desc": "PlayStation games will no longer be released on discs from January 2028, sparking fierce debate among gamers",
+                "image": "https://i2-prod.irishmirror.ie/article25264251.ece/ALTERNATES/s1200d/0_GettyImages-1229558736.jpg",
+                "url": "https://www.irishmirror.ie/news/irish-news/politics/eu-cannot-stop-sony-developers-37398844",
+                "source": "Irish Mirror",
+                "date": "2026-07-07T13:12:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nothing has launched the Phone (4b) with a Snapdragon 6 Gen 4 for €329",
+                "desc": "Nothing has opened pre-orders for its new smartphone, the Nothing Phone (4b). It features a 6.77-inch display, a Snapdragon 6 Gen 4 chip and 8 GB of RAM, and is priced at €329.",
+                "image": "https://img.mezha.ua/mezha/images/doc/0/a/316275/0a3f5139e649b3d4c249bf0e76ca38db.jpeg?w=1200&q=85&stamp=1783428525",
+                "url": "https://mezha.ua/en/news/nothing-phone-4b-out-now-313006/",
+                "source": "Mezha",
+                "date": "2026-07-07T13:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Smart Contact Lenses Move Closer to Reality as XPANCEO Expands JBD Display Partnership",
+                "desc": "Dubai-based smart contact lenses startup XPANCEO announced it’s expanding a partnership with China’s JBD to co-develop a new micro-display designed specifically for smart contact lenses. Previously, the companies co-developed a printed circuit board with integrated micro-display, as well as a unique optical system capable of forming a near-eye image for easy focus. Now XPANCEO is deepening […]",
+                "image": "https://roadtovr.com/wp-content/uploads/2026/07/XPANCEO-x-JBD.jpg",
+                "url": "https://roadtovr.com/smart-contact-lens-xpanceo-jbd-display-partnership/",
+                "source": "Road to VR",
+                "date": "2026-07-07T13:09:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marshall's guitar amp-inspired Bluetooth speakers feature upgraded drivers and connections for a “more powerful, room-filling sound\"",
+                "desc": "The retro-styled Acton IV and Stanmore IV have new inputs, controls and multi-speaker connectivity features",
+                "image": "https://cdn.mos.cms.futurecdn.net/QZzn3DXjenm3qFT8FarAYG-2310-80.jpg",
+                "url": "https://www.whathifi.com/speakers/marshalls-guitar-amp-inspired-bluetooth-speakers-feature-upgraded-drivers-and-connections-for-a-more-powerful-room-filling-sound",
+                "source": "What Hi-Fi?",
+                "date": "2026-07-07T13:09:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 18 Pro motherboard leak suggests a sharp price rise on the way thanks to next-gen RAM",
+                "desc": "The latest iPhone 18 leak focuses on several possible hardware upgrades that could improve performance and AI capabilities.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/18-pro.jpg",
+                "url": "https://www.pcguide.com/news/iphone-18-pro-motherboard-leak-suggests-a-sharp-price-rise-with-next-gen-ram-on-board/",
+                "source": "PC Guide",
+                "date": "2026-07-07T13:08:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Active Exploitation Alert: Critical Gitea Docker Authentication Bypass Vulnerability (CVE-2026-20896) Under Attack",
+                "desc": "Executive SummaryCVE-2026-20896 is a critical authentication bypass vulnerability (CVSS 9.8) affecting Gitea Docker images up to and including version 1.26.2. This flaw enables unauthenticated remote",
+                "image": "https://www.rescana.com/post/img/active-exploitation-alert-critical-gitea-docker-authentication-bypass-vulnerability-cve-2026-20896-under-attack-cover.png",
+                "url": "https://www.rescana.com/post/active-exploitation-alert-critical-gitea-docker-authentication-bypass-vulnerability-cve-2026-20896-under-attack",
+                "source": "Rescana",
+                "date": "2026-07-07T13:07:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Active Exploitation Alert: Critical CVE-2024-12356 Authentication Bypass and RCE in BeyondTrust Remote Support and PRA",
+                "desc": "Executive SummaryA critical authentication bypass and remote code execution vulnerability, tracked as CVE-2024-12356, has been identified in BeyondTrust's flagship products: Remote Support (RS) and Pr",
+                "image": "https://www.rescana.com/post/img/active-exploitation-alert-critical-cve-2024-12356-authentication-bypass-and-rce-in-beyondtrust-remote-support-and-pra-cover.png",
+                "url": "https://www.rescana.com/post/active-exploitation-alert-critical-cve-2024-12356-authentication-bypass-and-rce-in-beyondtrust-remote-support-and-pra",
+                "source": "Rescana",
+                "date": "2026-07-07T13:07:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Active Exploitation Alert: Hidden Admin Backdoor (CVE-2026-11405) in Tenda Router Firmware Enables Unauthenticated Remote Access",
+                "desc": "Executive SummaryThe CERT/CC has issued a critical advisory regarding a hidden administrative backdoor in multiple Tenda router firmware versions, tracked as CVE-2026-11405. This vulnerability enables",
+                "image": "https://www.rescana.com/post/img/active-exploitation-alert-hidden-admin-backdoor-cve-2026-11405-in-tenda-router-firmware-enables-unauthenticated-remote-a-cover.png",
+                "url": "https://www.rescana.com/post/active-exploitation-alert-hidden-admin-backdoor-cve-2026-11405-in-tenda-router-firmware-enables-unauthenticated-remote-a",
+                "source": "Rescana",
+                "date": "2026-07-07T13:07:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OPPO crushes Samsung in head-to-head camera battle",
+                "desc": "The Samsung Galaxy S26 Ultra and OPPO Find X9 Ultra are both impressive handsets, but our reader survey says one is the better camera phone.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Oppo-Find-X9-Ultra-lay-down-with-Galaxy-S26-Ultra.jpg",
+                "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-oppo-find-x9-ultra-camera-poll-results-3684738/",
+                "source": "Android Authority",
+                "date": "2026-07-07T13:06:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple's iPhone 18 Pro Max might come with a massive battery",
+                "desc": "Apple's upcoming iPhone 18 Pro Max will have a significantly larger battery compared to its predecessor.",
+                "image": "https://helios-i.mashable.com/imagery/articles/06SL3sozIiDC0jomBWBitwt/hero-image.fill.size_1200x675.v1783427356.webp",
+                "url": "https://mashable.com/tech/iphone-18-pro-battery-size",
+                "source": "Mashable",
+                "date": "2026-07-07T13:06:37Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Assail launches Sidewinder, an offensive security AI that fixes its own mistakes",
                 "desc": "Assail launches Sidewinder, an offensive security AI that fixes its own mistakes - SiliconANGLE",
@@ -1174,99 +1264,99 @@
                 "source": "Windows Central",
                 "date": "2026-07-07T00:19:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft announces new Cloud Rebuild recovery feature for Windows 11",
-                "desc": "A new recovery option coming to Windows 11 will let you reinstall the OS and your drivers using the internet without a USB key, even when Windows itself is unbootable.",
-                "image": "https://s.yimg.com/lo/mysterio/api/a1238eb98109743ee803626a0dc6b2203ae743261e6924966ef57b629f105c34/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwindows_central_293%2F9edf3196ef40d2b450199b6414ed2f09",
-                "url": "https://tech.yahoo.com/computing/articles/microsoft-announces-cloud-rebuild-recovery-001844488.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-07T00:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Orders up for Newham General",
-                "desc": "Newham General back and buzzing after reopening its doors",
-                "image": "https://midlandexpress.com.au/wp-content/uploads/2026/07/NewGenStore1-scaled.jpg",
-                "url": "https://midlandexpress.com.au/latest-news/2026/07/07/newham-general-back-and-buzzing-after-reopening-its-doors/",
-                "source": "Midland Express",
-                "date": "2026-07-07T00:16:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘How did the elephant become so big?’ New Chris Packham-fronted BBC TV series uncovers the secrets of evolution",
-                "desc": "All you need to know about Evolution, the new BBC TV series presented by Chris Packham",
-                "image": "https://c02.purpledshub.com/uploads/sites/62/2026/07/568732.jpg?w=1200",
-                "url": "https://www.discoverwildlife.com/tv/evolution-bbc-tv",
-                "source": "BBC Wildlife Magazine",
-                "date": "2026-07-07T00:06:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mobile wallet access expands at Melbourne office tower",
-                "desc": "Thousands of tenants and visitors at 101 Collins Street now use phones for entry, cuts access administration from days to minutes.",
-                "image": "https://securitybrief.com.au/uploads/story/2026/07/07/compatible_Steve_Katanas.jpg",
-                "url": "https://securitybrief.com.au/story/mobile-wallet-access-expands-at-melbourne-office-tower",
-                "source": "SecurityBrief Australia",
-                "date": "2026-07-07T00:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NASA chief says China may overtake U.S. in space race",
-                "desc": "China is rapidly advancing its lunar exploration program and is expected to eventually send taikonauts to the Moon, AzerNEWS reports.",
-                "image": "https://www.azernews.az/media/2026/07/07/image_4.png",
-                "url": "https://www.azernews.az/region/260722.html",
-                "source": "AzerNews",
-                "date": "2026-07-07T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gravity Game Unite Launches 2nd Open Beta Test for PC MMORPG Ragnarok Zero: Global",
-                "desc": "/PRNewswire/ -- Gravity Game Unite (GGU), the Malaysian subsidiary of global game company Gravity, has officially launched the 2nd Open Beta Test (OBT2) for...",
-                "image": "https://mma.prnewswire.com/media/3004262/ROZ_OBT_2_Is_Now_Open_1920x1080_EN.jpg?p=facebook",
-                "url": "https://www.prnewswire.co.uk/news-releases/gravity-game-unite-launches-2nd-open-beta-test-for-pc-mmorpg-ragnarok-zero-global-302818405.html",
-                "source": "PR Newswire UK",
-                "date": "2026-07-07T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You can now add an E-Ink screen to your phone for dirt cheap",
-                "desc": "Magnetically sticks to your phone and it actually works",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/xteink-x4-on-blankets.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/you-can-now-add-an-e-ink-screen-to-your-phone-for-dirt-cheap/",
-                "source": "Android Police",
-                "date": "2026-07-07T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Courtenay dad wins $250K on lotto ticket given to him for Father’s Day",
-                "desc": "A man from Courtenay received what may be one of the best Father's Day gifts he will ever receive: winning $250,000 from a $20 Gold III Scratch & Win lottery ticket.",
-                "image": "https://victoriabuzz.com/wp-content/uploads/2026/07/Winner_Edward-G_960x540.jpg",
-                "url": "https://victoriabuzz.com/2026/07/courtenay-dad-wins-250k-on-lotto-ticket-given-to-him-for-fathers-day/",
-                "source": "Victoria Buzz",
-                "date": "2026-07-06T23:52:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple products drop to record-low price during Amazon Australia’s Prime Day sales - but you’ll have to be quick",
-                "desc": "Run, don’t walk: we’ve spotted Airpods, iPads and even Apple Watches marked down.",
-                "image": "https://images.7news.com.au/publication/C-22540700/054f72f0b3a116d4f386570dd01c1e37daef83cc-16x9-x0y0w1280h720.png?imwidth=1200",
-                "url": "https://7news.com.au/7you/tech/apple-products-drop-to-record-low-price-during-amazon-australias-prime-day-sales-but-youll-have-to-be-quick-c-22540700",
-                "source": "7NEWS",
-                "date": "2026-07-06T23:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iOS 27 beta 3 makes it easier to adjust AirPods Adaptive mode intensity",
-                "desc": "A new Listening Mode setting lets users more easily adjust how much ambient noise their AirPods allow through in Adaptive mode.",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/airpods-adaptive.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/06/ios-27-beta-3-makes-it-easier-to-adjust-airpods-adaptive-mode-intensity/",
-                "source": "9to5Mac",
-                "date": "2026-07-06T23:49:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Robert Ebert: Top banker jailed for fatal crash in Hong Kong wants to sue Ferrari for millions over brake failure",
+                "desc": "Robert Ebert was head of equities trading at Deutsche Bank when he ran over a security guard",
+                "image": "https://static.independent.co.uk/2026/07/07/13/27/RobertEbertCourt3.jpeg?trim=624,0,1104,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/uk/home-news/robert-ebert-ferrari-hong-kong-b3010456.html",
+                "source": "The Independent",
+                "date": "2026-07-07T13:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry Loses Daily Mail 'Phone Hacking' Lawsuit",
+                "desc": "A judgment has been handed down in Prince Harry's lawsuit against the Daily Mail over alleged phone-hacking.",
+                "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2284499406.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/global/news/prince-harry-daily-mail-judgment-loses-privacy-1236803143/",
+                "source": "Variety",
+                "date": "2026-07-07T13:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO must become more European to reduce reliance on US security, von der Leyen and Rutte say",
+                "desc": "\"To stay transatlantic, we have to become more European,\" Mark Rutte said ahead of a NATO summit in Ankara, where European allies are expected to showcase their beefed-up defence spending plans.",
+                "image": "https://images.euronews.com/articles/stories/09/82/84/16/1200x675_cmsv2_3ac8a4ef-4fe1-5276-89ea-57a82b62e658-9828416.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/07/07/nato-must-become-more-european-to-reduce-reliance-on-us-security-von-der-leyen-and-rutte-s",
+                "source": "Euronews.com",
+                "date": "2026-07-07T13:11:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa Phytosanitary Programme Reaches 38 Countries as Phase 3 Kicks Off in Ethiopia",
+                "desc": "Addis Ababa – The Food and Agriculture Organization of the United Nations (FAO), the International Plant Protection Convention (IPPC) and partners launched the third phase of the Africa Phytosanitary Programme (APP) today – representing a major effort to stop the spread of plant pests and diseases in Africa using cutting-edge digital tools. The launch is hosted by the […]",
+                "image": "https://farmersreviewafrica.com/wp-content/uploads/2026/07/Group-photo-e1783429760323.jpeg",
+                "url": "https://farmersreviewafrica.com/africa-phytosanitary-programme-reaches-38-countries-as-phase-3-kicks-off-in-ethiopia/",
+                "source": "Farmers Review Africa",
+                "date": "2026-07-07T13:10:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dr George Agyekum Donkor honoured at the House of Lords for African development finance leadership",
+                "desc": "(EBID) - Dr. George Agyekum Donkor, President and Chairman of the Board of Directors of the ECOWAS Bank for Investment and Development (EBID),",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/410019b45e308ac2f64e29e95d17800f_S.jpg",
+                "url": "https://www.ecofinagency.com/news/0707-57136-dr-george-agyekum-donkor-honoured-at-the-house-of-lords-for-african-development-finance-leadership",
+                "source": "Ecofin Agency",
+                "date": "2026-07-07T13:09:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Which Nato allies spend the most on defence?",
+                "desc": "Defence spending is rising, but so are Nato's targets",
+                "image": "https://www.thenationalnews.com/resizer/v2/ZSRLFKZBTZCM3MQG3QLCFPSWKE.jpg?smart=true&auth=1c0ad61c99a45cc67a144d49fdd8e14cef8156587562450e370760738d9beb50&width=1200&height=630",
+                "url": "https://www.thenationalnews.com/news/2026/07/07/which-nato-allies-spend-the-most-on-defence/",
+                "source": "thenationalnews.com",
+                "date": "2026-07-07T13:08:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New York man sues ICE for sending officers to his house after he emailed agency head",
+                "desc": "David Streever had emailed acting ICE director after an immigration officer fatally shot Renee Good in Minneapolis",
+                "image": "https://i.guim.co.uk/img/media/32a47559774965cd17b59b1ee6267df11e527989/473_0_3040_2432/master/3040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8208d41fc74d97951368aea741a1d279",
+                "url": "https://www.theguardian.com/us-news/2026/jul/07/new-york-man-sues-ice-email",
+                "source": "The Guardian",
+                "date": "2026-07-07T13:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TechReviewAfrica - News Details",
+                "desc": "Your Trusted Tech News Platform",
+                "image": "https://techreviewafrica.com/assets/images/news/2026/07/07/6a4cf8b2edb6b1783429298.jpg",
+                "url": "https://techreviewafrica.com/news/6205/senegal-co-chairs-un-ai-governance-session-on-bridging-digital-and-artificial-intelligence-divides",
+                "source": "Tech Review Africa",
+                "date": "2026-07-07T13:05:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Immigrant Activist Is Hit With Bribery Allegations",
+                "desc": "Mlungisi Manciza alleged that anti-immigration activist Phakel'umthakathi received R6 million in a bribery scandal linked to South African President Ramaphosa.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/21aa94c9bbb3c46b.jpeg?v=1",
+                "url": "https://yen.com.gh/people/307417-phakelumthakathi-africans-jubilate-sa-anti-immigrant-activist-hit-bribery-allegations/",
+                "source": "Yen News",
+                "date": "2026-07-07T13:04:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zimbabwe's exports rise 42% as value-added production grows",
+                "desc": "Zimbabwe increased exports to US$4.45 billion in the first five months of 2026, driven by strong mineral exports and growing value-added production across key industrial sectors.",
+                "image": "https://tvbrics.com/upload/resize_cache/iblock/9c6/300_300_1/hhkvcimyrkm3kcb2emf6o1tdad0nzdg7.jpg",
+                "url": "https://tvbrics.com/en/news/zimbabwe-records-42-growth-in-exports-as-value-added-production-expands/",
+                "source": "TV BRICS",
+                "date": "2026-07-07T13:03:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "TechReviewAfrica - News Details",
                 "desc": "Your Trusted Tech News Platform",
@@ -1806,98 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-07T00:35:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Barbara Dreaver: China's missile test sends unmistakable Pacific message",
-                "desc": "Analysis: Beijing's dummy warhead test, fired hours after Australia and Fiji signed a new defence pact, signals a Pacific influence battle entering a sharper, more public phase.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/china-flag-file-image-7376VS57A5BYZH2CMA7FZP7ZLA.jpg?auth=3cc90ed13efee46167e90d9e8d9238b37b9065f392c0427c0fe3a6e7167c885a&quality=70&width=600&height=315&focal=2050%2C1153",
-                "url": "https://www.1news.co.nz/2026/07/07/barbara-dreaver-chinas-missile-test-sends-unmistakable-pacific-message/",
-                "source": "1News",
-                "date": "2026-07-07T00:32:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taiwan revives ‘anti-communist’ training for its military graduates after 24 years",
-                "desc": "The change reflects growing concern over Beijing’s efforts to infiltrate the island’s armed forces after a string of espionage cases.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/06/27fb6150-6c7f-4237-abbd-3a2b8676a7ae_1e08a019.jpg?itok=69t4d2uu&v=1783341488",
-                "url": "https://www.scmp.com/news/china/politics/article/3359628/taiwan-revives-anti-communist-training-its-military-graduates-after-24-years",
-                "source": "South China Morning Post",
-                "date": "2026-07-07T00:30:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Push to force Australian women to take a pregnancy test to enter US",
-                "desc": "Tourists could be forced into an intrusive procedure or face being turned around and sent back home.",
-                "image": "https://static.ffx.io/images/$zoom_0.4995%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f46abbcd4e4dbe7c0a797f27b1b03ed9a512e6e0",
-                "url": "https://www.nine.com.au/world-news/usa/push-to-force-australian-women-to-take-a-pregnancy-test-to-enter-us-20260707-p60d84.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-07T00:29:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zimbabwe hit by nationwide power outage",
-                "desc": "Zimbabwe's national grid collapsed Monday, plunging the southern African country into a blackout, the state-owned power utility said.",
-                "image": "https://globalnation.inquirer.net/files/2026/07/Zimbabwe-hit-by-nationwide-power-outage-scaled.jpg",
-                "url": "https://globalnation.inquirer.net/329982/zimbabwe-hit-by-nationwide-power-outage",
-                "source": "Inquirer.net",
-                "date": "2026-07-07T00:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jolted by Ebola, countries try again to finish pandemic treaty",
-                "desc": "WHO member states kicked off one more attempt at finalizing the missing piece of the pandemic treaty on Monday, with the Ebola outbreak injecting a fresh sense of urgency.",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/a-health-ministry-work.jpg",
-                "url": "https://medicalxpress.com/news/2026-07-jolted-ebola-countries-finish-pandemic.html",
-                "source": "Medical Xpress",
-                "date": "2026-07-07T00:20:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taoiseach takes aim at Brexit in Strasbourg address",
-                "desc": "The Taoiseach has taken aim at Brexit in a speech to the European Parliament setting out Ireland's priorities for its presidency of the EU.",
-                "image": "https://www.rte.ie/images/0024a76f-1600.jpg",
-                "url": "https://www.rte.ie/news/politics/2026/0707/1582107-eu-presidency-priorities/",
-                "source": "RTE.ie",
-                "date": "2026-07-07T00:15:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil tanker struck in Strait of Hormuz, UK says",
-                "desc": "The incident occurred east of Limah, Oman. A projectile struck a tanker and caused a fire while it was traveling southbound, with no casualties reported.",
-                "image": "https://static.dw.com/image/77729801_6.jpg",
-                "url": "https://www.dw.com/en/oil-tanker-struck-in-strait-of-hormuz-uk-says/a-77857718",
-                "source": "DW.com",
-                "date": "2026-07-07T00:12:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-                "desc": "Defense Minister threatens Iranian regime during Khamenei's funeral • Hamas begins dissolving its Gaza government • Iran targeted civilians as tactic of war, new report pushes IRGC accountability",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728481",
-                "url": "https://www.jpost.com/middle-east/iran-news/2026-07-06/live-updates-901532",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-07T00:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia’s export scheme may clash with WTO rules",
-                "desc": "Indonesia’s new export intermediary aims to curb misinvoicing but in doing so it risks breaking the WTO rules Jakarta says it wants to defend.",
-                "image": "https://eastasiaforum.org/wp-content/uploads/2026/07/2025-07-10T104630Z_627063786_RC2MJFA5KHK0_RTRMADP_3_USA-TRUMPS-TARIFFS-INDONESIA-1200x842.jpg",
-                "url": "https://eastasiaforum.org/2026/07/07/indonesias-export-scheme-may-clash-with-wto-rules/",
-                "source": "East Asia Forum",
-                "date": "2026-07-07T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-                "desc": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno",
-                "source": "BBC",
-                "date": "2026-07-06T23:55:53Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T01:00:47.287449Z"
+    "lastGlobalSync": "2026-07-08T01:13:14.708266Z"
 }
