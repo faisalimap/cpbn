@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Oil prices jump, bonds dip after US strikes Iran",
+                "desc": "Crude futures climb to US$72.40 as the US reinstates trade sanctions following tanker attacks in the Strait of Hormuz.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/10/c3c80f81-us-china-trade-crude-oil-reuters-190219_1600x1000_1.webp",
+                "url": "https://www.freemalaysiatoday.com/category/business/2026/07/08/oil-prices-jump-bonds-dip-after-us-strikes-iran",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-07T23:39:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gibsons mayor says broken BC Ferries ramp has caused chaos for many",
+                "desc": "Many people told Global News they have been left scrambling to book a sailing, despite some vessels leaving with empty space on board.",
+                "image": "https://globalnews.ca/wp-content/uploads/2022/01/bc-ferries.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11957365/gibsons-mayor-broken-bc-ferries-ramp-langdale-chaos/",
+                "source": "Global News",
+                "date": "2026-07-07T23:35:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hong Kong’s property market set to cool despite run of record-breaking deals",
+                "desc": "The recent rally in residential property is likely to lose steam in the second half of 2026, as a weak stock market weighs on investor sentiment.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/07/4942e185-af9d-4319-bbaf-cd8d526ee8d8_2d311952.jpg?itok=2mJliQvp&v=1783427091",
+                "url": "https://www.scmp.com/business/article/3359752/hong-kongs-property-market-set-cool-despite-run-record-breaking-deals",
+                "source": "South China Morning Post",
+                "date": "2026-07-07T23:30:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India Calls Out Meta Over Reported Child Sexual Abuse Imagery in Ads",
+                "desc": "The tech giant that owns Instagram, Facebook and WhatsApp says it is in touch with the Indian authorities about reports that exploitative content is being hawked on one of its platforms.",
+                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-India-Meta-Ads-wlkz/07int-India-Meta-Ads-wlkz-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/07/world/asia/india-meta-child-abuse-imagery.html",
+                "source": "The New York Times",
+                "date": "2026-07-07T23:27:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kiwi Crunch enters voluntary administration - Hawke’s Bay apple grower faces uncertainty",
+                "desc": "By RNZ Major apple grower and exporter Kiwi Crunch Hawke’s Bay has entered voluntary administration, alongside several other associated companies. According...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/X6D2VRU5CNE53CPFX6REPDLTJM.JPG?auth=04b26e51be6ebb55137128ac74bf7ab991cf793866074df78b82eab6e1b2e495&width=1200&height=675&quality=70&focal=2588%2C1595&smart=false",
+                "url": "https://www.nzherald.co.nz/the-country/news/kiwi-crunch-enters-voluntary-administration-hawkes-bay-apple-grower-faces-uncertainty/ELCIELKRN5BLXNKGTD5O2RAY5Y/",
+                "source": "NZ Herald",
+                "date": "2026-07-07T23:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What’s likely to move the market",
+                "desc": "A decline in chip stocks and a spike in oil prices dragged the market down on Tuesday. The Nasdaq lost more than 1%, while the Dow pulled back from 53,000.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108210164-1760032542345-gettyimages-2240145602-_75a8646_gopxuy9e.jpeg?v=1783466630&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/07/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+                "source": "CNBC",
+                "date": "2026-07-07T23:24:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In the age of AI, Hong Kong’s strategy as a ‘superconnector’ is progressing",
+                "desc": "At SCMP’s China Conference, Chief Executive John Lee and panellists made clear the city’s potential as an innovation centre, building on its traditional strengths.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2026/07/07/4c1aeb3e-431b-4972-a01e-4a0d41c4900d_23945f38.jpg?itok=Y4sIgKtK&v=1783420402",
+                "url": "https://www.scmp.com/opinion/comment/article/3359739/age-ai-hong-kongs-strategy-superconnector-progressing",
+                "source": "South China Morning Post",
+                "date": "2026-07-07T23:15:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Double cut: Shock as 18 banks drop rates",
+                "desc": "A rate war has broken out as banks go against RBA, with a major lender slotting in a surprise double cut - and 18 others dropping variables.",
+                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_07d6e5571072c07a68028f5867b00d71_dd32c9ca52be6e60dc82d440093a6681.jpeg",
+                "url": "https://www.realestate.com.au/news/double-rate-cut-war-breaks-out-as-18-banks-drop-mortgage-rates/",
+                "source": "realestate.com.au",
+                "date": "2026-07-07T23:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The big housing reform that may be easier said than done",
+                "desc": "The government wants to abolish leasehold, but replacing it could prove far more complicated",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5867/live/880920f0-7a09-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.com/news/articles/cp8llpp67l1o",
+                "source": "BBC",
+                "date": "2026-07-07T23:13:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The big housing reform that may be easier said than done",
+                "desc": "The government wants to abolish leasehold, but replacing it could prove far more complicated",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5867/live/880920f0-7a09-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cp8llpp67l1o",
+                "source": "BBC",
+                "date": "2026-07-07T23:13:38Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Beijing is looking at curbing overseas access to China's top AI models, sources say",
                 "desc": "SINGAPORE, July 7 (Reuters) - Chinese authorities have held meetings with top tech firms over the past month about potentially restricting overseas access to China's most advanced AI models, including...",
                 "image": "https://s.yimg.com/lo/mysterio/api/45762d2ac107377991f82e8f60a193f627b06d0c7eb87ef72f1ff3b68448861e/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F77888907e57854274a95b1b28b492f50",
@@ -542,99 +632,99 @@
                 "source": "RNZ",
                 "date": "2026-07-07T20:10:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Big Oil's Windfall Earnings Threaten to Reignite Trump's Price-Gouging Push",
-                "desc": "Trump is escalating pressure on oil companies, accusing them of price gouging and demanding gasoline prices fall toward $2.50 per gallon.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_vc1rouiy3g.jpg",
-                "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Windfall-Earnings-Threaten-to-Reignite-Trumps-Price-Gouging-Push.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-07T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liberals shelve Conservatives' request for probe of plan to buy vacant B.C. condos",
-                "desc": "A parliamentary ethics committee meeting left Conservative MPs frustrated Monday when Liberal members voted to shelve their demand to probe a plan to buy unsold, vacant condos in British Columbia and turn them into affordable housing.",
-                "image": "https://i.cbc.ca/ais/eea58d04-93e2-4740-993e-6b0956845437,1783451590526/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C156%2C3000%2C1687%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/politics/liberal-condo-plan-bc-conservatives-9.7261672",
-                "source": "CBC",
-                "date": "2026-07-07T19:57:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As chip sector takes it on the chin, traders bet on a big Nvidia rally",
-                "desc": "Shares of Nvidia fought into the green despite a 5% sell-off in chip stocks tracked by the VanEck Semiconductor ETF (SMH).",
-                "image": "https://image.cnbcfm.com/api/v1/image/108324773-1782131265368-gettyimages-2282192099-20090101260622-99-815071.jpeg?v=1782131312&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/07/as-chip-sector-takes-it-on-the-chin-traders-bet-on-a-big-nvidia-rally-.html",
-                "source": "CNBC",
-                "date": "2026-07-07T19:56:25Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Investors gain N1.86 trillion as stock market extends rally",
-                "desc": "Market capitalisation rose by 1.24 per cent, or N1.864 trillion, to close at N152.135 trillion, up from N150.271 trillion.",
-                "image": "https://gazettengr.com/wp-content/uploads/IMG_3904.jpeg",
-                "url": "https://gazettengr.com/investors-gain-n1-86-trillion-as-stock-market-extends-rally/",
-                "source": "Peoples Gazette Nigeria",
-                "date": "2026-07-07T19:55:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Josh Brown likes this 'sleeping giant' AI play and Magnificent 7 member",
-                "desc": "Apple is a \"sleeping giant\" thanks to its late entry into artificial intelligence. It should be a big AI beneficiary and reach $400 per share, Josh Brown said.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108327023-1782412816890-gettyimages-2283305840-anotherday231781947_vxyezz3d.jpeg?v=1782412889&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/07/josh-brown-likes-this-sleeping-giant-ai-play-and-magnificent-7-member.html",
-                "source": "CNBC",
-                "date": "2026-07-07T19:53:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liberals block debate over Carney condo 'bailout' at ethics committee",
-                "desc": "The motion stemmed from allegations several developers attended a recent Liberal party fundraiser in Vancouver, paying $1,775 per ticket.",
-                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/0626-na-carney-condo_303801687.jpg",
-                "url": "https://nationalpost.com/news/politics/liberals-shut-down-debate-over-carney-condo-bailout-connections-at-ethics-committee",
-                "source": "National Post",
-                "date": "2026-07-07T19:53:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Highly Specialized Experts May Risk Exclusion at Trial",
-                "desc": "Immature technology adoption processes drive budget overruns, delays and lost value, limiting returns on digital investments across industries.",
-                "image": "https://www.fticonsulting.com/-/media/images/shared-content/insights/articles/2026/jul/why-highly-specialized-experts-may-risk-exclusion-trial_1200x627_center.jpeg?rev=a37db97a8a2d436a8ec2961b3d8858af",
-                "url": "https://www.fticonsulting.com/insights/articles/why-highly-specialized-experts-may-risk-exclusion-trial",
-                "source": "FTI Consulting",
-                "date": "2026-07-07T19:52:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What I Learned From Six Months Of Using Agentic Assistants For Work",
-                "desc": "Built to bring the productivity gains of Claude Cowork to non-coders, these AI assistants have lots of promise but require thoughtful deployment in enterprise settings.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4d505d47804a53fd049780/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/moorinsights/2026/07/07/what-i-learned-from-six-months-of-using-agentic-assistants-for-work/",
-                "source": "Forbes",
-                "date": "2026-07-07T19:49:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Real estate agents face tough new rules to prevent criminals laundering money. This is what’s changing",
-                "desc": "Buyers will face more scrutiny as anti-money laundering rules expand to cover real estate agents, lawyers and conveyancers.",
-                "image": "https://images.theconversation.com/files/746248/original/file-20260706-57-px7jp7.jpg?ixlib=rb-4.1.0&rect=0%2C480%2C5760%2C2880&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/real-estate-agents-face-tough-new-rules-to-prevent-criminals-laundering-money-this-is-whats-changing-286551",
-                "source": "The Conversation",
-                "date": "2026-07-07T19:49:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GitHub AI agent leaks private repos when asked nicely",
-                "desc": "Per usual, there's no fix - or even any documentation - for GitLost",
-                "image": "https://image.theregister.com/5251723.jpg?imageId=5251723&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924",
-                "source": "The Register",
-                "date": "2026-07-07T19:49:01Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Samsung to reveal new foldables on July 22",
+                "desc": "A new form-factor is on the cards.",
+                "image": "https://r3.whistleout.com.au/public/images/articles/2026/07/galaxy_unpacked_fold_2026.jpg?w=1200&h=630&fit=fill&fill=blur",
+                "url": "https://www.whistleout.com.au/MobilePhones/News/Samsung-Galaxy-Z-Fold-8-Z-Flip-8-release-date",
+                "source": "WhistleOut",
+                "date": "2026-07-07T23:37:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung's Galaxy Z Fold 8 and Flip 8 arrive July 22, but it's the mystery new foldable that has my attention",
+                "desc": "Samsung's Galaxy Z Fold 8 Ultra is rumored to feature wider inner and outer displays, a 200-megapixel main camera, and a redesigned hinge.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/galaxy-z-fold-7-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/samsung-galaxy-z-fold-8-flip-8-arrive-july-22-mystery-new-foldable/",
+                "source": "XDA",
+                "date": "2026-07-07T23:33:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marvel Rivals Season 9 Early Patch Notes: Jubilee, Black Widow Rework, New Team-Ups, and More",
+                "desc": "Check out the early Marvel Rivals Season 9 patch notes to find out more about everything new coming to the game later this week.",
+                "image": "https://static.beebom.com/wp-content/uploads/2026/07/Jubilee-in-Marvel-Rivals.jpg",
+                "url": "https://beebom.com/marvel-rivals-season-9-patch-notes/",
+                "source": "Beebom",
+                "date": "2026-07-07T23:32:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Incredible new material makes heat programmable",
+                "desc": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smarter infrared sensors, better energy technologies, and memory devices that use light and heat instead of electrical charges.",
+                "image": "https://www.sciencedaily.com/images/1920/device-flexible-control-of-heat.webp",
+                "url": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
+                "source": "ScienceDaily",
+                "date": "2026-07-07T23:30:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two Legends Collide as Cyberpunk Comes to Apex Legends",
+                "desc": "Make a name by how you die - With the recent news regarding Cyberpunk Edgerunners Season 2, hype for all things Cyberpunk 2077 has been through the roof. Fi...",
+                "image": "https://images.pushsquare.com/539992a338c9d/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/two-legends-collide-as-cyberpunk-comes-to-apex-legends",
+                "source": "Push Square",
+                "date": "2026-07-07T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iOS 27: 13 Ways the Messages App is Smarter and Less Annoying",
+                "desc": "The Messages app is arguably the most important app on the iPhone, and in iOS 27, Apple is adding some useful improvements. There are some quality-of-life fixes for longtime issues, and new AI features. Contextual Suggestions Messages uses Apple Intelligence to surface one-tap suggestions based on what's being discussed in a conversation. If someone you're talking to asks you to send a photo, Messages recognizes the request and suggests adding the relevant photos.",
+                "image": "https://images.macrumors.com/t/8uP6lW9Moaij5PHMlEQqkYWnI2M=/1600x/article-new/2026/07/iOS-27-13-Ways-the-Messages-App-is-Smarter-and-Less-Annoying-Vertical.jpg",
+                "url": "https://www.macrumors.com/guide/ios-27-messages/",
+                "source": "MacRumors",
+                "date": "2026-07-07T23:25:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Perplexity Is Building an AI Coding Tool to Take on Cursor and OpenAI",
+                "desc": "San Francisco-based Perplexity, valued at $20 billion, is working on 'Teammate,' an AI tool that may compete with AI coding giants like Anthropic.",
+                "image": "https://i.insider.com/6a4d78d2965805a2c542de3b?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/perplexity-building-ai-coding-tool-take-on-cursor-and-openai-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-07T23:24:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "dates and free tickets",
+                "desc": "Asia Hi-Fi & AV Expo 2026 runs from 10 to 12 July at Marina Bay Sands, with free entry and more than 160 audio and home cinema brands.",
+                "image": "https://potions.sg/wp-content/uploads/2026/07/Headzones.jpeg",
+                "url": "https://potions.sg/tech/asia-hi-fi-av-expo-2026-singapore/",
+                "source": "potions.sg",
+                "date": "2026-07-07T23:09:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Proof drying laundry inside is making your home mouldy, even if you can’t see it",
+                "desc": "A mould inspector’s discovery in a Sydney home reveals just how bad drying laundry inside can be for our health and our home.",
+                "image": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/21e3a8ad1e44d83e0b2f180648603940a80f2866c7d009036119d50b4996c80e",
+                "url": "https://www.nine.com.au/lifestyle/homes/mould-prevention-tips-drying-laundry-inside-risks-20260707-p60d8i.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-07T23:04:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Motorola starts teasing the Edge 70 Max with magnetic wireless charging",
+                "desc": "This is still not a feature we can take for granted in the Android world. Last month, we saw the Motorola Edge 70 Max in some leaked renders, and then the...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-edge-70-max-teaser/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/motorola_starts_teasing_the_edge_70_max_with_magnetic_wireless_charging-news-73607.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-07T23:02:01Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Windows is quietly reserving gigabytes of your RAM - here’s how to get it back",
                 "desc": "Windows looked at my RAM and called dibs before I even opened anything.",
@@ -1174,99 +1264,81 @@
                 "source": "TechPowerUp",
                 "date": "2026-07-07T19:42:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google Translate's visual overhaul brings a world of new changes",
-                "desc": "Just in code for now",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/02/untitled-design-7-asss.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/google-translate-makeover-is-coming/",
-                "source": "Android Police",
-                "date": "2026-07-07T19:42:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Litejam's Neo Acoustic A1 Puts 132 RGB LEDs on a Carbon-Fiber Acoustic Smart Guitar",
-                "desc": "Litejam Neo Acoustic A1 uses 132 RGB LEDs on a carbon-fiber guitar to guide fingerpicking. Early backers pay around $299 on Kickstarter.",
-                "image": "https://www.gadgetreview.com/wp-content/uploads/litejam.jpg",
-                "url": "https://www.gadgetreview.com/litejams-neo-acoustic-a1-puts-132-rgb-leds-on-a-carbon-fiber-acoustic-smart-guitar",
-                "source": "Gadget Review",
-                "date": "2026-07-07T19:41:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AMD Innovations in Agentic Computing Era",
-                "desc": "Uncover the impact of AMD on the future of technology as we move into an era of Agentic Computing and active interaction.",
-                "image": "https://techspective.net/wp-content/uploads/2026/07/Agentic-Image-Capstone.png",
-                "url": "https://techspective.net/2026/07/07/agentic-computers-redefine-the-enterprise-workspace/",
-                "source": "TechSpective",
-                "date": "2026-07-07T19:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amid Layoffs, Xbox Announces Tony Hawk's Pro Skater Coming to Game Pass",
-                "desc": "One of the upcoming games is the full release of the viral, Pokemon-esque game Palworld.",
-                "image": "https://www.cnet.com/a/img/resize/2c30fcd34612c5f8c46ef87941d00dc278f042e7/hub/2024/05/29/b1336b83-959a-4a4a-897b-b9ed9aa685a9/xbox-game-pass-ultimate-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/gaming/amid-layoffs-xbox-announces-tony-hawks-pro-skater-coming-to-game-pass/",
-                "source": "CNET",
-                "date": "2026-07-07T19:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I cleaned up Windows credentials and found logins I forgot existed",
-                "desc": "Windows remembered accounts I had spiritually, emotionally, and legally moved on from.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/windows-control-panel-user-accounts-on-laptop-screen.png?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/i-cleaned-up-windows-credentials-and-found-logins-i-forgot-existed/",
-                "source": "MakeUseOf",
-                "date": "2026-07-07T19:30:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-                "desc": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-                "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-                "source": "TechCrunch",
-                "date": "2026-07-07T19:28:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asus unveils stylish mini tower with AMD Ryzen and wood or fabric front panel",
-                "desc": "The latest mini-tower from Asus features a case available in either a subtle white or black finish with wood accents. The Asus V500 is said to be particularly quiet and offers decent performance thanks to AMD Ryzen.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Asus_V500_Miini_Tower.jpg",
-                "url": "https://www.notebookcheck.net/Asus-unveils-stylish-mini-tower-with-AMD-Ryzen-and-wood-or-fabric-front-panel.1337062.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-07T19:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firefly Aerospace To Produce Shell For NASA’s SkyFall Mission",
-                "desc": "Firefly Aerospace has won a contract to build the protective shell for NASA’s mission to deploy helicopters to Mars.",
-                "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
-                "url": "https://aviationweek.com/space/launch-vehicles-propulsion/firefly-aerospace-produce-shell-nasas-skyfall-mission",
-                "source": "Aviation Week",
-                "date": "2026-07-07T19:20:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crimson Desert gives update on potential Nintendo Switch 2 version, talks challenges involved",
-                "desc": "Thanks to Pearl Abyss CEO Huh Jin-young, we have an update on what’s happening with a potential Nintendo Switch 2 version of Crimson Desert. Back in March, we heard that the company had started R&D on porting the game over. Now during Pearl Abyss’ latest corporate briefing, one investor asked about support for Nintendo Switch 2. Jin-young brought up how...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Crimson-Desert-Switch-2-update-July-2026.jpg",
-                "url": "https://nintendoeverything.com/crimson-desert-update-switch-2-development-started/",
-                "source": "Nintendo Everything",
-                "date": "2026-07-07T19:19:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's July 2026 Pixel updates are now available",
-                "desc": "Learn what to expect in Google's July 2026 Pixel updates for Pixel 6 and later devices, including the Pixel Tablet.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixelsnap-pixel-10-pro-xl-case-5.jpg",
-                "url": "https://www.androidauthority.com/july-2026-pixel-update-3684978/",
-                "source": "Android Authority",
-                "date": "2026-07-07T19:16:13Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Package holidays to Dubai and Egypt get cheaper as European prices creep up",
+                "desc": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b635/live/a03a6a70-7a19-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/c17y81vnje5o",
+                "source": "BBC",
+                "date": "2026-07-07T23:34:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Package holidays to Dubai and Egypt get cheaper as European prices creep up",
+                "desc": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a890/live/a9d71670-7a94-11f1-932b-1f29e7985956.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o",
+                "source": "BBC",
+                "date": "2026-07-07T23:34:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Questions swirl over top US Republican McConnell's hospital stay - here's what we know",
+                "desc": "McConnell, 84, has been in hospital for more than four weeks, and his staff have not yet said why he was admitted.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72fb/live/7069fd50-7a51-11f1-b726-3d305a892bc6.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c4gyjpkzew1o",
+                "source": "BBC",
+                "date": "2026-07-07T23:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICE agent fatally shoots motorist during traffic stop in Houston",
+                "desc": "Lorenzo Salgado Araujo was killed by immigration enforcement as he was looking to hire workers, his son says",
+                "image": "https://i.guim.co.uk/img/media/c9119796a646acc4802935fec5fc3c244a9fdff2/2077_900_2846_2277/master/2846.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfd8913fd1c073cc77f9ba2cd805730f",
+                "url": "https://www.theguardian.com/us-news/2026/jul/07/ice-agents-shoot-motorist-texas-houston",
+                "source": "The Guardian",
+                "date": "2026-07-07T23:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Perplexity Is Building an AI Coding Tool to Take on Cursor and OpenAI",
+                "desc": "San Francisco-based Perplexity, valued at $20 billion, is working on 'Teammate,' an AI tool that may compete with AI coding giants like Anthropic.",
+                "image": "https://i.insider.com/6a4d78d2965805a2c542de3b?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/perplexity-building-ai-coding-tool-take-on-cursor-and-openai-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-07T23:24:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Middle East crisis live: US launches fresh strikes on Iran after vessels hit in strait of Hormuz",
+                "desc": "Latest attack in the strait of Hormuz marks ⁠first known US military strikes ​against ​Iran since late last ​month",
+                "image": "https://i.guim.co.uk/img/media/48f9cbd7e5fc2c7edf8a2e254e9d1887ed2b4471/511_0_3054_2443/master/3054.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=63253dea3a73d23ba9b08ace7c6ca14f",
+                "url": "https://www.theguardian.com/world/live/2026/jul/07/us-military-strikes-iran-war-latest-news-updates",
+                "source": "The Guardian",
+                "date": "2026-07-07T23:21:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran condemns US over 'blatant' breach of Islamabad ceasefire memorandum",
+                "desc": "Tehran says Washington violates the Islamabad Memorandum of Understanding by revoking sanctions relief on Iranian oil sales.",
+                "image": "https://d2udx5iz3h7s4h.cloudfront.net/2026/7/6/Reuters/image/2026_07_06T120842Z_1793848190_RC278MA1PPGI_RTRMADP_3_IRAN_CRISIS_KHAMENEI.JPG?width=1080&format=jpg&quality=80",
+                "url": "https://www.trtworld.com/article/5b7081e45308",
+                "source": "TRT World",
+                "date": "2026-07-07T23:14:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil jumps as US revokes Iran oil licence",
+                "desc": "Oil prices settled 3% higher on Tuesday and then extended gains post-settlement, after Iran attacked three commercial vessels in the Strait of Hormuz and the US revoked the general licence authorising sale of Iranian crude and later launched new strikes against Iran.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3998117.jpeg",
+                "url": "https://www.thestar.com.my/business/2026/07/08/oil-jumps-as-us-revokes-iran-oil-licence",
+                "source": "The Star",
+                "date": "2026-07-07T23:05:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pace of greenhouse gas emissions reduction to slow",
                 "desc": "Ireland's greenhouse gas emissions fell for the fourth consecutive year in 2025, declining by 2.2% to leave emissions 14.5% below 2018 levels, according to new figures from the EPA.",
@@ -1824,80 +1896,8 @@
                 "source": "The Manila Times",
                 "date": "2026-07-07T19:35:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "These Are the 11 Best Places in the World for Solo Retirees Moving Abroad, According to Expats",
-                "desc": "A new report highlights the towns and cities where expats say it’s easiest to build friendships while enjoying affordable living and excellent healthcare.",
-                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-                "url": "https://www.aol.com/articles/11-best-places-world-solo-114300000.html",
-                "source": "AOL.com",
-                "date": "2026-07-07T19:35:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hungarian public media outlets halt broadcasting in post-Orbán shake-up",
-                "desc": "Péter Magyar hails ‘end of propaganda broadcasts’ as Kossuth radio and M1 TV channels suspend transmission",
-                "image": "https://i.guim.co.uk/img/media/3ea6de6c021a114609470dd2d1e03e65ec84d745/698_0_4269_3415/master/4269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41171f3b7b48c0818c86a652867b75e1",
-                "url": "https://www.theguardian.com/world/2026/jul/07/hungary-public-media-tv-radio-suspend-broadcasting-viktor-orban-peter-magyar",
-                "source": "The Guardian",
-                "date": "2026-07-07T19:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Judge quashes Justice Department subpoena for information about 2020 election workers in Georgia",
-                "desc": "A federal judge blocked a grand jury subpoena for information about 2020 election workers in Georgia, a rebuff to the Justice Department’s investigation into how the election was handled in the Atlanta area.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26085572997827-10001.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/07/politics/justice-department-subpoena-2020-election-workers-georgia",
-                "source": "CNN",
-                "date": "2026-07-07T19:28:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Italian village to impose fines of up to €200 on tourists with bare chests or in swimwear",
-                "desc": "Varenna’s authorities say wandering around the village shirtless or in swimwear is now banned",
-                "image": "https://i.guim.co.uk/img/media/b144086ebc1cc6f0e07dcdc385f3a87bae632783/1582_264_4418_3535/master/4418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=efed690b9cf400393eecc3e028cba3ae",
-                "url": "https://www.theguardian.com/world/2026/jul/07/italian-village-to-impose-fines-of-up-to-200-on-tourists-with-bare-chests-or-in-swimwear",
-                "source": "The Guardian",
-                "date": "2026-07-07T19:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NATO Reports 11% Rise in European Defense Spending as Trump Presses Allies",
-                "desc": "Alliance members unveiled higher defense budgets, discussed Ukraine, and sought to reinforce transatlantic unity",
-                "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1783454567_kurdistan24.jpg",
-                "url": "https://www.kurdistan24.net/en/story/924409/nato-reports-11-rise-in-european-defense-spending-as-trump-presses-allies",
-                "source": "Kurdistan24",
-                "date": "2026-07-07T19:24:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tinubu speak on fake agency: Nigeria president order investigation into 'Presidential Foreign Intervention Promotion Council, give ICPC deadline to submit report",
-                "desc": "Dis na di first time wey President Tinubu go comment on di mata of di alleged fake agency.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/2f93/live/6be08e50-7a35-11f1-ab76-d75965dea4d1.jpg",
-                "url": "https://www.bbc.com/pidgin/articles/c14y1gmx405o",
-                "source": "BBC",
-                "date": "2026-07-07T19:13:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Search underway for missing plane of Pakistan's K2 Airways with 5 aboard: PAA",
-                "desc": "Says various agencies are involved in search operation",
-                "image": "https://i.tribune.com.pk/media/images/k2-air-f1783451197-0/k2-air-f1783451197-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2617008/search-underway-for-missing-plane-of-k2-airways-with-5-aboard-pakistan-airports-authority",
-                "source": "The Express Tribune",
-                "date": "2026-07-07T19:10:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NATO does not expect imminent Russian attack but sees troop buildup near alliance’s borders, official says",
-                "desc": "Russia is building up its military presence along the border with Finland, in the Far North, and in Kaliningrad, a senior NATO official said at a closed…",
-                "image": "https://theins.press/storage/share/294/294570/rA54uEL3wGTniTOx10Pyeiey54NaQ4TKs2SGVtcb.png",
-                "url": "https://theins.press/en/news/294570",
-                "source": "theins.press",
-                "date": "2026-07-07T19:09:52Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T11:00:43.954488Z"
+    "lastGlobalSync": "2026-07-08T11:40:42.572522Z"
 }
