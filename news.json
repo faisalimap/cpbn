@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Nirvana acquires Ryan Specialty's Swedish public entity business",
+                "desc": "Swedish public entity insurance requires established local relationships and tendering track records that can't be replicated from London",
+                "image": "https://cdn-res.keymedia.com/cms/images/us/018/0382_639191662871832193.png",
+                "url": "https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/nirvana-acquires-ryan-specialtys-swedish-public-entity-business-581792.aspx",
+                "source": "Insurance Business",
+                "date": "2026-07-09T03:35:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Backed Loans for PH, Warri Refineries",
+                "desc": "NNPC shifts to a performance-driven funding model, ending crude-backed loans for Port Harcourt and Warri refineries to ensure commercial sustainability.",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/NNPCL.webp",
+                "url": "https://punchng.com/nnpc-ends-crude-backed-loans-to-fund-ph-warri-refineries/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-09T03:26:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gas is the Solution, Says Seplat CEO",
+                "desc": "Seplat CEO states Nigeria cannot solve its chronic power crisis without expanding gas production. Learn why gas is crucial for Nigeria's energy future.",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/Gas-flaring_1782294771-1024x630.webp",
+                "url": "https://punchng.com/nigeria-cant-solve-power-crisis-without-gas-seplat-ceo/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-09T03:23:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forward ASEAN Nations in Creating Global Talent Corridors: How Southeast Asia Is Competing for Technology Professionals",
+                "desc": "Singapore, Malaysia, Vietnam and Indonesia compete for global tech talent through digital nomad visas, innovation policies and new ASEAN talent corridors.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Singapore-9.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/s8llf1fh8l66/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-09T03:19:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bain Capital exits Kioxia after chip deal yields big returns",
+                "desc": "A global spending spree on AI catapulted Kioxia’s shares more than 4,800% from their debut, transforming the chipmaker into one of Japan’s most valuable companies.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/09/550723.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/09/companies/bain-exits-kioxia-big-returns/",
+                "source": "The Japan Times",
+                "date": "2026-07-09T03:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Manila Route With Boeing 777 Upgrade, Delivering Bigger Capacity, Premium Travel Growth And A Stronger Asia",
+                "desc": "Australia Aligns With Japan, Canada, Vietnam And Beyond as Philippine Airlines strengthens its Sydney–Manila connection with a Boeing 777 upgrade, driven by rising passenger demand, expanding premium travel expectations and the need for stronger Asia-Pacific air links.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Philippine-Airlines-Boosts-Sydney-Manila-Route-With-Boeing-777-Upgrade-Delivering-Bigger-Capacity-Premium-Travel-Growth-And-A-Stronger-Asia-Pacific-Network-2.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/74ngipxa98zw/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-09T03:14:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Beijing to let Chinese AI companies buy Nvidia H200 chips",
+                "desc": "The companies need to say how many chips they need — and why — to get approval.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/09/550696.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/09/tech/china-ai-firms-nvidia-h200s/",
+                "source": "The Japan Times",
+                "date": "2026-07-09T03:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
+                "desc": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-25T160830Z_53922505_RC2SBBAIW9GG_RTRMADP_3_IMF-OUTLOOK-1783555160_fa7720-1783556200.jpg?resize=1200%2C630&quality=80",
+                "url": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout",
+                "source": "Al Jazeera",
+                "date": "2026-07-09T03:11:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "[Australia] Searching for answers: How AI is changing online discovery in ​2026",
+                "desc": "Download YouGov's Australia web search & AI report 2026 to uncover how Australians use AI vs. search engines, adoption trends, and much more.",
+                "image": "https://ygo-assets-websites-editorial-emea.yougov.net/original_images/1800X658-Tech-AI-Search-share-assets-Landing-AU.jpg",
+                "url": "https://yougov.com/reports/55102-au-websearch-ai-report-2026",
+                "source": "YouGov",
+                "date": "2026-07-09T03:08:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bristow deploys Airbus H160 for offshore transport, others",
+                "desc": "Bristow Group introduces the advanced Airbus H160 helicopter in Nigeria, enhancing offshore energy transport, search and rescue, and medical services.",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/Bristow-helicopters_1783566230.webp",
+                "url": "https://punchng.com/bristow-deploys-airbus-h160-for-offshore-transport-others/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-09T03:07:57Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Say annyeong to Korea: Jeju Air drops flights by up to 87%",
                 "desc": "Jeju Air is making your dream getaway even easier with its 2026 Super Sale.",
                 "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Camille_temp/Misc/jeju%20banner.jpg",
@@ -541,96 +631,6 @@
                 "url": "https://www.theglobeandmail.com/business/article-mda-space-acquiring-70-per-cent-stake-in-french-earth-observation/",
                 "source": "The Globe and Mail",
                 "date": "2026-07-08T23:26:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Warren Buffett's Successor Greg Abel Has Poured More Than $20 Billion of Berkshire Hathaway's Cash Into Alphabet. This May Be Why.",
-                "desc": "Berkshire's new CEO is making one of the boldest bets of the post-Buffett era.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877907%2Falphabet-stock-berkshire.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/08/warren-buffetts-successor-greg-abel-has-poured-mor/",
-                "source": "The Motley Fool",
-                "date": "2026-07-08T23:25:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX Stock Is Down 35% From Its High Just 1 Day After Joining the Nasdaq-100. Is the Dip a Buy?",
-                "desc": "A spot in the index was supposed to be the catalyst. So why are shares back near their post-IPO low?",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878113%2Fis-this-a-buy-the-dip-moment-for-spacex-stock.jpeg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/08/spacex-stock-is-down-35-from-its-high-just-1-day-a/",
-                "source": "The Motley Fool",
-                "date": "2026-07-08T23:20:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tánaiste to attend meeting of EU finance ministers",
-                "desc": "Tánaiste and Minister for Finance Simon Harris will travel to Brussels today for a two-day meeting of EU finance and economy ministers.",
-                "image": "https://www.rte.ie/images/002406ec-1600.jpg",
-                "url": "https://www.rte.ie/news/politics/2026/0709/1582457-simon-harris-eu/",
-                "source": "RTE.ie",
-                "date": "2026-07-08T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Telstra outage: glitches continue as ‘secondary’ outages hit triple-zero calls and regional trains remain stranded",
-                "desc": "Carrier says some still unable to connect to emergency hotline a day after initial mobile network outage",
-                "image": "https://i.guim.co.uk/img/media/7b66c820dce3e1b0eb00c38dcbc175f3e5886b71/281_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8684cdab93c5f927517f5e1a7aa23f3f",
-                "url": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update",
-                "source": "The Guardian",
-                "date": "2026-07-08T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "John McGrath explains how to navigate the property market as prices continue to fall",
-                "desc": "An expert has made a shock claim on what Australians can expect in just seven years’ time, claiming prices will double.",
-                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_f8ee8fb0e037ad9800200f1691b306d8_d67ca5cc22730ec5882a51cd4fbfcd5b.jpeg",
-                "url": "https://www.realestate.com.au/news/john-mcgrath-explains-how-to-navigate-the-property-market-as-prices-continue-to-fall/",
-                "source": "realestate.com.au",
-                "date": "2026-07-08T22:58:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AgXeed’s autonomous AgBot tractor arrives in Alberta",
-                "desc": "Dutch company AgXeed’s AgBots combine tracked, diesel-electric tractors with conventional implements to reduce soil compaction and labour.",
-                "image": "https://static.producer.com/wp-content/uploads/2026/07/08163202/343501_web1_T2-7-towing-seeder.jpg",
-                "url": "https://www.producer.com/machinery/agxeeds-autonomous-agbot-lands-in-alberta/",
-                "source": "The Western Producer",
-                "date": "2026-07-08T22:56:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SASSA to pay flagged beneficiaries last",
-                "desc": "SASSA introduces a fourth payment day for beneficiaries undergoing reviews in August, urging timely responses to maintain grant eligibility.",
-                "image": "https://iol-prod.appspot.com/image/a41a593376b9e0dbc95c0f0a83c651b8546c4f55/1000/jpeg",
-                "url": "https://dailyvoice.co.za/news/2026-07-08-sassa-to-pay-flagged-beneficiaries-last/",
-                "source": "Daily Voice",
-                "date": "2026-07-08T22:56:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cramer's lightning round: Buy Amprius Technologies",
-                "desc": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
-                "image": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1697237650&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/cramers-lightning-round-buy-amprius-technologies.html",
-                "source": "CNBC",
-                "date": "2026-07-08T22:56:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data centres could wipe $35,000 from house prices as buyers demand huge discounts",
-                "desc": "The AI boom’s infrastructure push has produced an unexpected consequence that will hit Aussies right in their home.",
-                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_03c53286f4a62fd65b8b25607daa92a5_3fd2616a227a268ba5da3e0b3bf64435.jpeg",
-                "url": "https://www.realestate.com.au/news/data-centres-could-wipe-35000-from-house-prices-as-buyers-demand-huge-discounts/",
-                "source": "realestate.com.au",
-                "date": "2026-07-08T22:52:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Memory Stock Sell-Off: Is This the Time to Buy Micron Technology and Sandisk Like There's No Tomorrow?",
-                "desc": "Micron and Sandisk have pulled back significantly after reaching 52-week highs last month.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877932%2Fmusndk_tmf.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/08/memory-stock-sell-off-is-this-the-time-to-buy-micr/",
-                "source": "The Motley Fool",
-                "date": "2026-07-08T22:50:58Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T15:00:43.301937Z"
+    "lastGlobalSync": "2026-07-09T15:40:37.481574Z"
 }
