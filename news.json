@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Engineering Africa's digital growth: Uzochukwu Reginald Ike",
+                "desc": "Most technology leaders talk about digital transformation, but Mr. Uzochuwku Reginald Ike delivers it, and the proof shows up where it matters most: in",
+                "image": "https://blueprint.ng/wp-content/uploads/2026/07/IMG-20260708-WA0025.jpg",
+                "url": "https://blueprint.ng/engineering-africas-digital-growth-uzochukwu-reginald-ike/",
+                "source": "Blueprint Newspapers",
+                "date": "2026-07-08T16:39:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SK Hynix's $28 Billion Nasdaq Listing Would Be the Second-Biggest Share Sale Ever. Here's What Investors Should Know.",
+                "desc": "A memory giant that supplies the AI boom is about to become a U.S.-traded stock.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877936%2Fsk-hynix.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/08/sk-hynixs-28-billion-nasdaq-listing-would-be-the-s/",
+                "source": "The Motley Fool",
+                "date": "2026-07-08T16:38:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ESMA launches CSA on the digital operational resilience of CASPs",
+                "desc": "On 8 July 2026, the European Securities and Markets Authority (ESMA) announced the launch of a Common Supervisory Action (CSA) focusing on the digital",
+                "image": "https://www.regulationtomorrow.com/wp-content/uploads/sites/12/2024/02/Blog-Network-Meta-Image_1.png",
+                "url": "https://www.regulationtomorrow.com/2026/07/esma-launches-csa-on-the-digital-operational-resilience-of-casps-2/",
+                "source": "Global Regulation Tomorrow",
+                "date": "2026-07-08T16:35:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ESMA launches CSA on the digital operational resilience of CASPs",
+                "desc": "On 8 July 2026, the European Securities and Markets Authority (ESMA) announced the launch of a Common Supervisory Action (CSA) focusing on the digital",
+                "image": "https://www.regulationtomorrow.com/wp-content/uploads/sites/12/2024/02/Blog-Network-Meta-Image_1.png",
+                "url": "https://www.regulationtomorrow.com/2026/07/esma-launches-csa-on-the-digital-operational-resilience-of-casps/",
+                "source": "Global Regulation Tomorrow",
+                "date": "2026-07-08T16:35:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Billionaire Jeremy Grantham says SpaceX IPO is the 'craziest' in market history",
+                "desc": "SpaceX joined the Nasdaq 100 after its record $75 billion IPO, but GMO co-founder Jeremy Grantham calls it \"the craziest IPO in the history of man.\"",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/musk-spacex-grantham-torn.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/markets/famed-permabear-warns-spacex-ipo-laughed-50-years-craziest-market-bet-main-street",
+                "source": "Fox Business",
+                "date": "2026-07-08T16:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chemomab Therapeutics Ltd. (CMMB) M&A Call Prepared Remarks Transcript",
+                "desc": "Chemomab Therapeutics Ltd. (CMMB) M&A Call July 8, 2026 8:30 AM EDTCompany ParticipantsBarbara LindheimAdi George - Co-Founder, Chief Scientific...",
+                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+                "url": "https://seekingalpha.com/article/4920631-chemomab-therapeutics-ltd-cmmb-m-and-a-call-prepared-remarks-transcript",
+                "source": "Seeking Alpha",
+                "date": "2026-07-08T16:32:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New fast-food outlet makes Dunedin debut",
+                "desc": "A global restaurant franchise making its Dunedin debut hopes the city’s cold climate will be part of the reason customers give its chicken a try....",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/chicking_3_080726.jpg?itok=UqtJpm0r",
+                "url": "https://www.odt.co.nz/business/new-fast-food-outlet-makes-dunedin-debut",
+                "source": "Otago Daily Times",
+                "date": "2026-07-08T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Data Deconstructs the Myth of the 'High-Risk' Nigerian Borrower - Tech",
+                "desc": "The average Nigerian borrower is widely considered high-risk, a claim repeated in credit committees, and largely treated as settled fact.",
+                "image": "https://techeconomy.ng/wp-content/uploads/2026/07/Winston-write-on-Nigerian-borrower-high-risk.jpg",
+                "url": "https://techeconomy.ng/how-data-deconstructs-the-myth-of-the-high-risk-nigerian-borrower/",
+                "source": "Techeconomy",
+                "date": "2026-07-08T16:26:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Penang restaurant chain owner bags RM204m tech services deal",
+                "desc": "This may come as one of the most unexpected corporate twists of the year: a Penang-based chicken hotpot restaurant operator has secured a US$50 million (RM203.85 million) deal to provide maintenance and support services for data centres in Malaysia.",
+                "image": "https://assets.theedgemarkets.com/0bac2b3a-84bb-433f-a54f-c78db211a736.jpg",
+                "url": "https://theedgemalaysia.com/node/809951",
+                "source": "The Edge Malaysia",
+                "date": "2026-07-08T16:26:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Vice President laid off after 37 years at Microsoft: 'I wish the team nothing but success'",
+                "desc": "Kevin LaChapelle, Vice President of Xbox Platform, announced that he had been laid off as part of Microsoft's ongoing restructuring.",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/08/550x309/Kevin_LaChapelle_1783527117229_1783527133977_68004086-2aed-4a1c-a15b-dbac97bdb2f8.jpg",
+                "url": "https://www.hindustantimes.com/trending/us/xbox-vice-president-laid-off-after-37-years-at-microsoft-i-wish-the-team-nothing-but-success-101783526368847.html",
+                "source": "Hindustan Times",
+                "date": "2026-07-08T16:24:27Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "An intrinsic cytoskeletal oscillator establishes neuronal polarity",
                 "desc": "Neurons acquire polarity by specifying one neurite as the axon, whereas the others become dendrites. But how this fundamental asymmetry is established remains unclear1. Neuronal polarization has been thought to rely primarily on growth cones that sense external cues2. Here we show that growth cones alone do not direct this process and that the soma acts as a central organizer of neuronal polarization. Using live imaging and genetic loss-of-function approaches in vivo, combined with optogenetic control and local cytoskeletal perturbations in cultured neurons, we uncover a soma-initiated oscillatory program that primes axon selection. Periodic actin branching that depends on the actin-related protein 2/3 (ARP2/3) complex at the soma remodels a global actomyosin network, thereby generating an actin wave that retracts neurites before propagating into a single neurite tip. Exposure to this wave relaxes local actomyosin contractility, which drives a transient microtubule-based protrusion and biases this neurite towards axon fate. As the cell exits this oscillatory stage, this neurite can overcome global inhibition and extend independently of ARP2/3, whereas actomyosin activity suppresses axon formation in the remaining neurites so that they subsequently become dendrites. This soma-driven mechanism ensures the emergence of a single axon independent of environmental cues and underpins the unidirectional information flow in neuronal circuits. The ARP2/3 complex works together with actomyosin in an oscillatory program at the soma to govern neuronal polarization.",
                 "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10755-6/MediaObjects/41586_2026_10755_Fig1_HTML.png",
@@ -542,99 +632,99 @@
                 "source": "Kent Online",
                 "date": "2026-07-08T13:17:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Wow: SAS CEO Anko Van Der Werff Quits, Will Become Next Air Canada CEO",
-                "desc": "SAS CEO Anko van der Werff has accepted the role of Air Canada CEO, which is surprising on a couple of levels. What does this mean for the airline?",
-                "image": "https://cdn.onemileatatime.com/wp-content/uploads/2024/10/Air-Canada-Boeing-787.jpeg",
-                "url": "https://onemileatatime.com/news/sas-ceo-anko-van-der-werff-quits-next-air-canada-ceo/",
-                "source": "One Mile at a Time",
-                "date": "2026-07-08T13:16:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IMF Lowers 2026 World Growth Forecast",
-                "desc": "IMF Lowers 2026 World Growth Forecast",
-                "image": "https://www.channelstv.com/wp-content/uploads/2025/04/AFP__20250417__42NE4JR__v2__Preview__ImfManagingDirectorKristalinaGeorgievaGivesKeyn.jpg",
-                "url": "https://www.channelstv.com/2026/07/08/imf-lowers-2026-world-growth-forecast/",
-                "source": "Channels Television",
-                "date": "2026-07-08T13:16:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe lowers Israel flight warning, opening door for airlines to return",
-                "desc": "EASA removes Israel from its highest-risk conflict-zone bulletin and replaces it with a medium-risk regional note, shifting the decision back to airlines including Ryanair, easyJet and KLM",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/27/B1gci76P4o/B1gci76P4o_0_0_1000_589_0_large.jpg",
-                "url": "https://www.ynetnews.com/travel/article/rkp7ttixfg",
-                "source": "Ynetnews",
-                "date": "2026-07-08T13:15:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "9 Reasons Sky Tower At Solaire Is A Luxury Destination In Manila",
-                "desc": "From unique food offerings to Broadway-caliber theater, explore the ultimate all-in-one Five-Star stay in the Philippine capital.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4e4a7981eb5b8839c90d82/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/forbestravelguide/2026/07/08/9-reasons-sky-tower-at-solaire-is-a-luxury-destination-in-manila/",
-                "source": "Forbes",
-                "date": "2026-07-08T13:15:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Delta launches 'basic business' without lounge access, seat selection",
-                "desc": "Delta is launching basic business and other stripped-down premium classes that come with fewer perks.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108251232-1768234850403-gettyimages-2252637555-desisto-adeltaai251222_npUsY.jpeg?v=1768234906&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
-                "source": "CNBC",
-                "date": "2026-07-08T13:14:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fashola Opens Up on Land Deal Decision That Secured Dangote Refinery Project for Lagos",
-                "desc": "Former Lagos Governor Fashola revealed land price cuts for Dangote's refinery were crucial for attracting investment and boosting Lagos's economy and energy sector.",
-                "image": "https://cdn.legit.ng/images/1200x675/8c14ad43785e024e.jpeg?v=1",
-                "url": "https://www.legit.ng/business-economy/economy/1718214-fashola-opens-land-deal-decision-secured-dangote-refinery-lagos/",
-                "source": "Legit News",
-                "date": "2026-07-08T13:12:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European Commission Proposes Overhaul of EU Tax Framework",
-                "desc": "European Commission proposals would simplify EU tax rules, reduce reporting burdens, and update withholding tax and DAC requirements.",
-                "image": "https://www.forvismazars.us/getmedia/18770dbb-d03c-419d-84c9-968becb4357b/137376863-landscape-large.jpg?width=1920&height=1080&ext=.jpg",
-                "url": "https://www.forvismazars.us/forsights/2026/07/european-commission-proposes-overhaul-of-eu-tax-framework",
-                "source": "Forvis Mazars US",
-                "date": "2026-07-08T13:12:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Interest on national debt set to double by 2030 - NTMA",
-                "desc": "The cost paying the interest bill on Ireland's national debt is expected to double from €3 billion to €6 billion by 2030.",
-                "image": "https://www.rte.ie/images/001c0573-1600.jpg",
-                "url": "https://www.rte.ie/news/business/2026/0708/1582391-national-treasury-management-agency-annual-report/",
-                "source": "RTE.ie",
-                "date": "2026-07-08T13:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global Economic Output Looks Slower for 2026, IMF Says",
-                "desc": "The I.M.F. projected world output would fall to 3 percent for the year, a number pushed down by high commodity prices.",
-                "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08dc-globalecon-hjcg/08dc-globalecon-hjcg-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html",
-                "source": "The New York Times",
-                "date": "2026-07-08T13:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rising food and fuel costs challenge Reserve Bank inflation target",
-                "desc": "Oil prices have subsided from wartime peaks – but the Reserve Bank fears prices for food are likely to continue climbing.",
-                "image": "https://static.ffx.io/images/$zoom_0.3026%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/82849dd7f2f21b32d0dccfc99d70b666a03ef078",
-                "url": "https://www.smh.com.au/politics/federal/less-pain-at-the-petrol-pump-but-more-pain-is-coming-on-grocery-bills-20260708-p60dmt.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-08T13:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "New AI research improves how computers interpret the world",
+                "desc": "For artificial intelligence tools that rely on interpreting data from the real world, both speed and accuracy are critically important. Researchers at the University of Saskatchewan (USask) have developed a tool to make AI ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/new-ai-research-improv.jpg",
+                "url": "https://techxplore.com/news/2026-07-ai-world.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-08T16:40:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google revamps Android AI dev benchmark, adds Fable 5 and other agents",
+                "desc": "Android Bench is evolving, and developers can help guide that process.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
+                "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+                "source": "Ars Technica",
+                "date": "2026-07-08T16:39:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blizzard eliminates 'small number' of roles in China",
+                "desc": "The news comes with Activision Blizzard parent company Xbox cutting jobs across the board.",
+                "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt991a29ecbcca325b/6a4e7ccaa33ecd744e74c279/Blizzard_Overwatch.png?disable=upscale&width=1200&height=630&fit=crop",
+                "url": "https://www.gamedeveloper.com/business/blizzard-eliminates-small-number-of-roles-in-china",
+                "source": "Game Developer",
+                "date": "2026-07-08T16:39:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Is Offering Up to $1,230 in Savings Ahead of the Galaxy Unpacked Event",
+                "desc": "If you reserve Samsung's next Galaxy device right now, you'll score a preorder credit, trade-in offers and a chance to win a hefty gift card.",
+                "image": "https://www.cnet.com/a/img/resize/0994d925700872293125a42aa3eb86900ccacc87/hub/2026/07/07/7e4b9211-3ca8-4f10-a49a-d1d8a3cde25d/static-official-release-horizontal-16x9-1920x1080-with-text-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/deals/samsung-preorder-savings-ahead-of-galaxy-unpacked-event/",
+                "source": "CNET",
+                "date": "2026-07-08T16:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galaxy Z Fold 8 and 8 Ultra renders leak before Galaxy Unpacked",
+                "desc": "Leaked Galaxy Z Fold 8 and Fold 8 Ultra renders reveal Samsung's next foldables ahead of launch, including new colors and expected specs.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-rear-hero.jpg",
+                "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-leaked-renders-3685353/",
+                "source": "Android Authority",
+                "date": "2026-07-08T16:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ZML's free AI server runs on any major chip",
+                "desc": "France's ZML releases ZML/LLMD, a free inference server running open-source AI across Nvidia, AMD, Google, Intel and Apple chips at top speed.",
+                "image": "https://media.thenextweb.com/2026/07/ZML-LLMD.avif",
+                "url": "https://thenextweb.com/news/zml-llmd-free-cross-chip-ai-inference-server",
+                "source": "The Next Web",
+                "date": "2026-07-08T16:37:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "In a First, Windows Desktop Market Share Appears to Drop Below 60%",
+                "desc": "However, the data from Statcounter shows a mysterious rise in the number of users on computers with 'unknown' operating systems.",
+                "image": "https://i.pcmag.com/imagery/articles/02nkYLg7t9pKKBl9Pks1VAL-1.fit_lim.size_1200x630.v1783523568.jpg",
+                "url": "https://www.pcmag.com/news/in-a-first-windows-desktop-market-share-appears-to-drop-below-60",
+                "source": "PCMag",
+                "date": "2026-07-08T16:31:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In a First, Windows Desktop Market Share Appears to Drop Below 60%",
+                "desc": "However, the data from Statcounter shows a mysterious rise in the number of users on computers with 'unknown' operating systems.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/i/in-a-first/in-a-first-windows-desktop-market-share-appears-to-drop-belo_w53d.1200.jpg",
+                "url": "https://au.pcmag.com/migrated-15175-windows-10/118668/in-a-first-windows-desktop-market-share-appears-to-drop-below-60",
+                "source": "PCMag Australia",
+                "date": "2026-07-08T16:30:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues",
+                "desc": "The Bethesda Games Studios Union shared images of the now-removed display featuring photos of fired devs",
+                "image": "https://kotaku.com/app/uploads/2026/07/bethesda-union-1200x675.jpg",
+                "url": "https://kotaku.com/bethesda-hr-forced-staff-to-remove-small-memorial-to-laid-off-colleagues-2000713777",
+                "source": "Kotaku",
+                "date": "2026-07-08T16:30:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "There Was Only One Solution to My Problem … Down There. It’s Opened Up Pandora’s Box.",
+                "desc": "I'm trying everything.",
+                "image": "https://compote.slate.com/images/d7db841b-ce89-4016-ba50-a5d1696a4192.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+                "url": "https://slate.com/advice/2026/07/sex-advice-solution-vagina-surgery.html",
+                "source": "Slate Magazine",
+                "date": "2026-07-08T16:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Google's Intelligent Eyewear vs Ray-Ban Meta glasses: Key differences explained",
                 "desc": "A practical comparison of Google's intelligent eyewear and Meta Ray-Ban glasses — the tech, the pricing, and which is worth choosing",
@@ -1174,99 +1264,99 @@
                 "source": "Kotaku",
                 "date": "2026-07-08T13:30:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Running shoes from Nike, Asics and more are nearly 50% off right - where to shop the best deals",
-                "desc": "Snap up these summer savings",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/3a15665e-c4ea-4a4c-acc8-eaecc370e001.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
-                "url": "https://www.runnersworld.com/uk/gear/shoes/a71850268/running-shoes-on-sale-july-2026/",
-                "source": "Runner's World",
-                "date": "2026-07-08T13:18:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DJI Lito Series Lands In South Africa, Making Aerial Content Creation Easier For New Creators",
-                "desc": "A road trip along the coast. A weekend hike. A family celebration. A business with a story to tell. Some moments are better understood from above, but for many first-time creators, drone content has often felt intimidating, expensive or too technical to attempt. Core has announced the local launch of the DJI Lito Series in South Africa, introducing a new range of beginner-friendly camera drones designed to make aerial storytelling more accessible for creators, travellers, entrepreneurs and everyday users. The […]",
-                "image": "https://www.nag.co.za/wp-content/uploads/2026/07/lito_2.jpg",
-                "url": "https://www.nag.co.za/2026/07/08/dji-lito-series-lands-in-south-africa-making-aerial-content-creation-easier-for-new-creators/",
-                "source": "nag.co.za",
-                "date": "2026-07-08T13:17:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hollyland MELO P1 Fits a Full Recording Studio into One Wireless Case",
-                "desc": "**media[1129748]**Now available worldwide following its Kickstarter campaign",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1129745.jpg",
-                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/pr-newswire/hollyland-melo-p1-fits-a-full-recording-studio-into-one-wireless-case/2380899",
-                "source": "The Manila Times",
-                "date": "2026-07-08T13:15:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows 11 cleanup is finally simple with this powerful open‑source tool that strips bloat, boosts speed, and gives you real control",
-                "desc": "A fast, free tool that declutters Windows 11 without ads or gimmicks.",
-                "image": "https://cdn.mos.cms.futurecdn.net/H59kqVcg5323RxV4mZk2Jh-1680-80.jpg",
-                "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-cleanup-made-simple-with-this-powerful-open-source-tool",
-                "source": "Windows Central",
-                "date": "2026-07-08T13:15:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to find sulfur caves in Minecraft explained",
-                "desc": "Hunting for the sulfur cubes after the Chaos Cubed update? We've got you covered.",
-                "image": "https://images.immediate.co.uk/production/volatile/sites/3/2023/10/Minecraft-Patch-3e281fe.jpg?resize=1200%2C630",
-                "url": "https://www.radiotimes.com/technology/gaming/minecraft-sulfur-caves-explained/",
-                "source": "Radio Times",
-                "date": "2026-07-08T13:14:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Glasses Will No Longer Record If the Capture Light Is Modified or Removed",
-                "desc": "The update arrives weeks after a journalist found that modders were charging to physically remove the LED without breaking the camera.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/m/meta-glass/meta-glasses-will-no-longer-record-if-the-capture-light-is-m_tezn.1200.jpg",
-                "url": "https://au.pcmag.com/wearables/118661/meta-glasses-will-no-longer-record-if-the-capture-light-is-modified-or-removed",
-                "source": "PCMag Australia",
-                "date": "2026-07-08T13:13:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi has unveiled the Redmi Note 17 and announced its release date • Межа",
-                "desc": "The Xiaomi Redmi Note 17 smartphones are set to be released in just a few days. Xiaomi has showcased two models from the range on a poster and officially unveiled one of the colour options.",
-                "image": "https://img.mezha.ua/mezha/images/doc/5/2/316745/5230929e0640380e7486310e5be05088.jpeg?w=1200&q=85&stamp=1783515899",
-                "url": "https://mezha.ua/en/news/xiaomi-redmi-note-17-official-313048/",
-                "source": "Mezha",
-                "date": "2026-07-08T13:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The ‘Assassin’s Creed Black Flag Resynced’ Metacritic Review Score Is In",
-                "desc": "Assassin's Creed Black Flag Resynced reviews are in, and the game now has a Metacritic score to compare to the original.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4e4b0053d85827f95cc930/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/paultassi/2026/07/08/the-assassins-creed-black-flag-resynced-metacritic-review-score-is-in/",
-                "source": "Forbes",
-                "date": "2026-07-08T13:08:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo announces 2026 San Diego Comic-Con lineup, including first hands on with Nintendo Switch Sports Resort and chance to compete against The Rizzler",
-                "desc": "Nintendo today revealed its lineup for the 2026 San Diego Comic-Con, which is lead by Nintendo Switch Sports Resort. Those attending the expo will be among the first in the U.S. to try out the game. Also, fans will have the opportunity to go on stage to compete against social media creator The Rizzler. Nintendo has more in store for...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-San-Diego-Comic-Con-2026.jpg",
-                "url": "https://nintendoeverything.com/nintendo-announces-2026-san-diego-comic-con-lineup-switch-sports-resort/",
-                "source": "Nintendo Everything",
-                "date": "2026-07-08T13:08:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mortal Shell II launches August 20",
-                "desc": "Soulslike action RPG sequel Mortal Shell II will launch for PlayStation 5, Xbox Series, and PC via Steam on August 20, publisher Playstack and developer Cold…",
-                "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Mortal-Shell-2-Date_07-08-26.jpg",
-                "url": "https://www.gematsu.com/2026/07/mortal-shell-ii-launches-august-20",
-                "source": "Gematsu",
-                "date": "2026-07-08T13:07:31Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Career African Climate and Biodiversity Researchers",
+                "desc": "Early-career researchers, practitioners and policymakers across Africa have an opportunity to secure funding for locally led research on Nature-Based Climate",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/minigrants.png",
+                "url": "https://www.globalsouthopportunities.com/2026/07/08/arin-2/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-08T16:39:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five crew remain missing after plane wreckage found in Pakistan",
+                "desc": "Pakistan's Airports Authority said efforts are under way to find those who were on board the private cargo plane.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc8c/live/470a1340-7ae8-11f1-9a9c-53fd8f110370.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo",
+                "source": "BBC",
+                "date": "2026-07-08T16:39:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump unexpectedly switches back to old Air Force One, sidelining Qatari jet",
+                "desc": "By Mike Stone, Gram Slattery and Humeyra Pamuk WASHINGTON/ANKARA, July 8 (Reuters) - President Donald Trump said on Wednesday he was leaving Turkey aboard an older Air Force One aircraft rather than a",
+                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+                "url": "https://www.aol.com/articles/trump-says-old-air-force-144846000.html",
+                "source": "AOL.com",
+                "date": "2026-07-08T16:37:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missing pilot’s haunting final audio is released after plane vanished over Pakistan",
+                "desc": "The final words of a pilot of a plane that vanished over Pakistan have been revealed.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133759345.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/08/world-news/missing-pilots-haunting-final-audio-is-released-after-plane-vanished-over-pakistan/",
+                "source": "New York Post",
+                "date": "2026-07-08T16:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sergey Lavrov: Russia stands ready to help strengthen food security across African continent",
+                "desc": "Russia and the African Union intend to strengthen cooperation in the field of agriculture and expand the supply of food, fertilisers and other resources for agricultural production. These agreements were reached following high-level consultations between Russian Foreign Minister Sergey Lavrov and the Chairperson of the African Union Commission, Mahmoud Ali Youssouf, which took place on […]",
+                "image": "https://www.kbc.co.ke/wp-content/uploads/2026/07/SERGEY-AU-BOSS.webp",
+                "url": "https://www.kbc.co.ke/sergey-lavrov-russia-stands-ready-to-help-strengthen-food-security-across-african-continent/",
+                "source": "KBC Digital",
+                "date": "2026-07-08T16:34:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump gives Zelenskyy vague promise of licence to manufacture Patriot missiles",
+                "desc": "Licence would be diplomatic coup for Kyiv but process of making munitions would likely be expensive, complex and long",
+                "image": "https://i.guim.co.uk/img/media/99b87ba055f37902384252ed2f5b3e9fe15cdc6d/810_0_6840_5472/master/6840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=506e8adb82dc7170a2374522d419a6d2",
+                "url": "https://www.theguardian.com/world/2026/jul/08/trump-zelenskyy-vague-promise-licence-manufacture-patriot-missiles",
+                "source": "The Guardian",
+                "date": "2026-07-08T16:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two staff members at Belfast hotel rushed to hospital after 'gas canister explosion' in kitchen amid emergency response",
+                "desc": "TWO people were rushed to hospital after a reported explosion at a hotel today.\nThe injured parties, staff members at the hotel, were involved...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-63ji2fhb9-1783526725522.jpg?quality=90&strip=all&1783530886&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/news/17260447/belfast-hotel-kitchen-explosion-staff-hospitalised/",
+                "source": "The Irish Sun",
+                "date": "2026-07-08T16:30:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tragedy after musical rise",
+                "desc": "Alexandra-born violinist Jennifer (Jenny) Banks, died late last month, aged 42, after a long battle with frontotemporal dementia. Ashley Smyth pays...",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/violinvcrop.jpg?itok=bQql5kfQ",
+                "url": "https://www.odt.co.nz/regions/central-otago/tragedy-after-musical-rise",
+                "source": "Otago Daily Times",
+                "date": "2026-07-08T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian Streamer Peller Allegedly Lands in FBI Trouble, Journalist Kemi Olunloyo Drops Details",
+                "desc": "Dr Kemi Olunloyo alleged that Peller's arrest was a staged FBI setup, claiming his bail conditions hinted at a bigger case being built against him.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/f65d060b226d3d29.jpeg?v=1",
+                "url": "https://yen.com.gh/entertainment/celebrities/307509-nigerian-streamer-peller-allegedly-lands-fbi-trouble-journalist-kemi-olunloyo-drops-details/",
+                "source": "Yen News",
+                "date": "2026-07-08T16:28:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Carney's braggadocio and other things in Wall Street Journal article",
+                "desc": "PM's quips included “I have to deal with these guys every day\" and “We don’t have a relationship to keep!”",
+                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/2284462611_304149763.jpg",
+                "url": "https://nationalpost.com/news/canada/carneys-davos-speech-written-at-4-a-m-trumps-volatile-call-with-trudeau-and-other-things-we-learned-from-a-wall-street-journal-article",
+                "source": "National Post",
+                "date": "2026-07-08T16:28:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "AIT says US policy, commitment to Taiwan unchanged amid TAO criticism",
                 "desc": "Bringing Taiwan to the World and the World to Taiwan",
@@ -1806,98 +1896,8 @@
                 "source": "Jakarta Globe",
                 "date": "2026-07-08T13:18:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vietnamese, Chinese firms deepen cooperation across multiple sectors",
-                "desc": "At the conference, 11 pairs of businesses from Guangxi and Quảng Ninh signed cooperation agreements in various areas.",
-                "image": "https://image.vietnamnews.vn/uploadvnnews/Article/2026/7/8/515183_china.jpg",
-                "url": "https://vietnamnews.vn/economy/1785053/vietnamese-chinese-firms-deepen-cooperation-across-multiple-sectors.html",
-                "source": "vietnamnews.vn",
-                "date": "2026-07-08T13:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Members of a sexual predator network on Telegram tried to hide their crimes with code words",
-                "desc": "A German investigation into an online predator network that thrived on the messaging app Telegram for years has led to the convictions of four alleged members of the group's inner circle.",
-                "image": "https://dims.apnews.com/dims4/default/65e47e0/2147483647/strip/true/crop/6949x4630+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff8%2F18%2F01f1c65c534fcf61253e562f03fb%2Fdb03134497a24d45a2d2995b9a298c6e",
-                "url": "https://apnews.com/article/germany-china-telegram-sexual-violence-women-6279c80947f419ee178707f111487193",
-                "source": "AP News",
-                "date": "2026-07-08T13:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Syria in tough balancing act as it tightens security after Damascus blasts",
-                "desc": "Authorities increase security measures after back-to-back deadly explosions rattle residents.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260707__B9GR7EP__v1__HighRes__SyriaFranceDiplomacyUnrest-1783515456.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts",
-                "source": "Al Jazeera",
-                "date": "2026-07-08T13:15:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
-                "desc": "Iranian officials insist that Tehran will not give up control over the waterway as US attacks threaten fragile truce.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26187096296054-1783513686.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes",
-                "source": "Al Jazeera",
-                "date": "2026-07-08T13:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold wealth and over $9.5 billion from Saudi Arabia, Qatar and the UAE fail to bring economic recovery to Africa's war-torn country",
-                "desc": "Powerful Gulf countries are not letting go of war-torn Sudan anytime soon, as Saudi Arabia, Qatar and the United Arab Emirates deepen their roles in a country weakened by hunger, economic collapse and a widening struggle over gold, aid and influence. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/GyLktkpTURBXy85N2U0NGUyNGMyYjgzYTZjNDQzYWY4YzE5ZTk2MGQ0My5qcGeSlQPMYADNC_3NBsCTBc0EsM0Cdg",
-                "url": "https://africa.businessinsider.com/local/markets/gold-wealth-and-over-dollar95-billion-from-saudi-arabia-qatar-and-the-uae-fail-to/lcwzjpw",
-                "source": "Business Insider Africa",
-                "date": "2026-07-08T13:13:17Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "A Path For Middle Powers and a Rules",
-                "desc": "German scholars argue that from a realpolitik perspective, commitment to international law is essential for States whose power is limited.",
-                "image": "https://www.justsecurity.org/wp-content/uploads/2026/07/GettyImages-2280235139.jpg",
-                "url": "https://www.justsecurity.org/146038/middle-powers-international-order/",
-                "source": "Just Security",
-                "date": "2026-07-08T13:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU warns Ireland over working conditions directive",
-                "desc": "The European Commission has issued a warning to Ireland, and seven other countries, for failing to fully adopt an EU directive on transparent and predictable working conditions.",
-                "image": "https://www.rte.ie/images/00241493-1600.jpg",
-                "url": "https://www.rte.ie/news/business/2026/0708/1582408-eu-warns-ireland-over-working-conditions-directive/",
-                "source": "RTE.ie",
-                "date": "2026-07-08T13:06:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German doctor jailed for murder of 15 patients and suspected of more",
-                "desc": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aaf0/live/9a971ed0-1aa0-11f0-b1b3-7358f8d35a35.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o",
-                "source": "BBC",
-                "date": "2026-07-08T13:04:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German doctor jailed for murder of 15 patients and suspected of more",
-                "desc": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/aaf0/live/9a971ed0-1aa0-11f0-b1b3-7358f8d35a35.jpg",
-                "url": "https://www.bbc.com/news/articles/cq819jyp2g7o",
-                "source": "BBC",
-                "date": "2026-07-08T13:04:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
-                "desc": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/87a6/live/7dc56660-7ac9-11f1-b541-536d253827b8.jpg",
-                "url": "https://www.bbc.com/news/articles/cly85e2z2n4o",
-                "source": "BBC",
-                "date": "2026-07-08T12:59:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T04:00:41.740509Z"
+    "lastGlobalSync": "2026-07-09T04:40:34.424457Z"
 }
