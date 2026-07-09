@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Storage and system stress: what Ofgem's LDES decision and heatwave margin notices mean for UK power markets",
+                "desc": "In the midst of the most recent heatwave, the UK received two important signals in the same week – and they were not Aperols and sun loungers. Rather, they related to the UK power market.",
+                "image": "https://www.dentons.com/-/media/images/website/background-images/gpof/ocean/adobestock_104107025.ashx",
+                "url": "https://www.dentons.com/en/insights/articles/2026/july/8/storage-and-system-stress-what-ofgems-ldes-decision-and-heatwave-margin-notices-mean",
+                "source": "Dentons",
+                "date": "2026-07-08T12:39:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Licence fee is 'yesterday's model', says new BBC director general Matt Brittin",
+                "desc": "Matt Brittin gives his views on the corporation's future, six weeks after taking over the BBC.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83c9/live/dd364140-7aac-11f1-9f11-71e192f5293a.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c20yjjm7n87o",
+                "source": "BBC",
+                "date": "2026-07-08T12:37:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Licence fee is 'yesterday's model', says new BBC director general Matt Brittin",
+                "desc": "Matt Brittin gives his views on the corporation's future, six weeks after taking over the BBC.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/83c9/live/dd364140-7aac-11f1-9f11-71e192f5293a.jpg",
+                "url": "https://www.bbc.com/news/articles/c20yjjm7n87o",
+                "source": "BBC",
+                "date": "2026-07-08T12:37:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Research: AI Is Changing What Employers Want from New Hires",
+                "desc": "Generative AI is transforming what employers expect from knowledge workers—not by replacing expertise but by raising the bar for it. A study of three sectors that recruit the largest proportion of MBA graduates found that three capabilities will distinguish successful professionals: taking on broader, AI-enabled roles; synthesizing knowledge across functions to accelerate innovation; and redesigning workflows around intelligent agents. The winners will be those who pair domain expertise with AI fluency, critical judgment, and systems thinking.",
+                "image": "https://hbr.org/resources/images/article_assets/2026/07/Jul26_08_2225158581.jpg",
+                "url": "https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires",
+                "source": "Harvard Business Review",
+                "date": "2026-07-08T12:36:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Silver Price Falls After Trump's Iran Announcement",
+                "desc": "Silver has come under heavy pressure following the latest escalation in the Middle East. Instead of benefiting from increased demand for safe haven assets, the metal continues to decline.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250988108/image_2250988108.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4920592-silver-price-falls-after-trump-iran-announcement",
+                "source": "Seeking Alpha",
+                "date": "2026-07-08T12:35:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DOE halts landmark offshore wind power auction on geopolitical, infra risks",
+                "desc": "The Department of Energy (DOE) has indefinitely suspended its landmark fifth round of the Green Energy Auction Program (GEA-5), dealing a temporary setback to...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/08/114691.webp",
+                "url": "https://mb.com.ph/2026/07/08/doe-halts-landmark-offshore-wind-power-auction-on-geopolitical-infra-risks",
+                "source": "Manila Bulletin",
+                "date": "2026-07-08T12:34:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wednesday's analyst calls include stocks like SpaceX and Nvidia",
+                "desc": "Here are the biggest calls on Wall Street on Wednesday.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108229166-17636513992025-10-30t064536z_324939231_rc2648axhrak_rtrmadp_0_usa-trump-nvidia.jpeg?v=1763651419&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/wednesdays-analyst-calls-include-stocks-like-spacex-and-nvidia.html",
+                "source": "CNBC",
+                "date": "2026-07-08T12:32:13Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Bezos' Blue Origin valued at $130 billion in first public fundraising round",
+                "desc": "Bezos' Blue Origin is raising outside capital in a round valuing the rocket company at $130 billion, sources told CNBC's Andrew Ross Sorkin.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108329324-1782915391897-gettyimages-2282054038-_r7a3045_tx8qn1qc.jpeg?v=1782922841&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+                "source": "CNBC",
+                "date": "2026-07-08T12:32:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rs 12 Lakh Japanese SUV Launching Tomorrow",
+                "desc": "Planning to buy a new mid-size SUV? Well, the cheapest Japanese SUV will be launching tomorrow and here are all the details. - Nissan Tekton",
+                "image": "https://motoroctane.com/wp-content/uploads/2026/07/Nissan-Tekton-Launching-Tomorrow-4.jpg",
+                "url": "https://motoroctane.com/news/317090-rs-12-lakh-japanese-suv-launching-tomorrow",
+                "source": "MotorOctane",
+                "date": "2026-07-08T12:30:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Air Peace Welcomes First Brand-New Embraer E175 To Boost Fleet And Route Network",
+                "desc": "Air Peace takes delivery of its first brand-new Embraer E175, expanding fleet capacity and strengthening domestic and regional connectivity.",
+                "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/07/Air-Peace-takes-delivery-of-its-first-brand-new-Embraer-E175-expanding-fleet-capacity-and-strengthening-domestic-and-regional-connectivity.jpeg",
+                "url": "https://www.arise.tv/air-peace-welcomes-first-brand-new-embraer-e175-to-boost-fleet-and-route-network/",
+                "source": "Arise News",
+                "date": "2026-07-08T12:28:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "UK and EU responses to the Iran war",
                 "desc": "Explore how UK and EU energy sanctions on Russia are evolving in response to the war in Iran, with key updates on oil, gas, and compliance risks.",
                 "image": "https://www.mishcon.com/assets/managed/images/cache/ABREEAAABUBYOAIAAAAAADIDQ4ARAEAQ74AABDAACMJAUCIAAEAP6.jpg",
@@ -542,99 +632,99 @@
                 "source": "Global News",
                 "date": "2026-07-07T23:35:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hong Kong’s property market set to cool despite run of record-breaking deals",
-                "desc": "The recent rally in residential property is likely to lose steam in the second half of 2026, as a weak stock market weighs on investor sentiment.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/07/4942e185-af9d-4319-bbaf-cd8d526ee8d8_2d311952.jpg?itok=2mJliQvp&v=1783427091",
-                "url": "https://www.scmp.com/business/article/3359752/hong-kongs-property-market-set-cool-despite-run-record-breaking-deals",
-                "source": "South China Morning Post",
-                "date": "2026-07-07T23:30:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India Calls Out Meta Over Reported Child Sexual Abuse Imagery in Ads",
-                "desc": "The tech giant that owns Instagram, Facebook and WhatsApp says it is in touch with the Indian authorities about reports that exploitative content is being hawked on one of its platforms.",
-                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-India-Meta-Ads-wlkz/07int-India-Meta-Ads-wlkz-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/07/world/asia/india-meta-child-abuse-imagery.html",
-                "source": "The New York Times",
-                "date": "2026-07-07T23:27:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kiwi Crunch enters voluntary administration - Hawke’s Bay apple grower faces uncertainty",
-                "desc": "By RNZ Major apple grower and exporter Kiwi Crunch Hawke’s Bay has entered voluntary administration, alongside several other associated companies. According...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/X6D2VRU5CNE53CPFX6REPDLTJM.JPG?auth=04b26e51be6ebb55137128ac74bf7ab991cf793866074df78b82eab6e1b2e495&width=1200&height=675&quality=70&focal=2588%2C1595&smart=false",
-                "url": "https://www.nzherald.co.nz/the-country/news/kiwi-crunch-enters-voluntary-administration-hawkes-bay-apple-grower-faces-uncertainty/ELCIELKRN5BLXNKGTD5O2RAY5Y/",
-                "source": "NZ Herald",
-                "date": "2026-07-07T23:26:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What’s likely to move the market",
-                "desc": "A decline in chip stocks and a spike in oil prices dragged the market down on Tuesday. The Nasdaq lost more than 1%, while the Dow pulled back from 53,000.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108210164-1760032542345-gettyimages-2240145602-_75a8646_gopxuy9e.jpeg?v=1783466630&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/07/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-                "source": "CNBC",
-                "date": "2026-07-07T23:24:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In the age of AI, Hong Kong’s strategy as a ‘superconnector’ is progressing",
-                "desc": "At SCMP’s China Conference, Chief Executive John Lee and panellists made clear the city’s potential as an innovation centre, building on its traditional strengths.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2026/07/07/4c1aeb3e-431b-4972-a01e-4a0d41c4900d_23945f38.jpg?itok=Y4sIgKtK&v=1783420402",
-                "url": "https://www.scmp.com/opinion/comment/article/3359739/age-ai-hong-kongs-strategy-superconnector-progressing",
-                "source": "South China Morning Post",
-                "date": "2026-07-07T23:15:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Double cut: Shock as 18 banks drop rates",
-                "desc": "A rate war has broken out as banks go against RBA, with a major lender slotting in a surprise double cut - and 18 others dropping variables.",
-                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_07d6e5571072c07a68028f5867b00d71_dd32c9ca52be6e60dc82d440093a6681.jpeg",
-                "url": "https://www.realestate.com.au/news/double-rate-cut-war-breaks-out-as-18-banks-drop-mortgage-rates/",
-                "source": "realestate.com.au",
-                "date": "2026-07-07T23:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The big housing reform that may be easier said than done",
-                "desc": "The government wants to abolish leasehold, but replacing it could prove far more complicated",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5867/live/880920f0-7a09-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.com/news/articles/cp8llpp67l1o",
-                "source": "BBC",
-                "date": "2026-07-07T23:13:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The big housing reform that may be easier said than done",
-                "desc": "The government wants to abolish leasehold, but replacing it could prove far more complicated",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5867/live/880920f0-7a09-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cp8llpp67l1o",
-                "source": "BBC",
-                "date": "2026-07-07T23:13:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beijing is looking at curbing overseas access to China's top AI models, sources say",
-                "desc": "SINGAPORE, July 7 (Reuters) - Chinese authorities have held meetings with top tech firms over the past month about potentially restricting overseas access to China's most advanced AI models, including...",
-                "image": "https://s.yimg.com/lo/mysterio/api/45762d2ac107377991f82e8f60a193f627b06d0c7eb87ef72f1ff3b68448861e/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F77888907e57854274a95b1b28b492f50",
-                "url": "https://www.yahoo.com/news/world/articles/exclusive-beijing-looking-curbing-overseas-101644730.html",
-                "source": "Yahoo",
-                "date": "2026-07-07T23:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "28-year-old graduate learns hawker trade in secret, opens Hokkien mee stall to fulfill dream",
-                "desc": "While Tan Jing Herng spent his university days studying engineering, his heart has always been in the kitchen. Upon graduation, instead of pursuing a career in his field, he chose to learn how to wield a wok.Now, the 28-year-old is the proud owner of Herng Hao Chi Hokkien Mee at Toa Payoh Lorong 8, which opened on June 1. When...",
-                "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/Herng%20Hokkien%20Mee.jpg?itok=lDT3lJd4",
-                "url": "https://www.asiaone.com/lifestyle/herng-hao-chi-hokkien-mee-gen-z-hawker",
-                "source": "AsiaOne",
-                "date": "2026-07-07T23:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "adidas’ Samba Jane Gets a Taste for the Dark Side",
+                "desc": "Discover the adidas Samba Jane in a rich dark chocolate colorway, reimagining the iconic Samba silhouette with a playful Mary Jane strap and street style.",
+                "image": "https://www.highsnobiety.com/static-assets/dato/1783414560-samba_jane_shoes_brown_hq9495_hm5.png",
+                "url": "https://www.highsnobiety.com/p/adidas-samba-jane-aurora-coffee/",
+                "source": "Highsnobiety",
+                "date": "2026-07-08T12:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Voiskey Officially Launches: The First AI Voice Typing App Focused on Expression Intelligence",
+                "desc": "Powered by its proprietary Expression Intelligence model, Voiskey transforms spontaneous verbal speech into context-aware high-quality text.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1129552.jpg",
+                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/pr-newswire/voiskey-officially-launches-the-first-ai-voice-typing-app-focused-on-expression-intelligence/2380781",
+                "source": "The Manila Times",
+                "date": "2026-07-08T12:35:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The retreat from mobile games continues as Mario Kart Tour and Final Fantasy 7 Ever Crisis will be taken offline later this year",
+                "desc": "Two of Nintendo and Square Enix's biggest mobile games will go offline this year as gaming giants continue to rethink their overall strategies.",
+                "image": "https://assetsio.gnwcdn.com/Mario-Kart-Tour-key-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/mobile-games-mario-kart-tour-ff7-ever-crisis-shut-down",
+                "source": "Eurogamer.net",
+                "date": "2026-07-08T12:32:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strymon unveils TimeLine MX, the \"most powerful delay ever\"",
+                "desc": "Featuring 12 delay engines, some all-new sounds and the ability to run two of them together, expanded routing options, OLED display, and more powerful under the hood...",
+                "image": "https://cdn.mos.cms.futurecdn.net/DXgsXp5cBMHDgiKtSJCif5-2100-80.jpg",
+                "url": "https://www.musicradar.com/guitars/strymon-timeline-mx-delay-pedal",
+                "source": "MusicRadar",
+                "date": "2026-07-08T12:32:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "You can complete medieval vampire RPG The Blood of Dawnwalker even quicker than previously thought - before even the prologue ends",
+                "desc": "The limiting factor will be whether you're good enough to do it, and most of you - most of us - will not be.",
+                "image": "https://assetsio.gnwcdn.com/blood-of-dawnwalker-vampire-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/blood-of-dawnwalker-beat-game-prologue-brencis",
+                "source": "Eurogamer.net",
+                "date": "2026-07-08T12:32:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Switch Online Subscriber? Delivery From Nintendo Store Is Now Practically Free (Europe)",
+                "desc": "Well, for everything over £1 - If you're a paid Nintendo Switch Online subscriber, Nintendo has just added another neat little benefit. Starting today, NSO...",
+                "image": "https://images.nintendolife.com/8d63fccdef76d/large.jpg",
+                "url": "https://www.nintendolife.com/news/2026/07/switch-online-subscriber-delivery-from-nintendo-store-is-now-practically-free-europe",
+                "source": "Nintendo Life",
+                "date": "2026-07-08T12:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unexpected Windows bloat is due to bug, not by design",
+                "desc": "Mystery of the disappearing storage solved (for some)",
+                "image": "https://image.theregister.com/235426.jpg?imageId=235426&x=0&y=5&cropw=100&croph=71.67&panox=0&panoy=5&panow=100&panoh=71.67&width=1200&height=683",
+                "url": "https://www.theregister.com/storage/2026/07/08/unexpected-windows-bloat-is-due-to-bug-not-by-design/5268215",
+                "source": "The Register",
+                "date": "2026-07-08T12:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ivermectin Not Cancer Cure, Influencers Mislead Public",
+                "desc": "Though researchers have been studying the animal deworming drug ivermectin for decades, there is no evidence that it's a safe or effective way to",
+                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fuploads%2F1412533519888a485b488%2Fbb9f9777%3Fixid%3DMXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%253D%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1350%26amp%3Bq%3D80",
+                "url": "https://www.miragenews.com/ivermectin-not-cancer-cure-influencers-mislead-1706771/",
+                "source": "Mirage News",
+                "date": "2026-07-08T12:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pimbolas Blends Chaos, Soccer, and Fun",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/ko-KR/Pimbolas-Blends-Chaos-Soccer-and-Fun",
+                "source": "Games Press",
+                "date": "2026-07-08T12:23:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blink imaging laser scanner receives iF Design Award 2026",
+                "desc": "The scanner was recognized in Product Design and Industry categories from a field of more than 10,000 entries.",
+                "image": "https://www.engineering.com/wp-content/uploads/2026/07/Blink-imaging-laser-scanner-receives-iF-Design-Award-2026.jpg",
+                "url": "https://www.engineering.com/blink-imaging-laser-scanner-receives-if-design-award-2026/",
+                "source": "Engineering.com",
+                "date": "2026-07-08T12:23:36Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Galaxy Z Fold 8 Release Date: Samsung Confirms Event And Targets August Launch",
                 "desc": "The widely predicted date for the next Samsung keynote has been confirmed, and with it clues of what’s coming and when.",
@@ -1174,99 +1264,99 @@
                 "source": "Dance Australia",
                 "date": "2026-07-07T22:31:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-                "desc": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/07/stripe-x-battlefield_eventImage-site-crop.jpg?resize=1200,900",
-                "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-                "source": "TechCrunch",
-                "date": "2026-07-07T22:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Call of Duty: Black Ops",
-                "desc": "Call of Duty: Black Ops 1 and 2 might be missing a few modes and pieces of content when they're re-released for PS4 and PS5 later this month.",
-                "image": "https://assets-prd.ignimgs.com/2026/06/21/call-of-duty-black-ops-1782070244037.png?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2s-leaked-ps5-trophy-list-indicates-some-content-may-be-missing",
-                "source": "IGN",
-                "date": "2026-07-07T22:26:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox reportedly laid off about 25 percent of Obsidian Entertainment’s staff.",
-                "desc": "I missed this yesterday, reported by Kotaku. The studio will apparently keep working on Grounded 2 and DLC for The Outer Worlds 2, but “plans beyond that are up in the air,” Kotaku says.\n[Link: Outer Worlds Studio Obsidian Losing 25% Of Staff In Xbox Cuts | https://kotaku.com/avowed-the-outer-worlds-pentiment-studio-obsidian-xbox-layoffs-2000713032?ref=aftermath.site | Kotaku]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/games/962544/xbox-reportedly-laid-off-about-25-percent-of-obsidian-entertainments-staff",
-                "source": "The Verge",
-                "date": "2026-07-07T22:22:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MagicX announces Mini40 Linux handheld with updated specs",
-                "desc": "News, Reviews and other Informations about Laptops",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MagicX-Mini40-featured.jpg",
-                "url": "https://www.notebookcheck.net/MagicX-announces-Mini40-Linux-handheld-with-updated-specs.1337028.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-07T22:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insta360 X6 camera set to launch, FCC filing suggests",
-                "desc": "The next generation of 360-degree cameras is right around the corner.",
-                "image": "https://sm.mashable.com/t/mashable_sea/article/i/insta360-x/insta360-x6-camera-set-to-launch-fcc-filing-suggests_cf3n.1200.jpg",
-                "url": "https://sea.mashable.com/tech/52391/insta360-x6-camera-set-to-launch-fcc-filing-suggests",
-                "source": "Mashable SEA",
-                "date": "2026-07-07T22:21:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insta360 X6 camera set to launch, FCC filing suggests",
-                "desc": "Insta360's next 360 degree camera seems poised for a launch following new FCC filings.",
-                "image": "https://helios-i.mashable.com/imagery/articles/06Rp890jxRin28oUC9AL5ST/hero-image.fill.size_1200x675.v1783459286.jpg",
-                "url": "https://mashable.com/tech/insta360-x6-360-degree-camera-fcc-filings-launch-announcement-soon",
-                "source": "Mashable",
-                "date": "2026-07-07T22:21:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flighty Update Adds Step-by-Step Guide for Connecting Flights",
-                "desc": "Popular flight tracking app Flighty has a new Connection Assistant that helps travelers make connecting flights at airports worldwide. Connection Assistant gives flyers a step-by-step guide for all connections on a trip. It will outline whether users need to go through passport control, recheck a bag, go through security, or change terminals, and it gives an estimate of how long the process will take. Adding a passport to the app will let users know if they can use e-gates or skip passport control.",
-                "image": "https://images.macrumors.com/t/Lb1Ax9HutfjaG8n5dTNabBFTD1A=/2000x/article-new/2026/07/flighty-connection-assistant.jpg",
-                "url": "https://www.macrumors.com/2026/07/07/flighty-connection-assistant/",
-                "source": "MacRumors",
-                "date": "2026-07-07T22:14:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Minecraft Updates Adds Ability to Sit Down",
-                "desc": "Minecraft's new update is getting a lot of praise for adding the simple, but long-awaited feature that lets players sit down without using mods.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/01/new-key-art-01-1782922658372.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/new-minecraft-update-finally-allows-players-to-sit-down",
-                "source": "IGN",
-                "date": "2026-07-07T22:09:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's What's New With iOS 27 Beta 3",
-                "desc": "With iOS 27 beta 3, Apple is adding a number of new features and changes to its upcoming iPhone update.",
-                "image": "https://lifehacker.com/imagery/articles/01KWYSFRFHFX5AD3Y6VCA0D2M2/hero-image.fill.size_1200x675.jpg",
-                "url": "https://lifehacker.com/tech/everything-new-with-ios-27-beta-3",
-                "source": "Lifehacker",
-                "date": "2026-07-07T22:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I turned off Windows Fast Startup and my boot time barely changed - but 3 persistent bugs disappeared",
-                "desc": "One overlooked Windows setting was quietly breaking three separate things.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/08/lenovo-laptop-showing-windows-11-startup-screen.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/turned-off-windows-fast-startup-boot-time-barely-changed-bugs-disappeared/",
-                "source": "MakeUseOf",
-                "date": "2026-07-07T22:00:19Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "United Nations Human Rights Council Adopts First",
+                "desc": "In a landmark moment for global health and human rights, the United Nations Human Rights Council today adopted the first-ever resolution...",
+                "image": "https://www.businessghana.com/site/img/logo.png",
+                "url": "https://www.businessghana.com/site/news/General/351677/United-Nations-Human-Rights-Council-Adopts-First-Ever-Resolution-on-Human-Rights-&amp;-Neglected-...",
+                "source": "BusinessGhana",
+                "date": "2026-07-08T12:40:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "International Rescue Committee is Seeking a Project Coordinator to Support AI",
+                "desc": "The International Rescue Committee (IRC) has announced applications for a Project Coordinator position within its Infectious Disease AI and Data Governance",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/05/IRC-Jobs-1-1.webp",
+                "url": "https://www.globalsouthopportunities.com/2026/07/08/project-23/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-08T12:39:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Again Set His Eyes On Greenland. Denmark's PM…",
+                "desc": "Danish Prime Minister Mette Frederiksen reiterated that the territory is \"not for sale\" after U.S. President Donald Trump again set his eyes on it.",
+                "image": "https://images.inkl.com/s3/article/lead_image/23551951/greenland.jpg",
+                "url": "https://www.inkl.com/news/trump-again-set-his-eyes-on-greenland-denmarks-pm-quickly-came-out-to-challenge-him",
+                "source": "inkl",
+                "date": "2026-07-08T12:38:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paratus and powertel launch zimbabwe fiber corridor phase, ETDatacenters",
+                "desc": "Read paratus and powertel launch zimbabwe fiber corridor phase on datacenters.",
+                "image": "http://datacenters.economictimes.indiatimes.com/_icons/logos/datacenters-logo-header.svg?mod=2",
+                "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/paratus-and-powertel-launch-zimbabwe-fiber-corridor-phase/132263478",
+                "source": "Indiatimes",
+                "date": "2026-07-08T12:35:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police hunting man after wife and two daughters found dead in Bedfordshire",
+                "desc": "Ndodana Mkhanyisi Tshuma, 45, believed to have left UK for Zimbabwe before bodies of partner and children were discovered",
+                "image": "https://i.guim.co.uk/img/media/912709b27770bf2b503cd6ab4bbf2f34b07ea7ad/75_0_462_370/master/462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64fa3515c590fa3107ed0a78845a3ff4",
+                "url": "https://www.theguardian.com/uk-news/2026/jul/08/police-hunting-man-wife-two-daughters-found-dead-bedfordshire",
+                "source": "The Guardian",
+                "date": "2026-07-08T12:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Growing Up with a Nation: Children Demand a Say in South Sudan’s Future on 15 years of Independence",
+                "desc": "South Sudan gained independence on 9 July 2011 in one of the most celebrated moments in modern African history. Fifteen years later, the country now faces one of the world's largest humanitarian crises.",
+                "image": "https://i.stci.uk/dam/portrait-of-naomi-16-climate-advocate-in-south-sudan-ch11608105.jpg/t08cey44d1l47xkq8du45j8vc41812q5.jpg",
+                "url": "https://www.savethechildren.net/news/growing-nation-children-demand-say-south-sudans-future-15-years-independence",
+                "source": "Save the Children",
+                "date": "2026-07-08T12:31:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan: New Residence Permit Fee Structure from October 1, 2026",
+                "desc": "Immigration Services Agency (ISA) has published details of its revised residence permit fee schedule, which is expected to take effect on October 1, 2026. The revisions introduce a new fee structure for applications to change or extend residence status, replacing the current flat-rate system with fees that vary according to the length of the authorized period of stay granted.  \nUnder the revised…",
+                "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+                "url": "https://www.fragomen.com/insights/japan-new-residence-permit-fee-structure-from-october-1-2026.html",
+                "source": "Fragomen",
+                "date": "2026-07-08T12:31:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Diocese of Cubao eyes more Latin Masses for ultraconservative Catholic group",
+                "desc": "Diocese of Cubao Bishop Elias Ayuban Jr. has committed to pursue the path of charity and understanding in dealing with members of the Society of Saint Pius X...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/08/114690.webp",
+                "url": "https://mb.com.ph/2026/07/08/diocese-of-cubao-eyes-more-latin-masses-for-ultraconservative-catholic-group",
+                "source": "Manila Bulletin",
+                "date": "2026-07-08T12:31:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU takes Ireland, Spain, France and Netherlands to court over cybersecurity rules",
+                "desc": "The European Commission on Wednesday issued a statement regarding referring the four countries to the EU’s highest court, the Court of Justice.According to the EU executive, the countries...",
+                "image": "https://www.thenews.com.pk/assets/uploads/2026-07-08/1408472_053214_updates.jpg",
+                "url": "https://www.thenews.com.pk/latest/1408472-eu-takes-ireland-spain-france-and-netherlands-to-court-over-cybersecurity-rules",
+                "source": "The News International",
+                "date": "2026-07-08T12:30:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jacinta Zuma Details Next Location for March, Sends Strong Message to South Africans",
+                "desc": "Jacinta Ngobese-Zuma confirms Limpopo as the next location for the anti-immigration March and March protest on 10 July 2026, calling for nationwide participation.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/be333c0b83631682.jpeg?v=1",
+                "url": "https://yen.com.gh/world/307483-jacinta-zuma-details-location-march-sends-strong-message-south-africans/",
+                "source": "Yen News",
+                "date": "2026-07-08T12:29:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "North Belfast attack accused told case going to Crown Court",
                 "desc": "Hadi Alodid, 30, is charged with the attempted murder of Stephen Ogilvie.",
@@ -1806,98 +1896,8 @@
                 "source": "ABC News & Headlines – Australian Broadcasting Corporation",
                 "date": "2026-07-07T21:55:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Conflict-related Sexual Violence: Annual Open Debate",
-                "desc": "Conflict-related Sexual Violence: Annual Open Debate : What's In Blue : Security Council Report",
-                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
-                "url": "https://www.securitycouncilreport.org/whatsinblue/2026/07/conflict-related-sexual-violence-annual-open-debate-4.php",
-                "source": "Security Council Report",
-                "date": "2026-07-07T21:54:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US military launches series of fresh ‘powerful strikes’ against Iran",
-                "desc": "Latest assaults in key global shipping lane were the most in a single day since late April, says UN agency",
-                "image": "https://www.irishtimes.com/resizer/v2/VDTQ6V5JLKXBTAH4PTAIUUUCUQ.jpg?smart=true&auth=1d9193b99c5d406a19fe9e07c3b1d1ef1e328af76d0de4f8850eea3a2c4c8e40&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/middle-east/2026/07/07/us-military-launches-series-of-new-strikes-against-iran/",
-                "source": "The Irish Times",
-                "date": "2026-07-07T21:48:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine’s Zelensky signs ‘drone deals’ with three countries",
-                "desc": "ANKARA: President Volodymyr Zelensky ‌said on Tuesday that Ukraine had signed three more “drone deals” with Denmark, Estonia and the Netherlands, making ​available its expertise gained from more than four years of war with Russia. Zelensky announced the deals in posts on social media on the sidelines of the NATO summit in the Turkish capital Ankara and said that Kyiv had now",
-                "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729052-731281359.jpg?itok=cJx3lek1",
-                "url": "https://www.arabnews.com/node/2650040/world",
-                "source": "Arab News",
-                "date": "2026-07-07T21:45:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Estonia and Ukraine sign drone pact to deepen defence industry ties",
-                "desc": "'Ukraine has developed one of the most competitive defence industries in the world' through its experience fighting Russia's full-scale invasion, Michal said.",
-                "image": "https://images.euronews.com/articles/stories/09/82/91/18/1200x675_cmsv2_1c4a63dc-b8da-500b-aa5b-9f627ea74647-9829118.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/07/estonia-and-ukraine-sign-drone-pact-to-deepen-defence-industry-ties",
-                "source": "Euronews",
-                "date": "2026-07-07T21:44:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Economic hardship stops youth from starting families, says U",
-                "desc": "A new UN survey reveals economic hardship, not changing values, is preventing young people from starting families and having children.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/beautiful-young-interracial-family-at-home-with-their-cute-daughter-and-little-baby-so-SBI-305238493-scaled_1783460337-1200x630.webp",
-                "url": "https://punchng.com/economic-hardship-stopping-youths-from-starting-families-says-un/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-07T21:44:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US strikes Iran after Hormuz tanker attacks, Tehran threatens response",
-                "desc": "US Central Command said the strikes were carried out “to impose heavy costs” for attacks on commercial shipping.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--1J113ZZn--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/08/ap26181385886757.jpg?itok=p4pmWSdO",
-                "url": "https://www.channelnewsasia.com/world/us-iran-strike-hormuz-tanker-attacks-6239441",
-                "source": "CNA",
-                "date": "2026-07-07T21:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US strikes Iran amid oil sanctions",
-                "desc": "The US launched new strikes on Iran and revoked oil sanctions after three tankers were hit in the Strait of Hormuz, intensifying pressure. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b3c3b53780178c44bf88ec4b613e6838094893de1f75e1668b8b3f976cfb28f0",
-                "url": "https://www.straitstimes.com/world/middle-east/us-military-launches-strikes-against-iran-central-command-says",
-                "source": "The Straits Times",
-                "date": "2026-07-07T21:37:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "News and politics live updates: US launches military strikes on Iran after Strait of Hormuz shipping attacks",
-                "desc": "LIVE UPDATES: The US has launched retaliatory strikes on Iran after attacks on commercial vessels in the Strait of Hormuz, escalating tensions in the Middle East.",
-                "image": "https://images.thenightly.com.au/publication/C-22546576/6a473c519c2ed59f1948434fb0dca2e7e34a7372-16x9-x0y0w3840h2160.webp?imwidth=1200",
-                "url": "https://thenightly.com.au/politics/news-and-politics-live-updates-trump-renews-greenland-push-as-nato-leaders-unveil-72-billion-defence-deals-c-22546576",
-                "source": "The Nightly",
-                "date": "2026-07-07T21:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Government must walk 'careful path' standing up against China, Nicola Willis says",
-                "desc": "The government has to walk a \"careful path\", standing up against China trampling on the Pacific's anti-nuclear values while recognising it's our biggest trading partner, Finance Minister Nicola Willis says.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--QlC5pl95--/t_tohu-badge-facebook/f_auto/q_auto/4JMMMF1_Image_3_jfif",
-                "url": "https://www.rnz.co.nz/news/politics/685055/government-must-walk-careful-path-standing-up-against-china-nicola-willis-says",
-                "source": "RNZ",
-                "date": "2026-07-07T21:34:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NATO Reports 11% Rise in European Defense Spending as Trump Presses Allies",
-                "desc": "Alliance members unveiled higher defense budgets, discussed Ukraine, and sought to reinforce transatlantic unity",
-                "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1783454567_kurdistan24.jpg",
-                "url": "https://www.kurdistan24.net/en/story/924409",
-                "source": "Kurdistan24",
-                "date": "2026-07-07T21:34:29Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T00:00:34.713756Z"
+    "lastGlobalSync": "2026-07-09T00:40:33.880378Z"
 }
