@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as US strikes Iran for second day",
+                "desc": "US stock futures slipped as the US struck Iran for the second day in a row, hours after President Trump declared the ceasefire between the two countries \"over.\"",
+                "image": "https://s.yimg.com/lo/mysterio/api/A9CB2ECE2E92528CC6E3FE3D75FF94B2A0DFA28F64E57105EE3C1D6EC6492A75/subgraphmysterio/resizefill_w1200_h763;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-04%2F1758ac70-3faf-11f1-b7ef-d7042ed3dc75",
+                "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-us-strikes-iran-for-second-day-223149196.html",
+                "source": "Yahoo Finance",
+                "date": "2026-07-08T22:31:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gas prices in GTA expected to rise",
+                "desc": "Drivers in the Greater Toronto Area should fill up their tanks on Thursday as gas prices are expected to spike, one industry analyst says.",
+                "image": "https://www.cp24.com/resizer/v2/7ZXXUL2SO3K3WFA6BIZDMCQEKU.jpg?smart=true&auth=8dd6d3ee7ef70c3beb863d013dc28072c662c2b0666be47833c7f37852c4e7f0&width=1200&height=630",
+                "url": "https://www.cp24.com/local/toronto/2026/07/08/gas-prices-in-gta-expected-to-rise-as-trump-declares-ceasefire-with-iran-is-over/",
+                "source": "CP24",
+                "date": "2026-07-08T22:29:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The AI that spawned MechaHitler and deepfake porn puts on a suit to become legal advisor and Excel jockey",
+                "desc": "The newly renamed SpaceXAI wants you to believe little ol' Grok is all grown up",
+                "image": "https://image.theregister.com/242310.jpg?imageId=242310&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/ai-and-ml/2026/07/08/the-ai-that-spawned-mechahitler-and-deepfake-porn-puts-on-a-suit-to-become-legal-advisor-and-excel-jockey/5268803",
+                "source": "The Register",
+                "date": "2026-07-08T22:27:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IGPT: The Next Phase Of AI Should Favor The Companies Building It",
+                "desc": "Buy IGPT for AI stock exposure: semiconductors, memory & infrastructure leaders like NVIDIA, AMD, Micron, Alphabet & Meta. Learn more about IGPT ETF here.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1370479417/image_1370479417.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4920724-igpt-the-next-phase-of-ai-should-favor-the-companies-building-it",
+                "source": "Seeking Alpha",
+                "date": "2026-07-08T22:26:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What We Know About ‘Freedom Fuel’ Gas Stations",
+                "desc": "It is unclear who is behind the initiative and its sharply discounted gas prices.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4ecd2328c237843f68da19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/08/trump-promoted-freedom-fuel-discounted-gas-station-launches-in-philadelphia-area/",
+                "source": "Forbes",
+                "date": "2026-07-08T22:21:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DOOM dev id Software was \"toying around\" with game ideas before Xbox layoffs gutted it — a John Wick-style \"Gun Fu\" game and Perfect Dark were in consideration",
+                "desc": "Before this week's brutal Xbox layoffs, id Software had several ideas for non-DOOM games.",
+                "image": "https://cdn.mos.cms.futurecdn.net/s24dAH2di9TvvpkzRNv3NS-1920-80.jpg",
+                "url": "https://www.windowscentral.com/gaming/xbox/doom-dev-id-software-was-toying-around-with-game-ideas-before-xbox-layoffs-gutted-it",
+                "source": "Windows Central",
+                "date": "2026-07-08T22:20:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside Foodstuffs’ massive new $70m chilled goods centre in Māngere",
+                "desc": "“It’s a game-changer,” says the head of New Zealand’s largest supermarket business, standing within the busy Project Igloo site. Foodstuffs North Island...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/GVU2OD66I5A3HIAYIP7JPPQQUE.jpg?auth=10aad4445e076fe6d3145496fb2815cad42211b2347164de413f2ba4c7c48f6d&width=1200&height=675&quality=70&focal=940%2C546&smart=false",
+                "url": "https://www.nzherald.co.nz/property/inside-foodstuffs-massive-new-70m-chilled-goods-centre-in-mangere/premium/UBEQ27ODYBHXXAYMDMVQBGQW6U/",
+                "source": "NZ Herald",
+                "date": "2026-07-08T22:04:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's what's happening at Trump-backed Freedom Fuel gas stations",
+                "desc": "The White House promoted \"Freedom Fuel\" stations with $3.47 gas in the Philadelphia region. Customers said they just want cheap gas.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90848128007-img-1328.jpeg?crop=4027,2269,x0,y373&width=3200&height=1804&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/politics/2026/07/08/trump-freedom-fuel-stations-in-person/90848379007/",
+                "source": "USA Today",
+                "date": "2026-07-08T22:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Gulf Oil Producers Relaunch Fight for Market Share in Asia",
                 "desc": "The Kingdom of Saudi Arabia is offering rare discounts to regain market share as Gulf producers compete aggressively following the partial reopening of the Strait of Hormuz.",
                 "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_48qrpymvf7.jpg",
@@ -560,81 +632,90 @@
                 "source": "SMH.com.au",
                 "date": "2026-07-08T19:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "IMF Downgrades Global Economic Growth Forecast To 3% Amid Iran War",
-                "desc": "The International Monetary Fund (IMF) has downgraded its 2026 global economic growth forecast to 3%, down from 3.5%",
-                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_xr2uypmpaf.jpg",
-                "url": "https://oilprice.com/Latest-Energy-News/World-News/IMF-Downgrades-Global-Economic-Growth-Forecast-To-3-Amid-Iran-War.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Grossly unaffordable’: Sydney rents hit record highs",
-                "desc": "Sydney rents have jumped again after tenants got a reprieve from hikes earlier in the year. Landlords remain in the driver’s seat.",
-                "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/a10d9f9dc8a18556abbe394a12be77f1aa5b12ed",
-                "url": "https://www.smh.com.au/property/news/grossly-unaffordable-sydney-rents-hit-record-highs-20260626-p60acw.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta’s Muse AI image generator lets users alter photos on public Instagram accounts",
-                "desc": "Meta lets its new AI tool use your Instagram photos to generate images. Here's how to stop it.",
-                "image": "https://helios-i.mashable.com/imagery/articles/00eZnQmax2zdOogdTLfBVY6/hero-image.fill.size_1200x675.v1783529328.jpg",
-                "url": "https://mashable.com/tech/meta-muse-image-ai-generator-public-posts-photos-instagram-accounts",
-                "source": "Mashable",
-                "date": "2026-07-08T18:58:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The United States could face a major electricity shortfall through 2030, BofA says",
-                "desc": "The US could face an electricity generation shortfall of more than 100 gigawatts, according to Bank of America",
-                "image": "https://s.yimg.com/lo/mysterio/api/6DD405BB566D673C1166D11E3981161ECBC8B0A143F3CED5BFDFD80BE41A29AA/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F7d976b82-ed19-4a38-9420-13b439a5e47e",
-                "url": "https://finance.yahoo.com/markets/article/the-united-states-could-face-a-major-electricity-shortfall-through-2030-bofa-says-185529669.html",
-                "source": "Yahoo Finance",
-                "date": "2026-07-08T18:55:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shopping for Same Groceries at Walmart, Kroger, Amazon: Winner, Prices",
-                "desc": "I brought the same shopping list to Walmart, Kroger, and Amazon to see which has the best grocery prices, especially amid Walmart's rollbacks.",
-                "image": "https://i.insider.com/6a4e9626d3a449ec3445f5e3?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/walmart-kroger-amazon-grocery-shopping-comparison-best-prices-review-comparison-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-08T18:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Missing teen could be buried under a garage, private investigator says",
-                "desc": "Nicoll Investigations has spoken with more than 60 people in hopes of locating Justin Pollari, who abruptly vanished from St. Joseph Island over 24 years ago",
-                "image": "https://www.vmcdn.ca/f/files/sootoday/images/police/20260513-justinpollariscreenshot.png;w=1188;h=658;mode=crop",
-                "url": "https://www.sootoday.com/city-police-beat/missing-teen-could-be-buried-under-a-garage-private-investigator-says-12524788",
-                "source": "SooToday.com",
-                "date": "2026-07-08T18:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Car trader convicted after selling vehicles with false mileage readings",
-                "desc": "He was given a 12-month custodial sentence, suspended for two years and ordered to pay £10,464 compensation",
-                "image": "https://i2-prod.belfastlive.co.uk/article27069518.ece/ALTERNATES/s1200d/1_01H288K619K0YGPNHJXV26S4JZ.jpg",
-                "url": "https://www.belfastlive.co.uk/news/belfast-news/car-trader-convicted-after-selling-34259854",
-                "source": "Belfast Live",
-                "date": "2026-07-08T18:52:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oregon data centers face sharp electricity rate hike under new law",
-                "desc": "Portland General Electric is the first Oregon utility to adopt new data center electricity rates under the POWER Act, raising costs 29% while cutting residential rates.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/04/0/0/data-center.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/economy/oregon-data-centers-face-sharp-electricity-rate-hike-under-new-law",
-                "source": "Fox Business",
-                "date": "2026-07-08T18:37:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Marblebound Opens Global Pre-Registration, Unveiling a Player Ecosystem Beyond the Game",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Marblebound-Opens-Global-Pre-Registration-Unveiling-a-Player-Ecosystem",
+                "source": "Games Press",
+                "date": "2026-07-08T22:36:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MindsEye developers protest against a fan event their own studio is hosting",
+                "desc": "Another bizarre twist in the Build a Rocket Boy saga.",
+                "image": "https://s.yimg.com/lo/mysterio/api/eb9ac3a7a93957dfee5b13ab2511ab0bee9280170e65fd591021c3fa632349cf/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2F4514ee8938a2f0adb4b8ee46be787849",
+                "url": "https://www.yahoo.com/entertainment/movies/articles/mindseye-developers-protest-against-fan-223446039.html",
+                "source": "Yahoo",
+                "date": "2026-07-08T22:34:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hands-on review: Logitech G512 X Keyboard and G512 X Palm Rest",
+                "desc": "Swappable analogue switches and customisable lighting make this 98% wired board versatile, though the palm rest costs extra.",
+                "image": "https://futurefive.com.au/uploads/story/2026/07/09/compatible_Logitech_G512_X_02.jpg",
+                "url": "https://futurefive.com.au/story/hands-on-review-logitech-g512-x-keyboard-and-g512-x-palm-rest",
+                "source": "futurefive.com.au",
+                "date": "2026-07-08T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Obsidian Nukes Avowed 2 in Favor of New Fallout Game",
+                "desc": "Obsidian has famously been caught up in the recent Xbox reset, with the game studio losing as much as 25% of its staff to layoffs. According to recent insider reports out of Bloomberg, one of the consequences of the headcount reduction appears to be a narrower focus, which in this case has...",
+                "image": "https://www.techpowerup.com/img/XJI9KHSKFeDjRheG.jpg",
+                "url": "https://www.techpowerup.com/350623/obsidian-nukes-avowed-2-in-favor-of-new-fallout-game",
+                "source": "TechPowerUp",
+                "date": "2026-07-08T22:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy M47 5G Full Spec: 6 Reasons It Stands Out",
+                "desc": "Samsung Galaxy M47 5G packs a 120Hz AMOLED display, 6,000mAh battery, and 6 years of updates for ~$250. Here's what you need to know in 2026.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/07/Samsung-Galaxy-M47-5G-Full-Spec-6-Reasons-It-Stands-Out.jpg",
+                "url": "https://memeburn.com/samsung-galaxy-m47-5g-full-spec/",
+                "source": "Memeburn",
+                "date": "2026-07-08T22:17:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lots Of Volvo Owner To Get Free Apple Music Integrated To Their Vehicles Via OTA",
+                "desc": "Volvo is integrating Apple Music directly into its dashboards via an over-the-air update for over two million vehicles. Models from 2020 and newer—including the EX90, XC90, and XC60—will gain native access to the streaming service, eliminating the need for phone tethering and offering eligible owners up to three months of free service. Upon the release […]",
+                "image": "https://autojosh.com/wp-content/uploads/2023/07/2025_volvo_ex30_electric_suv_autojosh_8.jpg",
+                "url": "https://autojosh.com/lots-of-volvo-owner-to-get-free-apple-music-integrated-to-their-vehicles-via-ota/",
+                "source": "AUTOJOSH",
+                "date": "2026-07-08T22:15:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation to Show More Upcoming PS5 Games at Tokyo Game Show 2026",
+                "desc": "Sony confirmed as a major exhibitor - For the third year in a row, PlayStation will have a booth at the Tokyo Game Show. The manufacturer has given most con...",
+                "image": "https://images.pushsquare.com/a6ab44a860db3/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/playstation-to-show-more-upcoming-ps5-games-at-tokyo-game-show-2026",
+                "source": "Push Square",
+                "date": "2026-07-08T22:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Windows now works on all Steam hardware, but Valve would prefer you didn't actually use it",
+                "desc": "It's possible, but not recommended.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/03/valve-steam-machine-blue-wall.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/windows-now-works-on-all-steam-hardware-but-valve-would-prefer-you-didnt-actually-use-it/",
+                "source": "XDA",
+                "date": "2026-07-08T22:12:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sena Launches Vortex Bluetooth Intercom Aimed at Everyday Motorcycle Riders",
+                "desc": "Sena's new Vortex communication system brings features typically reserved for higher-end units — including wireless charging and a 27-hour battery — to a more accessible price point.",
+                "image": "https://www.tarmaclife.co.nz/wp-content/uploads/2026/07/pvortex_N707345693_d-1536x858-1.webp",
+                "url": "https://www.tarmaclife.co.nz/news/sena-launches-vortex-bluetooth-intercom-aimed-at-everyday-motorcycle-riders/",
+                "source": "Tarmac Life",
+                "date": "2026-07-08T22:07:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "OpenAI Says Its New Voice Assistant Is 'One Step Closer to a Truly Accessible AGI’",
                 "desc": "GPT-Live-1 is designed to make speaking with AI feel less… artificial.",
@@ -1183,90 +1264,99 @@
                 "source": "CarBuzz",
                 "date": "2026-07-08T18:35:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New ‘Fallout’ Game Reportedly Coming From Obsidian, ‘Avowed 2’ Cancelled",
-                "desc": "Obsidian has reportedly cancelled a sequel to Avowed, and will instead work on a new Fallout game under the direction of Fallout New Vegas’ Josh Sawyer.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/661a7722a88a3ac19c93cb6e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/paultassi/2026/07/08/new-fallout-game-reportedly-coming-from-obsidian-avowed-2-cancelled/",
-                "source": "Forbes",
-                "date": "2026-07-08T18:31:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android's upcoming automatic backup to PC feature excludes Samsung devices",
-                "desc": "There's probably a good reason for this decision, though. Google is working on cloud-free automatic backup to Windows PCs for Android, according to a new...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/android-pc-backup-excludes-samsung-devices/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/androids_upcoming_automatic_backup_to_pc_feature_excludes_samsung_devices-news-73630.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-08T18:31:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Mad Hueys Did Cape Solander Exactly How You Thought They Would",
-                "desc": "Cape Solander is a wave that requires a whole lot of skill, a whole lot of a dedication, and a bit of craziness. All of which the Mad Hueys have in spades.",
-                "image": "http://www.theinertia.com/wp-content/uploads/2026/07/mad.jpg",
-                "url": "https://www.theinertia.com/surf/mad-hueys-surfing-cape-solander/",
-                "source": "The Inertia",
-                "date": "2026-07-08T18:30:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DuckDuckGo Can Now Block Ads on YouTube",
-                "desc": "DuckDuckGo now comes with a built-in video ad blocker enabled by default, which even works on YouTube.",
-                "image": "https://lifehacker.com/imagery/articles/01KX1DYX060XQ02S2E1BYFWWD4/hero-image.fill.size_1200x675.jpg",
-                "url": "https://lifehacker.com/tech/duckduckgo-can-now-block-ads-on-youtube",
-                "source": "Lifehacker",
-                "date": "2026-07-08T18:30:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Photos adds a new AI 'Video Remix' tool",
-                "desc": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-                "source": "TechCrunch",
-                "date": "2026-07-08T18:30:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, and Watch Ultra2 renders leak",
-                "desc": "It's the mega leak you've been waiting for. Samsung is holding its next Unpacked event on July 22 in London, the company has recently confirmed. Ahead of...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-renders-leak/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_and_watch_ultra2_renders_leak-news-73637.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-08T18:29:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More stats, naps part of sleep total",
-                "desc": "Google is rolling out version 5.03 of the Health app with more quality-of-life updates on Android and iOS...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Health-cover.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/08/google-health-5-03-release-notes/",
-                "source": "9to5Google",
-                "date": "2026-07-08T18:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McLaren M6GT: Bruce McLaren's Lost 1960s Road Car Rebuilt by MSO",
-                "desc": "McLaren has pulled the wraps off a car it never actually built, and it's calling the result a \"restoration.\" That word is doing some heavy lifting, but the car underneath the marketing is the real thing: the M6GT, the road-going supercar founder Bruce McLaren was chasing a full quarter-century before the F1 made the idea famous. It debuts this week at the Goodwood Festival of Speed, which runs July 9–12, and it's worth understanding what McLaren Special Operations actually did here, because it's",
-                "image": "https://s.yimg.com/lo/mysterio/api/aca069c077ec4be7086fed9a7e701bb63fadb15039b63a527d961723d1460542/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmodern_car_collector_articles_878%2F6b76c5b0ae788b9d3c8991ec107a9981",
-                "url": "https://autos.yahoo.com/classic-and-collector/articles/mclaren-m6gt-bruce-mclarens-lost-182200698.html",
-                "source": "Yahoo Autos",
-                "date": "2026-07-08T18:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's most powerful features aren't turned on by default - and almost nobody finds them",
-                "desc": "Automate your phone, launch apps faster, add new functionality with these Samsung tools.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/feat-3.jpeg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/the-best-samsung-features-almost-nobody-turns-on/",
-                "source": "MakeUseOf",
-                "date": "2026-07-08T18:00:18Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "United Arab Emirates Expands Visa-on-Arrival Eligibility for Nationals of Six Countries",
+                "desc": "The UAE expanded its visa-on-arrival program to eligible nationals of Indonesia, Vietnam, Thailand, the Philippines, Kenya and South Africa who hold qualifying residence permits from certain countries.",
+                "image": "https://www.envoyglobal.com/wp-content/uploads/2025/02/EG-favicon.svg",
+                "url": "https://www.envoyglobal.com/news-alert/united-arab-emirates-expands-visa-on-arrival-eligibility-for-nationals-of-six-countries/",
+                "source": "Envoy Global",
+                "date": "2026-07-08T22:31:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Counterterrorism key topic at Russia-Sahel Alliance Conference - Lavrov",
+                "desc": "Niamey, July 8 (RIA Novosti/GNA) – Counterterrorism was a key topic during the Russia-Sahel Alliance ministerial conference, Russian Foreign Minister Sergey Lavrov said on Wednesday. “And, of course,…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/07/counterterrorism-key-topic-at-russia-sahel-alliance-conference-lavrov/",
+                "source": "Ghana News Agency",
+                "date": "2026-07-08T22:29:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China and ASEAN embrace shared heritage",
+                "desc": "In Dunhuang, experts highlight digital innovation and sustainable practices to revitalize joint legacies, Ma Jingna and Hu Yumeng report in Lanzhou.",
+                "image": "https://www.chinadaily.com.cn/image_e/2020/timg.jpg",
+                "url": "https://www.chinadaily.com.cn/a/202607/09/WS6a4ecf00a310986e2b4643e9.html",
+                "source": "China Daily",
+                "date": "2026-07-08T22:28:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Iran’s ‘golden weapon’ of Hormuz became a bigger priority than its nuclear program",
+                "desc": "Iranian leaders now see the Strait of Hormuz as their strongest card in a host of disputes with the West, and the ‌reason Washington ‌ended the war.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/09/550665.JPG?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/07/09/world/politics/iran-weapon-hormuz-nuclear-program/",
+                "source": "The Japan Times",
+                "date": "2026-07-08T22:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thai-UK effort targets cannabis smugglers",
+                "desc": "Thailand and the United Kingdom have intensified cooperation to curb illegal cannabis smuggling, introducing tougher penalties and expanding intelligence sharing following a surge in trafficking cases.",
+                "image": "https://static.bangkokpost.com/media/content/20260709/c1_3283085_260709052947_700.jpg",
+                "url": "https://www.bangkokpost.com/thailand/general/3283085/thaiuk-effort-targets-cannabis-smugglers",
+                "source": "Bangkok Post",
+                "date": "2026-07-08T22:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "With Trump around, is it worth still having annual NATO summits?",
+                "desc": "The U.S. president made it clear as soon as he arrived at the summit in Ankara that he didn’t want to be there.",
+                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/Trump-NATO-1.jpg",
+                "url": "https://nationalpost.com/news/donald-trump-nato-summit",
+                "source": "National Post",
+                "date": "2026-07-08T22:19:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Arkansas Timber Industry Faces Challenges as Drought Stresses Forests and Economy",
+                "desc": "The prolonged drought affecting Arkansas and much of the South is continuing to impact the state’s timber industry, creating challenges for both commercial timber operations and residential landowners. According to the Arkansas Department of Agriculture, the state is home to more than 18 million acres […]",
+                "image": "https://www.kvom.com/wp-content/uploads/2026/07/lumber-yard-f5e3cb.webp",
+                "url": "https://www.kvom.com/arkansas-timber-industry-faces-challenges-as-drought-stresses-forests-and-economy/",
+                "source": "KVOM 101.7",
+                "date": "2026-07-08T22:17:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sky News Australia",
+                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+                "source": "Sky News Australia",
+                "date": "2026-07-08T22:05:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Charlotte Travel CEO on luxury travel beyond five-star hotels",
+                "desc": "Charlotte Harris leads Charlotte Travel into a new era of luxury travel, where rare access, women-centric journeys and human touch matter most.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--YjPelvLO--/c_crop,h_548,w_975,x_1,y_51/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/08/charlotte_travel_charlotte_harris.jpg?itok=gK887n_G",
+                "url": "https://cnaluxury.channelnewsasia.com/people/charlotte-harris-charlotte-travel-luxury-travel-294541",
+                "source": "CNA Luxury",
+                "date": "2026-07-08T22:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump ditches new Qatari Air Force One amid Iran tensions, flies back in older jet",
+                "desc": "Trump returned from the NATO summit in Turkey aboard the older Air Force One instead of the newly retrofitted Qatari-gifted jet, making a surprise aircraft switch as the US and Iran resumed exchanging strikes.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/trump-boards-the-new--qatari-gifted-air-force-one-after-arriving-on-one-of-the-older-planes-operatin-090422276-16x9_0.jpg?VersionId=1TL1PMo57nCM6fo1PdLXq4Y63L7jp8SA",
+                "url": "https://www.indiatoday.in/world/story/trump-air-force-one-switch-qatar-jet-security-iran-turkey-ptag-2943751-2026-07-09",
+                "source": "India Today",
+                "date": "2026-07-08T22:02:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Why Do National AI Strategies Stall in Southeast Asia?",
                 "desc": "Indonesia’s lesson is a blunt one: a strategy can create conversation, but execution needs an empowered owner.",
@@ -1806,98 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-08T18:46:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump threatens to hit Iran 'hard' after saying ceasefire 'over'",
-                "desc": "Donald Trump has flagged the US could hit Iran \"hard\" with fresh strikes in coming hours after declaring the ceasefire between the two countries is at an end after reported attacks on vessels in the Strait of Hormuz.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/91bb2b1e1ac5f5f215ae7119e96b3707?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-09/doran-trump-iran-ceasefire-over/106895214",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-08T18:45:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In Mauritania, Imraguen people’s desert-ocean paradise under threat",
-                "desc": "Since he was old enough to climb into a boat, Samata Mahmoud has been fishing the vast, dune-lined waters of Mauritania’s Banc d’Arguin bay, living a centur...",
-                "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/07/08/414156.jpg",
-                "url": "https://kuwaittimes.com/article/46185/health/in-mauritania-imraguen-peoples-desert-ocean-paradise-under-threat/",
-                "source": "Kuwait Times",
-                "date": "2026-07-08T18:41:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Very strong El Niño raises risk of extreme weather in South America",
-                "desc": "A very strong El Niño is expected to increase the risk of extreme weather across South America in the coming months, forecasters have predicted.",
-                "image": "https://cdnph.upi.com/sv/ph/og/i/5611783533115/2026/1/17835358842625/v1.5/Very-strong-El-Nio-raises-risk-of-extreme-weather-in-South-America.jpg",
-                "url": "https://www.upi.com/Top_News/World-News/2026/07/08/latam-south-ameica-el-nino/5611783533115/",
-                "source": "upi.com",
-                "date": "2026-07-08T18:39:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran: Briefing on the Implementation of Resolution 2231 on the Joint Comprehensive Plan of Action (JCPOA)",
-                "desc": "Iran: Briefing on the Implementation of Resolution 2231 on the Joint Comprehensive Plan of Action (JCPOA) : What's In Blue : Security Council Report",
-                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
-                "url": "https://www.securitycouncilreport.org/whatsinblue/2026/07/iran-briefing-on-the-implementation-of-resolution-2231-on-the-joint-comprehensive-plan-of-action-jcpoa-2.php",
-                "source": "Security Council Report",
-                "date": "2026-07-08T18:35:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Negotiating War and Rethinking Mediation in Africa in a New Era of Conflicts and Global Disorder",
-                "desc": "8 July 2026",
-                "image": "https://amaniafrica-et.org/wp-content/uploads/c-2.jpg",
-                "url": "https://amaniafrica-et.org/negotiating-war-and-rethinking-mediation-in-africa-in-a-new-era-of-conflicts-and-global-disorder/",
-                "source": "Amani Africa",
-                "date": "2026-07-08T18:34:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zuma Wins High Court Battle Against SA Government Over National Dialogue",
-                "desc": "Jacinta Ngobese-Zuma secured a court win after being controversially removed from South Africa's National Dialogue steering committee, sparking online praise.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/26ed46facf701e5f.jpeg?v=1",
-                "url": "https://yen.com.gh/entertainment/celebrities/307517-jacinta-ngobese-zuma-wins-high-court-battle-sa-government-national-dialogue/",
-                "source": "Yen News",
-                "date": "2026-07-08T18:31:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Somali electoral commission approves 35 political groups for Galmudug elections",
-                "desc": "Mogadishu (HOL) — Somalia’s Independent National Electoral and Boundaries Commission has approved 35 political organizations to participate in upcoming elections in Galmudug State, as part of the country’s planned transition to a one-person, one-vote electoral system.",
-                "image": "https://www.hiiraan.com/uploads/2026/07/17835349481783513711Screenshot2026-05-09041604.png",
-                "url": "https://www.hiiraan.com/news4/2026/Jul/205633/somali_electoral_commission_approves_35_political_groups_for_galmudug_elections.aspx",
-                "source": "Hiiraan Online",
-                "date": "2026-07-08T18:24:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump tempers fury to end Nato summit on a high note",
-                "desc": "US President Donald Trump offered Nato allies an unexpected warm embrace as they wrapped up a key summit Wednesday after earlier lashing out at them over...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/DSV2AVH25ZCOJLIL5JMBWWIYFQ.jpg?auth=bdd055b133527b670b73cc3a2a31370dc932f88f3091cceb8ec505c7c4ab1982&width=1200&height=675&quality=70&focal=2969%2C1251&smart=false",
-                "url": "https://www.nzherald.co.nz/world/trump-tempers-fury-to-end-nato-summit-on-a-high-note/NCT7RZJQH5DFXCC2U4HENRQE7I/",
-                "source": "NZ Herald",
-                "date": "2026-07-08T18:24:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NATO Builds AI 'Kill Web' to Stop Russian Attackers in Their Tracks",
-                "desc": "The new strategy creates a vast network to detect and strike targets, an approach shaped by lessons from Ukraine.",
-                "image": "https://i.insider.com/6a4e6da6b3a8c16f7e8ec73c?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/nato-builds-ai-kill-web-to-stop-russian-attackers-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-08T18:21:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa’s AI Opportunity Is Trade Intelligence, Not Chatbots",
-                "desc": "Afreximbank’s 2026 African Trade Report shows a continent facing disrupted supply chains, financing gaps, and unfinished regional integration. This first",
-                "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/roger-1.jpg",
-                "url": "https://panafricanvisions.com/2026/07/africas-ai-opportunity-is-trade-intelligence-not-chatbots/",
-                "source": "pan african visions",
-                "date": "2026-07-08T18:21:27Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T10:00:40.150542Z"
+    "lastGlobalSync": "2026-07-09T10:40:37.831653Z"
 }
