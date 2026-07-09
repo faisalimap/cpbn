@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "CAA Warns Meta Muse AI Image Needs Privacy Revamp ASAP",
+                "desc": "CAA has been leaning heavily int the digital opportunities of an evolving entertainment economy, but the uberagency doesn't like Meta's new free for all Muse Image AI generator",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/Meta-AI-CAA.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/caa-slams-meta-muse-image-ai-1236978047/",
+                "source": "Deadline",
+                "date": "2026-07-09T02:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta to build first data center in Canada in expansion of global fleet",
+                "desc": "The Sturgeon County, Alberta-based data center will be Meta’s largest outside the U.S.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/09/550698.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/09/tech/meta-data-center-canada/",
+                "source": "The Japan Times",
+                "date": "2026-07-09T02:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rapidus to match TSMC on 2-nanometer chip pricing, Japan firm’s president says",
+                "desc": "The Taiwanese maker’s chips are expected to be sold at around ¥3 million to ¥3.5 million per silicon wafer.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/09/550694.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/09/companies/rapidus-chip-price/",
+                "source": "The Japan Times",
+                "date": "2026-07-09T02:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Coronation Insurance Advocates Stronger Financial Safety Net",
+                "desc": "Coronation Insurance urges Nigerians to embrace insurance as a vital financial safety net for long-term stability, highlighting the benefits of proactive f",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/IMG_7307_1783553946-641x630.webp",
+                "url": "https://punchng.com/coronation-insurance-advocates-stronger-financial-safety-net/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-09T02:37:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Private ‘school’ linked to failed influencer sells for $700,000 - almost $300k below RV",
+                "desc": "Only one bidder put up their hand at mortgagee auction of lifestyle block., All things property, under OneRoof",
+                "image": "https://s.oneroof.co.nz/image/1c/be/1cbe50c2c42fac239b1e4c4cba94b3c3.jpg?x-oss-process=image/quality,q_80",
+                "url": "https://www.oneroof.co.nz/news/unconsented-school-linked-to-failed-property-flipper-sells-at-mortgagee-auction-49837",
+                "source": "OneRoof",
+                "date": "2026-07-09T02:34:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks to watch, July 9: HFCL, TCS, GM Breweries, Anand Rathi Wealth, oil-senstives, Heritage Foods, NALCO",
+                "desc": "The June quarter earnings season for the fiscal year 2026-27 (Q1 FY27) starts today. As many as 10 companies are scheduled to release their quarterly numbers today, including IT services major Tata Consultancy Services (TCS). GM Breweries and Anand Rathi Wealth are also slated to release their Q1 earnings today.",
+                "image": "https://assets.upstox.com/content/assets/images/news/stock-to-watch-july-09.webp",
+                "url": "https://upstox.com/news/market-news/stocks/stocks-to-watch-july-9-hfcl-tcs-gm-breweries-anand-rathi-wealth-oil-linked-stocks-heritage-foods-antony-waste/article-196596/",
+                "source": "Upstox",
+                "date": "2026-07-09T02:31:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Truecaller clashes with India's telecom regulator over anti-spam rules",
+                "desc": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/truecaller-ceo-rishit-jhunjhunwala_image.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+                "source": "TechCrunch",
+                "date": "2026-07-09T02:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shoppers splurge on spectacles in Japan as deflation-era mindset fades away",
+                "desc": "Tokyo-based lensmaker JINS, a household name for cheap chic, is moving upscale and also expanding overseas. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6326e1f202ce72102f706dd518e4b68a1f18541089d11dad30e4fa7413b1e335",
+                "url": "https://www.straitstimes.com/asia/east-asia/shoppers-splurge-on-spectacles-in-japan-as-deflation-era-mindset-fades-away",
+                "source": "The Straits Times",
+                "date": "2026-07-09T02:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IMF downgrades economic growth forecast for Australia",
+                "desc": "The International Monetary Fund has downgraded its forecast of Australia’s economic growth from 2 per cent to 1.9 per cent this year.",
+                "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/dd2ab972262d2fafc59c3a7c2f58a86f2439f7c1",
+                "url": "https://www.nine.com.au/australia-news/grim-warning-as-global-firm-downgrades-aussie-economy-20260709-p60dvu.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-09T02:28:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Keeper Security hits USD $225 million ARR on AI demand",
+                "desc": "Rising demand for AI-era identity controls has lifted the cybersecurity group to USD $225 million in annual recurring revenue.",
+                "image": "https://securitybrief.asia/uploads/story/2026/07/09/compatible_secure-digital-lock-cybersecurity-cloud-access-enterprise-illustration.jpg",
+                "url": "https://securitybrief.asia/story/keeper-security-hits-usd-225-million-arr-on-ai-demand",
+                "source": "SecurityBrief Asia",
+                "date": "2026-07-09T02:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "GWM Ora 5 first drive: A new electric SUV at an affordable price",
                 "desc": "The new GWM Ora 5 electric SUV is an improvement on its previous Ora hatch, both inside and on the road.",
                 "image": "https://thedriven.io/wp-content/uploads/2026/07/GWM-Ora-5-Front-Launch-Riz-Akhtar-Large.jpeg",
@@ -542,99 +632,99 @@
                 "source": "Forbes",
                 "date": "2026-07-08T22:21:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "DOOM dev id Software was \"toying around\" with game ideas before Xbox layoffs gutted it — a John Wick-style \"Gun Fu\" game and Perfect Dark were in consideration",
-                "desc": "Before this week's brutal Xbox layoffs, id Software had several ideas for non-DOOM games.",
-                "image": "https://cdn.mos.cms.futurecdn.net/s24dAH2di9TvvpkzRNv3NS-1920-80.jpg",
-                "url": "https://www.windowscentral.com/gaming/xbox/doom-dev-id-software-was-toying-around-with-game-ideas-before-xbox-layoffs-gutted-it",
-                "source": "Windows Central",
-                "date": "2026-07-08T22:20:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inside Foodstuffs’ massive new $70m chilled goods centre in Māngere",
-                "desc": "“It’s a game-changer,” says the head of New Zealand’s largest supermarket business, standing within the busy Project Igloo site. Foodstuffs North Island...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/GVU2OD66I5A3HIAYIP7JPPQQUE.jpg?auth=10aad4445e076fe6d3145496fb2815cad42211b2347164de413f2ba4c7c48f6d&width=1200&height=675&quality=70&focal=940%2C546&smart=false",
-                "url": "https://www.nzherald.co.nz/property/inside-foodstuffs-massive-new-70m-chilled-goods-centre-in-mangere/premium/UBEQ27ODYBHXXAYMDMVQBGQW6U/",
-                "source": "NZ Herald",
-                "date": "2026-07-08T22:04:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's what's happening at Trump-backed Freedom Fuel gas stations",
-                "desc": "The White House promoted \"Freedom Fuel\" stations with $3.47 gas in the Philadelphia region. Customers said they just want cheap gas.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90848128007-img-1328.jpeg?crop=4027,2269,x0,y373&width=3200&height=1804&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/news/politics/2026/07/08/trump-freedom-fuel-stations-in-person/90848379007/",
-                "source": "USA Today",
-                "date": "2026-07-08T22:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gulf Oil Producers Relaunch Fight for Market Share in Asia",
-                "desc": "The Kingdom of Saudi Arabia is offering rare discounts to regain market share as Gulf producers compete aggressively following the partial reopening of the Strait of Hormuz.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_48qrpymvf7.jpg",
-                "url": "https://oilprice.com/Energy/Oil-Prices/Gulf-Oil-Producers-Relaunch-Fight-for-Market-Share-in-Asia.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-08T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Thursday, July 9",
-                "desc": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/erikkain/2026/07/08/nyt-pips-answers-thursday-july-9/",
-                "source": "Forbes",
-                "date": "2026-07-08T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inside three bed home on Irish market for €200k that's an 'ideal first",
-                "desc": "TAKE a look inside this family home on the Irish market for €200,000 – and it’s just minutes from a major city.\nThis bargain property is...",
-                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-w2n2kj5cx-1783543132550.jpg?quality=90&strip=all&1783546733&w=1920&h=1080&crop=1",
-                "url": "https://www.thesun.ie/money/17260666/inside-200k-irish-home-ideal-first-time-purchase-cork/",
-                "source": "The Irish Sun",
-                "date": "2026-07-08T21:57:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
-                "desc": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1127/live/fbe04900-7b0c-11f1-bd97-bb877df31663.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo",
-                "source": "BBC",
-                "date": "2026-07-08T21:57:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
-                "desc": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1127/live/fbe04900-7b0c-11f1-bd97-bb877df31663.jpg",
-                "url": "https://www.bbc.com/news/articles/cdx78n4nkvyo",
-                "source": "BBC",
-                "date": "2026-07-08T21:57:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SEC's 2026 Agenda Has 38 Items, But Crypto and IPOs Are the Headliners",
-                "desc": "A proposed safe harbor could give early crypto projects more flexibility while building tokenized products.",
-                "image": "https://cryptopotato.com/wp-content/uploads/2020/10/sec_cover.jpg",
-                "url": "https://cryptopotato.com/secs-2026-agenda-has-38-items-but-crypto-and-ipos-are-the-headliners/",
-                "source": "CryptoPotato",
-                "date": "2026-07-08T21:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Authentic Inks Partnership With Experience Group for Lee in Europe",
-                "desc": "Authentic Brand Group announced a new long-term partnership with strategic retail and distribution firm Experience Group for Lee across Europe.",
-                "image": "https://wwd.com/wp-content/uploads/2026/01/Goody-x-Lee-Large-Denim-Scrunchie-2.jpg?w=1000&h=563&crop=1",
-                "url": "https://wwd.com/sourcing-journal/sj-denim/authentic-inks-partnership-experience-group-lee-europe-1239059135/",
-                "source": "WWD",
-                "date": "2026-07-08T21:55:49Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Groundbreaking Achievement: Study of Ensartinib as Postoperative Adjuvant Therapy Published in The New England Journal of Medicine",
+                "desc": "HANGZHOU, China, July 9, 2026 /PRNewswire/ -- On July 8, the study of Betta's ensartinib as postoperative adjuvant therapy for patients with stage IB-IIIB (T3N2M0) ALK-positive non-small cell lung cancer (NSCLC), known as the ELEVATE study, was published online in full in The New England Journal of Medicine (NEJM; Impact Factor 84.5), a world-leading medical journal. The study provides important evidence for adjuvant therapy of ALK-positive NSCLC worldwide and has the potential to change current clinical practice.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1130506.jpg",
+                "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/pr-newswire/groundbreaking-achievement-study-of-ensartinib-as-postoperative-adjuvant-therapy-published-in-the-new-england-journal-of-medicine/2381317",
+                "source": "The Manila Times",
+                "date": "2026-07-09T02:38:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OPPO and realme Extend and Expand Partnership with Taboola, Bringing Taboola News to Millions More Smartphones Globally",
+                "desc": "HONG KONG, July 9, 2026 /PRNewswire/ -- Taboola (NASDAQ: TBLA) today announced deepened partnerships with OPPO and its subsidiary realme, two of the largest smartphone manufacturers in the world. OPPO and realme Extend and Expand Partnership with Taboola Since 2023, OPPO and realme have chosen Taboola News to power recommendations…",
+                "image": "https://i0.wp.com/mma.prnasia.com/media2/3004916/image2.jpg?p=medium600&ssl=1",
+                "url": "https://www.thailand-business-news.com/pr-news/oppo-and-realme-extend-and-expand-partnership-with-taboola-bringing-taboola-news-to-millions-more-smartphones-globally",
+                "source": "Thailand Business News",
+                "date": "2026-07-09T02:37:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HeirWealth launches MCP server for AI wealth queries",
+                "desc": "Advice firms can now query consolidated client wealth data in plain language, as HeirWealth opens Atlas to MCP-compatible AI assistants.",
+                "image": "https://itbrief.com.au/uploads/story/2026/07/09/compatible_images__37_.jpg",
+                "url": "https://itbrief.com.au/story/heirwealth-launches-mcp-server-for-ai-wealth-queries",
+                "source": "IT Brief Australia",
+                "date": "2026-07-09T02:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Register Now | Building a Career in Fashion, London",
+                "desc": "Join Vogue Business editors in London for an evening of conversation, advice, and networking to help secure a job in fashion.",
+                "image": "https://assets.vogue.com/photos/6a47d69ed0cd377c4ba43c05/16:9/w_1280,c_limit/-social-newsletter.jpg",
+                "url": "https://www.vogue.com/article/building-a-career-in-fashion-london",
+                "source": "Vogue",
+                "date": "2026-07-09T02:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OPPO and realme Extend and Expand Partnership with Taboola, Bringing Taboola News to Millions More Smartphones Globally",
+                "desc": "HONG KONG, July 9, 2026 /PRNewswire/ -- Taboola (NASDAQ: TBLA) today announced deepened partnerships with OPPO and its subsidiary realme, two of the largest smartphone manufacturers in the world.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1130484.jpg",
+                "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/pr-newswire/oppo-and-realme-extend-and-expand-partnership-with-taboola-bringing-taboola-news-to-millions-more-smartphones-globally/2381307",
+                "source": "The Manila Times",
+                "date": "2026-07-09T02:18:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia funds $10.4m RNA lung therapy trials at Monash",
+                "desc": "Australia is providing more than $10.4m (AU$15m) to Monash University and Atisama Therapeutics to advance clinical development of an inhaled RNA medicine target",
+                "image": "https://healthcareasiamagazine.com/s3/files/styles/opengraph/public/2026-07/screenshot-2026-07-09-101350.png?h=46f8138c&itok=aK4yqogk",
+                "url": "https://healthcareasiamagazine.com/healthcare/news/australia-funds-104m-rna-lung-therapy-trials-monash",
+                "source": "Healthcare Asia Magazine",
+                "date": "2026-07-09T02:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KAIST Automates Hunt for Dream 2D Semiconductors",
+                "desc": "Research team members: From left, Professor Jimin Kwon, Dr. Haksoon Jung, and Dr. Yongwoo Lee of KAIST\n< Research team members: From left, Professor",
+                "image": "https://news.kaist.ac.kr/_prog/download/?editor_image=/images/000134/People.png",
+                "url": "https://www.miragenews.com/kaist-automates-hunt-for-dream-2d-semiconductors-1707247/",
+                "source": "Mirage News",
+                "date": "2026-07-09T02:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Audiotool 3.0 launches with multiplayer DAW and open SDK",
+                "desc": "Audiotool 3.0 is a rebuilt browser DAW with real-time multiplayer creation and NEXUS, an open-source SDK for custom instruments and tools.",
+                "image": "https://mixdownmag.com.au/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-12.05.56-pm.png",
+                "url": "https://mixdownmag.com.au/news/audiotool-3-0-launches-with-multiplayer-daw-and-open-sdk/",
+                "source": "Mixdown Magazine",
+                "date": "2026-07-09T02:06:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Study Says Parents' Phone Use Might Be Giving Kids Attachment Issues Later On",
+                "desc": "It doesn't merit a full-throated denunciation of phones for parents, but it's food for thought.",
+                "image": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+                "url": "https://gizmodo.com/new-study-says-parents-phone-use-might-be-giving-kids-attachment-issues-later-on-2000783292",
+                "source": "Gizmodo",
+                "date": "2026-07-09T02:03:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYT Strands hints, answers for July 8, 2026",
+                "desc": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+                "image": "https://helios-i.mashable.com/imagery/articles/04GIQe1yy43OoJcIgLh9rOD/hero-image.fill.size_1200x675.v1783355009.jpg",
+                "url": "https://mashable.com/entertainment/strands-nyt-hint-july-8-2026",
+                "source": "Mashable",
+                "date": "2026-07-09T02:02:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "NYT Strands hints, answers for July 9, 2026",
                 "desc": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
@@ -1174,99 +1264,99 @@
                 "source": "Gizmodo",
                 "date": "2026-07-08T22:00:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Transfer files of any size for life for a one-time $80 through July 19",
-                "desc": "Get lifetime access to Transfr Pro and send unlimited files securely with real-time tracking for a one-time $79.97.",
-                "image": "https://helios-i.mashable.com/imagery/articles/0377npRFtsfhbEDNG8sj5CD/hero-image.fill.size_1200x675.v1783421326.jpg",
-                "url": "https://mashable.com/tech/july-8-transfr-pro-lifetime-subscription",
-                "source": "Mashable",
-                "date": "2026-07-08T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why is the Google Store selling a Galaxy Watch 8?",
-                "desc": "A rather unexpected Google Play Store promotion today sees the Google Store sell you a Samsung Galaxy Watch 8...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-watch-8-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/08/google-store-samsung-galaxy-watch/",
-                "source": "9to5Google",
-                "date": "2026-07-08T21:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk Says X Will DM You About Posts That Receive A Community Note",
-                "desc": "The social platform wants its crowd-sourced corrections to be harder to ignore.",
-                "image": "https://www.engadget.com/img/gallery/elon-musk-says-x-will-dm-you-about-posts-that-receive-a-community-note/l-intro-1783547354.jpg",
-                "url": "https://www.engadget.com/2211065/elon-musk-says-x-will-dm-you-about-posts-that-receive-a-community-note/",
-                "source": "Engadget",
-                "date": "2026-07-08T21:50:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beloved Uncle, 39, Dies After He Had Legs Amputated While Attending Brother’s Wedding",
-                "desc": "Andrew Wasil, 39, was visiting India for the wedding in February when he got sick, family said",
-                "image": "https://s.yimg.com/lo/mysterio/api/4d7d71ef6c9adac466bf80bcd403c05f7f454999ab151572d22db1fbfe03460a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3a70f9e2800c9ddd7b79783fc42497da",
-                "url": "https://nz.news.yahoo.com/beloved-uncle-39-dies-had-213549224.html",
-                "source": "Yahoo News New Zealand",
-                "date": "2026-07-08T21:35:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "My hearing is deteriorating, so I tested these Guinness World Records-certified earbuds for call quality - here's my honest review",
-                "desc": "My hearing is deteriorating and these Soundcore Liberty 5 Pro Anc Earbuds promise whisper-clear calls. Do they work? Here's my honest review.",
-                "image": "https://s.yimg.com/lo/mysterio/api/d908765fb4af1da824e0746654f605610cb28a6617f663aed5e1d68d79830e41/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fearbuds-5_7717.png",
-                "url": "https://ca.style.yahoo.com/my-hearing-is-deteriorating-so-i-tested-these-guinness-world-records-certified-earbuds-for-call-quality--heres-my-honest-review-212530687.html",
-                "source": "Yahoo Lifestyle Canada",
-                "date": "2026-07-08T21:25:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I Made a Smart TV Dumber to Escape Being Tracked. Here's How",
-                "desc": "Good, dumb TVs, those without a web connection, are nearly impossible to find. But you can minimize companies getting your data and block ads.",
-                "image": "https://www.cnet.com/a/img/resize/da92231057c0b1fabe764d4129eb4dc659749b6e/hub/2025/12/21/d50fded0-7208-4b5a-9f08-8c4cd18a4e76/gettyimages-carol-yepes.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/home-entertainment/how-to-make-smart-tv-dumb/",
-                "source": "CNET",
-                "date": "2026-07-08T21:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canon Publishes 2026 Sustainability Report",
-                "desc": "MELVILLE, N.Y., July 08, 2026 (GLOBE NEWSWIRE) -- Canon Inc., the parent company of Canon U.S.A., Inc., a leader in digital imaging solutions, announced that it has published the Canon Sustainability Report 2026. Intended for a wide range of stakeholders, including customers, investors, ESG specialists, students, and employees, the report provides a detailed, comprehensive overview of Canon's sustainability principles and framework. It also outlines Canon’s environmental and societal contributions across the business value chain through its ESG initiatives.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1130372.png",
-                "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/globenewswire/canon-publishes-2026-sustainability-report/2381260",
-                "source": "The Manila Times",
-                "date": "2026-07-08T21:16:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Generation AirGo A6, AirGo V2, Privacy Kit",
-                "desc": "Solos has introduced its new AirGo A6 ultra-slim smart glasses and a new Privacy Kit to go with the Solos AirGo V2 smart glasses.",
-                "image": "https://wifihifi.com/wp-content/uploads/2026/07/solos-airgo-V2-P2-22-1-cropped.jpg",
-                "url": "https://wifihifi.com/solos-unveils-next-generation-airgo-a6-airgo-v2-privacy-kit/",
-                "source": "Wifi Hifi Magazine",
-                "date": "2026-07-08T21:10:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'I'm not a programmer' anymore: Linus Torvalds on the only two tools he uses now",
-                "desc": "At the Open Source Summit in Mumbai, Torvalds discusses the pain and power of AI in the kernel, and why Linux no longer supports 'museum' technology.",
-                "image": "https://www.zdnet.com/a/img/resize/680fbf13ac3e311405e1ffd3d7cb229a8893875d/2026/07/08/b3ce0c44-fd95-4395-9181-2ecd5514c784/linus782026gettyimages-495992888.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/open-source-summit-linus-torvalds/",
-                "source": "ZDNET",
-                "date": "2026-07-08T21:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Planet leaves trials lists, but newer and improved varieties come to market",
-                "desc": "Planet leaves trials lists, but newer and improved varieties come to market - 08 July 2026",
-                "image": "https://s3-eu-west-1.amazonaws.com/ifj/WEBFILES/000/922/225/2574246-922225.jpg",
-                "url": "https://www.farmersjournal.ie/focus/varieties/planet-leaves-trials-lists-but-newer-and-improved-varieties-come-to-market-922225",
-                "source": "Irish Farmers Journal",
-                "date": "2026-07-08T21:07:15Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Global groundwater maps reveal hidden manganese risk for 220 million people",
+                "desc": "Machine learning maps suggest that about 180 to 220 million people may rely on untreated groundwater with manganese above the WHO’s updated 80 µg/L guideline. The study places manganese exposure on a similar global scale to arsenic and fluoride, yet shows it remains far less visible in groundwater monitoring.",
+                "image": "https://www.news-medical.net/images/news/ImageForNews_842062_17835646328561394.jpg",
+                "url": "https://www.news-medical.net/news/20260708/Global-groundwater-maps-reveal-hidden-manganese-risk-for-220-million-people.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-09T02:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNOPS Opens Programme Management Internship with the UN Youth Office in New York",
+                "desc": "United Nations Office for Project Services (UNOPS) is accepting applications for a Programme Management Intern to support the work of the United Nations Youth",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/UNOPS-11.webp",
+                "url": "https://www.globalsouthopportunities.com/2026/07/09/programme-55/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-09T02:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "F-35 fighter jets for Turkey? What Trump's move could mean for India, Israel",
+                "desc": "Donald Trump News: Donald Trump's decision to lift sanctions on Turkey and reopen the door to F-35 sales marks a dramatic reversal of US policy. The move could reshape the strategic balance in the Middle East, unsettle Israel's military edge, and raise fresh questions for India amid Turkey's growing defence partnership with Pakistan.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/us-president-donald-told-turkeys-tayyip-erdogan-he-would-consider-selling-turkey-f-35s-after-ankara-083847824-16x9_0.jpg?VersionId=3PEH4lBRVX_2wZpyOMpd35xTum0ybjDY",
+                "url": "https://www.indiatoday.in/world/story/donald-trump-news-trukey-f35-lighting-caatsa-sanction-russia-s400-israel-india-benjamin-netanyahu-2943590-2026-07-09",
+                "source": "India Today",
+                "date": "2026-07-09T02:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Protecting children means regulating tech companies, not only banning phones in schools",
+                "desc": "Regulating tech companies is essential for protecting children, not just banning phones in schools.",
+                "image": "https://th-i.thgim.com/public/education/wm3z4e/article71197739.ece/alternates/LANDSCAPE_1200/iStock-1092087128.jpg",
+                "url": "https://www.thehindu.com/education/protecting-children-means-regulating-tech-companies-not-only-banning-phones-in-schools/article71197659.ece",
+                "source": "The Hindu",
+                "date": "2026-07-09T02:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India-ASEAN women’s science event looks to shake up STEM sector",
+                "desc": "Umesh Waghmare, secretary of India’s Department of Science and Technology, highlighted the longstanding science and technology partnership between India and ASEAN and underscored the importance of building inclusive innovation ecosystems.",
+                "image": "https://asianews.network/wp-content/uploads/2026/07/2933-1200x800-1.webp",
+                "url": "https://asianews.network/india-asean-womens-science-event-looks-to-shake-up-stem-sector/",
+                "source": "Asia News Network",
+                "date": "2026-07-09T02:26:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Western Europe records its hottest June as heatwaves surge",
+                "desc": "Western Europe experiences its hottest June on record amid escalating climate change and intensified heatwaves, warns Copernicus.",
+                "image": "https://th-i.thgim.com/public/incoming/78i4e/article71200787.ece/alternates/LANDSCAPE_1200/2026-07-08T210540Z_1740887523_RC2U9MAYQ18X_RTRMADP_3_EUROPE-WEATHER-SPAIN.JPG",
+                "url": "https://www.thehindu.com/news/international/western-europe-records-its-hottest-june-as-heatwaves-surge/article71200781.ece",
+                "source": "The Hindu",
+                "date": "2026-07-09T02:25:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+                "desc": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo",
+                "source": "BBC",
+                "date": "2026-07-09T02:12:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+                "desc": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg",
+                "url": "https://www.bbc.com/news/articles/c20ylnn8wqgo",
+                "source": "BBC",
+                "date": "2026-07-09T02:12:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US ‘sting’ nets 24 members of notorious Indian gang",
+                "desc": "• Lawrence Bishnoi named as ringleader who oversaw ‘political assassinations, extortions and drug trafficking’ from his jail cell;",
+                "image": "https://i.dawn.com/large/2026/07/09034334c98cd96.webp",
+                "url": "https://www.dawn.com/news/2014014/us-sting-nets-24-members-of-notorious-indian-gang",
+                "source": "Dawn",
+                "date": "2026-07-09T02:07:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who is Narendra Modi and why is he visiting New Zealand?",
+                "desc": "Explainer: One of the world's most powerful leaders is coming to New Zealand this weekend.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--d0kiv5Xb--/t_tohu-badge-facebook/f_auto/q_auto/4KP2NW0_modi_png",
+                "url": "https://www.rnz.co.nz/news/indonz/692049/who-is-narendra-modi-and-why-is-he-visiting-new-zealand",
+                "source": "RNZ",
+                "date": "2026-07-09T02:02:36Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Western Europe Had Its Hottest June on Record",
                 "desc": "An unusually early heat wave smashed records across France, Britain and Spain. Temperatures in some areas are starting to soar again.",
@@ -1806,98 +1896,8 @@
                 "source": "Sky News Australia",
                 "date": "2026-07-08T22:05:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Charlotte Travel CEO on luxury travel beyond five-star hotels",
-                "desc": "Charlotte Harris leads Charlotte Travel into a new era of luxury travel, where rare access, women-centric journeys and human touch matter most.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--YjPelvLO--/c_crop,h_548,w_975,x_1,y_51/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/08/charlotte_travel_charlotte_harris.jpg?itok=gK887n_G",
-                "url": "https://cnaluxury.channelnewsasia.com/people/charlotte-harris-charlotte-travel-luxury-travel-294541",
-                "source": "CNA Luxury",
-                "date": "2026-07-08T22:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump ditches new Qatari Air Force One amid Iran tensions, flies back in older jet",
-                "desc": "Trump returned from the NATO summit in Turkey aboard the older Air Force One instead of the newly retrofitted Qatari-gifted jet, making a surprise aircraft switch as the US and Iran resumed exchanging strikes.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/trump-boards-the-new--qatari-gifted-air-force-one-after-arriving-on-one-of-the-older-planes-operatin-090422276-16x9_0.jpg?VersionId=1TL1PMo57nCM6fo1PdLXq4Y63L7jp8SA",
-                "url": "https://www.indiatoday.in/world/story/trump-air-force-one-switch-qatar-jet-security-iran-turkey-ptag-2943751-2026-07-09",
-                "source": "India Today",
-                "date": "2026-07-08T22:02:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Do National AI Strategies Stall in Southeast Asia?",
-                "desc": "Indonesia’s lesson is a blunt one: a strategy can create conversation, but execution needs an empowered owner.",
-                "image": "https://moderndiplomacy.eu/wp-content/uploads/2025/04/artificial-intelligence.jpg",
-                "url": "https://moderndiplomacy.eu/2026/07/09/why-do-national-ai-strategies-stall-in-southeast-asia/",
-                "source": "Modern Diplomacy",
-                "date": "2026-07-08T22:00:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commentary: Johor state polls bring PM Anwar’s national revenue-sharing dilemma into sharp focus",
-                "desc": "Elections in Johor are taking place against the backdrop of the increasingly loud demands by Malaysia’s richer states for larger slices of the national revenue pie, says CNA's Leslie Lopez.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--gJkETHGx--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/13/723445018_1592408348907393_5699754393337635476_n.jpg?itok=48a_sfga",
-                "url": "https://www.channelnewsasia.com/commentary/johor-election-state-malaysia-pm-anwar-revenue-6240946",
-                "source": "CNA",
-                "date": "2026-07-08T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. judge clears E. Jean Carroll to collect $5.8M from Trump sex abuse, defamation case",
-                "desc": "The writer E. Jean Carroll can collect $5.8 million US held in escrow since a jury found that U.S. President Donald Trump sexually abused and defamed her, a federal judge ruled Wednesday. Trump's lawyers immediately asked a court to block the payment while they appeal.",
-                "image": "https://i.cbc.ca/ais/ccf9b120-8cd7-4a48-b8a2-b530c420f8e2,1783547192336/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2560%2C1440%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/trump-e-jean-caroll-sex-abuse-defamation-9.7263470",
-                "source": "CBC",
-                "date": "2026-07-08T21:52:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Rejects New Russia Sanctions at NATO Summit Filled With Big Spending and Big Emotions",
-                "desc": "ANKARA – NATO’s annual leaders’ meetings have become exercises in pleasing U.S.",
-                "image": "https://static.themoscowtimes.com/image/og/42/93204__4257ec66a6e623dd67dd6e9da236dde7.jpg",
-                "url": "https://www.themoscowtimes.com/2026/07/09/trump-rejects-new-russia-sanctions-at-nato-summit-filled-with-big-spending-and-big-emotions-a93204",
-                "source": "The Moscow Times",
-                "date": "2026-07-08T21:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices rise, stocks drop after Trump says Iran ceasefire 'over'",
-                "desc": "The spike comes just as oil prices dropped back to where they were before the war.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-trio-of-traders-work-on-the-floor-of-the-new-york-stock-ex-EVD5OSQLN5B6BE3VQWWHIS5D5Y.jpg?auth=5a96882d24c4acfe5d410c41f04bb8a3b4bfd57beaf2fc838daeeb168c8b8f55&quality=70&width=600&height=315&focal=2777%2C1851",
-                "url": "https://www.1news.co.nz/2026/07/09/oil-prices-rise-stocks-drop-after-trump-says-iran-ceasefire-over/",
-                "source": "1News",
-                "date": "2026-07-08T21:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
-                "desc": "President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4eb0a820-1783541928.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism",
-                "source": "Al Jazeera",
-                "date": "2026-07-08T21:44:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US launches fresh strikes on Iran after Trump calls leadership 'scum'",
-                "desc": "The most recent strikes come after President Donald Trump threatened to unleash against Iran, saying the ceasefire was \"over\".",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/president-donald-trump-arrives-for-a-media-conference-at-the-OBY2MUUHZBCM5GIOJREJI6HKNU.jpg?auth=b3307d320bcb96339f04a10ee48aff26cb5744077eb8b889668f9ab507f6d44c&quality=70&width=600&height=315&focal=1313%2C357",
-                "url": "https://www.1news.co.nz/2026/07/09/us-launches-fresh-strikes-on-iran-after-trump-calls-leadership-scum/",
-                "source": "1News",
-                "date": "2026-07-08T21:43:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US launches fresh strikes on Iran after Trump calls leadership 'scum'",
-                "desc": "The most recent strikes come after President Donald Trump threatened to unleash against Iran, saying the ceasefire was \"over\".",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/president-donald-trump-arrives-for-a-media-conference-at-the-OBY2MUUHZBCM5GIOJREJI6HKNU.jpg?auth=b3307d320bcb96339f04a10ee48aff26cb5744077eb8b889668f9ab507f6d44c&quality=70&width=600&height=315&focal=1313%2C357",
-                "url": "https://www.1news.co.nz/2026/07/09/trump-threatens-more-strikes-on-iran-says-its-going-to-happen-very-fast/",
-                "source": "1News",
-                "date": "2026-07-08T21:43:27Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T14:00:40.697268Z"
+    "lastGlobalSync": "2026-07-09T14:40:35.314247Z"
 }
