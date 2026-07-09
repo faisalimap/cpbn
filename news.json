@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Interest on national debt set to double by 2030 - NTMA",
+                "desc": "The cost paying the interest bill on Ireland's national debt is expected to double from €3 billion to €6 billion by 2030.",
+                "image": "https://www.rte.ie/images/001c0573-1600.jpg",
+                "url": "https://www.rte.ie/news/business/2026/0708/1582391-national-treasury-management-agency-annual-report/",
+                "source": "RTE.ie",
+                "date": "2026-07-08T13:00:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global Economic Output Looks Slower for 2026, IMF Says",
+                "desc": "The I.M.F. projected world output would fall to 3 percent for the year, a number pushed down by high commodity prices.",
+                "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08dc-globalecon-hjcg/08dc-globalecon-hjcg-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html",
+                "source": "The New York Times",
+                "date": "2026-07-08T13:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rising food and fuel costs challenge Reserve Bank inflation target",
+                "desc": "Oil prices have subsided from wartime peaks – but the Reserve Bank fears prices for food are likely to continue climbing.",
+                "image": "https://static.ffx.io/images/$zoom_0.3026%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/82849dd7f2f21b32d0dccfc99d70b666a03ef078",
+                "url": "https://www.smh.com.au/politics/federal/less-pain-at-the-petrol-pump-but-more-pain-is-coming-on-grocery-bills-20260708-p60dmt.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-08T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rosedale co-op sells in three days at $50,000 over asking",
+                "desc": "Three-bedroom unit in Kensington Apartments appealed to buyers looking for a move-in space in the upscale Toronto neighbourhood",
+                "image": "https://www.theglobeandmail.com/resizer/v2/QCFCOWGRVRBPTHCMZQ6QR3QYIU.JPG?auth=0ff8b0d5acbab99e52dd4d1c13a6d0bf289e455b79f7b8c66d6e46120f38721a&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/real-estate/toronto/article-rosedale-co-op-unit-kensington-apartments-50000-over-asking/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-08T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
+                "desc": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/87a6/live/7dc56660-7ac9-11f1-b541-536d253827b8.jpg",
+                "url": "https://www.bbc.com/news/articles/cly85e2z2n4o",
+                "source": "BBC",
+                "date": "2026-07-08T12:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
+                "desc": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87a6/live/7dc56660-7ac9-11f1-b541-536d253827b8.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o",
+                "source": "BBC",
+                "date": "2026-07-08T12:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kalshi traders think Hormuz traffic won't return to normal this year",
+                "desc": "Speculators now see just a 44% chance that traffic flows return to normal by Dec. 1.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108327984-1782732585251-gettyimages-2283215999-AFP_B8L747F.jpeg?v=1782732641&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html",
+                "source": "CNBC",
+                "date": "2026-07-08T12:58:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EPFO portal revamp: 10 changes in PF claims, withdrawals and transfers every member should know",
+                "desc": "The Employees' Provident Fund Organisation has centralised its member database through the CITES project to enhance service speed, transparency, and accessibility.",
+                "image": "https://www.livemint.com/lm-img/img/2026/07/08/1600x900/logo/epf_1747217369273_1783515427753_afd59e23-402b-4b0c-a829-bcdab1c4484e.jpg",
+                "url": "https://www.livemint.com/money/personal-finance/epfo-portal-revamp-10-changes-in-pf-claims-withdrawals-and-transfers-every-member-should-know-11783512492533.html",
+                "source": "livemint.com",
+                "date": "2026-07-08T12:57:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tokyo stocks tumble oil prices stoke inflation fears",
+                "desc": "Tokyo stocks closed sharply lower on Wednesday as renewed attacks between the United States and Iran drove crude oil prices higher, reviving concerns ...",
+                "image": "https://news.az/photos/2026/07/1783515233.webp",
+                "url": "https://news.az/news/tokyo-stocks-tumble-oil-prices-stoke-inflation-fears",
+                "source": "Latest news from Azerbaijan",
+                "date": "2026-07-08T12:55:19Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Bayo Ojulari: NNPC Signed $20bn Gas Deals In One Year, Cut Operating Costs By $3.4bn",
+                "desc": "NNPC signs $20bn gas deals in one year as Bayo Ojulari says reforms boost production and reduce operating costs.",
+                "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2025/08/Ojulari-Pledges-Transparency-60bn-Investments-As-NEITI-Backs-NNPCs-Reform-Agenda.jpg",
+                "url": "https://www.arise.tv/bayo-ojulari-nnpc-signed-20bn-gas-deals-in-one-year-cut-operating-costs-by-3-4bn/",
+                "source": "Arise News",
+                "date": "2026-07-08T12:53:20Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Storage and system stress: what Ofgem's LDES decision and heatwave margin notices mean for UK power markets",
                 "desc": "In the midst of the most recent heatwave, the UK received two important signals in the same week – and they were not Aperols and sun loungers. Rather, they related to the UK power market.",
                 "image": "https://www.dentons.com/-/media/images/website/background-images/gpof/ocean/adobestock_104107025.ashx",
@@ -542,99 +632,99 @@
                 "source": "The Motley Fool",
                 "date": "2026-07-08T00:11:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Why the AI Boom Is About to Break the U.S. Power Grid",
-                "desc": "The U.S. power grid was built for a 20th-century economy and cannot deliver what the AI boom requires. A handful of companies that secured power capacity outside the American grid are about to look very different from the way they do today.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_rs2albwe6v.jpg",
-                "url": "https://oilprice.com/Energy/Energy-General/Why-the-AI-Boom-Is-About-to-Break-the-US-Power-Grid.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-08T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Foxconn to anchor first US-led Pax Silica tech hub in Clark-Go",
-                "desc": "Department of Finance (DOF) Secretary Frederick D. Go said the government hopes to sign within the year the framework agreement for the first technology hub...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/07/114394.webp",
-                "url": "https://mb.com.ph/2026/07/07/foxconn-to-anchor-first-us-led-pax-silica-tech-hub-in-clarkgo",
-                "source": "Manila Bulletin",
-                "date": "2026-07-08T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia news live: ‘we’re so sorry,’ Telstra says after major mobile network outages affect trains, Eftpos and triple-zero calls",
-                "desc": "Follow live",
-                "image": "https://i.guim.co.uk/img/media/ee2297b2ccd1e8b94d8eb62da0901f46b8a8dac4/442_0_6175_4940/master/6175.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=feb900ea9294025b1e4a2003a18a53b4",
-                "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
-                "source": "The Guardian",
-                "date": "2026-07-07T23:59:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why COMPASS Pathways (CMPS) Is Down 8.2% After New Phase 3 Data and Rolling NDA Update",
-                "desc": "Compass Pathways recently reported 26-week results from its second Phase 3 COMP006 trial of COMP360 for treatment-resistant depression, showing rapid and durable symptom improvement alongside a generally well-tolerated safety profile in nearly 600 participants with highly chronic illness.\nThe data suggest that a second 25 mg dose may enhance and extend clinical benefit for some patients, while the company advances a rolling New Drug Application with the FDA toward a potential US launch,...",
-                "image": "https://images.simplywall.st/asset/industry/6111000-choice1-main-header/1585186710114",
-                "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-cmps/compass-pathways/news/why-compass-pathways-cmps-is-down-82-after-new-phase-3-data",
-                "source": "simplywall.st",
-                "date": "2026-07-07T23:58:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kratos Stock And 2 Drone Defense Picks Backed By Strong Balance Sheets",
-                "desc": "With central banks weighing inflation risks, bond yields shifting and energy prices feeding into consumer costs, many investors are looking for sectors where steady government demand and solid balance sheets go hand in hand. Drone defense sits at the crossroads of national security and advanced technology, and the Financially Strong Drone Defense Stocks screener filters for companies that pair this demand backdrop with robust cash positions and lower reliance on expensive debt. That...",
-                "image": "https://images.simplywall.st/asset/industry/8131000-choice2-main-header/1585186798979",
-                "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-rcat/red-cat-holdings/news/kratos-stock-and-2-drone-defense-picks-backed-by-strong-bala",
-                "source": "simplywall.st",
-                "date": "2026-07-07T23:58:23Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "S&P Dow Jones puts Indonesia, Turkey on watchlist for market downgrade",
-                "desc": "SINGAPORE: Global index provider S&P Dow Jones Indices warned that Turkey and Indonesia risk a downgrade to frontier from emerging status over market transparency and other issues, echoing similar moves at rival MSCI.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3998162.jpg",
-                "url": "https://www.thestar.com.my/business/business-news/2026/07/08/sp-dow-jones-puts-indonesia-turkey-on-watchlist-for-market-downgrade",
-                "source": "The Star",
-                "date": "2026-07-07T23:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-                "desc": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dd9/live/d28bdfb0-7a3a-11f1-ab76-d75965dea4d1.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo",
-                "source": "BBC",
-                "date": "2026-07-07T23:47:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-                "desc": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1dd9/live/d28bdfb0-7a3a-11f1-ab76-d75965dea4d1.jpg",
-                "url": "https://www.bbc.com/news/articles/cn0vnx2192vo",
-                "source": "BBC",
-                "date": "2026-07-07T23:47:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices jump, bonds dip after US strikes Iran",
-                "desc": "Crude futures climb to US$72.40 as the US reinstates trade sanctions following tanker attacks in the Strait of Hormuz.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/10/c3c80f81-us-china-trade-crude-oil-reuters-190219_1600x1000_1.webp",
-                "url": "https://www.freemalaysiatoday.com/category/business/2026/07/08/oil-prices-jump-bonds-dip-after-us-strikes-iran",
-                "source": "Free Malaysia Today",
-                "date": "2026-07-07T23:39:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gibsons mayor says broken BC Ferries ramp has caused chaos for many",
-                "desc": "Many people told Global News they have been left scrambling to book a sailing, despite some vessels leaving with empty space on board.",
-                "image": "https://globalnews.ca/wp-content/uploads/2022/01/bc-ferries.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11957365/gibsons-mayor-broken-bc-ferries-ramp-langdale-chaos/",
-                "source": "Global News",
-                "date": "2026-07-07T23:35:14Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Superhuman launches Docs, merging writing, AI and data for document collaboration",
+                "desc": "Superhuman launches Docs, merging writing, AI and data for document collaboration - SiliconANGLE",
+                "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Docs-AI.png",
+                "url": "https://siliconangle.com/2026/07/08/superhuman-launches-docs-merging-writing-ai-data-document-collaboration/",
+                "source": "SiliconANGLE",
+                "date": "2026-07-08T13:00:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I tried going back to Windows, but these Linux features keep me from returning",
+                "desc": "Open-source is where my heart is.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/fedora-on-laptop-featured-1.png?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/i-tried-going-back-to-windows-but-these-linux-features-keep-me-from-returning/",
+                "source": "XDA",
+                "date": "2026-07-08T13:00:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I Configured Four Small PCs to Beat the Steam Machine at Its Own Game",
+                "desc": "Valve has finally dropped its Steam Machine mini desktop, but it's pricier than expected given its budget-grade parts. Here's how to whip up your own Steam Machine that's faster—and maybe even cheaper.",
+                "image": "https://i.pcmag.com/imagery/articles/04aJt75JKg11nxHOrc2Jr4U-1.fit_lim.size_1200x630.v1782416925.png",
+                "url": "https://www.pcmag.com/news/i-configured-four-small-pcs-to-beat-the-steam-machine-at-its-own-game",
+                "source": "PCMag",
+                "date": "2026-07-08T13:00:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Undead Labs release official statement following Xbox separation",
+                "desc": "Ex-Xbox studio Undead Labs have now officially commented on their separation from Microsoft, confirming that State of Decay 3 is still happening.",
+                "image": "https://www.kitguru.net/wp-content/uploads/2026/07/LABS-732x330.jpg",
+                "url": "https://www.kitguru.net/tech-news/mustafa-mahmoud/undead-labs-release-official-statement-following-xbox-separation/",
+                "source": "KitGuru",
+                "date": "2026-07-08T13:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kaon AI raises $60M to build the next generation of AI",
+                "desc": "Kaon AI raises $60M to build the next generation of AI-driven interactive entertainment - SiliconANGLE",
+                "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/character-driven-interactive-ai-chatgpt-image.png",
+                "url": "https://siliconangle.com/2026/07/08/kaon-ai-raises-60m-build-next-generation-ai-driven-interactive-entertainment/",
+                "source": "SiliconANGLE",
+                "date": "2026-07-08T13:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The US Space Force just got a new electromagnetic weapon to jam adversary satellites",
+                "desc": "The U.S. Space Force has acquired one of its first publicly acknowledged offensive weapons, one that can blast adversary satellites with electromagnetic radiation.",
+                "image": "https://cdn.mos.cms.futurecdn.net/CZDr5LPtCPBt7zQqCUNUET-2000-80.jpg",
+                "url": "https://www.space.com/space-exploration/satellites/the-us-space-force-just-got-a-new-electromagnetic-weapon-to-jam-adversary-satellites",
+                "source": "Space",
+                "date": "2026-07-08T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Venus Williams-backed WeWard can now lock your apps until you hit your steps",
+                "desc": "With funding from tennis star and angel investor Venus Williams, the French app WeWard says that it increases walking time by almost 25%.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1186874953.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
+                "source": "TechCrunch",
+                "date": "2026-07-08T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I Configured Four Small PCs to Beat the Steam Machine at Its Own Game",
+                "desc": "Valve has finally dropped its Steam Machine mini desktop, but it's pricier than expected given its budget-grade parts. Here's how to whip up your own Steam Machine that's faster—and maybe even cheaper.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/i/i-configur/i-configured-four-small-pcs-to-beat-the-steam-machine-at-its_ppy8.1200.jpg",
+                "url": "https://au.pcmag.com/desktop-pcs/118660/i-configured-four-small-pcs-to-beat-the-steam-machine-at-its-own-game",
+                "source": "PCMag Australia",
+                "date": "2026-07-08T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EA Shuts The Door on Need for Speed and Burnout Franchises",
+                "desc": "During the 30th anniversary celebration of Criterion Games, EA shut down the idea of more Need for Speed and Burnout titles seeing the light of day.",
+                "image": "https://nexushub.co.za/images/nexus/00016/16663_ea_header.jpg",
+                "url": "https://nexushub.co.za/nexus/ea-shuts-the-door-on-need-for-speed-and-burnout-franchises.html",
+                "source": "Nexus Hub",
+                "date": "2026-07-08T12:54:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 18 Pro And iPhone 18 Pro Max Release Date: A New September Timeline Emerges",
+                "desc": "Apple’s next iPhones are just a couple of months away. However, a report from an industry heavyweight adds nuance to the expected release schedule.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4a0f2182060aebffa840f7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/davidphelan/2026/07/08/iphone-18-pro-release-date-a-new-september-timeline-emerges/",
+                "source": "Forbes",
+                "date": "2026-07-08T12:53:25Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "adidas’ Samba Jane Gets a Taste for the Dark Side",
                 "desc": "Discover the adidas Samba Jane in a rich dark chocolate colorway, reimagining the iconic Samba silhouette with a playful Mary Jane strap and street style.",
@@ -1174,99 +1264,99 @@
                 "source": "MakeUseOf",
                 "date": "2026-07-07T23:00:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's Next Galaxy Foldables Will Be Announced on July 22",
-                "desc": "We're expecting three new foldable phones.",
-                "image": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-52-1200x675.jpg",
-                "url": "https://gizmodo.com/samsungs-next-galaxy-foldables-will-be-announced-on-july-22-2000782651",
-                "source": "Gizmodo",
-                "date": "2026-07-07T23:00:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lumos launches event tool to track precinct impact",
-                "desc": "Event organisers now have a way to prove precinct-wide gains as sponsors and councils demand evidence beyond attendance counts.",
-                "image": "https://channellife.co.nz/uploads/story/2026/07/07/compatible_eric-fan.jpg",
-                "url": "https://channellife.co.nz/story/lumos-launches-event-tool-to-track-precinct-impact",
-                "source": "channellife.co.nz",
-                "date": "2026-07-07T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung confirms Galaxy Z Fold 8 launch event date [Video]",
-                "desc": "Samsung has officially confirmed a Galaxy Z Fold 8 launch date, with an Unpacked event scheduled for July 22 in London.",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-unpacked-invite-july-22-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/07/samsung-galaxy-z-fold-8-launch-event-date-confirmed/",
-                "source": "9to5Google",
-                "date": "2026-07-07T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung unveils Galaxy Z Fold 8 deal for $1,230 off ahead of July Unpacked - how to qualify",
-                "desc": "Samsung Unpacked will take place later this month in London, and all eyes are on the Galaxy Glasses.",
-                "image": "https://www.zdnet.com/a/img/resize/d9f45efda0ee9f8fac2878a1632b7a104cb6073e/2025/08/08/eb56240e-7edb-41a4-843f-dea425ca860c/dsc06705.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/samsung-unveils-foldable-deal-ahead-of-july-unpacked/",
-                "source": "ZDNET",
-                "date": "2026-07-07T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's Galaxy Unpacked July 2026 Event: Invites Are Out, Here's What to Expect",
-                "desc": "Samsung's foldable phone launch will take place later this month in London. We'll be there.",
-                "image": "https://www.cnet.com/a/img/resize/0994d925700872293125a42aa3eb86900ccacc87/hub/2026/07/07/7e4b9211-3ca8-4f10-a49a-d1d8a3cde25d/static-official-release-horizontal-16x9-1920x1080-with-text-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/mobile/samsungs-galaxy-unpacked-event-what-to-expect-how-to-watch/",
-                "source": "CNET",
-                "date": "2026-07-07T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Logitech G named partner for Call of Duty: Modern Warfare 4",
-                "desc": "Players will get branded in-game items and creator tools as Logitech G deepens its reach inside one of gaming's biggest shooter launches.",
-                "image": "https://channellife.com.au/uploads/story/2026/07/08/compatible_cody-neal.jpg",
-                "url": "https://channellife.com.au/story/logitech-g-named-partner-for-call-of-duty-modern-warfare-4",
-                "source": "ChannelLife Australia",
-                "date": "2026-07-07T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Tips July 22 Unpacked Event for Next-Gen Foldables",
-                "desc": "Following a targeted social media campaign teasing its next generation of foldables, Samsung will reveal all in London later this month.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/s/samsung-ti/samsung-tips-july-22-unpacked-event-for-next-gen-foldables_q6vt.1200.jpg",
-                "url": "https://au.pcmag.com/mobile-phones/118553/samsungs-new-foldable-campaign-is-a-cryptic-asmr-filled-puzzle",
-                "source": "PCMag Australia",
-                "date": "2026-07-07T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hennessey Venom F5-M To Debut At The Festival Of Speed As World’s Most Powerful Manual Hypercar",
-                "desc": "Texas-based hypercar manufacturer Hennessey Special Vehicles is set to reveal the Venom F5-M at the Goodwood Festival of Speed scheduled to take from July 9-12, where professional racing driver Alex Brundle will pilot it up the Goodwood Hill. Powering the open-top Roadster is Hennessey’s 6.6-liter twin-turbocharged ‘Fury’ V8 engine, which delivers a monumental 2,031 bhp, […]",
-                "image": "https://autojosh.com/wp-content/uploads/2026/07/hennessey_venom_f5_m_autojosh_1.jpg",
-                "url": "https://autojosh.com/hennessey-venom-f5-m-to-debut-at-the-festival-of-speed-as-worlds-most-powerful-manual-hypercar/",
-                "source": "AUTOJOSH",
-                "date": "2026-07-07T22:57:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'TikTok brain' breaks corporate cybersecurity",
-                "desc": "Shorter attention spans, faster decision-making and less patience are a boon for hackers, writes ANNA COLLARD, CISO advisor and SVP content strategist at KnowBe4.",
-                "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/tiktokbrain.png?resize=1000%2C600&ssl=1",
-                "url": "https://gadget.co.za/tiktokbrain74w/",
-                "source": "gadget.co.za",
-                "date": "2026-07-07T22:54:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Barbie and The Australian Ballet Celebrate 25 Years of Barbie in the Nutcracker",
-                "desc": "For anyone who grew up on the Barbie and the... films, this one is personal: Barbie and The Australian Ballet are joining forces to celebrate the story that introduced a generation to ballet.",
-                "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/nutcracker-12.jpg",
-                "url": "https://www.danceaustralia.com.au/news/barbie-and-the-australian-ballet-celebrate-25-years-of-barbie-in-the-nutcracker",
-                "source": "Dance Australia",
-                "date": "2026-07-07T22:31:49Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
+                "desc": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/87a6/live/7dc56660-7ac9-11f1-b541-536d253827b8.jpg",
+                "url": "https://www.bbc.com/news/articles/cly85e2z2n4o",
+                "source": "BBC",
+                "date": "2026-07-08T12:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thailand's DTAM adds digital monitoring and stricter penalties for cannabis growers",
+                "desc": "Thailand's Department of Thai Traditional and Alternative Medicine (DTAM) is tightening oversight of licensed cannabis cultivators nationwide, rolling out stricter inspections, stiffer…",
+                "image": "https://www.mmjdaily.com/remote/https/agfstorage.blob.core.windows.net/misc/MMJ_com/2026/06/09/dreamstime_m_418179658.jpg?preset=OgImage",
+                "url": "https://www.mmjdaily.com/article/9855144/thailand-s-dtam-adds-digital-monitoring-and-stricter-penalties-for-cannabis-growers/",
+                "source": "MMJDaily",
+                "date": "2026-07-08T12:58:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says \"unity\" characterized NATO summit, despite recent tensions with European allies",
+                "desc": "At the beginning of the summit, President Trump suggested Turkey is a better friend than some traditional NATO allies.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/08/08a5d922-0c79-40b6-9067-ce3aca536fd6/thumbnail/1200x630/ab440360e8c427e1a01e4e4bf5bf56a1/ap26189584273108.jpg",
+                "url": "https://www.cbsnews.com/news/trump-nato-leaders-news-conference-iran-strikes/",
+                "source": "CBS News",
+                "date": "2026-07-08T12:57:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Border Payment Reforms for African Trade",
+                "desc": "Interswitch has called for interoperable payment systems, digital identity frameworks and stronger digital infrastructure to unlock the full trade potential of the African Continental Free Trade Area (AfCFTA).",
+                "image": "http://static1.squarespace.com/static/665f92f354532c3140db9a8a/668af795b06e1a6203fd126f/6a4e46461f1c3d5a6919f45b/1783515219567/Energia-Oando-JV.jpg?format=1500w",
+                "url": "https://www.nigeriahousingmarket.com/news/interswitch-calls-for-unified-payments-to-unlock-afcfta-trade",
+                "source": "nigeriahousingmarket.com",
+                "date": "2026-07-08T12:53:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Boeing 737 Plane That Disappeared Off the Coast of Pakistan Found",
+                "desc": "The K2 Airways cargo plane from Pakistan, carrying five crew members, was recorded rapidly descending before losing contact.",
+                "image": "https://i.insider.com/6a4e211b965805a2c542e012?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/boeing-737-plane-disappeared-pakistan-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-08T12:52:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Manx residents welcome 'exciting' King Charles visit",
+                "desc": "It will mark His Majesty's first visit to the Isle of Man since 2012 and his first as King.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6381/live/e5525ca0-7ab7-11f1-9f11-71e192f5293a.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cvgl00nmy73o",
+                "source": "BBC",
+                "date": "2026-07-08T12:51:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No pork, more talk as school lunches in South Korea face diversity test",
+                "desc": "SEOUL: For some migrant-background students in South Korea, lunchtime can be one of the hardest parts of the school day.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3999550.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/08/no-pork-more-talk-as-school-lunches-in-south-korea-face-diversity-test",
+                "source": "The Star",
+                "date": "2026-07-08T12:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU calls for evidence-based AI governance at UN dialogue",
+                "desc": "EU statement links AI governance with human rights, child safety and sustainability.",
+                "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/07/eu-ai-governance-global-dialogue-statement.jpg",
+                "url": "https://dig.watch/updates/eu-ai-governance-global-dialogue-statement",
+                "source": "Digital Watch Observatory",
+                "date": "2026-07-08T12:48:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How much has the Russian budget gained from Iran-war related higher oil prices?",
+                "desc": "Russia has gained some fiscal headroom from higher oil prices, though not enough to fully offset budgetary difficulties from the Ukraine war",
+                "image": "https://www.bruegel.org/sites/default/files/styles/og_image/public/2026-07/Marek%20080726.jpg?itok=aeTAiThN",
+                "url": "https://www.bruegel.org/first-glance/how-much-has-russian-budget-gained-iran-war-related-higher-oil-prices",
+                "source": "Bruegel",
+                "date": "2026-07-08T12:45:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The United States in the early 1900s rounded up the last remaining wild American bison after commercial hunting reduced the species to only a few hundred animals; today, hundreds of thousands once aga",
+                "desc": "US News: Explore the inspiring story of American bison, once nearly extinct due to overhunting, now thriving in protected lands across North America thanks to conservation efforts.",
+                "image": "https://static.toiimg.com/thumb/msid-132239424,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/the-united-states-in-the-early-1900s-rounded-up-the-last-remaining-wild-american-bison-after-commercial-hunting-reduced-the-species-to-only-a-few-hundred-animals-today-hundreds-of-thousands-once-again-roam-protected-lands/articleshow/132239381.cms",
+                "source": "The Times of India",
+                "date": "2026-07-08T12:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "United Nations Human Rights Council Adopts First",
                 "desc": "In a landmark moment for global health and human rights, the United Nations Human Rights Council today adopted the first-ever resolution...",
@@ -1806,98 +1896,8 @@
                 "source": "Focus on the Family",
                 "date": "2026-07-07T22:32:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cardinal tipped to be pope accused of molesting several women",
-                "desc": "A Catholic cardinal touted as one of the favorites to replace Pope Francis was accused by at least five women of sexual assault.",
-                "image": "https://globalnation.inquirer.net/files/2026/07/AFP__20260707__B9JJ8T3__v1__HighRes__FilesMoroccoReligionVaticanAssault-scaled.jpg",
-                "url": "https://globalnation.inquirer.net/330064/cardinal-tipped-to-be-pope-accused-of-molesting-several-women",
-                "source": "Inquirer.net",
-                "date": "2026-07-07T22:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What happened to Connor Muprhy? Bodybuilder's death rumor viral on social media; what we know so far",
-                "desc": "BowTied Biohacker claimed influencer Connor Murphy and it went viral on social media, but there is no confirmation from his family or representatives.",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/07/550x309/connor_murphy_1783462649810_1783462654697_723c3fc4-b2b4-4418-8e45-bc5194de1740.png",
-                "url": "https://www.hindustantimes.com/world-news/us-news/connor-murphy-death-what-happened-to-bodybuilder-influencer-rumor-viral-what-we-know-so-far-101783462312163.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-07T22:28:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bill banning occupied territories goods passed in Dáil",
-                "desc": "A long-awaited bill banning Israeli goods from the occupied territories in Palestine has passed the final stage in the Dáil without including services from the region.",
-                "image": "https://www.rte.ie/images/0023e085-1600.jpg",
-                "url": "https://www.rte.ie/news/politics/2026/0707/1582303-occupied-territories-bill/",
-                "source": "RTE.ie",
-                "date": "2026-07-07T22:17:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US prosecutors arrest 24 in major probe into India-based organised crime",
-                "desc": "In one indictment, US prosecutors accuse Punjab-based Bishnoi gang leaders of ordering the 2023 shooting of Canadian Sikh leader Hardeep Singh Nijjar.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9f9/live/7022c150-7a34-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cx2xl9gyxqyo",
-                "source": "BBC",
-                "date": "2026-07-07T22:17:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US prosecutors arrest 24 in major probe into India-based organised crime",
-                "desc": "In one indictment, US prosecutors accuse Punjab-based Bishnoi gang leaders of ordering the 2023 shooting of Canadian Sikh leader Hardeep Singh Nijjar.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a9f9/live/7022c150-7a34-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.com/news/articles/cx2xl9gyxqyo",
-                "source": "BBC",
-                "date": "2026-07-07T22:17:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Agoda data refreshes Thailand’s tourism outlook",
-                "desc": "SINGAPORE, 8 July 2026: Digital travel platform Agoda reveals fresh insights into the Thai travel landscape for the first half of 2026.  Based on accommodation searches made from 1 January to 10 June, for check-ins between 1 January and 30 June 2026, compared to the same period in 2025, Agoda’s data shows Malaysia leading international travel […]",
-                "image": "https://www.ttrweekly.com/site/wp-content/uploads/2026/07/image-76.png",
-                "url": "https://www.ttrweekly.com/site/2026/07/agoda-data-refreshes-thailands-tourism-outlook/",
-                "source": "TTR Weekly",
-                "date": "2026-07-07T22:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine’s Zelenskiy signs ‘drone deals’ with three countries",
-                "desc": "July 7 (Reuters) - President Volodymyr Zelenskiy said on Tuesday that Ukraine had signed three more \"drone deals\" with Denmark, Estonia and the Netherlands, making ​available its expertise gained from more than ‌four years of war with Russia. Zelenskiy...",
-                "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-07/07/2026-07-07T205616Z_1_LYNXMPEM661CO_RTROPTP_3_UKRAINE-CRISIS-ZELENSKIY-DRONES.JPG",
-                "url": "https://wmbdradio.com/2026/07/07/ukraines-zelenskiy-signs-drone-deals-with-three-countries/",
-                "source": "1470 & 100.3 WMBD",
-                "date": "2026-07-07T22:05:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Johor state polls: PAS’ bid to revive ties with UMNO has failed, says Bersatu chief Muhyiddin",
-                "desc": "Former Malaysian Prime Minister Muhyiddin Yassin tells CNA that his Bersatu party remains focused on making gains in the Johor polls despite its fractured ties with PAS under opposition coalition Perikatan Nasional.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--_pvMMy4v--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/06/nz8_1407_copy.jpg?itok=Oq9lg3sH",
-                "url": "https://www.channelnewsasia.com/asia/johor-state-polls-pas-bid-revive-ties-umno-has-failed-says-bersatu-chief-muhyiddin-6237971",
-                "source": "CNA",
-                "date": "2026-07-07T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commentary: Was China’s submarine missile test a routine or warning shot?",
-                "desc": "The answer depends on who’s watching, says this academic.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--zujewI76--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/China_Missile_Test_71919.jpg?itok=C1kRIqOI",
-                "url": "https://www.channelnewsasia.com/commentary/china-submarine-missile-test-pacific-reaction-6238106",
-                "source": "CNA",
-                "date": "2026-07-07T21:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "rise at risk of 'collapse' after interior columns buckle, sparking evacuations",
-                "desc": "The former headquarters of pharmaceutical giant Pfizer was being converted into luxury apartments when buckled interior columns were discovered inside the building.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/6753ff62e25835423425ad565f46687a?impolicy=wcms_watermark_news&cropH=1170&cropW=2080&xPos=19&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-08/new-york-building-at-risk-of-collapse-after-columns-buckle/106891248",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-07T21:55:50Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T00:40:33.880378Z"
+    "lastGlobalSync": "2026-07-09T01:00:35.318221Z"
 }
