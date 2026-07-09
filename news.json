@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "GWM Ora 5 first drive: A new electric SUV at an affordable price",
+                "desc": "The new GWM Ora 5 electric SUV is an improvement on its previous Ora hatch, both inside and on the road.",
+                "image": "https://thedriven.io/wp-content/uploads/2026/07/GWM-Ora-5-Front-Launch-Riz-Akhtar-Large.jpeg",
+                "url": "https://thedriven.io/2026/07/09/gwm-ora-5-first-drive-a-new-electric-suv-at-an-affordable-price/",
+                "source": "The Driven IO",
+                "date": "2026-07-09T01:58:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple is already testing Chinese RAM, new report says",
+                "desc": "There's a twist that might convince the Trump administration to let Apple use it. A few days ago some reports claimed Apple was considering using Chinese...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-already-testing-chinese-dram/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/apple_is_already_testing_chinese_ram_new_report_says-news-73638.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-09T01:58:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DBS, OCBC, UOB push STI to new highs as institutions pile in ahead of earnings",
+                "desc": "STI rises as much as 1% to 5,424.02 points as DBS breaches S$70 mark Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/91cf7b45aa28b8246fb6e47179c1eff984aa90bca41a5715953f49f59acab781?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/dbs-ocbc-uob-push-sti-new-highs-institutions-pile-ahead-earnings",
+                "source": "The Business Times",
+                "date": "2026-07-09T01:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shoppers splurge on specs in Japan as deflation-era mindset fades away",
+                "desc": "As inflation reshapes behavior, Japanese eyeglass company Jins is working to prove higher prices are justified by delivering better materials, sharper designs and improved quality.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/09/550680.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/09/economy/jins-glasses-shopping/",
+                "source": "The Japan Times",
+                "date": "2026-07-09T01:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is China’s biggest daily US soybean order confirmation of Xi-Trump summit pact?",
+                "desc": "The 472,000 tonnes sold were the most in a single day since November and a ‘positive signal’ of Beijing’s intentions, analysts said.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/a6aed767-c2a3-4126-8036-39810bf241b8_6bb686b4.jpg?itok=zE5WfwgI&v=1783561994",
+                "url": "https://www.scmp.com/news/us/economy-trade-business/article/3359912/chinas-biggest-daily-us-soybean-order-confirmation-xi-trump-summit-pact",
+                "source": "South China Morning Post",
+                "date": "2026-07-09T01:53:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ADVAN AGM targets sustainable brand growth",
+                "desc": "The Advertisers Association of Nigeria (ADVAN) is set to convene its Annual General Meeting with a commitment to equip members with the strategic foresight, leadership insight, and industry knowledge to navigate transformation and drive sustainable brand growth in a rapidly changing marketplace.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2023/06/ADVAN-log.webp",
+                "url": "https://thesun.ng/advan-agm-targets-sustainable-brand-growth/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-09T01:52:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China now has 7 of world’s 10 biggest banks as Beijing’s financial ambitions grow",
+                "desc": "China’s Big Four banks took the top spots in The Banker’s latest global ranking, with JPMorgan Chase following in fifth place.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/cac9ff6e-9eba-439a-95b0-90f8aab1f5fc_ba524462.jpg?itok=av2lG46g&v=1783561793",
+                "url": "https://www.scmp.com/business/banking-finance/article/3359911/china-now-has-7-worlds-10-biggest-banks-beijings-financial-ambitions-grow",
+                "source": "South China Morning Post",
+                "date": "2026-07-09T01:50:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ADB sees slowest post-pandemic Philippine growth in 2026",
+                "desc": "The Asian Development Bank (ADB) slashed its Philippine economic growth forecast to 3.8 percent this year, which, if realized, would be the country’s slowest...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/09/114755.webp",
+                "url": "https://mb.com.ph/2026/07/09/adb-sees-slowest-post-pandemic-philippine-growth-in-2026",
+                "source": "Manila Bulletin",
+                "date": "2026-07-09T01:43:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China consumer price growth weakens in June, producer inflation quickens",
+                "desc": "Investors increasingly view China's two-speed growth with robust export and tepid domestic demand as a defining long-term feature of the Chinese economy.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108326608-1782377348986-gettyimages-2282675114-AFP_B89A7XU.jpeg?v=1782377788&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html",
+                "source": "CNBC",
+                "date": "2026-07-09T01:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "HanchorBio Tests Broader Ambitions for HCB101 Through InxMed Partnership",
                 "desc": "Taiwan-listed biotech looks to expand the value of its lead oncology asset through combination research with late-stage cancer drug resistance specialist InxMed. TAIPEI and SHANGHAI and SAN FRANCISCO, July 9, 2026 /PRNewswire/ -- HanchorBio, Inc. (TWSE: 7827) is taking another step to broaden the development path for HCB101, its lead…",
                 "image": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/03/image.jpg?fit=32%2C32&ssl=1",
@@ -551,90 +632,54 @@
                 "source": "WWD",
                 "date": "2026-07-08T21:55:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Teck to Release Second Quarter 2026 Results on July 23, 2026",
-                "desc": "Vancouver, B.C. – Teck Resources Limited (TSX: TECK.A and TECK.B, NYSE: TECK) (“Teck”) will release its second quarter 2026 earnings results before market open on Thursday, July 23, 2026.",
-                "image": "https://www.teck.com/media/Teck-logo-square_400x400.png",
-                "url": "https://www.teck.com/news/news-releases/2026/teck-to-release-second-quarter-2026-results-on-july-23,-2026",
-                "source": "Teck Resources Limited",
-                "date": "2026-07-08T21:49:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Odin microreactor prototype moves closer to nuclear approval in UK",
-                "desc": "UK-based nuclear engineering firm Cambridge Atomworks will develop its Odin microreactor prototype at Berkeley Green.",
-                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/X1.jpg",
-                "url": "https://interestingengineering.com/energy/uk-odin-nuclear-microreactor-prototype",
-                "source": "Interesting Engineering",
-                "date": "2026-07-08T21:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Distributor In Thailand Cashes In On Consumer-Spending Recovery",
-                "desc": "The uptick in Com7 shares gave cofounder Sura Khanittaweekul a nearly 40% boost to his wealth to $655 million.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4c93431992123335092b05/0x0.jpg?format=jpg&crop=905,509,x0,y125,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/gloriaharaito/2026/07/08/apple-distributor-in-thailand-cashes-in-on-consumer-spending-recovery/",
-                "source": "Forbes",
-                "date": "2026-07-08T21:45:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thai Renewable Energy Producer Profits From Powering Up Data Centers",
-                "desc": "Shares of Gunkul Engineering surged 160% in the past year, returning chairman Gunkul Dhumrongpiyawut to the list after a three-year hiatus.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4c8f9b638cb179597f37b5/0x0.jpg?format=jpg&crop=1763,992,x0,y69,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/gloriaharaito/2026/07/08/thai-renewable-energy-producer-profits-from-powering-up-data-centers/",
-                "source": "Forbes",
-                "date": "2026-07-08T21:44:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thai Tycoon Revamps Property Business To Unleash Growth",
-                "desc": "Panote Sirivadhanabhakdi, son of liquor tycoon Charoen Sirivadhanabhakdi, has been making moves to revamp the family’s real estate portfolio held by Singapore-listed Frasers Property.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4c8c236bd089d110351f0a/0x0.jpg?format=jpg&crop=826,464,x0,y387,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/iansayson/2026/07/08/thai-tycoon-revamps-property-business-to-unleash-growth/",
-                "source": "Forbes",
-                "date": "2026-07-08T21:44:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thailand’s 50 Richest 2026: Stock Rally Drives Combined Wealth Up 10% To $187 Billion",
-                "desc": "The country’s three richest hold on to their ranks and a total of 33 tycoons get richer as economic growth remains consistent on uptick in exports and domestic consumption.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4c7f98440f9b3373d6f12e/0x0.jpg?format=jpg&crop=1200,675,x0,y16,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/phisanuphromchanya/2026/07/08/thailands-50-richest-2026-stock-rally-drives-combined-wealth-up-10-to-187-billion/",
-                "source": "Forbes",
-                "date": "2026-07-08T21:43:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First Chinese EVs arrive in Canada with a high price tag",
-                "desc": "A new automaker has entered Canada’s electric vehicle market giving some consumers looking to purchase a new vehicle more options.",
-                "image": "https://www.cp24.com/resizer/v2/OHV75CUTUJHGRFDHFRDTVMEAKU.jpeg?smart=true&auth=88b70829446eb3d1dc24d5317826549659a1a4e17cd479118cb6f53bd1a0472b&width=1200&height=630",
-                "url": "https://www.cp24.com/politics/2026/07/08/first-chinese-evs-arrive-in-canada-but-they-come-with-a-high-price-tag/",
-                "source": "CP24",
-                "date": "2026-07-08T21:38:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sizewell B nuclear power plant granted a 20-year life extension",
-                "desc": "Extension comes as government encourages first nuclear power projects in a generation to meet UK’s growing need for electricity",
-                "image": "https://i.guim.co.uk/img/media/af33cf3bb48484b3fbf594d4666df9bf06a3b558/250_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2748ce58b11a613783bcef61945e0c2e",
-                "url": "https://www.theguardian.com/environment/2026/jul/08/sizewell-b-nuclear-power-plant-granted-a-20-year-life-extension",
-                "source": "The Guardian",
-                "date": "2026-07-08T21:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sun Valley’s ‘summer camp for billionaires’ is offering knitting classes this year - here’s why we shouldn’t be surprised",
-                "desc": "The schedule of activities is circulating at this year’s “summer camp for billionaires” in Sun Valley, Idaho – and “knitting” is on the agenda, On The Money has learned.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/sun-valley-brian-roberts-jeff-bezos.jpg?quality=75&strip=all&1783529977&w=1200",
-                "url": "https://nypost.com/2026/07/08/business/sun-valleys-summer-camp-for-billionaires-is-offering-knitting-classes-this-year-heres-why-we-shouldnt-be-surprised/",
-                "source": "New York Post",
-                "date": "2026-07-08T21:29:31Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "NYT Strands hints, answers for July 9, 2026",
+                "desc": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
+                "image": "https://sm.mashable.com/t/mashable_sea/article/n/nyt-strand/nyt-strands-hints-answers-for-july-9-2026_gxnj.1200.jpg",
+                "url": "https://sea.mashable.com/games/52423/nyt-strands-hints-answers-for-july-9-2026",
+                "source": "Mashable SEA",
+                "date": "2026-07-09T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Did Ferrari Retire The Manual Gearbox Then revive Again",
+                "desc": "We just heard that Ferrari has revived the manual gearbox in their latest 12 cylinder supercar but why did they retire it decades ago to start with it.",
+                "image": "https://www.dsf.my/wp-content/uploads/2026/07/Manual-Gearshift.jpeg?v=1783562294",
+                "url": "https://www.dsf.my/2026/07/why-ferrari-retired-the-manual-gearbox-in-2012/",
+                "source": "DSF.my",
+                "date": "2026-07-09T01:59:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stat Sniper Launches Free AI Analytics App That Helps Sports Bettors Track Props and Read Matchups",
+                "desc": "Track props, surface trends, analyze matchups, and get AI-backed insights in one platform. Now live on iOS, Android, and web",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1130477.jpg",
+                "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/globenewswire/stat-sniper-launches-free-ai-analytics-app-that-helps-sports-bettors-track-props-and-read-matchups/2381301",
+                "source": "The Manila Times",
+                "date": "2026-07-09T01:57:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "D-Link launches two new 5G Wi-Fi 6 mobile hotspots giving fast, reliable Internet wherever you are",
+                "desc": "D-Link has released two new 5G Wi-Fi 6 personal hotspots letting you connect, stream, and do whatever you need online no matter if you're at home, working at a cafe, fixing an...",
+                "image": "https://media.itwire.com/2026/07/09/d-link-launches-two-new-5g-wi-fi-6-mobile-hotspots-giving-fast-reliable-internet-wherever-you-are-e4b05f9e1752.webp",
+                "url": "https://itwire.com/your-it-news/home-it/d-link-launches-two-new-5g-wi-fi-6-mobile-hotspots-giving-fast-reliable-internet-wherever-you-are",
+                "source": "iTWire",
+                "date": "2026-07-09T01:53:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ERNIE BALL TO ACQUIRE SOURCE AUDIO EXPANDING THE ICONIC STRING MAKER INTO PREMIUM EFFECTS",
+                "desc": "Ernie Ball Inc., the world’s leading manufacturer of premium guitar strings, bass strings and musical instrument accessories, today announced that it has entered into a definitive agreement to acquire Source Audio, the Massachusetts-based company behind some of the most innovative and acclaimed effects pedals in modern music.",
+                "image": "https://australianmusician.com.au/wp-content/uploads/2026/07/EB_Source_Email.jpg",
+                "url": "https://australianmusician.com.au/ernie-ball-to-acquire-source-audio-expanding-the-iconic-string-maker-into-premium-effects/",
+                "source": "Australian Musician Magazine",
+                "date": "2026-07-09T01:50:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Liver-directed gene therapy shows preclinical efficacy for severe inherited metabolic disorder",
                 "desc": "Genespire, in collaboration with researchers at the San Raffaele Telethon Institute for Gene Therapy (SR-TIGET), announced the publication of preclinical data supporting the potential of its liver-directed immune-shielded lentiviral gene therapy approach to treat methylmalonic acidemia (MMA), a severe inherited metabolic disorder.",
@@ -1219,54 +1264,99 @@
                 "source": "Irish Farmers Journal",
                 "date": "2026-07-08T21:07:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Researchers tore down a Tesla and BYD battery to see which one's better",
-                "desc": "The two companies have different approaches, but is one better?",
-                "image": "https://cdn.zmescience.com/wp-content/uploads/2025/03/Untitled38.png",
-                "url": "https://www.zmescience.com/tech/ev-battery-byd-tesla-showdnwo/",
-                "source": "ZME Science",
-                "date": "2026-07-08T21:02:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "X-pinch plasma achieves radial proton acceleration for crisp imaging",
-                "desc": "Plasma pinches: From pursuits of nuclear fusion to an attractive point source of accelerated protons for proton radiography.",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/x-pinch-plasma-achieve.jpg",
-                "url": "https://phys.org/news/2026-07-plasma-radial-proton-crisp-imaging.html",
-                "source": "Phys.org",
-                "date": "2026-07-08T21:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Buy a Dock and a Hub Separately? Anker's 13-Port Docking Station Hits a Record Low With Built-In Removable Hub",
-                "desc": "Add more functionality for less with this amazing deal.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/anker-deal-1-1200x675.jpg",
-                "url": "https://gizmodo.com/why-buy-a-dock-and-a-hub-separately-ankers-2-in-1-docking-station-hits-a-record-low-with-built-in-removable-hub-2000782205",
-                "source": "Gizmodo",
-                "date": "2026-07-08T20:55:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Shield TV (2019) appears to have been quietly discontinued, maybe",
-                "desc": "It seems that the 7-year-old but still-latest Nvidia Shield TV model has been quietly discontinued, but one still remains. The...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/10/nvidia_shield_tv_remote_2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/08/nvidia-shield-tv-2019-appears-to-have-been-quietly-discontinued-maybe/",
-                "source": "9to5Google",
-                "date": "2026-07-08T20:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Davids Health Sciences Launches Fluoride",
-                "desc": "Inspired by a “less is more” approach to oral care, company introduces a fluoride-free formula designed for those seeking a simpler, more intentional brushing experience. MENIFEE, Calif.—Davids Health Sciences, Inc., today announced the launch of Davids Hydroxi Whitening + Enamel Health Clean & Fresh Unflavored Toothpaste, the newest addition to the company’s Hydroxi™ portfolio, expanding the […]",
-                "image": "https://www.dentistrytoday.com/wp-content/uploads/2026/07/reduced_260409_DAVIDS_CINNAMON_30173.jpg",
-                "url": "https://www.dentistrytoday.com/davids-health-sciences-launches-fluoride-free-unflavored-nano-hydroxyapatite-toothpaste/",
-                "source": "Dentistry Today",
-                "date": "2026-07-08T20:44:22Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Western Europe Had Its Hottest June on Record",
+                "desc": "An unusually early heat wave smashed records across France, Britain and Spain. Temperatures in some areas are starting to soar again.",
+                "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08cli-hoteurope-fjvb/08cli-hoteurope-fjvb-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/08/climate/western-europe-hottest-june.html",
+                "source": "The New York Times",
+                "date": "2026-07-09T02:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Namibia launches GEF-UNIDO initiative to unlock climate funding",
+                "desc": "THE Ministry of Environment has officially launched the GEF-UNIDO Namibia Child Project, an initiative aimed at unlocking greater access...",
+                "image": "https://informante.web.na/wp-content/uploads/2026/07/Namibia-launches-green-hydrogen-funding-project-Informante-Image-workspace-1024x677.jpg",
+                "url": "https://informante.web.na/?p=397467",
+                "source": "Informanté",
+                "date": "2026-07-09T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran formally notifies UN Security Council of fresh US violations, warns Washington of consequences",
+                "desc": "Iran formally notifies the UN Security Council of fresh large-scale US military attacks against its territory, warning Washington about the consequences.",
+                "image": "https://cdn.presstv.ir/Photo/2026/7/8/d87f89b5-ab1a-4993-8d8e-22cec5c4a71d.jpg",
+                "url": "https://www.presstv.ir/Detail/2026/07/09/771875/Iran-United-Nations-United-States-attacks",
+                "source": "PressTV",
+                "date": "2026-07-09T01:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'If I go...': Trump claims he's Iran's 'No. 1 target' after Air Force One blinds shut",
+                "desc": "Trump's remarks came aboard the Air Force One plane, after the reporters he was interacting with were asked to shut the blinds next to their seats. | World News",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/09/550x309/ENGLAND-US-POLITICS-TRUMP-5_1783561152513_1783561163538_9170e424-b0b7-4e64-8f31-654a03fc7be3.jpg",
+                "url": "https://www.hindustantimes.com/world-news/trump-claims-threat-aboard-air-force-one-warns-reporters-number-1-iran-list-dangerous-flight-us-war-ceasefire-over-101783560339694.html",
+                "source": "Hindustan Times",
+                "date": "2026-07-09T01:55:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is China’s biggest daily US soybean order confirmation of Xi-Trump summit pact?",
+                "desc": "The 472,000 tonnes sold were the most in a single day since November and a ‘positive signal’ of Beijing’s intentions, analysts said.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/a6aed767-c2a3-4126-8036-39810bf241b8_6bb686b4.jpg?itok=zE5WfwgI&v=1783561994",
+                "url": "https://www.scmp.com/news/us/economy-trade-business/article/3359912/chinas-biggest-daily-us-soybean-order-confirmation-xi-trump-summit-pact",
+                "source": "South China Morning Post",
+                "date": "2026-07-09T01:53:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran threat? Why Trump flew home on old Air Force One instead of jet gifted by Qatar",
+                "desc": "US News: US President Donald Trump returned from the NATO summit in Ankara aboard the older Air Force One after a brief stop at RAF Mildenhall in the UK, amid .",
+                "image": "https://static.toiimg.com/thumb/msid-132275113,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/iran-threat-why-trump-flew-home-on-old-air-force-one-instead-of-qatari-jet/articleshow/132275080.cms",
+                "source": "The Times of India",
+                "date": "2026-07-09T01:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qatar issues emergency alerts as US strikes on Iran trigger Gulf sirens",
+                "desc": "ISTANBUL, July 9 — Qatar issued emergency security alerts while warning sirens sounded in Bahrain and Kuwait early Thursday after a new wave of US strikes on Iran prompted...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/09/350978.jpg",
+                "url": "https://www.malaymail.com/news/world/2026/07/09/qatar-issues-emergency-alerts-as-us-strikes-on-iran-trigger-gulf-sirens/226920",
+                "source": "Malay Mail",
+                "date": "2026-07-09T01:51:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Democrats' Maine Senate candidate Graham Platner suspends midterm campaign after sexual assault accusation",
+                "desc": "The Democratic Senate candidate in the US state of Maine has suspended his midterm election campaign after a string of controversies, including an accusation of sexual assault.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/a0273e92ace8cadee4527226e554e7d6?impolicy=wcms_watermark_news&cropH=1658&cropW=2947&xPos=0&yPos=164&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-09/democrats-graham-platner-suspends-senate-midterm-campaign/106896142",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-09T01:50:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 More People Criminally Charged with Damaging Reflecting Pool",
+                "desc": "Three more people have been charged in connection with alleged damage to the Lincoln Memorial Reflecting Pool, according to newly filed court documents.",
+                "image": "https://imagez.tmz.com/image/c9/16by9/2026/06/23/c9fc9f5499994080b4316f6bcad01b97_xl.jpg",
+                "url": "https://www.tmz.com/2026/07/08/three-more-people-face-charges-for-allegedly-damaging-the-reflecting-pool/",
+                "source": "TMZ",
+                "date": "2026-07-09T01:45:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missile alerts in Gulf countries after US launches airstrikes against Iran",
+                "desc": "Kuwait’s military said it was actively intercepting incoming drones and missiles.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/children-wade-in-the-water-with-cargo-ships-at-anchor-in-the-3PCUVQSKBVAT5K4PZJG432A7SA.jpg?auth=a6b492a6cb0ab7fdbb35065a42dab0a8bcc96e97e776b0750de09221934ecc42&quality=70&width=600&height=315&focal=4074%2C1424",
+                "url": "https://www.1news.co.nz/2026/07/09/missile-alerts-in-gulf-countries-after-us-launches-airstrikes-against-iran/",
+                "source": "1News",
+                "date": "2026-07-09T01:44:48Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Thailand Aligns with Malaysia, Vietnam, Indonesia and Singapore as ASEAN Travel Cooperation Ignites Record Tourism Growth, Expands Global Visitor Spending and Transforms Southeast Asia into a Unified",
                 "desc": "Thailand leads Southeast Asia tourism growth with Malaysia, Vietnam, Indonesia and Singapore through stronger cooperation, connectivity and visitor spending.",
@@ -1806,98 +1896,8 @@
                 "source": "1News",
                 "date": "2026-07-08T21:43:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Former Wisconsin judge avoids prison in ICE obstruction case",
-                "desc": "Hannah Dugan’s sentence comes after she helped an immigrant in the US avoid ICE agents waiting to arrest him in 2025.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4eb73b-1783543611.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/8/former-wisconsin-judge-avoids-prison-in-ice-obstruction-case",
-                "source": "Al Jazeera",
-                "date": "2026-07-08T21:41:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US launches more strikes on Iran with blasts reported in south of country",
-                "desc": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/cz75zjj5wp8o",
-                "source": "BBC",
-                "date": "2026-07-08T21:40:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cubao diocese opens doors to excommunicated group SSPX",
-                "desc": "The Diocese of Cubao is opening its doors to SSPX followers, offering counseling and the possibility of holding the traditional Latin Mass.",
-                "image": "https://newsinfo.inquirer.net/files/2026/07/News1254907.jpg",
-                "url": "https://newsinfo.inquirer.net/2260251/cubao-diocese-opens-doors-to-excommunicated-group-sspx",
-                "source": "Inquirer.net",
-                "date": "2026-07-08T21:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. launches new strikes on Iran after Trump vows to hit 'hard'",
-                "desc": "U.S. strikes Iran following Trump’s vow to retaliate against recent attacks, escalating tensions in the Strait of Hormuz.",
-                "image": "https://th-i.thgim.com/public/incoming/6959zn/article71199986.ece/alternates/LANDSCAPE_1200/2026-07-08T100113Z_786244989_RC2G7MAEDB2U_RTRMADP_3_USA-ELECTION-TRUMP-COMMUNISM.JPG",
-                "url": "https://www.thehindu.com/news/international/us-launches-new-strikes-on-iran-after-trump-vows-to-hit-hard/article71199867.ece",
-                "source": "The Hindu",
-                "date": "2026-07-08T21:39:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Post-quake revival: Airport gets Pokemon nickname",
-                "desc": "A ceremony was held Tuesday to commemorate Noto Airport’s adoption of the nickname “Noto Satoyama Pokemon With You Airport.”",
-                "image": "https://globalnation.inquirer.net/files/2026/07/pokemon-airport.jpeg",
-                "url": "https://globalnation.inquirer.net/330188/post-quake-revival-airport-gets-pokemon-nickname",
-                "source": "Inquirer.net",
-                "date": "2026-07-08T21:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "El Niño and the delayed shock to retail pricing",
-                "desc": "El Niño has officially begun but its impact on grocery…",
-                "image": "https://www.eiu.com/n/wp-content/uploads/2024/10/Consumer-goods-and-retail-outlook-2025-1-scaled.jpg",
-                "url": "https://www.eiu.com/n/el-nino-and-the-delayed-shock-to-retail-pricing/",
-                "source": "Economist Intelligence Unit",
-                "date": "2026-07-08T21:28:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Florida coral are in hot water again. Their caretakers have a plan",
-                "desc": "Coral scientists and nursery operators are taking steps to protect fragile coral as water temperatures rise.",
-                "image": "https://npr.brightspotcdn.com/dims4/default/1e2aef1/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2F28%2F7ed5d3634e84a29b8b9a3ef228f5%2Fian-enochs-cheeca-rocks.jpg",
-                "url": "https://www.wlrn.org/environment/2026-07-08/coral-bleaching-heat-florida",
-                "source": "WLRN",
-                "date": "2026-07-08T21:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Johor youth seek bigger political voice",
-                "desc": "Discover how frustrated and under-represented Johor youth are demanding a greater voice in politics and representation in elections. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3240a4754f58f6880f1d779ebeb78bc0cfa3fd251efdb868928b0deea631c88c",
-                "url": "https://www.straitstimes.com/asia/se-asia/young-frustrated-and-under-represented-johor-youth-seek-a-bigger-political-voice",
-                "source": "The Straits Times",
-                "date": "2026-07-08T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
-                "desc": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bd18/live/6993ef10-7b0d-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.com/news/articles/c98205r7dylo",
-                "source": "BBC",
-                "date": "2026-07-08T20:58:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
-                "desc": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd18/live/6993ef10-7b0d-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo",
-                "source": "BBC",
-                "date": "2026-07-08T20:58:10Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T13:40:36.920060Z"
+    "lastGlobalSync": "2026-07-09T14:00:40.697268Z"
 }
