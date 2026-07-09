@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Lawmakers Target the Power of Health Insurance Giants",
+                "desc": "UnitedHealth Group, CVS Health and Cigna are battling efforts to break up their control over prescription drugs.",
+                "image": "https://static01.nyt.com/images/2026/05/25/business/00insurance-breakup/00insurance-breakup-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/08/business/health-insurance-cvs-unitedhealth-breakup.html",
+                "source": "The New York Times",
+                "date": "2026-07-08T13:39:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "run defense companies may go public, but there are hurdles",
+                "desc": "The current market presents an opportunity for the Israeli government to raise billions of dollars while improving the companies' efficiency and access to capital.",
+                "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/GettyImages-2240498593-scaled.jpg",
+                "url": "https://breakingdefense.com/2026/07/israels-two-giant-state-run-defense-companies-may-go-public-but-there-are-hurdles/",
+                "source": "Breaking Defense",
+                "date": "2026-07-08T13:37:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Free Service to Abuja, Five States",
+                "desc": "Dangote Refinery begins free petrol delivery to Abuja, Lagos, and five other states for bulk purchases, maintaining its N1,075/litre ex-depot price.",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/DANGOTE-REFINERY.webp",
+                "url": "https://punchng.com/dangote-refinery-begins-free-petrol-delivery-to-abuja-five-states/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-08T13:37:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why the drop in stocks and oil market reaction is not worse after Trump's comments",
+                "desc": "All things considered, markets are taking the latest escalation in Middle East in stride.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108313258-1779982389071-Traders-Photo-20260528-KK-PRESS-016.jpg?v=1779982579&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/why-the-drop-in-stocks-and-oil-market-reaction-is-not-worse-after-trumps-comments.html",
+                "source": "CNBC",
+                "date": "2026-07-08T13:35:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Data Shows Smoking and Vaping Rates on the Rise",
+                "desc": "The Alliance for the Control of Tobacco says new data showing that smoking rates are climbing don't come as a ...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/ashtray-smoking-cigarette-vape-smoke.jpg",
+                "url": "https://vocm.com/2026/07/08/303530/",
+                "source": "VOCM",
+                "date": "2026-07-08T13:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marketri Rebrands as Technology-Enabled B2B Growth Firm, Pursues Anthropic Partnership",
+                "desc": "/PRNewswire-PRWeb/ -- Marketri, a B2B marketing consulting firm serving mid-market companies, today relaunched its brand and named the next phase of its...",
+                "image": "https://mmx.prnewswire.com/media/MS1877057/Marketri-PRIMARYLOGO.jpg?id=OA2748883&p=facebook",
+                "url": "https://www.prweb.com/releases/marketri-rebrands-as-technology-enabled-b2b-growth-firm-pursues-anthropic-partnership-302817197.html",
+                "source": "PRWeb",
+                "date": "2026-07-08T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flawed credit ratings in Africa: are top 3 western agencies driven by data or bias?",
+                "desc": "There have been notable examples of rating agencies differing significantly in their decisions on African institutions and countries.",
+                "image": "https://images.theconversation.com/files/745977/original/file-20260705-70-prx5ba.jpg?ixlib=rb-4.1.0&rect=0%2C224%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/flawed-credit-ratings-in-africa-are-top-3-western-agencies-driven-by-data-or-bias-286364",
+                "source": "The Conversation",
+                "date": "2026-07-08T13:29:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Justice Yogesh Khanna appointed NCLAT officiating chairperson",
+                "desc": "Justice Khanna is known for handing down death penalty to four convicts in the 2012 Delhi gang rape and murder case.",
+                "image": "https://cf-images.assettype.com/barandbench%2F2026-07-08%2Fjg99o5uu%2F1000584719.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://www.barandbench.com/news/law-policy/justice-yogesh-khanna-appointed-nclat-officiating-chairperson",
+                "source": "Bar and Bench",
+                "date": "2026-07-08T13:29:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World's first fully electric hydrogen aircraft engine could replace jet turbines",
+                "desc": "Airbus and MTU have joined forces to build the world's first fully electric hydrogen fuel cell engine for future passenger aircraft.",
+                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Q1.png?w=1920",
+                "url": "https://interestingengineering.com/transportation/airbus-mtu-fully-electric-hydrogen-engine",
+                "source": "Interesting Engineering",
+                "date": "2026-07-08T13:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Smoke from Fires in Quebec and Labrador Causing Hazy Skies Over NL",
+                "desc": "The sun is shining on what is the hottest day so far this year on the Avalon, however it's not hard to tell th...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/smoke-haze-over-st-johns.jpg",
+                "url": "https://vocm.com/2026/07/08/303528/",
+                "source": "VOCM",
+                "date": "2026-07-08T13:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "ProvidusUnity Bank, gener8tor Partner to Boost Funding Access for Nigerian Startups Through Lightning Rounds",
                 "desc": "ProvidusUnity Bank, in partnership with US.based gener8tor, has announced the launch of Nigeria Lightning Rounds.",
                 "image": "https://techeconomy.ng/wp-content/uploads/2026/06/ProvidusUnity-Bank.png",
@@ -542,99 +632,99 @@
                 "source": "The Motley Fool",
                 "date": "2026-07-08T01:25:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "1 in 3 Filipino workers already exhausted midyear - study",
-                "desc": "Almost one in three Filipino workers are already feeling drained midway through the year, with struggles to maintain work-life balance and compensation that does not match workloads emerging as the main reasons for exhaustion.",
-                "image": "https://newsinfo.inquirer.net/files/2026/07/IMG_6385.jpeg",
-                "url": "https://newsinfo.inquirer.net/2259627/1-in-3-filipino-workers-already-exhausted-midyear-study",
-                "source": "Inquirer.net",
-                "date": "2026-07-08T00:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia news LIVE: Telstra outage affecting calls to Triple Zero, brings regional Victoria, NSW train services to a halt",
-                "desc": "Follow our rolling coverage of the latest news and developments from around Australia and the world.",
-                "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/39937da73224f470ec24d40a22c167b3f9f3fd80",
-                "url": "https://www.brisbanetimes.com.au/national/australia-news-as-it-happened-telstra-investigates-outage-albanese-s-origin-diplomacy-push-farage-resigns-from-parliament-20260708-p60dh2.html",
-                "source": "Brisbane Times",
-                "date": "2026-07-08T00:57:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan logs 3.97 tril. yen current account surplus in May on firm exports",
-                "desc": "TOKYO (Kyodo) -- Japan posted a current account surplus of 3.97 trillion yen ($24.2 billion) in May, as the trade balance swung into the black on stro",
-                "image": "https://cdn.mainichi.jp/vol1/2026/07/08/20260708p2g00m0bu017000p/0c10.jpg?1",
-                "url": "https://mainichi.jp/english/articles/20260708/p2g/00m/0bu/018000c",
-                "source": "毎日新聞",
-                "date": "2026-07-08T00:55:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Middle East oil dependence, tightening power reserves leave Philippines energy insecure-PIDS",
-                "desc": "The Philippines remains energy insecure as its growing dependence on Middle Eastern crude oil and tightening power reserves leave the country increasingly...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/08/114444.webp",
-                "url": "https://mb.com.ph/2026/07/08/middle-east-oil-dependence-tightening-power-reserves-leave-philippines-energy-insecurepids",
-                "source": "Manila Bulletin",
-                "date": "2026-07-08T00:55:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Warning issued about baby walkers",
-                "desc": "A recall has been issued for banned baby walkers that were sold on online home goods site Wayfair.",
-                "image": "https://www.cp24.com/resizer/v2/3XD2Z2G72VAEZNIO2JSRIUVE5E.png?smart=true&auth=ea8a56e7393e762eaaf8061264fa9eba850fb64b9e5738b29d4202933c608a3f&width=1200&height=630",
-                "url": "https://www.cp24.com/news/canada/2026/07/08/baby-walkers-banned-in-canada-for-decades-are-being-recalled-due-to-hazard-risk/",
-                "source": "CP24",
-                "date": "2026-07-08T00:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australian house prices are falling but are still almost double what they were a decade ago",
-                "desc": "The average dwelling price has risen to more than 17 years of a typical household’s disposable income",
-                "image": "https://i.guim.co.uk/img/media/ed0bfef296617ea122eed386583865c767686707/209_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fe26b2e4c302b2a84e0f8b4c0f69eea",
-                "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
-                "source": "The Guardian",
-                "date": "2026-07-08T00:54:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DMO Opens July Offer at 15.716% Interest",
-                "desc": "The DMO has opened the July 2026 FGN Savings Bond, offering Nigerians up to 15.716% annual interest. Invest in secure, government-backed securities.",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/Debt-Management-Office-DMO.webp",
-                "url": "https://punchng.com/dmo-opens-july-fgn-savings-bond-at-15-716/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-08T00:49:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Roundup: Credit Card Sign",
-                "desc": "Planning to apply for a credit card this month? Here's all the sign-up bonuses available for July 2026.",
-                "image": "https://milelion.com/wp-content/uploads/2020/04/credit_cards.jpg",
-                "url": "https://milelion.com/2026/07/08/roundup-credit-card-sign-up-bonuses-july-2026/",
-                "source": "The MileLion",
-                "date": "2026-07-08T00:48:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Coffee trader seeks to shield more Vietnam growers from weather",
-                "desc": "ECOM Agroindustrial piloted the insurance program five years ago, under which payouts are triggered if it rains too much or too little and farmers don’t have to prove crop losses.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/08/550426.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/08/coffee-trader-vietnam-growers-weather/",
-                "source": "The Japan Times",
-                "date": "2026-07-08T00:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Regional marketing alliance gives Filipino brands easier path to Southeast Asia",
-                "desc": "Filipino brands now have an accessible pathway to expand into Southeast Asia without having to navigate each new market on their own through the launch of the...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/07/114421.webp",
-                "url": "https://mb.com.ph/2026/07/07/regional-marketing-alliance-gives-filipino-brands-easier-path-to-southeast-asia",
-                "source": "Manila Bulletin",
-                "date": "2026-07-08T00:45:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "PSA: macOS 28 will drop support for encrypted Mac OS Extended volumes",
+                "desc": "Apple has announced that starting with macOS 28, users will need to decrypt or reformat certain storage volumes to keep using them.",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/mac-hdd.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/08/psa-macos-28-will-drop-support-for-encrypted-mac-os-extended-volumes/",
+                "source": "9to5Mac",
+                "date": "2026-07-08T13:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galaxy Watch 9, Ultra 2, Flip 8 leak in official-looking renders",
+                "desc": "New leaks have revealed some official-looking renders of the Galaxy Z Flip 8, Galaxy Watch 9, and Galaxy Watch Ultra 2.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-ultra-2-flip-8-renders.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/08/galaxy-watch-9-ultra-2-flip-8-renders-leak/",
+                "source": "9to5Google",
+                "date": "2026-07-08T13:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roguelike Action RPG Phantom Tower Enters Early Access July 13th",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/080814-f116e3fa/hero_1.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=df936c582bc4e79031223b9b22691b34ea8878ed3134b1f00cebe0bd19cd0d6f",
+                "url": "https://www.gamespress.com/en-GB/Action-Roguelike-RPG-Phantom-Tower-Enters-Early-Access-July-13th",
+                "source": "Games Press",
+                "date": "2026-07-08T13:38:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung looks set to jump on the clip-on earbuds trend - but it isn't short of competition",
+                "desc": "The 'Galaxy Able' have been spotted in Samsung's Wearable app",
+                "image": "https://cdn.mos.cms.futurecdn.net/j2MqYDYVgPGEXQ2PT6WH9U-2560-80.jpg",
+                "url": "https://www.whathifi.com/headphones/wireless-earbuds/samsung-looks-set-to-jump-on-the-clip-on-earbuds-trend-were-not-quite-sold-on-the-name-though",
+                "source": "What Hi-Fi?",
+                "date": "2026-07-08T13:38:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Persona 4 Revival Producer Confirms Changes to Yosuke to Fit Today's Era",
+                "desc": "In a recent interview with Anime Corner during Anime Expo 2026, Persona Team General Producer Kazuhisa Wada spoke about different changes made to Persona",
+                "image": "https://static.animecorner.me/2026/07/1783479132-ba91e0bfcbbc5db1ab5245b6c812ccef.jpg",
+                "url": "https://animecorner.me/persona-4-revival-changes-to-yosuke/",
+                "source": "Anime Corner",
+                "date": "2026-07-08T13:37:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Earth Pro is headed for the graveyard, and fans aren't happy about it",
+                "desc": "Google Earth Pro's desktop app is set to be retired, and longtime users argue Google's proposed alternatives still fall short.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2023/03/google-earth-main-image-scaled.jpg",
+                "url": "https://www.androidauthority.com/google-earth-pro-desktop-sunset-3685256/",
+                "source": "Android Authority",
+                "date": "2026-07-08T13:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ZeroBounce Improves Catch-All Email Validation for Microsoft 365, Google Workspace, and More",
+                "desc": "**media[1129793]**The update helps marketing and sales teams make faster decisions based on higher-quality email data and move campaigns forward with greater confidence.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1129791.jpg",
+                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/pr-newswire/zerobounce-improves-catch-all-email-validation-for-microsoft-365-google-workspace-and-more/2380917",
+                "source": "The Manila Times",
+                "date": "2026-07-08T13:35:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung, Google plan events to upstage Apple's iPhone Fold party",
+                "desc": "Apple's iPhone Fold launch event is in the fall, but rivals are scheduling folding smartphone events in the summer. This is what Google and Samsung are going to try to do to rain on Apple's parade.",
+                "image": "https://photos5.appleinsider.com/gallery/68193-143761-Squat-Fold-1-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/08/samsung-google-want-to-upstage-iphone-fold-debut-with-earlier-events",
+                "source": "AppleInsider",
+                "date": "2026-07-08T13:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "1 Thing You Need More Than Trust In A Relationship, By A Psychologist",
+                "desc": "A psychologist explains why the lens you use to interpret your partner's ambiguous behavior matters more than trust in your relationship.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4e4f056f74354d09e30bdb/0x0.jpg?format=jpg&crop=1228,690,x0,y3,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/traversmark/2026/07/08/1-thing-you-need-more-than-trust-in-a-relationship-by-a-psychologist/",
+                "source": "Forbes",
+                "date": "2026-07-08T13:32:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Subnautica 2's First Big Update Finally Lets You Fight The Fish",
+                "desc": "Adaptive Measures, releasing July 8, will also add a sprint, better docking, and more Biomod slots",
+                "image": "https://kotaku.com/app/uploads/2026/07/subnautica-2-1.1.jpg",
+                "url": "https://kotaku.com/subnautica-2-patch-update-adaptive-measures-unknown-worlds-2000713698",
+                "source": "Kotaku",
+                "date": "2026-07-08T13:30:49Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Running shoes from Nike, Asics and more are nearly 50% off right - where to shop the best deals",
                 "desc": "Snap up these summer savings",
@@ -1174,99 +1264,99 @@
                 "source": "Campaign Brief",
                 "date": "2026-07-08T00:32:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AI Meets Retouching: Claude Interviews Renowned International Retoucher Matt Supple",
-                "desc": "AI interviewing a human about AI — it had to happen eventually. Claude sits down with renowned retoucher Matt Supple to talk workflow, ethics, and the tools reshaping the industry.\nQ1: How do you see AI image generation enhancing your workflow as a retoucher?\nI've been using AI heavily in my wor",
-                "image": "https://campaignbrief.co.nz/wp-content/uploads/sites/4/2026/07/Matt-Supple-Claude-QA.jpg",
-                "url": "https://campaignbrief.co.nz/2026/07/08/ai-meets-retouching-claude-interviews-renowned-international-retoucher-matt-supple/",
-                "source": "Campaign Brief NZ",
-                "date": "2026-07-08T00:32:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grand Seiko Ushio 300 Diver: Tide-inspired watch",
-                "desc": "Explore the Grand Seiko Ushio 300 Diver, a Spring Drive watch inspired by Japan's tides and crafted with precision and beauty.",
-                "image": "https://cassette.sphdigital.com.sg/image/thepeak/1632b5823961504dddfebe2d76f906964bedabc61452ad3525d94ba736dc15fd",
-                "url": "https://www.thepeakmagazine.com.sg/watch-jewellery/grand-seiko-ushio-journey?ref=titlestacked",
-                "source": "PEAK Singapore",
-                "date": "2026-07-08T00:25:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google officially reveals when it's launching the Pixel 11 series",
-                "desc": "The latest rumor was off by just one day. Mere hours ago a rumor claimed Google would, rather fittingly, (considering the naming) be unveiling the Pixel 11...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-event-date/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/google_officially_reveals_when_its_launching_the_pixel_11_series-news-73620.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-08T00:12:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung to get jump on Apple's first foldable with new phones in July",
-                "desc": "The Galaxy Unpacked event will be in London Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/fe65fe5b98fdf4e73d66123066d25cdd92bcae71432fbc4f1db4ad4212f6b286?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-get-jump-apples-first-foldable-new-phones-july",
-                "source": "The Business Times",
-                "date": "2026-07-08T00:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazfit's Screenless Wearable Tracks Fitness With an Added Waist Motion Sensor",
-                "desc": "The Helio Strap Pro was designed for Hyrox and hybrid athletes who want in-depth training insights.",
-                "image": "https://www.cnet.com/a/img/resize/95eab65de5df0883732db7b9d092274d484fc6ed/hub/2026/07/07/aac04230-85b6-4f2c-ac7f-9cb52e425792/amazfit-helio-strap-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/mobile/amazfit-helio-strap-pro/",
-                "source": "CNET",
-                "date": "2026-07-08T00:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dolby Atmos wins over DTS:X for now - but the war isn't over",
-                "desc": "The war isn't over, but DTS is under heavy siege.",
-                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/2026/06/soundbar-right-view-1-copy-jpg.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.pocket-lint.com/dolby-atmos-wins-over-dtsx-but-doesnt-have-to/",
-                "source": "Pocket-lint",
-                "date": "2026-07-08T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2027 Triumph Speed Twin TFC Leaked In Homologation Filings",
-                "desc": "The latest Triumph Factory Custom limited to 750 units Triumph is preparing to launch a new addition to its Triumph Factory Custom program with a new limited edition model based on the Speed Twin 1200 RS. Like previous examples, the 2027 Triumph Speed Twin TFC will feature hand-painted elements with custom gold accents, various carbon fiber and billet aluminum pieces, and some performance-focused upgrades. Read More: 2027 Triumph Speed Twin 1200 Cafe Racer Edition – First Look 2025 Triumph Speed",
-                "image": "https://s.yimg.com/lo/mysterio/api/de3d358ae970b84a87840e274a35d85c749e1be884d4b86daac9389c10c13d07/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotorcycle_com_705%2F667d45d1389206b9cab5f1b6fcda6733",
-                "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/2027-triumph-speed-twin-tfc-235600971.html",
-                "source": "Yahoo Autos",
-                "date": "2026-07-07T23:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You Can Stop Your iPhone's Side Button From Ending Calls - Here's How",
-                "desc": "If accidentally ending calls on your iPhone by pressing the side button is driving you nuts, there's a toggle in the Accessibility settings to fix this issue.",
-                "image": "https://www.bgr.com/img/gallery/you-can-stop-your-iphones-side-button-from-ending-calls-heres-how/l-intro-1783095407.jpg",
-                "url": "https://www.bgr.com/2207705/how-to-stop-iphone-side-button-from-ending-calls-guide/",
-                "source": "bgr.com",
-                "date": "2026-07-07T23:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung to get jump on Apple’s first foldable with new phones in July",
-                "desc": "Samsung Electronics will host its next Galaxy Unpacked event on July 22. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/21cacc9be376aacd1b548b98771fcc6905a0fae586a33ea270aa67c3375c5c55",
-                "url": "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july",
-                "source": "The Straits Times",
-                "date": "2026-07-07T23:42:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung to reveal new foldables on July 22",
-                "desc": "A new form-factor is on the cards.",
-                "image": "https://r3.whistleout.com.au/public/images/articles/2026/07/galaxy_unpacked_fold_2026.jpg?w=1200&h=630&fit=fill&fill=blur",
-                "url": "https://www.whistleout.com.au/MobilePhones/News/Samsung-Galaxy-Z-Fold-8-Z-Flip-8-release-date",
-                "source": "WhistleOut",
-                "date": "2026-07-07T23:37:56Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "The UN Scientific Panel on AI's Preliminary Report Does Not Establish Its Independence",
+                "desc": "Researchers from the AI Policy Lab at Umeå University recommend procedures and disclosures to help IISPAI achieve trust and credibility.",
+                "image": "https://cdn.sanity.io/images/3tzzh18d/production/a799aa3bcfdd8715f5e3b94a0752f43d7e4773a8-1200x675.png",
+                "url": "https://www.techpolicy.press/the-un-scientific-panel-on-ais-preliminary-report-does-not-establish-its-independence/",
+                "source": "Tech Policy Press",
+                "date": "2026-07-08T13:38:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More than 661,000 travelers just ranked the world’s hotels, and Africa’s bush camps beat almost every city on the list",
+                "desc": "Only three properties on Earth scored higher than a game reserve on a South African river: two of them are Maldivian resorts, and one is a hotel in Osaka. That...",
+                "image": "https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org3c89a8be67b747be72801201f8d15441Lion-Sands-Narina-Lodge-FIRE-deck-EVENING-Large-1.jpg?d=1200x630",
+                "url": "https://www.seattletimes.com/life/food-drink/more-than-661000-travelers-just-ranked-the-worlds-hotels-and-africas-bush-camps-beat-almost-every-city-on-the-list/",
+                "source": "The Seattle Times",
+                "date": "2026-07-08T13:33:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minutes from Muhyiddin as PM required consideration, says Tengku Zafrul",
+                "desc": "The former finance minister says, however, that they did not constitute instructions to approve specific projects.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/d266b58e-tengku-zafrul-aziz-bernama-pic-070726.webp",
+                "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/08/minutes-from-muhyiddin-as-pm-required-consideration-says-tengku-zafrul",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-08T13:32:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia hosts high-level talks on ratifying IGAD free movement protocol",
+                "desc": "Participants are also reviewing regional initiatives linked to the protocol, including the IGAD Interoperable Identification System and the proposed IGAD.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-08-143621.webp",
+                "url": "https://eastleighvoice.co.ke/regional/376918/somalia-hosts-high-level-talks-on-ratifying-igad-free-movement-protocol",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-08T13:32:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Advancing Healthcare and Social Change: Dr. Rasha Kelej Honored on the “100 Most Impactful Voices 2026” List by ABCD Africa",
+                "desc": "Advancing Healthcare and Social Change: Dr. Rasha Kelej Honored on the “100 Most Impactful Voices 2026” List by ABCD Africa",
+                "image": "https://www.zawya.com/favicon.ico",
+                "url": "https://www.zawya.com/en/press-release/africa-press-releases/advancing-healthcare-and-social-change-dr-rasha-kelej-honored-on-the-100-most-impactful-voices-2026-list-by-twjovrem",
+                "source": "ZAWYA",
+                "date": "2026-07-08T13:31:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Make them yourself': Trump gives Zelensky green light to produce Patriot missiles",
+                "desc": "Editor's note: this is a developing story and is being updated.\nU.S. President Donald Trump said on July 8 that he will grant Ukraine its longstanding request to produce American Patriot missiles, the West's only tool capable of stopping Russian ballistic missile attacks.\nPatriot missiles have played a key role in Ukraine's defenses, when Kyiv has been able to procure them in sufficient quantities.\nBut in a world where Ukraine needs the missiles to protect against Russia and the Middle East n",
+                "image": "https://assets.kyivindependent.com/content/images/2026/07/GettyImages-2285204323_20260708-132559.jpg",
+                "url": "https://kyivindependent.com/make-them-yourself-trump-gives-zelensky-green-light-to-produce-patriot-missiles/",
+                "source": "The Kyiv Independent",
+                "date": "2026-07-08T13:28:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Case for a Gulf–Iran Non",
+                "desc": "On June 14, the United States and Iran reached a framework agreement to halt the war that began in late February. Three days later, U.S....",
+                "image": "https://gulfif.org/app/wp-content/uploads/2026/07/Marks.jpg",
+                "url": "https://gulfif.org/the-case-for-a-gulf-iran-non-aggression-pact/",
+                "source": "Gulf International Forum",
+                "date": "2026-07-08T13:28:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two killed in fireworks factory blast in Italy",
+                "desc": "ROME, Italy — An explosion at a fireworks factory annex in central Italy killed two people, the fire brigade told AFP.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1129780.jpg",
+                "url": "https://www.manilatimes.net/2026/07/08/world/two-killed-in-fireworks-factory-blast-in-italy/2380912",
+                "source": "The Manila Times",
+                "date": "2026-07-08T13:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kasolo Leads Uganda's Condolence Message to Venezuela Over Earthquake Victims",
+                "desc": "Uganda has conveyed its condolences and solidarity to the Government and people of the Bolivarian Republic of Venezuela following the devastating earthquake that struck the South American nation. Acting Minister for Fore...",
+                "image": "https://nilepost.co.ug/new_cms/wp-content/uploads/2026/07/a1f5f52b-b380-4ef0-9111-6bc5ff95f527.jpg",
+                "url": "https://nilepost.co.ug/news/354738/kasolo-leads-ugandas-condolence-message-to-venezuela-over-earthquake-victims",
+                "source": "Nilepost",
+                "date": "2026-07-08T13:26:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Any source of support for US army ‘legitimate target’: Iran’s central military command",
+                "desc": "Iran’s Khatam al-Anbiya Central Headquarters says any source of support for the “aggressor US army” will be considered a legitimate target for Iranian Armed Forces.",
+                "image": "https://cdn.presstv.ir/Photo/2026/7/8/4c5abb0c-589a-463c-8a29-08468f169bcf.jpg",
+                "url": "https://www.presstv.ir/Detail/2026/07/08/771840/Iran-central-command-warns-any-source-of-support-for-US-military-is-legitimate-target",
+                "source": "PressTV",
+                "date": "2026-07-08T13:20:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Indonesia Has Enough Money for BrahMos Missiles, Finmin Purbaya Says",
                 "desc": "The Defense Ministry gets around Rp 187.1 trillion this year, and they can spend no more than Rp 83.5 trillion on military upgrades.",
@@ -1806,98 +1896,8 @@
                 "source": "ACI Africa",
                 "date": "2026-07-07T23:55:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-                "desc": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
-                "url": "https://www.bbc.com/news/articles/cwykq59jwpvo",
-                "source": "BBC",
-                "date": "2026-07-07T23:53:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Arizona toddler declared dead after near-drowning was alive for hours in ‘cold room’, records say",
-                "desc": "Officers say they saw signs of life multiple times, and after hospital treated the child, he was taken to hospital’s morgue",
-                "image": "https://i.guim.co.uk/img/media/829fe1b3e57e730fcb56ae112660d6b01f2c8ee9/422_0_4216_3373/master/4216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1a5c55f69ff41a64e37e2a9f28c62ad",
-                "url": "https://www.theguardian.com/us-news/2026/jul/07/phoenix-toddler-alive-hospital",
-                "source": "The Guardian",
-                "date": "2026-07-07T23:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Typhoon Maysak triggers floods, thunderstorms and rare tornadoes in China",
-                "desc": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c16e/live/c1b8aea0-79ba-11f1-8257-1765759c449e.jpg",
-                "url": "https://www.bbc.com/news/articles/c79ygnv9e93o",
-                "source": "BBC",
-                "date": "2026-07-07T23:44:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netherlands, Germany to Return Thousands of Artifacts to Ghana",
-                "desc": "About 2,000 artifacts taken during the colonial era are set to be returned to Ghana from the Netherlands and Germany. The announcement was made at the Next Steps Conference on Reparatory Justice and Restitution in Accra, where Dutch and German ambassadors presented President John Dramani Mahama with a catalogue of the items to return.\nSpeaking to delegates from more than 80 countries, Mahama cited the Ghanaian-sponsored UN resolution on the impact of slavery, saying its legacy still shapes Africa, the Caribbean, and the wider diaspora today.\nDuring the conference, the German ambassador said the repatriation of the items is evidence of his country's willingness to reckon with its colonial past and deepen ties with Ghana. The Dutch representative described the artifacts as crucial markers of identity for Ghanaian communities rather than simple museum pieces.",
-                "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00391263:8d0354f3b3ab293d9c9e588ceac3de91:arc614x376:w1200.jpg",
-                "url": "https://allafrica.com/view/group/main/main/id/00097374.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-07T23:41:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Package holidays to Dubai and Egypt get cheaper as European prices creep up",
-                "desc": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b635/live/a03a6a70-7a19-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/c17y81vnje5o",
-                "source": "BBC",
-                "date": "2026-07-07T23:34:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Package holidays to Dubai and Egypt get cheaper as European prices creep up",
-                "desc": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a890/live/a9d71670-7a94-11f1-932b-1f29e7985956.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o",
-                "source": "BBC",
-                "date": "2026-07-07T23:34:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Questions swirl over top US Republican McConnell's hospital stay - here's what we know",
-                "desc": "McConnell, 84, has been in hospital for more than four weeks, and his staff have not yet said why he was admitted.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72fb/live/7069fd50-7a51-11f1-b726-3d305a892bc6.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c4gyjpkzew1o",
-                "source": "BBC",
-                "date": "2026-07-07T23:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ICE agent fatally shoots motorist during traffic stop in Houston",
-                "desc": "Lorenzo Salgado Araujo was killed by immigration enforcement as he was looking to hire workers, his son says",
-                "image": "https://i.guim.co.uk/img/media/c9119796a646acc4802935fec5fc3c244a9fdff2/2077_900_2846_2277/master/2846.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfd8913fd1c073cc77f9ba2cd805730f",
-                "url": "https://www.theguardian.com/us-news/2026/jul/07/ice-agents-shoot-motorist-texas-houston",
-                "source": "The Guardian",
-                "date": "2026-07-07T23:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Perplexity Is Building an AI Coding Tool to Take on Cursor and OpenAI",
-                "desc": "San Francisco-based Perplexity, valued at $20 billion, is working on 'Teammate,' an AI tool that may compete with AI coding giants like Anthropic.",
-                "image": "https://i.insider.com/6a4d78d2965805a2c542de3b?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/perplexity-building-ai-coding-tool-take-on-cursor-and-openai-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-07T23:24:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Middle East crisis live: US launches fresh strikes on Iran after vessels hit in strait of Hormuz",
-                "desc": "Latest attack in the strait of Hormuz marks ⁠first known US military strikes ​against ​Iran since late last ​month",
-                "image": "https://i.guim.co.uk/img/media/48f9cbd7e5fc2c7edf8a2e254e9d1887ed2b4471/511_0_3054_2443/master/3054.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=63253dea3a73d23ba9b08ace7c6ca14f",
-                "url": "https://www.theguardian.com/world/live/2026/jul/07/us-military-strikes-iran-war-latest-news-updates",
-                "source": "The Guardian",
-                "date": "2026-07-07T23:21:24Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T01:19:08.921295Z"
+    "lastGlobalSync": "2026-07-09T01:40:33.314651Z"
 }
