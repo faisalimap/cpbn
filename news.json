@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Id Software dev claims it’s been ‘relegated to support studio size’ as 136 layoffs confirmed",
+                "desc": "A former Id artist says they’re “in shock at how brutal the layoff cuts”…",
+                "image": "https://www.videogameschronicle.com/files/2026/05/Boobie_Ike_03-1024x576-1.jpg",
+                "url": "https://www.videogameschronicle.com/news/id-software-dev-claims-its-been-relegated-to-support-studio-size-as-136-layoffs-confirmed/",
+                "source": "Video Games Chronicle",
+                "date": "2026-07-08T19:37:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Better Space Stock to Buy Before 2026 Runs Out: SpaceX vs. Rocket Lab",
+                "desc": "SpaceX and Rocket Lab are two popular stocks for investors seeking exposure to the growing space economy.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876473%2Frklb-spcx-images-src-tmf.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/08/better-space-stock-buy-spacex-rocket-lab/",
+                "source": "The Motley Fool",
+                "date": "2026-07-08T19:35:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Federal Reserve Considers Rate Hikes Amid Inflation Risks from Tariffs, Oil, and AI Spending",
+                "desc": "For anyone who spent 2025 hoping the Federal Reserve would keep cutting rates, 2026 has been a cold shower. FOMC minutes from March and April reveal that offici",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/federal-reserve-considers-rate-hikes-amid-inflation-risks-from-tariffs-oil-and-ai-spending",
+                "source": "KuCoin",
+                "date": "2026-07-08T19:33:16Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Iran conflict may lift gas prices-how a 'budget reset' can help",
+                "desc": "Renewed tensions with Iran could push gas prices higher. Here's how financial planners say to adjust your budget.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108332317-1783537477738-gettyimages-2268972383-pruebasgetty-3.jpeg?v=1783537529&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/iran-conflict-may-lift-gas-priceshow-a-budget-reset-can-help.html",
+                "source": "CNBC",
+                "date": "2026-07-08T19:32:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta is building its first, big data center in Canada amid AI push",
+                "desc": "Meta is building its first big Canadian data center as AI expansion crosses the border.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108332350-1783539359807-01_Sturgeon-Data-Center_Carousel-01.jpg?v=1783539485&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+                "source": "CNBC",
+                "date": "2026-07-08T19:31:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic Is Reportedly Worth $965 Billion. Here Are 3 Ways to Play It.",
+                "desc": "Anthropic is on course for its IPO, but there are ways for retail investors to get portfolio exposure to it before the big day.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877189%2Fgettyimages-2028913410-1200x814-262fe97.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/08/anthropic-is-reportedly-worth-965-billion-here-are/",
+                "source": "The Motley Fool",
+                "date": "2026-07-08T19:31:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceXAI releases Grok 4.5, which Elon describes as an 'Opus-class model'",
+                "desc": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+                "source": "TechCrunch",
+                "date": "2026-07-08T19:30:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's how Colombia's new transport minister plans to unlock infrastructure",
+                "desc": "Colombia's incoming transport minister pledged to unlock strategic projects including the Bogotá metro, the Metro de la 80, the Mulaló-Loboguerrero road and the expansion of El Dorado airport.",
+                "image": "https://cdnimg.bnamericas.com/ZhQegetAcRtsiDntcjALQNFiSCALjGRFplGOIwVeuQevxwGLxDyJpYcjfhVcIuDm.jpg",
+                "url": "https://www.bnamericas.com/en/news/heres-how-colombias-new-transport-minister-plans-to-unlock-infrastructure",
+                "source": "BNamericas",
+                "date": "2026-07-08T19:29:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Threads Has a 'Richard Has Passed' Problem",
+                "desc": "Threads is full of people who seem to be accidentally crossposting from Instagram or Facebook, like the \"This is Richard's wife\" woman.",
+                "image": "https://i.insider.com/6a4eaaf3d3a449ec3445f6d5?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/threads-richard-has-passed-instagram-cross-posting-facebook-instagram-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-08T19:28:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mom-and-pop landlords outpacing big real estate investors: StatCan data",
+                "desc": "In the United States, the role of Real Estate Investment Trusts (REITs) has come under scrutiny, but the picture looks very different in Canada, Statistics Canada data shows.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/condo-tower-mom-and-pop.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11958419/mom-and-pop-landlords-big-investors/",
+                "source": "Global News",
+                "date": "2026-07-08T19:23:25Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Lululemon just dropped the 'perfect everyday bag' - plus 14 more new bags, accessories & clothes I'm obsessed with",
                 "desc": "These pieces are going to fly off the virtual shelves, so don't wait too long.",
                 "image": "https://s.yimg.com/lo/mysterio/api/8cec0f9f6f4eb635dafe936ba05b0647faf598b1f1a647cbb20ad31bf62f1af1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fa-27_8263.png",
@@ -542,99 +632,99 @@
                 "source": "Philstar.com",
                 "date": "2026-07-08T16:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "UK Airline Turns Fuel Price Surge Into $500 Million Windfall Through Hedging",
-                "desc": "Jet2 reported a £388 million accounting gain from its jet fuel hedging strategy, helping offset travel disruption and booking uncertainty caused by Middle East tensions while maintaining a strong financial position.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_uwtoivtahl.jpg",
-                "url": "https://oilprice.com/Energy/Energy-General/UK-Airline-Turns-Fuel-Price-Surge-Into-500-Million-Windfall-Through-Hedging.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-08T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rice imports rise to record 2.75 million MT in H1",
-                "desc": "The country imported 2.75 million metric tons (MT) of rice in the first half, marking a record-high volume for the period, the Bureau of Plant Industry said.",
-                "image": "https://media.philstar.com/photos/2026/07/08/untitled-1_2026-07-08_20-03-16.jpg",
-                "url": "https://www.philstar.com/business/2026/07/09/2540783/rice-imports-rise-record-275-million-mt-h1",
-                "source": "Philstar.com",
-                "date": "2026-07-08T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aramco opening first Philippines gas station",
-                "desc": "Global oil behemoth Saudi Aramco is marking its return to the Philippine retail fuel market with the opening of its first gasoline station in the country this month.",
-                "image": "https://media.philstar.com/photos/2026/07/08/aramco_2026-07-08_19-37-37.jpg",
-                "url": "https://www.philstar.com/business/2026/07/09/2540777/aramco-opening-first-philippines-gas-station",
-                "source": "Philstar.com",
-                "date": "2026-07-08T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is Kraft Heinz (KHC) Balancing Brand Investment and Margins or Just Reframing Its Turnaround Story?",
-                "desc": "Kraft Heinz was recently added to the Russell 1000 Dynamic Index, while analysts are bracing for a double-digit year-over-year EPS decline in the upcoming second-quarter results.\nThis combination of index inclusion and anticipated earnings pressure is sharpening attention on how Kraft Heinz balances brand investment, margins, and long-term profitability.\nWith earnings expected to show a sharp EPS drop, we’ll examine how this shifts Kraft Heinz’s turnaround-focused investment narrative and...",
-                "image": "https://images.simplywall.st/asset/company-cover/278212-main-header/1756254876354",
-                "url": "https://simplywall.st/stocks/us/food-beverage-tobacco/nasdaq-khc/kraft-heinz/news/is-kraft-heinz-khc-balancing-brand-investment-and-margins-or",
-                "source": "simplywall.st",
-                "date": "2026-07-08T15:58:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IMF Cuts India's Growth Forecast to 6.4% for FY27 Amid Higher Energy Prices",
-                "desc": "According to IMF projections, India's estimated 6.4% growth for FY27 remains well ahead of most major economies. China is expected to grow by 4.6% in 2026, while the United States is forecast to expand by 2.3%. Euro area is projected to grow by 0.9%, the United Kingdom by 1%, Japan by 0.6%, and Canada by 1.1%. Globally, the IMF retained its growth forecasts of 3% for 2026 and 3.4% for 2027, broadly unchanged from its April outlook on a cumulative basis.",
-                "image": "https://media.assettype.com/outlookbusiness/2026-07-08/oi4qu1wh/IMF-Cuts-Indias-Growth-Forecast-to-6.4-for-FY27?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.outlookbusiness.com/economy-and-policy/imf-cuts-indias-growth-forecast-to-64-for-fy27-amid-higher-energy-prices",
-                "source": "outlookbusiness.com",
-                "date": "2026-07-08T15:55:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sebi reintroduces open-market share buybacks: How your gains will be taxed and what to consider before participating",
-                "desc": "Sebi has notified rules for open-market share buybacks effective 1 August 2026, allowing companies to repurchase shares through stock exchanges. Here's how your capital gains will be taxed and what to consider before selling your shares via the open market.",
-                "image": "https://www.livemint.com/lm-img/img/2026/07/08/1600x900/logo/INDIA-SEBI-0_1764336404903_1764336415199_1783524686141_7fd12a29-8138-4a69-a0e2-4fc86e9e377f.jpg",
-                "url": "https://www.livemint.com/money/personal-finance/sebi-reintroduces-open-market-share-buybacks-how-your-gains-will-be-taxed-and-what-to-consider-before-participating-11783521247009.html",
-                "source": "livemint.com",
-                "date": "2026-07-08T15:50:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Non-genotoxic transplantation and in vivo selection through epitope editing",
-                "desc": "The short-term and long-term effects of genotoxic pre-transplant conditioning remain barriers to the broader application of haematopoietic stem/progenitor cell (HSPC) transplantation and gene therapies1–4. Although monoclonal antibodies targeting KIT have been proposed as alternatives to chemotherapy or radiotherapy5–7, their pharmacokinetics hinder clinical applications owing to the risk of depleting transplanted HSPCs. Here, to address this issue, we identified amino acid changes in the extracellular domain of KIT that disrupt the binding of two therapeutic monoclonal antibodies8,9, which impair stem cell factor (SCF)-mediated signalling without affecting KIT expression or functionality. We exploited adenine base editing10 or prime editing11 to efficiently introduce these mutations in HSPCs and combined them with the disruption of the BCL11A erythroid enhancer to promote expression of fetal haemoglobin (HbF)12,13, a therapeutic approach for several haemoglobinopathies. This strategy enables in vivo co-selection of gene-engineered cells to reach the threshold required to provide therapeutic benefit in patients affected by sickle cell disease and β-thalassaemia. We show progressive enrichment of KIT plus BCL11A multiplex-edited haematopoiesis under selective pressure with KIT monoclonal antibody, in vitro and in vivo. We report that extended treatment with anti-KIT regimens leads to superior in vivo enrichment while avoiding clonal selection, as assessed by a lentiviral barcoded library. Finally, by overcoming the limitations of monoclonal antibody pharmacokinetics, epitope editing enables novel haematopoietic replacement regimens that are not limited by on-target graft elimination, allowing prolonged immune-based conditioning that maximizes haematopoietic niche clearance without chemo-radiotherapy or monoclonal antibody wash-out. Epitope editing of KIT enables antibody-based, non-genotoxic conditioning that selectively enriches therapeutic BCL11A-edited haematopoietic stem/progenitor cells, supports durable engraftment, preserves clonal diversity and enhances induction of fetal haemoglobin, a therapeutic approach for conditions such as sickle cell disease and β-thalassemia.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10737-8/MediaObjects/41586_2026_10737_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10737-8?error=cookies_not_supported&code=b9bfbdd7-9346-4c9c-905e-82784482568c",
-                "source": "Nature",
-                "date": "2026-07-08T15:36:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reinforcement learning control of quantum error correction",
-                "desc": "Quantum error correction (QEC) is the primary strategy for protecting a quantum computer from the environment1,2. The prerequisite of QEC is that errors must remain sufficiently rare, which requires perpetually adapting the control parameters of the computer to the drifting environmental conditions. The current solution to this problem is to terminate the entire quantum computation for recalibration, but it is incompatible with the long runtimes of future quantum algorithms3,4. Here we address this challenge by unifying calibration with computation. We grant the QEC process5–11 a dual role: its error-detection events are not only used to correct the logical quantum state but are also repurposed as a learning signal, teaching a reinforcement learning agent12–16 to continuously steer the control parameters and stabilize the quantum system during computation. We experimentally demonstrate this framework on a Willow superconducting processor, improving the logical stability of the surface code 3.5-fold against injected drift. By synthesizing our full suite of technological advances, we achieve record performance of the surface and colour codes, with average logical error per cycle of 7.72(9) × 10−4 and 8.19(14) × 10−3, respectively. Numerical simulations of large codes with tens of thousands of control parameters confirm the scalability of our RL framework, revealing an optimization speed that is independent of system size. This work thus enables a new paradigm: a quantum computer that learns from its errors and never stops computing. By integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced resilience to drift.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10759-2/MediaObjects/41586_2026_10759_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10759-2?error=cookies_not_supported&code=88dab3b4-1b61-41a8-b4b0-6152a8548546",
-                "source": "Nature",
-                "date": "2026-07-08T15:36:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reconfigurable mmWave microchips co-integrating hBN switches on GaN",
-                "desc": "Monolithic microwave integrated circuits (MMICs) are an emerging technology that is expected to substantially improve telecommunications in the next few years1,2. MMICs use application-specific semiconductors to meet the performance needs of 5G standards and beyond; however, integrating high-frequency switches into these platforms is very demanding in terms of area and cost and doing so is also a bottleneck for performance3. Memristive radio-frequency switches are an appealing alternative due to their easy fabrication and high device-level electrical performance, but their use in circuit implementations of MMICs has never been realized4. Here we demonstrate programmable millimetre-wave (mmWave) gallium nitride (GaN) MMICs fabricated with memristive radio-frequency switches made from two-dimensional layered hexagonal boron nitride (hBN) integrated directly on the back-end-of-line. We fabricated back-end-of-line wideband switches operating up to 100 GHz with insertion losses as low as 0.3 dB and isolation better than 15 dB. The switches delivered long-term state retention (2 weeks), stable on-state resistance at 175 °C, linear power handling within 0.28 dB measured up to 18 dBm, and an extrapolated 1-dB compression point mean of 30.52 dBm. We use one-transistor, one-memristor cell integration for the switch drivers, achieving 3,250 cycles of endurance, an improvement for two-dimensional-material-based memristive radio-frequency switches. Finally, we demonstrate the implementation of memristive-configurable attenuators, power dividers and programmable resonators on the GaN MMIC platform. Radio-frequency switches made from two-dimensional layered hexagonal boron nitride (hBN) were co-integrated on gallium nitride (GaN) microchips to build programmable millimetre-wave (mmWave) monolithic microwave integrated circuits suitable for 6G hardware.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10761-8/MediaObjects/41586_2026_10761_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10761-8?error=cookies_not_supported&code=6d7b5d12-9e99-41bc-bd71-c53dda590994",
-                "source": "Nature",
-                "date": "2026-07-08T15:36:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intergenerational mobility fosters innovation in Europe",
-                "desc": "The circumstances into which individuals are born can place fundamental constraints on their future economic opportunities1–5, leading to a mismatch between talent, education and occupation. One major determinant of this inequality of opportunity is the absence of intergenerational educational mobility2. Here we extend existing knowledge on intergenerational mobility by presenting The European Atlas of Spatially Disaggregated Intergenerational Mobility (EUROPE-IGM-ATLAS), a panel database comprising indicators of intergenerational mobility for European subnational regions. In doing so, we make two contributions. First, we extend existing knowledge on the development of intergenerational mobility in European regions. The EUROPE-IGM-ATLAS reveals several spatiotemporal trends that characterize the changing geography of opportunity in Europe. For example, we show that observed increases in intergenerational mobility primarily stem from improvements in educational achievements among individuals from families at the lower end of the educational distribution, with fewer changes in rank across the educational spectrum. However, these increases are not uniformly distributed. Regions with a high degree of educational inequality also exhibit lower levels of intergenerational mobility, implying the co-existence of inequality both within and between generations. Second, we use this database to provide evidence on the relationship between intergenerational mobility and innovation. We provide large-scale time-series evidence that European regions with higher intergenerational mobility achieve higher innovation outcomes, one important driver of economic growth. Subsets of results further indicate that this relationship is nonlinear and that distinct mechanisms operate in major innovation hubs. The EUROPE-IGM-ATLAS reveals spatiotemporal trends that characterize the changing geography of opportunity in Europe and its relationship with regional innovation.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10736-9/MediaObjects/41586_2026_10736_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10736-9?error=cookies_not_supported&code=61b90cd8-e065-4b7b-aca8-e417d7aeacb6",
-                "source": "Nature",
-                "date": "2026-07-08T15:36:12Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "A stacked $223 LEGO game collection on Steam is discounted to $9, and every title is Steam‑verified for smooth play on Deck and other handhelds",
+                "desc": "GreenManGaming has a killer bundle of 7 LEGO movie adventures packed with Star Wars, Jurassic World, The Incredibles, NINJAGO and more at up to 96% off",
+                "image": "https://cdn.mos.cms.futurecdn.net/AZ2SnpDfqpMb7DjawYyqwf-1920-80.jpg",
+                "url": "https://www.windowscentral.com/gaming/get-usd223-worth-of-steam-verified-lego-games-for-just-usd9-right-now",
+                "source": "Windows Central",
+                "date": "2026-07-08T19:38:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shark ChillPill portable misting fan deal drops price to $99.99",
+                "desc": "Save $30 on Shark's ChillPill portable misting fan with dry mist cooling, USB-C charging, 10 fan speeds, and up to 11 hours of runtime.",
+                "image": "https://s.hdnux.com/photos/01/66/62/26/31139216/3/rawImage.jpg",
+                "url": "https://www.sfgate.com/shopping/article/shark-chillpill-portable-fan-deal-22337594.php",
+                "source": "SFGATE",
+                "date": "2026-07-08T19:36:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These Skullcandy Headphones Will Save You Some Serious Bones at 52% Off",
+                "desc": "The Skullcandy Crusher Evo cans offer reliable sound quality and can be yours for $110 less thanks to Amazon's Deal of the Day.",
+                "image": "https://i.pcmag.com/imagery/articles/04hCfilAfxhHBJT0EPPyiFg-1.fit_lim.size_1200x630.v1783536220.png",
+                "url": "https://www.pcmag.com/deals/skullcandy-headphones-will-save-you-some-serious-bones-52-off-july-8",
+                "source": "PCMag",
+                "date": "2026-07-08T19:30:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Home is making it easier to get started with automations",
+                "desc": "Version 4.20 of the Google Home app adds preconfigured suggested automations that you can turn on with just a couple of taps.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2023/12/google-home-app-1-scaled.jpg",
+                "url": "https://www.androidauthority.com/google-home-suggested-automations-3685516/",
+                "source": "Android Authority",
+                "date": "2026-07-08T19:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
+                "desc": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.",
+                "image": "https://s.yimg.com/lo/mysterio/api/6564b7b49e7a00f919082d28c566a651c966821b593aaefb0a912ea8e75743ef/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fde214c62d80d1e21b2329bb4791e4734",
+                "url": "https://tech.yahoo.com/social-media/articles/slow-cial-app-roost-forces-192211186.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-08T19:22:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Slow-cial' app Roost forces you to slow down to the speed of a carrier pigeon",
+                "desc": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2158208817.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+                "source": "TechCrunch",
+                "date": "2026-07-08T19:22:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This startup thinks robotics is about to have its ChatGPT moment",
+                "desc": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+                "source": "TechCrunch",
+                "date": "2026-07-08T19:19:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI-Ready Infrastructure Boosts ARM Data Access",
+                "desc": "The ARM Data Center has been preparing its infrastructure, including the Cumulus high-performance computing cluster, for artificial intelligence",
+                "image": "https://www.ornl.gov/sites/default/files/styles/large/public/2026-07/ARM%20Data%20Center%20.jpg?itok=Gr5MHwdZ",
+                "url": "https://www.miragenews.com/ai-ready-infrastructure-boosts-arm-data-access-1707008/",
+                "source": "Mirage News",
+                "date": "2026-07-08T19:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why adversarial AI training is the new “Don’t Copy That Floppy”",
+                "desc": "AI theft vs. human creativity: Anthropic’s legal battle against Alibaba for IP theft reveals deep ironies in AI development.",
+                "image": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2026/07/08191534/mc-double-def.jpg",
+                "url": "https://www.spiceworks.com/articles/why-adversarial-ai-training-is-the-new-dont-copy-that-floppy/",
+                "source": "Spiceworks",
+                "date": "2026-07-08T19:17:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "board computer for tactical",
+                "desc": "HUNTSVILLE, Alabama. Abaco Systems introduced the SBC3618, a rugged 3U VPX single-board computer (SBC) built on Intel Core Ultra Series 3 processors for artificial intelligence (AI) processing at the tactical edge, the company announced in a statement.",
+                "image": "https://data.militaryembedded.com/uploads/resize/1256/756/external/data.militaryembedded.com/uploads/articles/primary_images/1783538074.jpg",
+                "url": "https://militaryembedded.com/unmanned/rugged-computing/3u-vpx-single-board-computer-for-tactical-edge-ai-released-by-abaco",
+                "source": "Military Embedded Systems",
+                "date": "2026-07-08T19:17:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Windows now shows which apps used on-device AI, and I'd check it right now",
                 "desc": "Who's using AI behind your back?",
@@ -1174,99 +1264,99 @@
                 "source": "TechCabal",
                 "date": "2026-07-08T15:55:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Razer Launches the Hammerhead V3 X Hyperspeed Earbuds for Xbox and PlayStation",
-                "desc": "Razer, the leading global lifestyle brand for gamers, today announced the Razer Hammerhead V3 X HyperSpeed for Xbox and the Razer Hammerhead V3 X HyperSpeed for PlayStation wireless gaming earbuds. Designed for competitive console play and everyday use, the lineup combines gaming-grade 2.4 GHz...",
-                "image": "https://www.techpowerup.com/img/5ial7YQiM8LRePE1.jpg",
-                "url": "https://www.techpowerup.com/350609/razer-launches-the-hammerhead-v3-x-hyperspeed-earbuds-for-xbox-and-playstation",
-                "source": "TechPowerUp",
-                "date": "2026-07-08T15:51:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Talaka Closed Beta Registration Now Open, Bringing Afro-Brazilian Mythology to a Hand-Painted Roguelite World",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Talaka-Closed-Beta-Registration-Now-Open-Bringing-Afro-Brazilian-Mytho",
-                "source": "Games Press",
-                "date": "2026-07-08T15:49:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Essential Browser Extension Hides All The Knockoff Brands On Amazon",
-                "desc": "If you're shopping a lot on Amazon and concerned about running into knockoffs, a new browser extension promises to help identify them before you buy.",
-                "image": "https://www.bgr.com/img/gallery/this-essential-browser-extension-hides-all-the-knockoff-brands-on-amazon/l-intro-1783525693.jpg",
-                "url": "https://www.bgr.com/2210571/free-browser-extension-removes-knockoffs-amazon/",
-                "source": "bgr.com",
-                "date": "2026-07-08T15:49:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Designer Alice Temperley Quits the Brand She Founded in 2000",
-                "desc": "The Temperley London brand said in a brief statement it plans to appoint a new leadership team and design director.",
-                "image": "https://wwd.com/wp-content/uploads/2023/11/Alice-Temperley1.jpg?crop=0px%2C126px%2C3060px%2C1714px&resize=1000%2C563",
-                "url": "https://wwd.com/fashion-news/fashion-features/designer-alice-temperley-quits-brand-founded-in-2000-1239058576/",
-                "source": "WWD",
-                "date": "2026-07-08T15:48:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sizing Up The First Generation Of Enterprise Agentic Assistants",
-                "desc": "Agentic assistants are changing knowledge work through a “Claude-ification” trend that is now coming to desktop agents for non-coders. But significant gaps remain.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4e6a4c48936586a17a07c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/moorinsights/2026/07/08/sizing-up-the-first-generation-of-enterprise-agentic-assistants/",
-                "source": "Forbes",
-                "date": "2026-07-08T15:48:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DuckDuckGo's Browser to Block YouTube Ads by Default",
-                "desc": "The browser is using filters from the uBlock Origin ad blocker to detect and block commercials on YouTube's website. But there is a trade-off.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/d/duckduckgo/duckduckgos-browser-to-block-youtube-ads-by-default_rde1.1200.jpg",
-                "url": "https://au.pcmag.com/video-streaming-services/118665/duckduckgos-browser-to-block-youtube-ads-by-default",
-                "source": "PCMag Australia",
-                "date": "2026-07-08T15:40:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A new invention helps paralyzed hands grasp objects again",
-                "desc": "What's the invention? Who created it? How does it work?",
-                "image": "https://www.deseret.com/resizer/v2/NCHURNLDUNHIRI2JUA4SU4CV5I.jpg?focal=0%2C0&auth=0b33f42284cf3c31712ded45759fffd77fb7af5fd3ce2a7778a2b91368c9b9c0&width=630&height=331",
-                "url": "https://www.deseret.com/lifestyle/2026/07/08/new-study-glove-paralyzed-hands/",
-                "source": "Deseret News",
-                "date": "2026-07-08T15:37:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Observation of Floquet rotational super-radiance",
-                "desc": "Time-driven systems provide a framework for controlling waves through spatio-temporal modulation, which enables the synthesis of effective motion without mechanical displacement1–7. Within this framework, travelling-wave modulations can emulate moving media and give rise to phenomena such as Doppler-induced non-reciprocity8–10. A related effect is the extraction of energy from rotating media, which has been theoretically predicted to occur when waves experience sufficiently large rotational Doppler shifts11–17. Experimental access to this regime has remained limited due to the extreme rotation speeds required in mechanically rotating systems18–21. Here we show that Floquet-induced rotation enables access to such ultrafast rotational regimes using purely spatio-temporal modulation. When spinning at effective superluminal speeds, angular-momentum bandgaps emerge in the band structure of the underlying space–time crystal. These gaps host parametric processes that efficiently extract energy from the Floquet-rotating medium, resulting in angular-momentum-selective amplification of orbital waves within a dissipation-shaped spectral bandwidth. We realize this effect experimentally in a ring network of time-modulated resonators, where we observe a Floquet regime of rotational super-radiance mediated by non-Hermitian and parametric dynamics in space–time structured media. These results demonstrate a controllable platform for studying rotational energy transfer and angular-momentum-dependent wave amplification in space–time-modulated media. A Floquet regime of rotational super-radiance has been observed in a spatiotemporally modulated ring network of resonators.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10725-y/MediaObjects/41586_2026_10725_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10725-y?error=cookies_not_supported&code=8a218cce-96db-406b-948c-b1f254dcde26",
-                "source": "Nature",
-                "date": "2026-07-08T15:36:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Universal cell embedding provides a foundation model for cell biology",
-                "desc": "Developing a universal representation space for cells that encompasses the tremendous molecular diversity of cell types across species would be transformative for cell biology. Recent work using single-cell transcriptomic approaches to create molecular definitions of cell types in the form of cell atlases has provided the necessary data for such an endeavour1–3. Here we present the universal cell embedding (UCE) foundation model. UCE was trained on a large corpus of cell data using self-supervision, creating a unified biological latent space that can represent cells across diverse tissues and species. This latent space captures important biological variation despite the presence of experimental noise. UCE’s universality means that new cells can be embedded with no data labelling, model training or fine-tuning. We used UCE to create the Integrated Mega-scale Atlas, embedding 36 million cells, with more than 1,000 uniquely named cell types, from hundreds of experiments, dozens of tissues and eight species. We gain insights into the organization of cell types and tissues within the space. UCE’s embedding space exhibits emergent behaviour, identifying biology that it was never trained for, such as identifying developmental lineages and embedding data from species that were not included in the training set. Overall, by enabling a universal representation for every cell state and type, UCE is a valuable tool for analysis, annotation and hypothesis generation over single-cell data. The universal cell embedding foundation model learns to capture the organization and variation of cells by training on 36 million cells from hundreds of experiments, dozens of tissues and eight species.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10689-z/MediaObjects/41586_2026_10689_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10689-z?error=cookies_not_supported&code=6db092ae-68ac-45e7-ad09-90762db6e909",
-                "source": "Nature",
-                "date": "2026-07-08T15:36:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Chrome will remove older Manifest V2 extensions in August",
-                "desc": "The death of Manifest V2 extensions on Google Chrome has been going on for well over four years at this...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/07/google-chrome-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/08/google-chrome-will-remove-older-manifest-v2-extensions-in-august/",
-                "source": "9to5Google",
-                "date": "2026-07-08T15:35:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Water back on in Bamako after electric line sabotage",
+                "desc": "Water was back on in Bamako on Wednesday, following sabotage to an electrical supply line that left much of the Malian capital without power for several days .",
+                "image": "https://cdn.modernghana.com/images/content/afp_bamakos_water_supply_had_been_disrupted_since_sunday.jpg",
+                "url": "https://www.modernghana.com/news/1508979/water-back-on-in-bamako-after-electric-line-sabota.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-08T19:32:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AU Harare Declaration Calls for Coordinated Action on Africa’s Debt Crisis",
+                "desc": "By Nevison Mpofu",
+                "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/nzomo.jpg",
+                "url": "https://panafricanvisions.com/2026/07/au-harare-declaration-calls-for-coordinated-action-on-africas-debt-crisis/",
+                "source": "pan african visions",
+                "date": "2026-07-08T19:30:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Denmark to Procure New Maritime Patrol Aircraft",
+                "desc": "Under Sub-Agreement 2 on the Arctic and the North Atlantic within the 2024–2033 Defence Agreement, it was decided that Denmark will establish a maritime patrol aircraft capability in cooperation with a NATO Ally in order to strengthen its presence in the Arctic and the North Atlantic.",
+                "image": "https://www.navalnews.com/wp-content/uploads/2021/09/Boeing-Awarded-Contract-for-Five-P-8A-Aircraft-for-Germany.jpg",
+                "url": "https://www.navalnews.com/naval-news/2026/07/denmark-to-procure-new-maritime-patrol-aircraft/",
+                "source": "navalnews.com",
+                "date": "2026-07-08T19:23:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Applied English: why the future of language learning is content, context and capability",
+                "desc": "English language teaching sits at a crossroads, write Alison McDonnell and Sandra Pitronaci. It's up to providers to get the balace right between practical skills and making sure students are equipped with the tools of the future.",
+                "image": "https://thepienews.b-cdn.net/wp-content/uploads/2026/07/ILSC_Sydney_CampusLife_2019_011-scaled.jpg",
+                "url": "https://thepienews.com/applied-english-why-the-future-of-language-learning-is-content-context-and-capability/",
+                "source": "The PIE News",
+                "date": "2026-07-08T19:23:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China Courts Nordic Countries as Trade Frictions With the EU Mount",
+                "desc": "China Courts Nordic Countries as Trade Frictions With the EU Mount - Beijing seeks to keep European markets open as a widening trade deficit and the war in Ukraine strain ties with the bloc.",
+                "image": "https://img.caixin.com/2026-07-08/178350869779989_560_373.jpg",
+                "url": "https://www.caixinglobal.com/2026-07-09/china-courts-nordic-countries-as-trade-frictions-with-the-eu-mount-102462127.html",
+                "source": "Caixin Global",
+                "date": "2026-07-08T19:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Burglars jailed for theft of Mounjaro worth £1m",
+                "desc": "The \"calculated\" theft of weight-loss drugs posed a serious health risk to the public, police say.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a5d7/live/82b0dc70-7aee-11f1-94d8-c95634a95d3e.jpg",
+                "url": "https://www.bbc.com/news/articles/ceqde4y4eryo",
+                "source": "BBC",
+                "date": "2026-07-08T19:22:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is 'over'",
+                "desc": "Oil prices rose, and stock markets dropped in shaky trading worldwide after President Donald Trump raised doubts about the temporary truce in the war with Iran.",
+                "image": "https://dims.apnews.com/dims4/default/8ae0919/2147483647/strip/true/crop/3847x2563+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2F20%2F11ced7dbe67f585f19fb0fb4a1fe%2F65d6d849792642189cef69bcf3e1dea5",
+                "url": "https://apnews.com/article/stocks-rates-oil-iran-ai-671d9c94b302f7db533f46baa18387d3",
+                "source": "AP News",
+                "date": "2026-07-08T19:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PABS: Finalise agreement against future pandemics, WHO tells member states",
+                "desc": "The World Health Organisation (WHO) director-general, Dr. Tedros Adhanom Ghebreyesus, has urged member states to finalise negotiations on the Pathogen Access",
+                "image": "https://blueprint.ng/wp-content/uploads/2025/09/995px-WHO_logo.svg_.png",
+                "url": "https://blueprint.ng/pabs-finalise-agreement-against-future-pandemics-who-tells-member-states/",
+                "source": "Blueprint Newspapers",
+                "date": "2026-07-08T19:19:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "East Africa pushes Kiswahili into digital era as leaders call for wider adoption",
+                "desc": "Bujumbura, Burundi | THE INDEPENDENT | East African leaders and language experts are calling for greater investment in Kiswahili’s digital future, arguing that the region’s most widely spoken language must evolve with artificial intelligence and technology to remain relevant in a changing global economy. The call was made during celebrations to mark World Kiswahili Day in …",
+                "image": "https://www.independent.co.ug/wp-content/uploads/2026/07/Dr.-Asiimwe-2.jpg",
+                "url": "https://www.independent.co.ug/east-africa-pushes-kiswahili-into-digital-era-as-leaders-call-for-wider-adoption/",
+                "source": "The Independent Uganda",
+                "date": "2026-07-08T19:17:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andy Burnham is styled as the everyman, but critics say Britain's next PM is a ruthless 'career politician'",
+                "desc": "For some, Andy Burnham's casual communication style is refreshing. Others say it's a carefully crafted facade, disguising the fact that he's a ruthless Labour Party lifer.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/0c38338021d390cba5940c491f13050b?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=58&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-09/andy-burnham-the-everyman-or-ruthless-politician/106878738",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-08T19:15:20Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Is Berlin a good city to visit? Why I go to this European capital every year",
                 "desc": "I cried when I first visited this European capital as a child. Now I visit every year to embrace its never-ending changes.",
@@ -1806,98 +1896,8 @@
                 "source": "Otago Daily Times",
                 "date": "2026-07-08T16:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nigerian Streamer Peller Allegedly Lands in FBI Trouble, Journalist Kemi Olunloyo Drops Details",
-                "desc": "Dr Kemi Olunloyo alleged that Peller's arrest was a staged FBI setup, claiming his bail conditions hinted at a bigger case being built against him.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/f65d060b226d3d29.jpeg?v=1",
-                "url": "https://yen.com.gh/entertainment/celebrities/307509-nigerian-streamer-peller-allegedly-lands-fbi-trouble-journalist-kemi-olunloyo-drops-details/",
-                "source": "Yen News",
-                "date": "2026-07-08T16:28:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carney's braggadocio and other things in Wall Street Journal article",
-                "desc": "PM's quips included “I have to deal with these guys every day\" and “We don’t have a relationship to keep!”",
-                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/2284462611_304149763.jpg",
-                "url": "https://nationalpost.com/news/canada/carneys-davos-speech-written-at-4-a-m-trumps-volatile-call-with-trudeau-and-other-things-we-learned-from-a-wall-street-journal-article",
-                "source": "National Post",
-                "date": "2026-07-08T16:28:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AIT says US policy, commitment to Taiwan unchanged amid TAO criticism",
-                "desc": "Bringing Taiwan to the World and the World to Taiwan",
-                "image": "https://img.taipeitimes.com/images/2026/07/09/p02-260709-webpic2CAAA.jpg",
-                "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/09/2003860461",
-                "source": "Taipei Times",
-                "date": "2026-07-08T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I have visited Russia every year since the Ukraine war began. The mood has changed",
-                "desc": "Fuel shortages are starting to bite across Russia – but is Putin heading for a Soviet-esque regime collapse?",
-                "image": "https://static.independent.co.uk/2026/07/03/16/Russia_Putin_59741.jpg?width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/travel/europe/russia-fuel-shortages-putin-ukraine-war-b3011343.html",
-                "source": "The Independent",
-                "date": "2026-07-08T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DFA flags China’s missile test in Pacific",
-                "desc": "The Philippines has raised concerns over China’s ballistic missile test in the Pacific Ocean and called on Beijing to exercise restraint and transparency.",
-                "image": "https://media.philstar.com/photos/2026/07/08/dfa42023-03-1221-31-422025-07-1622-16-162025-09-2422-09-04_2026-07-08_23-01-56.jpg",
-                "url": "https://www.philstar.com/headlines/2026/07/09/2540878/dfa-flags-chinas-missile-test-pacific",
-                "source": "Philstar.com",
-                "date": "2026-07-08T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Call for Applications: Concordis International 2026 Remote Programme Internship in Peacebuilding",
-                "desc": "Graduates and postgraduate students interested in peacebuilding, conflict resolution and international development have an opportunity to gain practical",
-                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/con.jpg",
-                "url": "https://www.globalsouthopportunities.com/2026/07/08/international-44/",
-                "source": "Global South Opportunities",
-                "date": "2026-07-08T15:57:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
-                "desc": "Travel stocks plunged as fuel costs rise, United Airlines fell 3 percent, while energy stocks saw gains.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4e5784b9a6-1783519108.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high",
-                "source": "Al Jazeera",
-                "date": "2026-07-08T15:56:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reopened, Not Restored: The Roadblocks to Normal Traffic Through the Strait of Hormuz",
-                "desc": "The U.S.-Iran ceasefire is on the verge of collapse, and with it any prospect of restoring normal traffic through the Strait of Hormuz. Even if the agreement holds, transit fees, sea mines, billions in infrastructure damage, and deep regional mistrust pose significant obstacles to a genuine recovery.",
-                "image": "https://res.cloudinary.com/dmovl8u5q/images/f_auto,q_auto/v1783453985/Hormuz_Tollbooth_02_Fishman/Hormuz_Tollbooth_02_Fishman.jpg?_i=AA",
-                "url": "https://www.cfr.org/articles/strait-of-hormuz-traffic-faced-a-long-road-to-recovery-now-the-iran-deal-is-unraveling",
-                "source": "Council on Foreign Relations",
-                "date": "2026-07-08T15:54:10Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Regime supporters and opposition share AI-generated images of Khamenei’s funeral",
-                "desc": "Pro-regime Iranians flocked to see the body of supreme leader Ayatollah Ali Khamenei as it lay in state in early July .",
-                "image": "https://cdn.modernghana.com/images/content/78202653617-m6itl8w331-cover8irna.jpg",
-                "url": "https://www.modernghana.com/news/1508941/regime-supporters-and-opposition-share-ai-generate.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-08T15:53:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa’s wildlife laws follow a colonial model which separates people and animals: Why it’s not working",
-                "desc": "The current outbreak was declared on 15 May and has spread in areas marked by active conflict, displacement and overstretched health services.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-08-125428.webp",
-                "url": "https://eastleighvoice.co.ke/africa/376846/africas-wildlife-laws-follow-a-colonial-model-which-separates-people-and-animals-why-its-not-working",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-08T15:48:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T07:00:42.610699Z"
+    "lastGlobalSync": "2026-07-09T07:40:42.487585Z"
 }
