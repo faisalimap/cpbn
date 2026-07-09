@@ -4,6 +4,24 @@
     "en": {
         "business": [
             {
+                "title": "Rebecca Teltscher’s Top Picks for July 8, 2026",
+                "desc": "Top Picks from Rebecca Teltscher, Portfolio Manager, Newhaven Asset Management",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/AVI5AGCCJ5D5NPVFRCHOS3RFRA.PNG?smart=true&auth=7b6c0e6932b4425a76091eef1f60c44008c842def294f33654d787679629d9f5&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/markets/2026/07/08/rebecca-teltschers-top-picks-for-july-8-2026/",
+                "source": "BNN Bloomberg",
+                "date": "2026-07-08T17:46:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alphabet Stock: Locking In Long-Term Rule Of 40 Supremacy",
+                "desc": "Alphabet Inc. looks like a Rule of 40 winner: 20.8% revenue growth, 31.9% margins, strong web traffic, and AI tailwinds. Click for this GOOG update.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1092952108/image_1092952108.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4920679-alphabet-stock-locking-in-long-term-rule-of-40-supremacy",
+                "source": "Seeking Alpha",
+                "date": "2026-07-08T17:46:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "749-square-foot San Jose ADU condo sells for $530K; first-of-its-kind for CA",
                 "desc": "In a first-of-its-kind sale for California, a San Jose ADU condo just sold for $530,000.",
                 "image": "https://cdn.abcotvs.com/dip/images/19466231_070826-kgo-san-jose-adu-img.jpg?w=1600",
@@ -613,24 +631,6 @@
                 "url": "https://www.theguardian.com/thefilter/2026/jul/08/beginners-guide-parkrun-uk",
                 "source": "The Guardian",
                 "date": "2026-07-08T14:00:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Waymo starts driverless rides in San Diego, Las Vegas, Tampa, Denver",
-                "desc": "Waymo has a big lead in the nascent U.S. robotaxi market, and is opening up in more cities.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108331727-1783458801550-gettyimages-2285112992-_04a1429_vnvpqb9y.jpeg?v=1783458850&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/waymo-starts-driverless-rides-in-san-diego-las-vegas-tampa-denver.html",
-                "source": "CNBC",
-                "date": "2026-07-08T14:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX Stock: Is It a Buy at $150?",
-                "desc": "Investors can now buy the stock at about the same price it traded at when it first began trading.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877489%2Fa-persons-finger-on-a-spaceship-showing-a-rising-stock-price.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/08/spacex-stock-has-the-hype-faded/",
-                "source": "The Motley Fool",
-                "date": "2026-07-08T14:00:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1268,6 +1268,33 @@
         ],
         "world": [
             {
+                "title": "Judge orders Trump's $5m damages be released to E Jean Carroll",
+                "desc": "The Supreme Court declined to hear his appeal of the case, but Trump still sought to delay the payment.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19ca/live/7bcd74e0-7af3-11f1-94d8-c95634a95d3e.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c05yq5nmqvno",
+                "source": "BBC",
+                "date": "2026-07-08T17:47:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge orders Trump's $5m damages be released to E Jean Carroll",
+                "desc": "The Supreme Court declined to hear his appeal of the case, but Trump still sought to delay the payment.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/19ca/live/7bcd74e0-7af3-11f1-94d8-c95634a95d3e.jpg",
+                "url": "https://www.bbc.com/news/articles/c05yq5nmqvno",
+                "source": "BBC",
+                "date": "2026-07-08T17:47:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge orders Trump’s $5.8M payment to E Jean Carroll after series of court losses in sex-abuse case",
+                "desc": "‘Unrecoverable loss’ of millions of dollars will cause the president ‘irreparable harm,’ president’s lawyers say",
+                "image": "https://static.independent.co.uk/2026/06/29/14/2026-06-29T133213Z_174781466_RC23V9AY56WA_RTRMADP_3_USA-COURT-TRUMP-CARROLL.JPG?trim=96,0,96,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-pay-e-jean-carroll-verdict-supreme-court-b3011337.html",
+                "source": "The Independent",
+                "date": "2026-07-08T17:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Trump tempers fury with allies and ends 'tremendously successful' NATO summit on high note",
                 "desc": "European leaders showcased their surging defence spending at the summit as they looked to convince Trump they're making good on a pledge to ramp up budgets and take more responsibility for their own security.",
                 "image": "https://images.euronews.com/articles/stories/09/83/06/43/1200x675_cmsv2_924c0579-9116-5672-b654-9545a5a6faaa-9830643.jpg",
@@ -1869,35 +1896,8 @@
                 "source": "voice-online.co.uk",
                 "date": "2026-07-08T14:30:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Search underway after Boeing 737 cargo plane goes missing off Pakistan coast",
-                "desc": "The aircraft was observed on radar rapidly descending with a heading change before radar and communication were lost, Pakistan aviation authorities said.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Boeing-737-aircraft-missing.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11957900/search-underway-missing-boeing-737-cargo-plane-pakistan/",
-                "source": "Global News",
-                "date": "2026-07-08T14:27:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran to close Strait of Hormuz, strike twice as many targets in response to any US attack: Source",
-                "desc": "Iran has warned that it will close the Strait of Hormuz and strike twice as many targets in response to any fresh attack, following recent US strikes on Iranian coastal areas, a source told Press TV on Wednesday.",
-                "image": "https://cdn.presstv.ir/Photo/2026/7/8/45b5af59-7c2c-413f-a4a2-34c5aa0f96f0.jpg",
-                "url": "https://www.presstv.ir/Detail/2026/07/08/771848/iran-close-strait-hormuz-strike-twice-many-targets-response-new-us-attack-source",
-                "source": "PressTV",
-                "date": "2026-07-08T14:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Ukraine’s devastating drone attacks triggered Russia’s fuel shortage crisis",
-                "desc": "Ukraine’s persistent drone attacks have crippled Russian oil refineries across the country",
-                "image": "https://static.independent.co.uk/2026/06/18/09/2281549198..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/europe/russia-fuel-shortages-ukraine-drone-attacks-energy-b3010966.html",
-                "source": "The Independent",
-                "date": "2026-07-08T14:25:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T05:45:35.035577Z"
+    "lastGlobalSync": "2026-07-09T05:48:21.811995Z"
 }
