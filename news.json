@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "U.S. Biotechs Are Keeping More Secrets to Beat Copycats in China",
+                "desc": "Western biotechs get a new playbook with tighter controls to stay ahead of an ultraefficient pharmaceutical pipeline overseas",
+                "image": "https://images.wsj.net/im-70375137/social",
+                "url": "https://www.wsj.com/tech/biotech/u-s-biotechs-are-keeping-more-secrets-to-beat-copycats-in-china-e2d62868",
+                "source": "WSJ",
+                "date": "2026-07-10T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mizuho targets Korea, India hires to join top dealmaking ranks",
+                "desc": "The bank aims to become Asia’s top investment bank in as soon as five years, mainly by strengthening its equity underwriting and M&A advisory operations.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/10/550933.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/10/companies/mizuho-india-korea/",
+                "source": "The Japan Times",
+                "date": "2026-07-10T01:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telstra CEO Vicki Brady 'deeply sorry' for national outage, says investigations are ongoing",
+                "desc": "Telstra chief executive Vicki Brady apologises to the company's customers, saying the telco let them down and that investigations into the cause of Wednesday's Telstra outage are continuing.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/5b4a0eb20036b978f8e7d089d2f37842?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-10/telstra-ceo-vicki-brady-sorry-outage-investigations-ongoing/106901388",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-10T01:52:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "El Niño, prolonged Middle East war seen keeping Philippine inflation elevated",
+                "desc": "Headline inflation could stay above the Philippine central bank’s target for longer if price pressures worsen amid the looming El Niño season, renewed Middle East conflict, and a potential de-anchoring of inflation expectations.",
+                "image": "https://wealthinsights.metrobank.com.ph/assets/rice_worker_6d5f02c7a6.jpg",
+                "url": "https://wealthinsights.metrobank.com.ph/news/el-nino-prolonged-middle-east-war-seen-keeping-philippine-inflation-elevated",
+                "source": "Metrobank Wealth Insights",
+                "date": "2026-07-10T01:50:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In Malaysia, more consumers trading entertainment for validation on Xiaohongshu",
+                "desc": "KUALA LUMPUR, July 10 — For a growing number of Malaysian consumers, the journey to buying a new skincare product or decorating a home no longer begins with a Google search or a...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/10/351158.jpg",
+                "url": "https://www.malaymail.com/news/life/2026/07/10/in-malaysia-more-consumers-trading-entertainment-for-validation-on-xiaohongshu/227043",
+                "source": "Malay Mail",
+                "date": "2026-07-10T01:50:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "K-drama Teach You A Lesson sparks China frenzy despite official block",
+                "desc": "Netflix does not officially operate in mainland China due to government restrictions. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a53e99e9094c2ee04e6ae78196645f6c80d9f4cd7a7e1a870a33a90773207c94",
+                "url": "https://www.straitstimes.com/life/entertainment/k-drama-teach-you-a-lesson-sparks-china-frenzy-despite-official-block",
+                "source": "The Straits Times",
+                "date": "2026-07-10T01:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PH Specs, Features, Prices",
+                "desc": "Hyundai Motor Philippines has officially launched the Staria Hybrid in the country with a starting price of P1.999 million. See specs and features here.",
+                "image": "http://images.topgear.com.ph/topgear/images/2026/07/10/staria-hybrid-main-image-2-1783640426.webp",
+                "url": "https://www.topgear.com.ph/features/feature-articles/hyundai-staria-hybrid-2027-specs-features-prices-a6938-20260710?ref=home_feed_1",
+                "source": "Top Gear Philippines",
+                "date": "2026-07-10T01:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lenders seek $700 million after Japanese payments firm’s collapse",
+                "desc": "The financial failure of Osaka-based Zentoshin has left 63 creditors with claims totaling ¥115.16 billion.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/09/550842.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/10/companies/lenders-700m-payment-firm-collapse/",
+                "source": "The Japan Times",
+                "date": "2026-07-10T01:49:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
                 "title": "B.C. government approves higher Mount Polley tailings dam, 12 years after disaster",
                 "desc": "Ministers in British Columbia have approved plans to increase the height of the tailings storage facility at the Mount Polley copper and gold mine, the site of a catastrophic dam collapse more than a decade ago.",
                 "image": "https://www.castanet.net/content/2026/7/8c2586fbb6dc0c95c5a6287a3ca888776c531112b8e13e110a9ea4f1ea943f5d.jpg",
@@ -560,81 +632,54 @@
                 "source": "Business Insider",
                 "date": "2026-07-09T22:43:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "David Mignot says MultiChoice now fully integrated into Canal+ Group",
-                "desc": "David Mignot, chief executive officer (CEO) of Canal+ Africa, says MultiChoice has become a full subsidiary of the French media company following its full integration into the group.",
-                "image": "https://www.thecable.ng/wp-content/uploads/2022/04/MultiChoice-head-office.png",
-                "url": "https://www.thecable.ng/david-mignot-says-multichoice-now-fully-integrated-into-canal-group/",
-                "source": "TheCable",
-                "date": "2026-07-09T22:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disney+ Explores a Free Tier As YouTube Draws TV Viewers",
-                "desc": "Disney is discussing a free tier for Disney+ as US TV viewers embrace no-cost streamers like YouTube.",
-                "image": "https://i.insider.com/6a501cead3a449ec3445ffc3?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/disney-discusses-free-tier-viewers-youtube-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-09T22:30:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "tech push to prepare for a perilous bushfire season",
-                "desc": "From virtual reality training to drones, these tools are helping firefighters prepare for a fast-approaching, potentially severe bushfire season.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/afe1358f9b6c26e3ef915cd48e85e456?impolicy=wcms_watermark_news&cropH=488&cropW=867&xPos=187&yPos=53&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-10/erica-fire-brigade-vr-firefighting-training-fires/106831020",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-09T22:30:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI launches its new family of models with GPT-5.6",
-                "desc": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-                "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
-                "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-                "source": "TechCrunch",
-                "date": "2026-07-09T22:24:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jim Cramer says investors are making a mistake with the trillion-dollar tech giants",
-                "desc": "CNBC's Jim Cramer said that investors are making a mistake when comparing all the \"Magnificent Seven\" companies when they all have vastly different businesses.",
-                "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/09/jim-cramer-investors-making-mistake-trillion-dollar-tech-giants.html",
-                "source": "CNBC",
-                "date": "2026-07-09T22:21:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Officials cheer Anthropic’s expansion in Manhattan",
-                "desc": "The maker of the Claude chatbot said it's doubling its New York City workforce this year, growing to about 1,000 employees.",
-                "image": "https://s7d2.scene7.com/is/image/TWCNews/anthropic_website_ap_ca_0226",
-                "url": "https://ny1.com/nyc/all-boroughs/politics/2026/07/09/officials-cheer-anthropic-s-expansion-in-manhattan",
-                "source": "Spectrum News NY1",
-                "date": "2026-07-09T22:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Data Labeler Mercor In Talks To Raise $500 Million At $20 Billion Valuation",
-                "desc": "If the round closes as expected later this month, the startup’s three 23-year-old cofounders would be worth an estimated $4.3 billion apiece.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a501cdc874209de3bb6a1e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/richardnieva/2026/07/09/mercor-fundraise/",
-                "source": "Forbes",
-                "date": "2026-07-09T22:19:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Banks increase rates after OCR rise - so what's ahead?",
-                "desc": "ASB, BNZ, Westpac and Kiwibank have all now made adjustments to their floating interest rates, in the wake of this week's official cash rate increases.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--i5DWIf3W--/t_tohu-badge-facebook/f_auto/q_auto/4LHTQG4_reserve_ocr_jpg",
-                "url": "https://www.rnz.co.nz/news/personal-finance/696249/banks-increase-rates-after-ocr-rise-so-what-s-ahead",
-                "source": "RNZ",
-                "date": "2026-07-09T22:17:52Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "time stem separation plugin",
+                "desc": "zplane's PEEL STEMS 2 cuts stem separation latency by 49% to 245ms, with improved audio quality and a redesigned interface.",
+                "image": "https://mixdownmag.com.au/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-11.51.10-am.png",
+                "url": "https://mixdownmag.com.au/news/zplane-cuts-stem-separation-latency-by-49-with-peel-stems-2/",
+                "source": "Mixdown Magazine",
+                "date": "2026-07-10T01:57:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft warns customers AI will mean busier Patch Tuesdays",
+                "desc": "More patches mean more reasons to buy Redmond’s auto-patching tools",
+                "image": "https://image.theregister.com/248668.jpg?imageId=248668&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618",
+                "source": "The Register",
+                "date": "2026-07-10T01:56:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HMD introduces new phone with 3.5mm headphone jack for ~$68",
+                "desc": "HMD has introduced the Arc 2 as a new entry-level smartphone in Thailand. The phone features a 6.52-inch display, a 5,000mAh battery, and a starting price of THB 2,290 (~$68).",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/hmd-arc-2.png",
+                "url": "https://www.notebookcheck.net/HMD-introduces-new-phone-with-3-5mm-headphone-jack-for-68.1338876.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-10T01:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taboola expands partnership with Oppo and Realme to enhance news offerings",
+                "desc": "Taboola has expanded its partnership with OPPO and realme to include millions more devices in India and Thailand. The collaboration aims to enhance user engagement through integrated news recommendations on smartphone lockscreens.The announcement: Taboola (NASDAQ: TBLA), today announced deepened partnerships with OPPO and its subsidiary realme, two of the largest smartphone manufacturers in the world. […]",
+                "image": "https://mumbrella.com.au/wp-content/uploads/2026/07/Adam-Singolda_16x9.jpg",
+                "url": "https://mumbrella.com.au/taboola-expands-partnership-with-oppo-and-realme-to-enhance-news-offerings-929060",
+                "source": "Mumbrella",
+                "date": "2026-07-10T01:50:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nothing Stuffed a Voice Recorder Into Its Budget-Friendly Ear (3a) Earbuds",
+                "desc": "All that recording magic runs on 32 megabytes of storage. Yes, megabytes.",
+                "image": "https://cdn.hiconsumption.com/wp-content/uploads/2026/07/Nothing-Ear-3a-0-Hero.jpg",
+                "url": "https://hiconsumption.com/tech/nothing-ear-3a-wireless-earbuds/",
+                "source": "HiConsumption",
+                "date": "2026-07-10T01:50:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Assassin's Creed Black Flag Resynced has $80 worth of cosmetics and time-saving DLC",
                 "desc": "Ubisoft's latest Assassin's Creed Black Flag Resynced release has microtransactions that total up to more than the price of the actual game itself.",
@@ -1219,54 +1264,63 @@
                 "source": "Lifehacker",
                 "date": "2026-07-09T21:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Galaxy Z Flip 8 might be the last Galaxy Z Flip phone from Samsung",
-                "desc": "Tipster Ice Universe claims the Galaxy Z Flip 8 could be the last small foldable phone Samsung ever makes.",
-                "image": "https://cdn.mos.cms.futurecdn.net/eYx5LNjvm63eMxc7P7nuNP-2560-80.jpg",
-                "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-flip-8-might-be-the-last-galaxy-z-flip-phone",
-                "source": "Android Central",
-                "date": "2026-07-09T21:28:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canceling Earbuds 2026",
-                "desc": "Sometimes, silence is golden—and the best noise-canceling earbuds help you relax while blotting out noise around you. Here are my six picks, after testing.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fc2a613e6555576d6a4ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-noise-canceling-earbuds/",
-                "source": "Forbes",
-                "date": "2026-07-09T21:27:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How researchers accidentally found a large-scale threat platform",
-                "desc": "Researchers were investigating another threat to cybersecurity when they found a large scale adversary-in-the-middle (AiTM) attack.",
-                "image": "https://cdn.sanity.io/images/bl383u0v/production/dc19647caef0c5f8c338fdd03f8d40bbee2335cf-7200x3926.jpg?rect=0,73,7200,3780&w=1200&h=630&q=70&fit=crop&auto=format",
-                "url": "https://www.itbrew.com/stories/large-scale-threat-platform-accident",
-                "source": "IT Brew",
-                "date": "2026-07-09T21:26:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI wants its new tool to do your work for you and with you",
-                "desc": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gptwork-1152x648-1783630571.webp",
-                "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-                "source": "Ars Technica",
-                "date": "2026-07-09T21:25:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Health Finally Recognizes the Value of Naps",
-                "desc": "A 20-minute nap will count toward your daily sleep total. But is a quick power nap worth it?",
-                "image": "https://www.cnet.com/a/img/resize/6e1681aff37cf18f846e6fa541e68258fdbe51fa/hub/2026/07/09/0ab59375-7dbb-46b5-86cb-d6519b8116fe/gettyimages-2249649681.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/health/sleep/google-health-naps-update/",
-                "source": "CNET",
-                "date": "2026-07-09T21:24:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Man killed by ICE agents not intended target of immigration arrest, DHS says",
+                "desc": "Agents seeking different person when they killed Lorenzo Salgado Araujo, Mexican who had lived in US for 35 years",
+                "image": "https://i.guim.co.uk/img/media/a2bdac32bfebba74e2d7d547253f28b75d95c533/1528_0_7890_6310/master/7890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eceff4133a00f53eb9d8baf80a534047",
+                "url": "https://www.theguardian.com/us-news/2026/jul/09/houston-man-killed-ice-agents",
+                "source": "The Guardian",
+                "date": "2026-07-10T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASEAN hotspot count surges to 86 percent as El Niño raises haze concerns",
+                "desc": "The warning was made during the 27th Meeting of the Sub-Regional Ministerial Steering Committee on Transboundary Haze Pollution in Bali, on Thursday, attended by ministers and senior officials from Brunei Darussalam, Indonesia, Malaysia, Singapore, Thailand, and Timor-Leste.",
+                "image": "https://asianews.network/wp-content/uploads/2026/07/1000541263.jpg",
+                "url": "https://asianews.network/asean-hotspot-count-surges-to-86-percent-as-el-nino-raises-haze-concerns/",
+                "source": "Asia News Network",
+                "date": "2026-07-10T01:56:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wildfires in southern Spain kill 12 amid soaring temperatures",
+                "desc": "Wildfire comes as Spain suffers a heatwave, with scorching temperatures triggering orange weather warnings",
+                "image": "https://i.guim.co.uk/img/media/788e8308e832f313fd2a9c9fcf8e929c2414ead2/444_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6ee90b02ed7f9f478e2c6684d615413",
+                "url": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
+                "source": "The Guardian",
+                "date": "2026-07-10T01:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bonfire lit ahead of PSNI removal of mosque replica",
+                "desc": "A loyalist bonfire has been lit a day early as police began an operation to remove a replica of a mosque from the top of the pyre.",
+                "image": "https://www.rte.ie/images/0024ab6f-1600.jpg",
+                "url": "https://www.rte.ie/news/ulster/2026/0710/1582685-tyrone-bonfire-mosque/",
+                "source": "RTE.ie",
+                "date": "2026-07-10T01:52:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From China to UAE: Asia's tourism boom fuels wave of visa relaxations",
+                "desc": "As competition for foreign visitors intensifies in 2026, countries across Asia are expanding visa-free entry, waiving visa fees, and extending stay limits. - VnExpress International",
+                "image": "https://vcdn1-english.vnecdn.net/2026/07/07/a177-1783410543-3985-1783410639.png?w=680&h=0&q=100&dpr=1&fit=crop&s=PetqEz7PZA-7A6AqcIfG2Q",
+                "url": "https://e.vnexpress.net/news/travel/visa/from-china-to-uae-asia-s-tourism-boom-fuels-wave-of-visa-relaxations-5094563.html",
+                "source": "VnExpress International",
+                "date": "2026-07-10T01:51:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Florida airport officially renamed after Donald Trump; US President calls it ‘a very big day’",
+                "desc": "US News: A South Florida airport officially changed its name on Thursday to President Donald J. Trump International Airport, replacing the long-standing Palm B.",
+                "image": "https://static.toiimg.com/thumb/msid-132300920,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/florida-airport-officially-renamed-after-donald-trump-us-president-calls-it-a-very-big-day/articleshow/132300877.cms",
+                "source": "The Times of India",
+                "date": "2026-07-10T01:49:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
                 "desc": "Israeli strike killed Mohammed al-Wahidi and three others on the eve of the Egypt vs Argentina match on Tuesday.",
@@ -1842,62 +1896,8 @@
                 "source": "MS NOW",
                 "date": "2026-07-09T21:07:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Japanese Aid Boosting Education, Health, and More in Chuuk, Micronesia",
-                "desc": "JICA has a long history of dispatching specialists to Micronesia. The educational, health-related, and other assistance they provide is more important than ever at a time when US foreign aid is being pulled back. A look at three Japanese volunteers on the ground in this island nation.",
-                "image": "https://www.nippon.com/en/ncommon/contents/japan-topics/3036056/3036056.jpg",
-                "url": "https://www.nippon.com/en/japan-topics/g02603/",
-                "source": "nippon.com",
-                "date": "2026-07-09T21:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japanese Aid Boosting Education, Health, and More in Chuuk, Micronesia",
-                "desc": "JICA has a long history of dispatching specialists to Micronesia. The educational, health-related, and other assistance they provide is more important than ever at a time when US foreign aid is being pulled back. A look at three Japanese volunteers on the ground in this island nation.",
-                "image": "https://www.nippon.com/en/ncommon/contents/japan-topics/3036056/3036056.jpg",
-                "url": "https://www.nippon.com/en/japan-topics/g02603/japanese-aid-boosting-education-health-and-more-in-chuuk-micronesia.html",
-                "source": "nippon.com",
-                "date": "2026-07-09T21:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Johor’s investment surge: Where are the benefits for voters?",
-                "desc": "Johor sees record investment, but residents question the tangible economic benefits and improved infrastructure for their daily lives. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d7914eddd48901611cec755df0ab3d80fdc6a747b35765d8e703f6112dd6c898",
-                "url": "https://www.straitstimes.com/asia/se-asia/johors-investment-surge-has-voters-asking-where-are-the-benefits",
-                "source": "The Straits Times",
-                "date": "2026-07-09T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hawaii's famous “happy-face” spider has a surprising relative",
-                "desc": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
-                "image": "https://www.sciencedaily.com/images/1920/happy-face-spider.webp",
-                "url": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm",
-                "source": "ScienceDaily",
-                "date": "2026-07-09T20:58:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hawaii's famous “happy-face” spider has a surprising relative",
-                "desc": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
-                "image": "https://www.sciencedaily.com/images/1920/happy-face-spider.webp",
-                "url": "http://www.sciencedaily.com/releases/2026/07/260709160627.htm",
-                "source": "ScienceDaily",
-                "date": "2026-07-09T20:58:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South African protesters go door-to-door forcing immigrants from their homes",
-                "desc": "Groups of anti-immigration South Africans seized foreigners from their homes in Johannesburg on Thursday ​and handed them to police in a hardening of protests that have sown fear ‌in communities and strained ties with some countries.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260709-south-africa-anti-immigration-vl-257p-b8e535.jpg",
-                "url": "https://www.nbcnews.com/world/africa/south-african-protesters-forcing-immigrants-homes-rcna353747",
-                "source": "NBC News",
-                "date": "2026-07-09T20:58:38Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T13:45:45.371405Z"
+    "lastGlobalSync": "2026-07-10T14:00:20.685664Z"
 }
