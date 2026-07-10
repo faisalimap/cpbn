@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "‘A godsend on a hot train’: your top tips for beating the heat this summer",
+                "desc": "From thermal blinds to putting your knickers in the fridge, here are the clever – and surprising – ways Filter readers are keeping cool as the UK swelters",
+                "image": "https://i.guim.co.uk/img/media/db157c17f70fca3aa59ff499d76977e70bae111e/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVrLnBuZw&enable=upscale&s=7415eb72e7d58cfe8c36088192082cae",
+                "url": "https://www.theguardian.com/thefilter/2026/jul/09/readers-tips-staying-cool-hot-weather",
+                "source": "The Guardian",
+                "date": "2026-07-09T14:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Up to 100 gigawatts: China unveils its high-power microwave weapon arsenal",
+                "desc": "Defence scientists say the technology could threaten low Earth orbit satellite networks such as Starlink at an extremely low cost.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/b39771a1-793d-4f60-a4a2-2f3a9c395b8f_36b215c9.jpg?itok=91poNPEE&v=1783591511",
+                "url": "https://www.scmp.com/news/china/science/article/3360000/100-gigawatts-china-unveils-its-high-power-microwave-weapon-arsenal",
+                "source": "South China Morning Post",
+                "date": "2026-07-09T14:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "June home sales disappoint as prices reach an all-time high",
+                "desc": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108290688-1776108462847-gettyimages-2271185271-_73a8368_orwebggl.jpeg?v=1776108562&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
+                "source": "CNBC",
+                "date": "2026-07-09T14:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta jumps into AI coding market to chase Anthropic and OpenAI",
+                "desc": "Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108317329-1780663279355-gettyimages-2279132083-BLOOMBERG_TECH.jpeg?v=1780663408&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+                "source": "CNBC",
+                "date": "2026-07-09T14:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta says its new AI model is ready to compete on coding",
+                "desc": "Meta’s new Muse Spark 1.1 AI model is available to US developers through the Meta Model API’s public preview.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+                "source": "The Verge",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s consumer protection head has earned grudging respect - but does he have the authority to do his job?",
+                "desc": "Chris Mufarrige has taken aim at Facebook scams and junk fees, but consumer advocates say he has an uphill climb",
+                "image": "https://i.guim.co.uk/img/media/f3fbf905ccb66da335722799395124da8c28dc52/745_0_4455_3566/master/4455.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a543c053edaf403c9664f56d826870d",
+                "url": "https://www.theguardian.com/us-news/2026/jul/09/trump-ftc-consumer-protection-chris-mufarrige",
+                "source": "The Guardian",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Costco accused in lawsuit of selling protein powder ‘tainted’ with toxic heavy metals",
+                "desc": "Seven consumers sue the retailer, alleging it violated consumer protection and false advertising laws",
+                "image": "https://i.guim.co.uk/img/media/060f2731e189f3969eb61c0404ecef23930f2c33/432_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67e7660f212fab1f67c1402c58e9d71c",
+                "url": "https://www.theguardian.com/us-news/2026/jul/09/costco-lawsuit-protein-powder",
+                "source": "The Guardian",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flight of fancy: San Francisco moves to build private luxury airport terminal",
+                "desc": "City seeking bids to build and operate separate terminal, following Los Angeles, London and other cities",
+                "image": "https://i.guim.co.uk/img/media/2e605511844345112dddf54229c4fe88455c359c/869_39_3131_2505/master/3131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5bea80fd2ec235ec6dfb43c8321d3e9",
+                "url": "https://www.theguardian.com/us-news/2026/jul/09/san-francisco-airport-private-terminal",
+                "source": "The Guardian",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New pipeline clears path for Israel’s biggest gas export deal with Egypt",
+                "desc": "The Ashdod-Ashkelon connection will increase Leviathan export capacity by 43% as Israel moves to expand deliveries under a $35 billion agreement.",
+                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/02/03/Sy5v551vZl/Sy5v551vZl_0_0_3000_1689_0_large.jpg",
+                "url": "https://www.calcalistech.com/ctechnews/article/ib4ae5mtk",
+                "source": "CTech",
+                "date": "2026-07-09T13:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Fed Minutes Reinforce A Hawkish Outlook",
+                "desc": "Fed minutes highlight persistent inflation, restrictive policy, and rising 2-year yields. Here's what investors need to know.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2285140217/image_2285140217.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4920773-the-fed-minutes-reinforce-a-hawkish-outlook",
+                "source": "Seeking Alpha",
+                "date": "2026-07-09T13:55:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
                 "title": "Google launches new shopping solutions to boost video commerce and brand-creator partnerships in the Philippines",
                 "desc": "During the Google Marketing Live Southeast Asia in Singapore, one of the biggest gatherings of brands and advertisers in the region, Google put a spotlight on...",
                 "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/09/114964.webp",
@@ -542,99 +632,99 @@
                 "source": "Punch Newspapers",
                 "date": "2026-07-09T02:37:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Private ‘school’ linked to failed influencer sells for $700,000 - almost $300k below RV",
-                "desc": "Only one bidder put up their hand at mortgagee auction of lifestyle block., All things property, under OneRoof",
-                "image": "https://s.oneroof.co.nz/image/1c/be/1cbe50c2c42fac239b1e4c4cba94b3c3.jpg?x-oss-process=image/quality,q_80",
-                "url": "https://www.oneroof.co.nz/news/unconsented-school-linked-to-failed-property-flipper-sells-at-mortgagee-auction-49837",
-                "source": "OneRoof",
-                "date": "2026-07-09T02:34:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks to watch, July 9: HFCL, TCS, GM Breweries, Anand Rathi Wealth, oil-senstives, Heritage Foods, NALCO",
-                "desc": "The June quarter earnings season for the fiscal year 2026-27 (Q1 FY27) starts today. As many as 10 companies are scheduled to release their quarterly numbers today, including IT services major Tata Consultancy Services (TCS). GM Breweries and Anand Rathi Wealth are also slated to release their Q1 earnings today.",
-                "image": "https://assets.upstox.com/content/assets/images/news/stock-to-watch-july-09.webp",
-                "url": "https://upstox.com/news/market-news/stocks/stocks-to-watch-july-9-hfcl-tcs-gm-breweries-anand-rathi-wealth-oil-linked-stocks-heritage-foods-antony-waste/article-196596/",
-                "source": "Upstox",
-                "date": "2026-07-09T02:31:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Truecaller clashes with India's telecom regulator over anti-spam rules",
-                "desc": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/07/truecaller-ceo-rishit-jhunjhunwala_image.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
-                "source": "TechCrunch",
-                "date": "2026-07-09T02:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shoppers splurge on spectacles in Japan as deflation-era mindset fades away",
-                "desc": "Tokyo-based lensmaker JINS, a household name for cheap chic, is moving upscale and also expanding overseas. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6326e1f202ce72102f706dd518e4b68a1f18541089d11dad30e4fa7413b1e335",
-                "url": "https://www.straitstimes.com/asia/east-asia/shoppers-splurge-on-spectacles-in-japan-as-deflation-era-mindset-fades-away",
-                "source": "The Straits Times",
-                "date": "2026-07-09T02:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IMF downgrades economic growth forecast for Australia",
-                "desc": "The International Monetary Fund has downgraded its forecast of Australia’s economic growth from 2 per cent to 1.9 per cent this year.",
-                "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/dd2ab972262d2fafc59c3a7c2f58a86f2439f7c1",
-                "url": "https://www.nine.com.au/australia-news/grim-warning-as-global-firm-downgrades-aussie-economy-20260709-p60dvu.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-09T02:28:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Keeper Security hits USD $225 million ARR on AI demand",
-                "desc": "Rising demand for AI-era identity controls has lifted the cybersecurity group to USD $225 million in annual recurring revenue.",
-                "image": "https://securitybrief.asia/uploads/story/2026/07/09/compatible_secure-digital-lock-cybersecurity-cloud-access-enterprise-illustration.jpg",
-                "url": "https://securitybrief.asia/story/keeper-security-hits-usd-225-million-arr-on-ai-demand",
-                "source": "SecurityBrief Asia",
-                "date": "2026-07-09T02:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GWM Ora 5 first drive: A new electric SUV at an affordable price",
-                "desc": "The new GWM Ora 5 electric SUV is an improvement on its previous Ora hatch, both inside and on the road.",
-                "image": "https://thedriven.io/wp-content/uploads/2026/07/GWM-Ora-5-Front-Launch-Riz-Akhtar-Large.jpeg",
-                "url": "https://thedriven.io/2026/07/09/gwm-ora-5-first-drive-a-new-electric-suv-at-an-affordable-price/",
-                "source": "The Driven IO",
-                "date": "2026-07-09T01:58:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple is already testing Chinese RAM, new report says",
-                "desc": "There's a twist that might convince the Trump administration to let Apple use it. A few days ago some reports claimed Apple was considering using Chinese...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-already-testing-chinese-dram/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/apple_is_already_testing_chinese_ram_new_report_says-news-73638.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-09T01:58:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DBS, OCBC, UOB push STI to new highs as institutions pile in ahead of earnings",
-                "desc": "STI rises as much as 1% to 5,424.02 points as DBS breaches S$70 mark Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/91cf7b45aa28b8246fb6e47179c1eff984aa90bca41a5715953f49f59acab781?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/dbs-ocbc-uob-push-sti-new-highs-institutions-pile-ahead-earnings",
-                "source": "The Business Times",
-                "date": "2026-07-09T01:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shoppers splurge on specs in Japan as deflation-era mindset fades away",
-                "desc": "As inflation reshapes behavior, Japanese eyeglass company Jins is working to prove higher prices are justified by delivering better materials, sharper designs and improved quality.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/09/550680.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/09/economy/jins-glasses-shopping/",
-                "source": "The Japan Times",
-                "date": "2026-07-09T01:55:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Sony RX10 V review: Sony’s superzoom bridge camera gets an Alpha upgrade",
+                "desc": "Sony’s long-awaited RX10 V keeps the huge 24-600mm lens that made the series special, but adds faster processing, AI subject recognition, improved video, and much better controls.",
+                "image": "https://cdn.mos.cms.futurecdn.net/GbsA77PdknmPgeDUUERdHD-2560-80.jpg",
+                "url": "https://www.digitalcameraworld.com/cameras/sony-rx10-v-review",
+                "source": "Digital Camera World",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vibe-Coded Malware Caught in Active Directory Attack",
+                "desc": "Huntress found a threat actor using vibe-coded PowerShell to map an Active Directory network",
+                "image": "https://assets.infosecurity-magazine.com/webpage/og/4acc802a-db30-468f-96aa-516a0a2712dc.jpg",
+                "url": "https://www.infosecurity-magazine.com/news/vibe-coded-malware-ai-powershell/",
+                "source": "Infosecurity Magazine",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Confused by USB flash drive jargon? Me too. I asked one of Kingston's experts to walk me through it",
+                "desc": "Kingston's own expert Matteo Occhi explains what all the security measures in the new IronKey Locker+ 50 G2 actually DO.",
+                "image": "https://cdn.mos.cms.futurecdn.net/nhKCxqSAG255QuZNqcinw7-2560-80.jpg",
+                "url": "https://www.creativebloq.com/tech/storage/confused-by-usb-flash-drive-jargon-me-too-i-asked-one-of-kingstons-experts-to-walk-me-through-it",
+                "source": "Creative Bloq",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 New Features Coming to Apple Messages in iOS 27",
+                "desc": "Apple is adding a number of new features for Messages in iOS 27, including contextual one-tap suggestions, a new Drawing app, and reduced notifications.",
+                "image": "https://lifehacker.com/imagery/articles/01KTY2EECY3Y3EKX2SF7EC43QP/hero-image.fill.size_1200x675.jpg",
+                "url": "https://lifehacker.com/tech/best-new-messages-features-ios-27",
+                "source": "Lifehacker",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony brings back the superzoom RX10 with a stacked sensor and a high price",
+                "desc": "Sony’s RX10 V is a new superzoom point and shoot camera, complete with a stacked sensor, 24-600mm lens, and tracking autofocus with subject detection.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268627_Sony_RX10_V_camera_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on",
+                "source": "The Verge",
+                "date": "2026-07-09T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 E.L.F. SKIN Products Editors Love for Summer",
+                "desc": "Editors love E.L.F. SKIN for its affordability, wide product selection, and effective ingredients. See which six products our editors are shopping for summer.",
+                "image": "https://cdn.mos.cms.futurecdn.net/e7skMqFkWMB5SEMX7KBoKD-2560-80.jpg",
+                "url": "https://www.whowhatwear.com/beauty/skin/elf-skin-must-have-summer-products",
+                "source": "Who What Wear",
+                "date": "2026-07-09T13:58:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MuMuPlayer 6.0 Redefines PC Mobile Gaming with Android 15 Support",
+                "desc": "The latest version brings a higher Android system, smoother gameplay, game translation, acceleration, and easier access to global mobile games […]",
+                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
+                "url": "https://technode.global/prnasia/mumuplayer-6-0-redefines-pc-mobile-gaming-with-android-15-support/",
+                "source": "TNGlobal",
+                "date": "2026-07-09T13:57:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question",
+                "desc": "Why are people angry at Sony's decision to stop making PlayStation game discs? Well, the price of games, for one thing.",
+                "image": "https://assetsio.gnwcdn.com/ps-store-retail.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs",
+                "source": "Eurogamer.net",
+                "date": "2026-07-09T13:51:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dragon Age Ex-Lead Writer Says Series Return 'Unlikely,' Though Would Make Dragon Age 5 'Dark and Dangerous' Again",
+                "desc": "Former Dragon Age lead writer David Gaider doesn't think BioWare's fantasy series will return while owned by publisher EA — though knows what he'd do if a fifth game was ever made.",
+                "image": "https://assets-prd.ignimgs.com/2024/11/08/dragon-age-the-veilguard-solas2-1731082892746.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/former-dragon-age-lead-writer-says-biowares-fantasy-series-is-unlikely-to-ever-return-under-ea-though-he-knows-what-hed-do-with-dragon-age-5-if-he-made-it",
+                "source": "IGN",
+                "date": "2026-07-09T13:49:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ferrari brings back manual gearbox for 12Cilindri… sort of",
+                "desc": "After an absence of 14-years, Ferrari has revived the manual gearbox for the 12Cilindri, albeit with a significant difference.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/Ferrari_9_MOD.jpg",
+                "url": "https://www.citizen.co.za/motoring/ferrari-12cilindri-manuale-revealed/",
+                "source": "The Citizen",
+                "date": "2026-07-09T13:47:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "GoPro MAX 2 Action Camera Hits 40% Off, Somehow Costing Less Than the Previous-Gen Model",
                 "desc": "The stock is running low, so you'll have to hurry to place your order.",
@@ -1174,99 +1264,99 @@
                 "source": "DSF.my",
                 "date": "2026-07-09T01:59:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Stat Sniper Launches Free AI Analytics App That Helps Sports Bettors Track Props and Read Matchups",
-                "desc": "Track props, surface trends, analyze matchups, and get AI-backed insights in one platform. Now live on iOS, Android, and web",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1130477.jpg",
-                "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/globenewswire/stat-sniper-launches-free-ai-analytics-app-that-helps-sports-bettors-track-props-and-read-matchups/2381301",
-                "source": "The Manila Times",
-                "date": "2026-07-09T01:57:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "D-Link launches two new 5G Wi-Fi 6 mobile hotspots giving fast, reliable Internet wherever you are",
-                "desc": "D-Link has released two new 5G Wi-Fi 6 personal hotspots letting you connect, stream, and do whatever you need online no matter if you're at home, working at a cafe, fixing an...",
-                "image": "https://media.itwire.com/2026/07/09/d-link-launches-two-new-5g-wi-fi-6-mobile-hotspots-giving-fast-reliable-internet-wherever-you-are-e4b05f9e1752.webp",
-                "url": "https://itwire.com/your-it-news/home-it/d-link-launches-two-new-5g-wi-fi-6-mobile-hotspots-giving-fast-reliable-internet-wherever-you-are",
-                "source": "iTWire",
-                "date": "2026-07-09T01:53:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ERNIE BALL TO ACQUIRE SOURCE AUDIO EXPANDING THE ICONIC STRING MAKER INTO PREMIUM EFFECTS",
-                "desc": "Ernie Ball Inc., the world’s leading manufacturer of premium guitar strings, bass strings and musical instrument accessories, today announced that it has entered into a definitive agreement to acquire Source Audio, the Massachusetts-based company behind some of the most innovative and acclaimed effects pedals in modern music.",
-                "image": "https://australianmusician.com.au/wp-content/uploads/2026/07/EB_Source_Email.jpg",
-                "url": "https://australianmusician.com.au/ernie-ball-to-acquire-source-audio-expanding-the-iconic-string-maker-into-premium-effects/",
-                "source": "Australian Musician Magazine",
-                "date": "2026-07-09T01:50:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liver-directed gene therapy shows preclinical efficacy for severe inherited metabolic disorder",
-                "desc": "Genespire, in collaboration with researchers at the San Raffaele Telethon Institute for Gene Therapy (SR-TIGET), announced the publication of preclinical data supporting the potential of its liver-directed immune-shielded lentiviral gene therapy approach to treat methylmalonic acidemia (MMA), a severe inherited metabolic disorder.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/liver-directed-gene-th.jpg",
-                "url": "https://medicalxpress.com/news/2026-07-liver-gene-therapy-preclinical-efficacy.html",
-                "source": "Medical Xpress",
-                "date": "2026-07-09T01:40:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi Targets South Korean Runners with $93 Redmi Watch 6, Boasting 24",
-                "desc": "Xiaomi Korea has launched the Redmi Watch 6 in South Korea, a budget smartwatch priced at approximately 140,000 won (approximately $93), intensifying…",
-                "image": "https://img.biggo.com/T9pQFW9nvCVPbFpeM3tLDMBvJVoA6bagD5eaYfQvDPQ/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzU1NzM4YmNmLWFkODctNDcxYy1iMTE1LTE0ODQ3N2EzMjQ4MF8xNzgzNTY2MzE3X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/55738bcf-ad87-471c-b115-148477a32480",
-                "source": "finance.biggo.com",
-                "date": "2026-07-09T01:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Comixology's Zero Instance Blurs the Line Between Reality and MMORPG Fantasy",
-                "desc": "What happens when the game begins to bleed into the real world?",
-                "image": "https://sm.ign.com/t/ign_ap/preview/c/comixology/comixologys-zero-instance-blurs-the-line-between-reality-and_zcqz.1200.jpg",
-                "url": "https://sea.ign.com/zero-instance/245257/comixologys-zero-instance-blurs-the-line-between-reality-and-mmorpg-fantasy",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-09T01:25:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Assassin's Creed: Black Flag Resynced PC Settings Guide",
-                "desc": "Sailing the open seas with a decent frame rate.",
-                "image": "https://sm.ign.com/t/ign_ap/feature/a/assassins-/assassins-creed-black-flag-resynced-pc-settings-guide_w2qw.1200.jpg",
-                "url": "https://sea.ign.com/assassins-creed-black-flag-resynced/245256/assassins-creed-black-flag-resynced-pc-settings-guide",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-09T01:25:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S26 Ultra No Longer Carries a Premium Price Tag If You Buy It on Amazon Instead of Samsung Store",
-                "desc": "Get yourself one of the best Android phones on the market for less with this deal.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/phone-deal-1200x675.jpg",
-                "url": "https://gizmodo.com/galaxy-s26-ultra-no-longer-carries-a-premium-price-tag-if-you-buy-it-on-amazon-instead-of-samsung-store-2000782851",
-                "source": "Gizmodo",
-                "date": "2026-07-09T01:23:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TypeScript 7.0 is Here",
-                "desc": "Today, Microsoft announced the release of TypeScript 7.0, a major update to its strongly typed version of JavaScript.",
-                "image": "https://www.thurrott.com/wp-content/uploads/sites/2/2026/07/typescript-7.jpg",
-                "url": "https://www.thurrott.com/dev/338669/typescript-7-0-is-here",
-                "source": "Thurrott.com",
-                "date": "2026-07-09T01:23:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'It Has Become a Success Beyond Our Wildest Dreams' - Palworld Dev Pocketpair Decides Against Raising the Price of the Game for 1.0 Launch",
-                "desc": "\"As a small way of saying thank you...\"",
-                "image": "https://sm.ign.com/t/ign_ap/news/i/it-has-bec/it-has-become-a-success-beyond-our-wildest-dreams-palworld-d_qy75.1200.jpg",
-                "url": "https://sea.ign.com/palworld/245251/it-has-become-a-success-beyond-our-wildest-dreams-palworld-dev-pocketpair-decides-against-raising-th",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-09T01:20:57Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Thousands of refugee appeals cleared as Home Affairs overhauls asylum system",
+                "desc": "The Department of Home Affairs said reforms aimed at fixing long-standing challenges in South Africa’s asylum system are starting to show results",
+                "image": "https://turntable.kagiso.io/images/0000873913_resized_homeaffairs1022.width-400.jpg",
+                "url": "https://www.jacarandafm.com/news/news/thousands-of-refugee-appeals-cleared/",
+                "source": "Jacaranda FM",
+                "date": "2026-07-09T13:59:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s Ukrainian Support Switch Surprises Summit",
+                "desc": "European officials believe the US President has shifted toward stronger backing for Kyiv following recent Ukrainian battlefield gains.",
+                "image": "https://static.kyivpost.com/storage/2026/07/09/d1b14453c01ef2bf032d12609cc1d330.jpg?w=1200&q=90&f=jpg",
+                "url": "https://www.kyivpost.com/post/79942",
+                "source": "Kyiv Post",
+                "date": "2026-07-09T13:56:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flight instructor was 'going through hard time' when he jumped from plane",
+                "desc": "The flight instructor who jumped to his death from a plane in Argentina was going through a 'difficult time' before he died.",
+                "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_304352331-8912_1783605328.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+                "url": "https://metro.co.uk/2026/07/09/flight-instructor-going-hard-time-jumped-plane-29096954/",
+                "source": "Metro.co.uk",
+                "date": "2026-07-09T13:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former Olympian pleads not guilty in Reflecting Pool damage case after Trump alleged vandalism",
+                "desc": "A former Olympic canoe racer pleaded not guilty on Thursday to deliberately damaging the recently renovated Lincoln Memorial Reflecting Pool, a politically charged case that his defense attorneys and other Trump administration critics have derided as an abuse of prosecutorial power.",
+                "image": "https://www.castanet.net/content/2026/7/6b8ee65cd8f995953256b40e2000158be465de904fd9004723a268407e10e12c.jpg",
+                "url": "https://www.castanet.net/news/World/623905/Former-Olympian-pleads-not-guilty-in-Reflecting-Pool-damage-case-after-Trump-alleged-vandalism",
+                "source": "Castanet",
+                "date": "2026-07-09T13:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ILO urges skills investment as AI reshapes ASEAN workforce",
+                "desc": "Skills investment becomes essential as ILO assesses AI exposure across Southeast Asian economies.",
+                "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/07/ILO-ASEAN-AI-labour.jpg",
+                "url": "https://dig.watch/updates/ilo-skills-investment-ai-reshapes-asean-workforce",
+                "source": "Digital Watch Observatory",
+                "date": "2026-07-09T13:54:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UAE Introduces New Visa Rules for Kenyans Residing in Selected Countries",
+                "desc": "UAE expands visa-on-arrival for Kenyan nationals with valid residence permits, offering 14-day and 60-day options for easier access to Dubai and more.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/51116a3ce2601605.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/world/632023-uae-expands-visa-arrival-program-introduces-60-day-option-kenyans-6-nationalities/",
+                "source": "Tuko News",
+                "date": "2026-07-09T13:51:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Travellers react as Florida airport renamed after Trump",
+                "desc": "Palm Beach International Airport was officially renamed as President Donald J. Trump International Airport on 9 July.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4bfb/live/70eb00c0-7b9c-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.com/news/videos/cly9r0zwkzko",
+                "source": "BBC",
+                "date": "2026-07-09T13:50:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNSC 10191st Meeting Focuses on Ukraine Crisis",
+                "desc": "At 10 a.m., the Security Council will hear a briefing on Ukraine following two major waves of drone and missile attacks, overnight 1-2 July and 5-6",
+                "image": "https://press.un.org/themes/custom/un3_press/assets/images/og-default.jpg",
+                "url": "https://www.miragenews.com/unsc-10191st-meeting-focuses-on-ukraine-crisis-1707673/",
+                "source": "Mirage News",
+                "date": "2026-07-09T13:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN urges immediate end to fighting in eastern DR Congo",
+                "desc": "GENEVA: The United Nations called Thursday for an immediate end to fighting in the eastern Democratic Republic of Congo between the armed forces and the M23 militia. The Rwanda-backed M23 armed group has seized vast swathes of territory since it re-emerged in 2021 in mineral-rich eastern DR Congo, which has been plagued by conflict for over 30 years. UN human rights chief",
+                "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/09/4729621-376636967.jpg?itok=UtDrJs-8",
+                "url": "https://www.arabnews.com/node/2650262/world",
+                "source": "Arab News",
+                "date": "2026-07-09T13:49:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia Built a Passenger Plane Without Foreign Parts. Now It Can’t Fly in Rain, Heat, Cold, or Storms",
+                "desc": "Russia's new Il-114-300 passenger plane is certified but faces severe weather restrictions, limiting flights to narrow temperature ranges and clear conditions.",
+                "image": "https://storage.united24media.com/og/e/51/9ceb3da7f6a03e259d5503d78f88d51e.jpg",
+                "url": "https://united24media.com/world/russia-built-a-passenger-plane-without-foreign-parts-now-it-cant-fly-in-rain-heat-cold-or-storms-20624",
+                "source": "UNITED24 Media",
+                "date": "2026-07-09T13:48:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "What if our homes could move?",
                 "desc": "Imagine living in a home that you could simply pick up and move when extreme weather strikes. Instead of bricks and mortar, it's made from materials sourced from the local environment and, if weather conditions change, you pack it up and rebuild it in a safer location. That's exactly what Khudi Bari, developed by Bangladeshi firm Marina Tabassum Architects, is doing.",
@@ -1806,98 +1896,8 @@
                 "source": "The New York Times",
                 "date": "2026-07-09T02:00:09Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Namibia launches GEF-UNIDO initiative to unlock climate funding",
-                "desc": "THE Ministry of Environment has officially launched the GEF-UNIDO Namibia Child Project, an initiative aimed at unlocking greater access...",
-                "image": "https://informante.web.na/wp-content/uploads/2026/07/Namibia-launches-green-hydrogen-funding-project-Informante-Image-workspace-1024x677.jpg",
-                "url": "https://informante.web.na/?p=397467",
-                "source": "Informanté",
-                "date": "2026-07-09T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran formally notifies UN Security Council of fresh US violations, warns Washington of consequences",
-                "desc": "Iran formally notifies the UN Security Council of fresh large-scale US military attacks against its territory, warning Washington about the consequences.",
-                "image": "https://cdn.presstv.ir/Photo/2026/7/8/d87f89b5-ab1a-4993-8d8e-22cec5c4a71d.jpg",
-                "url": "https://www.presstv.ir/Detail/2026/07/09/771875/Iran-United-Nations-United-States-attacks",
-                "source": "PressTV",
-                "date": "2026-07-09T01:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'If I go...': Trump claims he's Iran's 'No. 1 target' after Air Force One blinds shut",
-                "desc": "Trump's remarks came aboard the Air Force One plane, after the reporters he was interacting with were asked to shut the blinds next to their seats. | World News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/09/550x309/ENGLAND-US-POLITICS-TRUMP-5_1783561152513_1783561163538_9170e424-b0b7-4e64-8f31-654a03fc7be3.jpg",
-                "url": "https://www.hindustantimes.com/world-news/trump-claims-threat-aboard-air-force-one-warns-reporters-number-1-iran-list-dangerous-flight-us-war-ceasefire-over-101783560339694.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-09T01:55:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is China’s biggest daily US soybean order confirmation of Xi-Trump summit pact?",
-                "desc": "The 472,000 tonnes sold were the most in a single day since November and a ‘positive signal’ of Beijing’s intentions, analysts said.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/a6aed767-c2a3-4126-8036-39810bf241b8_6bb686b4.jpg?itok=zE5WfwgI&v=1783561994",
-                "url": "https://www.scmp.com/news/us/economy-trade-business/article/3359912/chinas-biggest-daily-us-soybean-order-confirmation-xi-trump-summit-pact",
-                "source": "South China Morning Post",
-                "date": "2026-07-09T01:53:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran threat? Why Trump flew home on old Air Force One instead of jet gifted by Qatar",
-                "desc": "US News: US President Donald Trump returned from the NATO summit in Ankara aboard the older Air Force One after a brief stop at RAF Mildenhall in the UK, amid .",
-                "image": "https://static.toiimg.com/thumb/msid-132275113,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/iran-threat-why-trump-flew-home-on-old-air-force-one-instead-of-qatari-jet/articleshow/132275080.cms",
-                "source": "The Times of India",
-                "date": "2026-07-09T01:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qatar issues emergency alerts as US strikes on Iran trigger Gulf sirens",
-                "desc": "ISTANBUL, July 9 — Qatar issued emergency security alerts while warning sirens sounded in Bahrain and Kuwait early Thursday after a new wave of US strikes on Iran prompted...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/09/350978.jpg",
-                "url": "https://www.malaymail.com/news/world/2026/07/09/qatar-issues-emergency-alerts-as-us-strikes-on-iran-trigger-gulf-sirens/226920",
-                "source": "Malay Mail",
-                "date": "2026-07-09T01:51:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Democrats' Maine Senate candidate Graham Platner suspends midterm campaign after sexual assault accusation",
-                "desc": "The Democratic Senate candidate in the US state of Maine has suspended his midterm election campaign after a string of controversies, including an accusation of sexual assault.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/a0273e92ace8cadee4527226e554e7d6?impolicy=wcms_watermark_news&cropH=1658&cropW=2947&xPos=0&yPos=164&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-09/democrats-graham-platner-suspends-senate-midterm-campaign/106896142",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-09T01:50:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 More People Criminally Charged with Damaging Reflecting Pool",
-                "desc": "Three more people have been charged in connection with alleged damage to the Lincoln Memorial Reflecting Pool, according to newly filed court documents.",
-                "image": "https://imagez.tmz.com/image/c9/16by9/2026/06/23/c9fc9f5499994080b4316f6bcad01b97_xl.jpg",
-                "url": "https://www.tmz.com/2026/07/08/three-more-people-face-charges-for-allegedly-damaging-the-reflecting-pool/",
-                "source": "TMZ",
-                "date": "2026-07-09T01:45:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Missile alerts in Gulf countries after US launches airstrikes against Iran",
-                "desc": "Kuwait’s military said it was actively intercepting incoming drones and missiles.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/children-wade-in-the-water-with-cargo-ships-at-anchor-in-the-3PCUVQSKBVAT5K4PZJG432A7SA.jpg?auth=a6b492a6cb0ab7fdbb35065a42dab0a8bcc96e97e776b0750de09221934ecc42&quality=70&width=600&height=315&focal=4074%2C1424",
-                "url": "https://www.1news.co.nz/2026/07/09/missile-alerts-in-gulf-countries-after-us-launches-airstrikes-against-iran/",
-                "source": "1News",
-                "date": "2026-07-09T01:44:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thailand Aligns with Malaysia, Vietnam, Indonesia and Singapore as ASEAN Travel Cooperation Ignites Record Tourism Growth, Expands Global Visitor Spending and Transforms Southeast Asia into a Unified",
-                "desc": "Thailand leads Southeast Asia tourism growth with Malaysia, Vietnam, Indonesia and Singapore through stronger cooperation, connectivity and visitor spending.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Thailand-13.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/adwym30xw7pg/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-09T01:39:20Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T01:40:26.831369Z"
+    "lastGlobalSync": "2026-07-10T02:00:20.322101Z"
 }
