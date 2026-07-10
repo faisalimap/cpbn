@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "ETranzact Proposes 12.5 Kobo Final Dividend, AGM Date Yet To Be Announced",
+                "desc": "eTranzact International Plc has proposed a final dividend of 12.5 kobo per ordinary share for the financial year ended December 31, 2025, subject to",
+                "image": "https://investorsking.com/wp-content/uploads/2017/08/etranzact.jpg",
+                "url": "https://investorsking.com/2026/07/09/etranzact-proposes-12-5-kobo-final-dividend-agm-date-yet-to-be-announced/",
+                "source": "Investors King",
+                "date": "2026-07-09T15:39:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CME Group Is Launching Elon Musk's Tesla and SpaceX Futures Contracts on July 27. Here's the Investment Case.",
+                "desc": "They're not really an investment in and of themselves, but they can certainly help you manage a more traditional position in either stock.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877288%2Finvesting-screen-analysis-investor-growth-stocks.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/09/cme-group-launch-elon-musk-tesla-spacex-futures/",
+                "source": "The Motley Fool",
+                "date": "2026-07-09T15:39:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
+                "desc": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/INTERACTIVE-Strait-of-Hormuz-FEB24-2026-copy-2-1783600464.png?resize=1200%2C630",
+                "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17",
+                "source": "Al Jazeera",
+                "date": "2026-07-09T15:38:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Govt clears Vivo-Dixon joint venture under Press Note 3 norms",
+                "desc": "The approval, granted by the government on July 8, allows Vivo Mobile India to participate in the venture under Press Note 3 of 2020, which mandates prior government approval for investments from countries sharing a land border with India, including China.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2024/12/20241224071836_Screenshot-2024-12-24-at-12.48.31 PM.png",
+                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/govt-clears-vivo-dixon-jv-under-press-note-3-companies-sign-definitive-agreements-article-13970297.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-09T15:37:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Maserati Reveals Project GT4; Targeting 2028 Debut",
+                "desc": "Italian manufacturer confirms intentions of building new GT4 car based on GranTurismo...",
+                "image": "https://sportscar365.com/wp-content/uploads/2026/07/Maserati-Project-GT4.jpg",
+                "url": "https://sportscar365.com/imsa/impc/maserati-reveals-project-gt4-aimed-for-2028-debut/",
+                "source": "Sportscar365",
+                "date": "2026-07-09T15:37:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Embedded luxury: Carmakers' insurer partnerships reshape motor distribution",
+                "desc": "Luxury carmakers are seizing control of the insurance buying pathway and forcing the industry to rethink distribution, underwriting and broker value",
+                "image": "https://cdn-res.keymedia.com/cms/images/us/003/0356_639191938852130474.jpg",
+                "url": "https://www.insurancebusinessmag.com/nz/news/auto-motor/embedded-luxury-carmakers-insurer-partnerships-reshape-motor-distribution-581839.aspx",
+                "source": "Insurance Business",
+                "date": "2026-07-09T15:36:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tsuut'ina Nation acquiring nearly 1,000 hectares of land",
+                "desc": "Tsuut'ina Nation is partnering with a Calgary-based developer to expand its territory, hoping to develop a master planned community.",
+                "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/07/blackfoot-treaty-rally_303720814.jpg",
+                "url": "https://calgaryherald.com/news/tsuutina-nation-acquiring-more-land-to-pursue-master-planned-community",
+                "source": "Calgary Herald",
+                "date": "2026-07-09T15:32:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Trade Center's last office tower breaks ground 25 years after 9/11 attacks in NYC",
+                "desc": "Two World Trade Center, the last office tower in the complex, broke ground Thursday, 25 years after the 9/11 attacks on the twin towers in New York City.",
+                "image": "https://cdn.abcotvs.com/dip/images/19475455_070926-wabc-2-wtc-rendering-img.jpg?w=1600",
+                "url": "https://abc30.com/story/world-trade-center-last-office-tower-complex-breaks-ground-25-years-911-attacks-twin-towers-new-york-city/19475499/",
+                "source": "ABC30 Fresno",
+                "date": "2026-07-09T15:31:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Notes from the Asia-Pacific region: India signals shift on AI regulation",
+                "desc": "India's digital trust landscape is evolving as government officials signal a possible shift toward AI-specific legislation while courts and regulators confront emerging risks.",
+                "image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/bltea1aae155e548492/6a4facec38b3b839851a7e9f/sea-bridge-mumbai-india-apac-043026.jpg",
+                "url": "https://iapp.org/news/a/notes-from-the-asia-pacific-region-india-signals-shift-on-ai-regulation",
+                "source": "IAPP",
+                "date": "2026-07-09T15:30:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Matrix expands defense activity with $24 million acquisition of Laor Energy",
+                "desc": "The IT group will acquire 80% of the electromechanical systems company as it seeks to combine software, cyber and integration capabilities with defense manufacturing expertise.",
+                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2022/04/09/TGFIGUCHK/TGFIGUCHK_0_0_490_277_0_large.jpg",
+                "url": "https://www.calcalistech.com/ctechnews/article/bk6f0vpxmg",
+                "source": "CTech",
+                "date": "2026-07-09T15:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "BFC Urges New U.K. Government to Invest in British Fashion Industry",
                 "desc": "London mayor Sadiq Khan spoke about the fashion industry's impact Wednesday night at the British Fashion Council's summer party.",
                 "image": "https://wwd.com/wp-content/uploads/2026/07/0R5A0148-lily-craigen.jpg?crop=0px%2C96px%2C1334px%2C746px&resize=1000%2C563",
@@ -542,99 +632,99 @@
                 "source": "Yahoo",
                 "date": "2026-07-09T12:25:57Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Meet SK Hynix, the trillion-dollar chipmaker debuting on U.S. markets",
-                "desc": "Following a more than sevenfold rally in its stock price over the past year, South Korea's SK Hynix is listing on the Nasdaq.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108258731-1769661681267-gettyimages-1953500088-AFP_34GV6KQ.jpeg?v=1776839949&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
-                "source": "CNBC",
-                "date": "2026-07-09T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-                "desc": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/07/nandan-nilekani-1251752057.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-                "source": "TechCrunch",
-                "date": "2026-07-09T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AER fines oil company almost $438K for leak that went undiscovered for 15 months",
-                "desc": "The Alberta Energy Regulator has fined a Calgary-based oil and gas company nearly $438,000 for an oil emulsion leak in western Alberta that, it estimates, lasted more than a year.",
-                "image": "https://i.cbc.ca/ais/023f096b-d4eb-47bc-ac69-ac4760520303,1783541468350/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C204%2C3913%2C2201%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/edmonton/aer-fines-oil-company-almost-438k-for-leak-that-went-undiscovered-for-15-months-9.7263246",
-                "source": "CBC",
-                "date": "2026-07-09T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exterro Releases Agentic AI Forensic Tool for Remote Investigations",
-                "desc": "ARMOUR for FTK is designed to automatically carry out forensic processes based on natural language requests, with the aim of improving speed and efficiency.",
-                "image": "https://images.law.com/brightspot/56/5f/547977304c8a83e3cedabf3f5fbb/exterro-logo-rgb-png767x505.jpg",
-                "url": "https://www.law.com/legaltechnews/2026/07/09/exterro-releases-agentic-ai-forensic-tool-for-remote-investigations-/?slreturn=20260709102535",
-                "source": "Law.com",
-                "date": "2026-07-09T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unlocking AI for NextGen Growth at Holcim",
-                "desc": "At Holcim, Artificial Intelligence (AI) is a strategic accelerator for our NextGen Growth 2030 strategy. We are unlocking its potential AI to improve performance, drive customer-centric services, grow net sales, and advance sustainability in our operations.",
-                "image": "https://www.holcim.com/themes/custom/corporate/images/favicon/favicon.ico",
-                "url": "https://www.holcim.com/innovation/artificial-intelligence",
-                "source": "Holcim",
-                "date": "2026-07-09T11:59:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NAICOM tasks new NIA chair on rebuilding trust, deepening insurance penetration",
-                "desc": "The National Insurance Commission (NAICOM) has charged the new chairman of the Nigerian Insurers Association (NIA), Ebelechukwu...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/03/Olusegun-Omosehin-1.jpg",
-                "url": "https://businessday.ng/companies/article/naicom-tasks-new-nia-chair-on-rebuilding-trust-deepening-insurance-penetration/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-09T11:57:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israeli Firm Demos High-Precision Atomic Clock to Fight GPS-Jamming",
-                "desc": "Israeli firm Quantum X Labs has taken its high-sensitivity quantum atomic clock a step closer to real-world deployment with a successful out-of-lab demonstration.",
-                "image": "https://i.thedefensepost.com/wp-content/uploads/2026/07/0.jpg",
-                "url": "https://thedefensepost.com/2026/07/09/israeli-atomic-clock-gps/",
-                "source": "The Defense Post",
-                "date": "2026-07-09T11:57:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MDA Space offers to buy stake in French satellite firm",
-                "desc": "MDA Space Ltd. says it has entered into a firm offer to acquire a majority interest in France-based Collecte Localisation Satellites.",
-                "image": "https://www.bnnbloomberg.ca/resizer/v2/KHVUIZMT762J3K76MNXAODGJLU.jpg?smart=true&auth=1030bb1c6dd5c45d98cede17d0d74f5eff8aa4975de2bef5ea8d5598c32defbe&width=1200&height=630",
-                "url": "https://www.bnnbloomberg.ca/business/company-news/2026/07/09/mda-space-offers-to-buy-a-majority-interest-in-french-satellite-firm/",
-                "source": "BNN Bloomberg",
-                "date": "2026-07-09T11:54:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NRC Crash: Website Developer Shares How One Question He Asked Saved Him From Investing in Scheme",
-                "desc": "A Nigerian website developer has shared how one simple question he asked about the NRC investment platform spared him from losing his money following the crash.",
-                "image": "https://cdn.legit.ng/images/1200x675/d2a6dc17e69efa88.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1718389-web-developer-shares-how-question-asked-saved-investing-nrc-ponzi-scheme/",
-                "source": "Legit News",
-                "date": "2026-07-09T11:52:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three hurdles halting Nigeria’s gas to power dream - NRGI",
-                "desc": "The report titled ‘Nigeria’s Gas-to-Power Ambitions: Limits, Opportunities and Alternatives’, launched at the Natural Resource…",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/power-sector-1.jpg",
-                "url": "https://businessday.ng/energy/article/three-hurdles-halting-nigerias-gas-to-power-dream-nrgi/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-09T11:52:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Telus wants CRTC to bring back phone locking to prevent theft",
+                "desc": "In an application to the CRTC, Telus requested the commission revise rules on device locking to help it prevent theft.",
+                "image": "https://production-static.mobilesyrup.com/uploads/2026/07/telus-device-lock-header-scaled.jpg",
+                "url": "https://mobilesyrup.com/2026/07/09/telus-crtc-phone-locking-prevent-theft/",
+                "source": "MobileSyrup",
+                "date": "2026-07-09T15:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tiny Bookshop Opens Its Doors Today on iOS and Android",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Tiny-Bookshop-Opens-Its-Doors-Today-on-iOS-and-Android",
+                "source": "Games Press",
+                "date": "2026-07-09T15:37:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lenovo Has Officially Ditched Its Piracy",
+                "desc": "The G02, pre-installed with dozens of Nintendo and Sega games, is no longer on sale",
+                "image": "https://kotaku.com/app/uploads/2026/07/lenovo-g02-1200x675.jpg",
+                "url": "https://kotaku.com/lenovo-sunyao-g02-emulation-device-copyright-roms-2000714144",
+                "source": "Kotaku",
+                "date": "2026-07-09T15:37:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Price rises likely as iPhone 18 Pro Max will cost $300 more to make",
+                "desc": "If a new estimate is correct, and we suspect it is, then Apple is paying dramatically more to produce each iPhone 18 Pro Max compared to its predecessor, and that will mean price rises of $200 or more.",
+                "image": "https://photos5.appleinsider.com/gallery/68114-143572-67740-142763-iPhone-17-Pro-back-xl-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/09/price-rises-certain-as-iphone-18-pro-max-component-costs-soar",
+                "source": "AppleInsider",
+                "date": "2026-07-09T15:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roll Up Your Sleeves! It's Time to Dig, Build, and Run Your Factory in Ore Factory Squad ⛏️ 💎",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-US/Roll-Up-Your-Sleeves-Its-Time-to-Dig-Build-and-Run-Your-Factory-in-Ore",
+                "source": "Games Press",
+                "date": "2026-07-09T15:32:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RUF debuts 1,000hp boxer-eight engine at Goodwood Festival of Speed",
+                "desc": "German manufacturer RUF Automobile has debuted a new prototype eight-cylinder boxer engine at the 2026 Goodwood Festival of Speed. Known internally as the Erprober, the in-house developed 4.8-liter twin-turbocharged unit",
+                "image": "https://www.automotivepowertraintechnologyinternational.com/wp-content/uploads/2026/07/Ruf_8-Zylinder_05-scaled-e1783609866299.jpg",
+                "url": "https://www.automotivepowertraintechnologyinternational.com/news/new-engine/ruf-debuts-1000hp-boxer-eight-engine-at-goodwood-festival-of-speed.html",
+                "source": "Automotive Powertrain Technology International",
+                "date": "2026-07-09T15:24:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia’s latest cards aren’t affected by the RAM crisis.",
+                "desc": "The company is celebrating the history of its GeForce graphics cards through a collection of new trading cards highlighting classic hardware, demos, and games. The GeForce Trading Cards: Series 1 packs will be given away for free at “upcoming live events” and as part of community giveaways.\n[Media: https://www.youtube.com/watch?v=96PKNcmazcE]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/nvidia.jpg?quality=90&strip=all&crop=0%2C10.745137501398%2C100%2C78.509724997205&w=1200",
+                "url": "https://www.theverge.com/tech/963309/nvidia-geforce-trading-cards-series-1-free-giveaway",
+                "source": "The Verge",
+                "date": "2026-07-09T15:22:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Clare Animal Sanctuary Closed Due To Viral Outbreak",
+                "desc": "Clare Animal Sanctuary Closed Due To Viral Outbreak - News % Clare FM",
+                "image": "https://www.clare.fm/wp-content/uploads/2026/07/Animal-Shelter-1.jpg",
+                "url": "https://www.clare.fm/news/clare-animal-sanctuary-closed-due-to-viral-outbreak/",
+                "source": "Clare FM",
+                "date": "2026-07-09T15:22:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MSI Unveils MEG MAESTRO 900R Case and MEG CORELIQUID E15 360 Liquid Cooler",
+                "desc": "Forging a new era of PC craftsmanship, MSI unveils its ultimate flagship ecosystem: the MEG MAESTRO 900R full tower case and the MEG CORELIQUID E15 360 AIO liquid cooler. United by premium aluminium craftsmanship, signature diamond-cut detailing, and sophisticated finishing techniques, both...",
+                "image": "https://www.techpowerup.com/img/mmRAm2PKHNEsstBq.jpg",
+                "url": "https://www.techpowerup.com/350641/msi-unveils-meg-maestro-900r-case-and-meg-coreliquid-e15-360-liquid-cooler",
+                "source": "TechPowerUp",
+                "date": "2026-07-09T15:21:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spicy Koala to Publish Incremental Mining Game Mighty Miners",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Spicy-Koala-to-Publish-Incremental-Mining-Game-Mighty-Miners",
+                "source": "Games Press",
+                "date": "2026-07-09T15:17:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Researchers hone new AI method to track 'smart' vapes with digital screens",
                 "desc": "E-cigarettes, also known as vapes, are battery-operated devices that heat a liquid that typically contains nicotine, an addictive substance. These devices are continually changing, with new flavors, novel device designs and digital screens. Some of these e-cigarettes—sometimes called \"smart vapes\"—include built-in games and Bluetooth connectivity that have the potential to gamify the use of nicotine. Many of these devices are marketed online but cannot be easily monitored with existing data sources and methods.",
@@ -1174,99 +1264,99 @@
                 "source": "AutoNext.co",
                 "date": "2026-07-09T12:26:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Open World RPG Project Awakening Still in Development, 8 Years After Stunning PS4 Reveal",
-                "desc": "There's even new footage, apparently - I certainly didn't expect to be writing about Project Awakening today, but I'll take it! You've got a good memory if ...",
-                "image": "https://images.pushsquare.com/534b0754d7c83/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/open-world-rpg-project-awakening-still-in-development-8-years-after-stunning-ps4-reveal",
-                "source": "Push Square",
-                "date": "2026-07-09T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First electric Mercedes-AMG CLA 45 revealed with 500kW, confirmed for Australia",
-                "desc": "The first electric CLA from Mercedes-AMG will bring three motors producing 500kW, three-second 0-100km/h pace, and up to 670km of range.",
-                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2026_mercedes-amg_cla45_track_dynamic_26c0207_019.jpg",
-                "url": "https://www.carexpert.com.au/car-news/first-electric-mercedes-amg-cla-45-revealed-with-500kw-confirmed-for-australia",
-                "source": "CarExpert",
-                "date": "2026-07-09T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 Could Require Age Verification in Australia",
-                "desc": "GTA 6 players in Australia may need to verify their age, with Rockstar potentially facing fines of up to $49.5 million per breach.",
-                "image": "https://windowsreport.com/wp-content/uploads/2026/06/GTA-6-cover-art.png",
-                "url": "https://windowsreport.com/gta-6-could-require-age-verification-in-australia/",
-                "source": "Windows Report",
-                "date": "2026-07-09T11:58:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AMD Expands Hawk Point Lineup With Numerous New SKUs Under Ryzen 200 And 100 Series",
-                "desc": "AMD adds 11 new processors to Ryzen 200 and 100 series, featuring Zen 4 architecture with up to 8 cores and RDNA 3 graphics.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Hawk-Point.jpg",
-                "url": "https://wccftech.com/amd-expands-hawk-point-lineup-with-numerous-new-skus-under-ryzen-200-and-100-series/",
-                "source": "Wccftech",
-                "date": "2026-07-09T11:57:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Health's latest update closes another Fitbit gap",
-                "desc": "A more customizable Today view",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/fitbit-air-google-health-daily.JPG?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/google-healths-latest-update-closes-another-fitbit-gap/",
-                "source": "Android Police",
-                "date": "2026-07-09T11:55:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft to switch off OWA Light after nearly two decades",
-                "desc": "Nobody needs a simple web client for Exchange, do they?",
-                "image": "https://image.theregister.com/5242280.jpg?imageId=5242280&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/applications/2026/07/09/microsoft-to-switch-off-owa-light-after-nearly-two-decades/5269099",
-                "source": "The Register",
-                "date": "2026-07-09T11:53:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony, Bungie settle with ex-Marathon director they accused of \"predatory behaviour\", bringing $200m wrongful dismissal lawsuit to a close",
-                "desc": "Former Marathon director Christopher Barrett departed Bungie in 2024, but filed a lawsuit after reports of inappropriate behaviour emerged.",
-                "image": "https://assetsio.gnwcdn.com/marathon-bungie-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/sony-bungie-marathon-director-lawsuit-settled",
-                "source": "Eurogamer.net",
-                "date": "2026-07-09T11:51:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft is making Windows 11's search box 4 whole pixels taller for some reason",
-                "desc": "An upcoming change to Windows 11 will see the default search box in Start and on the Taskbar appear larger as Microsoft increases its height by 4 pixels.",
-                "image": "https://cdn.mos.cms.futurecdn.net/FWMvyvs4ohgN34uScGmdLR-2560-80.jpg",
-                "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-making-windows-11s-search-box-4-whole-pixels-taller-for-some-reason",
-                "source": "Windows Central",
-                "date": "2026-07-09T11:49:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trinka Launches Initiative to Support Strong Writing Skills in the Age of AI",
-                "desc": "NEW YORK, United States, July 9, 2026 /MarketersMEDIA/ -- Trinka announced a new initiative designed to support strong writing skills and to promote responsible, writer-centered use of artificial intelligence as writing workflows evolve.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1131082.jpg",
-                "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/plentisoft/trinka-launches-initiative-to-support-strong-writing-skills-in-the-age-of-ai/2381548",
-                "source": "The Manila Times",
-                "date": "2026-07-09T11:49:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Runix: Pinball Roguelike Blends Classic Pinball Action with Deep Roguelike Progression",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Runix-Pinball-Roguelike-Blends-Classic-Pinball-Action-wit-Meteor-Forge",
-                "source": "Games Press",
-                "date": "2026-07-09T11:48:45Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Irishman jailed for murder of American nurse in Hungary",
+                "desc": "The court ruled the man had strangled Mackenzie Michalski to death and dumped her body in the woods.",
+                "image": "https://img2.thejournal.ie/article/7096890/river/?height=400&version=7096898",
+                "url": "https://www.thejournal.ie/irishman-jailed-murder-mackenzie-michalski-hungary-7096890-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-09T15:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
+                "desc": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/INTERACTIVE-Strait-of-Hormuz-FEB24-2026-copy-2-1783600464.png?resize=1200%2C630",
+                "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17",
+                "source": "Al Jazeera",
+                "date": "2026-07-09T15:38:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ethiopia Determined to Advance Regional Power Connectivity: Water, Energy Minister",
+                "desc": "Addis Ababa, July 9, 2026 (ENA) —Ethiopia will continue advancing regional power connectivity in line with the Eastern Africa Power Pool’s (EAPP) vision of building an integrated regional electricity market, Water and Energy Minister Habtamu Itefa said.\nEAPP’s 37th Steering Committee meeting and 22nd Council of Ministers extraordinary session, which brought together senior officials to review key constitutional, legal, and regional power-market issues, is taking place in Addis Ababa.\nSpeaking at the opening of the session, the Minister recalled that EAPP was established on the principle that regional cooperation strengthens when sovereign states voluntarily agree on common rules.\n \nThose rules are reflected in the EAPP Intergovernmental Memorandum of Understanding signed in 2005, he added.\nThe Minister noted that significant efforts have been made to operationalize the regional electricity market and continue institutional development of the organization.\nAs Eastern Africa Power Pool's current chair, Ethiopia is advancing efforts and will work closely with all EAPP member states to pursue the shared goal of an integrated market grounded in constitutional governance, institutional integrity, regional solidarity, and the rule of law, Water and Energy Minister Habtamu said.\nEmphasizing the need for collective commitment to constitutional governance, institutional integrity, regional solidarity, and the rule of law, he encouraged members to seize the opportunity to strengthen both the organization and regional electricity market for the benefit of all.\n \nOn his part, Water and Energy State Minister Sultan Welle told the media that Ethiopia has been fulfilling its regional connectivity commitments by supplying electricity to Djibouti, Kenya, Tanzania, and Sudan.\nHe added that Ethiopia intends to expand its interconnection role under the East Africa Power Pool framework.\nThe power pool initiative will serve as an enabling platform to facilitate power transmission and ensure reliable electricity supply across the region, the State Minister said, adding that improved access to electricity can help drive social and economic benefits for local communities.\nThe meeting is focused on discussing agreements among member countries to collaborate jointly and the terms governing electricity services, with decisions expected to be reached, he stated.\n \nThe Eastern Africa Power Pool (EAPP) is comprised of the following member countries: Burundi, Djibouti, Democratic Republic of Congo, Rwanda, Egypt, Ethiopia, Kenya, Sudan, Tanzania, Uganda, and Libya. South Sudan and Somalia joined recently.",
+                "image": "https://www.ena.et/documents/42142/0/742308957_1333080919006558_1124204263730185252_n.jpg/e7472ac7-369e-8ca7-78cb-5f666876d869?version=1.0&t=1783611248514&download=true",
+                "url": "https://www.ena.et/web/eng/w/eng_9188752",
+                "source": "ENA English",
+                "date": "2026-07-09T15:38:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Climate change responsible for global extreme weather conditions not El Niño: Experts",
+                "desc": "A member of 350.org's Caribbean team, Amira Odeh Quiñones, described the climate crisis as a humanitarian emergency in the region.",
+                "image": "https://gazettengr.com/wp-content/uploads/Untitled-1-2624.png",
+                "url": "https://gazettengr.com/climate-change-responsible-for-global-extreme-weather-conditions-not-el-nino-experts/",
+                "source": "Peoples Gazette Nigeria",
+                "date": "2026-07-09T15:33:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO’s Ankara summit was a wasted opportunity",
+                "desc": "Europe could have used the meeting to show the U.S. how it will take the lead — instead it just agreed to buy a bunch of stuff.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/09/GettyImages-2285189782-scaled.jpg",
+                "url": "https://www.politico.eu/article/nato-ankara-summit-wasted-opportunity/",
+                "source": "politico.eu",
+                "date": "2026-07-09T15:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Venomous snakes escape breeding farms in southern China during flooding",
+                "desc": "Local media in Hengzhou report king ratsnakes and cobras among hundreds in flood waters caused by typhoon Maysak",
+                "image": "https://i.guim.co.uk/img/media/fcfadc0ee4e241a84cdc35f28ea9715e95e7e87a/335_0_4801_3841/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab716f4303e4505ba7934217f2888e64",
+                "url": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
+                "source": "The Guardian",
+                "date": "2026-07-09T15:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Historic South Africa House in London closes due to neglect",
+                "desc": "The historic South Africa House in London has been rendered unusable after poor maintenance and costly repairs are needed.",
+                "image": "https://novanews.co.za/wp-content/uploads/2026/07/SA-high-commision-uk-image.jpeg",
+                "url": "https://novanews.co.za/historic-south-africa-house-in-london-closes-due-to-neglect/",
+                "source": "novanews.co.za",
+                "date": "2026-07-09T15:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Migrant sought for beating death of NY mom Jamey Carney in Ireland met her at anti-Israel protest: report",
+                "desc": "The suspect in the murder of a New York mom who recently moved to Ireland is a Middle Eastern asylum-seeker who met her at an anti-Israel protest -- and who may have already fled the country, according to reports.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/new-york-woman-killed-ireland-move-comp_8b6903.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/09/world-news/migrant-sought-for-beating-death-of-ny-mom-jamey-carney-in-ireland-met-her-at-anti-israel-protest-report/",
+                "source": "New York Post",
+                "date": "2026-07-09T15:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mudavadi: Ruto will win second term in 2027",
+                "desc": "Prime CS says trust, service delivery and public support—not political rallies—will determine the outcome",
+                "image": "https://cdn.radioafrica.digital/image/2026/07/91554497-e96b-4e8c-9802-120a140cd6c0.jfif?1783623910358",
+                "url": "https://www.the-star.co.ke/news/2026-07-09-mudavadi-ruto-will-win-second-term-in-2027",
+                "source": "the-star.co.ke",
+                "date": "2026-07-09T15:27:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Interview with Charlie Kirk assassination suspect's roommate to be played in court",
+                "desc": "Lawyers are arguing over whether the video can be used as evidence against suspect Tyler Robinson at trial.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99b2/live/6ba618e0-7b9f-11f1-88df-c98554e5b30c.jpg",
+                "url": "https://www.bbc.co.uk/news/live/cx2wz0rz56vt",
+                "source": "BBC",
+                "date": "2026-07-09T15:22:50Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Fragmented Europe: Dealing with China as a technology and innovation power",
                 "desc": "China’s drive to become a global leader in science, technology and innovation has huge implications for the EU and its member states. On the one hand, China is becoming a strong competitor in industrial high-tech sectors and innovative science that used to be the stronghold of European actors. Advanced digital technologies made in China also […]",
@@ -1806,98 +1896,8 @@
                 "source": "The Globe and Mail",
                 "date": "2026-07-09T12:26:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Popping the cork for crémant, the affordable alternative to champagne",
-                "desc": "As sales of sparkling wine continue to soar, one aromatic French fizz is worthy of particular appreciation",
-                "image": "https://i.guim.co.uk/img/media/98761b6e6653c66e2a79d9ca4ab4610817812434/0_844_3397_2718/master/3397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4159b2489b7b8eef9c8d04839a5d76f0",
-                "url": "https://www.theguardian.com/food/2026/jul/09/cremant-affordable-alternative-to-champagne",
-                "source": "The Guardian",
-                "date": "2026-07-09T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Ecology of Dispossession",
-                "desc": "Israel's nature reserves in the West Bank use the language of conservation to restrict Palestinian life while facilitating settlement expansion.",
-                "image": "https://jewishcurrents.org/assets/_1200x630_crop_center-center_82_none/Wadi-Qana.jpg?mtime=1783601059",
-                "url": "https://jewishcurrents.org/the-ecology-of-dispossession",
-                "source": "Jewish Currents",
-                "date": "2026-07-09T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "13 Beautiful, Standout Winners Of U.N. World Oceans Day Photo Competition",
-                "desc": "Discover the beauty of gardens teeming with life and color and other breathtaking ancient underwater worlds in these winners of the UN World Oceans Photo Competition.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4bc77917c30318a0ba06c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/ceciliarodriguez/2026/07/09/13-beautiful-standout-winners-of-un-world-oceans-day-photo-competition/",
-                "source": "Forbes",
-                "date": "2026-07-09T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine, Estonia Deepen Drone Alliance as Europe Rearms",
-                "desc": "Ukraine and Estonia have expanded their drone partnership through a new agreement aimed at advancing cooperation in unmanned systems and other military innovation.",
-                "image": "https://i.thedefensepost.com/wp-content/uploads/2026/07/resize-scaled.jpeg",
-                "url": "https://thedefensepost.com/2026/07/09/ukraine-estonia-drone-alliance/",
-                "source": "The Defense Post",
-                "date": "2026-07-09T11:55:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Abruptly Switches Back To Old Air Force One Instead Of Qatari Plane",
-                "desc": "Trump flew from Turkey to the U.K. onboard the old jet amid concerns about the security features of the new Qatar-gifted Air Force One.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4f73c5451349bf36c69b99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/saradorn/2026/07/09/trump-switches-back-to-qatari-plane-after-leaving-turkey-on-old-air-force-one/",
-                "source": "Forbes",
-                "date": "2026-07-09T11:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These 12 cities are losing residents as climate risks reshape where people choose to live",
-                "desc": "The map of opportunity is being redrawn by floodwater, fire, and heat—and some of the world’s biggest cities are already losing the fight to stay livable. Cities once filled with energy and opportunit...",
-                "image": "https://s.yimg.com/lo/mysterio/api/795c00cd18723567ea3e351be9c89198a99f734f5723eeaf7dc4f5ee672fd2f8/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffodmap_everyday_588%2Fb325888246efe1a280927168591b5aad",
-                "url": "https://www.yahoo.com/news/science/articles/12-cities-losing-residents-climate-115245951.html",
-                "source": "Yahoo",
-                "date": "2026-07-09T11:52:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tourist, 17, killed in Costa del Sol 'hit",
-                "desc": "Nikoline Piwoni Høie was celebrating Norway's win with pals at the Funky Buddha nightclub in Puerto Banús near Marbella when she was last seen alive",
-                "image": "https://i2-prod.mirror.co.uk/article37409129.ece/ALTERNATES/s1200d/2_Tourist-17-killed-in-hit-and-run-in-Costa-del-Sol-hotspot-after-World-Cup-tie.jpg",
-                "url": "https://www.mirror.co.uk/news/world-news/costa-del-sol-tourist-dead-37409095",
-                "source": "The Mirror",
-                "date": "2026-07-09T11:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fighter jet goes up in flames after crash landing at airport",
-                "desc": "An F-16 fighter jet crash-landed at a Zakynthos airport in Greece today after suffering emergency, with flights diverted elsewhere.",
-                "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_304627975-d824_1783605160.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-                "url": "https://metro.co.uk/2026/07/09/fighter-jet-goes-flames-crash-landing-airport-29096141/",
-                "source": "Metro.co.uk",
-                "date": "2026-07-09T11:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "They Were Not Asking Us To Leave. They Were Telling Us.",
-                "desc": "On the day a South African movement gave migrants a deadline to leave, a Congolese-born writer reflects on why calling it only xenophobia lets too many off the hook.",
-                "image": "https://africanarguments.org/wp-content/uploads/2026/07/fan_walk_for_peace_and_unity_4813216834_2.jpg",
-                "url": "https://africanarguments.org/2026/07/they-were-not-asking-us-to-leave-they-were-telling-us/",
-                "source": "African Arguments",
-                "date": "2026-07-09T11:51:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ACT Wazalendo pledges to ensure reconciliation serve the wider interests of Zanzibar",
-                "desc": "ZANZIBAR: ACT- Wazalendo Chairman Othman Masoud Othman has pledged that his party will ensure the ongoing reconciliation process serves the wider interests of Zanzibar, insisting that the initiative is not designed to benefit political parties or individuals. He said the agreements reached between Chama Cha Mapinduzi (CCM) and ACT- Wazalendo are aimed at building a …",
-                "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/RAIS-DKT.-MWINYI-TAMKO-LA-PAMOJA-CCM-NA-ACT-WAZALENDO-LAFUNGUA-NJIA-YA-UTEKELEZAJI-WA-SERIKALI.jpg",
-                "url": "https://dailynews.co.tz/act-wazalendo-pledges-to-ensure-reconciliation-serve-the-wider-interests-of-zanzibar/",
-                "source": "dailynews.co.tz",
-                "date": "2026-07-09T11:47:43Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T03:00:25.967844Z"
+    "lastGlobalSync": "2026-07-10T03:40:20.495836Z"
 }
