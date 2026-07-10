@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "What US-Iran tensions mean for oil prices, inflation and stocks",
+                "desc": "The strikes and the prospect of additional military actions had an immediate impact on commodity prices.",
+                "image": "https://www.usatoday.com/gcdn/authoring/images/motleyfool/2026/07/08/USAT/90854340007-gettyimages-2264326377.jpeg?crop=6007,3379,x0,y314&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/investing/2026/07/09/us-iran-ceasefire-oil-prices-stocks/90854352007/",
+                "source": "USA Today",
+                "date": "2026-07-09T21:40:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Live: Wall Street and European stocks rebound, ASX 200 set to flatline on opening",
+                "desc": "Wall Street and European stocks have rebounded from losses connected to fears about conflict in the Middle East.\nFollow the day's events and insights from our business reporters on the ABC News live markets blog.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-10/asx-markets-business-live-news-10-july-2026/106900270",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-09T21:39:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "INTERPOL Operation First Light Nets 5,811 Arrests and Seizes $293 Million",
+                "desc": "INTERPOL Operation First Light 2026 led to 5,811 arrests, blocked $293M in criminal assets, and disrupted global cybercrime networks.",
+                "image": "https://securityaffairs.com/wp-content/uploads/2020/01/Interpol-Goldfish-Alpha-operation.jpg",
+                "url": "https://securityaffairs.com/195056/security/interpol-operation-first-light-nets-5811-arrests-and-seizes-293-million.html",
+                "source": "Security Affairs",
+                "date": "2026-07-09T21:37:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Costco sued over Orgain protein powder heavy metal allegations",
+                "desc": "Costco and Orgain face scrutiny after class action lawsuit alleges protein powders sold at the retailer contain elevated heavy metals and inadequate consumer warnings.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/2-split-costoc-swapped.png?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/retail/costco-hit-lawsuit-alleging-protein-powder-sold-stores-contains-dangerous-levels-lead-arsenic",
+                "source": "Fox Business",
+                "date": "2026-07-09T21:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Class Milestones That Are Now Out of Reach for Gen Z",
+                "desc": "See which classic middle-class goals — from homeownership to savings — are becoming harder for Gen Z to achieve in today’s economy.",
+                "image": "https://s.yimg.com/lo/mysterio/api/4E5C45A6FA45AA34C546C4356EB8566B15D8A1D4483906B603AFE824D9CB4E68/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_moneylion_410%2F13bf1d8301f3ed421cdf41f532e5bbc7",
+                "url": "https://www.aol.com/finance/5-middle-class-milestones-now-170016687.html",
+                "source": "AOL.com",
+                "date": "2026-07-09T21:28:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Sign the Damn Bill!' Anger at Trump Grows as US Housing Prices Hit All-Time High",
+                "desc": "President Trump refuses to sign bipartisan housing legislation as home prices hit record high. Housing supply shortage remains a major barrier.",
+                "image": "https://www.commondreams.org/media-library/image.jpg?id=66763537&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
+                "url": "https://www.commondreams.org/news/trump-housing-prices-legislation",
+                "source": "Common Dreams",
+                "date": "2026-07-09T21:25:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Workers' pay has not kept pace with productivity growth for 30 years, research suggests",
+                "desc": "Workers' pay not keeping pace with productivity growth, research suggests",
+                "image": "https://live-production.wcms.abc-cdn.net.au/24ea05d3e54be1e980a9e0ed22168d44?impolicy=wcms_watermark_news&cropH=763&cropW=1358&xPos=0&yPos=73&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-10/workers-pay-not-keeping-pace-with-productivity-growth-cpd/106897576",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-09T21:23:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Curve Returns to Javits With Spring/Summer 2027 Collections Aug. 2 to 4",
+                "desc": "Curve, the intimate apparel and swimwear trade show features top brands, emerging designers, industry panels and immersive activations.",
+                "image": "https://wwd.com/wp-content/uploads/2026/07/BC0A0680_3607a3.jpg?crop=0px%2C104px%2C1000px%2C560px&resize=1000%2C563",
+                "url": "https://wwd.com/fashion-news/fashion-scoops/curve-javits-spring-summer-2027-collections-aug-2-4-1239061782/",
+                "source": "WWD",
+                "date": "2026-07-09T21:21:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
+                "desc": "The news firms allege ChatGPT maker is hiding evidence important to what could be landmark copyright infringement trial.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26048822295469-1778770491.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute",
+                "source": "Al Jazeera",
+                "date": "2026-07-09T21:20:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aritzia Reports Strong Q1, Sees Momentum Continuing",
+                "desc": "Aritzia Reports Strong Q1 2026 as it steadily expands in North America and sees robust demand for its fashion.",
+                "image": "https://wwd.com/wp-content/uploads/2025/11/Aritzia-Flatiron-Exterior.jpg?crop=0px%2C791px%2C6000px%2C3357px&resize=1000%2C563",
+                "url": "https://wwd.com/business-news/retail/aritzia-q1-momentum-steady-expansion-1239060707/",
+                "source": "WWD",
+                "date": "2026-07-09T21:18:57Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
                 "desc": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
                 "image": "https://ca-times.brightspotcdn.com/dims4/default/d59d765/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2Fa9%2Ff022905d435f86b7eb852c6842eb%2Fc09a775cb578415dae565f2086d8dfb6.jpg",
@@ -542,99 +632,99 @@
                 "source": "Modern Ghana",
                 "date": "2026-07-09T17:39:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "KBRA Downgrades One Rating for MSBAM 2014-C19 to D (sf) Following Realization of Principal Losses",
-                "desc": "KBRA is a leading Nationally Recognized Statistical Ratings Organization. Find the most relevant and up-to-date credit ratings research here! Learn more!",
-                "image": "https://kbra-static-assets.azureedge.net/assets/kbra-meta-thumb.png",
-                "url": "https://www.kbra.com/publications/MKRqZMTm/kbra-downgrades-one-rating-for-msbam-2014-c19-to-d-sf-following-realization-of-principal-losses?format=web",
-                "source": "KBRA",
-                "date": "2026-07-09T17:38:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Interest rates may need to rise this year says Bank of England economist",
-                "desc": "Chief economist at the Bank of England says slower growth and inflationary pressures mean rate rise needed",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e9e/live/5a89b0f0-7bbb-11f1-8b3b-4de03d5aab17.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o",
-                "source": "BBC",
-                "date": "2026-07-09T17:37:11Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Interest rates may need to rise this year says Bank of England economist",
-                "desc": "Chief economist at the Bank of England says slower growth and inflationary pressures mean rate rise needed",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3e9e/live/5a89b0f0-7bbb-11f1-8b3b-4de03d5aab17.jpg",
-                "url": "https://www.bbc.com/news/articles/c932ed8nv75o",
-                "source": "BBC",
-                "date": "2026-07-09T17:37:11Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Renna Sails the Atlantic, Opening a Summer Pop-up at Harvey Nichols",
-                "desc": "“Launching at Harvey Nichols and expanding into the U.K. is an exciting next step for the brand,\" said the jeweler and gemologist Renna Brown-Taher.",
-                "image": "https://wwd.com/wp-content/uploads/2026/07/EV-RENNA_Harvey_Nichols-Jul072026-EH1_9851-EH.jpg?crop=0px%2C116px%2C3600px%2C2014px&resize=1000%2C563",
-                "url": "https://wwd.com/fashion-news/fashion-scoops/new-york-jeweler-renna-pop-up-harvey-nichols-london-1239060994/",
-                "source": "WWD",
-                "date": "2026-07-09T17:36:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wealthy Transportation Secretary Pushes Glorified Golf Cart Built For Country Clubs And Gated Communities As The Solution To U.S. Affordability Crisis",
-                "desc": "The Fiat Topolino is a tiny Low-Speed Vehicle that makes a 500e look like a Chevrolet Suburban in comparison.",
-                "image": "https://www.jalopnik.com/img/gallery/sean-duffy-fiat-topolino-golf-cart/l-intro-1783619296.jpg",
-                "url": "https://www.jalopnik.com/2211616/sean-duffy-fiat-topolino-golf-cart/",
-                "source": "Jalopnik",
-                "date": "2026-07-09T17:34:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huge land sale in Algoma could provide food to the north",
-                "desc": "Originally from Desbarats, Dalton MacFarlane recently added to his massive land holdings with the purchase of 1,691 acres for a cattle farming operation",
-                "image": "https://www.vmcdn.ca/f/files/sootoday/2026-07-09-macfarlane.jpeg;w=1200;h=800;mode=crop",
-                "url": "https://www.sootoday.com/local-news/huge-land-sale-in-algoma-could-provide-food-to-the-north-12529275",
-                "source": "SooToday.com",
-                "date": "2026-07-09T17:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dates and proposed settlement amounts",
-                "desc": "Canadians who bought beef within the last decade may soon be eligible for payment after proposed settlements have been reached in class-action lawsuits alleging unlawful conspiracy.",
-                "image": "https://www.cp24.com/resizer/v2/SSH3CT6CKVEXLDP7TJKUJB2P5M.jpg?smart=true&auth=4a816ab307a787d66550caf1c6ff6424f448bd4d7ba1cee4e0f7fb4894aed7fe&width=1200&height=630",
-                "url": "https://www.cp24.com/news/canada/2026/07/09/did-you-buy-beef-in-the-last-10-years-you-may-be-eligible-for-a-class-action-settlement/",
-                "source": "CP24",
-                "date": "2026-07-09T17:29:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toronto social housing complex empty for 18 years now open",
-                "desc": "A Toronto community housing complex will soon be ready to welcome new tenants, 18 years after recurrent flooding and mould shuttered the site.",
-                "image": "https://www.cp24.com/resizer/v2/7M37G757UVI5SWBWP2UTVTF2YU.jpg?smart=true&auth=51dc5a086053ae55dd53a7bc6b33e6511db4a0e7c11908bc0c7e3a01a728bc84&width=1200&height=630",
-                "url": "https://www.cp24.com/local/toronto/2026/07/09/toronto-social-housing-complex-revived-after-standing-empty-for-18-years/",
-                "source": "CP24",
-                "date": "2026-07-09T17:28:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three major banks lift floating rates as OCR hike flows through",
-                "desc": "Rising loan rates means good news for savers however.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/generics-for-home-loan-and-interest-rates-L6LO4U4VQRBYRNVJTV76HAEQIA.png?auth=7e738df79b09383895f424633f57da48bf61156cf150195e8ee09bf87fdad5e1&quality=70&width=600&height=315&focal=820%2C523",
-                "url": "https://www.1news.co.nz/2026/07/09/three-major-banks-lift-floating-rates-as-ocr-hike-flows-through/",
-                "source": "1News",
-                "date": "2026-07-09T17:27:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Class Milestones That Are Now Out of Reach for Gen Z",
-                "desc": "See which classic middle-class goals — from homeownership to savings — are becoming harder for Gen Z to achieve in today’s economy.",
-                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-                "url": "https://www.aol.com/articles/5-middle-class-milestones-now-170016000.html",
-                "source": "AOL.com",
-                "date": "2026-07-09T17:00:16Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Google already has a fix for Home Speaker setup problems",
+                "desc": "New Google Home Speaker users have been complaining about errors while setting up their purchase, but a fix is now out.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-8-scaled.jpg",
+                "url": "https://www.androidauthority.com/google-home-speaker-fix-3686038/",
+                "source": "Android Authority",
+                "date": "2026-07-09T21:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Use AI Browsers Without Getting Hacked",
+                "desc": "AI-native web browsers make it easier to get information and perform tasks online, but they also come with more security risks.",
+                "image": "https://lifehacker.com/imagery/articles/01KWYRVXGTNG163H86EDRE685D/hero-image.fill.size_1200x675.jpg",
+                "url": "https://lifehacker.com/tech/how-to-use-ai-browsers-without-getting-hacked",
+                "source": "Lifehacker",
+                "date": "2026-07-09T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Galaxy Z Flip 8 might be the last Galaxy Z Flip phone from Samsung",
+                "desc": "Tipster Ice Universe claims the Galaxy Z Flip 8 could be the last small foldable phone Samsung ever makes.",
+                "image": "https://cdn.mos.cms.futurecdn.net/eYx5LNjvm63eMxc7P7nuNP-2560-80.jpg",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-flip-8-might-be-the-last-galaxy-z-flip-phone",
+                "source": "Android Central",
+                "date": "2026-07-09T21:28:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canceling Earbuds 2026",
+                "desc": "Sometimes, silence is golden—and the best noise-canceling earbuds help you relax while blotting out noise around you. Here are my six picks, after testing.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fc2a613e6555576d6a4ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-noise-canceling-earbuds/",
+                "source": "Forbes",
+                "date": "2026-07-09T21:27:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How researchers accidentally found a large-scale threat platform",
+                "desc": "Researchers were investigating another threat to cybersecurity when they found a large scale adversary-in-the-middle (AiTM) attack.",
+                "image": "https://cdn.sanity.io/images/bl383u0v/production/dc19647caef0c5f8c338fdd03f8d40bbee2335cf-7200x3926.jpg?rect=0,73,7200,3780&w=1200&h=630&q=70&fit=crop&auto=format",
+                "url": "https://www.itbrew.com/stories/large-scale-threat-platform-accident",
+                "source": "IT Brew",
+                "date": "2026-07-09T21:26:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI wants its new tool to do your work for you and with you",
+                "desc": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gptwork-1152x648-1783630571.webp",
+                "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+                "source": "Ars Technica",
+                "date": "2026-07-09T21:25:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Health Finally Recognizes the Value of Naps",
+                "desc": "A 20-minute nap will count toward your daily sleep total. But is a quick power nap worth it?",
+                "image": "https://www.cnet.com/a/img/resize/6e1681aff37cf18f846e6fa541e68258fdbe51fa/hub/2026/07/09/0ab59375-7dbb-46b5-86cb-d6519b8116fe/gettyimages-2249649681.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/health/sleep/google-health-naps-update/",
+                "source": "CNET",
+                "date": "2026-07-09T21:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Assassin's Creed Black Flag Resynced Launches To Mixed Reviews: Controversial Microtransactions Spark Outrage",
+                "desc": "The hype has been building for the launch of Assassin's Creed Black Flag Resynced for a good long while, and it seems as though sales have been strong, with SteamDB reporting a peak of 99,451 concurrent players in the first 12 hours after launch on Steam alone. However, it seems as though player...",
+                "image": "https://www.techpowerup.com/img/3rwnJsdKzMyCWoCk.jpg",
+                "url": "https://www.techpowerup.com/350650/assassins-creed-black-flag-resynced-launches-to-mixed-reviews-controversial-microtransactions-spark-outrage",
+                "source": "TechPowerUp",
+                "date": "2026-07-09T21:23:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After Launch",
+                "desc": "The company is sunsetting the browser after introducing a more powerful ChatGPT desktop app that offers its own browsing capabilities.",
+                "image": "https://i.pcmag.com/imagery/articles/00C2UEqfMImd6JSQp7MgS2j-1.fit_lim.size_1200x630.v1783627232.png",
+                "url": "https://www.pcmag.com/news/openai-to-retire-chatgpt-atlas-browser-less-than-a-year-after-launch",
+                "source": "PCMag",
+                "date": "2026-07-09T21:16:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After Launch",
+                "desc": "The company is sunsetting the browser after introducing a more powerful ChatGPT desktop app that offers its own browsing capabilities.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/o/openai-to-/openai-to-retire-chatgpt-atlas-browser-less-than-a-year-afte_7emh.1200.png",
+                "url": "https://au.pcmag.com/browsers/118694/openai-to-retire-chatgpt-atlas-browser-less-than-a-year-after-launch",
+                "source": "PCMag Australia",
+                "date": "2026-07-09T21:16:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Sony's Pricey 1000X 'Collexion' Headphones Just Got Their First Discount",
                 "desc": "The 1000X The Collexions are Sony's latest flagship headphones, and right now you can get them for $599.99 (originally $649.99).",
@@ -1174,99 +1264,99 @@
                 "source": "The Verge",
                 "date": "2026-07-09T17:33:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google Just Added This Previously iOS-Exclusive Feature to Chrome for Android",
-                "desc": "Chrome for Android users now have a dedicated back button.",
-                "image": "https://sm.lifehacker.com/t/lifehacker_au/news/g/google-jus/google-just-added-this-previously-ios-exclusive-feature-to-c_tsa8.1200.jpg",
-                "url": "https://au.lifehacker.com/android/119018/google-just-added-this-previously-ios-exclusive-feature-to-chrome-for-android",
-                "source": "Lifehacker",
-                "date": "2026-07-09T17:32:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nothing Unveils Phone (4b) And Ear (3a) Ss Latest Additions To Its Product Lineup",
-                "desc": "Nothing has launched Phone (4b), its first (b) series smartphone, alongside Ear (3a), the second generation of its (a) series earbuds, both featuring new hardware and updated designs.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/10012907/nothingphone4bear3acover.jpg",
-                "url": "https://pokde.net/gadget/smartphone/nothing-phone-4b-ear-3a",
-                "source": "Pokde.Net",
-                "date": "2026-07-09T17:29:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony’s plan to end PlayStation discs sparks ‘Don’t Kill the Disc’ petition as 250,000+ gamers push back",
-                "desc": "Sony’s plan to end PlayStation physical disc production in 2028 has triggered a “Don’t Kill the Disc” petition, with more than 250,000 gamers urging the company to preserve physical releases for PS5 and future PS6 titles.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dont-Kill-The-Disc-Petition-for-Physical-PlayStation-Games-Image-Source-Change.org.jpg.jpeg",
-                "url": "https://www.notebookcheck.net/Sony-s-plan-to-end-PlayStation-discs-sparks-Don-t-Kill-the-Disc-petition-as-250-000-gamers-push-back.1338862.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-09T17:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trinasolar targets up to 1.6 GWh of BESS deliveries in Italy in 2026",
-                "desc": "Trinasolar says it expects to deliver between 1.4 GWh and 1.6 GWh of battery energy storage systems (BESS) in Italy this year, while evaluating a potential European BESS factory.",
-                "image": "https://www.ess-news.com/wp-content/uploads/2026/07/Gonzalo_d.l.V_2.jpeg",
-                "url": "https://www.ess-news.com/2026/07/09/trinasolar-targets-up-to-1-6-gwh-of-bess-deliveries-in-italy-in-2026/",
-                "source": "ESS News",
-                "date": "2026-07-09T17:26:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PLAY THE FIRST TWO MISSIONS FROM",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-US/PLAY-THE-FIRST-TWO-MISSIONS-FROM-TEMPEST-RISING-S-UPCOMING-NEW-SINGLE-",
-                "source": "Games Press",
-                "date": "2026-07-09T17:22:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "High-throughput search tests 200 catalysts, revealing hidden routes for methane chemistry",
-                "desc": "Catalysts are the hidden engines of modern manufacturing, directly involved in more than 80% of chemical processes. However, catalyst development is highly complex because performance is governed by the interplay of the catalyst, local operating conditions, reactant composition and product formation.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/high-throughput-screen.jpg",
-                "url": "https://phys.org/news/2026-07-high-throughput-catalysts-revealing-hidden.html",
-                "source": "Phys.org",
-                "date": "2026-07-09T17:20:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft Expands AI Vulnerability Detection Across Windows",
-                "desc": "Microsoft is using AI-powered tools to detect vulnerabilities faster, accelerate remediation, and improve Windows security update quality.",
-                "image": "https://petri.com/wp-content/uploads/2022/05/Windows-11-approved-hero-1.png",
-                "url": "https://petri.com/microsoft-ai-vulnerability-detection-windows/",
-                "source": "Petri IT Knowledgebase",
-                "date": "2026-07-09T17:00:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Free Play Days: Try These Xbox Games For Free (July 9-12)",
-                "desc": "Presenting your latest batch of weekend freebies* - Thursday has swung right back around again, and so it's time for a new batch of Xbox Free Play Day titles...",
-                "image": "https://images.purexbox.com/cdddafd2524fc/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/07/free-play-days-try-these-xbox-games-for-free-july-9-12",
-                "source": "Pure Xbox",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-                "desc": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase.",
-                "image": "https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg",
-                "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-                "source": "BleepingComputer",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy Tab S12 Plus surfaces with first live image",
-                "desc": "The Galaxy Tab S12 Plus has recently appeared on a couple of certification databases. One of the listings shares a live image.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Logo-on-back-of-Galaxy-Tab-S11.jpg",
-                "url": "https://www.androidauthority.com/galaxy-tab-s12-plus-live-image-3685896/",
-                "source": "Android Authority",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it'",
+                "desc": "Lance Twiggs described the interaction with Robinson at their apartment in an interview with law enforcement that was aired by prosecutors.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/tyler-robinson-who-is-accused-in-the-fatal-shooting-of-charl-BMVR3KU22BDIJGKYPLBSFOLJ7E.jpg?auth=df1e6e7ad37e4dcb11ceca9558136ca60a69536ec19223ab08fb25601330ca0c&quality=70&width=600&height=315&focal=2071%2C840",
+                "url": "https://www.1news.co.nz/2026/07/10/charlie-kirk-murder-suspect-told-roommate-he-wishes-he-hadnt-done-it/",
+                "source": "1News",
+                "date": "2026-07-09T21:35:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why are Nigeria-South Africa tensions rising amid xenophobic attacks?",
+                "desc": "Nigeria has threatened retaliatory measures against South Africa after Abuja began repatriating hundreds of Nigerians from South Africa this week amid alleged xenophobic attacks by South African protesters.",
+                "image": "https://static.wixstatic.com/media/740eab_383c8ff2c4d645eabcc1a1f2103d1368~mv2.png/v1/fill/w_1000,h_662,al_c,q_90,usm_0.66_1.00_0.01/740eab_383c8ff2c4d645eabcc1a1f2103d1368~mv2.png",
+                "url": "https://www.genocidewatch.com/single-post/why-are-nigeria-south-africa-tensions-rising-amid-xenophobic-attacks",
+                "source": "Genocide Watch",
+                "date": "2026-07-09T21:34:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US military denies involvement after explosions heard in Iran",
+                "desc": "Iranian media report loud explosions in several locations as Israeli officials say war is ‘not over’.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-09T090640Z_1861410919_RC28AMAD75XO_RTRMADP_3_IRAN-CRISIS-1783628104.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement",
+                "source": "Al Jazeera",
+                "date": "2026-07-09T21:22:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran burying Khamenei after new US fighting erupts",
+                "desc": "The funeral came as Iran and the US exchanged attacks, with casualties reported and strikes targeting infrastructure and military assets.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/7b832c66-ali-khamenei-funeral-10072026.webp",
+                "url": "https://www.freemalaysiatoday.com/category/highlight/2026/07/10/iran-burying-khamenei-after-new-us-fighting-erupts",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-09T21:20:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Catholic Bishops in Malawi Hail Legacy of Missionary Witness as Church Prepares to Mark 125th Anniversary",
+                "desc": "The Catholic Bishops in Malawi have paid tribute to the enduring legacy of the first missionaries whose faith, perseverance, and sacrifice laid the foundation for the growth of the Catholic Church in the Southern African nation.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-10t000940_1783631553.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22841/catholic-bishops-in-malawi-hail-legacy-of-missionary-witness-as-church-prepares-to-mark-125th-anniversary",
+                "source": "ACI Africa",
+                "date": "2026-07-09T21:16:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "E25 only being tested, no rollout decision yet: Puri",
+                "desc": "India News: NEW DELHI: Petroleum minister Hardeep Singh Puri on Thursday said E25 (petrol with 25% ethanol) is \\\"only being tested\\\" and no decision has been taken .",
+                "image": "https://static.toiimg.com/thumb/msid-132297998,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/e25-only-being-tested-no-rollout-decision-yet-puri/articleshow/132297999.cms",
+                "source": "The Times of India",
+                "date": "2026-07-09T21:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rwanda Marks 32nd Liberation Day in Rabat, Celebrating Unity",
+                "desc": "The Embassy of Rwanda in Morocco hosted the 32nd anniversary of Rwanda's Liberation Day, known as Kwibohora32, on Thursday.",
+                "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-09-at-22.05.21.webp",
+                "url": "https://www.moroccoworldnews.com/2026/07/328336/rwanda-marks-32nd-liberation-day-in-rabat-celebrating-unity-and-national-renewal/",
+                "source": "Morocco World News",
+                "date": "2026-07-09T21:14:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Catholic Bishop Prays for Healing of “wounds of war,” as South Sudan Marks 15th Independence Anniversary",
+                "desc": "The Bishop of South Sudan’s Catholic Diocese of Tombura-Yambio (CDTY) has appealed for healing of the country from its scars of conflict, imploring God to remove hatred from the hearts of the people in the East-Central African nation and establish a stable nation where justice and lasting peace prevail.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-10t000811_1783631492.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22839/catholic-bishop-prays-for-healing-of-wounds-of-war-as-south-sudan-marks-15th-independence-anniversary",
+                "source": "ACI Africa",
+                "date": "2026-07-09T21:12:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can Africa finance its own development?",
+                "desc": "AS traditional aid budgets shrink across the world's biggest donor countries, African countries are under growing pressure to mobilize more of their own resources to finance development. OECD data show global Official Development Assistance (ODA) fell by a record 23.1 per cent in 2025, dropping from USD 215.1 billion in 2024 to USD 174.3 billion. Bilateral",
+                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/image001.jpg",
+                "url": "https://realnewsmagazine.net/can-africa-finance-its-own-development-2/",
+                "source": "Realnews Magazine",
+                "date": "2026-07-09T21:11:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s humiliation on the world stage triggers acts of desperation at home",
+                "desc": "Trump’s embarrassing week at the NATO summit has him acting out of desperation in the U.S., including new attacks on the midterms.",
+                "image": "https://www.ms.now/wp-content/uploads/2026/07/260709-donald-trump-nato-summit-zz.webp?w=1200&h=630&crop=1",
+                "url": "https://www.ms.now/the-briefing-with-jen-psaki/trump-humiliation-world-stage-nato-summit-elections-voting-restrictions",
+                "source": "MS NOW",
+                "date": "2026-07-09T21:07:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Japanese Aid Boosting Education, Health, and More in Chuuk, Micronesia",
                 "desc": "JICA has a long history of dispatching specialists to Micronesia. The educational, health-related, and other assistance they provide is more important than ever at a time when US foreign aid is being pulled back. A look at three Japanese volunteers on the ground in this island nation.",
@@ -1806,98 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-09T17:43:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Man who fled to Ireland jailed for child sex offences",
-                "desc": "Child predator arrested in Cork",
-                "image": "https://gript.ie/wp-content/uploads/2026/07/JasonSpence-e1783618923862.jpg",
-                "url": "https://gript.ie/man-who-fled-to-ireland-jailed-for-child-sex-offences/",
-                "source": "Gript",
-                "date": "2026-07-09T17:42:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN Security Summit: IGP Disu Advocates Technology-Driven Policing, Global Partnerships",
-                "desc": "The Inspector-General of Police, IGP Olatunji Rilwan Disu, has called for stronger international collaboration among law enforcement agencies to confront the growing threat of transnational crime, stressing that collective action remains critical to safeguarding global peace, security and sustainable development. Disu made the appeal while representing Nigeria at the Fifth United Nations Chiefs of Police...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/IMG-20260709-WA0166-1.jpg",
-                "url": "https://independent.ng/un-security-summit-igp-disu-advocates-technology-driven-policing-global-partnerships/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-09T17:36:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Powerful El Niño ramping up as forecasters predict it’ll be most intense in recorded history",
-                "desc": "An El Niño acts as a ‘thermostat by releasing years of accumulated heat from the subsurface tropical Pacific into the atmosphere, warming the entire planet",
-                "image": "https://static.independent.co.uk/2026/07/09/18/01KWEMJF1R1DXS42PS1TWZTGET.jpg?trim=0,372,0,372&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/weather/el-nino-south-winter-intense-noaa-b3012147.html",
-                "source": "The Independent",
-                "date": "2026-07-09T17:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda Transforms Into The Next Global Travel Sensation as The Pearl of Africa Campaign Turns European Cities Into Tourism Showcases and Drives Visitors, Business Growth and Worldwide Recognition Whil",
-                "desc": "Uganda is gaining global tourism momentum because its The Pearl of Africa branding strategy is turning international attention towards its wildlife, culture, trade and investment potential through a powerful European outreach campaign.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/high-level-description-a-vibrant-2-3.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/as2v3i586jju/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-09T17:28:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flight school pilot jumps to his death midair, leaving 22-year-old student to land plane",
-                "desc": "A pilot jumped out of the door of a moving plane to his death, leaving the student he was teaching to fly to land the aircraft by herself.",
-                "image": "https://cdn.abcotvs.com/dip/images/19476028_0ae0c2c2-ed57-40bf-9862-7ca3e86849e2.jpg?w=1600",
-                "url": "https://abc7.com/post/flight-school-pilot-jumps-death-midair-leaving-student-land-plane/19475887/",
-                "source": "ABC7 Los Angeles",
-                "date": "2026-07-09T17:28:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KPMG Launches 2026 Search for Africa’s Next Leading Technology Innovator",
-                "desc": "Applications are now open for the 2026 KPMG Private Enterprise Global Tech Innovator competition, giving technology entrepreneurs from South Africa and across Africa the opportunity to compete for a place at the global finals in Lisbon, Portugal. Now in its sixth edition, the competition is open to qualifying startups and scale ups from 13 KPMG […] More",
-                "image": "https://www.techinafrica.com/wp-content/uploads/2021/07/KPMG.jpeg",
-                "url": "https://www.techinafrica.com/kpmg-launches-2026-search-for-africas-next-leading-technology-innovator/",
-                "source": "Tech In Africa",
-                "date": "2026-07-09T17:18:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran targets US military sites in Gulf as Israel warns it could 'strike again'",
-                "desc": "Iranian armed forces launched reciprocal attacks on US military infrastructure in Gulf states following US strikes on Iran's south and east regions, straining a three week old ceasefire.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/8e112c14ed8e7f7956903099ae8e4c32?impolicy=wcms_watermark_news&cropH=906&cropW=1610&xPos=0&yPos=982&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-10/iran-us-trade-strikes-/106899742",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-09T17:18:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why hypertension in Africa demands a new approach",
-                "desc": "Hypertension is no longer only a concern for older people. It is affecting younger Africans, increasing the risk of kidney disease and heart...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-09-123122002.jpg",
-                "url": "https://www.businessghana.com/site/news/general/351780/Why-hypertension-in-Africa-demands-a-new-approach",
-                "source": "BusinessGhana",
-                "date": "2026-07-09T17:10:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zambian VP Mutale Nalumango survives helicopter crash",
-                "desc": "Zambian Vice President Mutale Nalumango and seven others escape unhurt after their campaign helicopter crashes. Read more about the incident.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/AFP__20250318__XxjpbeE007423_20250318_PEPFN0A001__v1__Mockup__ZambiaLusakaFloodVicti_1783616847-1024x630.webp",
-                "url": "https://punchng.com/zambian-vice-president-escapes-unhurt-after-campaign-helicopter-crashes/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-09T17:08:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "School farms boost food security in Kenya's drylands",
-                "desc": "At Inaarok Lukuny Comprehensive School in Kenya's Kajiado County, pupil enrolment has more than doubled over the past year, rising from 240 to...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-09-12294501.jpg",
-                "url": "https://www.businessghana.com/site/news/general/351779/School-farms-boost-food-security-in-Kenya&",
-                "source": "BusinessGhana",
-                "date": "2026-07-09T17:08:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T09:00:26.444370Z"
+    "lastGlobalSync": "2026-07-10T09:40:22.326518Z"
 }
