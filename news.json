@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
+                "desc": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/d59d765/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2Fa9%2Ff022905d435f86b7eb852c6842eb%2Fc09a775cb578415dae565f2086d8dfb6.jpg",
+                "url": "https://www.latimes.com/business/story/2026-07-09/stocks-recover-losses-oil-prices-ease-as-calm-returns-to-financial-markets-worldwide",
+                "source": "Los Angeles Times",
+                "date": "2026-07-09T20:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alisa Bowen Exits Disney+ to Become CEO of Disney-Controlled Fubo",
+                "desc": "Alisa Bowen, who has served as president of Disney+ since 2022, is leaving that role to become CEO of Fubo, the internet TV streaming service that is majority owned by Disney.",
+                "image": "https://variety.com/wp-content/uploads/2026/07/Alisa-Bowen.png?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/alisa-bowen-ceo-fubo-disney-plus-1236806015/",
+                "source": "Variety",
+                "date": "2026-07-09T20:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Releases A New ChatGPT Tool For All Things Work Related",
+                "desc": "OpenAI's long-awaited super app is here.",
+                "image": "https://www.engadget.com/img/gallery/openai-releases-chatgpt-work-tool-macos-windows-web-plans/l-intro-1783630509.jpg",
+                "url": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
+                "source": "Engadget",
+                "date": "2026-07-09T20:50:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's how many New Zealanders are going bankrupt",
+                "desc": "\"There is likely a taboo around insolvency out there which is a hangover from a couple of centuries where debtors faced awful treatment,\" one economist said.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/empty-wallet-UIO6ZDR2URFSTEGFHA4NAD2LVY.jpg?auth=d3f23959890c6bb70f7b646fb8da28a375119af9a9478a89ba8a596de6f4e19b&quality=70&width=600&height=315&focal=3659%2C2036",
+                "url": "https://www.1news.co.nz/2026/07/10/heres-how-many-new-zealanders-are-going-bankrupt/",
+                "source": "1News",
+                "date": "2026-07-09T20:49:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
+                "desc": "New VentureBeat survey data: 69% of enterprises share AI agent credentials, letting one compromised agent inherit the access of every workflow it touches.",
+                "image": "https://images.ctfassets.net/jdtwqhzvc2n1/66fVTkq6EXowtfjlEBMGjB/d642a9b78a4976d2a4767a552a229708/Shared_API_keys_expose_AI_agent_fleets_at_69-_of_enterprises__new_VentureBeat_research_finds.png?w=800&q=75",
+                "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+                "source": "VentureBeat",
+                "date": "2026-07-09T20:45:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
+                "desc": "Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f29fa63f4b14ea6cdae7227afbfdec353fff7f-1200x799.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
+                "source": "CoinDesk",
+                "date": "2026-07-09T20:43:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Summary of Regulations Under Enhancing Digital Security and Trust Act",
+                "desc": "Overview As we previously wrote about here, the Enhancing Digital Security and Trust Act, 2024 introduced new regulatory frameworks for Ontario public sector employers with respect to topics like artificial intelligence systems, cyber security, school boards’ collection of digital information of youth under age 18, and more.   On July 1, 2026, two new regulations […]",
+                "image": "https://filionlaw.com/wp-content/uploads/2025/10/cropped-f-favicon-32x32.png",
+                "url": "https://filionlaw.com/insights/summary-of-regulations-under-enhancing-digital-security-and-trust-act/",
+                "source": "Filion Wakely Thorup Angeletti LLP",
+                "date": "2026-07-09T20:41:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lokpobiri: Asian, European countries now showing interest in Nigeria’s oil sector since US- Iran war",
+                "desc": "Heineken Lokpobiri, minister of state for petroleum resources (gas), says European and Asian countries are now showing increased interest in Nigeria's oil sector following the US-Iran crisis.",
+                "image": "https://www.thecable.ng/wp-content/uploads/2026/07/Heineken-Lokpobiri-22-2026-07-09-616.jpg",
+                "url": "https://www.thecable.ng/lokpobiri-asian-european-countries-now-showing-interest-in-nigerias-oil-sector-since-us-iran-war/",
+                "source": "TheCable",
+                "date": "2026-07-09T20:41:16Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Chinese Yuan: Fixing guidance fades, path less anchored - OCBC",
                 "desc": "OCBC’s Christopher Wong observes that Renminbi (RMB) appreciation guidance is waning, with CNH-CNY fixing gaps narrowing and daily adjustments moderating. Policymakers appear to be shifting toward RMB stability rather than further appreciation.",
                 "image": "https://editorial.fxsstatic.com/images/i/china_Medium.png",
@@ -560,81 +632,81 @@
                 "source": "AOL.com",
                 "date": "2026-07-09T17:00:16Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Revenge of the TSX: How the Canadian stock market quietly became a world beater",
-                "desc": "The stock market’s 55-per-cent gain ranks among the very best two-year stock rallies in history",
-                "image": "https://www.theglobeandmail.com/resizer/v2/FTCPJTDEQ5EEVMIOFMGLM6QVL4.JPG?auth=302b8eb09acf6965d3c84faf0783e7a0ced5fa71f98078282982f162e907b498&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-revenge-of-the-tsx-how-the-canadian-stock-market-quietly-became-a/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran War May Ignite Middle East Market Share Race, But Not Yet",
-                "desc": "Speculation that OPEC is weakening has intensified as the UAE exits the group and Iraq signals dissatisfaction, but ongoing geopolitical risks could reinforce the need for producer coordination.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-09_qbh6xm2jgp.jpg",
-                "url": "https://oilprice.com/Energy/Crude-Oil/Iran-War-May-Ignite-Middle-East-Market-Share-Race-But-Not-Yet.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Small Businesses Aren’t Hiring: They Can’t Find Qualified Workers",
-                "desc": "Employers told the NFIB they're having trouble finding workers. But experts say economic conditions, including tariffs and fuel costs, may also be making them pickier.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4ecf7a6031b2c0b892a221/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/johnschroyer/2026/07/09/small-business-owners-say-they-can-not-find-qualified-workers/",
-                "source": "Forbes",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chart Highlights AI Cheating Scandal at Brown University",
-                "desc": "Brown University professor Roberto Serrano saw scores drop between a take-home midterm and an in-person final. He suspects widespread AI cheating.",
-                "image": "https://i.insider.com/6a4fc3e8d3b3e4576519704d?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/brown-university-ai-cheating-scandal-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-09T16:59:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Assessing grid affordability for universal electricity access in Sub-Saharan Africa",
-                "desc": "Grid expansion remains a key strategy for increasing electricity access across Sub-Saharan Africa (SSA). However, whether utilities can generate sufficient revenue under current tariffs to support capital investment is unclear. We compile a comprehensive dataset of residential electricity tariffs for 48 SSA countries and develop a standardized model to estimate electricity bills using the Multi-Tier Framework (MTF). Affordability is assessed across income percentiles using simulated income distributions. Under current tariffs, around 608 million people (50%) may not afford Tier 4 electricity, rising to 1.05 billion (85%) for Tier 5 under a 10% energy-poverty threshold. Sensitivity analyses using 5% and 15% thresholds confirm the robustness of these findings. Even where higher-tier electricity is affordable, usage remains low. Combining affordability estimates with utility financial performance, we identify where grid expansion could be viable and where affordability constraints and utility deficits can create electrification traps. In many countries, off-grid solutions may be the only feasible pathway to achieving SDG7. This study compiles a region-wide database of residential electricity tariffs in Sub-Saharan Africa and shows that current grid expansion strategies may create electrification traps, leaving electricity unaffordable for households and financially unsustainable for utilities.",
-                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41467-026-75104-7?error=cookies_not_supported&code=3210cf97-73a6-4012-bd65-c847940aa4ad",
-                "source": "Nature",
-                "date": "2026-07-09T16:57:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Average 30-year US mortgage rate rises to 6.49%, pushing up homebuyers' borrowing costs",
-                "desc": "The average long-term U.S. mortgage rate drew closer this week to 6.5%, pushing up borrowing costs for prospective homebuyers",
-                "image": "https://i.abcnewsfe.com/a/6f49289a-a108-4a3f-8d9b-332f569f4a62/wirestory_29c907cc408cf7f88a8fcb3292150b1f_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Business/wireStory/average-30-year-us-mortgage-rate-rises-649-134622765",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-09T16:54:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BMW recalls over 10,000 vehicles sold since 2016",
-                "desc": "BMW recalls 10, 961 vehicles due to a faulty starter.",
-                "image": "https://www.enca.com/sites/default/files/styles/large/public/2025-06/AFP__20250411__porzycki-carmanuf250410_nphSq__v1__HighRes__CarManufacturers.jpg.webp?itok=5M-cdCv1",
-                "url": "https://www.enca.com/business-news-top-stories/bmw-recalls-over-10000-vehicles-sold-2016",
-                "source": "eNCA",
-                "date": "2026-07-09T16:53:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Regional banks are rallying, and the charts show one name stands out",
-                "desc": "This Cincinnati-based regional bank has quietly become one of the stronger performers in the sector.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108332120-1783522069069-gettyimages-2285213544-mms16815_cx6arvr9.jpeg?v=1783522113&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/09/regional-banks-are-rallying-and-the-charts-show-one-name-stands-out.html",
-                "source": "CNBC",
-                "date": "2026-07-09T16:50:08Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Sony's Pricey 1000X 'Collexion' Headphones Just Got Their First Discount",
+                "desc": "The 1000X The Collexions are Sony's latest flagship headphones, and right now you can get them for $599.99 (originally $649.99).",
+                "image": "https://lifehacker.com/imagery/articles/01KX48FN6ZGWM3N55C4CRSDGEV/hero-image.fill.size_1200x675.png",
+                "url": "https://lifehacker.com/tech/sony-1000x-the-collexion-headphones-deal-july-2026",
+                "source": "Lifehacker",
+                "date": "2026-07-09T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Star Just Ate a Planet, and It’s Not Done Yet",
+                "desc": "A star 1,300 light-years away appears to have just consumed one world and is gearing up for seconds.",
+                "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09SCI-HUNGRY-STAR-01-clhw/09SCI-HUNGRY-STAR-01-clhw-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+                "source": "The New York Times",
+                "date": "2026-07-09T20:58:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+                "desc": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+                "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+                "source": "Ars Technica",
+                "date": "2026-07-09T20:52:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Releases A New ChatGPT Tool For All Things Work Related",
+                "desc": "OpenAI's long-awaited super app is here.",
+                "image": "https://www.engadget.com/img/gallery/openai-releases-chatgpt-work-tool-macos-windows-web-plans/l-intro-1783630509.jpg",
+                "url": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
+                "source": "Engadget",
+                "date": "2026-07-09T20:50:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Record Breaking Speedmax Now Available",
+                "desc": "Fresh off setting a bike course record at Challenge Roth and powering Sam Laidlow to a long-distance world best, Canyon's fastest-ever Speedmax is now available to every triathlete.",
+                "image": "https://triathlonmagazine.ca/wp-content/uploads/2026/07/Canyon-Kat.jpg",
+                "url": "https://triathlonmagazine.ca/gear/the-wait-is-over-the-world-record-breaking-speedmax-now-available/",
+                "source": "triathlonmagazine.ca",
+                "date": "2026-07-09T20:47:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Layoffs Hit GameSpot Again",
+                "desc": "It's the fifth round of layoffs since the company was purchased by Fandom",
+                "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/gamespot-logo.png",
+                "url": "https://aftermath.site/gamespot-layoffs-july-2026/",
+                "source": "Aftermath",
+                "date": "2026-07-09T20:46:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Get Back to School Shopping Starts Early With Double Deals on HP Laptops and JLab Headphones",
+                "desc": "Walmart has a pair of price drops worth noticing on a great everyday laptop and a pair of kid-friendly headphones, but get them before the first bell rings.",
+                "image": "https://i.pcmag.com/imagery/articles/02234LWRa34a9r27mT5Vhlb-3.fit_lim.size_1200x630.v1783620237.jpg",
+                "url": "https://www.pcmag.com/deals/early-back-to-school-shopping-deals-walmart-laptops-headphones-july-9",
+                "source": "PCMag",
+                "date": "2026-07-09T20:46:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost",
+                "desc": "The company's post-trained GLM 5.2 preview pairs a cheaper open-source base with a frontier advisor—and it's already live in production.",
+                "image": "https://s.yimg.com/lo/mysterio/api/aeecdecd66280babbc6a1d5fd6a59a4c4923aa890c31b15052b53e224f48d5bf/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fb8c583078266d468b1afe6af025ba6c3",
+                "url": "https://tech.yahoo.com/ai/perplexity-ai/articles/perplexity-fine-tuned-chinese-ai-204028476.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-09T20:40:28Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The Elder Scrolls 6 May Be Impacted By Xbox Reset",
                 "desc": "It's no secret that Xbox is undergoing massive changes, including everything from mass layoffs to studio closures, but it seems as though studios and developers are starting to feel the less obvious repercussions to the recent hardships at Xbox. According to a recent report by IGN, the layoffs at...",
@@ -1192,81 +1264,99 @@
                 "source": "Android Authority",
                 "date": "2026-07-09T17:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft goes all in on new AI-powered Windows security strategy - what it means for you",
-                "desc": "An elite security team at Microsoft has built an AI-powered pipeline to find vulnerabilities in Windows and get them to engineers to build fixes.",
-                "image": "https://www.zdnet.com/a/img/resize/34dce4c4bd0f3ea782a9161cdc13abb07e8718c8/2026/07/09/6d5a2b4d-92aa-47f6-8d09-e9185eed8c13/gettyimages-2204252010.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/microsoft-windows-ai-security-vulnerability-analysis/",
-                "source": "ZDNET",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wild 2,000hp Hennessey Venom F5-M is at Goodwood this week",
-                "desc": "The world’s most powerful road car with a manual gearbox makes its public debut at this weekend’s Goodwood Festival of Speed.",
-                "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-Hennessey-Venom-F5-M-Goodwood.jpg",
-                "url": "https://www.motoringresearch.com/car-news/hennessey-venom-f5-m-goodwood/",
-                "source": "Motoring Research",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft: Our AI-Powered Bug Hunting Means More Windows Security Patches",
-                "desc": "Microsoft is embracing AI to help it find vulnerabilities in Windows, but says it's prioritizing quality with humans in the loop. Still, the company has a history of bug-filled OS updates.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-our-ai-powered-bug-hunting-means-more-windows-secu_vn7z.1200.jpg",
-                "url": "https://au.pcmag.com/ai/118688/microsoft-our-ai-powered-bug-hunting-means-more-windows-security-patches",
-                "source": "PCMag Australia",
-                "date": "2026-07-09T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bose QuietComfort Ultra Earbuds are Over 40% Off: Deal of the Day",
-                "desc": "These wireless earbuds are 43% off on Amazon, and have some of the best noise-cancelling you can buy, but supply is limited.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260709-DOTD-bose-quiet-comfort-mm-main-03e117.jpg",
-                "url": "https://www.nbcnews.com/select/shopping/bose-quietcomfort-ultra-earbuds-deal-of-the-day-2026-rcna353685",
-                "source": "NBC News",
-                "date": "2026-07-09T16:58:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Words behind the controller: how a Canadian games journalist started writing AAA games",
-                "desc": "Alberta's Mitch Dyer unpacks his journey from working at IGN to writing big Star Wars, Batman and Crossfire games.",
-                "image": "https://production-static.mobilesyrup.com/uploads/2026/07/mitch-dyer-ign-battlefront-2-crossfire-scaled.jpg",
-                "url": "https://mobilesyrup.com/2026/07/09/canadian-game-dev-mitch-dyer-ign-star-wars-batman-crossfire-interview/",
-                "source": "MobileSyrup",
-                "date": "2026-07-09T16:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Play Launches $1million Indie Games Fund For African Game Developers",
-                "desc": "Final selections and the announcement of the 10 chosen studios will take place in September 2026.",
-                "image": "https://thenativemag.com/wp-content/uploads/2026/07/GPxIndieFI.jpg.jpeg",
-                "url": "https://thenativemag.com/google-play-launches-1million-indie-games-fund-for-african-game-developers/",
-                "source": "NativeMag",
-                "date": "2026-07-09T16:52:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nocs Provisions Launches Zero Tube 8x25 Monocular",
-                "desc": "Nocs Provisions, the optics brand built for those who move through the world with curiosity, today announces the release of the Zero Tube 8x25, following last year’s successful launch of the original Zero Tube 10x25.",
-                "image": "https://www.outdoorsportswire.com/wp-content/uploads/2026/07/BigSurCassCleave2026_DSC04458-1.jpg",
-                "url": "https://www.outdoorsportswire.com/nocs-provisions-launches-zero-tube-8x25-monocular/",
-                "source": "Outdoor Sportswire",
-                "date": "2026-07-09T16:38:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dragon Age creator reckons the series is dead following Veilguard flop, but that doesn't mean he wouldn't have another go at it if given the chance",
-                "desc": "Dragon Age creator David Gaider has said he thinks it's \"unlikely\" the fantasy RPG has a future under EA.",
-                "image": "https://assetsio.gnwcdn.com/dragon-age-the-veilguard-lucanis-leaning-against-fireplace_d8rrCZZ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/dragon-age-future-david-gaider-bioware",
-                "source": "Eurogamer.net",
-                "date": "2026-07-09T16:36:46Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Japanese Aid Boosting Education, Health, and More in Chuuk, Micronesia",
+                "desc": "JICA has a long history of dispatching specialists to Micronesia. The educational, health-related, and other assistance they provide is more important than ever at a time when US foreign aid is being pulled back. A look at three Japanese volunteers on the ground in this island nation.",
+                "image": "https://www.nippon.com/en/ncommon/contents/japan-topics/3036056/3036056.jpg",
+                "url": "https://www.nippon.com/en/japan-topics/g02603/",
+                "source": "nippon.com",
+                "date": "2026-07-09T21:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japanese Aid Boosting Education, Health, and More in Chuuk, Micronesia",
+                "desc": "JICA has a long history of dispatching specialists to Micronesia. The educational, health-related, and other assistance they provide is more important than ever at a time when US foreign aid is being pulled back. A look at three Japanese volunteers on the ground in this island nation.",
+                "image": "https://www.nippon.com/en/ncommon/contents/japan-topics/3036056/3036056.jpg",
+                "url": "https://www.nippon.com/en/japan-topics/g02603/japanese-aid-boosting-education-health-and-more-in-chuuk-micronesia.html",
+                "source": "nippon.com",
+                "date": "2026-07-09T21:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Johor’s investment surge: Where are the benefits for voters?",
+                "desc": "Johor sees record investment, but residents question the tangible economic benefits and improved infrastructure for their daily lives. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d7914eddd48901611cec755df0ab3d80fdc6a747b35765d8e703f6112dd6c898",
+                "url": "https://www.straitstimes.com/asia/se-asia/johors-investment-surge-has-voters-asking-where-are-the-benefits",
+                "source": "The Straits Times",
+                "date": "2026-07-09T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hawaii's famous “happy-face” spider has a surprising relative",
+                "desc": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
+                "image": "https://www.sciencedaily.com/images/1920/happy-face-spider.webp",
+                "url": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm",
+                "source": "ScienceDaily",
+                "date": "2026-07-09T20:58:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hawaii's famous “happy-face” spider has a surprising relative",
+                "desc": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
+                "image": "https://www.sciencedaily.com/images/1920/happy-face-spider.webp",
+                "url": "http://www.sciencedaily.com/releases/2026/07/260709160627.htm",
+                "source": "ScienceDaily",
+                "date": "2026-07-09T20:58:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South African protesters go door-to-door forcing immigrants from their homes",
+                "desc": "Groups of anti-immigration South Africans seized foreigners from their homes in Johannesburg on Thursday ​and handed them to police in a hardening of protests that have sown fear ‌in communities and strained ties with some countries.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260709-south-africa-anti-immigration-vl-257p-b8e535.jpg",
+                "url": "https://www.nbcnews.com/world/africa/south-african-protesters-forcing-immigrants-homes-rcna353747",
+                "source": "NBC News",
+                "date": "2026-07-09T20:58:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "“It can reach speeds of an impressive 72 kmph...\" 6 fastest, speediest wild dogs on the planet",
+                "desc": "When you picture a fast animal, a cheetah or a racehorse probably comes to mind – but wild dogs are quietly some of the most efficient runners on the planet",
+                "image": "https://c02.purpledshub.com/uploads/sites/62/2026/07/GettyImages-2213380313.jpg?w=1200",
+                "url": "https://www.discoverwildlife.com/animal-facts/mammals/fastest-wild-dogs",
+                "source": "BBC Wildlife Magazine",
+                "date": "2026-07-09T20:50:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Trump transformed NATO's extraordinary 48 hours",
+                "desc": "Steve Sedgwick goes behind the scenes of NATO's dramatic 48 hours, where Trump's changing tone reshaped diplomacy and left allies guessing.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108332524-1783571777072-IMG_3154.jpg?v=1783571875&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
+                "source": "CNBC",
+                "date": "2026-07-09T20:48:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+                "desc": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/776a/live/6ba45870-7bd1-11f1-b543-9988255dfa81.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o",
+                "source": "BBC",
+                "date": "2026-07-09T20:47:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+                "desc": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/776a/live/6ba45870-7bd1-11f1-b543-9988255dfa81.jpg",
+                "url": "https://www.bbc.com/news/articles/cpv3e8y39j7o",
+                "source": "BBC",
+                "date": "2026-07-09T20:47:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ukraine to receive Patriot missiles from allies - but unclear when, Zelensky says amid air defense crisis",
                 "desc": "\"There are no dates set yet, but there will be additional PAC-3s,\" President Volodymyr Zelensky told reporters a day after the conclusion of the NATO summit in Turkey.",
@@ -1806,98 +1896,8 @@
                 "source": "BusinessGhana",
                 "date": "2026-07-09T17:08:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "European imperialists seek access to markets, cheap labour and critical raw materials amid deepening great-power rivalries--Part 2",
-                "desc": "The intensification of inter-imperialist antagonisms and open reemergence of conflicting blocs resembles the competing trade blocs of the 1930s that preceded and fuelled World War II.",
-                "image": "https://www.wsws.org/asset/37d09243-3d8f-4283-bc58-f5a8fd393cf5?rendition=1600x900",
-                "url": "https://www.wsws.org/en/articles/2026/07/09/wnqb-j09.html",
-                "source": "World Socialist Web Site",
-                "date": "2026-07-09T17:06:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "INTERPOL nabs 5,800 Yahoo Boys, recovers $293 million",
-                "desc": "The INTERPOL said, \"Other significant results include 152,808 cases analyzed, 31,014 bank accounts blocked, 23,715 cases solved, 15,606 suspects identified, 99 notices and diffusions issued.\"",
-                "image": "https://gazettengr.com/wp-content/uploads/37663B82-0013-4C88-BFCD-EE2EAC72760A.jpeg",
-                "url": "https://gazettengr.com/interpol-nabs-5800-yahoo-boys-recovers-293-million/",
-                "source": "Peoples Gazette Nigeria",
-                "date": "2026-07-09T16:58:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Makor to detail Zambia copper plan at AMW",
-                "desc": "Brooke Bibeault, the CEO of Makor Resources, will present at African Mining Week (AMW) in Cape Town, taking place from Oct. 14 […]",
-                "image": "https://www.canadianminingjournal.com/wp-content/uploads/2026/07/Brooke.jpg",
-                "url": "https://www.canadianminingjournal.com/news/makor-to-detail-zambia-copper-plan-at-amw/",
-                "source": "Canadian Mining Journal",
-                "date": "2026-07-09T16:56:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
-                "desc": "Tuareg separatists and their jihadist allies attacked a convoy of Russian mercenaries and Malian soldiers Thursday morning as they travelled to help cohorts",
-                "image": "https://cdn.modernghana.com/images/content/79202663617-vbrduhgtso-000-a92j2cf-1.jpg",
-                "url": "https://www.modernghana.com/news/1509280/mali-rebels-attack-convoy-of-russian-reinforcement.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-09T16:52:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sudan: Prime Minister Meets African Union Envoy to Sudan",
-                "desc": "Prime Minister Prof. Kamil Idris on Thursday met with the African Union (AU) Envoy to Sudan, Ambassador Mohamed Belaiche, in the presence of the Prime Minister's Adviser, Nizar Abdullah Mohamed.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607090642.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-09T16:50:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top 10 countries with the largest economies in Africa: 2026 rankings",
-                "desc": "Discover the top 10 largest economies in Africa in 2026 based on projected nominal GDP. See which countries lead the continent, according to the latest IMF data compiled by Worldometers. Read more.",
-                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/09072026/60659486-dfa7-45e2-bb4c-97687f7bc41b.jpeg?operations=crop(400:225:3600:2025),autocrop(1200:630)",
-                "url": "https://www.pulse.com.gh/story/largest-economies-africa-2026070916413856867",
-                "source": "Pulse Ghana",
-                "date": "2026-07-09T16:49:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Public consultation for city’s 1st blueprint brings real policy value",
-                "desc": "Virginia Lee says that gaining an understanding of broad sectors of society will sharpen reasoning and improve coordination.",
-                "image": "https://www.chinadailyhk.com/upload/main/image/2024/04/12/680124429e7c7c227beaf69803a9c142.jpg",
-                "url": "https://www.chinadailyasia.com/hk/article/636190",
-                "source": "chinadailyasia.com",
-                "date": "2026-07-09T16:48:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘President Donald Trump Airport’ is christened in Palm Beach - but flight attendants may not call it that",
-                "desc": "The South Florida airport officially became Donald J. Trump International Airport Thursday",
-                "image": "https://static.independent.co.uk/2026/07/09/17/2026-07-09T144435Z_841631619_RC2DAMA51GH8_RTRMADP_3_USA-TRUMP-AIRPORT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-airport-palm-beach-b3012053.html",
-                "source": "The Independent",
-                "date": "2026-07-09T16:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Making Every Dollar Count for Namibia's Future",
-                "desc": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% Namibia stands at a crossroads.",
-                "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-09-at-5.33.09-PM-1024x768.jpeg",
-                "url": "https://www.namibian.com.na/making-every-dollar-count-for-namibias-future/",
-                "source": "The Namibian -",
-                "date": "2026-07-09T16:44:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran-US war latest: Tehran accuses Trump of strike near nuclear plant in fresh escalation of attacks",
-                "desc": "US president says ceasefire ‘over’ following strikes on ships in Strait of Hormuz",
-                "image": "https://static.independent.co.uk/2026/07/09/7/57/tag_reuters-com-2026_newsml_RC2M9MAFHVM3_376591435-reuters.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-kuwait-bahrain-nato-b3011605.html",
-                "source": "The Independent",
-                "date": "2026-07-09T16:43:50Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T08:40:18.928049Z"
+    "lastGlobalSync": "2026-07-10T09:00:26.444370Z"
 }
