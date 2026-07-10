@@ -4,6 +4,15 @@
     "en": {
         "business": [
             {
+                "title": "B.C. government approves higher Mount Polley tailings dam, 12 years after disaster",
+                "desc": "Ministers in British Columbia have approved plans to increase the height of the tailings storage facility at the Mount Polley copper and gold mine, the site of a catastrophic dam collapse more than a decade ago.",
+                "image": "https://www.castanet.net/content/2026/7/8c2586fbb6dc0c95c5a6287a3ca888776c531112b8e13e110a9ea4f1ea943f5d.jpg",
+                "url": "https://www.castanet.net/news/BC/624001/B-C-government-approves-higher-Mount-Polley-tailings-dam-12-years-after-disaster",
+                "source": "Castanet",
+                "date": "2026-07-10T01:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
                 "desc": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
                 "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea4f/live/3385e7f0-7ba5-11f1-867f-b981d6d1f257.jpg",
@@ -622,15 +631,6 @@
                 "url": "https://www.rnz.co.nz/news/personal-finance/696249/banks-increase-rates-after-ocr-rise-so-what-s-ahead",
                 "source": "RNZ",
                 "date": "2026-07-09T22:17:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Instagram’s AI image generator alarms privacy experts",
-                "desc": "Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warn",
-                "image": "https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1f83cd11e496eddc9af135749eb8e73",
-                "url": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
-                "source": "The Guardian",
-                "date": "2026-07-09T22:16:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1268,6 +1268,15 @@
         ],
         "world": [
             {
+                "title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+                "desc": "Israeli strike killed Mohammed al-Wahidi and three others on the eve of the Egypt vs Argentina match on Tuesday.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a503210a3190-1783640592.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup",
+                "source": "Al Jazeera",
+                "date": "2026-07-10T01:45:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Pioneering treatment saves identical twins from rare pregnancy condition",
                 "desc": "Identical twins Nancy and Margo benefitted from the procedure while in the womb as part of a world-first medical trial.",
                 "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e635/live/13b6d150-7aba-11f1-9510-1546718f668b.jpg",
@@ -1887,17 +1896,8 @@
                 "source": "NBC News",
                 "date": "2026-07-09T20:58:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "“It can reach speeds of an impressive 72 kmph...\" 6 fastest, speediest wild dogs on the planet",
-                "desc": "When you picture a fast animal, a cheetah or a racehorse probably comes to mind – but wild dogs are quietly some of the most efficient runners on the planet",
-                "image": "https://c02.purpledshub.com/uploads/sites/62/2026/07/GettyImages-2213380313.jpg?w=1200",
-                "url": "https://www.discoverwildlife.com/animal-facts/mammals/fastest-wild-dogs",
-                "source": "BBC Wildlife Magazine",
-                "date": "2026-07-09T20:50:10Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T13:40:18.976934Z"
+    "lastGlobalSync": "2026-07-10T13:45:45.371405Z"
 }
