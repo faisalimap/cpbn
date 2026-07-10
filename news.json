@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Why did only 2 Hong Kong developers put up their hands for Northern Metropolis project?",
+                "desc": "New land disposal model pairing developers and industrial operators demands longer paybacks, with implications for smaller firms, experts say.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/df76dadb-ea8d-4543-9d88-b86fdfa94d40_5ef458bd.jpg?itok=kj8j_GA_&v=1783610744",
+                "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360033/why-did-only-2-hong-kong-developers-put-their-hands-northern-metropolis-project",
+                "source": "South China Morning Post",
+                "date": "2026-07-10T00:30:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian Equities Emerge World's Top Dollar-Return Market",
+                "desc": "Nigerian equities have become the world's best-performing stock market in dollar terms, driven by economic reforms and a stronger naira. Discover why Niger",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/Stock-Market_1783643044.webp",
+                "url": "https://punchng.com/nigerian-equities-emerge-worlds-top-dollar-return-stock-market/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-10T00:26:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PIND, ColdHubs Unveil Solar Cold Hub to Preserve Farm Produc",
+                "desc": "PIND and ColdHubs launch a solar cold hub in Bayelsa to reduce post-harvest losses, improve incomes for farmers and fisherfolk, and boost food security.",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/Solar_1782802642.webp",
+                "url": "https://punchng.com/pind-coldhubs-unveil-solar-cold-hub-to-preserve-farm-produce/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-10T00:26:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trust breaks down in a predictable order: Big challenge for Big Four",
+                "desc": "A trust crisis is enveloping the Big Four accounting firms — KPMG, EY, Deloitte and PwC. Here's how they can fix it.",
+                "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/07/kpmg.jpg?quality=70&w=1024",
+                "url": "https://www.crikey.com.au/2026/07/10/big-four-kpmg-ey-deloitte-pwc-trust-accountability/",
+                "source": "Crikey",
+                "date": "2026-07-10T00:23:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia Post worker charged over alleged mail tampering at Perth Airport",
+                "desc": "Australia Post worker Hussam Kassem is charged by police with mail tampering at a Perth Airport sorting facility, with $34,000 seized during a search of his home and car.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/117ae2739bebc46e3e3b3f8c61ee0d2a?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=54&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-10/australia-post-worker-charged-over-alleged-perth-mail-tampering/106900552",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-10T00:21:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI says GPT 5.6 is the 'preferred model' for Microsoft Copilot 365 amid breakup chatter",
+                "desc": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+                "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+                "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+                "source": "TechCrunch",
+                "date": "2026-07-10T00:16:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prinx to showcase Xelera EcoLine at Nürburgring Truck Grand Prix",
+                "desc": "Prinx Europe will use this year’s Truck Grand Prix at the Nürburgring to present its latest truck tyre, the Xelera EcoLine, while increasing brand visibility through its sponsorship of Garrett Trucksport.",
+                "image": "https://www.tyrepress.com/wp-content/uploads/2026/07/RK5R4248-scaled.jpg",
+                "url": "https://www.tyrepress.com/2026/07/prinx-to-showcase-xelera-ecoline-at-nurburgring-truck-grand-prix/",
+                "source": "Tyrepress",
+                "date": "2026-07-10T00:13:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LCCI, CPPE Back Commercial Move",
+                "desc": "LCCI and CPPE support Dangote Refinery's acquisition of UAE crude, citing commercial decisions over diplomacy. This move diversifies supply amid domestic s",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/lcci_1783642290.webp",
+                "url": "https://punchng.com/lcci-cppe-back-dangotes-acquisition-of-uae-crude/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-10T00:12:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Livestock Digital Marketplace Launched for Export Growth",
+                "desc": "ABIS Group launches a digital marketplace to modernize Nigeria's livestock trade, improve food safety, and boost export growth, targeting international mar",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/digital-mkt-place_1783638848.webp",
+                "url": "https://punchng.com/digital-marketplace-targets-livestock-trade-export-growth/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-10T00:11:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cooking Gas Prices Remain High Despite Improved Supply",
+                "desc": "Despite improved supply, cooking gas prices in Nigeria remain high, leaving millions of households struggling with affordability. Find out why.",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/Gas-leak_1783005516.webp",
+                "url": "https://punchng.com/cooking-gas-prices-remain-high-despite-improved-supply/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-10T00:11:02Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Elon Musk’s plans to colonize space launches this year, and Tesla robots will be the first residents",
                 "desc": "Trillionaire Elon Musk aims to have rockets blast off from Earth before the end of 2026, sending the first materials to the moon and Mars to start building colonies.",
                 "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-u0y6dg8bs-1783641482865.jpg?quality=75&strip=all&1783627102&w=1200",
@@ -542,99 +632,90 @@
                 "source": "WWD",
                 "date": "2026-07-09T21:21:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
-                "desc": "The news firms allege ChatGPT maker is hiding evidence important to what could be landmark copyright infringement trial.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26048822295469-1778770491.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute",
-                "source": "Al Jazeera",
-                "date": "2026-07-09T21:20:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aritzia Reports Strong Q1, Sees Momentum Continuing",
-                "desc": "Aritzia Reports Strong Q1 2026 as it steadily expands in North America and sees robust demand for its fashion.",
-                "image": "https://wwd.com/wp-content/uploads/2025/11/Aritzia-Flatiron-Exterior.jpg?crop=0px%2C791px%2C6000px%2C3357px&resize=1000%2C563",
-                "url": "https://wwd.com/business-news/retail/aritzia-q1-momentum-steady-expansion-1239060707/",
-                "source": "WWD",
-                "date": "2026-07-09T21:18:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
-                "desc": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/d59d765/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2Fa9%2Ff022905d435f86b7eb852c6842eb%2Fc09a775cb578415dae565f2086d8dfb6.jpg",
-                "url": "https://www.latimes.com/business/story/2026-07-09/stocks-recover-losses-oil-prices-ease-as-calm-returns-to-financial-markets-worldwide",
-                "source": "Los Angeles Times",
-                "date": "2026-07-09T20:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alisa Bowen Exits Disney+ to Become CEO of Disney-Controlled Fubo",
-                "desc": "Alisa Bowen, who has served as president of Disney+ since 2022, is leaving that role to become CEO of Fubo, the internet TV streaming service that is majority owned by Disney.",
-                "image": "https://variety.com/wp-content/uploads/2026/07/Alisa-Bowen.png?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/tv/news/alisa-bowen-ceo-fubo-disney-plus-1236806015/",
-                "source": "Variety",
-                "date": "2026-07-09T20:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Releases A New ChatGPT Tool For All Things Work Related",
-                "desc": "OpenAI's long-awaited super app is here.",
-                "image": "https://www.engadget.com/img/gallery/openai-releases-chatgpt-work-tool-macos-windows-web-plans/l-intro-1783630509.jpg",
-                "url": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
-                "source": "Engadget",
-                "date": "2026-07-09T20:50:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's how many New Zealanders are going bankrupt",
-                "desc": "\"There is likely a taboo around insolvency out there which is a hangover from a couple of centuries where debtors faced awful treatment,\" one economist said.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/empty-wallet-UIO6ZDR2URFSTEGFHA4NAD2LVY.jpg?auth=d3f23959890c6bb70f7b646fb8da28a375119af9a9478a89ba8a596de6f4e19b&quality=70&width=600&height=315&focal=3659%2C2036",
-                "url": "https://www.1news.co.nz/2026/07/10/heres-how-many-new-zealanders-are-going-bankrupt/",
-                "source": "1News",
-                "date": "2026-07-09T20:49:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
-                "desc": "New VentureBeat survey data: 69% of enterprises share AI agent credentials, letting one compromised agent inherit the access of every workflow it touches.",
-                "image": "https://images.ctfassets.net/jdtwqhzvc2n1/66fVTkq6EXowtfjlEBMGjB/d642a9b78a4976d2a4767a552a229708/Shared_API_keys_expose_AI_agent_fleets_at_69-_of_enterprises__new_VentureBeat_research_finds.png?w=800&q=75",
-                "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
-                "source": "VentureBeat",
-                "date": "2026-07-09T20:45:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
-                "desc": "Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f29fa63f4b14ea6cdae7227afbfdec353fff7f-1200x799.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-                "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
-                "source": "CoinDesk",
-                "date": "2026-07-09T20:43:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Summary of Regulations Under Enhancing Digital Security and Trust Act",
-                "desc": "Overview As we previously wrote about here, the Enhancing Digital Security and Trust Act, 2024 introduced new regulatory frameworks for Ontario public sector employers with respect to topics like artificial intelligence systems, cyber security, school boards’ collection of digital information of youth under age 18, and more.   On July 1, 2026, two new regulations […]",
-                "image": "https://filionlaw.com/wp-content/uploads/2025/10/cropped-f-favicon-32x32.png",
-                "url": "https://filionlaw.com/insights/summary-of-regulations-under-enhancing-digital-security-and-trust-act/",
-                "source": "Filion Wakely Thorup Angeletti LLP",
-                "date": "2026-07-09T20:41:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lokpobiri: Asian, European countries now showing interest in Nigeria’s oil sector since US- Iran war",
-                "desc": "Heineken Lokpobiri, minister of state for petroleum resources (gas), says European and Asian countries are now showing increased interest in Nigeria's oil sector following the US-Iran crisis.",
-                "image": "https://www.thecable.ng/wp-content/uploads/2026/07/Heineken-Lokpobiri-22-2026-07-09-616.jpg",
-                "url": "https://www.thecable.ng/lokpobiri-asian-european-countries-now-showing-interest-in-nigerias-oil-sector-since-us-iran-war/",
-                "source": "TheCable",
-                "date": "2026-07-09T20:41:16Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Lowering computational costs in decentralized finance systems using AI-assisted contract development",
+                "desc": "Researchers have developed a benchmarking framework to assess whether artificial intelligence (AI) can generate decentralized finance (DeFi) smart contracts that are efficient and cost-effective, lowering computational costs, ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2020/code.jpg",
+                "url": "https://techxplore.com/news/2026-07-lowering-decentralized-ai.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-10T00:40:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI launches GPT-Live for ChatGPT Voice globally",
+                "desc": "ChatGPT users worldwide will get more natural spoken exchanges, as the new full-duplex system listens and talks at the same time.",
+                "image": "https://itbrief.com.au/uploads/story/2026/07/10/compatible_ChatGPT_Live.jpg",
+                "url": "https://itbrief.com.au/story/openai-launches-gpt-live-for-chatgpt-voice-globally",
+                "source": "IT Brief Australia",
+                "date": "2026-07-10T00:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Long Do Users Say Android Watches Typically Last?",
+                "desc": "The hardware of Android smartwatches starts deteriorating after two years, though they remain usable; software support, however, lasts five years at most.",
+                "image": "https://www.bgr.com/img/gallery/how-long-do-users-say-android-watches-typically-last/l-intro-1783361342.jpg",
+                "url": "https://www.bgr.com/2208887/how-long-do-android-smartwatches-last-lifespan/",
+                "source": "bgr.com",
+                "date": "2026-07-10T00:34:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Teaching Smart Materials To Move Like Humans",
+                "desc": "Danqing Liu explores how interactions with digital systems can be improved through the sense of touch. To achieve this, she develops advanced liquid",
+                "image": "https://assets.w3.tue.nl/w/fileadmin/content/pers/2026/07%20July/Papers%20Danqing%20Liu/Header%20papers%20Danqing%20Liu%20%282%29.jpeg",
+                "url": "https://www.miragenews.com/teaching-smart-materials-to-move-like-humans-1707975/",
+                "source": "Mirage News",
+                "date": "2026-07-10T00:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iRacing set to increase subscription costs",
+                "desc": "iRacing will increase the cost of all its subscription plans this coming August.",
+                "image": "https://traxion.gg/wp-content/uploads/2026/07/1-8.jpg",
+                "url": "https://traxion.gg/iracing-set-to-increase-subscription-costs/",
+                "source": "Traxion.GG",
+                "date": "2026-07-10T00:23:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI is Killing the Atlas Web Browser",
+                "desc": "Buried in today's OpenAI news is another tidbit that I missed: The company is killing its Atlas web browser.",
+                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/07/openai-chatgpt.jpg",
+                "url": "https://www.thurrott.com/a-i/openai-a-i/338713/openai-is-killing-the-atlas-web-browser",
+                "source": "Thurrott.com",
+                "date": "2026-07-10T00:22:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SDA TAP LAB EVOLVES INTO BMC3I TAP LAB AND IN PARTNERSHIP WITH CATALYST CAMPUS LAUNCHES A NEW MULTI-PHASED PROGRAM TO ACCELERATE MISSION-FOCUSED TECHNOLOGY DEVELOPMENT",
+                "desc": "Mission Catalyst Summit is the Gateway for Companies to Connect, Learn, and Engage with the New BMC3I Ecosystem",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1132004.png",
+                "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/2382081",
+                "source": "The Manila Times",
+                "date": "2026-07-10T00:15:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hearthstone Escape From Violet Hold",
+                "desc": "Hearthstone Escape From Violet Hold is now live with 135 new cards, Legendary Rulebreakers, the Prepare keyword, Disguised minions, and Bribe cards.",
+                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/10020440/hearthstonevioletholdcover-1.jpg",
+                "url": "https://pokde.net/gaming/hearthstone-escape-from-violet-hold-expansion",
+                "source": "Pokde.Net",
+                "date": "2026-07-10T00:03:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Car Design Details Every Gearhead Hates Are Getting Out Of Hand",
+                "desc": "Touchscreens replacing buttons, fake vents, thin tires, and blinding chrome — here are the car design details drivers hate most.",
+                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/honda-civic-type-r-fk8.png?w=1600&h=900&fit=crop",
+                "url": "https://carbuzz.com/car-design-details-enthusiasts-really-hate/",
+                "source": "CarBuzz",
+                "date": "2026-07-10T00:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Google adds GPU & TPU support to GKE Autopilot",
                 "desc": "Developers can now run accelerator-heavy AI workloads on managed GKE Autopilot without handling node setup or low-level network allocation.",
@@ -1183,90 +1264,81 @@
                 "source": "Mashable SEA",
                 "date": "2026-07-09T20:27:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "DuckDuckGo's web browser will now automatically block YouTube ads",
-                "desc": "DuckDuckGo's web browser will now block YouTube ads by default.",
-                "image": "https://helios-i.mashable.com/imagery/articles/046alVaNSlHgLLWCBDiV9ic/hero-image.fill.size_1200x675.v1783627150.png",
-                "url": "https://mashable.com/tech/duckduckgo-web-browser-youtube-ad-blocking",
-                "source": "Mashable",
-                "date": "2026-07-09T20:27:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NVIDIA and Sega to celebrate 30 years of partnership at a 'Guerrilla event' in Japan",
-                "desc": "NVIDIA and Sega to mark 30 years of partnership and memories with a special event for Japanese gamers in Tokyo, featuring NVIDIA CEO Jensen Huang.",
-                "image": "https://static.tweaktown.com/news/1/1/112568_01_nvidia-and-sega-to-celebrate-30-years-of-partnership-at-guerrilla-event-in-japan_full.jpg",
-                "url": "https://www.tweaktown.com/news/112568/nvidia-and-sega-to-celebrate-30-years-of-partnership-at-a-guerrilla-event-in-japan/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-09T20:26:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meet the Star Operator Who Rewrites the Ranged Rulebook in Starward V3.1",
-                "desc": "Details on maximizing playstyles in V3.1, plus a chat with the creator and a look at the Starward summer events live today.",
-                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/3-72ab4cadd17b9aa163be.jpg",
-                "url": "https://news.xbox.com/en-us/2026/07/09/meet-the-star-operator-1/",
-                "source": "XBOX Wire",
-                "date": "2026-07-09T20:21:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Machine learning unlocks a new class of magnetic materials",
-                "desc": "Understanding the influence of quasiperiodicity on magnetic fluctuations could ultimately enable the design of materials with controllable magnetic responses. Such capabilities may prove valuable for future information-processing technologies, advanced sensors, and energy applications.",
-                "image": "https://www.digitaljournal.com/wp-content/uploads/2023/04/Amethyste_3.jpg",
-                "url": "https://www.digitaljournal.com/article/machine-learning-unlocks-a-new-class-of-magnetic-materials/",
-                "source": "Digital Journal",
-                "date": "2026-07-09T20:18:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
-                "desc": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases.",
-                "image": "https://www.bleepstatic.com/content/hl-images/2026/06/10/npm.jpg",
-                "url": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-                "source": "BleepingComputer",
-                "date": "2026-07-09T20:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung’s Galaxy Z Fold8 Ultra said to borrow Galaxy S26 Ultra's camera features",
-                "desc": "It is expected to offer a 200MP primary rear camera. Samsung will unveil the Galaxy Z Fold8 Ultra later this month as the successor to the Galaxy Z Fold7....",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-z-fold8-ultra-camera-features-leak/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_ultra_said_to_borrow_galaxy_s26_ultras_camera_features-news-73650.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-09T20:07:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Just Don’t Use the Super-Long Zoom on Sony’s RX10 V for Anything Creepy, Okay?",
-                "desc": "Your iPhone can't compare to this camera's built-in zoom.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/sonyrx10-v-1200x675.jpg",
-                "url": "https://gizmodo.com/just-dont-use-the-super-long-zoom-on-sonys-rx10-v-for-anything-creepy-okay-2000783748",
-                "source": "Gizmodo",
-                "date": "2026-07-09T20:05:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How ‘Typical Suburban Architecture’ Inspired This New Home",
-                "desc": "In a location where new homes can feel overly assertive, Sorrento House by Victoria Merrett Architects is radical in its restraint.",
-                "image": "https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2026/07/archi-sorrento-house-tdf-020-2200x2860.jpg",
-                "url": "https://thedesignfiles.net/2026/07/architecture-sorrento-house-victoria-merrett",
-                "source": "The Design Files",
-                "date": "2026-07-09T20:04:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The iPhone 18 Pro Max Could Get a Mega Battery Upgrade",
-                "desc": "This year's iPhone Pro line is looking to be the largest (and most expensive) yet.",
-                "image": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-61-1200x675.jpg",
-                "url": "https://gizmodo.com/the-iphone-18-pro-max-could-get-a-mega-battery-upgrade-2000783742",
-                "source": "Gizmodo",
-                "date": "2026-07-09T20:00:23Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Slain Iranian leader buried as successor remains out of sight",
+                "desc": "The burial follows a week of mass funeral processions, rallies and mourning ceremonies that has coincided with a renewed burst of conflict with the US following weeks of truce in the four-month-old war",
+                "image": "https://www.rappler.com/tachyon/2026/07/IRAN-CRISIS-KHAMENEI-2026-07-09-scaled.jpg",
+                "url": "https://www.rappler.com/world/middle-east/iranian-leader-khamenei-buried-successor-out-sight/",
+                "source": "Rappler",
+                "date": "2026-07-10T00:40:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran buries Khamenei after new fighting erupts with US",
+                "desc": "Iran has laid to rest its former supreme leader Ali Khamenei over four months after his killing in an airstrike, as two days of US and Iranian attacks raised fears of a return to all-out war.",
+                "image": "https://www.rte.ie/images/0024abf1-1600.jpg",
+                "url": "https://www.rte.ie/news/middle-east/2026/0710/1582682-middle-east-iran/",
+                "source": "RTE.ie",
+                "date": "2026-07-10T00:35:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+                "desc": "Two explosions in the Syrian capital earlier this week came as French President Emmanuel Macron was visiting.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AA-20260707-41901523-41901510-EIGHTEEN_INJURED_IN_DOUBLE_EXPLOSIONS_NEAR_TOURISM_MINISTRY_IN_SYRIAN_CAPITAL_DAMASCUS-1783515444.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested",
+                "source": "Al Jazeera",
+                "date": "2026-07-10T00:33:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A remote bridge shows how US-Iran war is expanding",
+                "desc": "A reported US strike on a railway bridge in northern Iran has drawn attention to a lesser-known front in the widening conflict: the battle over the transport corridors linking Iran to Central Asia, Russia and China.",
+                "image": "https://i.iranintl.com/images/rdk9umy0/production/19d9463b680d41d9c70b8dd30fa108114eac337a-1200x800.jpg?rect=112,139,1043,548&w=1200&h=630&q=66&fit=max&auto=format",
+                "url": "https://www.iranintl.com/en/202607090077",
+                "source": "ایران اینترنشنال",
+                "date": "2026-07-10T00:28:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU drafts 'Buy European' rules for public tenders to curb foreign dependence",
+                "desc": "New EU procurement rules will seek to harness the European Union's ​collective purchasing power to favour the bloc's own companies and reduce dependence on foreign suppliers, a ‌draft document seen by Reuters shows.",
+                "image": "https://citizentv.obs.af-south-1.myhuaweicloud.com/114346/conversions/EU-og_image.webp",
+                "url": "https://citizen.digital/article/eu-drafts-buy-european-rules-for-public-tenders-to-curb-foreign-dependence-n386159",
+                "source": "Citizen Digital",
+                "date": "2026-07-10T00:24:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telstra’s triple-zero failure is a result of prioritising neoliberal ‘competition’ and reaping none of its benefits",
+                "desc": "Perhaps we will return to public ownership of infrastructure networks. But for now we need to consider limited steps, with a more radical solution for fragile emergency services",
+                "image": "https://i.guim.co.uk/img/media/9422455da2dd50c7e6c50d777548f63e243f2b8c/548_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=0953349018deceaee2fdc54128bf96d5",
+                "url": "https://www.theguardian.com/commentisfree/2026/jul/09/telstras-triple-zero-failure-is-a-result-of-prioritising-neoliberal-competition-and-reaping-none-of-its-benefits",
+                "source": "The Guardian",
+                "date": "2026-07-10T00:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Battle begins to replace Graham Platner as his withdrawal from Senate race looms",
+                "desc": "Democrats in Maine are already competing to get their name on the ballot and take on incumbent Republican Senator Susan Collins in November.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d807/live/0378bdf0-7bf3-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cpq30wxr1x2o",
+                "source": "BBC",
+                "date": "2026-07-10T00:07:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MSC introduces low water surcharge for Montreal shipments",
+                "desc": "MSC Mediterranean Shipping Company will introduce a Saint-Laurent Low Water (SLW) surcharge on cargo moving to or via Montreal.",
+                "image": "https://container-news.com/wp-content/uploads/2025/08/MSC-Michel-Cappellini-approaching-the-terminal-of-Sines.jpg",
+                "url": "https://container-news.com/msc-introduces-low-water-surcharge-for-montreal-shipments/",
+                "source": "Container News",
+                "date": "2026-07-10T00:04:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "2026/49 “Managing the Margins: China’s Risk Calculus in Myanmar’s Civil War” by Htet Shein Lynn",
                 "desc": "China engages Ethnic Armed Organisations (EAOs) in Myanmar based on pragmatic risk management rather than ideological alliance or proxy sponsorship.",
@@ -1824,80 +1896,8 @@
                 "source": "AP News",
                 "date": "2026-07-09T20:11:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Zimbabwe receives its first MD-530F, a U.S.-made aircraft built for combat and civilian missions",
-                "desc": "The US-based helicopter manufacturer, MD Helicopters, recently announced the shipment of its MD-530F model to Zimbabwe. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/bMIktkpTURBXy8zZGY5ZGJhYmE1Y2JiYTVjYjdhODBhNTk5N2I1MDVkYi5wbmeSlQMAJc0Ep80CnZMFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/lifestyle/zimbabwe-receives-its-first-md-530f-a-us-made-aircraft-built-for-combat-and-civilian/ywqpjd2",
-                "source": "Business Insider Africa",
-                "date": "2026-07-09T20:05:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears",
-                "desc": "The court hears an investigative interview with the suspect's ex-roommate and romantic partner and reveals their texts.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a3c/live/105a8da0-795f-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c621v466y91o",
-                "source": "BBC",
-                "date": "2026-07-09T20:00:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears",
-                "desc": "The court hears an investigative interview with the suspect's ex-roommate and romantic partner and reveals their texts.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7a3c/live/105a8da0-795f-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.com/news/articles/c621v466y91o",
-                "source": "BBC",
-                "date": "2026-07-09T20:00:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cooling of Persian Gulf war and generally favourable weather pressure crop prices lower",
-                "desc": "Market watch: Cooling of Persian Gulf war and generally favourable weather pressure crop prices lower.",
-                "image": "https://static.producer.com/wp-content/uploads/2026/07/08125726/Canva_UrosPoteko.jpg",
-                "url": "https://www.producer.com/crops/cooling-of-persian-gulf-war-and-generally-favourable-weather-pressure-crop-prices-lower/",
-                "source": "The Western Producer",
-                "date": "2026-07-09T19:58:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sir Wicknell: From Chivhu to the Continental Stage",
-                "desc": "Cleared by South African police, honored in Morocco, and pledging $1 million to bring\nstranded Zimbabweans home — Wicknell Chivayo’s remarkable week caps a two-decade\njourney from a bus company wages clerk to one of Africa’s most talked-about businessmen.",
-                "image": "https://storage.ghost.io/c/08/35/0835e1b0-0cd7-4c1a-8c28-d6f7bc4d9c84/content/images/size/w1200/2026/07/IMG_9365.PNG",
-                "url": "https://www.billionaires.africa/2026/07/09/sir-wicknell-from-chivhu-to-the-continental-stage/",
-                "source": "Billionaires.Africa",
-                "date": "2026-07-09T19:57:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran retaliates after US strikes that left 14 dead and almost 80 injured",
-                "desc": "US attacks and Strait of Hormuz intervention disrupting waterway’s gradual reopening, says Islamic Revolutionary Guard",
-                "image": "https://www.irishtimes.com/resizer/v2/22JWRDKHNI5H4VHXA3FMR52UJI.jpg?smart=true&auth=063fbc5b5b69a937bc21ed02588afa40c81d3451aeeeca6d0f00620a6edfdb7f&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/middle-east/2026/07/09/iran-retaliates-after-us-strikes-that-left-14-dead-and-almost-80-injured/",
-                "source": "The Irish Times",
-                "date": "2026-07-09T19:55:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Mexican village warned of a cartel offensive during the World Cup. Then the drone attacks began",
-                "desc": "Security was high in the World Cup hubs, but rural communities say their calls for help went unheeded",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26189739256585.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/09/americas/mexico-world-cup-security-cartel-attack-intl-latam",
-                "source": "CNN",
-                "date": "2026-07-09T19:46:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HSE to examine whether money provided to any funded organisation was sent abroad",
-                "desc": "Health service tells Oireachtas committee of review of governance and financial records at autism charity",
-                "image": "https://www.irishtimes.com/resizer/v2/24K3QH33XFBYFGZ3S52SYVMRYE.jpg?smart=true&auth=7c093743330b0dc1a915d3704aff0c2601b4de1e916e7e38e804ec24dc3d8177&width=1200&height=630",
-                "url": "https://www.irishtimes.com/politics/2026/07/09/hse-to-examine-whether-money-provided-to-any-funded-organisation-was-sent-abroad/",
-                "source": "The Irish Times",
-                "date": "2026-07-09T19:41:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T12:00:24.431510Z"
+    "lastGlobalSync": "2026-07-10T12:40:20.926536Z"
 }
