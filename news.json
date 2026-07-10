@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Class Milestones That Are Now Out of Reach for Gen Z",
+                "desc": "See which classic middle-class goals — from homeownership to savings — are becoming harder for Gen Z to achieve in today’s economy.",
+                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+                "url": "https://www.aol.com/articles/5-middle-class-milestones-now-170016000.html",
+                "source": "AOL.com",
+                "date": "2026-07-09T17:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Revenge of the TSX: How the Canadian stock market quietly became a world beater",
+                "desc": "The stock market’s 55-per-cent gain ranks among the very best two-year stock rallies in history",
+                "image": "https://www.theglobeandmail.com/resizer/v2/FTCPJTDEQ5EEVMIOFMGLM6QVL4.JPG?auth=302b8eb09acf6965d3c84faf0783e7a0ced5fa71f98078282982f162e907b498&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-revenge-of-the-tsx-how-the-canadian-stock-market-quietly-became-a/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran War May Ignite Middle East Market Share Race, But Not Yet",
+                "desc": "Speculation that OPEC is weakening has intensified as the UAE exits the group and Iraq signals dissatisfaction, but ongoing geopolitical risks could reinforce the need for producer coordination.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-09_qbh6xm2jgp.jpg",
+                "url": "https://oilprice.com/Energy/Crude-Oil/Iran-War-May-Ignite-Middle-East-Market-Share-Race-But-Not-Yet.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Small Businesses Aren’t Hiring: They Can’t Find Qualified Workers",
+                "desc": "Employers told the NFIB they're having trouble finding workers. But experts say economic conditions, including tariffs and fuel costs, may also be making them pickier.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4ecf7a6031b2c0b892a221/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/johnschroyer/2026/07/09/small-business-owners-say-they-can-not-find-qualified-workers/",
+                "source": "Forbes",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chart Highlights AI Cheating Scandal at Brown University",
+                "desc": "Brown University professor Roberto Serrano saw scores drop between a take-home midterm and an in-person final. He suspects widespread AI cheating.",
+                "image": "https://i.insider.com/6a4fc3e8d3b3e4576519704d?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/brown-university-ai-cheating-scandal-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-09T16:59:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Assessing grid affordability for universal electricity access in Sub-Saharan Africa",
+                "desc": "Grid expansion remains a key strategy for increasing electricity access across Sub-Saharan Africa (SSA). However, whether utilities can generate sufficient revenue under current tariffs to support capital investment is unclear. We compile a comprehensive dataset of residential electricity tariffs for 48 SSA countries and develop a standardized model to estimate electricity bills using the Multi-Tier Framework (MTF). Affordability is assessed across income percentiles using simulated income distributions. Under current tariffs, around 608 million people (50%) may not afford Tier 4 electricity, rising to 1.05 billion (85%) for Tier 5 under a 10% energy-poverty threshold. Sensitivity analyses using 5% and 15% thresholds confirm the robustness of these findings. Even where higher-tier electricity is affordable, usage remains low. Combining affordability estimates with utility financial performance, we identify where grid expansion could be viable and where affordability constraints and utility deficits can create electrification traps. In many countries, off-grid solutions may be the only feasible pathway to achieving SDG7. This study compiles a region-wide database of residential electricity tariffs in Sub-Saharan Africa and shows that current grid expansion strategies may create electrification traps, leaving electricity unaffordable for households and financially unsustainable for utilities.",
+                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41467-026-75104-7?error=cookies_not_supported&code=3210cf97-73a6-4012-bd65-c847940aa4ad",
+                "source": "Nature",
+                "date": "2026-07-09T16:57:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Average 30-year US mortgage rate rises to 6.49%, pushing up homebuyers' borrowing costs",
+                "desc": "The average long-term U.S. mortgage rate drew closer this week to 6.5%, pushing up borrowing costs for prospective homebuyers",
+                "image": "https://i.abcnewsfe.com/a/6f49289a-a108-4a3f-8d9b-332f569f4a62/wirestory_29c907cc408cf7f88a8fcb3292150b1f_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Business/wireStory/average-30-year-us-mortgage-rate-rises-649-134622765",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-09T16:54:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BMW recalls over 10,000 vehicles sold since 2016",
+                "desc": "BMW recalls 10, 961 vehicles due to a faulty starter.",
+                "image": "https://www.enca.com/sites/default/files/styles/large/public/2025-06/AFP__20250411__porzycki-carmanuf250410_nphSq__v1__HighRes__CarManufacturers.jpg.webp?itok=5M-cdCv1",
+                "url": "https://www.enca.com/business-news-top-stories/bmw-recalls-over-10000-vehicles-sold-2016",
+                "source": "eNCA",
+                "date": "2026-07-09T16:53:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Regional banks are rallying, and the charts show one name stands out",
+                "desc": "This Cincinnati-based regional bank has quietly become one of the stronger performers in the sector.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108332120-1783522069069-gettyimages-2285213544-mms16815_cx6arvr9.jpeg?v=1783522113&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/09/regional-banks-are-rallying-and-the-charts-show-one-name-stands-out.html",
+                "source": "CNBC",
+                "date": "2026-07-09T16:50:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese Yuan: Forecast band tightened as stability holds against US Dollar - ING",
+                "desc": "ING's Chief Economist Lynn Song notes that the CNY has been one of the strongest performers in 2026, even against a firm Dollar backdrop.",
+                "image": "https://editorial.fxsstatic.com/images/i/usd-cnh-01_Medium.jpg",
+                "url": "https://www.fxstreet.com/news/chinese-yuan-forecast-band-tightened-as-stability-holds-against-us-dollar-ing-202607091643",
+                "source": "FXStreet",
+                "date": "2026-07-09T16:45:21Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "West Midlands £50m electric vehicle jobs fund opens to applications",
                 "desc": "Grants of between £250,000 and £3m are available through a fund launched by Mayor Richard Parker.",
                 "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd09/live/20513b40-7ba9-11f1-9671-6995d20a3bb8.jpg",
@@ -542,99 +632,99 @@
                 "source": "Seeking Alpha",
                 "date": "2026-07-09T13:55:00Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Google launches new shopping solutions to boost video commerce and brand-creator partnerships in the Philippines",
-                "desc": "During the Google Marketing Live Southeast Asia in Singapore, one of the biggest gatherings of brands and advertisers in the region, Google put a spotlight on...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/09/114964.webp",
-                "url": "https://mb.com.ph/2026/07/09/google-launches-new-shopping-solutions-to-boost-video-commerce-and-brand-creator-partnerships-in-the-philippines",
-                "source": "Manila Bulletin",
-                "date": "2026-07-09T13:40:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "United States: Participation drop masks slack - ABN AMRO",
-                "desc": "ABN AMRO’s Rogier Quaedvlieg highlights that US labour-market conditions are weaker than headline unemployment suggests, as rapidly declining participation is holding the rate down.",
-                "image": "https://editorial.fxsstatic.com/images/i/nfp-workers-2_Medium.png",
-                "url": "https://www.fxstreet.com/news/united-states-participation-drop-masks-slack-abn-amro-202607091339",
-                "source": "FXStreet",
-                "date": "2026-07-09T13:39:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Startup company reveals prototype of tsunami survival pod",
-                "desc": "LifePod says its survival device will be able to save small groups of children and adults from tsunamis and severe flooding.",
-                "image": "https://s.yimg.com/lo/mysterio/api/53e58cb45c6e8cb6d8f26addf187f510b85c7c822ac47d4d5f3ddd595a1ff35b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F415e2ee4ef2fa5825b9c7f86171f48fe",
-                "url": "https://tech.yahoo.com/science/articles/startup-company-reveals-prototype-tsunami-133600539.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-09T13:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ABB Robotics collaborates with Roche to bring physical AI to laboratories",
-                "desc": "ABB Robotics has announced a global collaboration with Roche Diagnostics to develop and bring to market new robotic solutions for clinical laboratories.",
-                "image": "https://www.news-medical.net/images/news/ImageForNews_842120_1783604429018193.png",
-                "url": "https://www.news-medical.net/news/20260709/ABB-Robotics-collaborates-with-Roche-to-bring-physical-AI-to-laboratories.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-09T13:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Bottom building in progress': Analysts say bitcoin holder capitulation signals late-stage bear market",
-                "desc": "Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.",
-                "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
-                "url": "https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market",
-                "source": "The Block",
-                "date": "2026-07-09T13:33:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Based Soap: Lessons from the ARB's Sunlight Platinum Ruling : Clyde & Co",
-                "desc": "In a recent decision with important implications for environmental and sustainability-related marketing claims, the Advertising Regulatory Board (“ARB”) upheld a complaint against Unilever South Africa Proprietary Limited (“Unilever”) concerning claims appearing on Sunlight Platinum dishwashing liquid packaging. The ruling demonstrates that even technically accurate environmental claims may fall foul of advertising standards where they create a misleading overall impression for consumers.",
-                "image": "https://www.clydeco.com/getattachment/9aba1ee7-b148-411d-98d6-333a21d444a9/facebook-image?variant=introbannerdesktopvarient",
-                "url": "https://www.clydeco.com/en/insights/2026/07/greenwashing-with-plant-based-soap-lessons-from-th",
-                "source": "Clyde & Co",
-                "date": "2026-07-09T13:32:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Things To Know » MotorOctane",
-                "desc": "Here are 5 things to know about this upcoming Tata Harrier rival. Pricing, features and other key details revealed.",
-                "image": "https://motoroctane.com/wp-content/uploads/2026/07/Tiggo-7L-1.jpg",
-                "url": "https://motoroctane.com/news/317205-upcoming-rs-25-lakh-suv-5-things-to-know",
-                "source": "MotorOctane",
-                "date": "2026-07-09T13:31:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NIB PLC commissions 17 new vehicles to boost operations and service delivery",
-                "desc": "NIB PLC commissions 17 new vehicles to boost operations and service delivery",
-                "image": "https://www.graphic.com.gh/images/2026/July/07/WhatsApp%20Image%202026-07-09%20at%2012.05.11.jpeg",
-                "url": "https://www.graphic.com.gh/business/business-news/nib-plc-commissions-17-new-vehicles-to-boost-operations-and-service-delivery.html",
-                "source": "Graphic Online",
-                "date": "2026-07-09T13:31:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Retailers seek FG grants to expand rural LPG access",
-                "desc": "THE Liquefied Petroleum Gas Retailers Association of Nigeria (LPGAR) has appealed to the Federal Government and other stakeholders to support rural retailers of cooking gas with grants to expand access to the product. Chairman of the LPG Retailers Branch of the Nigeria Union of Petroleum and Natural Gas Workers (NUPENG), Mr Ayobami Olarinoye, made the",
-                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/image-34.jpeg",
-                "url": "https://realnewsmagazine.net/retailers-seek-fg-grants-to-expand-rural-lpg-access/",
-                "source": "Realnews Magazine",
-                "date": "2026-07-09T13:30:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK science research labs hit by £160m cut despite record spending",
-                "desc": "Some of Britian's biggest labs face cuts even though government science spending is at record levels.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0569/live/ee5c2260-7b7d-11f1-9835-1d509410fdca.png",
-                "url": "https://www.bbc.co.uk/news/articles/c0ryevpz48ko",
-                "source": "BBC",
-                "date": "2026-07-09T13:30:35Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Microsoft Expands AI Vulnerability Detection Across Windows",
+                "desc": "Microsoft is using AI-powered tools to detect vulnerabilities faster, accelerate remediation, and improve Windows security update quality.",
+                "image": "https://petri.com/wp-content/uploads/2022/05/Windows-11-approved-hero-1.png",
+                "url": "https://petri.com/microsoft-ai-vulnerability-detection-windows/",
+                "source": "Petri IT Knowledgebase",
+                "date": "2026-07-09T17:00:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Free Play Days: Try These Xbox Games For Free (July 9-12)",
+                "desc": "Presenting your latest batch of weekend freebies* - Thursday has swung right back around again, and so it's time for a new batch of Xbox Free Play Day titles...",
+                "image": "https://images.purexbox.com/cdddafd2524fc/large.jpg",
+                "url": "https://www.purexbox.com/news/2026/07/free-play-days-try-these-xbox-games-for-free-july-9-12",
+                "source": "Pure Xbox",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+                "desc": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase.",
+                "image": "https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg",
+                "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+                "source": "BleepingComputer",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy Tab S12 Plus surfaces with first live image",
+                "desc": "The Galaxy Tab S12 Plus has recently appeared on a couple of certification databases. One of the listings shares a live image.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Logo-on-back-of-Galaxy-Tab-S11.jpg",
+                "url": "https://www.androidauthority.com/galaxy-tab-s12-plus-live-image-3685896/",
+                "source": "Android Authority",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft goes all in on new AI-powered Windows security strategy - what it means for you",
+                "desc": "An elite security team at Microsoft has built an AI-powered pipeline to find vulnerabilities in Windows and get them to engineers to build fixes.",
+                "image": "https://www.zdnet.com/a/img/resize/34dce4c4bd0f3ea782a9161cdc13abb07e8718c8/2026/07/09/6d5a2b4d-92aa-47f6-8d09-e9185eed8c13/gettyimages-2204252010.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.zdnet.com/article/microsoft-windows-ai-security-vulnerability-analysis/",
+                "source": "ZDNET",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wild 2,000hp Hennessey Venom F5-M is at Goodwood this week",
+                "desc": "The world’s most powerful road car with a manual gearbox makes its public debut at this weekend’s Goodwood Festival of Speed.",
+                "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-Hennessey-Venom-F5-M-Goodwood.jpg",
+                "url": "https://www.motoringresearch.com/car-news/hennessey-venom-f5-m-goodwood/",
+                "source": "Motoring Research",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft: Our AI-Powered Bug Hunting Means More Windows Security Patches",
+                "desc": "Microsoft is embracing AI to help it find vulnerabilities in Windows, but says it's prioritizing quality with humans in the loop. Still, the company has a history of bug-filled OS updates.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-our-ai-powered-bug-hunting-means-more-windows-secu_vn7z.1200.jpg",
+                "url": "https://au.pcmag.com/ai/118688/microsoft-our-ai-powered-bug-hunting-means-more-windows-security-patches",
+                "source": "PCMag Australia",
+                "date": "2026-07-09T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bose QuietComfort Ultra Earbuds are Over 40% Off: Deal of the Day",
+                "desc": "These wireless earbuds are 43% off on Amazon, and have some of the best noise-cancelling you can buy, but supply is limited.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260709-DOTD-bose-quiet-comfort-mm-main-03e117.jpg",
+                "url": "https://www.nbcnews.com/select/shopping/bose-quietcomfort-ultra-earbuds-deal-of-the-day-2026-rcna353685",
+                "source": "NBC News",
+                "date": "2026-07-09T16:58:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Words behind the controller: how a Canadian games journalist started writing AAA games",
+                "desc": "Alberta's Mitch Dyer unpacks his journey from working at IGN to writing big Star Wars, Batman and Crossfire games.",
+                "image": "https://production-static.mobilesyrup.com/uploads/2026/07/mitch-dyer-ign-battlefront-2-crossfire-scaled.jpg",
+                "url": "https://mobilesyrup.com/2026/07/09/canadian-game-dev-mitch-dyer-ign-star-wars-batman-crossfire-interview/",
+                "source": "MobileSyrup",
+                "date": "2026-07-09T16:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Play Launches $1million Indie Games Fund For African Game Developers",
+                "desc": "Final selections and the announcement of the 10 chosen studios will take place in September 2026.",
+                "image": "https://thenativemag.com/wp-content/uploads/2026/07/GPxIndieFI.jpg.jpeg",
+                "url": "https://thenativemag.com/google-play-launches-1million-indie-games-fund-for-african-game-developers/",
+                "source": "NativeMag",
+                "date": "2026-07-09T16:52:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Nocs Provisions Launches Zero Tube 8x25 Monocular",
                 "desc": "Nocs Provisions, the optics brand built for those who move through the world with curiosity, today announces the release of the Zero Tube 8x25, following last year’s successful launch of the original Zero Tube 10x25.",
@@ -1174,99 +1264,99 @@
                 "source": "IGN",
                 "date": "2026-07-09T13:49:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ferrari brings back manual gearbox for 12Cilindri… sort of",
-                "desc": "After an absence of 14-years, Ferrari has revived the manual gearbox for the 12Cilindri, albeit with a significant difference.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/Ferrari_9_MOD.jpg",
-                "url": "https://www.citizen.co.za/motoring/ferrari-12cilindri-manuale-revealed/",
-                "source": "The Citizen",
-                "date": "2026-07-09T13:47:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GoPro MAX 2 Action Camera Hits 40% Off, Somehow Costing Less Than the Previous-Gen Model",
-                "desc": "The stock is running low, so you'll have to hurry to place your order.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/gopro-max-2-1200x675.jpg",
-                "url": "https://gizmodo.com/gopro-max-2-action-camera-hits-40-off-somehow-costing-less-than-the-previous-gen-model-2000783283",
-                "source": "Gizmodo",
-                "date": "2026-07-09T13:40:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Forget the AirPods Max 2: These Premium Sonos Headphones Are a Steal at Over $100 Off",
-                "desc": "They're one of the best over-ear pairs of 2026, and you can snag a pair for just $279 with this deal.",
-                "image": "https://www.cnet.com/a/img/resize/3f4bb8140f8b798cc0442cd98cd245795a590d02/hub/2025/12/18/0aa138c2-7711-40d4-8934-b1fbf53590e7/sonos-ace.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/sonos-ace-headphones-deal-2026-07-09/",
-                "source": "CNET",
-                "date": "2026-07-09T13:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HONOR Becomes Middle East's Second",
-                "desc": "The achievement follows strong global and regional growth, with HONOR recording a 25 percent increase in worldwide sales and a 73 percent year-on-year rise across the Middle East.",
-                "image": "https://techafricanews.com/wp-content/uploads/2026/07/HONOR.png",
-                "url": "https://techafricanews.com/2026/07/09/honor-becomes-middle-easts-second-largest-smartphone-vendor/",
-                "source": "TechAfrica News",
-                "date": "2026-07-09T13:38:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rolls Handroll Izakaya Brings Fine Japanese Dining Refinement to The Humble Handroll",
-                "desc": "Handrolls are given the omakase treatment at this new intimate restaurant at the city centre led by a fine dining duo of Japanese cuisine.",
-                "image": "https://www.factmagazines.com/favicon-32x32.png",
-                "url": "https://www.factmagazines.com/singapore/rolls-handroll-izakaya-singapore",
-                "source": "FACT Magazines",
-                "date": "2026-07-09T13:38:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fiesta Online Is Coming to PlayStation, Xbox, and Nintendo Platforms",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/zh-CN/Fiesta-Online-Is-Coming-to-PlayStation-Xbox-and-Nintendo-Platforms",
-                "source": "Games Press",
-                "date": "2026-07-09T13:37:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\" Assetto Corsa EVO : Three New Cars, New Kyalami Track, Overhauled VR and more in ‘Update 0.8’ Out Today \"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/081504-9cfa4b8f/EA8_acevo_steam-main-caps_1232x706.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=dce3a980bf594662093d61dbe28cf7522b80277dea027be92326fa85284f0caa",
-                "url": "https://www.gamespress.com/Assetto-Corsa-EVO-Three-New-Cars-New-Kyalami-Track-Overhauled-VR-and-m",
-                "source": "Games Press",
-                "date": "2026-07-09T13:37:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Good Business Needs Patience: Early Access Release of The Guild - Europa 1410 Moved to September 2026",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/031156-564927f2/Dev_Diary.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=3e9c5d063d1ead69acf873c23d08d54c47f975fb3c01dcae7c7243cae05f9ffe",
-                "url": "https://www.gamespress.com/A-Good-Business-Needs-Patience-Early-Access-Release-of-The-Guild-Europ",
-                "source": "Games Press",
-                "date": "2026-07-09T13:37:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VR Action Platformer Hyperstacks Launches on Steam July 30th After 8 Years of Development",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/091436-fa1d771d/store_capsule_header.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=744ffca508a5ffd63439da9222505c0cedfab052f516d348aaafabe5f6abe914",
-                "url": "https://www.gamespress.com/VR-Action-Platformer-Hyperstacks-Launches-on-Steam-July-30th-After-8-Y",
-                "source": "Games Press",
-                "date": "2026-07-09T13:37:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\" Assetto Corsa EVO : Three New Cars, New Kyalami Track, Overhauled VR and more in ‘Update 0.8’ Out Today \"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/081504-9cfa4b8f/EA8_acevo_steam-main-caps_1232x706.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=dce3a980bf594662093d61dbe28cf7522b80277dea027be92326fa85284f0caa",
-                "url": "https://www.gamespress.com/en-GB/Assetto-Corsa-EVO-Three-New-Cars-New-Kyalami-Track-Overhauled-VR-and-m",
-                "source": "Games Press",
-                "date": "2026-07-09T13:37:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "INTERPOL nabs 5,800 Yahoo Boys, recovers $293 million",
+                "desc": "The INTERPOL said, \"Other significant results include 152,808 cases analyzed, 31,014 bank accounts blocked, 23,715 cases solved, 15,606 suspects identified, 99 notices and diffusions issued.\"",
+                "image": "https://gazettengr.com/wp-content/uploads/37663B82-0013-4C88-BFCD-EE2EAC72760A.jpeg",
+                "url": "https://gazettengr.com/interpol-nabs-5800-yahoo-boys-recovers-293-million/",
+                "source": "Peoples Gazette Nigeria",
+                "date": "2026-07-09T16:58:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Makor to detail Zambia copper plan at AMW",
+                "desc": "Brooke Bibeault, the CEO of Makor Resources, will present at African Mining Week (AMW) in Cape Town, taking place from Oct. 14 […]",
+                "image": "https://www.canadianminingjournal.com/wp-content/uploads/2026/07/Brooke.jpg",
+                "url": "https://www.canadianminingjournal.com/news/makor-to-detail-zambia-copper-plan-at-amw/",
+                "source": "Canadian Mining Journal",
+                "date": "2026-07-09T16:56:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
+                "desc": "Tuareg separatists and their jihadist allies attacked a convoy of Russian mercenaries and Malian soldiers Thursday morning as they travelled to help cohorts",
+                "image": "https://cdn.modernghana.com/images/content/79202663617-vbrduhgtso-000-a92j2cf-1.jpg",
+                "url": "https://www.modernghana.com/news/1509280/mali-rebels-attack-convoy-of-russian-reinforcement.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-09T16:52:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sudan: Prime Minister Meets African Union Envoy to Sudan",
+                "desc": "Prime Minister Prof. Kamil Idris on Thursday met with the African Union (AU) Envoy to Sudan, Ambassador Mohamed Belaiche, in the presence of the Prime Minister's Adviser, Nizar Abdullah Mohamed.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607090642.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-09T16:50:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top 10 countries with the largest economies in Africa: 2026 rankings",
+                "desc": "Discover the top 10 largest economies in Africa in 2026 based on projected nominal GDP. See which countries lead the continent, according to the latest IMF data compiled by Worldometers. Read more.",
+                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/09072026/60659486-dfa7-45e2-bb4c-97687f7bc41b.jpeg?operations=crop(400:225:3600:2025),autocrop(1200:630)",
+                "url": "https://www.pulse.com.gh/story/largest-economies-africa-2026070916413856867",
+                "source": "Pulse Ghana",
+                "date": "2026-07-09T16:49:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Public consultation for city’s 1st blueprint brings real policy value",
+                "desc": "Virginia Lee says that gaining an understanding of broad sectors of society will sharpen reasoning and improve coordination.",
+                "image": "https://www.chinadailyhk.com/upload/main/image/2024/04/12/680124429e7c7c227beaf69803a9c142.jpg",
+                "url": "https://www.chinadailyasia.com/hk/article/636190",
+                "source": "chinadailyasia.com",
+                "date": "2026-07-09T16:48:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘President Donald Trump Airport’ is christened in Palm Beach - but flight attendants may not call it that",
+                "desc": "The South Florida airport officially became Donald J. Trump International Airport Thursday",
+                "image": "https://static.independent.co.uk/2026/07/09/17/2026-07-09T144435Z_841631619_RC2DAMA51GH8_RTRMADP_3_USA-TRUMP-AIRPORT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-airport-palm-beach-b3012053.html",
+                "source": "The Independent",
+                "date": "2026-07-09T16:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Making Every Dollar Count for Namibia's Future",
+                "desc": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% Namibia stands at a crossroads.",
+                "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-09-at-5.33.09-PM-1024x768.jpeg",
+                "url": "https://www.namibian.com.na/making-every-dollar-count-for-namibias-future/",
+                "source": "The Namibian -",
+                "date": "2026-07-09T16:44:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran-US war latest: Tehran accuses Trump of strike near nuclear plant in fresh escalation of attacks",
+                "desc": "US president says ceasefire ‘over’ following strikes on ships in Strait of Hormuz",
+                "image": "https://static.independent.co.uk/2026/07/09/7/57/tag_reuters-com-2026_newsml_RC2M9MAFHVM3_376591435-reuters.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-kuwait-bahrain-nato-b3011605.html",
+                "source": "The Independent",
+                "date": "2026-07-09T16:43:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'No alternative but to unite': UAE's appeal to Gulf after Iran renews attacks",
+                "desc": "Unity among Gulf nations 'utmost necessity', says Dr Anwar Gargash after UAE President visits Kuwait",
+                "image": "https://www.thenationalnews.com/resizer/v2/UUAKV3EFKJENDBWGN4NSOBCRAI.jpg?smart=true&auth=25c59f34873e72d6235416b017d25e962fd3d3ffa49f497a7ccf58afc5141db8&width=1200&height=630",
+                "url": "https://www.thenationalnews.com/news/uae/2026/07/09/no-alternative-but-to-unite-uaes-appeal-to-gulf-after-iran-renews-attacks/",
+                "source": "thenationalnews.com",
+                "date": "2026-07-09T16:42:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump strikes Iranian railway bridges on route to Khamenei’s funeral as ceasefire unravels",
                 "desc": "US president tries to force Iran’s hand with attacks but Tehran says it has final say on the Strait of Hormuz",
@@ -1806,98 +1896,8 @@
                 "source": "Arab News",
                 "date": "2026-07-09T13:49:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Russia Built a Passenger Plane Without Foreign Parts. Now It Can’t Fly in Rain, Heat, Cold, or Storms",
-                "desc": "Russia's new Il-114-300 passenger plane is certified but faces severe weather restrictions, limiting flights to narrow temperature ranges and clear conditions.",
-                "image": "https://storage.united24media.com/og/e/51/9ceb3da7f6a03e259d5503d78f88d51e.jpg",
-                "url": "https://united24media.com/world/russia-built-a-passenger-plane-without-foreign-parts-now-it-cant-fly-in-rain-heat-cold-or-storms-20624",
-                "source": "UNITED24 Media",
-                "date": "2026-07-09T13:48:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What if our homes could move?",
-                "desc": "Imagine living in a home that you could simply pick up and move when extreme weather strikes. Instead of bricks and mortar, it's made from materials sourced from the local environment and, if weather conditions change, you pack it up and rebuild it in a safer location. That's exactly what Khudi Bari, developed by Bangladeshi firm Marina Tabassum Architects, is doing.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/what-if-our-homes-coul.jpg",
-                "url": "https://phys.org/news/2026-07-homes.html",
-                "source": "Phys.org",
-                "date": "2026-07-09T13:40:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa Leads Africa's Aviation Network With 575 Airports, New Rankings Show",
-                "desc": "South Africa tops the continent's aviation rankings with 575 airports, making it the only African country to feature in the global top 15, according to World Population Review's 2026 rankings.",
-                "image": "https://atta.travel/assets/img/favicon/favicon-96.png",
-                "url": "https://atta.travel/resource/south-africa-leads-africa-s-aviation-network-with-575-airports-new-rankings-show.html",
-                "source": "Atta Travel.",
-                "date": "2026-07-09T13:40:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brit pensioner, 88, dies after violent thugs shoved him against car as they tried to snatch wife's handbag in Tenerife",
-                "desc": "A BRITISH pensioner died in a Spanish holiday hotspot after being pushed against a parked car during a botched mugging.\nRay Cowen, from...",
-                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/newspress-collage-4bzvpvhkt-1783604338974.jpg?quality=90&strip=all&1783607952&w=1920&h=1080&crop=1",
-                "url": "https://www.thesun.co.uk/news/39702675/thugs-shove-pensioner-death-snatch-tenerife/",
-                "source": "The Sun",
-                "date": "2026-07-09T13:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hormuz tanker traffic falls after Iran attacks trigger fighting with U.S.",
-                "desc": "Oil has rallied more than 7% this week as investors worry that exports through Hormuz could plunge as the U.S. and Iran fight for control of the strait.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108331988-1783511208680-2026-06-30T090320Z_1896243899_RC264MACKK7Q_RTRMADP_3_IRAN-CRISIS.JPG?v=1783511259&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/09/iran-strait-hormuz-oil-tanker-traffic-gulf-trump.html",
-                "source": "CNBC",
-                "date": "2026-07-09T13:37:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada Publishes List of Countries Whose Citizens Qualify for Visa",
-                "desc": "Canada has released its updated 2026 entry requirements, publishing a breakdown of which nationalities can travel to the country without a standard visitor visa",
-                "image": "https://cdn.yen.com.gh/images/1200x675/87c40f45f300d3e6.jpeg?v=1",
-                "url": "https://yen.com.gh/world/307579-canada-publishes-list-countries-citizens-qualify-visa-free-travel-eta-entry/",
-                "source": "Yen News",
-                "date": "2026-07-09T13:34:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US appeals court rejects Trump’s latest bid to delay paying E Jean Carroll $5.8m",
-                "desc": "US president contested judge’s order to release money after Carroll’s 2023 sexual abuse and defamation trial against him",
-                "image": "https://i.guim.co.uk/img/media/f343b9ba3b348c723c2418c11f17359f8b7309d7/972_173_3562_2850/master/3562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8298aa93ebe5a1aa41b3aca264d499f",
-                "url": "https://www.theguardian.com/us-news/2026/jul/09/court-rejects-trump-delay-e-jean-carroll-payment",
-                "source": "The Guardian",
-                "date": "2026-07-09T13:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ruto will win again, opposition mistaken, says Mudavadi",
-                "desc": "Prime Cabinet Secretary and Cabinet Secretary for Foreign and Diaspora Affairs Musalia Mudavadi has dismissed the opposition’s confidence regarding the 2027 General Election. He says those who believe defeating President William Ruto will be easy are underestimating his electoral strength. Speaking in Trans Nzoia County after unveiling a classroom block at Sikhendu Secondary School in […]",
-                "image": "https://www.kbc.co.ke/wp-content/uploads/2026/07/MUDAVADI-RUTO-2027-2.jpeg",
-                "url": "https://www.kbc.co.ke/ruto-will-win-again-opposition-mistaken-says-mudavadi/",
-                "source": "KBC Digital",
-                "date": "2026-07-09T13:30:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IGAD Executive Secretary Dr Workneh Gebeyehu honoured with new Forensic Science scholarship in Ethiopia",
-                "desc": "The Dr Workneh Gebeyehu Scholarship Programme in Forensic Science will be offered through the Crime Investigation Academy at the Ethiopian Police.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-09-162426.webp",
-                "url": "https://eastleighvoice.co.ke/regional/377501/igad-executive-secretary-dr-workneh-gebeyehu-honoured-with-new-forensic-science-scholarship-in-ethiopia",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-09T13:30:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria Joins INTERPOL Anti-Fraud Operation Across 97 Countries, 5,811 Suspects Arrested, $293Million Seized",
-                "desc": "A coordinated global anti-fraud operation led by the International Criminal Police Organization (INTERPOL) has resulted in the arrest of 5,811 suspects, the identification of more than 15,600 alleged fraudsters, and the interception of approximately $293 million in illicit assets linked to transnational financial crimes.",
-                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
-                "url": "https://saharareporters.com/2026/07/09/nigeria-joins-interpol-anti-fraud-operation-across-97-countries-5811-suspects-arrested",
-                "source": "Sahara Reporters",
-                "date": "2026-07-09T13:30:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T04:40:18.961543Z"
+    "lastGlobalSync": "2026-07-10T05:00:26.798007Z"
 }
