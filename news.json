@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Chinese Yuan: Fixing guidance fades, path less anchored - OCBC",
+                "desc": "OCBC’s Christopher Wong observes that Renminbi (RMB) appreciation guidance is waning, with CNH-CNY fixing gaps narrowing and daily adjustments moderating. Policymakers appear to be shifting toward RMB stability rather than further appreciation.",
+                "image": "https://editorial.fxsstatic.com/images/i/china_Medium.png",
+                "url": "https://www.fxstreet.com/news/chinese-yuan-fixing-guidance-fades-path-less-anchored-ocbc-202607092035",
+                "source": "FXStreet",
+                "date": "2026-07-09T20:38:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Snowy Hydro contractor denies claims it exposed workers to risk of death or injury",
+                "desc": "A major contractor on the multi-billion-dollar Snowy Hydro project is defending itself against accusations it exposed five workers to the risk of death or serious injury in two separate incidents.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/416665b85bc0941c178f551907296c7f?impolicy=wcms_watermark_news&cropH=3160&cropW=5618&xPos=0&yPos=293&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-10/nsw-snowy-hydro-worksafe-nsw-hearings-contractor/106898778",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-09T20:36:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aritzia’s profits more than double in first quarter on strength of seasonal offerings",
+                "desc": "Vancouver-based clothing maker reported net income of $117.3-million or 99 cents per diluted share in the quarter ended May 31",
+                "image": "https://www.theglobeandmail.com/resizer/v2/KVMQP5GM3RBPNPBVHS3OXMSF2M?auth=83351eb3f5eec7ac5ff995c218e199c75129bd2d668f85f90b0e2f3eb383bdc7&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/article-aritzia-first-quarter-results/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-09T20:34:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
+                "desc": "Coinbase Chief Legal Officer Paul Grewal will depart the exchange, though he'll continue as an adviser, he said Thursday.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/80e6ac6773d5aa941421ab35198c14438412acfb-2560x1440.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
+                "source": "CoinDesk",
+                "date": "2026-07-09T20:33:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk's SpaceX Poured $7.7 Billion Into AI Last Quarter. Here's the Bet Behind Its Widening Losses.",
+                "desc": "The rocket company's IPO prospectus shows where the money is really going.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878326%2Fspcx-stock-ai.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/09/elon-musks-spacex-poured-77-billion-into-ai-last-q/",
+                "source": "The Motley Fool",
+                "date": "2026-07-09T20:31:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Naira faces renewed pressure from summer travel, school fees dollar demand",
+                "desc": "Nigeria's currency, the naira, is coming under renewed pressure in the parallel FX market as seasonal demand for dollars for summer travel...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/IzXbe-black-market-exchange-rate-from-january-to-june-2026-1.png",
+                "url": "https://businessday.ng/news/article/naira-faces-renewed-pressure-from-summer-travel-school-fees-dollar-demand/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-09T20:30:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PubMatic, Zynga Aim To Bridge Gap Between Advertisers, Mobile Gamers",
+                "desc": "PubMatic, Zynga Aim To Bridge Gap Between Advertisers, Mobile Gamers - 07/10/2026",
+                "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/07/09/image_jLLCxVk.png",
+                "url": "https://www.mediapost.com/publications/article/416430/pubmatic-zynga-aim-to-bridge-gap-between-advertis.html",
+                "source": "MediaPost",
+                "date": "2026-07-09T20:29:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Robinhood chain hits $568M in trading frenzy, benefitting Arbitrum",
+                "desc": "The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
+                "source": "CoinDesk",
+                "date": "2026-07-09T20:29:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pub, morgue and mine up for lease in historic gold",
+                "desc": "Sixteen buildings are up for lease in a \"rare\" opportunity to shape the future of a tiny community of 110 people on the NSW Central Tablelands.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/5a696071a2ead15d39eab0f90628cd95?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-10/buildings-for-lease-in-gold-mining-village-hill-end/106888642",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-09T20:29:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Calm returns to financial markets as oil eases",
+                "desc": "Futures are pointing to a flat opening for the key S&P/ASX 200 index on Friday.",
+                "image": "https://static.ffx.io/images/$zoom_0.2942%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/edf66eec960933625cf353378a0e77eae3687eb7",
+                "url": "https://www.smh.com.au/business/markets/calm-returns-to-financial-markets-as-oil-eases-20260710-p60e5m.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-09T20:25:14Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Australia's Premier Horse Racing News, Form Guides & Tips",
                 "desc": "Back more winners with our trusted form guides, tips, news & betting tools. Australia's most trusted horse racing destination for the TAB races since 1998.",
                 "image": "https://puntcdn.com/racenet/logos/racenet-discover-feature-image.png",
@@ -542,99 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-07-09T16:50:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese Yuan: Forecast band tightened as stability holds against US Dollar - ING",
-                "desc": "ING's Chief Economist Lynn Song notes that the CNY has been one of the strongest performers in 2026, even against a firm Dollar backdrop.",
-                "image": "https://editorial.fxsstatic.com/images/i/usd-cnh-01_Medium.jpg",
-                "url": "https://www.fxstreet.com/news/chinese-yuan-forecast-band-tightened-as-stability-holds-against-us-dollar-ing-202607091643",
-                "source": "FXStreet",
-                "date": "2026-07-09T16:45:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "West Midlands £50m electric vehicle jobs fund opens to applications",
-                "desc": "Grants of between £250,000 and £3m are available through a fund launched by Mayor Richard Parker.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd09/live/20513b40-7ba9-11f1-9671-6995d20a3bb8.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c892j10ld78o",
-                "source": "BBC",
-                "date": "2026-07-09T16:33:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Road closure planned for 64th Avenue near Surrey-Langley border",
-                "desc": "Shut down to facilitate construction along SkyTrain route",
-                "image": "https://surreynowleader.com/wp-content/uploads/sites/8/2026/07/42758870_web1_260716-CLR-RoadClosure64th_1.jpg?w=674",
-                "url": "https://surreynowleader.com/2026/07/09/road-closure-planned-for-64th-avenue-near-surrey-langley-border/",
-                "source": "Surrey Now-Leader",
-                "date": "2026-07-09T16:33:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Nigeria's telemedicine sector is growing again",
-                "desc": "When we put together the first State of Health Tech report in 2018, one sector led overwhelmingly. Startups trying to help patients connect with doctors virtually had the highest number. The reason was simple; there was a low barrier to entry, and many of the founders were doctors themselves. It was a convenient choice.  You […]",
-                "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/bermix-studio-SJwYvNVW1qY-unsplash-scaled.jpg",
-                "url": "https://techcabal.com/2026/07/09/why-nigerias-telemedicine-sector-is-growing-again/",
-                "source": "TechCabal",
-                "date": "2026-07-09T16:33:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wall Street Finds a New Way to Help Investors Avoid Elon Musk",
-                "desc": "For every investor who wants more Elon Musk, Wall Street increasingly has an ETF. Now it’s planning some for investors who want less.",
-                "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-                "url": "https://news.bloomberglaw.com/banking-law/wall-street-finds-a-new-way-to-help-investors-avoid-elon-musk",
-                "source": "Bloomberg Law News",
-                "date": "2026-07-09T16:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EPA proposes new diesel emissions rules to cut trucking costs $12B",
-                "desc": "Trump administration proposes slashing diesel emissions rules for heavy-duty trucks and farm equipment, saving truckers an estimated $12 billion in supply chain costs.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-farmers-affordability-fox-news.jpg",
-                "url": "https://www.foxnews.com/politics/biden-era-enviro-rule-accused-strangling-truckers-squeezing-americans-lands-trump-chopping-block",
-                "source": "Fox News",
-                "date": "2026-07-09T16:30:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Daily Post Nigeria",
-                "desc": "Former Chairman of the National Human Rights Commission, Prof. Chidi Odinkalu, has said the recent detention of former Code of Conduct Tribunal, CCT,",
-                "image": "https://dailypost.ng/wp-content/uploads/2026/07/Chidi-Odinkalu.jpg",
-                "url": "https://dailypost.ng/2026/07/09/anyone-predicting-umar-malami-el-rufais-detention-wouldve-been-called-mad-odinkalu/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-09T16:30:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scammers dupe shoppers with fake Arrowtown business",
-                "desc": "Online shoppers are being duped by a fake Arrowtown business, which is believed to be the brainchild of Netherlands-based scammers. Arrowtown...",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/9jul_news_scam_0.jpg?itok=qWTgKOn0",
-                "url": "https://www.odt.co.nz/regions/queenstown/scammers-dupe-shoppers-fake-arrowtown-business",
-                "source": "Otago Daily Times",
-                "date": "2026-07-09T16:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fears HNZ may cut Dunedin neurosurgery service",
-                "desc": "Fears the city could lose its prized neurosurgery department have been raised by senior Dunedin doctors, who say the loss could lead to more deaths...",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/neurosurgery_row_must_be_resolved_surgeons_4c4ec6191b.jpg?itok=mi4DM6r8",
-                "url": "https://www.odt.co.nz/news/dunedin/health/fears-hnz-may-cut-dunedin-neurosurgery-service",
-                "source": "Otago Daily Times",
-                "date": "2026-07-09T16:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Absolute mess': Frustration as roadworks drag on",
-                "desc": "Residents and businesses are running out of patience with roadworks on Milton’s main street, one labelling the whole process ‘‘an absolute mess’’....",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/milton_030726.jpg?itok=4cHDDsT1",
-                "url": "https://www.odt.co.nz/regions/south-otago/absolute-mess-frustration-roadworks-drag",
-                "source": "Otago Daily Times",
-                "date": "2026-07-09T16:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The Elder Scrolls 6 May Be Impacted By Xbox Reset",
+                "desc": "It's no secret that Xbox is undergoing massive changes, including everything from mass layoffs to studio closures, but it seems as though studios and developers are starting to feel the less obvious repercussions to the recent hardships at Xbox. According to a recent report by IGN, the layoffs at...",
+                "image": "https://www.techpowerup.com/img/2roPnkMDfEDn1MYK.jpg",
+                "url": "https://www.techpowerup.com/350646/the-elder-scrolls-6-may-be-impacted-by-xbox-reset",
+                "source": "TechPowerUp",
+                "date": "2026-07-09T20:37:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The ChatGPT browser is already dead",
+                "desc": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+                "source": "The Verge",
+                "date": "2026-07-09T20:34:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft Releases Fix For Critical Defender Zero-Day Flaw",
+                "desc": "Microsoft has released a security update to remediate a high-profile zero-day vulnerability in Microsoft Defender that allowed attackers to elevate privileges to NT AUTHORITY\\SYSTEM, addressing a flaw that had remained publicly exposed for several weeks after a proof-of-concept exploit was released",
+                "image": "https://media.licdn.com/dms/image/v2/D4E12AQHo73AtOFe2fg/article-cover_image-shrink_600_2000/B4EZ9HzALuH8AM-/0/1783615982609?e=2147483647&v=beta&t=s2G_ehRbplgk3bojtMQ5qjmtdgCqlBRttG4W3F0uwVQ",
+                "url": "https://www.linkedin.com/pulse/microsoft-releases-fix-critical-defender-zero-day-pgwde",
+                "source": "LinkedIn",
+                "date": "2026-07-09T20:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shhh, It's a Secret: This Is the Best Way to Have a Private Conversation on Your iPhone",
+                "desc": "I use my iPhone's Notes app whenever I need to send discreet messages. Here's how it works.",
+                "image": "https://www.cnet.com/a/img/resize/c9ea44610e36c69b01c0c9b15bcceef45001dc7d/hub/2022/06/16/348a81fe-5c90-4940-a753-3ea3830c5000/ios-notes-app-4978.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/shhh-its-a-secret-this-is-the-best-way-to-have-a-private-conversation-on-your-iphone/",
+                "source": "CNET",
+                "date": "2026-07-09T20:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Freedom offers Calgary Stampede-exclusive wireless deals",
+                "desc": "Freedom Mobile is offering some exclusive plans and price credits at the Calgary Stampede for those looking to switch plans while attending",
+                "image": "https://production-static.mobilesyrup.com/uploads/2023/07/freedom-mobile-1-scaled-1.jpg",
+                "url": "https://mobilesyrup.com/2026/07/09/freedom-offers-calgary-stampede-exclusive-deals/",
+                "source": "MobileSyrup",
+                "date": "2026-07-09T20:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DuckDuckGo's web browser will now automatically block YouTube ads",
+                "desc": "The privacy-focused search engine is taking on Google yet again.",
+                "image": "https://sm.mashable.com/t/mashable_sea/article/d/duckduckgo/duckduckgos-web-browser-will-now-automatically-block-youtube_k81k.1200.jpg",
+                "url": "https://sea.mashable.com/tech/52441/duckduckgos-web-browser-will-now-automatically-block-youtube-ads",
+                "source": "Mashable SEA",
+                "date": "2026-07-09T20:27:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DuckDuckGo's web browser will now automatically block YouTube ads",
+                "desc": "DuckDuckGo's web browser will now block YouTube ads by default.",
+                "image": "https://helios-i.mashable.com/imagery/articles/046alVaNSlHgLLWCBDiV9ic/hero-image.fill.size_1200x675.v1783627150.png",
+                "url": "https://mashable.com/tech/duckduckgo-web-browser-youtube-ad-blocking",
+                "source": "Mashable",
+                "date": "2026-07-09T20:27:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NVIDIA and Sega to celebrate 30 years of partnership at a 'Guerrilla event' in Japan",
+                "desc": "NVIDIA and Sega to mark 30 years of partnership and memories with a special event for Japanese gamers in Tokyo, featuring NVIDIA CEO Jensen Huang.",
+                "image": "https://static.tweaktown.com/news/1/1/112568_01_nvidia-and-sega-to-celebrate-30-years-of-partnership-at-guerrilla-event-in-japan_full.jpg",
+                "url": "https://www.tweaktown.com/news/112568/nvidia-and-sega-to-celebrate-30-years-of-partnership-at-a-guerrilla-event-in-japan/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-09T20:26:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet the Star Operator Who Rewrites the Ranged Rulebook in Starward V3.1",
+                "desc": "Details on maximizing playstyles in V3.1, plus a chat with the creator and a look at the Starward summer events live today.",
+                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/3-72ab4cadd17b9aa163be.jpg",
+                "url": "https://news.xbox.com/en-us/2026/07/09/meet-the-star-operator-1/",
+                "source": "XBOX Wire",
+                "date": "2026-07-09T20:21:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Machine learning unlocks a new class of magnetic materials",
+                "desc": "Understanding the influence of quasiperiodicity on magnetic fluctuations could ultimately enable the design of materials with controllable magnetic responses. Such capabilities may prove valuable for future information-processing technologies, advanced sensors, and energy applications.",
+                "image": "https://www.digitaljournal.com/wp-content/uploads/2023/04/Amethyste_3.jpg",
+                "url": "https://www.digitaljournal.com/article/machine-learning-unlocks-a-new-class-of-magnetic-materials/",
+                "source": "Digital Journal",
+                "date": "2026-07-09T20:18:17Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
                 "desc": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases.",
@@ -1174,99 +1264,99 @@
                 "source": "Eurogamer.net",
                 "date": "2026-07-09T16:36:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New Fallout Game Coming From New Vegas Developers",
-                "desc": "The first single-player wasteland game since Fallout 4 is being worked on. Read more at Empire.",
-                "image": "https://images.bauerhosting.com/empire/2026/07/fallout-new-vegas.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
-                "url": "https://www.empireonline.com/tv/news/new-fallout-game-from-makers-of-new-vegas/",
-                "source": "empireonline.com",
-                "date": "2026-07-09T16:33:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Science Of Storytelling-10 Tips For Turning Complexity Into Compelling Narratives",
-                "desc": "10 field-tested, science-backed principles to turn complex science, health and technology initiatives into engaging stories people can understand, remember and share",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a492c4e7fcfaea515d1d969/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/andreamorris/2026/07/09/the-science-of-storytelling-10-tips-for-turning-complexity-into-compelling-narratives/",
-                "source": "Forbes",
-                "date": "2026-07-09T16:31:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Unpacked July 2026: A New Shape Unfolds",
-                "desc": "Samsung Electronics will host Galaxy Unpacked in London, U.K. — a city that moves forward, not by chasing trends, but by setting...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-09-1305344.jpg",
-                "url": "https://www.businessghana.com/site/news/Business/351790/Galaxy-Unpacked-July-2026:-A-New-Shape-Unfolds",
-                "source": "BusinessGhana",
-                "date": "2026-07-09T16:31:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google asks for Gemini app feedback & details top 10 requests",
-                "desc": "Yesterday, Google’s Josh Woodward asked for what fixes Gemini app users want. The Gemini lead today identified the top 10 requests...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/09/gemini-app-feedback/",
-                "source": "9to5Google",
-                "date": "2026-07-09T16:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mouse: P.I. For Hire Gets Massive Switch 2 Update With New 40fps Mode",
-                "desc": "Plus uncapped Variable Refresh Rate - Developer Fumi Games has released another update for Mouse: P.I. For Hire, and it's a big one. Not only does Version 1...",
-                "image": "https://images.nintendolife.com/54ec5ac6f697f/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/mouse-p-i-for-hire-gets-massive-switch-2-update-with-new-40fps-mode",
-                "source": "Nintendo Life",
-                "date": "2026-07-09T16:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marshall unveils new Auracast-enabled Action IV and Stanmore IV Bluetooth speakers",
-                "desc": "The audio company famous for its guitar amplifiers has released two models that will give any abode some serious volume.",
-                "image": "https://musictech.com/wp-content/uploads/2026/07/Marshall-hero@2000x1500-1068x801.jpg",
-                "url": "https://musictech.com/news/gear/marshall-acton-iv-stanmore-iv/",
-                "source": "MusicTech",
-                "date": "2026-07-09T16:26:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bethesda has reportedly lost more than 50 staffers as part of the Xbox layoffs.",
-                "desc": "That includes “key, high-performing people in the trenches” working on The Elder Scrolls 6, IGN reports. One Bethesda staffer told the publication that the layoffs have had “a crushing effect on morale,” and one said that the QA department was “decimated.”\n[Link: The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors | https://www.ign.com/articles/the-elder-scrolls-6-will-suffer-because-of-xbox-layoffs-bethesda-staff-say-fearing-delays-crunch-and-generational-talent-being-replaced-by-contractors | IGN]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/games/963412/bethesda-has-reportedly-lost-more-than-50-staffers-as-part-of-the-xbox-layoffs",
-                "source": "The Verge",
-                "date": "2026-07-09T16:25:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Year Hiatus with Major Video and AF Upgrades, Priced Around $2,300 — BigGo Finance",
-                "desc": "Sony has officially announced the RX10 V, a high-zoom compact camera featuring a 1.0-type sensor, marking the first refresh of the lineup in…",
-                "image": "https://img.biggo.com/mTu-jXstsF0rhO-rCY-WrMXL1ZNQr4gsGbx-vRwHSh4/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3Lzc0MDU1MzY3LWVjZWItNGIxMy05ZjE1LTkwZjg4OGRhYzMzZF8xNzgzNjE0NjA0X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/74055367-eceb-4b13-9f15-90f888dac33d",
-                "source": "finance.biggo.com",
-                "date": "2026-07-09T16:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The history of Pikes Peak Hillclimb in sim racing, and why its currently missing",
-                "desc": "The Peaks Peak International Hillclimb is one of motorsports' most-feared challenges. Amongst the Rocky Mountains, an intestinal road rises to over 14,115",
-                "image": "https://traxion.gg/wp-content/uploads/2026/07/Missing_FI_V1.jpg",
-                "url": "https://traxion.gg/the-history-of-pikes-peak-hillclimb-in-sim-racing-and-why-its-currently-missing/",
-                "source": "Traxion.GG",
-                "date": "2026-07-09T16:00:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After 15 Years, inFAMOUS 2's Online Features Are Coming to an End",
-                "desc": "Goodbye, user-made missions - If you'd forgotten inFAMOUS 2 even had any online features, I'd forgive you. I didn't recall that fact myself. The 15-year-old...",
-                "image": "https://images.pushsquare.com/cd1dddf466bc3/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/after-15-years-infamous-2s-online-features-are-coming-to-an-end",
-                "source": "Push Square",
-                "date": "2026-07-09T16:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Ukraine to receive Patriot missiles from allies - but unclear when, Zelensky says amid air defense crisis",
+                "desc": "\"There are no dates set yet, but there will be additional PAC-3s,\" President Volodymyr Zelensky told reporters a day after the conclusion of the NATO summit in Turkey.",
+                "image": "https://assets.kyivindependent.com/content/images/2026/07/GettyImages-2266338217_20260709-201305.jpg",
+                "url": "https://kyivindependent.com/ukraine-to-receive-patriot-missiles-from-allies-but-unclear-when-zelensky-says-amid-air-defense-crisis/",
+                "source": "The Kyiv Independent",
+                "date": "2026-07-09T20:38:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Health Care Alone Will Never Make A City Healthy",
+                "desc": "The city thrives when residents thrive. That simple sentence captures why we started NashvilleHealth more than a decade ago.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fee89cf8ab15bd6a1a719/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/billfrist/2026/07/09/why-health-care-alone-will-never-make-a-city-healthy/",
+                "source": "Forbes",
+                "date": "2026-07-09T20:35:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Charlie Kirk’s accused killer said he wished he ‘hadn’t done it’, court hears",
+                "desc": "In a police interview shown in court, Tyler Robinson’s former partner said the two did not frequently discuss politics. “I personally never heard him talk about Charlie Kirk before.”",
+                "image": "https://static.ffx.io/images/$zoom_0.2942%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/q_86%2Cf_auto/dc297b98661842a6b55ccf18bf541be7f89c6938",
+                "url": "https://www.smh.com.au/world/north-america/charlie-kirk-s-accused-killer-said-he-wished-he-hadn-t-done-it-court-hears-20260710-p60e5k.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-09T20:29:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
+                "desc": "The country’s leader, Xi Jinping, called on the authorities to investigate the fire, the latest of several deadly workplace accidents in China this year.",
+                "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-china-fire-01-whjf/09int-china-fire-01-whjf-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html",
+                "source": "The New York Times",
+                "date": "2026-07-09T20:27:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roommate of suspect in Charlie Kirk killing recounts shooting aftermath",
+                "desc": "The 23-year-old accused of killing Charlie Kirk confessed to his roommate shortly after the shooting and said he wished he had not done it, according to a...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/GVTS6TNJXZFLRPTDH7GWZPGU5U.jpg?auth=6bc79b6b55aa7bbb54b59b9707c5feb129cac719d69e51045423a60870ad8ce3&width=1200&height=675&quality=70&focal=960%2C249&smart=false",
+                "url": "https://www.nzherald.co.nz/world/roommate-of-suspect-in-charlie-kirk-killing-recounts-shooting-aftermath/6YSP7FEI7ZFMFBIRNJSNSO7VCM/",
+                "source": "NZ Herald",
+                "date": "2026-07-09T20:27:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US-Iran ceasefire crumbles as fresh strikes rock Middle East",
+                "desc": "Iranian armed forces launched attacks on US military infrastructure in Gulf states on Thursday (all times local) following US strikes on Iran's southern coastal and eastern provinces, putting further strain on a three-week-old ceasefire agreement.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--bRqi_pt0--/t_tohu-badge-facebook/f_auto/q_auto/4JLPX6T_AFP__20260708__B9P24MR__v3__HighRes__IranUsIsraelWarFuneral_jpg",
+                "url": "https://www.rnz.co.nz/news/world/695907/us-iran-ceasefire-crumbles-as-fresh-strikes-rock-middle-east",
+                "source": "RNZ",
+                "date": "2026-07-09T20:21:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Suspect in Charlie Kirk killing said ‘he wishes he hadn’t done it’, roommate testifies",
+                "desc": "On fourth day of preliminary hearing, state presents video of a prosecutor interviewing Lance Twiggs",
+                "image": "https://i.guim.co.uk/img/media/c44bae11df2e4b79c67fc244841d46ddfdc6189c/300_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54c38e5a22f313c91c425dcbb76d1035",
+                "url": "https://www.theguardian.com/us-news/2026/jul/09/erika-charlie-kirk-transparency-judge",
+                "source": "The Guardian",
+                "date": "2026-07-09T20:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi green building leader: Cities key to meeting UN sustainable development goals by 2030",
+                "desc": "NEW YORK: At the UN’s annual High-Level Political Forum on Sustainable Development, Faisal AlFadl, secretary-general of the Saudi Green Building Forum, argued that sustainable development goal 11 on sustainable cities is uniquely positioned to accelerate progress across the entire 2030 Agenda because, unlike the other 16 goals, it is grounded in physical space where people",
+                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/07/09/4729773-752677393.png?itok=4NIryG8C",
+                "url": "https://www.arabnews.pk/node/2650322/saudi-arabia",
+                "source": "Arab News PK",
+                "date": "2026-07-09T20:17:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi green building leader: Cities key to meeting UN sustainable development goals by 2030",
+                "desc": "NEW YORK: At the UN’s annual High-Level Political Forum on Sustainable Development, Faisal AlFadl, secretary-general of the Saudi Green Building Forum, argued that sustainable development goal 11 on sustainable cities is uniquely positioned to accelerate progress across the entire 2030 Agenda because, unlike the other 16 goals, it is grounded in physical space where people",
+                "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/09/4729773-752677393.png?itok=gbgnSv2d",
+                "url": "https://www.arabnews.com/node/2650322/saudi-arabia",
+                "source": "Arab News",
+                "date": "2026-07-09T20:17:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "based air defense system to intercept cruise missile target at Woomera",
+                "desc": "Australia and the United States have conducted a successful live firing of a prototype medium-range ground-based air defense system, the Australian Government said.",
+                "image": "https://defence-industry.eu/wp-content/uploads/2026/07/Australia-fires-SM-2-from-prototype-ground-based-air-defense-system-to-intercept-cruise-missile-target-at-Woomera.jpg",
+                "url": "https://defence-industry.eu/australia-fires-sm-2-from-prototype-ground-based-air-defense-system-to-intercept-cruise-missile-target-at-woomera/",
+                "source": "Defence Industry Europe",
+                "date": "2026-07-09T20:15:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Women lead global health workforce but remain shut out of top leadership, WHO says",
                 "desc": "The WHO says women form the backbone of the global health workforce but remain underrepresented in senior leadership, limiting the effectiveness of.",
@@ -1806,98 +1896,8 @@
                 "source": "The Independent",
                 "date": "2026-07-09T16:43:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'No alternative but to unite': UAE's appeal to Gulf after Iran renews attacks",
-                "desc": "Unity among Gulf nations 'utmost necessity', says Dr Anwar Gargash after UAE President visits Kuwait",
-                "image": "https://www.thenationalnews.com/resizer/v2/UUAKV3EFKJENDBWGN4NSOBCRAI.jpg?smart=true&auth=25c59f34873e72d6235416b017d25e962fd3d3ffa49f497a7ccf58afc5141db8&width=1200&height=630",
-                "url": "https://www.thenationalnews.com/news/uae/2026/07/09/no-alternative-but-to-unite-uaes-appeal-to-gulf-after-iran-renews-attacks/",
-                "source": "thenationalnews.com",
-                "date": "2026-07-09T16:42:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump strikes Iranian railway bridges on route to Khamenei’s funeral as ceasefire unravels",
-                "desc": "US president tries to force Iran’s hand with attacks but Tehran says it has final say on the Strait of Hormuz",
-                "image": "https://static.independent.co.uk/2026/07/09/08/2026-07-09T035242Z_1846136984_RC23AMA09MI8_RTRMADP_3_IRAN-CRISIS.JPG?trim=0,300,0,300&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/middle-east/iran-donald-trump-us-strikes-bushehr-b3011939.html",
-                "source": "The Independent",
-                "date": "2026-07-09T16:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "tinted glasses': Russia reacts to US Patriot missile licence for Ukraine",
-                "desc": "International News: Russia on Thursday reacted to US President Donald Trump's decision to grant Ukraine a licence to manufacture Patriot missile interceptors, saying Mosc.",
-                "image": "https://static.toiimg.com/thumb/msid-132289409,width-1280,height-720,imgsize-155023,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/defence/international/we-dont-wear-rose-tinted-glasses-russia-reacts-to-us-patriot-missile-licence-for-ukraine/articleshow/132289355.cms",
-                "source": "The Times of India",
-                "date": "2026-07-09T16:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Putin’s Last Roll of the Dice",
-                "desc": "Perspective: The Ukraine war is straining Russia and now Trump is helping Zelensky on Patriots. How will Putin's dice land?",
-                "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/07-09-26-Putin-s-Last-Roll-of-the-Dice.jpg?w=1200&crop=1",
-                "url": "https://www.newsweek.com/russia-putin-ukraine-war-trump-nato-zelensky-12177190",
-                "source": "Newsweek",
-                "date": "2026-07-09T16:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "American-made technology guiding Ukraine's strikes into Russia",
-                "desc": "The American defense firm Shield AI has played an increasingly important role in Ukraine's campaign of strikes in Russia.",
-                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/09/10300e6f-c23f-4fab-912e-e90f941d9a28/thumbnail/1200x630g6/c11b693aabaa74ce235824a83e9882d1/ap26154237651658.jpg",
-                "url": "https://www.cbsnews.com/news/american-made-technology-guiding-ukraines-strikes-into-russia/",
-                "source": "CBS News",
-                "date": "2026-07-09T16:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Producing Hub Struggles to Shake Off Supply Crisis",
-                "desc": "Hello and welcome to Regions Calling, your guide to developments from beyond the Russian capital by The Moscow Times.",
-                "image": "https://static.themoscowtimes.com/image/og/e9/93210__e92f2a438680f0831959bf96553e495b.jpg",
-                "url": "https://www.themoscowtimes.com/2026/07/09/regions-calling-russias-fuel-producing-hub-struggles-to-shake-off-supply-crisis-a93210",
-                "source": "The Moscow Times",
-                "date": "2026-07-09T16:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/07/09/6a4fcc37c2e421783614519.jpg",
-                "url": "https://techreviewafrica.com/news/6245/cto-leadership-drives-global-digital-policy-conversations-at-wsis-forum-2026",
-                "source": "Tech Review Africa",
-                "date": "2026-07-09T16:31:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Interpol arrests through Operation First Light: How Interpol gbab 5,800 suspects across 97 kontris including Nigeria, Ghana and South Africa",
-                "desc": "Interpol say dem analyse 152,808 cases and solve 23,715 cases, block 31,014 bank accounts, identify 15,606 suspects, and issue 99 Interpol Notices and Diffusions.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/73ba/live/d6edaeb0-7ba4-11f1-9671-6995d20a3bb8.jpg",
-                "url": "https://www.bbc.com/pidgin/articles/c1myvx0g02eo",
-                "source": "BBC",
-                "date": "2026-07-09T16:30:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huge crowds in Mashhad for burial of Iran's late supreme leader",
-                "desc": "Ali Khamenei will be buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5576/live/e2af5470-7b99-11f1-bc57-4fb8ebc9579b.jpg",
-                "url": "https://www.bbc.com/news/articles/c5yzm8m4peeo",
-                "source": "BBC",
-                "date": "2026-07-09T16:28:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "immigration Leader Jacinta Ngobese Zuma Announces Fresh Protest Schedule",
-                "desc": "The leader of South Africa’s anti-immigration movement, March and March, has intensified the group’s campaign after announcing a new protest schedule.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/0ac569528c3f1fef.jpeg?v=1",
-                "url": "https://yen.com.gh/people/307594-march-march-protest-intensifies-leader-jacinta-ngobese-zuma-announces-schedule/",
-                "source": "Yen News",
-                "date": "2026-07-09T16:26:50Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T08:12:20.878717Z"
+    "lastGlobalSync": "2026-07-10T08:40:18.928049Z"
 }
