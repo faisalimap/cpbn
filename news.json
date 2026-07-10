@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "Elon Musk’s plans to colonize space launches this year, and Tesla robots will be the first residents",
+                "desc": "Trillionaire Elon Musk aims to have rockets blast off from Earth before the end of 2026, sending the first materials to the moon and Mars to start building colonies.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-u0y6dg8bs-1783641482865.jpg?quality=75&strip=all&1783627102&w=1200",
+                "url": "https://nypost.com/2026/07/09/world-news/elon-musks-plans-to-colonize-space-launch-this-year-and-tesla-robots-will-be-the-first-residents/",
+                "source": "New York Post",
+                "date": "2026-07-09T23:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian fuel giant suggests it may eventually phase out petrol",
+                "desc": "Selling petrol is becoming less profitable in Australia, says Ampol's CEO, but there's money to be made in electric vehicle charging.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2026-04-cefuelranger.jpg",
+                "url": "https://www.carexpert.com.au/car-news/australian-fuel-giant-suggests-it-may-eventually-phase-out-petrol",
+                "source": "CarExpert",
+                "date": "2026-07-09T23:55:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SEC Sets July 10 Filing Deadline",
+                "desc": "Nigeria's SEC mandates capital market operators to file cross-border financial data by July 10, 2026, to enhance national financial statistics.",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/operator_1783641099.webp",
+                "url": "https://punchng.com/market-operators-get-july-10-filing-deadline/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-09T23:55:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global Inflation Projected to Rise to 4.7% by IMF",
+                "desc": "The IMF projects global inflation to hit 4.7% in 2026, with 3% economic growth. Learn about the factors influencing these global inflation trends.",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/IMF-Logo.webp",
+                "url": "https://punchng.com/imf-projects-4-7-global-inflation-3-economic-growth/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-09T23:53:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hardware Lane restaurant to shut doors",
+                "desc": "The Israeli street-food restaurant, open for nearly 10 years, will serve its last pitas this weekend.",
+                "image": "https://static.ffx.io/images/$zoom_0.1982%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_43/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/9567ce91488b8392d047005f764a36c6a988d052",
+                "url": "https://www.theage.com.au/goodfood/melbourne-eating-out/melbourne-s-last-remaining-miznon-restaurant-announces-closure-20260710-p60e7p.html",
+                "source": "The Age",
+                "date": "2026-07-09T23:50:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aussie loses $100k in just 5 hours after government’s housing budget announcement",
+                "desc": "An Australian woman has explained how a common move lost her a staggering $100,000 in just five hours, leaving her feeling sick.",
+                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_0402fd5acfd49fddbc96ea12d98bf6ea_2cf1ee20eacbfa1f141847ad03c41583.jpeg",
+                "url": "https://www.realestate.com.au/news/aussie-loses-100k-in-just-5-hours-after-governments-housing-budget-announcement/",
+                "source": "realestate.com.au",
+                "date": "2026-07-09T23:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TCS Q1 revenue rises 2.7%, company adds over 9,000 to workforce",
+                "desc": "India Business News: BENGALURU: TCS reported June-quarter revenue of $7.6 billion, up 2.7% year-on-year and largely flat sequentially. This reflects a cautious demand envi.",
+                "image": "https://static.toiimg.com/thumb/msid-132300417,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-q1-revenue-rises-2-7-company-adds-over-9000-to-workforce/articleshow/132300391.cms",
+                "source": "The Times of India",
+                "date": "2026-07-09T23:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Executive Fidji Simo to Step Down to Focus on Health Recovery",
+                "desc": "Fidji Simo, OpenAI’s No. 2 executive, will step down from her full-time role following a three-month medical leave to focus on her health recovery.",
+                "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2198335088.jpg?crop=0px%2C3px%2C1280px%2C720px&resize=1000%2C563",
+                "url": "https://variety.com/2026/biz/news/fidji-simo-openai-step-down-recovery-illness-1236806169/",
+                "source": "Variety",
+                "date": "2026-07-09T23:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Hazama, wife leave parenthood to fate",
                 "desc": "AFTER nine years of marriage and undergoing in vitro fertilisation (IVF) treatment in 2023, singer Hazama says he and his musician wife, Genervie Kam, have chosen to accept whatever fate has in store for them when it comes to having children.",
                 "image": "https://apicms.thestar.com.my/uploads/images/2026/07/10/4002408.jpg",
@@ -560,81 +632,63 @@
                 "source": "TheCable",
                 "date": "2026-07-09T20:41:16Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese Yuan: Fixing guidance fades, path less anchored - OCBC",
-                "desc": "OCBC’s Christopher Wong observes that Renminbi (RMB) appreciation guidance is waning, with CNH-CNY fixing gaps narrowing and daily adjustments moderating. Policymakers appear to be shifting toward RMB stability rather than further appreciation.",
-                "image": "https://editorial.fxsstatic.com/images/i/china_Medium.png",
-                "url": "https://www.fxstreet.com/news/chinese-yuan-fixing-guidance-fades-path-less-anchored-ocbc-202607092035",
-                "source": "FXStreet",
-                "date": "2026-07-09T20:38:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Snowy Hydro contractor denies claims it exposed workers to risk of death or injury",
-                "desc": "A major contractor on the multi-billion-dollar Snowy Hydro project is defending itself against accusations it exposed five workers to the risk of death or serious injury in two separate incidents.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/416665b85bc0941c178f551907296c7f?impolicy=wcms_watermark_news&cropH=3160&cropW=5618&xPos=0&yPos=293&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-10/nsw-snowy-hydro-worksafe-nsw-hearings-contractor/106898778",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-09T20:36:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aritzia’s profits more than double in first quarter on strength of seasonal offerings",
-                "desc": "Vancouver-based clothing maker reported net income of $117.3-million or 99 cents per diluted share in the quarter ended May 31",
-                "image": "https://www.theglobeandmail.com/resizer/v2/KVMQP5GM3RBPNPBVHS3OXMSF2M?auth=83351eb3f5eec7ac5ff995c218e199c75129bd2d668f85f90b0e2f3eb383bdc7&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-aritzia-first-quarter-results/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-09T20:34:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
-                "desc": "Coinbase Chief Legal Officer Paul Grewal will depart the exchange, though he'll continue as an adviser, he said Thursday.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/80e6ac6773d5aa941421ab35198c14438412acfb-2560x1440.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-                "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
-                "source": "CoinDesk",
-                "date": "2026-07-09T20:33:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk's SpaceX Poured $7.7 Billion Into AI Last Quarter. Here's the Bet Behind Its Widening Losses.",
-                "desc": "The rocket company's IPO prospectus shows where the money is really going.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878326%2Fspcx-stock-ai.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/09/elon-musks-spacex-poured-77-billion-into-ai-last-q/",
-                "source": "The Motley Fool",
-                "date": "2026-07-09T20:31:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Naira faces renewed pressure from summer travel, school fees dollar demand",
-                "desc": "Nigeria's currency, the naira, is coming under renewed pressure in the parallel FX market as seasonal demand for dollars for summer travel...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/IzXbe-black-market-exchange-rate-from-january-to-june-2026-1.png",
-                "url": "https://businessday.ng/news/article/naira-faces-renewed-pressure-from-summer-travel-school-fees-dollar-demand/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-09T20:30:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PubMatic, Zynga Aim To Bridge Gap Between Advertisers, Mobile Gamers",
-                "desc": "PubMatic, Zynga Aim To Bridge Gap Between Advertisers, Mobile Gamers - 07/10/2026",
-                "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/07/09/image_jLLCxVk.png",
-                "url": "https://www.mediapost.com/publications/article/416430/pubmatic-zynga-aim-to-bridge-gap-between-advertis.html",
-                "source": "MediaPost",
-                "date": "2026-07-09T20:29:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Robinhood chain hits $568M in trading frenzy, benefitting Arbitrum",
-                "desc": "The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-                "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
-                "source": "CoinDesk",
-                "date": "2026-07-09T20:29:19Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Google adds GPU & TPU support to GKE Autopilot",
+                "desc": "Developers can now run accelerator-heavy AI workloads on managed GKE Autopilot without handling node setup or low-level network allocation.",
+                "image": "https://itbrief.com.au/uploads/story/2026/07/10/compatible_neutral-cloud-data-center-kubernetes-container-blocks-ai-workload-gpu-tpu-digital-illustration.jpg",
+                "url": "https://itbrief.com.au/story/google-adds-gpu-tpu-support-to-gke-autopilot",
+                "source": "IT Brief Australia",
+                "date": "2026-07-10T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I made my Google TV Streamer practically perfect with these small tweaks",
+                "desc": "Months after launch, the flagship Google streamer still ships with a handful of irritating bugs. I found which ones matter and how to live with them.",
+                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2024/11/google-tv-streamer-09.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.pocket-lint.com/google-tv-streamer-bugs-fixes/",
+                "source": "Pocket-lint",
+                "date": "2026-07-10T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google starts rolling out Documents backup on Android",
+                "desc": "Google is rolling out new settings to control whether RCS messages are backed up. Android is beginning to roll out local Documents backup.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/App-drawer-on-Pixel-10-Pro-Fold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/09/android-documents-backup/",
+                "source": "9to5Google",
+                "date": "2026-07-09T23:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australians Might Need An Actual Licence To Play 'Grand Theft Auto 6'",
+                "desc": "Australian GTA 6 players may face age checks for online access, with a driver's licence one possible way to verify age.",
+                "image": "https://manofmany.com/wp-content/uploads/2026/07/Jason-and-Lucia-03-landscape-1.jpg",
+                "url": "https://manofmany.com/entertainment/gaming/gta-6-australia-age-verification",
+                "source": "Man of Many",
+                "date": "2026-07-09T23:58:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iQOO Z11 Lite Gets 44W Charging Ahead of India Launch 2026",
+                "desc": "iQOO Z11 Lite design confirmed for India with a 6,500mAh battery, 44W charging, and Dimensity 6300. Meanwhile, the iQOO 16 may never arrive due to rising memory costs.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/07/iQOO-Z11-Lite-Gets-44W-Charging-Ahead-of-India-Launch-2026.jpg",
+                "url": "https://memeburn.com/iqoo-z11-lite-gets-44w-charging-ahead-of-india-launch-2026/",
+                "source": "Memeburn",
+                "date": "2026-07-09T23:53:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HyperMegaTech Super Pocket Rare Edition Review",
+                "desc": "The HyperMegaTech Super Pocket Rare Edition is a solid handheld with a broad cross-section of games from one of the best classic gaming developers. It brings classics from Battletoads to Banjo-Kazooie into a pocket-sized handheld retro gaming device.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/09/blogroll-1783640202655.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/hypermegatech-super-pocket-rare-edition-review",
+                "source": "IGN",
+                "date": "2026-07-09T23:44:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Why newly minted tech millionaires could reshape luxury",
                 "desc": "Tech millionaires are reshaping luxury spending habits, forcing fashion brands to rethink how they attract newly wealthy consumers.",
@@ -1210,63 +1264,63 @@
                 "source": "Gizmodo",
                 "date": "2026-07-09T20:00:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Overpowered RC Car + Gimbal Cam = The Greatest Chase Vehicle We’ve Ever Seen",
-                "desc": "Modern cinema relies very heavily on quadrotor drones, because they make for very smooth, very easy to position platforms. From slow pans to chase shots, drones are great-- if your shots can be taken ...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/camera-rover-feat.jpg",
-                "url": "https://hackaday.com/2026/07/09/overpowered-rc-car-gimbal-cam-the-greatest-chase-vehicle-weve-ever-seen/",
-                "source": "Hackaday",
-                "date": "2026-07-09T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to make sense of your Apple Watch, Oura Ring or FitBit’s health data",
-                "desc": "We’re all wearing health trackers and wearables. Are the heart and health data they’re collecting actually helping us to live longer?",
-                "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/GettyImages-1416797705.jpg?quality=90&strip=all&crop=0%2C19.586290221784%2C100%2C60.827419556432&w=1200",
-                "url": "https://www.vox.com/good-medicine-newsletter/494789/apple-watch-oura-ring-fitbit-health-tracker-data",
-                "source": "vox.com",
-                "date": "2026-07-09T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gemini users tell Google what it should have fixed ages ago",
-                "desc": "A Google exec asked users what Gemini still gets wrong, then shared the top complaints and which fixes are already on the way.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Ask-Gemini-Plus-icon-on-Google-Pixel-10a.jpg",
-                "url": "https://www.androidauthority.com/top-gemini-users-improvement-requests-3685987/",
-                "source": "Android Authority",
-                "date": "2026-07-09T19:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Press Ranger Launches the First MCP Server for Press Release Distribution",
-                "desc": "V1 release connects Claude, ChatGPT, and Codex directly to Press Ranger, letting anyone draft, manage, and track AI-optimized press releases from a single conversation.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1131857.png",
-                "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/press-ranger-launches-the-first-mcp-server-for-press-release-distribution/2381985",
-                "source": "The Manila Times",
-                "date": "2026-07-09T19:52:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UCSF and Samsung launch remote study on aging brain health",
-                "desc": "An innovative new study from the Neuroscape research center at UCSF, and consumer electronics giant Samsung seeks to understand decade-by-decade changes in brain health.",
-                "image": "https://www.news-medical.net/image-handler/picture/2014/7/Neuroscience-620x480.jpg",
-                "url": "https://www.news-medical.net/news/20260709/UCSF-and-Samsung-launch-remote-study-on-aging-brain-health.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-09T19:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony RX10 V Announced - 24-600mm ZEISS Zoom, AI Recognition AF, and 4K 120p Video",
-                "desc": "Sony RX10 V announced: 24-600mm ZEISS zoom, AI Recognition AF, and 4K 120p video.",
-                "image": "https://www.cined.com/content/uploads/2026/07/IMG_0995.jpeg",
-                "url": "https://www.cined.com/sony-rx10-v-announced-24-600mm-zeiss-zoom-ai-recognition-af-and-4k-120p-video/",
-                "source": "CineD",
-                "date": "2026-07-09T19:42:05Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "2026/49 “Managing the Margins: China’s Risk Calculus in Myanmar’s Civil War” by Htet Shein Lynn",
+                "desc": "China engages Ethnic Armed Organisations (EAOs) in Myanmar based on pragmatic risk management rather than ideological alliance or proxy sponsorship.",
+                "image": "https://iseas.edu.sg/wp-content/uploads/2026/07/AFP__20240531__34TU6GV__v1__HighRes__MyanmarConflictCoupRakhine-copy-1.jpeg",
+                "url": "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-49-managing-the-margins-chinas-risk-calculus-in-myanmars-civil-war-by-htet-shein-lynn/",
+                "source": "ISEAS – Yusof Ishak Institute",
+                "date": "2026-07-10T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria, France Partner to Boost Agricultural Value Chains",
+                "desc": "Nigeria and France strengthen their partnership to boost agricultural value chains, launching the France-Nigeria Agribusiness Club to drive investment and",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/IMG-20260709-WA0024_1783633923-1200x630.webp",
+                "url": "https://punchng.com/france-nigeria-partner-to-strengthen-agric-value-chains/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-09T23:49:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Senegal cancels exiled Guinea opposition meeting",
+                "desc": "Senegalese authorities ordered exiled Guinean opposition members to cancel a planned meeting in Dakar on Thursday to denounce human rights violations in their country, according to one of the event's organizers.",
+                "image": "https://citizentv.obs.af-south-1.myhuaweicloud.com/141713/conversions/Screenshot-2024-12-31-203055-og_image.webp",
+                "url": "https://citizen.digital/article/senegal-cancels-exiled-guinea-opposition-meeting-n386156",
+                "source": "Citizen Digital",
+                "date": "2026-07-09T23:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top 10 best cities in the World in 2026 - See the latest global rankings",
+                "desc": "Discover the top 10 best cities in the world in 2026 according to Resonance Consultancy. See why London retained the number one spot and which global cities made this year's rankings. Read more.",
+                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/09072026/dc796a10-856d-486d-9211-605719e31668.jpg?operations=autocrop(1200:630)",
+                "url": "https://www.pulse.com.gh/story/top-10-best-cities-in-the-world-in-2026-see-the-latest-global-rankings-2026070918280874782",
+                "source": "Pulse Ghana",
+                "date": "2026-07-09T23:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nation's common prosperity model hailed",
+                "desc": "In Northwest China's Ningxia Hui autonomous region lies a township called Minning. Its name combines the Chinese abbreviation for East China's Fujian province, \"Min\", and that for Ningxia, \"Ning\", symbolizing a partnership that has spanned more than 4,000 kilometers and become one of China's most celebrated examples of east-west cooperation in poverty alleviation.",
+                "image": "http://img2.chinadaily.com.cn/images/202607/10/6a50502ea310986e10194d7c.jpeg",
+                "url": "https://www.chinadaily.com.cn/a/202607/10/WS6a5031d5a310986e2b4647ef.html",
+                "source": "China Daily",
+                "date": "2026-07-09T23:42:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Charlie Kirk's accused killer 'said he wishes he hadn't done it,' roommate told Utah prosecutors",
+                "desc": "The former roommate of Tyler Robinson, the man accused of killing conservative activist Charlie Kirk, told investigators Robinson \"said he wishes he hadn't done it\" the day after the fatal shooting.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--ARs4abcD--/t_tohu-badge-facebook/f_auto/q_auto/4K11WG6_AFP__20250913__74ET6KE__v2__MidRes__UsPoliticsShootingKirk_jpg",
+                "url": "https://www.rnz.co.nz/news/world/696469/charlie-kirk-s-accused-killer-said-he-wishes-he-hadn-t-done-it-roommate-told-utah-prosecutors",
+                "source": "RNZ",
+                "date": "2026-07-09T23:41:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Farage left fighting a trash can as election gamble backfires",
                 "desc": "A political gamble looks like it has spectacularly backfired.",
@@ -1842,62 +1896,8 @@
                 "source": "The Irish Times",
                 "date": "2026-07-09T19:41:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New Zealand Requires Police Certificates Upfront for Student and Temporary Visa Applications",
-                "desc": "Immigration New Zealand announced that applicants for student and other temporary visas must submit any required police certificates at the time of application.",
-                "image": "https://www.envoyglobal.com/wp-content/uploads/2025/02/EG-favicon.svg",
-                "url": "https://www.envoyglobal.com/news-alert/new-zealand-requires-police-certificates-upfront-for-student-and-temporary-visa-applications/",
-                "source": "Envoy Global",
-                "date": "2026-07-09T19:37:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Poll: Nearly 8 in 10 California Voters Want a Governor Who Prioritizes Water",
-                "desc": "Survey Finds Bipartisan Support for Improving California’s Water Reliability and Affordability",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1131856.png",
-                "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/new-poll-nearly-8-in-10-california-voters-want-a-governor-who-prioritizes-water/2381983",
-                "source": "The Manila Times",
-                "date": "2026-07-09T19:32:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Avigdor Liberman: Benjamin Netanyahu is a burden to Donald Trump, dismantled US-Israel ties",
-                "desc": "“Trump wants to distance himself from him [Netanyahu]. The relationship has become a burden, and it is already hurting him in the upcoming US midterm elections,\" Liberman said.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729267",
-                "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902069",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-09T19:30:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelensky reveals details about massive explosions in Kyiv suburb, promises dismissals at Ukraine's largest defense company",
-                "desc": "The ammunition warehouse that detonated in Vyshneve during Russia's mass attack on Kyiv July 6 belonged to state-owned weapons giant Ukroboronprom, Zelensky said.",
-                "image": "https://assets.kyivindependent.com/content/images/2026/06/GettyImages-2270899759_20260601-115704.jpg",
-                "url": "https://kyivindependent.com/zelensky-reveals-details-about-warehouse-explosion-that-rocked-kyiv-suburb-promises-dismissals-at-ukraines-largest-weapons-manufacturer/",
-                "source": "The Kyiv Independent",
-                "date": "2026-07-09T19:21:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine’s drones have opened a summer window of opportunity behind Russian lines. Front",
-                "desc": "Ukrainian forces have stepped up their use of “midstrikes” — drones able to hit targets several dozen kilometers behind the front line. Their success, alongside that of “deepstrikes,” has fueled assertions that Ukraine has wrested back the initiative and blunted Russia’s advance. Ukrainska Pravda asked soldiers how much the strikes on the “middle rear” are actually changing the situation at the front. Most were cautious about the claim that Ukraine has “seized the initiative,” saying front-line troops don’t yet feel the effect — even as the outlet calls the strikes promising and says their full impact is unlikely to be felt until late summer or early fall.",
-                "image": "https://meduza.io/imgly/share/1783624181/en/feature/2026/07/09/ukraine-s-drones-have-opened-a-summer-window-of-opportunity-behind-russian-lines-front-line-soldiers-tell-ukrainska-pravda-the-army-is-on-track-to-waste-it",
-                "url": "https://meduza.io/en/feature/2026/07/09/ukraine-s-drones-have-opened-a-summer-window-of-opportunity-behind-russian-lines-front-line-soldiers-tell-ukrainska-pravda-the-army-is-on-track-to-waste-it",
-                "source": "Meduza",
-                "date": "2026-07-09T19:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Climate change becoming a major driver of child marriage across Asia and the Pacific",
-                "desc": "Climate change is now believed to be a leading contributor to more frequent and younger nuptials, with 12 million girls tipped to become child brides this year.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/4fc70729197534a2eaf69699d0916582?impolicy=wcms_watermark_news&cropH=552&cropW=981&xPos=359&yPos=307&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-10/climate-change-leading-to-more-child-marriages-advocates-say/106766756",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-09T19:04:18Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T11:40:22.239839Z"
+    "lastGlobalSync": "2026-07-10T12:00:24.431510Z"
 }
