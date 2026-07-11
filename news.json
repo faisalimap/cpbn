@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "Residential auction numbers hit their lowest point so far this year",
+                "desc": "The latest auction activity was at a low point for 2026",
+                "image": "https://www.interest.co.nz/sites/default/files/2025-07/WinterAuction.jpg",
+                "url": "https://www.interest.co.nz/property/139334/latest-auction-activity-was-low-point-2026",
+                "source": "Interest.co.nz",
+                "date": "2026-07-10T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mindarie commercial centre plans change as developers seek to add apartments",
+                "desc": "Developers are seeking to change an approved single-storey commercial centre into a three-storey mixed-use development.",
+                "image": "https://images.perthnow.com.au/publication/C-22520842/1aa0d218571f8f1f7b0e92c3bb60a69fde0c140c-16x9-x174y0w1175h661.jpg?imwidth=1200",
+                "url": "https://www.perthnow.com.au/wa/perth/north/wanneroo/mindarie-commercial-centre-plans-change-as-developers-seek-to-add-apartments-c-22520842",
+                "source": "PerthNow",
+                "date": "2026-07-10T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Liverpool set to lose 600 jobs as BT plans to close city centre office",
+                "desc": "Kim Johnson MP said BT's decision is another example of the \"damage caused when decisions are driven by corporate cost-cutting rather than people and communities\"",
+                "image": "https://i2-prod.liverpoolecho.co.uk/article34274383.ece/ALTERNATES/s1200d/0_JS408921838.jpg",
+                "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-set-lose-600-jobs-34274239",
+                "source": "Liverpool Echo",
+                "date": "2026-07-10T17:55:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge criticises 'inappropriate' withdrawal of representation for murder conspirator",
+                "desc": "Mr Justice Paul McDermott made the remark after hearing that Jason Dunne (35) was not represented in court due to the ongoing dispute over legal aid fees.",
+                "image": "https://img2.thejournal.ie/article/7098199/river/?height=400&version=7098214",
+                "url": "https://www.thejournal.ie/judge-criticises-inappropriate-withdrawal-of-representation-for-murder-conspirator-7098199-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-10T17:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Climate risks pose evolving credit challenge for Nigerian Banks - Fitch",
+                "desc": "Nigeria’s banking sector faces mounting exposure to climate-related risks that could significantly weaken asset quality, increase credit losses and reshape",
+                "image": "https://blueprint.ng/wp-content/uploads/2026/07/images-2026-07-10T185352.592.jpeg",
+                "url": "https://blueprint.ng/climate-risks-pose-evolving-credit-challenge-for-nigerian-banks-fitch/",
+                "source": "Blueprint Newspapers",
+                "date": "2026-07-10T17:54:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ExxonMobil’s Usan project to generate $1.2bn for Nigeria",
+                "desc": "ESSO Exploration and Production Nigeria says its one billion-dollar Usan Infill Project in Oil Mining Lease (OML) 138 is expected to generate 1.2 billion",
+                "image": "https://blueprint.ng/wp-content/uploads/2024/10/cropped-blueprint-icon-32x32.png",
+                "url": "https://blueprint.ng/exxonmobils-usan-project-to-generate-1-2bn-for-nigeria/",
+                "source": "Blueprint Newspapers",
+                "date": "2026-07-10T17:51:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "QC Design Publishes Plaquette Framework for Fault-Tolerant Quantum Computer Design",
+                "desc": "QC Design has published Plaquette, a hardware-aware platform for modeling quantum hardware errors and designing fault-tolerant quantum computers.",
+                "image": "https://thequantuminsider.com/wp-content/uploads/2026/07/2026-07-10_21-46.png",
+                "url": "https://thequantuminsider.com/2026/07/10/qc-design-publishes-plaquette-hardware-aware-design-platform-for-fault-tolerant-quantum-computers/",
+                "source": "The Quantum Insider",
+                "date": "2026-07-10T17:42:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Traders fall back in love with Meta. Here's where bulls see it going",
+                "desc": "Meta Platform's AI efforts are looking like the recipe for a comeback after an almost year-long drought in shares of the $1.7 trillion market-cap company.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108333030-17836276302026-07-09t193642z_2135966945_rc2iama4gjkq_rtrmadp_0_media-sunvalley.jpeg?v=1783627672&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html",
+                "source": "CNBC",
+                "date": "2026-07-10T17:40:29Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Facebook and Instagram violate laws due to 'addictive' design, EU finds",
                 "desc": "The European Union found that Meta services like Facebook and Instagram are too addictive by design.",
                 "image": "https://helios-i.mashable.com/imagery/articles/03DiLpenj4PDv9PFdHkAPzQ/hero-image.fill.size_1200x675.v1783698827.jpg",
@@ -560,81 +632,99 @@
                 "source": "The Motley Fool",
                 "date": "2026-07-10T14:48:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. Home Improvement Loan ABS Index: June 2026",
-                "desc": "KBRA is a leading Nationally Recognized Statistical Ratings Organization. Find the most relevant and up-to-date credit ratings research here! Learn more!",
-                "image": "https://kbra-static-assets.azureedge.net/assets/kbra-meta-thumb.png",
-                "url": "https://www.kbra.com/publications/qhxsJyRf/u-s-home-improvement-loan-abs-index-june-2026?format=web",
-                "source": "KBRA",
-                "date": "2026-07-10T14:48:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kraken to launch agentic trading as crypto exchanges evolve beyond crypto",
-                "desc": "Kraken is preparing to relaunch its app with agentic trading at its core, the company told CNBC exclusively.",
-                "image": "https://image.cnbcfm.com/api/v1/image/107171671-1672224352332-gettyimages-1233101223-CRYPTO_MARKET.jpeg?v=1776195916&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/kraken-to-launch-agentic-trading-as-crypto-exchanges-evolve-beyond-crypto.html",
-                "source": "CNBC",
-                "date": "2026-07-10T14:47:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toronto opens one of City's largest pickleball facilities in east end",
-                "desc": "The city now offers more than 300 public pickleball courts across 108 outdoor summer locations, plus 49 indoor sites offering drop‑in play.",
-                "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/10/iStock-1456051989.jpg",
-                "url": "https://toronto.citynews.ca/2026/07/10/toronto-pickleball-court-main-sewage-treatment/",
-                "source": "CityNews Toronto",
-                "date": "2026-07-10T14:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Big tech platforms will have to ban scam ads under UK plans to tackle fraud",
-                "desc": "Range of potential measures announced by Ofcom include reducing risk of accounts being hijacked for scams",
-                "image": "https://i.guim.co.uk/img/media/7db7f214616397c9ba37515ab197e36e979e3ff5/69_0_4400_3520/master/4400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0979a5977f7ce8b4f744b842852c66fc",
-                "url": "https://www.theguardian.com/media/2026/jul/10/online-platforms-ban-scam-ads-uk-fraud-ofcom-online-safety-act",
-                "source": "The Guardian",
-                "date": "2026-07-10T14:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FCC Approves Reflect Orbital's Space Mirror Satellite That Astronomers Hate",
-                "desc": "The FCC says the most controversial aspect of Reflect Orbital's Earendil-1 satellite, its giant mirror, falls outside its authority since the regulator mainly focuses on radio spectrum.",
-                "image": "https://i.pcmag.com/imagery/articles/01VTTiFgJZatHi8Ms0LPo69-1.fit_lim.size_1200x630.v1783635151.jpg",
-                "url": "https://www.pcmag.com/news/fcc-approves-reflect-orbitals-giant-mirror-satellite-that-astronomers-hate",
-                "source": "PCMag",
-                "date": "2026-07-10T14:39:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Everything you need to know about the UK's free aircon scheme",
-                "desc": "HUNDREDS of thousands of households can get aircon installed in their home for free through a little-known Government scheme.\nWith temperatures...",
-                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/modern-wall-mounted-air-conditioner-1094504456.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-                "url": "https://www.thesun.co.uk/money/39716133/uk-free-aircon-scheme-claim-details/",
-                "source": "The Sun",
-                "date": "2026-07-10T14:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bank of England handed powers to regulate key tech firms including Amazon and Google",
-                "desc": "Direct oversight of ‘critical third parties’ such as Oracle and Microsoft given to ensure resilient cyber-defences and help safeguard UK economy",
-                "image": "https://i.guim.co.uk/img/media/4b44af164fb2c45d87e28393348fdd45b984cc79/462_0_4616_3693/master/4616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59bec8390c616083116c804d695f41bd",
-                "url": "https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google",
-                "source": "The Guardian",
-                "date": "2026-07-10T14:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aldi Brings Football Spirit To The Supermarket Shelves",
-                "desc": "The campaign by McCannn Manchester showcases England pride before the quarter final match this weekend",
-                "image": "https://img2.storyblok.com/560x300/f/102932/1240x697/79df517063/aldi-england-quarter-final-mccann.jpg",
-                "url": "https://creative.salon/articles/work/aldi-england-s-quarter-final-campaign-mccann-manchester",
-                "source": "Creative Salon",
-                "date": "2026-07-10T14:35:58Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I used an open-source Windows clone for a week, and I'm equal parts impressed and confused",
+                "desc": "Certainly had a lasting REACTion on me.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/reactos-native.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/used-open-source-windows-clone-for-week-equal-parts-impressed-confused/",
+                "source": "MakeUseOf",
+                "date": "2026-07-10T18:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Researchers find simple solution for extending the lifespan of LEDs made from glowing quantum dots",
+                "desc": "A new study led by MIT researchers could drive the development of more energy-efficient digital displays—such as flat-screen TVs, augmented and virtual reality headsets, smartphone screens, medical imaging devices and even large-area ambient lighting surfaces—that also generate richer, brighter colors.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-find-a-sim.jpg",
+                "url": "https://phys.org/news/2026-07-simple-solution-lifespan-quantum-dots.html",
+                "source": "Phys.org",
+                "date": "2026-07-10T18:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MIT Study Lights Way for Bright, Efficient Quantum Dot LED TV Screens",
+                "desc": "Despite a step forward, don't expect the next level of TV panels to be widely marketed anytime soon.",
+                "image": "https://www.cnet.com/a/img/resize/023f16b56b0b375bece2ae2ed0b09a6ac5da21d0/hub/2026/07/10/6b31dd39-5847-449a-8d21-7b484359476b/gettyimages-2164123311.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/home-entertainment/qd-led-displays-study/",
+                "source": "CNET",
+                "date": "2026-07-10T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Adds Transparency To AI-Generated Ads",
+                "desc": "Google Adds Transparency To AI-Generated Ads - 07/13/2026",
+                "image": "https://s3.amazonaws.com/static.mediapost.com/publications/images/mp-logo-fb.jpg",
+                "url": "https://www.mediapost.com/publications/article/416448/google-adds-transparency-to-ai-generated-ads.html",
+                "source": "MediaPost",
+                "date": "2026-07-10T17:56:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption",
+                "desc": "Ransomware EDR killers just leveled up: GodDamn ransomware used PoisonX — a kernel driver bearing a legitimate Microsoft Hardware Compatibility Publisher signature — to terminate security software on",
+                "image": "https://d.techtimes.com/en/full/468426/microsoft.png",
+                "url": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm",
+                "source": "Tech Times",
+                "date": "2026-07-10T17:55:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic highlights Claude Code's in",
+                "desc": "Speaking of AI-powered browser capabilities on the Mac, Anthropic is highlighting Claude Code’s in-app browser on the desktop today. “Claude...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/claude.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+                "source": "9to5Mac",
+                "date": "2026-07-10T17:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Magic Brief Is Shutting Down - Where to Go Before July 31",
+                "desc": "Magic Brief shuts down July 31, 2026 after Canva's $22.5M acquisition. Compare the best alternatives for creative analytics, brief building, and ad research — including free options.",
+                "image": "https://cdn.prod.website-files.com/6748a0499432e81f3a029e2b/6a285713b0797aa4adccce1d_45%20-%20Passionfroot%20%20EAFM%20%201080%20x%201350%20px.png",
+                "url": "https://www.thekeyword.co/learn/magic-brief-shutting-down-alternatives",
+                "source": "thekeyword.co",
+                "date": "2026-07-10T17:53:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI, Synthesis to Forge Stronger Magnets",
+                "desc": "Quick lookA team led by an Iowa State University chemist will use artificial intelligence tools and innovative synthesis methods to develop new",
+                "image": "https://www.news.iastate.edu/files/styles/width_limit/public/images/2026-07/magnetsynthesis500_0.jpeg?itok=dphFZoO6",
+                "url": "https://www.miragenews.com/ai-synthesis-to-forge-stronger-magnets-1708408/",
+                "source": "Mirage News",
+                "date": "2026-07-10T17:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia Offers New Cards. Trading Cards, That Is",
+                "desc": "Can't afford Nvidia's desktop graphics cards because of the memory shortage? The company is offering free trading cards commemorating a few of its older GPUs.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-off/nvidia-offers-new-cards-trading-cards-that-is_medq.1200.jpg",
+                "url": "https://au.pcmag.com/graphics-cards/118707/nvidia-offers-new-cards-trading-cards-that-is",
+                "source": "PCMag Australia",
+                "date": "2026-07-10T17:49:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OPTIMA Batteries Powers RUF Boxer 8 Prototype at the 2026 Goodwood Festival of Speed",
+                "desc": "OPTIMA ORANGETOP™ QH6 battery brings advanced lithium power to one of Goodwood’s most closely watched performance debuts",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1132978.jpg",
+                "url": "https://www.manilatimes.net/2026/07/11/tmt-newswire/globenewswire/optima-batteries-powers-ruf-boxer-8-prototype-at-the-2026-goodwood-festival-of-speed/2382578",
+                "source": "The Manila Times",
+                "date": "2026-07-10T17:43:26Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Physical laws explain why most flies evolved similar flight, with mosquitoes as outliers",
                 "desc": "A new study in PLOS Biology of 133 species of flies, mosquitoes and their relatives shows that most species fly in surprisingly similar ways. Physical and aerodynamic laws shape the evolution of their flight behavior more strongly than previously thought. Mosquitoes prove to be a striking exception.",
@@ -1174,99 +1264,99 @@
                 "source": "Stormshield",
                 "date": "2026-07-10T14:58:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "\"A Mobile Headon: Body Cam Shooter Is Coming to PC",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/091304-989de59f/GamePress_News_1.1.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=f541e370b5dfb6400ae99a48fac11ae4cf190be0f2d5bf0bb65c82443b247296",
-                "url": "https://www.gamespress.com/pl/A-Mobile-Headon-Body-Cam-Shooter-Is-Coming-to-PC---Wishlist-Now-on-Ste",
-                "source": "Games Press",
-                "date": "2026-07-10T14:57:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Steam Now Shows Steam Machine and SteamOS Verified Ratings",
-                "desc": "Following the launch of the Steam Machine, Valve has finally rolled out its compatibility rating system for its living room gaming experience in Steam, with a new UI that shows both Steam Machine and SteamOS compatibility ratings. The new UI is only available in SteamOS in the Steam Deck client...",
-                "image": "https://www.techpowerup.com/img/HCcLPPaGotkoMeAh.jpg",
-                "url": "https://www.techpowerup.com/350662/steam-now-shows-steam-machine-and-steamos-verified-ratings",
-                "source": "TechPowerUp",
-                "date": "2026-07-10T14:56:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation is getting community noted for its \"poor digital ecosystem\" as fans continue to ask about discs",
-                "desc": "As gamers continue to complain about PlayStation on social media, the company's official X account is being flooded with community notes.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2025/08/PlayStation-5-Pro-console-close-up-of-PS-logo.jpg",
-                "url": "https://www.pcguide.com/news/playstation-is-getting-community-noted-about-its-poor-digital-ecosystem-as-fans-continue-to-ask-about-discs/",
-                "source": "PC Guide",
-                "date": "2026-07-10T14:56:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seagate Quietly Cuts the 5TB Portable HDD, Now Costing Only Slightly More Than the 1TB Version",
-                "desc": "If you're slowly running out of hard drive space, this deal is one you won't want to pass up.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/Seagate-Portable-5TB-External-Hard-Drive-HDD-1200x675.jpg",
-                "url": "https://gizmodo.com/seagate-quietly-cuts-the-5tb-portable-hdd-now-costing-only-slightly-more-than-the-1tb-version-2000783916",
-                "source": "Gizmodo",
-                "date": "2026-07-10T14:40:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HMD Arc 2: Android 14 Go, UNISOC T603 CPU, 5,000mAh battery",
-                "desc": "The HMD Arc 2 was released with pretty outdated hardware and software.",
-                "image": "https://www.noypigeeks.com/wp-content/uploads/2026/07/HMD-Arc-2.jpg",
-                "url": "https://www.noypigeeks.com/android/hmd-arc-2/",
-                "source": "NoypiGeeks",
-                "date": "2026-07-10T14:38:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A New Update For The Adventures Of Elliot: The Millennium Tales Fixes The Game's Most Annoying Feature",
-                "desc": "Sorry, Faie.",
-                "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/07/10/6af7384c/adventures_of_elliot_promo.jpg.webp",
-                "url": "https://gameinformer.com/2026/07/10/a-new-update-for-the-adventures-of-elliot-the-millennium-tales-fixes-the-games-most",
-                "source": "Game Informer",
-                "date": "2026-07-10T14:37:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Reportedly Prepping RTX 5090 SE Graphics Card That's Better Than a 5080",
-                "desc": "Nvidia may see some value in bridging the gap between the RTX 5090 and 5080.",
-                "image": "https://i.pcmag.com/imagery/articles/04UCd5Miu1abKCmUJS9LzTh-1.fit_lim.size_1200x630.v1783688406.jpg",
-                "url": "https://www.pcmag.com/news/nvidia-reportedly-prepping-rtx-5090-se-graphics-card-thats-better-than",
-                "source": "PCMag",
-                "date": "2026-07-10T14:36:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Reportedly Prepping RTX 5090 SE Graphics Card That's Better Than a 5080",
-                "desc": "Nvidia may see some value in bridging the gap between the RTX 5090 and 5080.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-rep/nvidia-reportedly-prepping-rtx-5090-se-graphics-card-thats-b_dsb1.1200.jpg",
-                "url": "https://au.pcmag.com/graphics-cards/118703/nvidia-reportedly-prepping-rtx-5090-se-graphics-card-thats-better-than-a-5080",
-                "source": "PCMag Australia",
-                "date": "2026-07-10T14:36:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro Max Component Costs Could Rise Nearly $300",
-                "desc": "The bill of materials for the iPhone 18 Pro Max is expected to rise by nearly $300 compared to the iPhone 17 Pro Max, according to a new Counterpoint Research analysis. The estimate covers the 1TB storage model. NAND flash costs for the device are said to exceed $250 on their own, a figure that would cover roughly half of the iPhone 17 Pro Max's entire estimated component cost.",
-                "image": "https://images.macrumors.com/t/lYf14IFj-_I1liH_JpkCoQvPBPw=/2500x/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-                "url": "https://www.macrumors.com/2026/07/10/iphone-18-pro-max-costs-could-rise/",
-                "source": "MacRumors",
-                "date": "2026-07-10T14:36:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First Look: Ellie and Priya are left devastated as Elicia takes Finley and Aidan to the Hideaway on Love Island",
-                "desc": "New arrival Elicia has made no secret of her interest in both Aidan and Finley, and she decides to make a bold move that won't go unnoticed",
-                "image": "https://goss.ie/wp-content/uploads/2026/07/love_island_sr13_ep40_09.jpg",
-                "url": "https://goss.ie/featured/first-look-ellie-and-priya-are-left-devastated-as-elicia-takes-finley-and-aidan-to-the-hideaway-on-love-island-475578",
-                "source": "Goss.ie",
-                "date": "2026-07-10T14:34:06Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "South Africa’s Ramaphosa Says He Has Spoken With Nearly All Presidents Of Countries Affected By Xenophobic Attacks",
+                "desc": "Ramaphosa made the remarks while responding to questions about undocumented immigration, ongoing repatriation efforts and growing international concerns over xenophobic violence in South Africa.",
+                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+                "url": "https://saharareporters.com/2026/07/10/south-africas-ramaphosa-says-he-has-spoken-nearly-all-presidents-countries-affected",
+                "source": "Sahara Reporters",
+                "date": "2026-07-10T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian Diocese Distances itself from Planned Priestly Ordination by Schismatic Group",
+                "desc": "The Catholic Diocese of Minna in Nigeria has distanced itself from the purportedly planned priestly ordination of Mr. Chukwugbor Emmanuel Ojimma by the group known as the Gregorian Missionary Fathers at All Saints Parish, Guraka, Niger State.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-10t152452_1783705922.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22857/nigerian-diocese-distances-itself-from-planned-priestly-ordination-by-schismatic-group",
+                "source": "ACI Africa",
+                "date": "2026-07-10T17:56:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Republic of the Congo President Engages DR Congo’s Cardinal Ambongo on Addressing Security Crisis",
+                "desc": "The Republic of the Congo President Denis Sassou Nguesso offered valuable counsel on how the Democratic Republic of the Congo (DRC) can overcome its ongoing political and security crisis during talks with Fridolin Cardinal Ambongo in Brazzaville, the Secretary General of the National Episcopal Conference of Congo (CENCO) has said.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-10t150710_1783706030.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22859/republic-of-the-congo-president-engages-dr-congos-cardinal-ambongo-on-addressing-security-crisis",
+                "source": "ACI Africa",
+                "date": "2026-07-10T17:56:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Catholic Bishop in DR Congo Urges Youth to become “artisans of peace” amid Insecurity",
+                "desc": "Bishop Willy Ngumbi Ngengele of the Catholic Diocese of Goma in the Democratic Republic of Congo (DRC) has called on young people in the conflict-ridden eastern region of the country to become agents of peace and hope, urging them to reject tribalism, violence, and manipulation by armed groups.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-10t150824_1783706108.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22861/catholic-bishop-in-dr-congo-urges-youth-to-become-artisans-of-peace-amid-insecurity",
+                "source": "ACI Africa",
+                "date": "2026-07-10T17:56:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Outgoing Nuncio Bids Farewell to Mauritius, Lauds Church as “pillar of society” ahead of Uganda Mission",
+                "desc": "The outgoing Apostolic Nuncio in Mauritius, Archbishop Tomasz Grysa, has bid farewell to the country ahead of his new assignment as the Holy Father’s representative in Uganda.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-10t150213_1783705831.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22855/outgoing-nuncio-bids-farewell-to-mauritius-lauds-church-as-pillar-of-society-ahead-of-uganda-mission",
+                "source": "ACI Africa",
+                "date": "2026-07-10T17:54:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says US and Iran agree to engage in talks but ceasefire is ‘over’",
+                "desc": "Qatari negotiators meeting ⁠officials in Iran seeking to de-escalate renewed tensions after attacks on vessels in Strait of Hormuz",
+                "image": "https://www.irishtimes.com/resizer/v2/VDTQ6V5JLKXBTAH4PTAIUUUCUQ.jpg?smart=true&auth=1d9193b99c5d406a19fe9e07c3b1d1ef1e328af76d0de4f8850eea3a2c4c8e40&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/middle-east/2026/07/10/technical-talks-between-us-and-iran-continue-following-fresh-clashes/",
+                "source": "The Irish Times",
+                "date": "2026-07-10T17:51:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "£10m British govt payout over IRA double agents",
+                "desc": "The British government has provisionally agreed to pay £10 million to the families of those abducted, murdered or interrogated by its double agents in the IRA.",
+                "image": "https://www.rte.ie/images/0022f39b-1600.jpg",
+                "url": "https://www.rte.ie/news/uk/2026/0710/1582818-british-govt-payout/",
+                "source": "RTE.ie",
+                "date": "2026-07-10T17:47:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spain wildfire: Blaze was 'really frightening, unbelievably quick', witnesses say",
+                "desc": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9329/live/e3e1d130-7c6e-11f1-98fd-6b03daaf8a77.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c932zyex1w2o",
+                "source": "BBC",
+                "date": "2026-07-10T17:46:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blaze was 'really frightening, unbelievably quick', witnesses say",
+                "desc": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9329/live/e3e1d130-7c6e-11f1-98fd-6b03daaf8a77.jpg",
+                "url": "https://www.bbc.com/news/articles/c932zyex1w2o",
+                "source": "BBC",
+                "date": "2026-07-10T17:46:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zuma After Admitting March and March's June 30 Protest Failed",
+                "desc": "Jacinta Ngobese-Zuma admitted the June 30 deadline largely failed to solve South Africa's illegal immigration crisis, sparking sharp reactions online.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/5bb9b9606c564376.jpeg?v=1",
+                "url": "https://yen.com.gh/entertainment/celebrities/307685-africans-blast-jacinta-ngobese-zuma-admitting-march-marchs-june-30-protest-failed/",
+                "source": "Yen News",
+                "date": "2026-07-10T17:43:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Shippers Face Deepening Dilemma as U.S. and Iran Vie for Control of the Strait",
                 "desc": "Companies desperately want to get their ships moving through the Strait of Hormuz, but face mounting risks. “Things are becoming uglier by the minute,” one executive said.",
@@ -1806,98 +1896,8 @@
                 "source": "Modern Ghana",
                 "date": "2026-07-10T14:49:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Making Opportunity More Accessible in Rural Morocco",
-                "desc": "Across Morocco, thousands of young people leave rural communities each year in search of greater opportunity .",
-                "image": "https://cdn.modernghana.com/images/content/710202643621-swnaredq5k-utility-lines-run-through-a-village.jpg",
-                "url": "https://www.modernghana.com/news/1509559/making-opportunity-more-accessible-in-rural-morocc.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-10T14:38:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“Endless Adolescence' in Morocco",
-                "desc": "During my time in Morocco, I saw teens engaging with and planning for the ldquo;real world rdquo; in ways that back in the states took me at least until my university years to tap into .",
-                "image": "https://cdn.modernghana.com/images/content/710202643108-l5hsk8v331-2026-07-10163051.jpg",
-                "url": "https://www.modernghana.com/news/1509558/the-forgotten-symptom-of-youth-unemployment-endl.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-10T14:38:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump removes remaining heads of Election Assistance Commission",
-                "desc": "U.S. President Donald Trump on Thursday terminated the last three members of the Election Assistance Commission, the independent, federal commission that assists election administration officials nationwide, the White House confirmed.",
-                "image": "https://i.cbc.ca/ais/f3174e87-804b-41e3-9ff7-a720076516ea,1783688675390/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C624%2C8236%2C4632%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/trump-commission-firings-9.7265399",
-                "source": "CBC",
-                "date": "2026-07-10T14:37:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Count Binface: The ‘independent space warrior’ hoping to take Farage’s seat in Clacton",
-                "desc": "Alter ego of comedian Jon Harvey has become familiar sight on British election nights in recent years",
-                "image": "https://www.irishtimes.com/resizer/v2/5FRGRMJ3MXJRJE7BXHCGEI4X2Y.jpg?smart=true&auth=b3cab242677a26655e0b5ec3a1c6a0ab3b12657528f6c39a544f7eac78d75c91&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/uk/2026/07/10/count-binface-the-independent-space-warrior-hoping-to-take-farages-seat-in-clacton/",
-                "source": "The Irish Times",
-                "date": "2026-07-10T14:34:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IAF ranks third in global airpower index, stays ahead of China for fifth time since 2022",
-                "desc": "The latest rankings place the IAF behind only the United States and Russia.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/09/20250905062308_Indian-Air-Force-Sukhoi-30-AFP-photo.jpg",
-                "url": "https://www.moneycontrol.com/news/india/iaf-ranks-third-in-global-airpower-index-stays-ahead-of-china-for-fifth-time-since-2022-13971175.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-10T14:32:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NYC's first lady attends Corsica retreat honoring Mary as 'Palestinian woman' under 'occupation'",
-                "desc": "\"Rama Duwaji is pushing a false and dangerous anti-Israel narrative,\" a spokesman for the Israeli Consulate in New York said. \"Jesus lived centuries before the founding of Islam, and applying contemporary political identities to him distorts the historical record.\"",
-                "image": "https://static.jns.org/dims4/default/158dd79/2147483647/strip/true/crop/4500x2531+0+234/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2026%2F01%2F55016824402_146e54392a_o.jpg",
-                "url": "https://www.jns.org/news/u-s-news/nycs-first-lady-attends-corsica-retreat-honoring-mary-as-palestinian-woman-under-occupation",
-                "source": "JNS.org",
-                "date": "2026-07-10T14:30:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Israel doesn't have a problem with the Democratic Party, but with the American publi",
-                "desc": "In a sit-down interview, Rahm Emanuel warns Israel is losing support across the American political spectrum, says military force cannot replace diplomacy and argues Netanyahu’s policies are driving the country toward deepening isolation; 'You’ve lost America and Europe. What did you get? Somaliland'",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/09/yk14828348/yk14828348_0_67_520_293_0_large.jpg",
-                "url": "https://www.ynetnews.com/article/rytfbucqfg",
-                "source": "Ynetnews",
-                "date": "2026-07-10T14:24:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From How Africa Works to How It Will Transform",
-                "desc": "A review of Joe Studwell, “How Africa Works: Success and Failure on the World’s Last Developmental Frontier” (Atlantic Monthly Press, 2026).",
-                "image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-nairobi_city_county_skyline.jpg?sfvrsn=21e821b7_5",
-                "url": "https://www.lawfaremedia.org/article/from-how-africa-works-to-how-it-will-transform",
-                "source": "Lawfare",
-                "date": "2026-07-10T14:23:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man and woman appear in court over pygmy goat theft",
-                "desc": "A man and a woman have appeared in court accused of stealing a three-week-old pygmy goat.",
-                "image": "https://www.rte.ie/images/0024acd8-1600.jpg",
-                "url": "https://www.rte.ie/news/2026/0710/1582778-pygmy-goat-theft/",
-                "source": "RTE.ie",
-                "date": "2026-07-10T14:22:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. Navy Invites Avocados From Peru to Participate in America's Historic 250th Anniversary Maritime Celebration",
-                "desc": "Washington, DC, July 10, 2026 (GLOBE NEWSWIRE) -- Avocados From Peru was honored to participate in America's 250th Anniversary Maritime Celebration at the invitation of the U.S. Navy, hosting a Superfood Breakfast aboard the USS Arlington on July 2 as part of the historic International Naval Review 250 in New York Harbor.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1132818.png",
-                "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/us-navy-invites-avocados-from-peru-to-participate-in-americas-historic-250th-anniversary-maritime-celebration/2382446",
-                "source": "The Manila Times",
-                "date": "2026-07-10T14:21:31Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T05:40:18.246891Z"
+    "lastGlobalSync": "2026-07-11T06:00:21.089112Z"
 }
