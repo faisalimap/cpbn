@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Ontario enacts the Building Homes and Improving Transportation Infrastructure Act, 2026 to streamline planning processes and accelerate housing delivery",
+                "desc": "Ontario enacts the Building Homes and Improving Transportation Infrastructure Act, 2026 to streamline planning processes and accelerate housing delivery",
+                "image": "https://www.dentons.com/-/media/images/website/background-images/gpof/plants/istock-1254474165.ashx",
+                "url": "https://www.dentons.com/en/insights/alerts/2026/july/10/ontario-announces-the-fighting-delays-building-faster-act",
+                "source": "Dentons",
+                "date": "2026-07-10T16:36:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exante monthly report shows the how market did in June",
+                "desc": "Exante unpacks how the Iran ceasefire, inflation and AI bubble fears are shaping markets. Read the full analysis.",
+                "image": "https://fintech.global/wp-content/uploads/2026/07/jakub-zerdzicki-ykgLX_CwtDw-unsplash-12.jpg",
+                "url": "https://fintech.global/2026/07/10/exante-monthly-report-shows-the-how-market-did-in-june/",
+                "source": "FinTech Global",
+                "date": "2026-07-10T16:35:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Summer of Bonds",
+                "desc": "Seasonals to help turn the rate tide (lower)",
+                "image": "https://www.mufgresearch.com/android-icon-192x192.png",
+                "url": "https://www.mufgresearch.com/rates/us-macro2markets-outlook-summer-of-bonds-10-july-2026/",
+                "source": "MUFG Research",
+                "date": "2026-07-10T16:32:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "At Telus, will the new boss deliver a new dividend policy?",
+                "desc": "Victor Dodig is leading a telecom with a beaten-up share price and a sky-high dividend yield that screams for change",
+                "image": "https://www.theglobeandmail.com/resizer/v2/CEUELE4MQZCVTM5CNLFJSN5XZQ.jpeg?auth=4d9163f3ac09d1ab41ca0ca04759e9622c0a3d2793a383d7e7317f13277dddb0&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-telus-new-ceo-dodig-dividend/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-10T16:32:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israel’s new pipeline unlocks next phase of its largest-ever $35 billion gas export deal with Egypt",
+                "desc": "Despite decades of conflict, deep political mistrust and wider tensions across the Middle East and Africa, Egypt and Israel are expanding a $35 billion gas partnership, showing how energy security can outweigh regional rivalry. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/bOGktkpTURBXy81NTE5NWE4ZTVlZjRlYjZjYWFmYzNkMGNiYWNlY2EzZi5wbmeSlQMAIc0D6M0CM5MFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/israels-new-pipeline-unlocks-next-phase-of-its-largest-ever-dollar35-billion-gas/dltwnql",
+                "source": "Business Insider Africa",
+                "date": "2026-07-10T16:32:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "McDonald’s Teases New BTS-Inspired Happy Meal Featuring BT21 Toys",
+                "desc": "McDonald’s latest collab with Jungkook, V, Jimin, Suga, Jin, RM and J-Hope enters the BT21 Universe, the collaborative project between BTS and Line Friends.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-07/bts-bt21-meal-jl-3f204d.jpg",
+                "url": "https://www.today.com/food/restaurants/mcdonalds-bts-happy-meal-bt21-toys-new-rcna385824",
+                "source": "TODAY.com",
+                "date": "2026-07-10T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adam Mosseri Says Instagram Shut Down 'Silly Things' to Cut AI Costs",
+                "desc": "Instagram CEO Adam Mosseri says his division does not currently have AI token limits, but he \"can imagine caps being healthy.\"",
+                "image": "https://i.insider.com/6a5109f29d0a41df475c857f?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-10T16:28:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Army to prepare for 'modern warfare' with £2bn AI training",
+                "desc": "A new training system is confirmed, creating 270 jobs in Wiltshire and support 420 across the UK.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35e8/live/c1711f80-7c45-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c24yjej2zlno",
+                "source": "BBC",
+                "date": "2026-07-10T16:26:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks Eke Out Gains as SK Hynix Rallies in Debut: Markets Wrap",
+                "desc": "(Bloomberg) -- Wall Street traders drove stocks mildly higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market parsing the latest geopolitical developments.",
+                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764756856",
+                "url": "https://www.swissinfo.ch/eng/stocks-eke-out-gains-as-sk-hynix-rallies-in-debut%3A-markets-wrap/91725498",
+                "source": "SWI swissinfo.ch",
+                "date": "2026-07-10T16:26:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "British Pound holds firm as Trump ceasefire shock tests USD",
+                "desc": "The Pound Sterling (GBP) holds firm on Friday during the North American session as risk appetite deteriorated after US President Donald Trump posted on social media that the ceasefire with Iran is over, even though negotiations continue.",
+                "image": "https://editorial.fxsstatic.com/images/i/discover-97_Medium.png",
+                "url": "https://www.fxstreet.com/news/british-pound-holds-firm-as-trump-ceasefire-shock-tests-usd-202607101625",
+                "source": "FXStreet",
+                "date": "2026-07-10T16:25:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Beta wraps first test flight in big U.S. government bet on air taxis",
                 "desc": "Beta is one of several electric air taxi makers racing to secure Federal Aviation Administration certification and start flying passengers commercially.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108310948-1779402353387-Chicago_Skyline_20250716_0004.jpg?v=1783701505&w=1920&h=1080",
@@ -542,99 +632,99 @@
                 "source": "South China Morning Post",
                 "date": "2026-07-10T13:30:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Facebook and Instagram must stop ‘addictive’ features like infinite scroll, EU tells Meta",
-                "desc": "Meta must change Facebook's and Instagram's addictive design or face a heavy fine, the EU warned on Friday .",
-                "image": "https://cdn.modernghana.com/images/content/710202623632-0g830m4yyt-2fc6a1813995ebb24c284b8991bdc17b52bb0561.jpg",
-                "url": "https://www.modernghana.com/news/1509493/facebook-and-instagram-must-stop-addictive-featu.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-10T13:08:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aussie poultry giant Inghams buys stake in protein-ingredients firm",
-                "desc": "Inghams Group has bought a 10% stake in Australian protein-ingredients supplier Just Meat Protein (JMP) in a seed financing round.",
-                "image": "https://www.just-food.com/wp-content/uploads/sites/28/2026/07/image-15.jpg",
-                "url": "https://www.just-food.com/news/inghams-buys-protein-ingredients-firm/",
-                "source": "Global Food Industry News",
-                "date": "2026-07-10T13:04:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Bull Case For Transocean (RIG) Could Change Following Major Equinor Multi‑Year Rig Backlog Deal",
-                "desc": "Transocean Ltd. previously announced an agreement with Equinor, subject to license approvals, to deploy three harsh-environment “Cat D” semisubmersible rigs on the Norwegian shelf, adding over US$1.00 billion to its contract backlog across seven rig years at a base day rate of US$399,000 that is expected to exceed US$400,000 at commencement.\nThe deal, which extends work on Transocean Enabler, Transocean Encourage and Transocean Endurance into 2027–2028, underscores the value of its...",
-                "image": "https://images.simplywall.st/asset/company-cover/407172-main-header/1594197158743",
-                "url": "https://simplywall.st/stocks/us/energy/nyse-rig/transocean/news/the-bull-case-for-transocean-rig-could-change-following-majo",
-                "source": "simplywall.st",
-                "date": "2026-07-10T13:02:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa's cement giants Dangote and BUA face new rival as Chinese-backed firm enters Nigeria's cement market with $1 billion acquisition",
-                "desc": "Nigerias cement industry is set for a major shake-up as Chinese-backed Hainan Huaxin Cement moves to acquire Lafarge Africa in a deal valued at about $1 billion, positioning itself to challenge market leaders Dangote Cement and BUA Cement in Africas largest economy. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/sNnktkqTURBXy83ZDZlNjMxMWU4YWJhM2UxYzVmYmQ3MzJmOTlhMjJmOS5qcGVnkpUDAAvNAdXNAQiTBc0EsM0Cdg",
-                "url": "https://africa.businessinsider.com/local/markets/africas-cement-giants-dangote-and-bua-face-new-rival-as-chinese-backed-firm-enters/gqmcft4",
-                "source": "Business Insider Africa",
-                "date": "2026-07-10T13:01:53Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "CPF Voluntary Housing Refund (VHR): How I’m Using My CPF OA as a “Time Deposit”",
-                "desc": "If you own a property in Singapore, there’s a good chance that you have used...",
-                "image": "https://sethisfy.com/wp-content/uploads/2026/07/CPF-Housing.jpg",
-                "url": "https://sethisfy.com/cpf-voluntary-housing-refund/",
-                "source": "Sethisfy",
-                "date": "2026-07-10T13:01:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Veg grower says weather is causing a 'drastic decline' in orders as people don't want to cook",
-                "desc": "Kenneth Keavey, from Green Earth Organics in Co Galway, has said that the weather means his farm is overflowing with produce” – but nobody is buying it.",
-                "image": "https://img2.thejournal.ie/article/7097703/river/?height=400&version=7097799",
-                "url": "https://www.thejournal.ie/veg-grower-says-hot-weather-has-caused-a-drastic-decline-in-orders-as-people-dont-want-to-cook-7097703-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-10T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reliance Industries, Jio Financial announce Q1 earnings dates. Check details",
-                "desc": "Reliance Industries and Jio Financial Services will report their June-quarter earnings next week. Reliance Industries' board meets Friday, July 17, 2026, for financial results. Jio Financial Services will announce its first-quarter results on Thursday, July 16, 2026. Investors will monitor updates on key businesses and financial services plans. These announcements come as the broader market enters the results season.",
-                "image": "https://img.etimg.com/thumb/msid-132312591,width-1200,height-630,imgsize-39140,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-jio-financial-announce-q1-earnings-dates-check-details/articleshow/132312604.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-10T12:57:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jon Erlichman on common mistakes",
-                "desc": "In the latest episode of Ticker Take, Jon Erlichman spoke with Barry Ritholtz, the author of \"How Not To Invest,\" a book built around the idea that avoiding mistakes matters more than picking winners.",
-                "image": "https://www.bnnbloomberg.ca/resizer/v2/FFXGPWMPKDZXVMVF7LEMKEVIOU.jpg?smart=true&auth=f4f8454ccce1ed396eacc85475bb092eee4a4c8ae613b8374818bfa5f31551ca&width=1200&height=630",
-                "url": "https://www.bnnbloomberg.ca/ticker-take/2026/07/10/9-investment-mistakes-even-the-pros-make-jon-erlichman/",
-                "source": "BNN Bloomberg",
-                "date": "2026-07-10T12:57:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China takes a page from SpaceX and recaptures the first stage of a rocket",
-                "desc": "China successfully recaptured the first stage of a rocket after a launch on Friday in a breakthrough for the country’s space program, state media said.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260710-china-long-march-rocket-mn-0849-54d698.jpg",
-                "url": "https://www.nbcnews.com/science/space/china-takes-page-spacex-recaptures-first-stage-rocket-rcna385808",
-                "source": "NBC News",
-                "date": "2026-07-10T12:55:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Delta Teams Up with United, American, IndiGo and More Airlines Drive a Stunning Global Aviation Revolution as Passenger Traffic Surges Towards Ten Billion by 2045 Across the United States, India and t",
-                "desc": "Delta teams up with United, American, IndiGo and more airlines as global passenger traffic races towards ten billion by 2045, driving a powerful aviation revolution across the United States, India and the Middle East.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Delta-Airlines2-1.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/bgkhgtpfughf/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-10T12:55:04Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+                "desc": "Affected users will have to configure their lights and settings all over again.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-1152x648.jpg",
+                "url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+                "source": "Ars Technica",
+                "date": "2026-07-10T16:36:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Watch Accounts for 90% of AI Smartwatch Shipments",
+                "desc": "Apple accounted for roughly 90% of all Edge AI-capable smartwatch shipments in the first quarter of 2026, according to new data from Counterpoint Research. That dominance came as Edge AI penetration across the broader smartwatch market grew 70% year-over-year, reaching 25% in the first quarter of 2026, according to Counterpoint's Global Smartwatch Shipments Tracker.",
+                "image": "https://images.macrumors.com/t/nRAPThZ3HV5s7ZLRpShmg0UTdW4=/1600x/article-new/2025/09/series-11.jpg",
+                "url": "https://www.macrumors.com/2026/07/10/apple-watch-accounts-for-most-ai-smartwatches/",
+                "source": "MacRumors",
+                "date": "2026-07-10T16:33:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "It’s showtime",
+                "desc": "All the latest audio, video and lighting technology news that affects the industry in the vibrant and vital APAC markets. Always up to date on new global product launches, impart expert business analysis, and in-depth reports on the most topical projects and events in Asia-Pacific.",
+                "image": "https://www.proavl-asia.com/img/tk7d3pgf3dyrpfkyt4kf4vxq.png",
+                "url": "https://www.proavl-asia.com/details/80664-it-s-showtime",
+                "source": "Pro AVL Asia",
+                "date": "2026-07-10T16:32:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "1 Tourbillon, a Pocket Watch Masterpiece Reborn for the Wrist",
+                "desc": "The flagship of the revived Urban Jürgensen is far more than a finely finished tourbillon; it miniaturises the architecture of Derek Pratt's legendary Oval pocket watch...",
+                "image": "https://monochrome-watches.com/app/uploads/2026/07/Urban-Jurgensen-UJ1-Tourbillon-in-depth-review-111.jpg",
+                "url": "https://monochrome-watches.com/urban-jurgensen-uj-1-tourbillon-oval-pocket-watch-revival-in-depth-review/",
+                "source": "Monochrome Watches",
+                "date": "2026-07-10T16:30:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony RX10 V combines a 24-600mm zoom with AI subject tracking",
+                "desc": "Sony’s RX10 V combines a 24-600mm zoom with AI subject tracking, 30 fps burst shooting and 4K video at up to 120 fps.",
+                "image": "https://www.techedt.com/wp-content/uploads/2026/07/Sony-RX10-V-combines-a-24-600mm-zoom-with-AI-subject-tracking.jpg",
+                "url": "https://www.techedt.com/sony-rx10-v-combines-a-24-600mm-zoom-with-ai-subject-tracking",
+                "source": "Tech Edition",
+                "date": "2026-07-10T16:28:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mercedes-AMG Marks 30 Years Of Providing Official Safety And Medical Cars At Formula 1 Races",
+                "desc": "Mercedes-AMG marks 30 years of providing official FIA F1 Safety and Medical Cars at all Formula 1 Races.  Tradition began on 30 June 1996 with the deployment Mercedes-Benz C 36 AMG support vehicles at the Formula 1 race in Magny-Cours. To date, a total of 13 different models have been used as Safety Cars and […]",
+                "image": "https://autojosh.com/wp-content/uploads/2026/07/mercedes_amg_30_years_formula_1_autojosh_1.jpg",
+                "url": "https://autojosh.com/mercedes-amg-marks-30-years-of-providing-official-safety-and-medical-cars-at-formula-1-races/",
+                "source": "AUTOJOSH",
+                "date": "2026-07-10T16:27:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "McLaren Launches 788HS To Close Out Legendary 720S Supercar Lineup, Limited To Just 200 Units",
+                "desc": "Track-focused McLaren 788HS debut as the final evolution of the award-winning Supercar Series that began with the 720S.  McLaren 788HS will be limited to just 200 units worldwide—100 788HS Coupés and 100 788HS Spiders (convertible).  The HS name in the new model, which means ‘High Sport’, returns for only the third time in McLaren’s history. […]",
+                "image": "https://autojosh.com/wp-content/uploads/2026/07/mclaren_788hs_autojosh_2.jpg",
+                "url": "https://autojosh.com/mclaren-launches-788hs-to-close-out-legendary-720s-supercar-lineup-limited-to-just-200-units/",
+                "source": "AUTOJOSH",
+                "date": "2026-07-10T16:27:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
+                "desc": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a",
+                "image": "https://www.bleepstatic.com/content/hl-images/2023/09/28/Progress.jpg",
+                "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+                "source": "BleepingComputer",
+                "date": "2026-07-10T16:26:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best Buy discounts ACs and more in Top Deals of the week",
+                "desc": "Some of the biggest deals this week include devices like laptops, air conditioners, tablets, TVs, watches and more",
+                "image": "https://production-static.mobilesyrup.com/uploads/2026/06/best-buy-canada-header-shutterstock-20260626-scaled.jpg",
+                "url": "https://mobilesyrup.com/2026/07/10/best-buy-top-deals-of-the-week/",
+                "source": "MobileSyrup",
+                "date": "2026-07-10T16:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 10 Best Mirrorless Camera Deals Photographers Can Get Right Now",
+                "desc": "Here are the best deals on mirrorless cameras that photographers can get right now, including savings up to nearly $1,000.",
+                "image": "https://petapixel.com/assets/uploads/2026/07/best-camera-deals-bh-july-10-featured.jpg",
+                "url": "https://petapixel.com/2026/07/10/the-10-best-mirrorless-camera-deals-photographers-can-get-right-now/",
+                "source": "PetaPixel",
+                "date": "2026-07-10T16:23:36Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Xbox Sends Out Brief Statement Regarding 'Inaccurate' id Tech Reports",
                 "desc": "They say dozens of people are still working on the engine - With the Xbox layoffs dominating the headlines this week, it's no surprise that we've been seeing...",
@@ -1174,99 +1264,99 @@
                 "source": "IGN Nordic",
                 "date": "2026-07-10T13:31:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "JBL Clears Out the Authentics 200 at Nearly 50% Off, a Retro-Style Smart Speaker for Less Than AirPods Pro",
-                "desc": "You're saving $180 off the regular price, plus getting a three-month Amazon Music trial.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/jbl-authentics-200-1200x675.jpg",
-                "url": "https://gizmodo.com/jbl-clears-out-the-authentics-200-at-nearly-50-off-a-retro-style-smart-speaker-for-less-than-airpods-pro-2000783877",
-                "source": "Gizmodo",
-                "date": "2026-07-10T13:10:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mobile VPN security is not as strong as advertised",
-                "desc": "Michigan researchers show many VPN apps fail promises of privacy with serious security flaws discovered.",
-                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtbux8EZqBvRTe7NExWLUBB8bufppa5nzU-WuiQDraxDcATEbcORKrPmhO6_WE3vUuE2pa_c419hOOXQr7YFbjbWQ-_FRZh3BPoSAfOkr4MfxEkh4EbL5j4hdhdw3gbj8N1UZBUG1usVUmVW0sqvMgFMDs3A7KvpQbzxyje79JiWupmt5Li_wJl0zI87dt/w1600/vpn.jpg",
-                "url": "https://www.digitalinformationworld.com/2026/07/research-framework-identifies-security-and-privacy-issues-in-281-android-vpn-apps.html",
-                "source": "Digital Information World",
-                "date": "2026-07-10T13:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eoin says he’s ‘over the moon’ with two new pedestrian crossings",
-                "desc": "Eoin says he’s ‘over the moon’ with two new pedestrian crossings - News - Carlow Nationalist",
-                "image": "https://www.carlow-nationalist.ie/cms_media/module_img/7717/3858531_2_articledetail_Eoin_281_29.jpg",
-                "url": "https://www.carlow-nationalist.ie/news/eoin-says-hes-over-the-moon-with-two-new-pedestrian-crossings_arid-104552.html",
-                "source": "carlow-nationalist.ie",
-                "date": "2026-07-10T13:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Can smartwatches take the guesswork out of medicine?",
-                "desc": "What if your smartwatch could tell you were sick, even before your first symptom? Genetics professor Michael Snyder says wearbles are ushering in an era of highly-personalized, precision medicine.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2880x1620+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2Fcc%2F6b48fa444141a43c5f96b43eeab4%2Fmichaelsnyder-2026-embed.jpg",
-                "url": "https://www.npr.org/2026/07/10/nx-s1-5845107/can-smartwatches-take-the-guesswork-out-of-medicine",
-                "source": "NPR",
-                "date": "2026-07-10T13:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The ChatGPT \"Super App\" Sort of Super Sucks",
-                "desc": "Even if it's ultimately the right call, the new Mac app is a mess...",
-                "image": "https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/07/Screenshot-2026-07-10-at-1.41.00---PM.png",
-                "url": "https://spyglass.org/chatgpt-gets-to-work/",
-                "source": "spyglass.org",
-                "date": "2026-07-10T13:08:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Pura X Max makes another win in foldable sales market",
-                "desc": "Huawei Pura X Max is selling great in the consumer market and at present, the sales figure has reached 510,000 units, making another win in t",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/PuraX-Max-img.jpg",
-                "url": "https://www.huaweicentral.com/huawei-pura-x-max-makes-another-win-in-foldable-sales-market/",
-                "source": "Huawei Central",
-                "date": "2026-07-10T13:04:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pick Your Poison | The Sinking City 2 Opens Pre-orders with New Trailer Ahead of August 18 Launch",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-US/Pick-Your-Poison-The-Sinking-City-2-Opens-Pre-orders-with-New-Trailer-",
-                "source": "Games Press",
-                "date": "2026-07-10T13:04:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Electronics Announces RX10 V with AI Autofocus and 4K 120p Video",
-                "desc": "Sony Electronics has announced the RX10 V, the fifth generation of its RX10 all-in-one camera series. The camera will be available in August 2026 at a suggested retail price of...",
-                "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-7.56.34PM-960x505.webp",
-                "url": "https://www.sportsvideo.org/2026/07/10/sony-electronics-announces-rx10-v-with-ai-autofocus-and-4k-120p-video/",
-                "source": "Sports Video Group",
-                "date": "2026-07-10T13:02:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blackmagic Design Releases Fairlight Live Audio Mixer Software",
-                "desc": "Blackmagic Design has released Fairlight Live, a free software-based broadcast audio mixer for Mac and Windows, available for download now. Simultaneously, the company released ATEM Switchers 10.3, which adds USB...",
-                "image": "https://www.sportsvideo.org/wp-content/uploads/2025/06/Blackmagic-Design.png",
-                "url": "https://www.sportsvideo.org/2026/07/10/blackmagic-design-releases-fairlight-live-audio-mixer-software/",
-                "source": "Sports Video Group",
-                "date": "2026-07-10T13:02:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "35mmT3.5 PZ OIS WR Cinema Power Zoom Lens – Sports Video Group",
-                "desc": "FUJIFILM North America Corporation has announced the FUJINON GF19-35mmT3.5 PZ OIS WR, a cinema power zoom lens for the GFX System with native G Mount. The lens will be available...",
-                "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/DSF0425-713x535.jpg",
-                "url": "https://www.sportsvideo.org/2026/07/10/fujifilm-announces-fujinon-gf19-35mmt3-5-pz-ois-wr-cinema-power-zoom-lens/",
-                "source": "Sports Video Group",
-                "date": "2026-07-10T13:02:27Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "How One Chinese County Is Rethinking the Future of Farming",
+                "desc": "For most people, food is an ordinary daily necessity, yet every plate of produce hides a global challenge: how to grow sufficient, safe food for billions while protecting and restoring vulnerable farmland.",
+                "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/07/farming-in-china.jpg?fit=1170%2C658&ssl=1",
+                "url": "https://tanzaniatimes.net/fields-of-balance-how-one-chinese-county-is-rethinking-the-future-of-farming/",
+                "source": "The Tanzania Times",
+                "date": "2026-07-10T16:37:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+                "desc": "Iran has not responded to Trump’s latest claim, which comes as new attacks threaten the full resumption of war.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a51198a12-1783699850.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over",
+                "source": "Al Jazeera",
+                "date": "2026-07-10T16:37:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bipartisan housing bill to become law in a matter of hours - even if Trump refuses to sign it",
+                "desc": "President says he won’t sign housing bill without passage of voting legislation, but without veto it will still become law",
+                "image": "https://i.guim.co.uk/img/media/a298af7a542e85fd8830992be244694221bcc2ed/420_0_4767_3815/master/4767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=045ead33011553d2aed51044833a3985",
+                "url": "https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto",
+                "source": "The Guardian",
+                "date": "2026-07-10T16:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Talks with Iran to continue, but ceasefire is over, Trump says",
+                "desc": "The United States launched new airstrikes against Iran early Thursday, and Tehran responded by targeting U.S.-allied Mideast countries in an exchange of fire.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Trump-Iran-talks.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11961143/talks-iran-continue-ceasefire-trump/",
+                "source": "Global News",
+                "date": "2026-07-10T16:33:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What time of day do ticks attack most often in Latvia?",
+                "desc": "“Ticks are widespread everywhere. You can encounter them both in rural areas and in urban settlements. Usually, the most favorable times for contact with ticks are in the morning – from 08:00 to 11:00 and in the evening – from 17:00 to",
+                "image": "https://news.inbox.eu/w/img/6b/5a/6b5ac05d491b8dc190.webp",
+                "url": "https://news.inbox.eu/150hons-what-time-of-day-do-ticks-attack-most-often-in-latvia?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-07-10T16:30:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The aerial image of the year looks almost unreal - \"I prioritize capturing the 'money shot' in-camera,\" says award-winning photographer",
+                "desc": "Captured by drone above in China's Elk Park, the striking image won one of aerial photography's highest honors – while its creator champions getting the shot right in-camera",
+                "image": "https://cdn.mos.cms.futurecdn.net/yZHSSwZWCA8BqmBbxnrbnZ-2409-80.jpg",
+                "url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/the-aerial-image-of-the-year-looks-almost-unreal-i-prioritize-capturing-the-money-shot-in-camera-says-award-winning-photographer",
+                "source": "Digital Camera World",
+                "date": "2026-07-10T16:29:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US-Iran War Live Updates: Trump says Iran asked to continue talks, US has agreed",
+                "desc": "US-Iran War News Today Live Updates: In a post on Truth Sovcial, US President Donald Trump also said, \"...the United States has stated to them, ‌in no uncertain terms, that the Cease Fire is OVER!\"",
+                "image": "https://images.indianexpress.com/2026/07/Donald-Trump-file-photo.jpg",
+                "url": "https://indianexpress.com/article/world/us-iran-war-live-updates-us-attacks-iran-retaliation-strike-kuwait-qatar-peace-talks-trump-israel-updates-10779857/",
+                "source": "The Indian Express",
+                "date": "2026-07-10T16:29:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Baltic states summon Russian envoys over false deportation claims",
+                "desc": "Lithuania and Estonia have said the Kremlin has been spreading false claims about deportations of Russian speakers from Baltic states in an attempt to distract from its large-scale attacks on cities and other civilian targets in Ukraine.",
+                "image": "https://images.euronews.com/articles/stories/09/83/27/50/1200x675_cmsv2_04673d39-67a1-51d4-a984-7d5c087f14c8-9832750.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/07/10/baltic-states-summon-russian-envoys-over-false-deportation-claims",
+                "source": "Euronews",
+                "date": "2026-07-10T16:27:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says he will not sign landmark housing bill in protest",
+                "desc": "The bill neverthless becomes law at midnight, but the president wants Republicans to prioritise voter ID legislation before November midterm elections.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2995/live/0335cba0-7c6e-11f1-98fd-6b03daaf8a77.jpg",
+                "url": "https://www.bbc.com/news/articles/cn8qwj611qxo",
+                "source": "BBC",
+                "date": "2026-07-10T16:24:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says he will not sign landmark housing bill in protest",
+                "desc": "The bill neverthless becomes law at midnight, but the president wants Republicans to prioritise voter ID legislation before November midterm elections.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2995/live/0335cba0-7c6e-11f1-98fd-6b03daaf8a77.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo",
+                "source": "BBC",
+                "date": "2026-07-10T16:24:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Bayeux Tapestry, artwork depicting Norman Conquest, is in Britain for first time in almost 1,000 years",
                 "desc": "The Bayeux Tapestry has arrived in Britain for the first time in nearly 1,000 years ahead of a sell-out exhibition at the British Museum, travelling under police escort during a meticulously ​choreographed journey from France.",
@@ -1806,98 +1896,8 @@
                 "source": "Travel And Tour World",
                 "date": "2026-07-10T13:11:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Xenophobia: Uganda repatriates 1,102 citizens from South Africa",
-                "desc": "The Ugandan Ministry of Foreign Affairs said the repatriation exercise was conducted in collaboration with the Uganda People’s Defence Forces, ensuring the safe return of affected citizens from South Africa.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-10-at-14.10.58.jpeg",
-                "url": "https://www.vanguardngr.com/2026/07/xenophobia-uganda-repatriates-1102-citizens-from-south-africa/",
-                "source": "Vanguard News",
-                "date": "2026-07-10T13:09:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "38,000 Malawians leave S.Africa after anti-migrant protests",
-                "desc": "Malawi said Friday it had brought 38,000 nationals back from South Africa in a month as part of an exodus of foreigners fleeing anti-migrant threats and violence, with six dying on the way .",
-                "image": "https://cdn.modernghana.com/images/content/afp_six_malawians_died_returning_from_south_africa_in_a_governme.jpg",
-                "url": "https://www.modernghana.com/news/1509517/38000-malawians-leave-safrica-after-anti-migrant.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-10T13:09:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Northern Ireland Assembly launches Donaldson review",
-                "desc": "The Northern Ireland Assembly has begun a review into alleged abuse or inappropriate behaviour associated with Jeffrey Donaldson in Stormont.",
-                "image": "https://www.rte.ie/images/00248a2e-1600.jpg",
-                "url": "https://www.rte.ie/news/ireland/2026/0710/1582765-jeffrey-donaldson/",
-                "source": "RTE.ie",
-                "date": "2026-07-10T13:07:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marriages in Singapore fall further in 2025, but most people say they are happily married",
-                "desc": "Fewer couples tied the knot in 2025, with Singapore recording its lowest number of marriages in nearly a decade, excluding the pandemic-hit year of 2020.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/10/4003682.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/10/marriages-in-singapore-fall-further-in-2025-but-most-people-say-they-are-happily-married",
-                "source": "The Star",
-                "date": "2026-07-10T13:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man killed in Houston ICE shooting was not target, lawmaker says",
-                "desc": "U.S. Rep. Sylvia Garcia whose district includes the Houston neighborhood where the shooting occurred, said the agency has confirmed Lorenzo Salgado Araujo “was not a target.”",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/ice-houston-shooting-e1783688688103.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11960911/man-killed-in-houston-ice-shooting-was-not-target/",
-                "source": "Global News",
-                "date": "2026-07-10T13:05:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GEF Small Grants Programme Opens 2026 CSO Challenge Fund with Grants of Up to US$300,000: Civil society Organisations Invited to Apply for Funding",
-                "desc": "The Global Environment Facility (GEF) Small Grants Programme (SGP) has officially opened applications for its 2026 Civil Society Organization (CSO) Challenge",
-                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/1783337599578.jpeg",
-                "url": "https://www.globalsouthopportunities.com/2026/07/10/challenge-8/",
-                "source": "Global South Opportunities",
-                "date": "2026-07-10T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trisha Khalid Explains Why She's Yet to Relocate to Us Despite Getting Visa: \"Dream Zitadidimia\"",
-                "desc": "Actress Trisha Khalid reveals why she won't move to the US despite holding a visa and dating an American citizen, igniting a heated debate during her TikTok live.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/a6a2437065b1b1f1.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/entertainment/celebrities/632149-trisha-khalid-explains-s-relocate-visa-dream-zitadidimia/",
-                "source": "Tuko News",
-                "date": "2026-07-10T12:58:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa’s Classrooms Must Embrace AI Without Abandoning Human-Centred Education",
-                "desc": "Artificial intelligence (AI) is rapidly reshaping education across the globe, offering unprecedented opportunities to personalise learning, improve access to knowledge and ease administrative burdens .",
-                "image": "https://cdn.modernghana.com/images/content/710202615005-l5gsj8v331-africa-educaion-and-ai.webp",
-                "url": "https://www.modernghana.com/news/1509476/africas-classrooms-must-embrace-ai-without-abando.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-10T12:58:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya: Lamu's Oil Refinery to Create 60,000 Jobs, President Ruto Promises",
-                "desc": "President William Ruto has said that the planned oil refinery in Lamu, being developed in partnership with Nigerian billionaire Aliko Dangote, will create at least 60,000 jobs while positioning Kenya as a regional energy and industrial hub.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607100448.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-10T12:53:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Can science help save bananas, the world’s favourite fruit?’",
-                "desc": "Australian agricultural scientist Professor James Dale touches on why a lack of genetic diversity and an overreliance on a single variety have put bananas at risk of commercial extinction in this extract from his new book, The Future of Bananas",
-                "image": "https://d3fwccq2bzlel7.cloudfront.net/Pictures/1024x536/2/2/4/148224_bananaplantation_711348.jpeg",
-                "url": "https://www.fruitnet.com/eurofruit/can-science-help-save-bananas-the-worlds-favourite-fruit/272113.article",
-                "source": "Fruitnet",
-                "date": "2026-07-10T12:53:04Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T04:00:17.777778Z"
+    "lastGlobalSync": "2026-07-11T04:40:20.392491Z"
 }
