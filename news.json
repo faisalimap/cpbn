@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "Southeast Asia’s scammers’ new disguise: your leader’s face",
+                "desc": "The president is asking for your bank details. He isn’t, of course. But the AI wearing his face is.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/10/8358f9e9-2727-4590-a494-65654199089d_bf361f94.jpg?itok=kb_8V3r9&v=1783681162",
+                "url": "https://www.scmp.com/week-asia/economics/article/3360150/southeast-asias-scammers-new-disguise-your-leaders-face",
+                "source": "South China Morning Post",
+                "date": "2026-07-11T00:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Rafael Consing Jr. is mapping out Maharlika's ₱1.26B next move",
+                "desc": "“If you were handed ₱1.26 billion in fresh capital today, where would it first go?” That was the question the Manila Bulletin asked Maharlika Investment...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/11/114993.webp",
+                "url": "https://mb.com.ph/2026/07/11/how-rafael-consing-jr-is-mapping-out-maharlikas-126b-next-move",
+                "source": "Manila Bulletin",
+                "date": "2026-07-11T00:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "British stationery chain 'on the brink of collapse' is shutting down shopping centre branch TODAY",
+                "desc": "A MAJOR high street retailer will pull the shutters on a shopping centre location today.\nIt marks the latest in a string of closures for the...",
+                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/british-stationery-chain-on-brink-1094469024.jpg?quality=90&strip=all&w=1232&h=845&crop=1",
+                "url": "https://www.thesun.co.uk/money/39712279/tg-jones-closes-shopping-centre-branch-thistles-stirling/",
+                "source": "The Sun",
+                "date": "2026-07-11T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta appeals jury verdict in social media addiction lawsuit",
+                "desc": "Meta, the parent company of Instagram and Facebook, is appealing the verdict of a landmark social media addiction lawsuit in Los Angeles.",
+                "image": "https://dims.apnews.com/dims4/default/8967160/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F3a%2F281db9a06aaab0daa00f4d035461%2F95ddce9adb734c96bcaa705fc1484eac",
+                "url": "https://apnews.com/article/meta-verdict-appeal-social-media-addiction-f2fc62210b02f1945bfd416f5554dd5c",
+                "source": "AP News",
+                "date": "2026-07-10T23:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Meta removes controversial AI feature on Instagram after backlash",
                 "desc": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
                 "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
@@ -596,45 +632,18 @@
                 "source": "Global News",
                 "date": "2026-07-10T20:27:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nasdaq closes higher after SK Hynix's blockbuster debut",
-                "desc": "4:20pm: Tech keeps Wall Street on track Wall Street ended the week on a positive note, with all three major indexes posting modest gains after a choppy few...",
-                "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA3XC9UaGUtTmV3LVlvcmstU3RvY2stRXhjaGFuZ2UtaXMtYW4tQW1lcmljYW4tc3RvY2stZXhjaGFuZ2UtbG9jYXRlZC1hdC0xMS1XYWxsLVN0cmVldC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
-                "url": "https://www.proactiveinvestors.com/companies/news/1095259/nasdaq-closes-higher-after-sk-hynix-s-blockbuster-debut-1095259.html",
-                "source": "Proactive financial news",
-                "date": "2026-07-10T20:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Unusual vibration' felt before plane crash that killed Joshua Baer",
-                "desc": "As the plane approached the U.S.-Mexico border, both engines stopped working. A pilot asked for a possible field to land in nearby before ultimately crashing on a highway near the Laredo airport.",
-                "image": "https://npr.brightspotcdn.com/dims4/default/8c38cc3/2147483647/strip/true/crop/5324x2795+0+456/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F09%2F5d8895c84a49842758455f82b0e7%2F20260502-kut-festival-138.JPG",
-                "url": "https://www.kut.org/transportation/2026-07-10/ntsb-joshua-baer-plane-crash-report-laredo-tx-texas-austin-tech",
-                "source": "KUT",
-                "date": "2026-07-10T20:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria, 3 other African countries unite to end raw cocoa exports",
-                "desc": "Africa’s four biggest cocoa-producing countries they include Nigeria, Ghana, Côte d’Ivoire and Cameroon will on Tuesday launch a joint push to retain more value from the global chocolate industry.",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/03/cocoa.webp",
-                "url": "https://guardian.ng/news/nigeria-3-other-african-countries-unite-to-end-raw-cocoa-exports/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-10T20:17:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Middle Eastern perfumes are trending, led by Lattafa and Mona Kattan’s Kayali",
-                "desc": "From TikTok Shop to legacy houses, oud has gone mainstream – with Gucci, Maison Francis Kurkdjian and Tom Ford all launching dedicated collections.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/d8/images/canvas/2026/07/10/27111ac0-860e-4015-861a-09616f0dabff_fd5ff601.jpg?itok=pn2cz4XY&v=1783659411",
-                "url": "https://www.scmp.com/magazines/style/beauty/trends/article/3360073/middle-eastern-perfumes-are-trending-led-lattafa-and-mona-kattans-kayali",
-                "source": "South China Morning Post",
-                "date": "2026-07-10T20:00:07Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "PlayStation and Xbox are both dead, they just don’t realise it yet - Reader’s Feature",
+                "desc": "Xbox and PlayStation have not been endearing themselves to fans recently and one reader thinks they're both stuck in terminal decline.",
+                "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_261287716-db09_1783722327.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+                "url": "https://metro.co.uk/2026/07/11/playstation-xbox-dead-just-dont-realise-yet-readers-feature-29107546/",
+                "source": "Metro.co.uk",
+                "date": "2026-07-11T00:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Taboola expands OPPO, realme deal to India, Thailand",
                 "desc": "Taboola deepens its OPPO and realme partnership, bringing lockscreen content recommendations to millions more devices in India and Thailand.",
@@ -1254,15 +1263,6 @@
                 "url": "https://www.androidauthority.com/google-fi-half-off-with-pixel-3686509/",
                 "source": "Android Authority",
                 "date": "2026-07-10T18:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft Fix for Defender Zero-Day Draws Fresh Criticism",
-                "desc": "Microsoft's patch for CVE-2026-50656, known as RoguePlanet, has sparked fresh criticism after researcher NightmareEclipse alleged the mitigation can exhaust disk",
-                "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/microsoft-fix-for-defender-zero-day-draws-fresh-criticism-image_large-9-a-32199.jpg",
-                "url": "https://www.bankinfosecurity.com/microsoft-fix-for-defender-zero-day-draws-fresh-criticism-a-32199",
-                "source": "BankInfoSecurity",
-                "date": "2026-07-10T18:52:31Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T11:58:09.115776Z"
+    "lastGlobalSync": "2026-07-11T12:00:22.016896Z"
 }
