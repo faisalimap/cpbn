@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "Bay of Plenty's $15.5m trophy home finally sells: 'NBR rich-listers' showed interest",
+                "desc": "Agents predicted a long campaign from the outset., All things property, under OneRoof",
+                "image": "https://s.oneroof.co.nz/image/91/b9/91b9b2dcfcc5ce58b3fcb0a41245e352.jpg?x-oss-process=image/quality,q_80",
+                "url": "https://www.oneroof.co.nz/news/15-5m-trophy-home-finally-sells-nbr-rich-listers-and-captains-of-industry-showed-interest-49824",
+                "source": "OneRoof",
+                "date": "2026-07-10T21:35:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israelis embrace homemade cosmetics, but doctors warn o",
+                "desc": "A growing DIY beauty movement is replacing store-bought toothpaste, deodorant and soap with kitchen-made alternatives; Supporters cite control, savings and sustainability, but experts warn of bacteria, burns, tooth damage and products that lack proper testing",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/02/rJf002JmNmfl/rJf002JmNmfl_0_49_1000_563_0_large.jpg",
+                "url": "https://www.ynetnews.com/culture/lifestyle/article/b1mice97mg",
+                "source": "Ynetnews",
+                "date": "2026-07-10T21:31:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DoD class deviation leaves contractors with more questions than answers",
+                "desc": "“It's not entirely clear what the rulemakers were intending here,” Tracye Howard said.",
+                "image": "https://federalnewsnetwork.com/wp-content/uploads/2019/11/pentagon-money-defense-spending.jpg",
+                "url": "https://federalnewsnetwork.com/defense-main/2026/07/dod-class-deviation-leaves-contractors-with-more-questions-than-answers/",
+                "source": "Federal News Network",
+                "date": "2026-07-10T21:30:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+                "desc": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108043118-1727991804628-AravindSrinivas-1.jpg?v=1727991916&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+                "source": "CNBC",
+                "date": "2026-07-10T21:22:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU lawmakers give digital euro the green light, but rollout still years away",
+                "desc": "The digital euro would be an electronic form of central bank money, backed directly by the European Central Bank (ECB) and accessible via a digital wallet, intended to work alongside cash and existing bank accounts rather than replace them. The project has been years in the making but the EU first needs to agree on the legal framework underpinning the virtual currency",
+                "image": "https://cdn.modernghana.com/images/content/7102026103606-g30n1r5edx-000-96uv6zr.jpg",
+                "url": "https://www.modernghana.com/news/1509661/eu-lawmakers-give-digital-euro-the-green-light.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-10T21:18:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man partly sucked out of broken plane window mid-flight",
+                "desc": "A 61-year-old passenger suffered neck and shoulder injuries and friction burns, according to a Greek hospital official.",
+                "image": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/e8eaa5230b6a3f2f9acc321d0a133a4fb9e0d6b0aae1c8510effb1c0b0d3a7cf",
+                "url": "https://www.nine.com.au/world-news/uk-europe/man-partly-sucked-out-of-broken-plane-window-mid-flight-20260711-p60eh0.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-10T21:16:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lyft Launches Free Ride Program for NYC Job Seekers",
+                "desc": "Lyft is offering free rides to job interviews, training programs and new jobs through a new NYC pilot program.",
+                "image": "https://media.timeout.com/images/106425739/image.jpg",
+                "url": "https://www.timeout.com/newyork/news/lyft-is-giving-free-rides-to-new-yorkers-heading-to-job-interviews-and-work-071026",
+                "source": "Time Out Worldwide",
+                "date": "2026-07-10T21:15:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global oil demand is falling, but US drivers keep buying more gas",
+                "desc": "Global oil demand is set to decline this year for the first time since 2020. The International Energy Agency expects a drop of about 1 million barrels per day by 2026.",
+                "image": "https://dims.apnews.com/dims4/default/c30332b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F7a%2Fd74147409a591dafc97b16061331%2Fa723d6cf44e94923a09cda25d90eedd5",
+                "url": "https://apnews.com/article/oil-gasoline-demand-iran-us-iea-report-de45ede94f992da07d35a8b737fdeacf",
+                "source": "AP News",
+                "date": "2026-07-10T21:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is This Biotech Stock a Buy Near Its 52-Week High?",
+                "desc": "It's been a volatile year for the company, but don't let that scare you away.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877724%2Fvertex-pharmaceuticals-logo.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/10/is-this-biotech-stock-a-buy-near-its-52-week-high/",
+                "source": "The Motley Fool",
+                "date": "2026-07-10T21:12:24Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
                 "desc": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
                 "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-facebookJumbo.jpg",
@@ -551,90 +632,99 @@
                 "source": "CBC",
                 "date": "2026-07-10T18:53:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ross & Yerger failed to safeguard client data, lawsuit alleges",
-                "desc": "A proposed class action claims Ross & Yerger Insurance failed to protect client data taken in a breach - and had not warned those affected when it was filed.",
-                "image": "https://cdn-res.keymedia.com/cms/images/us/003/0270_639193061821407662.jpg",
-                "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/ross-and-yerger-failed-to-safeguard-client-data-lawsuit-alleges-582013.aspx",
-                "source": "Insurance Business",
-                "date": "2026-07-10T18:50:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Daily Lotto results: Friday, 10 July 2026",
-                "desc": "A R500 000 jackpot is up for grabs tonight! Here are your winning Daily Lotto results for 10 July 2026.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/Daily-Lotto-results-Friday-2026.jpg",
-                "url": "https://www.citizen.co.za/lotto/daily-lotto-results-friday-10-july-2026/",
-                "source": "The Citizen",
-                "date": "2026-07-10T18:48:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What the Pentagon’s new post-quantum cryptography directive means for defense contractors",
-                "desc": "The Pentagon wants to introduce PQC requirements into the Cybersecurity Maturity Model Certification (CMMC) program.",
-                "image": "https://defensescoop.com/wp-content/uploads/sites/8/2026/01/GettyImages-2242867018-e1767723375594.jpg",
-                "url": "https://defensescoop.com/2026/07/10/cmmc-pqc-requirements-defense-contractors-cybersecurity/",
-                "source": "DefenseScoop",
-                "date": "2026-07-10T18:46:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jesse Kline: Mark Carney's $70-billion U.A.E. deal to nowhere",
-                "desc": "The Middle East country was ready to invest, but there was nothing to invest in",
-                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/06/pm-presser0429_303926404.jpg",
-                "url": "https://nationalpost.com/opinion/jesse-kline-mark-carneys-70-billion-u-a-e-deal-to-nowhere",
-                "source": "National Post",
-                "date": "2026-07-10T18:44:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghana Trade Fair Company equips SMEs with practical skills for business growth",
-                "desc": "The Chief Executive Officer of the Ghana Trade Fair Company Limited, Squadron Leader Naa Amerley Bamba (Rtd .",
-                "image": "https://cdn.modernghana.com/images/content/710202661930-i41p266ffa-whatsapp-image-2026-07-10-at-161913.jpeg",
-                "url": "https://www.modernghana.com/news/1509599/ghana-trade-fair-company-equips-smes-with-practica.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-10T18:34:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What To Expect? » MotorOctane",
-                "desc": "Discover the upcoming Maruti Suzuki Baleno Hybrid with expected design, features, hybrid powertrain, mileage, launch timeline and price.",
-                "image": "https://motoroctane.com/wp-content/uploads/2026/07/Maruti-Suzuki-Baleno-Hybrid.jpg",
-                "url": "https://motoroctane.com/upcoming/317372-maruti-suzuki-baleno-hybrid-what-to-expect",
-                "source": "MotorOctane",
-                "date": "2026-07-10T18:33:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wollongong's Amici Ristorante brings homemade Italian to CBD",
-                "desc": "Owners Edwin and Marisa Avakian bring Amici Ristorante to Wollongong, opening July 11. Learn how their bar talent and imported mixers create premium drinks.",
-                "image": "https://www.illawarramercury.com.au/images/transform/v1/crop/frm/230482368/324625e8-ed8a-4566-abd3-cecf5cfbdd16.jpg/r0_36_1920_1044_w1200_h630_fmax.jpg",
-                "url": "https://www.illawarramercury.com.au/story/9308638/wollongongs-amici-ristorante-brings-homemade-italian-to-cbd/",
-                "source": "Illawarra Mercury",
-                "date": "2026-07-10T18:32:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "XRP’s sell pressure is on the lower side, so why is the market still weak?",
-                "desc": "$XRP has been looking weak lately, with activity across the board slowing down. In fact, traders aren’t as willing to take on new positions as they were, with demand yet to push up",
-                "image": "https://cnews24.ru/uploads/dde/ddeb45edc68c26d0313e56bde531bb555185bf0a.jpg",
-                "url": "https://cryptonews.net/news/analytics/33128838/",
-                "source": "Cryptonews.net",
-                "date": "2026-07-10T18:30:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The future takes flight: AT&T and Ericsson demonstrate drone detection outside of AT&T Stadium",
-                "desc": "The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.",
-                "image": "https://mmx.prnewswire.com/media/MS1880748/att-stadium-drone-1200x627.jpg?id=OA2758099",
-                "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607101430PR_NEWS_USPRX____CL01869-1",
-                "source": "Financial Times",
-                "date": "2026-07-10T18:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Pixel 11 FCC paperwork adds support to Tensor G6 modem change",
+                "desc": "Today's Pixel 11 Pro Fold FCC document dump appears to support rumors of Google moving to a MediaTek modem.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2021/09/Google-Tensor-SoC.jpg",
+                "url": "https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/",
+                "source": "Android Authority",
+                "date": "2026-07-10T21:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "God of War Laufey",
+                "desc": "Santa Monica Studio has confirmed God of War Laufey will \"be available on disc,\" suggesting its launch will arrive in 2027.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/10/god-of-war-laufey-physical-disc-release-confirmed-2027-1783717114655.png?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
+                "source": "IGN",
+                "date": "2026-07-10T21:35:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giveaway: Win an NZXT H6 RGB+ Case, Kraken Elite AIO, RGB Fans and 1200W PSU",
+                "desc": "One lucky TweakTown member and newsletter subscriber will win an NZXT PC building bundle with a case, 360mm AIO, RGB fans, and 1200W Gold PSU!",
+                "image": "https://static.tweaktown.com/news/1/1/112579_9_giveaway-win-an-nzxt-h6-rgb-case-kraken-elite-aio-fans-and-1200w-psu_full.png",
+                "url": "https://www.tweaktown.com/news/112579/giveaway-win-an-nzxt-h6-rgb-plus-case-kraken-elite-aio-rgb-fans-and-1200w-psu/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-10T21:33:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation account holders may lose their digital games, as end of PS5 discs looms",
+                "desc": "PlayStation account restrictions could become problematic following the death of physical games. Users who relocate to another country frequently must create a new account to make purchases. There is no option to transfer older titles, which is not an issue with PS5 discs.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PSNLogoWorldMap.jpg",
+                "url": "https://www.notebookcheck.net/PlayStation-account-holders-may-lose-their-digital-games-as-end-of-PS5-discs-looms.1339844.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-10T21:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Assassin's Creed Black Flag Resynced Sales Reach 2 Million on Day 1",
+                "desc": "Wind in its sales.",
+                "image": "https://sm.ign.com/t/ign_in/news/a/assassins-/assassins-creed-black-flag-resynced-sales-reach-2-million-on_gg91.1200.jpg",
+                "url": "https://in.ign.com/assassins-creed-black-flag-resynced/265964/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1",
+                "source": "IGN India",
+                "date": "2026-07-10T21:30:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Do You Hear That? It Sounds Like a 24% Off Deal on the Amazing Apple AirPods 4",
+                "desc": "With super Spatial Audio, 30 hours of battery life, and a water-resistant design, the AirPods 4 are Apple's most versatile earbuds. And right now, they're $31 off at Walmart!",
+                "image": "https://i.pcmag.com/imagery/articles/01GDI0NBN9ET5kDXq7BHBKJ-1.fit_lim.size_1200x630.v1783706131.png",
+                "url": "https://www.pcmag.com/deals/sounds-like-a-24-off-deal-on-the-amazing-apple-airpods-july-10",
+                "source": "PCMag",
+                "date": "2026-07-10T21:30:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lifetime Cloud Storage for Less Than the Price of an SSD, pCloud Is Almost Giving It Away",
+                "desc": "pCloud just extended a sale that puts lifetime cloud storage below the price of a physical drive.",
+                "image": "https://gizmodo.com/app/uploads/2024/11/pCloud-Deal-Image.jpeg",
+                "url": "https://gizmodo.com/lifetime-cloud-storage-for-less-than-the-price-of-an-ssd-pcloud-is-almost-giving-it-away-2000784203",
+                "source": "Gizmodo",
+                "date": "2026-07-10T21:25:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Chip Mimicking Brain’s Reflex Center Developed",
+                "desc": "A new study details the development of a cerebellum-inspired memtransistor engineered from atomically thin molybdenum disulfide.",
+                "image": "https://neurosciencenews.com/files/2026/07/ai-cerebellum-chip-neuroscience.jpg",
+                "url": "https://neurosciencenews.com/ai-cerebellum-memtransistor-31036/",
+                "source": "Neuroscience News",
+                "date": "2026-07-10T21:22:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LOEWE Perfumes Can't Quit Jonathan Anderson's Viral Tomato",
+                "desc": "LOEWE Perfumes expanded its viral, beloved Tomato Leaves scent, adding body scrub and hand cream to the line made famous by Jonathan Anderson.",
+                "image": "https://www.highsnobiety.com/static-assets/dato/1783613864-loewe-perfumes_tomato-leaves_bath_line169327.jpeg",
+                "url": "https://www.highsnobiety.com/p/loewe-tomato-leaves-scent/",
+                "source": "Highsnobiety",
+                "date": "2026-07-10T21:22:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google's SensorFM Reveals Where AI Takes Wearable Health",
+                "desc": "Google's trillion-minute SensorFM data shows wearables shifting from raw metrics to AI health agents, a trend already reshaping Whoop and Oura.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a515ee8fe7d3fe8a206e2b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/josipamajic/2026/07/10/googles-sensorfm-reveals-where-ai-takes-wearable-health/",
+                "source": "Forbes",
+                "date": "2026-07-10T21:20:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Meta patents AI device that tracks your mood",
                 "desc": "‘Creepy’ patent could be used to serve ads targeted to users’ emotional vulnerabilities, privacy advocates warn",
@@ -1174,99 +1264,90 @@
                 "source": "9to5Mac",
                 "date": "2026-07-10T17:54:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Magic Brief Is Shutting Down - Where to Go Before July 31",
-                "desc": "Magic Brief shuts down July 31, 2026 after Canva's $22.5M acquisition. Compare the best alternatives for creative analytics, brief building, and ad research — including free options.",
-                "image": "https://cdn.prod.website-files.com/6748a0499432e81f3a029e2b/6a285713b0797aa4adccce1d_45%20-%20Passionfroot%20%20EAFM%20%201080%20x%201350%20px.png",
-                "url": "https://www.thekeyword.co/learn/magic-brief-shutting-down-alternatives",
-                "source": "thekeyword.co",
-                "date": "2026-07-10T17:53:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI, Synthesis to Forge Stronger Magnets",
-                "desc": "Quick lookA team led by an Iowa State University chemist will use artificial intelligence tools and innovative synthesis methods to develop new",
-                "image": "https://www.news.iastate.edu/files/styles/width_limit/public/images/2026-07/magnetsynthesis500_0.jpeg?itok=dphFZoO6",
-                "url": "https://www.miragenews.com/ai-synthesis-to-forge-stronger-magnets-1708408/",
-                "source": "Mirage News",
-                "date": "2026-07-10T17:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Offers New Cards. Trading Cards, That Is",
-                "desc": "Can't afford Nvidia's desktop graphics cards because of the memory shortage? The company is offering free trading cards commemorating a few of its older GPUs.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-off/nvidia-offers-new-cards-trading-cards-that-is_medq.1200.jpg",
-                "url": "https://au.pcmag.com/graphics-cards/118707/nvidia-offers-new-cards-trading-cards-that-is",
-                "source": "PCMag Australia",
-                "date": "2026-07-10T17:49:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OPTIMA Batteries Powers RUF Boxer 8 Prototype at the 2026 Goodwood Festival of Speed",
-                "desc": "OPTIMA ORANGETOP™ QH6 battery brings advanced lithium power to one of Goodwood’s most closely watched performance debuts",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1132978.jpg",
-                "url": "https://www.manilatimes.net/2026/07/11/tmt-newswire/globenewswire/optima-batteries-powers-ruf-boxer-8-prototype-at-the-2026-goodwood-festival-of-speed/2382578",
-                "source": "The Manila Times",
-                "date": "2026-07-10T17:43:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Physical laws explain why most flies evolved similar flight, with mosquitoes as outliers",
-                "desc": "A new study in PLOS Biology of 133 species of flies, mosquitoes and their relatives shows that most species fly in surprisingly similar ways. Physical and aerodynamic laws shape the evolution of their flight behavior more strongly than previously thought. Mosquitoes prove to be a striking exception.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/why-most-flies-fly-ali.jpg",
-                "url": "https://phys.org/news/2026-07-physical-laws-flies-evolved-similar.html",
-                "source": "Phys.org",
-                "date": "2026-07-10T17:40:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package",
-                "desc": "Microsoft says GigaWiper combines at least 3 malware families into one modular tool",
-                "image": "https://image.theregister.com/5270084.jpg?imageId=5270084&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/security/2026/07/10/destructive-windows-backdoor-stuffs-multiple-wipers-and-ransomware-code-into-a-single-package/5270053",
-                "source": "The Register",
-                "date": "2026-07-10T17:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU Can't Force PlayStation To Keep Making Physical Games",
-                "desc": "The European Union won't stop the all-digital future that video game fans are facing",
-                "image": "https://kotaku.com/app/uploads/2026/07/ps5discs-1200x675.jpg",
-                "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
-                "source": "Kotaku",
-                "date": "2026-07-10T17:31:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Xbox's layoffs, massive reboot say about the gaming industry",
-                "desc": "Microsoft plans to reduce Xbox by 3,200 jobs over the next fiscal year, calling it “the most significant restructuring in Xbox history.” While the gaming industry has seen many boom and bust cycles, experts say this moment is different.",
-                "image": "https://kuow-prod.imgix.net/store/d14f9409ea249313e2c27ff6cd0156b1.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
-                "url": "https://www.kuow.org/stories/what-xbox-s-layoffs-massive-reboot-says-about-the-gaming-industry",
-                "source": "KUOW",
-                "date": "2026-07-10T17:29:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Death of Console Discs Pushes Gamers to PC",
-                "desc": "The reception of PlayStation's recent decision to stop producing physical games media in early 2028 has been heard far and wide across the internet, with fans even going as far as to start the \"Don't Kill the Disc\" petition on Change.org. More recently, a survey on Push Square, a publication that...",
-                "image": "https://www.techpowerup.com/img/gi1gdEXCDQgj8kEr.jpg",
-                "url": "https://www.techpowerup.com/350667/death-of-console-discs-pushes-gamers-to-pc",
-                "source": "TechPowerUp",
-                "date": "2026-07-10T17:27:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Security alert centred on Cregagh Glen",
-                "desc": "Drivers and pedestrians urged to avoid Manse Road area",
-                "image": "https://www.irishnews.com/resizer/v2/VC2US2GNYZLFHGY6AI74PU67HU.jpg?smart=true&auth=9104018f6241610d1691875654990d60c262f223d9546d4d329ad0b80ddd77e6&width=1200&height=630",
-                "url": "https://www.irishnews.com/news/northern-ireland/road-closed-in-east-belfast-security-alert-AEKPR3MLDJBQXFZTWJTKLAPZI4/",
-                "source": "The Irish News",
-                "date": "2026-07-10T17:18:44Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Ukraine-Russia war latest: China told Putin not to use nuclear weapons in Ukraine, says Zelensky",
+                "desc": "Ukrainian leader said China warned Russia ‘there can be no thought whatsoever of using nuclear weapons’",
+                "image": "https://static.independent.co.uk/2026/07/10/10/2026-07-07T193123Z_588825667_RC249MARXL7P_RTRMADP_3_NATO-SUMMIT.JPG?trim=69,0,69,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-crimea-fuel-shortages-b3012379.html",
+                "source": "The Independent",
+                "date": "2026-07-10T21:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman Goes Off Against Socialism and New York City's Mayor",
+                "desc": "A woman made a controversial video where she went on a rant about socialism in America and New York's Mayor Mamdani",
+                "image": "https://lede-admin.dailydot.com/wp-content/uploads/sites/69/2026/07/Woman-Uses-Anti-Communism-Monument-to-Criticize-Mamdani.jpg",
+                "url": "https://dailydot.com/if-you-like-socialism-so-much-womans-video-criticizing-zohran-mamdani-sparks-debate",
+                "source": "The Daily Dot",
+                "date": "2026-07-10T21:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uragasaurus kalasinensis: New dinosaur discovered in Thailand",
+                "desc": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo",
+                "source": "BBC",
+                "date": "2026-07-10T21:30:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Examining Sudan’s Humanitarian Crisis And The Failing Mediation",
+                "desc": "Since April 2023, Sudan has been in a civil war between the country’s two main military groups: the Sudanese Armed Forces and the paramilitary group Rapid Support Forces. Led by Abdel Fattah al-Bur…",
+                "image": "https://theowp.org/wp-content/uploads/2026/06/SUDANWAR_Visual.jpg",
+                "url": "https://theowp.org/examining-sudans-humanitarian-crisis-and-the-failing-mediation/",
+                "source": "The Organization for World Peace",
+                "date": "2026-07-10T21:29:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lincoln Memorial Reflecting Pool drained again as Trump project hits snags",
+                "desc": "President Donald Trump has blamed the peeling on vandals. Critics allege it is from shoddy repair work.",
+                "image": "https://www.ms.now/wp-content/uploads/2026/07/260710-reflecting-pool-lincoln-memorial-algae-green-water-construction-washington-dc-es.webp?crop=0px,164px,1600px,840px&w=1200&h=630",
+                "url": "https://www.ms.now/news/lincoln-memorial-pool-drained-again-trump-revamp",
+                "source": "MS NOW",
+                "date": "2026-07-10T21:27:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New GOP Bills Would Permanently Shift Ed. Dept. Programs to Other Agencies",
+                "desc": "The bills represent the most significant step so far among Republicans to nix the Education Department.",
+                "image": "https://epe.brightspotcdn.com/dims4/default/297c0f2/2147483647/strip/true/crop/7009x4674+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F9d%2F76%2Fc850c58a4b94b1229f1a32aff352%2Faptopix-america-250-26184689017796.jpg",
+                "url": "https://www.edweek.org/policy-politics/new-gop-bills-would-permanently-shift-ed-dept-programs-to-other-agencies/2026/07",
+                "source": "Education Week",
+                "date": "2026-07-10T21:23:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Family mourn British teenager who died in Greece",
+                "desc": "The parents of the boy - who has not been named - said their son will be \"missed beyond words\".",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d04a/live/0e1b9d40-7c98-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c75yp6r13wvo",
+                "source": "BBC",
+                "date": "2026-07-10T21:18:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Family mourn British teenager who died in Greece",
+                "desc": "The parents of the boy - who has not been named - said their son will be \"missed beyond words\".",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d04a/live/0e1b9d40-7c98-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.com/news/articles/c75yp6r13wvo",
+                "source": "BBC",
+                "date": "2026-07-10T21:18:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry, Meghan visit King Charles after security controversy",
+                "desc": "Prince Harry and Meghan have a rocky relationship with the prince's father.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/04/c2e4e088-ebdb-4573-8526-d1aae354e8d3/thumbnail/1200x630g2/af05c4edb410c32fd595435fa56ef55b/gettyimages-2271711942.jpg",
+                "url": "https://www.cbsnews.com/news/prince-harry-meghan-visit-king-charles-after-security-controversy/",
+                "source": "CBS News",
+                "date": "2026-07-10T21:15:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Minister of Foreign Affairs and African Affairs received by South African President",
                 "desc": "Pretoria (South Africa), July 10, 2026 (SPS) – The Minister of Foreign Affairs and African Affairs of the Sahrawi Republic, Mr. Mohamed Yeslem Beissat, was received today, Friday, in Pretoria by the President of South Africa, Mr. Cyril Ramaphosa, in his capacity as Special Envoy of the President of the Republic, Secretary-General of the Polisario Front, Mr. Brahim Ghali.",
@@ -1815,89 +1896,8 @@
                 "source": "RTE.ie",
                 "date": "2026-07-10T17:47:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Spain wildfire: Blaze was 'really frightening, unbelievably quick', witnesses say",
-                "desc": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9329/live/e3e1d130-7c6e-11f1-98fd-6b03daaf8a77.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c932zyex1w2o",
-                "source": "BBC",
-                "date": "2026-07-10T17:46:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blaze was 'really frightening, unbelievably quick', witnesses say",
-                "desc": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9329/live/e3e1d130-7c6e-11f1-98fd-6b03daaf8a77.jpg",
-                "url": "https://www.bbc.com/news/articles/c932zyex1w2o",
-                "source": "BBC",
-                "date": "2026-07-10T17:46:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zuma After Admitting March and March's June 30 Protest Failed",
-                "desc": "Jacinta Ngobese-Zuma admitted the June 30 deadline largely failed to solve South Africa's illegal immigration crisis, sparking sharp reactions online.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/5bb9b9606c564376.jpeg?v=1",
-                "url": "https://yen.com.gh/entertainment/celebrities/307685-africans-blast-jacinta-ngobese-zuma-admitting-march-marchs-june-30-protest-failed/",
-                "source": "Yen News",
-                "date": "2026-07-10T17:43:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shippers Face Deepening Dilemma as U.S. and Iran Vie for Control of the Strait",
-                "desc": "Companies desperately want to get their ships moving through the Strait of Hormuz, but face mounting risks. “Things are becoming uglier by the minute,” one executive said.",
-                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/Biz-Hormuz-Shipping-vtwl/Biz-Hormuz-Shipping-vtwl-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html",
-                "source": "The New York Times",
-                "date": "2026-07-10T17:37:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Committee hands over report on reforming presidential pardon process",
-                "desc": "A committee appointed to review Sri Lanka’s presidential pardon system has submitted a comprehensive report recommending a more systematic, fair and transparent framework for granting presidential pardons to prison inmates.",
-                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_e6536e7e37.jpg",
-                "url": "https://www.dailymirror.lk/breaking-news/Committee-hands-over-report-on-reforming-presidential-pardon-process/108-345332",
-                "source": "Daily Mirror - Sri Lanka",
-                "date": "2026-07-10T17:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukrainian court detains alleged killers of Monaco bomb attack suspect",
-                "desc": "Motives for the killing of Anastasiia Berezovska remain unclear as the unfolding saga grips both countries.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260703__B96E363__v2__HighRes__MonacoFrancePoliceInvestigation-1783427817.jpg?resize=1200%2C675",
-                "url": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect",
-                "source": "Al Jazeera",
-                "date": "2026-07-10T17:30:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canadian Government Announces New Federal Job Openings in July 2026, Lists Salaries And Requirements",
-                "desc": "The Canadian government advertised job opportunities in July 2026, spanning multiple sectors, from administrative roles to scientific careers, with varying salaries.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/33568978512f0918.jpeg?v=1",
-                "url": "https://yen.com.gh/people/307681-canadian-government-announces-12-federal-job-openings-july-2026-lists-salaries-requirements/",
-                "source": "Yen News",
-                "date": "2026-07-10T17:26:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man Arrested In Suspected Murder Of Ex-MP",
-                "desc": "UK police have arrested a man on suspicion of murder in the death of Ann Widdecombe, a former Member of Parliament and British reality star.",
-                "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2183846656.jpg?w=1024",
-                "url": "https://deadline.com/2026/07/ann-widdecombe-death-homicide-1236979243/",
-                "source": "Deadline",
-                "date": "2026-07-10T17:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The EU Population Grew, Latvia Experienced the Most Significant Decline",
-                "desc": "The population of the European Union continued to grow in 2025. According to Eurostat, as of January 1, 2026, an estimated 452 million people lived in the EU, which is 706,000 more than the previous year.",
-                "image": "https://news.inbox.eu/w/img/7f/e7/7fe72648d01177cae2.webp",
-                "url": "https://news.inbox.eu/150hox4-the-eu-population-grew-latvia-experienced-the-most-significant-decline?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-07-10T17:20:11Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T09:10:39.554725Z"
+    "lastGlobalSync": "2026-07-11T09:40:16.509123Z"
 }
