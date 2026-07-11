@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "First Nations chiefs across country 'blindsided' by pipeline announcements",
+                "desc": "First Nations chiefs countrywide are expressing concern about the lack of engagement after two pipelines were announced in Alberta, B.C. and Ontario. Two leaders say they only learned of the plans through last-minute emails and rumours.",
+                "image": "https://i.cbc.ca/ais/043ba86a-4309-4bb3-8023-77f561eb6fe8,1783714952980/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C387%2C5350%2C3009%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/indigenous/ontario-alberta-bc-chiefs-pipelines-reaction-9.7266055",
+                "source": "CBC",
+                "date": "2026-07-10T20:37:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US federal budget deficit outpaces last year, trending to near $2 trillion",
+                "desc": "Federal budget deficit hit $1.373 trillion through nine months of FY2026, outpacing last year as federal spending on national debt interest and Social Security outgrows tax revenue.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/us-capitol-july-4-2026-america-250.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/politics/national-debt-interest-entitlement-spending-push-fy2026-federal-budget-deficit-toward-2-trillion",
+                "source": "Fox Business",
+                "date": "2026-07-10T20:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Slothful summer app lets you scroll simply by tilting your head",
+                "desc": "ScrollPods is Mac-only, and you'll need compatible AirPods",
+                "image": "https://image.theregister.com/5270118.jpg?imageId=5270118&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/personal-tech/2026/07/10/slothful-summer-app-lets-you-scroll-simply-by-tilting-your-head/5270096",
+                "source": "The Register",
+                "date": "2026-07-10T20:32:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple accuses OpenAI of using stolen trade secrets to create its upcoming AI gadgets in new lawsuit",
+                "desc": "Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-05-23t152543z-288013851-rc2rneawplcq-rtrmadp-3-usa-trump-tariffs-apple.JPG?c=16x9&q=w_800,c_fill",
+                "url": "https://edition.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit",
+                "source": "CNN",
+                "date": "2026-07-10T20:31:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple sues OpenAI alleging trade secret theft",
+                "desc": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107241871-1684251021470-gettyimages-1178079026-SILICON_VALLEY.jpeg?v=1712278235&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+                "source": "CNBC",
+                "date": "2026-07-10T20:30:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Innovative Industrial Properties: Capital Structure Risk Solved, 9% Preferred Yield",
+                "desc": "IIPR.PR.A analysis: how IIPR managed a $290M maturity, kept a strong balance sheet, and why its 9%+ yield looks compelling. Click to read in detail now.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194717381/image_2194717381.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4921265-innovative-industrial-properties-capital-structure-risk-solved-9-percent-preferred-yield-remains",
+                "source": "Seeking Alpha",
+                "date": "2026-07-10T20:27:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Passenger’s head and shoulders sucked out of window on flight from Greece: reports",
+                "desc": "Passengers told Greek media that they heard a loud bang, that oxygen masks dropped and that the plane began descending, the Associated Press said.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/air-malta-plane.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11961494/flight-passenger-sucked-out-of-window-ryanair/",
+                "source": "Global News",
+                "date": "2026-07-10T20:27:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nasdaq closes higher after SK Hynix's blockbuster debut",
+                "desc": "4:20pm: Tech keeps Wall Street on track Wall Street ended the week on a positive note, with all three major indexes posting modest gains after a choppy few...",
+                "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA3XC9UaGUtTmV3LVlvcmstU3RvY2stRXhjaGFuZ2UtaXMtYW4tQW1lcmljYW4tc3RvY2stZXhjaGFuZ2UtbG9jYXRlZC1hdC0xMS1XYWxsLVN0cmVldC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+                "url": "https://www.proactiveinvestors.com/companies/news/1095259/nasdaq-closes-higher-after-sk-hynix-s-blockbuster-debut-1095259.html",
+                "source": "Proactive financial news",
+                "date": "2026-07-10T20:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Unusual vibration' felt before plane crash that killed Joshua Baer",
+                "desc": "As the plane approached the U.S.-Mexico border, both engines stopped working. A pilot asked for a possible field to land in nearby before ultimately crashing on a highway near the Laredo airport.",
+                "image": "https://npr.brightspotcdn.com/dims4/default/8c38cc3/2147483647/strip/true/crop/5324x2795+0+456/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F09%2F5d8895c84a49842758455f82b0e7%2F20260502-kut-festival-138.JPG",
+                "url": "https://www.kut.org/transportation/2026-07-10/ntsb-joshua-baer-plane-crash-report-laredo-tx-texas-austin-tech",
+                "source": "KUT",
+                "date": "2026-07-10T20:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria, 3 other African countries unite to end raw cocoa exports",
+                "desc": "Africa’s four biggest cocoa-producing countries they include Nigeria, Ghana, Côte d’Ivoire and Cameroon will on Tuesday launch a joint push to retain more value from the global chocolate industry.",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/03/cocoa.webp",
+                "url": "https://guardian.ng/news/nigeria-3-other-african-countries-unite-to-end-raw-cocoa-exports/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-10T20:17:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Middle Eastern perfumes are trending, led by Lattafa and Mona Kattan’s Kayali",
                 "desc": "From TikTok Shop to legacy houses, oud has gone mainstream – with Gucci, Maison Francis Kurkdjian and Tom Ford all launching dedicated collections.",
                 "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/d8/images/canvas/2026/07/10/27111ac0-860e-4015-861a-09616f0dabff_fd5ff601.jpg?itok=pn2cz4XY&v=1783659411",
@@ -542,99 +632,99 @@
                 "source": "New Jersey Globe",
                 "date": "2026-07-10T17:39:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Passenger injured after being partially sucked out of plane after takeoff",
-                "desc": "A passenger on board a flight from Greece to Germany was reportedly partially sucked out of a window when it broke soon after takeoff.",
-                "image": "https://cdn.abcotvs.com/dip/images/19481599_071026-wabc-clean-ryanair-img.jpg?w=1600",
-                "url": "https://abc7news.com/post/passenger-injured-being-partially-sucked-plane-takeoff-greece/19481474/",
-                "source": "ABC7 Bay Area",
-                "date": "2026-07-10T17:39:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fresh Fuel Price Update: Diesel Surges in Lagos, Warri, Port Harcourt Despite Stable Petrol Rates",
-                "desc": "Diesel prices surge by up to N50 across Lagos, Port Harcourt, and Warri, while petrol remains stable amid competitive pressures and regional market dynamics.",
-                "image": "https://cdn.legit.ng/images/1200x675/6f9a3993d24098a4.jpeg?v=1",
-                "url": "https://www.legit.ng/business-economy/energy/1718683-fresh-fuel-price-update-diesel-surges-lagos-warri-port-harcourt-stable-petrol-rates/",
-                "source": "Legit.ng",
-                "date": "2026-07-10T17:38:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Passenger injured after being partially sucked out of plane after takeoff",
-                "desc": "A passenger on board a flight from Greece to Germany was reportedly partially sucked out of a window when it broke soon after takeoff.",
-                "image": "https://cdn.abcotvs.com/dip/images/19481599_071026-wabc-clean-ryanair-img.jpg?w=1600",
-                "url": "https://abc7chicago.com/post/passenger-injured-being-partially-sucked-plane-takeoff-greece/19481474/",
-                "source": "ABC7 Chicago",
-                "date": "2026-07-10T17:38:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ryanair window dislodges mid-flight, passenger partially sucked outside",
-                "desc": "Ryanair passenger was reportedly partially sucked out of a broken airplane window after engine debris struck the plane shortly after takeoff from Greece.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/ryanair-thessaloniki-greece-01.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/lifestyle/ryanair-passenger-partially-sucked-out-broken-window-after-takeoff-from-greece",
-                "source": "Fox Business",
-                "date": "2026-07-10T17:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rotary Club Of Greenfield Begins New Chapter As Oyesile Assumes Presidency",
-                "desc": "The newly installed President of Rotary Club of Greenfield, Kayode Oyesile, has pledged to focus on growth, innovation, membership expansion, and impactful community service as he officially assumed office for the 2026–2027 Rotary year. In his inaugural address, Oyesile expressed gratitude to God for the opportunity to lead the club and paid tribute to the...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/IMG-20260710-WA0054.jpg",
-                "url": "https://independent.ng/rotary-club-of-greenfield-begins-new-chapter-as-oyesile-assumes-presidency/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-10T17:32:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanzania’s richest man makes $275m bet on battery minerals as EV race accelerates",
-                "desc": "Tanzania’s richest businessman Mohammed Dewji plans to invest $275 million in graphite mining while expanding into luxury tourism, as MeTL Group targets $10 billion in annual revenue by 2035 amid rising global demand for battery minerals. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/rCuktkpTURBXy85ZGFkZWFlYTBhNWNiNzFlZWFmNzk0YzNlNWZhY2Q0YS5qcGeSlQMAAM0EsM0Co5MFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/markets/tanzanias-richest-man-makes-dollar275m-bet-on-battery-minerals-as-ev-race-accelerates/q7gvenk",
-                "source": "Business Insider Africa",
-                "date": "2026-07-10T17:32:19Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Métis Federation buys former research council buildings in Winnipeg, eyes bid for Fort Garry Hotel",
-                "desc": "The Manitoba Métis Federation is taking another big step as it expands its real estate footprint in downtown Winnipeg — and sets its eyes on yet another iconic and historic property.",
-                "image": "https://i.cbc.ca/ais/fe5725b9-938e-42e5-ab66-c7b1a268f5b5,1783699306598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C1509%2C848%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/manitoba/metis-federation-research-building-fort-garry-9.7265598",
-                "source": "CBC",
-                "date": "2026-07-10T17:31:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Passenger window on Ryanair flight dislodges, partially sucking out passenger",
-                "desc": "A passenger window on a Ryanair flight dislodged shortly after takeoff from Thessaloniki, Greece, partially sucking out a passenger.",
-                "image": "https://i.abcnewsfe.com/a/af44b366-7eb0-47b2-a412-f3acc93f0966/ryanair-1-ht-gmh-260710_1783695036440_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/US/passenger-window-ryanair-flight-dislodges-partially-sucking-passenger/story?id=134652591",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-10T17:29:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New online charge now triggering a €10 cost",
-                "desc": "Donegal Deputy Pearse Doherty has claimed online shoppers are being hit with a €10 charge on small items.The Sinn Féin spokesperson on Finance, said the €3 tax...",
-                "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyMlxcXC8wOFxcXC9jb21wdXRlci1sYXB0b3Atc29mdHdhcmUtYXBwLXdvcmstZGVzay10eXBlLWNoYXQuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wM1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMGYxMTkzNWIyMDI3MGZjYjA3MGI2Yjc3ZGVmNGExMWY1YjVmYmUwMyJ9/new-online-charge-now-triggering-a-10-cost-doherty.jpg",
-                "url": "https://www.donegaldaily.com/news/new-online-charge-now-triggering-a-e10-cost-doherty-641268",
-                "source": "Donegal Daily",
-                "date": "2026-07-10T16:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iowa farmer says domestic fertilizer prices are ‘not even doable’",
-                "desc": "An Iowa farmer says domestic fertilizer companies are price gouging producers already strained by global supply disruptions tied to the war in Iran, and federal regulators are now investigating whether collusion is to blame.",
-                "image": "https://gray-gray-dc-prod.gtv-cdn.com/resizer/v2/FE2I63TZGVEERGFW4BYET64VTY.jpg?auth=7dc0719728b79dff7f8e3f62ddd0f8fbfcaed4aba4d172fcf4316acd56f1461d&width=1200&height=600&smart=true",
-                "url": "https://www.localnewslive.com/2026/07/10/iowa-farmer-says-domestic-fertilizer-prices-are-not-even-doable/",
-                "source": "localnewslive.com",
-                "date": "2026-07-10T16:59:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Jsaux Previews 3 Steam Machine Display Faceplates",
+                "desc": "Jsaux, the maker of a smorgasbord of functional and decorative Steam Deck accessories, has just provided an update on its previously announced Steam Machine faceplate project, which it has revealed to potentially be coming in three separate iterations. On the brand's Discord, it recently held a...",
+                "image": "https://www.techpowerup.com/img/NflghZJBDlgVfX3d.jpg",
+                "url": "https://www.techpowerup.com/350673/jsaux-previews-3-steam-machine-display-faceplates",
+                "source": "TechPowerUp",
+                "date": "2026-07-10T20:33:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Black Flag Resynced Breaks Assassin's Creed Steam Player Record",
+                "desc": "Assassin's Creed Black Flag Resynced has surpassed 99,000 concurrent Steam players, sold over 2 million copies, and become Ubisoft's biggest Assassin's Creed Steam launch ever.",
+                "image": "https://cdn.80.lv/api/upload/meta/49217/images/6a51541f021d1/contain_1200x630.jpg",
+                "url": "https://80.lv/articles/assassin-s-creed-black-flag-resynced-sets-franchise-steam-player-record-sells-2-million-copies",
+                "source": "80 Level",
+                "date": "2026-07-10T20:32:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Best USB Microphones for 2026",
+                "desc": "Don't rely on the wimpy microphone built into your phone or laptop. Here's how to find the best USB (and XLR with USB) mics for content creation, gaming, podcasting, and recording music, including our top-tested picks.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/guide/t/the-best-u/the-best-usb-microphones-for-2026_44s1.1200.jpg",
+                "url": "https://au.pcmag.com/audio-recording/57853/the-best-usb-microphones",
+                "source": "PCMag Australia",
+                "date": "2026-07-10T20:30:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three Things I Already Love About the New Ultrahuman Ring Pro",
+                "desc": "The Ultrahuman Ring Pro is an upgrade from the Ring Air. So far the improvements are mainly aesthetic, and I'm enjoying the case that buzzes and sings to me.",
+                "image": "https://lifehacker.com/imagery/articles/01KX6VBEE8T8AG0Q4S82T9ZM5R/hero-image.fill.size_1200x675.webp",
+                "url": "https://lifehacker.com/health/three-things-i-already-love-about-the-ultrahuman-ring-pro",
+                "source": "Lifehacker",
+                "date": "2026-07-10T20:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date",
+                "desc": "The action game doesn't currently have a release date",
+                "image": "https://kotaku.com/app/uploads/2026/06/topgod2-1200x675.jpg",
+                "url": "https://kotaku.com/god-of-war-laufey-promises-physical-disc-version-all-but-confirming-2027-launch-2000714778",
+                "source": "Kotaku",
+                "date": "2026-07-10T20:29:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Samsung 65-Inch S90H OLED TV Just Got a Massive $700 Price Cut",
+                "desc": "This Samsung TV packs a gorgeous, glare-free 4K screen with AI upscaling and built-in Alexa for your viewing pleasure.",
+                "image": "https://www.cnet.com/a/img/resize/9ad0c75b61e597ea58e2abe0b90e17ac347b1794/hub/2026/07/10/37ed7d73-3be7-4328-b5f5-cfdc349b79cf/samsung-s90h.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/deals/samsung-65-inch-s90h-oled-tv-deal-2026-07-10/",
+                "source": "CNET",
+                "date": "2026-07-10T20:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung's Voice Recorder will get an improved transcription feature to understand you better",
+                "desc": "It's coming soon",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-finder-article.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/samsung-voice-recorder-app-cloud-transcription-update/",
+                "source": "Android Police",
+                "date": "2026-07-10T20:24:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
+                "desc": "MuScriptor, an open-weight decoder-only Transformer transcribing multi-instrument music into MIDI across diverse musical genres.",
+                "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/kyutai-releases-muscriptor-an-open-weigh_IXsqV0lpXg6D1rtmM94rWA_km1iPHN0RR6lde9aYcoKwQ_cover.png",
+                "url": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+                "source": "MarkTechPost",
+                "date": "2026-07-10T20:21:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "20mm F/2.8 Leak Reveals New Full",
+                "desc": "A leaked image has revealed Tamron's upcoming 12-20mm F/2.8 ultra-wide zoom for Sony E and Nikon Z, with reports pointing to a July 15 announcement.",
+                "image": "https://media.imaging-resource.com/2026/07/10201627/Tamron-12-20mm-f_2-700px.jpg",
+                "url": "https://www.imaging-resource.com/news/tamron-12-20mm-f-2-8-leak-reveals-new-full-frame-ultra-wide-zoom/",
+                "source": "Imaging Resource",
+                "date": "2026-07-10T20:20:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Using Your iPhone at Night? Here's How You Can Make the Screen Extra Dim",
+                "desc": "Some iPhone screens can get down to a single nit of brightness, but these tricks will let you get it even dimmer.",
+                "image": "https://www.cnet.com/a/img/resize/b1e6df722cefbb58c1cc155c6b30fec603b7e83e/hub/2024/05/29/69880edb-81c8-45d0-ac04-9c0b9437ea49/20240529-103318.png?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/using-your-iphone-at-night-heres-how-you-can-make-the-screen-extra-dim/",
+                "source": "CNET",
+                "date": "2026-07-10T20:15:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Supernatural Launches Sensory Wellness Studio",
                 "desc": "High-frequency.",
@@ -1174,99 +1264,45 @@
                 "source": "Eurogamer.net",
                 "date": "2026-07-10T16:50:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google's Pixel 11 Pro Fold Gets Major Approval",
-                "desc": "A new Google phone just rolled through the FCC today, a device that we believe to be the Pixel 11 Pro Fold. For now, this is the only new Pixel 11 phone to arrive at the FCC as we close in on the Made by Google event scheduled for August 12. The device showed up at the FCC under the model number...",
-                "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Pixel-9-Pro-Fold-Review-10-1200x628.jpg",
-                "url": "https://www.droid-life.com/2026/07/10/google-pixel-11-pro-fold-just-landed-at-the-fcc/",
-                "source": "Droid Life",
-                "date": "2026-07-10T16:42:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The New Star Fox Remake Has Zero New Story, But It's Still a Must-Play Game",
-                "desc": "Star Fox on the Nintendo Switch 2 is yet another Star Fox 64 remake, but it's the best spin on the classic rail shooter.",
-                "image": "https://i.pcmag.com/imagery/articles/02rMys4xMJZJKMrvMRVOquW-1.fit_lim.size_1200x630.v1783701583.jpg",
-                "url": "https://www.pcmag.com/news/star-fox-review-remake-has-zero-new-story-still-a-must-play-game",
-                "source": "PCMag",
-                "date": "2026-07-10T16:41:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The New Star Fox Remake Has Zero New Story, But It's Still a Must-Play Game",
-                "desc": "Star Fox on the Nintendo Switch 2 is yet another Star Fox 64 remake, but it's the best spin on the classic rail shooter.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/t/the-new-st/the-new-star-fox-remake-has-zero-new-story-but-its-still-a-m_n7j6.1200.jpg",
-                "url": "https://au.pcmag.com/nintendo-games/118706/the-new-star-fox-remake-has-zero-new-story-but-its-still-a-must-play-game",
-                "source": "PCMag Australia",
-                "date": "2026-07-10T16:41:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
-                "desc": "Affected users will have to configure their lights and settings all over again.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-1152x648.jpg",
-                "url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
-                "source": "Ars Technica",
-                "date": "2026-07-10T16:36:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Watch Accounts for 90% of AI Smartwatch Shipments",
-                "desc": "Apple accounted for roughly 90% of all Edge AI-capable smartwatch shipments in the first quarter of 2026, according to new data from Counterpoint Research. That dominance came as Edge AI penetration across the broader smartwatch market grew 70% year-over-year, reaching 25% in the first quarter of 2026, according to Counterpoint's Global Smartwatch Shipments Tracker.",
-                "image": "https://images.macrumors.com/t/nRAPThZ3HV5s7ZLRpShmg0UTdW4=/1600x/article-new/2025/09/series-11.jpg",
-                "url": "https://www.macrumors.com/2026/07/10/apple-watch-accounts-for-most-ai-smartwatches/",
-                "source": "MacRumors",
-                "date": "2026-07-10T16:33:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "It’s showtime",
-                "desc": "All the latest audio, video and lighting technology news that affects the industry in the vibrant and vital APAC markets. Always up to date on new global product launches, impart expert business analysis, and in-depth reports on the most topical projects and events in Asia-Pacific.",
-                "image": "https://www.proavl-asia.com/img/tk7d3pgf3dyrpfkyt4kf4vxq.png",
-                "url": "https://www.proavl-asia.com/details/80664-it-s-showtime",
-                "source": "Pro AVL Asia",
-                "date": "2026-07-10T16:32:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 Tourbillon, a Pocket Watch Masterpiece Reborn for the Wrist",
-                "desc": "The flagship of the revived Urban Jürgensen is far more than a finely finished tourbillon; it miniaturises the architecture of Derek Pratt's legendary Oval pocket watch...",
-                "image": "https://monochrome-watches.com/app/uploads/2026/07/Urban-Jurgensen-UJ1-Tourbillon-in-depth-review-111.jpg",
-                "url": "https://monochrome-watches.com/urban-jurgensen-uj-1-tourbillon-oval-pocket-watch-revival-in-depth-review/",
-                "source": "Monochrome Watches",
-                "date": "2026-07-10T16:30:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony RX10 V combines a 24-600mm zoom with AI subject tracking",
-                "desc": "Sony’s RX10 V combines a 24-600mm zoom with AI subject tracking, 30 fps burst shooting and 4K video at up to 120 fps.",
-                "image": "https://www.techedt.com/wp-content/uploads/2026/07/Sony-RX10-V-combines-a-24-600mm-zoom-with-AI-subject-tracking.jpg",
-                "url": "https://www.techedt.com/sony-rx10-v-combines-a-24-600mm-zoom-with-ai-subject-tracking",
-                "source": "Tech Edition",
-                "date": "2026-07-10T16:28:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mercedes-AMG Marks 30 Years Of Providing Official Safety And Medical Cars At Formula 1 Races",
-                "desc": "Mercedes-AMG marks 30 years of providing official FIA F1 Safety and Medical Cars at all Formula 1 Races.  Tradition began on 30 June 1996 with the deployment Mercedes-Benz C 36 AMG support vehicles at the Formula 1 race in Magny-Cours. To date, a total of 13 different models have been used as Safety Cars and […]",
-                "image": "https://autojosh.com/wp-content/uploads/2026/07/mercedes_amg_30_years_formula_1_autojosh_1.jpg",
-                "url": "https://autojosh.com/mercedes-amg-marks-30-years-of-providing-official-safety-and-medical-cars-at-formula-1-races/",
-                "source": "AUTOJOSH",
-                "date": "2026-07-10T16:27:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McLaren Launches 788HS To Close Out Legendary 720S Supercar Lineup, Limited To Just 200 Units",
-                "desc": "Track-focused McLaren 788HS debut as the final evolution of the award-winning Supercar Series that began with the 720S.  McLaren 788HS will be limited to just 200 units worldwide—100 788HS Coupés and 100 788HS Spiders (convertible).  The HS name in the new model, which means ‘High Sport’, returns for only the third time in McLaren’s history. […]",
-                "image": "https://autojosh.com/wp-content/uploads/2026/07/mclaren_788hs_autojosh_2.jpg",
-                "url": "https://autojosh.com/mclaren-launches-788hs-to-close-out-legendary-720s-supercar-lineup-limited-to-just-200-units/",
-                "source": "AUTOJOSH",
-                "date": "2026-07-10T16:27:57Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "'Unusual vibration' felt before plane crash that killed Joshua Baer",
+                "desc": "As the plane approached the U.S.-Mexico border, both engines stopped working. A pilot asked for a possible field to land in nearby before ultimately crashing on a highway near the Laredo airport.",
+                "image": "https://npr.brightspotcdn.com/dims4/default/8c38cc3/2147483647/strip/true/crop/5324x2795+0+456/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F09%2F5d8895c84a49842758455f82b0e7%2F20260502-kut-festival-138.JPG",
+                "url": "https://www.kut.org/transportation/2026-07-10/ntsb-joshua-baer-plane-crash-report-laredo-tx-texas-austin-tech",
+                "source": "KUT",
+                "date": "2026-07-10T20:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Donald Trump removes final members of independent US election commission",
+                "desc": "The dismissals leave the federal election body vacant as Trump presses for broader changes to US voting rules.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260708__B9L87BP__v1__HighRes__TurkeyUsNatoSummitDefence-1783512145.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission",
+                "source": "Al Jazeera",
+                "date": "2026-07-10T20:16:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tyler Perry and Colin Kaepernick Paying For Nolan Wells' Funeral, Independent Autopsy",
+                "desc": "Tyler Perry and Colin Kaepernick are stepping up to cover two huge expenses for Nolan Wells' family ... the funeral and an independent autopsy.",
+                "image": "https://imagez.tmz.com/image/f1/16by9/2026/07/10/f169801ff61045638dc93bdeb5a89ba0_xl.jpg",
+                "url": "https://www.tmz.com/2026/07/10/tyler-perry-colin-kaepernick-paying-for-nolan-wells-funeral-and-autopsy/",
+                "source": "TMZ",
+                "date": "2026-07-10T20:10:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "King Charles, Camilla meet with Prince Harry, Meghan and kids in UK",
+                "desc": "The reunion at Highgrove House is the family's first known meeting since 2022.",
+                "image": "https://cdn.abcotvs.com/dip/images/19482068_071026-wabc-ap-file-king-charles-prince-harry-img.jpg?w=1600",
+                "url": "https://abc7ny.com/post/king-charles-camilla-meet-prince-harry-meghan-kids-uk/19482016/",
+                "source": "ABC7 New York",
+                "date": "2026-07-10T20:01:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Why everyday sounds are a nightmare for people like Ben",
                 "desc": "“I remember just recoiling and wanting to run away or lash out in anger.”",
@@ -1860,44 +1896,8 @@
                 "source": "thecitizen.co.tz",
                 "date": "2026-07-10T16:44:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Africa continues to show widely divergent corruption levels",
-                "desc": "An anti-corruption report by the Mo Ibrahim Foundation has revealed the biggest winners and losers in anti-corruption standards, with some surprising standout countries.",
-                "image": "https://www.africanlawbusiness.com/wp-content/uploads/2024/11/intra-african-investment-paves-the-way-for-deeper-capital-markets_0_AUk2KnCAAla6EKsyvDCdz8uVboaM5bEzvB21Sy5Z.jpg",
-                "url": "https://www.africanlawbusiness.com/news/africa-continues-to-show-widely-divergent-corruption-levels/",
-                "source": "African Law & Business",
-                "date": "2026-07-10T16:43:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prices For Iranian Oil Stranded At Sea Surge",
-                "desc": "Iranian oil supplies at sea are rising after Tehran ramped up exports during the interim peace deal with the United States…",
-                "image": "https://images.marinelink.com/images/maritime/w800/adobe-stockle-172158.jpeg",
-                "url": "https://www.marinelink.com/news/prices-iranian-oil-stranded-sea-surge-541140",
-                "source": "Marine News Magazine",
-                "date": "2026-07-10T16:42:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scam Compounds Are a Natural Product of Global Capitalism",
-                "desc": "The scam compounds proliferating across Cambodia and Laos represent one of global capitalism’s newest industries: a convergence of financial speculation, digital technology, artificial intelligence, human trafficking, and extreme labor exploitation.",
-                "image": "https://media.jacobin.com/images/2026/7/484662845737.jpg",
-                "url": "https://jacobin.com/2026/07/southeast-asia-scam-capitalism-tech",
-                "source": "Jacobin",
-                "date": "2026-07-10T16:42:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Royal Malewane's Flagship Lodge Reopens After Extensive Refurbishment",
-                "desc": "Malewane Lodge, the flagship property of the Royal Malewane collection in South Africa's Greater Kruger National Park, has reopened following a comprehensive refurbishment.",
-                "image": "https://atta.travel/assets/img/favicon/favicon-96.png",
-                "url": "https://atta.travel/resource/royal-malewane-s-flagship-lodge-reopens-after-extensive-refurbishment.html",
-                "source": "Atta Travel.",
-                "date": "2026-07-10T16:42:07Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T08:00:22.695211Z"
+    "lastGlobalSync": "2026-07-11T08:40:20.794670Z"
 }
