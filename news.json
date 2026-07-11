@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "Apple sues OpenAI for trade secret theft in blockbuster case",
+                "desc": "The iPhone maker has accused the AI startup behind ChatGPT and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products.",
+                "image": "https://static.ffx.io/images/$zoom_0.49929278642149927%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/0d2d00284f495528dc5d56a41b81d8f0c1cbf06d",
+                "url": "https://www.smh.com.au/business/companies/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case-20260711-p60ehf.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-10T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Is Promoting ‘Freedom Fuel’ for $3.47 a Gallon. Who’s Behind It?",
+                "desc": "The president has praised a network of 25 recently rebranded gas stations in the Philadelphia region that have been selling gas for considerably less than the national average.",
+                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10nat-freedom-fuel-02-fgcw/10nat-freedom-fuel-02-fgcw-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html",
+                "source": "The New York Times",
+                "date": "2026-07-10T22:57:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ryanair flight from Greece to Germany makes emergency landing after passenger partially sucked through window",
+                "desc": "A Ryanair flight turned into a nightmare when a cabin window gave way mid-air, triggering panic, falling oxygen masks and a desperate rescue to save a passenger.",
+                "image": "https://images.thenightly.com.au/publication/C-22562683/1999c1900896c791a84536e68d39e4d197ebdd8a-16x9-x0y75w800h450.webp?imwidth=1200",
+                "url": "https://thenightly.com.au/world/ryanair-flight-from-greece-to-germany-makes-emergency-landing-after-passenger-partially-sucked-through-window-c-22562683",
+                "source": "The Nightly",
+                "date": "2026-07-10T22:51:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNIGRID's sodium-ion home battery debuts in Europe, US is next",
+                "desc": "UNIGRID has delivered its first sodium-ion home batteries in Europe, with US residential installations expected by the end of 2026.",
+                "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/Na-Casa-Product-Image.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
+                "source": "Electrek",
+                "date": "2026-07-10T22:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
                 "desc": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
                 "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
@@ -596,45 +632,27 @@
                 "source": "dw.com",
                 "date": "2026-07-10T19:30:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "EU says ‘addictive’ features on Instagram and Facebook breach its rules",
-                "desc": "Bloc says some design features on platforms built by Meta can cause users’ brains to go into ‘autopilot mode’.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5138e778d61-1783707879.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules",
-                "source": "Al Jazeera",
-                "date": "2026-07-10T19:23:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Should You Buy Netflix Stock Before July 16? Here's My Honest Answer",
-                "desc": "The streaming stock has been in a funk for nearly a year. What's going on?",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878434%2Fthe-netflix-logo-superimposed-over-a-person-walking-through-the-companys-lobby.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/10/should-you-buy-netflix-stock-before-july-16-heres/",
-                "source": "The Motley Fool",
-                "date": "2026-07-10T19:23:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Nigeria’s tax reforms are forcing a structural rebirth in real estate",
-                "desc": "As Nigeria moves into full enforcement of the Nigeria Tax Act 2025, real estate and construction sector voices are beginning",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Screenshot_20260710-1631072.jpg",
-                "url": "https://businessday.ng/bd-weekender/article/how-nigerias-tax-reforms-are-forcing-a-structural-rebirth-in-real-estate-oluwabusuyi-fakanlu/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-10T19:21:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of IPO",
-                "desc": "With Fidji Simo's official departure from OpenAI due to a chronic medical issue, Greg Brockman's role has become clearer.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108303095-17780855902026-05-06t163753z_1896314310_rc2s3lasm42k_rtrmadp_0_musk-openai-court.jpeg?v=1778085665&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
-                "source": "CNBC",
-                "date": "2026-07-10T19:12:46Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Dragan Systems Pocket Winch Review",
+                "desc": "Dragan Systems has created an ultralight, compact come-along–style solution capable of pulling 1 ton and salvaging your next adventure.",
+                "image": "https://i0.wp.com/s3.amazonaws.com/images.gearjunkie.com/uploads/2026/07/Pocket-Winch-kit-on-tailgate.jpg?ssl=1",
+                "url": "https://gearjunkie.com/motors/dragan-systems-pocket-winch-review",
+                "source": "GearJunkie",
+                "date": "2026-07-10T22:56:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Don't miss these 140+ best Prime Day deals in Australia on day 5, handpicked by tech experts - up to 76% off headphones, vacuums, air fryers and more",
+                "desc": "Kindles, Apple, Samsung, Bose, Sony, Dyson and more at record-low prices",
+                "image": "https://cdn.mos.cms.futurecdn.net/VjTxbGe2mHDqt56uwSariP-1920-80.jpg",
+                "url": "https://www.techradar.com/live/news/amazon-prime-day-2026-australia-weekend-deals",
+                "source": "TechRadar",
+                "date": "2026-07-10T22:46:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Research Tip Sheet: Cedars-Sinai Heart, Aging and Cancer Advances",
                 "desc": "The latest advances from Cedars-Sinai are highlighted in this month's tip sheet.",
@@ -1246,27 +1264,27 @@
                 "source": "CNET",
                 "date": "2026-07-10T18:35:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google updates Android backups with message controls and direct document saving",
-                "desc": "Keep an eye on new storage limits",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/pixel-6-android-17.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/google-updates-android-backups-with-message-controls-and-direct-document-saving/",
-                "source": "Android Police",
-                "date": "2026-07-10T18:31:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data just proved that physical PlayStation games can be up to 90% cheaper than buying them digitally",
-                "desc": "Sony ends physical PlayStation games in 2028, removing disc pricing that routinely beats digital by 40–75% — here is what that costs you.",
-                "image": "https://www.gadgetreview.com/wp-content/uploads/d1a4563e-4fc6-49ab-8f5d-89cf8ddcad93.jpg",
-                "url": "https://www.gadgetreview.com/data-just-proved-that-physical-playstation-games-can-be-up-to-90-cheaper-than-buying-them-digitally",
-                "source": "Gadget Review",
-                "date": "2026-07-10T18:25:11Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Modi, first PM in NZ in 40 years, to capitalise on FTA, boost ties",
+                "desc": "India News: NEW DELHI: PM Narendra Modi arrived in Auckland Friday for the first visit by any Indian PM to New Zealand in 40 years, looking to capitalise on the l.",
+                "image": "https://static.toiimg.com/thumb/msid-132322789,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/modi-first-pm-in-nz-in-40-years-to-capitalise-on-fta-boost-ties/articleshow/132322786.cms",
+                "source": "The Times of India",
+                "date": "2026-07-10T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apply Now for the WHO Health Emergencies Internship 2026 in Geneva: Paid 24",
+                "desc": "The World Health Organization (WHO) has opened applications for its Health Emergencies Internship 2026, offering students and recent graduates the opportunity",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/11420bdd-94a3-49cb-908a-52388ba00d1c.jpeg",
+                "url": "https://www.globalsouthopportunities.com/2026/07/10/who-29/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-10T22:53:40Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "King Charles understood to have met Prince Harry’s children at Highgrove",
                 "desc": "Duke and Duchess of Sussex, Prince Archie and Princess Lilibet believed to have had private reunion with king",
@@ -1878,26 +1896,8 @@
                 "source": "Vellum Kenya",
                 "date": "2026-07-10T18:26:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Double trouble for Caracas",
-                "desc": "Venezuela's twin earthquakes in late June left crude and natural gas production infrastructure largely intact, despite killing thousands, even as they shifted the political ground in ways that are still emerging.",
-                "image": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/images/14-generic-hero-banners/herobanner_1600x530_generic-c.jpg?h=530&iar=0&w=1600&rev=2cf023b4e0484c1bb091b9f72dbf7771&hash=72DBDFEBEF6EE62E751AB5DD2221C77E",
-                "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2850911-double-trouble-for-caracas",
-                "source": "Argus Media",
-                "date": "2026-07-10T18:26:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Charles hosted Prince Harry and family for first time in years as they try to repair a family rift",
-                "desc": "King Charles III has hosted Prince Harry and met with his family for the first time in years. The two are trying to repair a rift that has persisted since Charles' youngest son and wife quit royal life and moved to America six years ago.",
-                "image": "https://dims.apnews.com/dims4/default/f5f3afa/2147483647/strip/true/crop/4076x2716+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F41%2Fd044759e065d229fc18772e03386%2F4efbbaa7e66f48919e6dd1b8694a1140",
-                "url": "https://apnews.com/article/britain-royals-charles-harry-family-hosted-ff016f33b49527efbcf0242449c6daa3",
-                "source": "AP News",
-                "date": "2026-07-10T18:25:32Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T10:45:58.785538Z"
+    "lastGlobalSync": "2026-07-11T11:00:18.187815Z"
 }
