@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+                "desc": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+                "image": "https://techcrunch.com/wp-content/uploads/2021/12/quantum_computer.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+                "source": "TechCrunch",
+                "date": "2026-07-10T15:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Legaltech Rundown: LexisNexis Upgrades Lexis+ With Protégé for In-House Teams, Luminance Creates Advisory Board, and More",
+                "desc": "An update on the legal tech market’s past week, from product launches to new partnerships.",
+                "image": "https://images.law.com/brightspot/ad/04/d0d09a1e441195686150e879cb57/updating-files-jpg767x505.jpg",
+                "url": "https://www.law.com/legaltechnews/2026/07/10/legaltech-rundown-lexisnexis-upgrades-lexis-with-protg-for-in-house-teams-luminance-creates-advisory-board-and-more/?slreturn=20260710151825",
+                "source": "Law.com",
+                "date": "2026-07-10T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Enclosed mobility scooters not allowed on sidewalks or streets: police",
+                "desc": "These vehicles are significantly different from traditional medical mobility devices and cannot be operated on roadways, in bicycle lanes, or on sidewalks in the Sault",
+                "image": "https://www.vmcdn.ca/f/files/sootoday/images/police/enclosedscooter6.jpg;w=1200;h=800;mode=crop",
+                "url": "https://www.sootoday.com/city-police-beat/enclosed-mobility-scooters-not-allowed-on-sidewalks-or-streets-police-12533359",
+                "source": "SooToday.com",
+                "date": "2026-07-10T14:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gigbanc to wind down operations as funding challenges persist for Nigerian fintechs",
+                "desc": "Gigbanc has announced plans to wind down its operations as it becomes the latest casualty of the difficult fundraising environment confronting Africa's startup ecosystem despite signs of a gradual recovery in venture capital investment.",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Gigbanc.jpg",
+                "url": "https://businessday.ng/technology/article/gigbanc-to-wind-down-operations-as-funding-challenges-persist-for-nigerian-fintechs/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-10T14:55:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's why banks and e-wallets waived or lowered transfer fees",
+                "desc": "There has been much joy and celebration as banks and e-wallets have started waiving transfer fees for InstaPay or PESONet transfers (online money transfers). If...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/10/115246.webp",
+                "url": "https://mb.com.ph/2026/07/10/heres-why-banks-and-e-wallets-waived-or-lowered-transfer-fees",
+                "source": "Manila Bulletin",
+                "date": "2026-07-10T14:54:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Too Good To Be True’: Many Parents Are Wary Of Opening A Trump Account. Here’s Why Financial Experts Say They Should.",
+                "desc": "“The amount of grift from this administration is off the charts,” one parent said of their hesitancy.",
+                "image": "https://img.huffingtonpost.com/asset/6a4eb0291a00005cd5580836.jpeg?cache=wgjTvlop69&ops=500_281%2Cscalefit_1200_630",
+                "url": "https://www.huffpost.com/entry/parents-wary-trump-account-advice_n_6a4bac84e4b0c806bbeeb588",
+                "source": "HuffPost",
+                "date": "2026-07-10T14:52:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "You Can Now Make AI Content Using Public Instagram Accounts-And It’s Rattling Hollywood And Cybersecurity Experts",
+                "desc": "The SAG-AFTRA Hollywood union urged its members to opt out of Instagram’s Muse Image AI tool to protect their likenesses.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a51065bb0f525ee9775c271/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/conormurray/2026/07/10/instagrams-new-ai-update-faces-blowback-from-hollywood-cybersecurity-companies/",
+                "source": "Forbes",
+                "date": "2026-07-10T14:49:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Greg Abel Built a $31 Billion Berkshire Stake in Alphabet",
+                "desc": "Alphabet has become a key holding in a very short time.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877766%2Fe79841aa3f67fac5f80e616a74c525fcc244a48e.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/10/greg-abel-built-a-31-billion-stake-in-alphabet/",
+                "source": "The Motley Fool",
+                "date": "2026-07-10T14:48:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. Home Improvement Loan ABS Index: June 2026",
+                "desc": "KBRA is a leading Nationally Recognized Statistical Ratings Organization. Find the most relevant and up-to-date credit ratings research here! Learn more!",
+                "image": "https://kbra-static-assets.azureedge.net/assets/kbra-meta-thumb.png",
+                "url": "https://www.kbra.com/publications/qhxsJyRf/u-s-home-improvement-loan-abs-index-june-2026?format=web",
+                "source": "KBRA",
+                "date": "2026-07-10T14:48:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kraken to launch agentic trading as crypto exchanges evolve beyond crypto",
+                "desc": "Kraken is preparing to relaunch its app with agentic trading at its core, the company told CNBC exclusively.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107171671-1672224352332-gettyimages-1233101223-CRYPTO_MARKET.jpeg?v=1776195916&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/10/kraken-to-launch-agentic-trading-as-crypto-exchanges-evolve-beyond-crypto.html",
+                "source": "CNBC",
+                "date": "2026-07-10T14:47:51Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Toronto opens one of City's largest pickleball facilities in east end",
                 "desc": "The city now offers more than 300 public pickleball courts across 108 outdoor summer locations, plus 49 indoor sites offering drop‑in play.",
                 "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/10/iStock-1456051989.jpg",
@@ -542,99 +632,99 @@
                 "source": "Yle",
                 "date": "2026-07-10T11:57:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How to opt out of new Instagram feature amid consent and scam concerns",
-                "desc": "Muse Image has raised concerns about consent and fears that it could be abused by cyber criminals",
-                "image": "https://static.the-independent.com/2026/07/10/11/51/GettyImages-2254198848.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.the-independent.com/tech/instagram-update-ai-edit-opt-out-muse-image-b3012455.html",
-                "source": "The Independent",
-                "date": "2026-07-10T11:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 12%",
-                "desc": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108155265-1749135108552-CRCL-OB-20250605-CC-PRESS-35.jpg?v=1749135801&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-                "source": "CNBC",
-                "date": "2026-07-10T11:55:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU Warns Meta To Remove Facebook, Instagram’s ‘Addictive’ Features",
-                "desc": "The European Union has warned Meta to overhaul what it describes as the \"addictive design\" of Facebook and Instagram or risk a hefty financial penalty for",
-                "image": "https://leadership.ng/wp-content/uploads/2026/07/0x0.webp",
-                "url": "https://leadership.ng/eu-warns-meta-to-remove-facebook-instagrams-addictive-features/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-07-10T11:55:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Research Roundup: A David Rosenberg ETF recommendation that makes perfect sense",
-                "desc": "Daily roundup of research and analysis from The Globe and Mail’s market strategist Scott Barlow",
-                "image": "https://www.theglobeandmail.com/resizer/v2/HDTWDE7MP5DSLE7Q74UBMPB5OU.JPG?auth=3382bd4c183f249be543ad025f72314778b1b326108e519761d4cd5749d2c9ad&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-barlows-research-roundup-an-etf-recommendation-that-makes-perfect/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-10T11:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Gives Advisors More Capabilities, Doesn't Cut Out Human Engagement - Survey",
-                "desc": "FamilyWealthReport - Exclusive Intelligence for the family office community",
-                "image": "https://wealthbriefing.com/cms/images/app/Clients/facequestionmark.jpg",
-                "url": "https://www.familywealthreport.com/article.php/AI-Gives-Advisors-More-Capabilities%2C-Doesn%27t-Cut-Out-Human-Engagement-%E2%80%93-Survey?id=208214",
-                "source": "Family Wealth Report",
-                "date": "2026-07-10T11:54:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The seven best-selling EVs from Australia's record breaking month of electric car sales",
-                "desc": "For the first time, Australia saw 7 EVs reach 1,000 sales in a single month, as China took centre stage and just three Japanese EVs made it into the top 50 electrics.",
-                "image": "https://thedriven.io/wp-content/uploads/2026/01/20251114151252298701-original-2.jpeg",
-                "url": "https://thedriven.io/2026/07/10/the-seven-best-selling-evs-from-australias-record-breaking-month-of-electric-car-sales/",
-                "source": "The Driven IO",
-                "date": "2026-07-10T02:58:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Claim woman's death caused by Telstra outage is 'incorrect', SA Police say",
-                "desc": "Telstra says it has no record of Triple Zero (000) calls made from phone numbers associated with the address of a person who later died in a South Australian regional hospital on Wednesday.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/02106585136de76b22473dc6461f1574?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-10/telstra-shares-new-details-of-possible-outage-death/106900624",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-10T02:57:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Telstra CEO ‘deeply sorry’ for outage and admits risk of time-keeping failure was known",
-                "desc": "Vicki Brady grilled at first public appearance since returning from overseas as SA police say call to triple zero failed before death",
-                "image": "https://i.guim.co.uk/img/media/9039d1c8b61e83484558d6bcfd2358445ef5303b/238_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=152088f0ff542bb61a7538d507fd818c",
-                "url": "https://www.theguardian.com/business/2026/jul/10/telstra-ceo-deeply-sorry-for-outage-and-admits-risk-of-time-keeping-failure-was-known-ntwnfb",
-                "source": "The Guardian",
-                "date": "2026-07-10T02:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ringgit to close the year at 3.90 as external factors trump election jitters, says BIMB",
-                "desc": "KUALA LUMPUR (July 10): The Malaysian ringgit is likely to appreciate and close the year at around 3.90 versus the greenback, thanks to positive shifts in external sector drivers, BIMB Securities Research said.",
-                "image": "https://assets.theedgemarkets.com/RM100-ringgit-notes-by-SamsulSaid_APP_Bloomberg_3.jpg",
-                "url": "https://theedgemalaysia.com/node/810143",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-10T02:53:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aussie tea giant T2 launches ‘T2 Go’ concept stores",
-                "desc": "A major shake-up is underway as cult brand T2 introduces a bold concept designed to capture the lucrative morning commuter market.",
-                "image": "https://www.realcommercial.com.au/news/wp-content/uploads/2026/07/capi_ef5aa856e9e5dc66a0d958b60209f23b_a77885a4d0d56819d316062daa83c6ce-768x576.jpeg",
-                "url": "https://www.realcommercial.com.au/news/aussie-tea-giant-t2-launches-t2-go-concept-stores",
-                "source": "realcommercial.com.au",
-                "date": "2026-07-10T02:46:24Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Pokémon TCG: Pitch Black Sealed Boosters In Stock",
+                "desc": "Pokémon TCG: Pitch Black Sealed Booster Bundles preorders are back in stock at Amazon, and while it's not at MSRP, they're still listed for way under market price compared to resale sites like TCGplayer and eBay.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/10/pitch-black-booster-deal-ign-3-1783682684311.png?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/pokemon-tcg-pitch-black-booster-bundle-preorders-are-back-in-stock-and-under-market-price-amazon",
+                "source": "IGN",
+                "date": "2026-07-10T15:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iRacing’s standalone IndyCar game now has a name and launch window",
+                "desc": "IndyCar Racing The Game is scheduled to arrive in early 2027",
+                "image": "https://cdn-4.motorsport.com/images/amp/6n7AZrw0/s6/indycar-the-game-1.jpg",
+                "url": "https://www.motorsport.com/indycar/news/iracings-standalone-indycar-game-now-has-a-name-and-launch-window/10837854/",
+                "source": "Motorsport.com",
+                "date": "2026-07-10T15:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Internet Is Going Crazy For This Early 2000s Activision Surfing Game",
+                "desc": "The people yearn for Kelly Slater's Pro Surfer - If you told me I'd be waking up to an outpouring of love for Activision and Treyarch's Kelly Slater's Pro Su...",
+                "image": "https://images.timeextension.com/d88de7d650b7e/large.jpg",
+                "url": "https://www.timeextension.com/news/2026/07/random-the-internet-is-going-crazy-for-this-early-2000s-activision-surfing-game",
+                "source": "Time Extension",
+                "date": "2026-07-10T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pokémon GO fans take over Times Square to celebrate revolutionary game's 10th anniversary",
+                "desc": "Pokémon GO fans take over Times Square to celebrate revolutionary game's 10th anniversary. Fans of Pokémon GO celebrated the beloved augmented reality game’s 10th anniversary with a takeover of New Yo...",
+                "image": "https://s.yimg.com/lo/mysterio/api/bf4a67de340dc6623307dfacacf9adf1fb531b77840ba486ae7c605182f38ace/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_video_962%2F98b68e4b3dd96573bbf66beb307efb86",
+                "url": "https://www.yahoo.com/news/videos/pok-mon-fans-over-times-150000747.html",
+                "source": "Yahoo",
+                "date": "2026-07-10T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI's Atlas browser doesn't make it to its first birthday",
+                "desc": "Standalone experiment killed after less than 12 months as model maker redirects agentic ambitions towards workplace productivity",
+                "image": "https://image.theregister.com/5269830.jpg?imageId=5269830&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818",
+                "source": "The Register",
+                "date": "2026-07-10T14:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Intelligence in Apple Home will require the $10-a-month iCloud Plus plan.",
+                "desc": "As spotted by MacRumors, to get the new AI-powered camera features — text descriptions, searchable camera clips, and noteworthy clips — you’ll need Apple’s 2TB plan or higher.\nHomeKit Secure Video has always required the base iCloud plan for recording, but now you may need to upgrade to get these smarter alerts. I’ve been testing them in the beta, and they’re a big improvement.\n[Link: Apple’s smart home camera service is starting to impress me | https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video | The Verge]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+                "url": "https://www.theverge.com/tech/963974/apple-intelligence-in-apple-home-will-require-the-10-a-month-icloud-plus-plan",
+                "source": "The Verge",
+                "date": "2026-07-10T14:58:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Phishing Campaign and RMM Installation",
+                "desc": "A classic attack chain combining social engineering with the download of a payload, followed by its execution by the user.",
+                "image": "https://www.stormshield.com/wp-content/uploads/shutterstock-2801000533-scaled.jpg",
+                "url": "https://www.stormshield.com/news/cti-phishing-campaign-rmm-installation/",
+                "source": "Stormshield",
+                "date": "2026-07-10T14:58:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"A Mobile Headon: Body Cam Shooter Is Coming to PC",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/091304-989de59f/GamePress_News_1.1.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=f541e370b5dfb6400ae99a48fac11ae4cf190be0f2d5bf0bb65c82443b247296",
+                "url": "https://www.gamespress.com/pl/A-Mobile-Headon-Body-Cam-Shooter-Is-Coming-to-PC---Wishlist-Now-on-Ste",
+                "source": "Games Press",
+                "date": "2026-07-10T14:57:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Steam Now Shows Steam Machine and SteamOS Verified Ratings",
+                "desc": "Following the launch of the Steam Machine, Valve has finally rolled out its compatibility rating system for its living room gaming experience in Steam, with a new UI that shows both Steam Machine and SteamOS compatibility ratings. The new UI is only available in SteamOS in the Steam Deck client...",
+                "image": "https://www.techpowerup.com/img/HCcLPPaGotkoMeAh.jpg",
+                "url": "https://www.techpowerup.com/350662/steam-now-shows-steam-machine-and-steamos-verified-ratings",
+                "source": "TechPowerUp",
+                "date": "2026-07-10T14:56:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation is getting community noted for its \"poor digital ecosystem\" as fans continue to ask about discs",
+                "desc": "As gamers continue to complain about PlayStation on social media, the company's official X account is being flooded with community notes.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2025/08/PlayStation-5-Pro-console-close-up-of-PS-logo.jpg",
+                "url": "https://www.pcguide.com/news/playstation-is-getting-community-noted-about-its-poor-digital-ecosystem-as-fans-continue-to-ask-about-discs/",
+                "source": "PC Guide",
+                "date": "2026-07-10T14:56:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Seagate Quietly Cuts the 5TB Portable HDD, Now Costing Only Slightly More Than the 1TB Version",
                 "desc": "If you're slowly running out of hard drive space, this deal is one you won't want to pass up.",
@@ -1174,99 +1264,99 @@
                 "source": "AppleInsider",
                 "date": "2026-07-10T12:25:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Majority of PS5 users 'seriously considering' PC exodus thanks to physical media cull",
-                "desc": "The writing is on the wall for PlayStation",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt9a348875ae3fd3a1/6a50cc530d8be6729c0fa683/playstation-5-and-ps-portal.jpg",
-                "url": "https://www.gamingbible.com/news/platform/playstation/ps5-users-considering-pc-physical-media-cull-835931-20260710",
-                "source": "GAMINGbible",
-                "date": "2026-07-10T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Summer Sale 2026 'Teaser' Now Live, 300+ Games Discounted",
-                "desc": "Game Pass members get the deals a few days early! - It's time to kick-off the Xbox Summer Sale 2026! This year's promotion has begun with a few days of exclu...",
-                "image": "https://images.purexbox.com/1a1cb1bc421a6/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/07/xbox-summer-sale-2026-teaser-now-live-300plus-games-discounted",
-                "source": "Pure Xbox",
-                "date": "2026-07-10T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Palworld Finally Launches in Full Today on PS5, and the Patch Notes are Colossal",
-                "desc": "A world of pals - After a prolonged period of time in early access development, Palworld is ready for its full, 1.0 launch at last. Arriving today, 10th Jul...",
-                "image": "https://images.pushsquare.com/2a45400ec07f7/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/palworld-finally-launches-in-full-today-on-ps5-and-the-patch-notes-are-colossal",
-                "source": "Push Square",
-                "date": "2026-07-10T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Are Makeup Wipes Bad for Your Skin? Dermatologists Weigh In",
-                "desc": "Makeup wipes are quick and easy, but are they actually cleaning your skin? Dermatologists explain the risks and share gentler, more effective alternatives.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260707-fyi-makeup-wipe-mm-main-672554.jpg",
-                "url": "https://www.nbcnews.com/select/shopping/are-makeup-wipes-bad-for-your-skin-rcna353527",
-                "source": "NBC News",
-                "date": "2026-07-10T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Prompting Fixes That Improve Output From ChatGPT And Claude",
-                "desc": "Telling ChatGPT or Claude that a task is critical does nothing to make it better at it. Here are five fixes that get you reliable output from every prompt you use.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4cc38a893918fde7214615/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/jodiecook/2026/07/10/5-prompting-fixes-that-improve-output-from-chatgpt-and-claude/",
-                "source": "Forbes",
-                "date": "2026-07-10T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Pinarello Dogma X is the \"ultimate\" endurance bike with an outstanding price tag",
-                "desc": "Pinarello’s new Dogma X is described as the ultimate ‘all-road’ bike, engineered for riders who live for long days in the saddle.",
-                "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/c24acf46-16c9-42e6-93b9-6428e17f3a4d/thumbnails/69166ea0-a06c-4bf2-b880-bf94c9823f14.jpeg?w=1200",
-                "url": "https://www.bikeradar.com/news/2026-pinarello-dogma-x",
-                "source": "BikeRadar",
-                "date": "2026-07-10T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vertical Media Emerges as a Powerful Audiovisual Language: Column",
-                "desc": "Microdramas and vertical media platforms are creating a powerful audiovisual language that speaks to digital native generations: Column",
-                "image": "https://variety.com/wp-content/uploads/2026/06/CT-54129_MSG.jpg?crop=0px%2C390px%2C6240px%2C3510px&resize=1000%2C563",
-                "url": "https://variety.com/2026/tv/news/vertical-media-microdramas-audiovisual-language-1236806290/",
-                "source": "Variety",
-                "date": "2026-07-10T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola Edge 70 Max launch date and key specs revealed",
-                "desc": "The phone will be powered by a Snapdragon 8 Gen 5 chipset. Leaked renders recently gave us a good look at the Motorola Edge 70 Max. Now, Motorola has...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-edge-70-max-launch-date-specs/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/motorola_edge_70_max_launch_date_and_key_specs_revealed-news-73664.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-10T11:58:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Galaxy Z Fold 8 just broke cover in a Samsung store - and the US price has leaked too",
-                "desc": "A Reddit user claims the Galaxy Z Fold 8 is already on display in a Samsung store in South Korea ahead of its official reveal.",
-                "image": "https://cdn.mos.cms.futurecdn.net/JYtVp5RFXoN5Yz3j97Ug6T-2560-80.jpg",
-                "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8-prices-leak-and-south-korea-retailer-showcase",
-                "source": "Android Central",
-                "date": "2026-07-10T11:55:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Metal Slug Rush turns the classic side-scroller into a Vampire Survivors-style shooter",
-                "desc": "Head in guns blazing into Metal Slug Rush, the newest release based on the iconic side-scrolling shooter, with Vampire Survivors-style gameplay!",
-                "image": "https://media.pocketgamer.com/artwork/na-38582-1783681265/metal-slug-rush-gameplay-keyart.png",
-                "url": "https://www.pocketgamer.com/metal-slug-rush/out-now/",
-                "source": "Pocket Gamer",
-                "date": "2026-07-10T11:55:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "NY mom Jamey Carney's alleged killer got passport back from Irish authorities",
+                "desc": "New York mom Jamey Carney's suspected murderer was able to flee Ireland after authorities returned his passport while he sought asylum.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/jamey-karney-murder-suspect-migrant-passport-comp.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/10/us-news/ny-mom-jamey-carneys-alleged-killer-got-passport-back-from-irish-authorities/",
+                "source": "New York Post",
+                "date": "2026-07-10T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rwanda and Egypt Deepen AI Cooperation with New Digital Partnership",
+                "desc": "The partnership is expected to foster knowledge exchange and closer collaboration between Rwanda and Egypt as both countries continue to invest in digital technologies and position themselves as leaders in Africa's evolving digital economy.",
+                "image": "https://techafricanews.com/wp-content/uploads/2026/07/rwanda-5.png",
+                "url": "https://techafricanews.com/2026/07/10/rwanda-and-egypt-deepen-ai-cooperation-with-new-digital-partnership/",
+                "source": "TechAfrica News",
+                "date": "2026-07-10T14:59:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Increased funding for police wellbeing - NPCC response",
+                "desc": "NPCC Chair's statement in response to government's funding announcement",
+                "image": "https://cdn.prgloo.com/media/1c8a65ba0f0d4142bed83df399eb2792.jpg?width=640&height=960",
+                "url": "https://news.npcc.police.uk/releases/increased-funding-for-police-wellbeing-npcc-response",
+                "source": "National Police Chiefs' Council (NPCC)",
+                "date": "2026-07-10T14:56:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan Releases List of 74 Countries Whose Citizens Qualify for Visa",
+                "desc": "Japan, under Prime Minister Sanae Takaichi, has confirmed a visa exemption for citizens of 74 countries and territories, allowing stays of 15, 30, or 90 days.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/f9315d584259f319.jpeg?v=1",
+                "url": "https://yen.com.gh/world/307666-japan-releases-list-74-countries-citizens-qualify-visa-free-travel/",
+                "source": "Yen News",
+                "date": "2026-07-10T14:54:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore-led resolution on protecting vital shipping lanes adopted by International Maritime Organization",
+                "desc": "The resolution was adopted at the 137th Session of the IMO Council and was co-sponsored by 30 member states, including Indonesia and Malaysia.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--mW-RWO_p--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/10/strait-of-hormuz-2.jpg?itok=xAkiM1s-",
+                "url": "https://www.channelnewsasia.com/singapore/singapore-international-maritime-organization-shipping-resolution-protect-vital-shipping-lanes-6246731",
+                "source": "CNA",
+                "date": "2026-07-10T14:52:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unclaimed airstrikes hit Iran, raising possibility of Gulf state involvement",
+                "desc": "After US completed attacks, a series of strikes targeted southern Iran; Iranian official warns UAE will 'pay the price for its cooperation with the United States'",
+                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP25322549312893.jpg",
+                "url": "https://www.timesofisrael.com/unclaimed-airstrikes-hit-iran-raising-possibility-of-gulf-state-involvement/",
+                "source": "The Times of Israel",
+                "date": "2026-07-10T14:52:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Out Of The Lab, Into The World: An Atenean’s Mission To Make Research Matter",
+                "desc": "Danika Geronimo, Ateneo Research Communications",
+                "image": "https://journal.com.ph/wp-content/uploads/2026/07/Dr-David-Peralta-825x550.jpg",
+                "url": "https://journal.com.ph/out-of-the-lab-into-the-world-an-ateneans-mission-to-make-research-matter/",
+                "source": "journal.com.ph",
+                "date": "2026-07-10T14:51:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mozambique says two nationals killed in South Africa",
+                "desc": "Mozambique said two of its citizens were killed in xenophobic unrest in South Africa, where police on Friday confirmed only that they were investigating a deadly shooting and robbery .",
+                "image": "https://cdn.modernghana.com/images/content/afp_mobs_have_gone_doortodoor_to_demand_that_foreign_nationals_l.jpg",
+                "url": "https://www.modernghana.com/news/1509540/mozambique-says-two-nationals-killed-in-south-afri.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-10T14:49:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India's Hindu nationalists take 17th-century king as new anti-Muslim symbol",
+                "desc": "A few hundred men paraded on motorcycles through the streets of Sangareddy, in the southern Indian state of Telangana, on May 29, 2026. They were supporters of the Rashtriya Swayamsevak Sangh, or RSS, the foremost organi",
+                "image": "https://cdn.modernghana.com/images/content/710202633620-m6htk8v331-capture-d-c3a9cran-2026-07-08-c3a0-16-44-11-1.jpg",
+                "url": "https://www.modernghana.com/news/1509539/indias-hindu-nationalists-take-17th-century-king.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-10T14:49:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jihadist insurgency hampers Nigeria cholera outbreak response",
+                "desc": "A cholera outbreak in jihadist-hit northeast Nigeria has killed dozens as insecurity and a lack of health infrastructure hampers the response, medical sources and local residents told AFP Friday .",
+                "image": "https://cdn.modernghana.com/images/content/afp_many_of_those_affected_by_a_cholera_outbreak_in_northeast_ni.jpg",
+                "url": "https://www.modernghana.com/news/1509557/jihadist-insurgency-hampers-nigeria-cholera-outbre.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-10T14:49:01Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Making Opportunity More Accessible in Rural Morocco",
                 "desc": "Across Morocco, thousands of young people leave rural communities each year in search of greater opportunity .",
@@ -1806,98 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-10T11:50:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New IGAD Climate Programme Targets 86,261 Ethiopians Ahead of Future Disasters",
-                "desc": "A new regional initiative will seek to help communities in Ethiopia, Somalia and Djibouti prepare for climate and conflict-related crises before they occur,",
-                "image": "https://birrmetrics.com/wp-content/uploads/2026/07/Untitled-design-27.jpg",
-                "url": "https://birrmetrics.com/new-igad-climate-programme-targets-86261-ethiopians-ahead-of-future-disasters/",
-                "source": "Birr Metrics",
-                "date": "2026-07-10T11:47:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASEAN Warns of Rising Haze Risk as Hotspots Surge 86%",
-                "desc": "ASEAN environment ministers have warned that the risk of transboundary haze could worsen in the coming months after hotspot numbers across",
-                "image": "https://thediplomaticinsight.com/wp-content/uploads/as-7.jpg",
-                "url": "https://thediplomaticinsight.com/asean-warns-of-rising-haze-risk-as-hotspots-surge-86/",
-                "source": "The Diplomatic Insight",
-                "date": "2026-07-10T11:46:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spain wildfire latest: At least 12 dead as crews battle to contain blaze",
-                "desc": "A local official says early indications suggest four of the victims of the fire in Los Gallardos, Almería, are British.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f826/live/b3050720-7c38-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.co.uk/news/live/cx2vz8lyql1t",
-                "source": "BBC",
-                "date": "2026-07-10T11:45:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US-Iran war: Will peace talks resume, and when?",
-                "desc": "While Trump said the MoU with Iran is ‘over’, US officials have reaffirmed Washington’s commitment to continue talks.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a50b9fe52e0-1783675390.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when",
-                "source": "Al Jazeera",
-                "date": "2026-07-10T11:45:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unclaimed air strikes target Iran after U.S. ends its attacks",
-                "desc": "Strikes across southern Iran raise questions of who else may be targeting the Islamic Republic",
-                "image": "https://www.theglobeandmail.com/resizer/v2/34GZRDDRGBHFJIAENAAVQGWKFY.jpg?auth=cfd05c8d148de5cd9ac9d16c7d21e51cbbac90bbdc02a49c8762d02ebbe8a735&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-us-iran-war-strikes-ceasefire/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-10T11:44:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andy Burnham set to become next UK PM, seventh in 10 years",
-                "desc": "UK News: Andy Burnham is on the brink of becoming Britain's next prime minister after securing overwhelming backing from Labour MPs to replace Keir Starmer as .",
-                "image": "https://static.toiimg.com/thumb/msid-132301358,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/uk/andy-burnham-set-to-become-next-uk-pm-seventh-in-10-years/articleshow/132301362.cms",
-                "source": "The Times of India",
-                "date": "2026-07-10T02:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prof. Adeyeye honoured at the 16th African Business Leadership Awards in London",
-                "desc": "...for transforming Nigeria's pharmaceutical regulatory system into a global benchmark*. IN a ceremony that brought together heads of state, ministers, parliamentarians, and Africa's most distinguished business and public sector leaders, *Prof. Mojisola Christianah Adeyeye, FAS, Director General and Chief Executive Officer of the National Agency for Food and Drug Administration and Control (NAFDAC)*, was presented",
-                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/image-312.png",
-                "url": "https://realnewsmagazine.net/prof-adeyeye-honoured-at-the-16th-african-business-leadership-awards-in-london/",
-                "source": "Realnews Magazine",
-                "date": "2026-07-10T02:31:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Masuku emerges as frontrunner for Joburg mayor alongside Morero, Chikane after marathon Luthuli House interviews",
-                "desc": "The interviews are part of a process where mayoral candidates for metropolitan municipalities are grilled by the ANC’s highest sitting officials",
-                "image": "https://www.sundaytimes.timeslive.co.za/resizer/v2/4SFSE2AUFNA6NOQ3S46QUJOFGE.jpg?smart=true&auth=3f1ca95e35a6624c7a875b5574a833e1dd055da1c1787713ee0a5c04981d44e0&width=1200&height=630",
-                "url": "https://www.sundaytimes.timeslive.co.za/politics/2026-07-10-masuku-emerges-as-frontrunner-for-joburg-mayor-alongside-morero-chikane-after-marathon-luthuli-house-interviews/",
-                "source": "TimesLIVE",
-                "date": "2026-07-10T02:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Masuku emerges as frontrunner for Joburg mayor alongside Morero, Chikane after marathon Luthuli House interviews",
-                "desc": "The interviews are part of a process where mayoral candidates for metropolitan municipalities are grilled by the ANC’s highest sitting officials",
-                "image": "https://www.timeslive.co.za/resizer/v2/4SFSE2AUFNA6NOQ3S46QUJOFGE.jpg?smart=true&auth=3f1ca95e35a6624c7a875b5574a833e1dd055da1c1787713ee0a5c04981d44e0&width=1200&height=630",
-                "url": "https://www.timeslive.co.za/politics/2026-07-10-masuku-emerges-as-frontrunner-for-joburg-mayor-alongside-morero-chikane-after-marathon-luthuli-house-interviews/",
-                "source": "TimesLIVE",
-                "date": "2026-07-10T02:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "London Erupts In Chaos After Morocco's World Cup Exit; Riot Police Deployed, Officer Injured Amid Violent Clashes",
-                "desc": "One officer was injured, and police are investigating the disturbances, which raise concerns over crowd management during major tournaments. Paris remained peaceful despite fears of unrest.",
-                "image": "https://img.republicworld.com/all_images/2026/07/london-erupts-in-chaos-after-morocco-s-world-cup-exit-riot-police-deployed-officer-injured-amid-violent-clashes-1783650497998-1280x720.webp",
-                "url": "https://www.republicworld.com/world-news/london-erupts-in-chaos-after-morocco-s-world-cup-exit-riot-police-deployed-officer-injured-amid-violent-clashes-2026-07-10-131882",
-                "source": "Republic World",
-                "date": "2026-07-10T02:28:23Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T02:40:18.891357Z"
+    "lastGlobalSync": "2026-07-11T03:00:18.049855Z"
 }
