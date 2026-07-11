@@ -4,6 +4,51 @@
     "en": {
         "business": [
             {
+                "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+                "desc": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
+                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+                "source": "The New York Times",
+                "date": "2026-07-10T21:08:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet ‘Freedom Fuel Network’ stations, a new chain with cheaper gas and mysterious origins",
+                "desc": "Freedom Fuel Network sells gasoline at prices well below the average, but the chain has revealed little about itself.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284668777-e1783717070290.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/10/freedom-fuel-network-stations-cheap-gas-donald-trump-white-house-pennsylvania-new-jersey/",
+                "source": "Fortune",
+                "date": "2026-07-10T21:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "hour journey home after Telstra outage caused train shutdown",
+                "desc": "A bus trip that should have taken only 13 hours turned into a 32-hour interstate marathon for a Torquay grandmother due to this week's Telstra outage, while there is still no date for when Victorian passengers can claim compensation from V/Line.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/d4c095074f2f815fedd1a0139f2a56a7?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=1361&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-11/vline-train-shutdown-long-journey-home/106901924",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-10T21:05:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Okta (OKTA) Faces A Valuation Test After Russell Growth Index Removals",
+                "desc": "Index removals put Okta stock in focus\nOkta (OKTA) has been dropped from several Russell growth benchmarks, a shift that can prompt index tracking funds to rebalance and adjust positions, putting short term attention on the stock.\nFor you as an investor, the key question is how much of this move reflects mechanical index flows versus changing views on Okta's fundamentals and longer term role in identity and access management.\nSee our latest analysis for Okta.\nDespite the index removals,...",
+                "image": "https://images.simplywall.st/asset/industry/8030001-choice2-main-header/1585186766184",
+                "url": "https://simplywall.st/stocks/us/software/nasdaq-okta/okta/news/okta-okta-faces-a-valuation-test-after-russell-growth-index",
+                "source": "simplywall.st",
+                "date": "2026-07-10T21:03:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gas for Africa, NNPC launch Nigeria gas, power infrastructure map",
+                "desc": "The Gas for Africa programme, in partnership with the Nigerian National Petroleum Company (NNPC) Limited, has unveiled the Nigeria gas & power infrastructure map 2026.",
+                "image": "https://www.thecable.ng/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-10-at-9.54.35-PM-2026-07-10-376.jpeg",
+                "url": "https://www.thecable.ng/gas-for-africa-nnpc-launch-nigeria-gas-power-infrastructure-map/",
+                "source": "TheCable",
+                "date": "2026-07-10T21:00:56Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Lufthansa Group Carriers 4Q26 Buenos Aires Service Changes",
                 "desc": "Published at 1400PDT / 2100GMT 10JUL26 Lufthansa Group in the last few days gradually filed service changes for Buenos Aires Ezeiza during the period of 24OCT26 – 11NOV26, due to Ezeiza Airport’s runway maintenance project. Planned service changes include the following. Frankfurt – Buenos Aire",
                 "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
@@ -587,54 +632,54 @@
                 "source": "Financial Times",
                 "date": "2026-07-10T18:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Intel CEO Lip-Bu Tan Warned Helium Could Choke AI Chips in June, and China's Export Ban Might Prove Him Right",
-                "desc": "Helium cools EUV lithography machines and etches wafers — the Intel CEO flagged it as an overlooked bottleneck alongside power constraints.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2025/03/Intel-CEO-Tan-Day1-1-1920x1281.jpg",
-                "url": "https://wccftech.com/intel-ceo-lip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
-                "source": "Wccftech",
-                "date": "2026-07-10T18:27:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria, Ghana, Côte d'Ivoire Unite to End Raw Cocoa Exports",
-                "desc": "Nigeria, Ghana, Côte d'Ivoire, and Cameroon form an alliance to end raw cocoa exports, boosting local processing and strengthening Africa's global market p",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/Cocoa_1783707537.webp",
-                "url": "https://punchng.com/nigeria-ghana-cote-divoire-cameroon-unite-to-end-raw-cocoa-exports/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-10T18:27:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How a silver and gold coin worth $10 cost one Canterbury family their home",
-                "desc": "Attempt to pay off rates bill leads to forced sale of their property., All things property, under OneRoof",
-                "image": "https://s.oneroof.co.nz/image/d1/e4/d1e485b7d5e8926ac0bce4edef04bf77.jpg?x-oss-process=image/quality,q_80",
-                "url": "https://www.oneroof.co.nz/news/how-a-silver-and-gold-coin-worth-10-cost-one-canterbury-family-their-home-49840",
-                "source": "OneRoof",
-                "date": "2026-07-10T18:25:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PowerBall and PowerBall Xtra results: Friday, 10 July 2026 [WATCH]",
-                "desc": "R24 million in jackpots are up for grabs! Here are your PowerBall and PowerBall Xtra results for 10 July 2026.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/PowerBall-results-Friday-2026-2.jpg",
-                "url": "https://www.citizen.co.za/lotto/powerball-and-powerball-xtra-results-friday-10-july-2026-watch/",
-                "source": "The Citizen",
-                "date": "2026-07-10T18:23:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Peapack Private Appoints Paul Kotronis as Senior Managing Director, Commercial Real Estate",
-                "desc": "Peapack Private Appoints Paul Kotronis as Senior Managing Director, Commercial Real Estate",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1132988.jpg",
-                "url": "https://www.manilatimes.net/2026/07/11/tmt-newswire/globenewswire/peapack-private-appoints-paul-kotronis-as-senior-managing-director-commercial-real-estate/2382587",
-                "source": "The Manila Times",
-                "date": "2026-07-10T18:23:40Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Meta patents AI device that tracks your mood",
+                "desc": "‘Creepy’ patent could be used to serve ads targeted to users’ emotional vulnerabilities, privacy advocates warn",
+                "image": "https://s.yimg.com/lo/mysterio/api/79939E981BB36CCEF8450AB1C1744E98D80ADB8650DFEC6CAF7CD447B75AA0E9/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F286ee6d8fabb4cba3af07b4f9a802bba",
+                "url": "https://uk.finance.yahoo.com/news/meta-patents-mystery-ai-device-154726359.html",
+                "source": "Yahoo Finance UK",
+                "date": "2026-07-10T21:08:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Razer Found a New Way to Print Money: Cinnamoroll Gaming Headphones",
+                "desc": "There's also a Cinnamoroll-themed gaming chair, keyboard, mouse, and mouse pad.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/Razers-Kraken-Kitty-V2-BT-Cinnamoroll-Edition-1200x675.jpg",
+                "url": "https://gizmodo.com/razer-found-a-new-way-to-print-money-cinnamoroll-gaming-headphones-2000784323",
+                "source": "Gizmodo",
+                "date": "2026-07-10T21:05:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Brings GPT-Live to ChatGPT Voice",
+                "desc": "OpenAI has launched GPT-Live, a new voice model system that makes ChatGPT Voice more natural, responsive, and capable of deeper AI tasks.",
+                "image": "https://cdomagazinecms.wpenginepowered.com/wp-content/uploads/2026/07/emiliano-vittoriosi-fvxNerA8uk0-unsplash-scaled.jpg",
+                "url": "https://www.cdomagazine.tech/aiml/openai-brings-gpt-live-to-chatgpt-voice",
+                "source": "CDO Magazine",
+                "date": "2026-07-10T21:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Insta360's Next Action Cam Could Be a Real GoPro Competitor",
+                "desc": "The new X6 360 camera has leaked.",
+                "image": "https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-05-1200x675.jpg",
+                "url": "https://gizmodo.com/insta360s-next-action-cam-could-be-a-real-gopro-competitor-2000784303",
+                "source": "Gizmodo",
+                "date": "2026-07-10T21:00:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sena Debuts 60X Headset With Joystick Controls & Wireless Charging",
+                "desc": "Sena has added a new flagship intercom to its 60 Series lineup with the introduction of the 60X, a communication system built around a redesigned interface, updated mounting hardware, and several usability improvements aimed at making day‑to‑day operation more intuitive.  The unit centers on a new glove-friendly joystick controller and introduces Sena’s first-ever customizable button […]",
+                "image": "https://www.advpulse.com/wp-content/uploads/2026/07/sena-60x-motorcycle-intercom-5.jpg",
+                "url": "https://www.advpulse.com/adv-news/sena-debuts-60x-headset-with-joystick-controls-wireless-charging/",
+                "source": "ADV Pulse",
+                "date": "2026-07-10T21:00:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Crank Up the Savings With JBL's Bar 1000MK2 Soundbar, Now at Its Lowest Price Ever",
                 "desc": "Don't miss out on almost 40% off this premium soundbar system.",
@@ -1219,54 +1264,36 @@
                 "source": "The Irish News",
                 "date": "2026-07-10T17:18:44Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cyberpunk 2077 Fans Say the Game Still Has More Than Enough Players to Justify a Second Expansion",
-                "desc": "Cyberpunk 2077 is having a moment, with impressive player numbers on Steam fueled by a recent sale, hype for upcoming Netflix anime Cyberpunk: Edgerunners 2 and its collaboration with Wuthering Waves. And while Cyberpunk 2077 is a known quantity at this point, and CD Projekt has told fans not to expect any more DLC, fans are calling on the developer to change its mind and release more DLC — just like The Witcher 3 is getting.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/10/ss-8640d9db74f7cad714f6ecfb0e1aceaa3f887e58-1920x1080-1783703554045.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/id-take-it-in-a-second-cyberpunk-2077-player-resurgence-has-fans-calling-on-cd-projekt-to-change-its-mind-and-release-more-dlc",
-                "source": "IGN",
-                "date": "2026-07-10T17:12:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
-                "desc": "Open source recreation costs a fraction of the original and may even work with Twiggy drives",
-                "image": "https://image.theregister.com/1684104.jpg?imageId=1684104&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/personal-tech/2026/07/10/lisafpga-brings-apples-magnificent-misfire-back-in-programmable-logic/5269951",
-                "source": "The Register",
-                "date": "2026-07-10T17:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Deals of the Day: Turn Up the Tunes With Almost 50% Off Soundcore V20i Open Earbuds",
-                "desc": "Plus, the Tapo indoor security camera is just $16 and the Bose TV speaker is almost 30% off.",
-                "image": "https://www.cnet.com/a/img/resize/51fa60a24f67560af5e7b84cf6822f913f229eb1/hub/2026/07/10/87603bd2-d491-42b1-8d4d-ac6efbc925f4/amazon-dod-710.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/amazon-deals-of-the-day-july-10-2026/",
-                "source": "CNET",
-                "date": "2026-07-10T17:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-                "desc": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/07/following.png?resize=1200,805",
-                "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-                "source": "TechCrunch",
-                "date": "2026-07-10T17:11:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "My Pixel 6 is still going strong thanks to Google's generous Android updates",
-                "desc": "Running Android 17 without the AI bloat, the Pixel 6 proves Google's long-term software support is a massive win for purists",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/pixel-6-android-17.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/pixel-6-going-strong-google-generous-android-updates/",
-                "source": "Android Police",
-                "date": "2026-07-10T17:00:11Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Minister of Foreign Affairs and African Affairs received by South African President",
+                "desc": "Pretoria (South Africa), July 10, 2026 (SPS) – The Minister of Foreign Affairs and African Affairs of the Sahrawi Republic, Mr. Mohamed Yeslem Beissat, was received today, Friday, in Pretoria by the President of South Africa, Mr. Cyril Ramaphosa, in his capacity as Special Envoy of the President of the Republic, Secretary-General of the Polisario Front, Mr. Brahim Ghali.",
+                "image": "https://www.spsrasd.info/sites/default/files/styles/social_large/public/2026-07/img_9570.jpeg?h=29234840&itok=xLRSP-Od",
+                "url": "https://www.spsrasd.info/en/2026/07/10/16634.html",
+                "source": "وكالة الأنباء الصحراوية",
+                "date": "2026-07-10T21:05:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran privately told Trump advisers \"they made a mistake\" in shooting at ships in Strait of Hormuz",
+                "desc": "The White House wants Iran to publicly acknowledge that shooting at the ships was a mistake.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/10/d975d09c-9db6-457f-9014-85e4bddc1ffe/thumbnail/1200x630/fa83a930bba05700f6467a270e66c329/gettyimages-2283273927.jpg",
+                "url": "https://www.cbsnews.com/news/iran-privately-said-made-a-mistake-in-shooting-at-ships-in-strait-of-hormuz/",
+                "source": "CBS News",
+                "date": "2026-07-10T21:04:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US demands Iran publicly state that Strait of Hormuz is open and Tehran won't attack ships anymore",
+                "desc": "WASHINGTON (AP) — The U.S. is demanding that Iran make a public statement saying the Strait of Hormuz is open and that ships crossing the vital corridor won’t be attacked anymore, senior U.S. officials said Friday, adding that internal Tehran power struggles have made it difficult to reach and keep a deal.",
+                "image": "https://s.yimg.com/lo/mysterio/api/DC91F617AAD402433A1DF2FCE50692DCCC62D05C10746A5D2CB55DE56A5336E4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcp_finance_889%2F8c6fd16aaf2eb9e572fcca8496f071c0",
+                "url": "https://ca.finance.yahoo.com/news/mysterious-airstrikes-target-iran-us-105547184.html",
+                "source": "Yahoo! Finance Canada",
+                "date": "2026-07-10T21:03:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Johor polls: What the early vote means for Malaysia",
                 "desc": "The early Johor polls will have a deeper impact on Malaysian politics and upcoming election strategies for the major coalitions compared to the 2022 edition. Read more at straitstimes.com.",
@@ -1869,35 +1896,8 @@
                 "source": "Inbox.eu",
                 "date": "2026-07-10T17:20:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump accused of trying to ‘rig’ elections after firing federal commissioners",
-                "desc": "President’s dismemberment of Election Assistance Commission called a ‘brazen attempt’ to control elections",
-                "image": "https://i.guim.co.uk/img/media/2f7f585f9f246c601ed7cfb4153678edc4dd92f1/504_0_5039_4033/master/5039.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e1c5dd76e49c4e69221b926e3e2e554",
-                "url": "https://www.theguardian.com/us-news/2026/jul/10/trump-accused-election-rig-federal-commissioners-fired",
-                "source": "The Guardian",
-                "date": "2026-07-10T17:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Modi visits New Zealand as trade deal sparks India pushback",
-                "desc": "On the agenda are trade, tourism and sport",
-                "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Modi%20in%20New%20Zealand.jpg",
-                "url": "https://www.thedailystar.net/news/world/news/modi-visits-new-zealand-trade-deal-sparks-india-pushback-4220551",
-                "source": "The Daily Star",
-                "date": "2026-07-10T17:12:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Museveni Reiterates Call for Africa’s Economic and Political Integration at NDC-U Graduation",
-                "desc": "President Yoweri Kaguta Museveni, who is also the Commander-in-Chief of the Uganda People's Defence Forces (UPDF), has renewed his call for the economic and political integration of Africa, describing it as essential for guaranteeing the continent's long-term strategic security and defence capabilities. The President made the remarks today while presiding over the graduation ceremony of …",
-                "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/NDC-gradiation-1204x835.jpg",
-                "url": "https://chimpreports.com/museveni-reiterates-call-for-africas-economic-and-political-integration-at-ndc-u-graduation/",
-                "source": "ChimpReports",
-                "date": "2026-07-10T17:12:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T09:00:16.815959Z"
+    "lastGlobalSync": "2026-07-11T09:10:39.554725Z"
 }
