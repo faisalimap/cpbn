@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Lufthansa Group Carriers 4Q26 Buenos Aires Service Changes",
+                "desc": "Published at 1400PDT / 2100GMT 10JUL26 Lufthansa Group in the last few days gradually filed service changes for Buenos Aires Ezeiza during the period of 24OCT26 – 11NOV26, due to Ezeiza Airport’s runway maintenance project. Planned service changes include the following. Frankfurt – Buenos Aire",
+                "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
+                "url": "https://www.aeroroutes.com/eng/260710-lhgnw26eze",
+                "source": "AeroRoutes",
+                "date": "2026-07-10T21:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "279 high-income earners nabbed for tax avoidance",
+                "desc": "Discover how IRAS is cracking down on high-income earners using sham arrangements to avoid paying their fair share of tax. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7be6e31dec640aff417764537e998bc0961ca405903b1a32eec3f7e39e445aef",
+                "url": "https://www.straitstimes.com/business/invest/iras-nabs-279-high-income-earners-over-sham-arrangements-to-pay-less-tax",
+                "source": "The Straits Times",
+                "date": "2026-07-10T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man's brutal realisation 13 years after moving 17,000km for the 'Australian dream'",
+                "desc": "When Andrew Stoddard first moved to Australia over a decade ago, he never imagined living as far from the city as he does today.",
+                "image": "https://s.yimg.com/lo/mysterio/api/33c947d878b238f0209bb371326975d20dbfa73b54f5a03071b239ecc61c4357/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ffamily-home_2635.jpg",
+                "url": "https://au.news.yahoo.com/mans-brutal-realisation-13-years-after-moving-17000km-for-the-australian-dream-210000006.html",
+                "source": "Yahoo News Australia",
+                "date": "2026-07-10T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s second-richest man earns $141million after blockbuster €3.3billion deal leaves his investment firm awash with cash",
+                "desc": "Johann Rupert’s investment company Reinet paid a $141 million performance fee after selling its biggest asset for €3.3 billion, leaving the group with billions of euros in cash as investors await its next move. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/aWFktkpTURBXy8zOTZkYjJmMjBmZGI5NGM1ZjkyYTJmZjc0NzFhOTA3Ny5qcGeSlQMAOM0D6M0CM5MFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/leaders/africas-second-richest-man-earns-dollar141million-after-blockbuster-euro33billion/f1vmgkz",
+                "source": "Business Insider Africa",
+                "date": "2026-07-10T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Masked household debt hardships",
+                "desc": "Malaysian household debt seems sustainable despite the high levels. Total household debt stood at 84.4% of gross domestic product (GDP) or over RM1.7 trillion as at end-March 2026, which is just slightly lower than the 84.7% of GDP at the end of last December.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4004016.jpg",
+                "url": "https://www.thestar.com.my/business/insight/2026/07/11/masked-household-debt-hardships",
+                "source": "The Star",
+                "date": "2026-07-10T20:59:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Berkshire Hathaway (BRK.B) Is Making A $10 Billion Bet On Alphabet And AI",
+                "desc": "Berkshire Hathaway (NYSE:BRK.B) is shifting its investment focus toward artificial intelligence and technology under new CEO Greg Abel.\nThe company has taken sizeable stakes in Alphabet and Apple and committed a new US$10b private investment in Alphabet.\nThis change marks a departure from Berkshire Hathaway's traditional approach and is reshaping expectations for its portfolio direction.\nBerkshire Hathaway is best known for its broad mix of operating businesses and long history of...",
+                "image": "https://images.simplywall.st/asset/company-cover/255251-main-header/1756254519057",
+                "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-brk.b/berkshire-hathaway/news/berkshire-hathaway-brkb-is-making-a-10-billion-bet-on-alphab",
+                "source": "simplywall.st",
+                "date": "2026-07-10T20:53:46Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "PSX reports record Rs3.5tr Sukuk issuance",
+                "desc": "PSX reports record Rs3.5tr Sukuk issuance",
+                "image": "https://i.tribune.com.pk/media/images/STOCK-KSE-AFP/STOCK-KSE-AFP-640x480.webp",
+                "url": "https://tribune.com.pk/story/2617607/psx-reports-record-rs35tr-sukuk-issuance",
+                "source": "The Express Tribune",
+                "date": "2026-07-10T20:52:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ontario loses 16.7K jobs in June, wiping some previous gains",
+                "desc": "New figures released by Statistics Canada revealed Ontario lost 16,700 jobs in the past month, keeping its unemployment rate steady and above the national average.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/CP176369372-e1783715453508.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11961500/ontario-job-figures-june/",
+                "source": "Global News",
+                "date": "2026-07-10T20:45:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+                "desc": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+                "image": "https://media.wired.com/photos/6a51395dba309b253cb3d458/191:100/w_1280,c_limit/GettyImages-2233062347.jpg",
+                "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+                "source": "WIRED",
+                "date": "2026-07-10T20:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Don't want someone using your Instagram pics to generate AI content? Here's what to do",
+                "desc": "Muse Image is only available in the U.S. at this time, but the announcement revealed, to the dismay of some, that Meta AI permissions are automatically turned on for users with public accounts in other countries — including Canada — and must be switched off manually in your app settings.",
+                "image": "https://i.cbc.ca/ais/0544b18d-b853-4614-9e40-54e69ed02024,1783690122021/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C350%2C6720%2C3780%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/business/meta-instagram-change-ai-settings-9.7265448",
+                "source": "CBC",
+                "date": "2026-07-10T20:42:58Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "First Nations chiefs across country 'blindsided' by pipeline announcements",
                 "desc": "First Nations chiefs countrywide are expressing concern about the lack of engagement after two pipelines were announced in Alberta, B.C. and Ontario. Two leaders say they only learned of the plans through last-minute emails and rumours.",
                 "image": "https://i.cbc.ca/ais/043ba86a-4309-4bb3-8023-77f561eb6fe8,1783714952980/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C387%2C5350%2C3009%29%3BResize%3D620",
@@ -542,99 +632,90 @@
                 "source": "The Manila Times",
                 "date": "2026-07-10T18:23:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Residential auction numbers hit their lowest point so far this year",
-                "desc": "The latest auction activity was at a low point for 2026",
-                "image": "https://www.interest.co.nz/sites/default/files/2025-07/WinterAuction.jpg",
-                "url": "https://www.interest.co.nz/property/139334/latest-auction-activity-was-low-point-2026",
-                "source": "Interest.co.nz",
-                "date": "2026-07-10T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mindarie commercial centre plans change as developers seek to add apartments",
-                "desc": "Developers are seeking to change an approved single-storey commercial centre into a three-storey mixed-use development.",
-                "image": "https://images.perthnow.com.au/publication/C-22520842/1aa0d218571f8f1f7b0e92c3bb60a69fde0c140c-16x9-x174y0w1175h661.jpg?imwidth=1200",
-                "url": "https://www.perthnow.com.au/wa/perth/north/wanneroo/mindarie-commercial-centre-plans-change-as-developers-seek-to-add-apartments-c-22520842",
-                "source": "PerthNow",
-                "date": "2026-07-10T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liverpool set to lose 600 jobs as BT plans to close city centre office",
-                "desc": "Kim Johnson MP said BT's decision is another example of the \"damage caused when decisions are driven by corporate cost-cutting rather than people and communities\"",
-                "image": "https://i2-prod.liverpoolecho.co.uk/article34274383.ece/ALTERNATES/s1200d/0_JS408921838.jpg",
-                "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-set-lose-600-jobs-34274239",
-                "source": "Liverpool Echo",
-                "date": "2026-07-10T17:55:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Judge criticises 'inappropriate' withdrawal of representation for murder conspirator",
-                "desc": "Mr Justice Paul McDermott made the remark after hearing that Jason Dunne (35) was not represented in court due to the ongoing dispute over legal aid fees.",
-                "image": "https://img2.thejournal.ie/article/7098199/river/?height=400&version=7098214",
-                "url": "https://www.thejournal.ie/judge-criticises-inappropriate-withdrawal-of-representation-for-murder-conspirator-7098199-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-10T17:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Climate risks pose evolving credit challenge for Nigerian Banks - Fitch",
-                "desc": "Nigeria’s banking sector faces mounting exposure to climate-related risks that could significantly weaken asset quality, increase credit losses and reshape",
-                "image": "https://blueprint.ng/wp-content/uploads/2026/07/images-2026-07-10T185352.592.jpeg",
-                "url": "https://blueprint.ng/climate-risks-pose-evolving-credit-challenge-for-nigerian-banks-fitch/",
-                "source": "Blueprint Newspapers",
-                "date": "2026-07-10T17:54:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ExxonMobil’s Usan project to generate $1.2bn for Nigeria",
-                "desc": "ESSO Exploration and Production Nigeria says its one billion-dollar Usan Infill Project in Oil Mining Lease (OML) 138 is expected to generate 1.2 billion",
-                "image": "https://blueprint.ng/wp-content/uploads/2024/10/cropped-blueprint-icon-32x32.png",
-                "url": "https://blueprint.ng/exxonmobils-usan-project-to-generate-1-2bn-for-nigeria/",
-                "source": "Blueprint Newspapers",
-                "date": "2026-07-10T17:51:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "QC Design Publishes Plaquette Framework for Fault-Tolerant Quantum Computer Design",
-                "desc": "QC Design has published Plaquette, a hardware-aware platform for modeling quantum hardware errors and designing fault-tolerant quantum computers.",
-                "image": "https://thequantuminsider.com/wp-content/uploads/2026/07/2026-07-10_21-46.png",
-                "url": "https://thequantuminsider.com/2026/07/10/qc-design-publishes-plaquette-hardware-aware-design-platform-for-fault-tolerant-quantum-computers/",
-                "source": "The Quantum Insider",
-                "date": "2026-07-10T17:42:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Traders fall back in love with Meta. Here's where bulls see it going",
-                "desc": "Meta Platform's AI efforts are looking like the recipe for a comeback after an almost year-long drought in shares of the $1.7 trillion market-cap company.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108333030-17836276302026-07-09t193642z_2135966945_rc2iama4gjkq_rtrmadp_0_media-sunvalley.jpeg?v=1783627672&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html",
-                "source": "CNBC",
-                "date": "2026-07-10T17:40:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Facebook and Instagram violate laws due to 'addictive' design, EU finds",
-                "desc": "The European Union found that Meta services like Facebook and Instagram are too addictive by design.",
-                "image": "https://helios-i.mashable.com/imagery/articles/03DiLpenj4PDv9PFdHkAPzQ/hero-image.fill.size_1200x675.v1783698827.jpg",
-                "url": "https://mashable.com/tech/meta-european-union-facebook-instagram-addictive",
-                "source": "Mashable",
-                "date": "2026-07-10T17:40:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "N.J. campaigns brace for voter data shutdown under new law",
-                "desc": "Political campaigns, candidates, party organizations, and advocacy groups could lose access to critical voter data as early as tonight after a sweeping",
-                "image": "https://media.newjerseyglobe.com/wp-content/uploads/2026/01/04130118/KBS_1588-scaled.jpg",
-                "url": "https://newjerseyglobe.com/campaigns/n-j-campaigns-brace-for-voter-data-shutdown-under-new-law/",
-                "source": "New Jersey Globe",
-                "date": "2026-07-10T17:39:30Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Crank Up the Savings With JBL's Bar 1000MK2 Soundbar, Now at Its Lowest Price Ever",
+                "desc": "Don't miss out on almost 40% off this premium soundbar system.",
+                "image": "https://www.cnet.com/a/img/resize/4d29276cb5270bdcb96fa7f64212d423fdaa44ae/hub/2026/07/10/08802347-eb6a-4921-adb5-d6f458bbdadd/jbl-bar-1000mk2-7-1-4-channel-soundbar.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/deals/the-jbl-bar-1000mk2-soundbar-system-amazon-deal-2026-07-10/",
+                "source": "CNET",
+                "date": "2026-07-10T20:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "God of War Laufey Physical Disc Release Confirmed, Suggesting 2027 Launch",
+                "desc": "The release date is still a mystery.",
+                "image": "https://sm.ign.com/t/ign_ap/news/g/god-of-war/god-of-war-laufey-physical-disc-release-confirmed-suggesting_un8e.1200.jpg",
+                "url": "https://sea.ign.com/god-of-war-laufey/245322/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
+                "source": "IGN Southeast Asia",
+                "date": "2026-07-10T20:50:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Petition seeks to halt PlayStation's plan to end game discs",
+                "desc": "A recent petition says more than 278,000 respondents want PlayStation games released on physical discs beyond January of 2028.  Read more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/0711-news-next-level-gaming16.jpg",
+                "url": "https://torontosun.com/news/national/petition-save-video-game-discs-playstations-transition",
+                "source": "Toronto Sun",
+                "date": "2026-07-10T20:49:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "War Thunder to Test Modern Infantry Battles in Africa",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2023/04/162213-390ce3ed/67bfc79b-de65-ed79-d0d3-e6042fd89f32.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=6a4b65053dc4a50d6b3a95205ab2663c4e89f0d8245f7e5312572dffb28e2b30",
+                "url": "https://www.gamespress.com/pl/War-Thunder-to-Test-Modern-Infantry-Battles-in-Africa",
+                "source": "Games Press",
+                "date": "2026-07-10T20:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The New Roku Update Is Terrible And Everyone Hates It",
+                "desc": "Stop fucking things up just to shove more ads and algorithm nonsense into my face",
+                "image": "https://kotaku.com/app/uploads/2026/07/Roku-bad-1200x675.jpg",
+                "url": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762",
+                "source": "Kotaku",
+                "date": "2026-07-10T20:48:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Week in Retail: Massimo Dutti Enters Denmark, Giorgio Armani Hosts Tennis Classic, Dior Debuts FW Couture, Mytheresa Reopens Munich, Rabanne Launches Invictus Takeover, Mattel Unveils Miley Cyrus",
+                "desc": "Luxury brands are rewriting retail as an immersive experience, from courtside garden parties to museum-grade couture collaborations, signalling a future built on storytelling over transactions.",
+                "image": "https://substackcdn.com/image/fetch/$s_!-RXi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ff4b4dd-8d0a-43d1-a085-02167ce431c0_1920x1080.avif",
+                "url": "https://retailboss.substack.com/p/this-week-in-retail-massimo-dutti-16d",
+                "source": "RETAILBOSS | Substack",
+                "date": "2026-07-10T20:45:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Don't Buy an AirTag If You Only Need It for a Trip. Just Borrow One",
+                "desc": "Traveling is already expensive enough. Save a few bucks by borrowing an AirTag from a friend or family member.",
+                "image": "https://www.cnet.com/a/img/resize/e3c8dc9c66f4a4f71a500dadc61bb8029ea0428f/hub/2024/10/29/21f1827a-8530-461f-8b55-f15347e6b7b1/apple-airtag-bf.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/dont-buy-an-airtag-if-you-only-need-it-for-a-trip-just-borrow-one/",
+                "source": "CNET",
+                "date": "2026-07-10T20:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 Big Changes Coming To Google Messages In 2026",
+                "desc": "Sharing links, photos, and updates with your inner circle is about to get a whole lot smoother. Unpack the 3 major Google Messages changes rolling out soon.",
+                "image": "https://www.bgr.com/img/gallery/3-big-changes-coming-to-google-messages-in-2026/l-intro-1783715028.jpg",
+                "url": "https://www.bgr.com/2212721/changes-coming-google-messages/",
+                "source": "bgr.com",
+                "date": "2026-07-10T20:42:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ready with the Ingenieur Automatic 35 Pool",
+                "desc": "Sporting a new turquoise green dial, the IWC Ingenieur Automatic 35 Pool brings summer energy to the celebrated collection.",
+                "image": "https://robbreport.com.sg/storage/2026/07/iwc_ingenieur-auto-35_iw3249021-2.jpg",
+                "url": "https://robbreport.com.sg/iwc-ingenieur-automatic-35-pool/",
+                "source": "Robb Report Singapore",
+                "date": "2026-07-10T20:41:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Jsaux Previews 3 Steam Machine Display Faceplates",
                 "desc": "Jsaux, the maker of a smorgasbord of functional and decorative Steam Deck accessories, has just provided an update on its previously announced Steam Machine faceplate project, which it has revealed to potentially be coming in three separate iterations. On the brand's Discord, it recently held a...",
@@ -1183,90 +1264,72 @@
                 "source": "Android Police",
                 "date": "2026-07-10T17:00:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Oppo's new 50W Magnetic Charger 2 for Find N6 and iPhones now available in Europe as part of wider roll out",
-                "desc": "The Oppo AIRVOOC 50W Magnetic Charger 2 is now available to buy in Europe and Asia. Also featuring active cooling and a stand, the new accessory delivers up to 50W of wireless charging for devices like the Find N6 and can also be used to top up iPhones and other Android phones up to 25W.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oppo-introduces-new-50W-Magnetic-Wireless-charger.jpg",
-                "url": "https://www.notebookcheck.net/Oppo-s-new-50W-Magnetic-Charger-2-for-Find-N6-and-iPhones-now-available-in-Europe-as-part-of-wider-roll-out.1339674.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-10T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McLaren Just Unveiled Its First New Supercar Since 2024",
-                "desc": "McLaren's first new supercar since 2024 is the 788HS, which is also the ultimate version of the mid-engine 720S that debut in 2017.",
-                "image": "https://robbreport.com/wp-content/uploads/2026/07/mclaren-788hs-01.jpg?w=681&h=383&crop=1",
-                "url": "https://robbreport.com/motors/cars/mclaren-788hs-supercar-ultimate-720s-1238447115/",
-                "source": "Robb Report",
-                "date": "2026-07-10T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xona Space Systems Launches Pulsar Verified Ecosystem Certification Program",
-                "desc": "Xona Space Systems has introduced Pulsar Verified, a partnership program that certifies receivers, chipsets, and test equipment for interoperability with the company's Pulsar low Earth orbit positioning, navigation, and timing signal, said Tyler Reid, co-founder and CTO at Xona. The program fol",
-                "image": "https://insidegnss.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-10-at-12.56.35-PM.jpg",
-                "url": "https://insidegnss.com/xona-space-systems-launches-pulsar-verified-ecosystem-certification-program/",
-                "source": "Inside GNSS",
-                "date": "2026-07-10T16:59:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hearthstone Esports Heats Up in the Summer Playoffs!",
-                "desc": "Everything you need to know to watch the next big event.",
-                "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/6z/6Z8YSH5NVYHW1782853781418.png",
-                "url": "https://news.blizzard.com/en-us/article/24286286/hearthstone-esports-heats-up-in-the-summer-playoffs",
-                "source": "Blizzard News",
-                "date": "2026-07-10T16:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Teledyne FLIR releases new ground ISR software",
-                "desc": "Programme officials at Teledyne FLIR have released a new artificial intelligence (AI) enabled software stack for ground-based intelligence, surveillance and...",
-                "image": "https://www.janes.com/images/default-source/news-images/bsp_113604-idr-37009.jpeg?sfvrsn=36f80e8a_2",
-                "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/teledyne-flir-releases-new-ground-isr-software",
-                "source": "Janes",
-                "date": "2026-07-10T16:54:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Today I’m toying with Beni, the jumping camera robodog.",
-                "desc": "[Media: https://www.tiktok.com/@verge/video/7660172319016455437]\nICYMI, here’s my story, and I have new impressions indoors: Beni is… not great at tracking people inside my dim house, but obstacle avoidance works. When I held the joystick forward (after setting speed low), Beni automatically navigated my hallway. At walls, it automatically U-turned and kept going instead of getting stuck.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/beni-controller.jpg?quality=90&strip=all&crop=0,25.310145162818,100,49.379709674364",
-                "url": "https://www.theverge.com/gadgets/964100/titw-toying-with-beni-the-jumping-camera-robodog",
-                "source": "The Verge",
-                "date": "2026-07-10T16:53:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
-                "desc": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/steammachine-1152x648.jpg",
-                "url": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
-                "source": "Ars Technica",
-                "date": "2026-07-10T16:53:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft Surface Pro and Surface Laptop",
-                "desc": "Microsoft Surface Pro and Surface Laptop powered by Snapdragon X2 are coming to Malaysia. Early bird registration is open from 8 July, with sales starting 23 July 2026.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/11005148/surfacesdx2launchcover.jpg",
-                "url": "https://pokde.net/gadget/laptop/surface-pro-surface-laptop-malaysia",
-                "source": "Pokde.Net",
-                "date": "2026-07-10T16:52:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"Just too gay\" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free",
-                "desc": "Yang's \"ongoing re-remaster\" compilation Radiator Forever is launching with four games included, and more are on the way.",
-                "image": "https://assetsio.gnwcdn.com/radiator_screenshot_header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
-                "source": "Eurogamer.net",
-                "date": "2026-07-10T16:50:45Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Johor polls: What the early vote means for Malaysia",
+                "desc": "The early Johor polls will have a deeper impact on Malaysian politics and upcoming election strategies for the major coalitions compared to the 2022 edition. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8cb491f27164e5140fdf2c8de35fd03d665235eee2e72d67d03f1ba1e2c0aada",
+                "url": "https://www.straitstimes.com/asia/se-asia/like-in-2022-johor-votes-early-again-but-this-time-it-means-more-heres-why",
+                "source": "The Straits Times",
+                "date": "2026-07-10T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Arctic Peatlands Expanding",
+                "desc": "Recent findings that peatlands are expanding northward as the Arctic warms might sound like good news, since peat has powerful carbon storage capabilities. But it takes millennia for peat to sequester large amounts of carbon, while we are burning fossil fuels far more quickly than the Earth can absorb. One of the authors of the 2026 study on Arctic peatland expansion is Angela Gallego-Sala, a professor and biogeochemist at the University of Exeter in the UK, who talked with Living on Earth’s Jenni Doering about what changes in peatland distribution could mean for the climate.",
+                "image": "https://loe.org/content/2026-07-10/PEAT_peat.jpg",
+                "url": "https://www.loe.org/shows/segments.html?programID=26-P13-00028&segmentID=2",
+                "source": "Living on Earth",
+                "date": "2026-07-10T20:58:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zulu king scolds wife for having affair without permission",
+                "desc": "South Africa’s Zulu king scolded his wife for having an affair with a member of her church congregation without his permission, leaked video footage shows.",
+                "image": "https://s.yimg.com/lo/mysterio/api/f0ed365c7d1baad36eaef0393875e5f079921f8d9263b6632a5e17f73c9728ca/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fff51fa44d66716eaa7b490d8550d1b15",
+                "url": "https://www.yahoo.com/news/world/articles/zulu-king-scolds-wife-having-205057500.html",
+                "source": "Yahoo",
+                "date": "2026-07-10T20:50:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sparks Vietnam veteran gets Purple Heart after nearly 60 years",
+                "desc": "A Vietnam veteran in Sparks has been awarded the Purple Heart after nearly 60 years.",
+                "image": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/MBMZURA2EFGB7EATXW77I4HKNE.png?auth=a2c43c65871a2198287ddf981caccf9ad8b968956a023807d9e6ea17163248fe&width=1200&height=600&smart=true",
+                "url": "https://www.kolotv.com/2026/07/10/sparks-vietnam-veteran-gets-purple-heart-after-nearly-60-years/",
+                "source": "KOLO | 8 News Now",
+                "date": "2026-07-10T20:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran War Has 'Severely Disrupted' Fertilizer Trade, WTO Says",
+                "desc": "The war in Iran has \"severely disrupted\" trade in fertilizers like urea and phosphate, raising concerns that agricultural yields could fall and food prices could rise, the World Trade Organization said Friday.",
+                "image": "https://www.law360.com/images/law360-stacked.png",
+                "url": "https://www.law360.com/articles/2499561/iran-war-has-severely-disrupted-fertilizer-trade-wto-says",
+                "source": "Law360",
+                "date": "2026-07-10T20:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Weekend briefing: Markets ignore resumption of Hormuz hot conflict",
+                "desc": "US real economy data mixed; Wall St enamoured with SK Hynix; China car sales strong, exports stronger; Japan PPI high; container freight rates rise; UST 10yr at 4.56%; gold rises; oil eases; NZ$1 = 57.6 USc; TWI-5 = 61.5",
+                "image": "https://www.interest.co.nz/sites/default/files/2026-07/matariki-2.jpg",
+                "url": "https://www.interest.co.nz/economy/139331/us-real-economy-data-mixed-wall-st-enamoured-sk-hynix-china-car-sales-strong-exports",
+                "source": "Interest.co.nz",
+                "date": "2026-07-10T20:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PM praises Australia social ban for U-16s, hinting at similar curbs",
+                "desc": "India News: NEW DELHI: In what could be an indication that the Centre is actively weighing tighter age-based controls on social media, PM Narendra Modi has praise.",
+                "image": "https://static.toiimg.com/thumb/msid-132320461,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/pm-praises-australia-social-ban-for-u-16s-hinting-at-similar-curbs/articleshow/132320464.cms",
+                "source": "The Times of India",
+                "date": "2026-07-10T20:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'Unusual vibration' felt before plane crash that killed Joshua Baer",
                 "desc": "As the plane approached the U.S.-Mexico border, both engines stopped working. A pilot asked for a possible field to land in nearby before ultimately crashing on a highway near the Laredo airport.",
@@ -1833,71 +1896,8 @@
                 "source": "ChimpReports",
                 "date": "2026-07-10T17:12:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Saudi Military Delegation Inspects Project to Train More Than 5,000 Somali Soldiers",
-                "desc": "A Saudi military delegation visited two training camps for forces affiliated with the Somali Federal Government in the Guri El area of the Galgadud Region.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/ce4f15ada3b339e4.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/world/632171-saudi-military-delegation-inspects-project-train-5000-somali-soldiers/",
-                "source": "Tuko News",
-                "date": "2026-07-10T17:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "polling Pauline Hanson calls for new limits on New Zealand migration to Australia",
-                "desc": "Pauline Hanson was once written off as yesterday’s news and tossed aside like a fish-and-chip wrapper. Thirty years on, the One Nation leader has become a...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/IP4DASLFRJC5VA7T4P7TNLSN2U.jpg?auth=ef56cc5670442c62bf86db15e0b0904757a3955a854764808fdb5d854f61ac19&width=1200&height=675&quality=70&focal=1398%2C484&smart=false",
-                "url": "https://www.nzherald.co.nz/nz/politics/high-polling-pauline-hanson-calls-for-new-limits-on-new-zealand-migration-to-australia/premium/AUSBL6VJZFEPNGPQPGZTYVOZOM/",
-                "source": "NZ Herald",
-                "date": "2026-07-10T17:00:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump says US and Iran to hold more talks, but ceasefire 'over'",
-                "desc": "Qatari negotiators meet officials in Iran to seek to de-escalate tensions as Donald Trump says the US has agreed to Iran's request to continue talks.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/98f4fadd659b3e132db1a608442ce46c?impolicy=wcms_watermark_news&cropH=1528&cropW=2716&xPos=0&yPos=142&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-11/trump-flags-us-iran-talks-but-says-ceasefire-is-over/106904360",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-10T16:55:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukrainian drone strikes hit southern Russian refineries and Azov port, officials say",
-                "desc": "Kyiv says the strikes are fair retribution for Russia's more than four-year barrages on Ukraine and that it is a bid to force Russia to the negotiating table.",
-                "image": "https://images.euronews.com/articles/stories/09/83/41/33/1200x675_cmsv2_8d9267b0-65db-5061-8c9a-dad055a8f79e-9834133.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/10/ukrainian-drone-strikes-hit-southern-russian-refineries-and-azov-port-officials-say",
-                "source": "Euronews.com",
-                "date": "2026-07-10T16:54:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Senior Democrat backs Trump’s call for more European defense spending",
-                "desc": "Former Chicago Mayor Rahm Emanuel says Europe is “responsible for getting dependent on America.”",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/10/GettyImages-2284542007-scaled.jpg",
-                "url": "https://www.politico.eu/article/senior-democrat-rahm-emanuel-backs-donald-trump-call-for-more-european-defense-spending/",
-                "source": "politico.eu",
-                "date": "2026-07-10T16:54:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia, China reject Western push to use UNSC against Iran after Resolution 2231 expiry",
-                "desc": "Russia rejects unjustified attempts to escalate tensions around Iran or to use the Security Council as a venue for political score-settling with Tehran.",
-                "image": "https://cdn.presstv.ir/Photo/2026/7/10/c5b4581e-ad78-41fd-a29c-adcf2ee2b233.jpg",
-                "url": "https://www.presstv.ir/Detail/2026/07/10/771987/Russia-China-UNSC-Res-2231-Western-push-snapback",
-                "source": "PressTV",
-                "date": "2026-07-10T16:49:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Airtel Africa pledges gree internet for 5,000 schools by 2027",
-                "desc": "UNICEF and Zambian education officials have praised the programme for enabling learners to continue their studies both in schools and from their homes.",
-                "image": "https://www.thecitizen.co.tz/resource/image/5523928/landscape_ratio3x2/1200/800/e76925b48b3b4ca5c3b95ec8edf9abac/Hi/airtel-pic.jpg",
-                "url": "https://www.thecitizen.co.tz/tanzania/news/africa/airtel-africa-pledges-gree-internet-for-5-000-schools-by-2027-5523926",
-                "source": "thecitizen.co.tz",
-                "date": "2026-07-10T16:44:13Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T08:40:20.794670Z"
+    "lastGlobalSync": "2026-07-11T09:00:16.815959Z"
 }
