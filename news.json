@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Trump touts Micron Technology $250B memory chip investment as 'The Trump Effect'",
+                "desc": "Trump hailed the \"Trump Effect\" after Micron CEO Sanjay Mehrotra announced the company boosted its U.S. chip manufacturing investment to $250 billion.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/trump-micron-250-billion-investment.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/politics/trump-celebrates-250b-micron-investment-america-getting-shovels-ground",
+                "source": "Fox Business",
+                "date": "2026-07-11T01:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Asian shares gain despite new US-Iran clashes",
+                "desc": "RECAP: Asian stocks rose sharply yesterday, led by ‌chip and AI firms, as investors brushed off concern about fresh US-Iran hostilities, which has put the spotlight back on oil prices and inflation risk.",
+                "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+                "url": "https://www.bangkokpost.com/business/general/3284194/asian-shares-gain-despite-new-usiran-clashes",
+                "source": "Bangkok Post",
+                "date": "2026-07-11T01:34:18Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Apple sues OpenAI for stealing trade secrets",
+                "desc": "The lawsuit paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--JpvhMYDC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/11/000_73ge2zh.jpg?itok=M2RYrnDi",
+                "url": "https://www.channelnewsasia.com/world/apple-sues-openai-trade-secrets-6247591",
+                "source": "CNA",
+                "date": "2026-07-11T01:32:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LeaseRunner's RS³ Scoring Model Addresses the Gap Between Credit History and Actual Rental Affordability",
+                "desc": "Bank transaction data and income verification provide what credit score was never designed to measure",
+                "image": "https://img.einnews.com/facebook/1149319/gap-between-credit-history-and.png",
+                "url": "https://www.einpresswire.com/article/925694878/leaserunner-s-rs-scoring-model-addresses-the-gap-between-credit-history-and-actual-rental-affordability",
+                "source": "EIN Presswire",
+                "date": "2026-07-11T01:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "15 eats to try at Circle Line’s new stations",
+                "desc": "Explore 15 new and underrated food spots around the Circle Line's new stations, offering a diverse culinary journey. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/55f6be7609f307de007c0601a4c84be89750b8c5b098c9de27e98296c69adc83",
+                "url": "https://www.straitstimes.com/life/food/feast-along-the-food-loop-explore-15-new-and-underrated-eats-at-the-circle-lines-new-stations",
+                "source": "The Straits Times",
+                "date": "2026-07-11T01:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ryanair passenger partially sucked out of window",
+                "desc": "A passenger has been partially sucked through a dislodged window on a Ryanair flight shortly after takeoff in Greece.",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/ryanair_window_break_x.png?itok=Sqlek-51",
+                "url": "https://www.odt.co.nz/news/world/ryanair-passenger-partially-sucked-out-window",
+                "source": "Otago Daily Times",
+                "date": "2026-07-11T01:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European shares snap four-week winning streak on tech selloff, US-Iran war",
+                "desc": "The Stoxx 600 lost 1.8% as investors dialled back hopes for the energy supply shock easing soon Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/2ac577d307783bf44f9a4715fac20149e5fc71f3cc2f941741050e86e0d922ed?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-snap-four-week-winning-streak-tech-selloff-us-iran-war",
+                "source": "The Business Times",
+                "date": "2026-07-11T01:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Procter & Gamble (PG) Stock Still Looks Below Fair Value Today",
+                "desc": "Procter & Gamble stock has delivered an 18.8% total return over the past 5 years, yet the current checks suggest the market price may still sit below an intrinsic value estimate based on a Discounted Cash Flow (DCF) approach and supported by earnings multiples.\nOver 5 years, a total return of 18.8% points to steady wealth creation, rather than the kind of surge that often leaves a clear valuation premium.\nRecent commentary around dividend resilience and modest organic growth suggests stable...",
+                "image": "https://images.simplywall.st/asset/company-cover/33328-main-header/1756194107264",
+                "url": "https://simplywall.st/stocks/us/household/nyse-pg/procter-gamble/news/procter-gamble-pg-stock-still-looks-below-fair-value-today",
+                "source": "simplywall.st",
+                "date": "2026-07-11T01:02:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+                "desc": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/05/cisa-2240293485.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+                "source": "TechCrunch",
+                "date": "2026-07-11T01:01:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+                "desc": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub...",
+                "image": "https://s.yimg.com/lo/mysterio/api/02231141845e6e4a4cd0801d67096197af1c5e986db099acb43f9f0c6b2e6909/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F8529f7fd523d9a5dfa70e4e4671ce595",
+                "url": "https://www.yahoo.com/news/us/articles/us-cyber-agency-cisa-had-010128985.html",
+                "source": "Yahoo",
+                "date": "2026-07-11T01:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Mid-air scare as Ryanair passenger is nearly sucked out of broken window on Boeing plane",
                 "desc": "THESSALONIKI (Greece), July 11 — A man was nearly sucked out the window of a Ryanair flight when it “detached” mid-air en route to Germany, with other passengers pulling him...",
                 "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/11/351296.jpg",
@@ -541,96 +631,6 @@
                 "url": "https://www.nine.com.au/world-news/uk-europe/man-partly-sucked-out-of-broken-plane-window-mid-flight-20260711-p60eh0.html",
                 "source": "Nine.com.au",
                 "date": "2026-07-10T21:16:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lyft Launches Free Ride Program for NYC Job Seekers",
-                "desc": "Lyft is offering free rides to job interviews, training programs and new jobs through a new NYC pilot program.",
-                "image": "https://media.timeout.com/images/106425739/image.jpg",
-                "url": "https://www.timeout.com/newyork/news/lyft-is-giving-free-rides-to-new-yorkers-heading-to-job-interviews-and-work-071026",
-                "source": "Time Out Worldwide",
-                "date": "2026-07-10T21:15:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global oil demand is falling, but US drivers keep buying more gas",
-                "desc": "Global oil demand is set to decline this year for the first time since 2020. The International Energy Agency expects a drop of about 1 million barrels per day by 2026.",
-                "image": "https://dims.apnews.com/dims4/default/c30332b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F7a%2Fd74147409a591dafc97b16061331%2Fa723d6cf44e94923a09cda25d90eedd5",
-                "url": "https://apnews.com/article/oil-gasoline-demand-iran-us-iea-report-de45ede94f992da07d35a8b737fdeacf",
-                "source": "AP News",
-                "date": "2026-07-10T21:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is This Biotech Stock a Buy Near Its 52-Week High?",
-                "desc": "It's been a volatile year for the company, but don't let that scare you away.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877724%2Fvertex-pharmaceuticals-logo.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/10/is-this-biotech-stock-a-buy-near-its-52-week-high/",
-                "source": "The Motley Fool",
-                "date": "2026-07-10T21:12:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-                "desc": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
-                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-                "source": "The New York Times",
-                "date": "2026-07-10T21:08:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meet ‘Freedom Fuel Network’ stations, a new chain with cheaper gas and mysterious origins",
-                "desc": "Freedom Fuel Network sells gasoline at prices well below the average, but the chain has revealed little about itself.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284668777-e1783717070290.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/10/freedom-fuel-network-stations-cheap-gas-donald-trump-white-house-pennsylvania-new-jersey/",
-                "source": "Fortune",
-                "date": "2026-07-10T21:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "hour journey home after Telstra outage caused train shutdown",
-                "desc": "A bus trip that should have taken only 13 hours turned into a 32-hour interstate marathon for a Torquay grandmother due to this week's Telstra outage, while there is still no date for when Victorian passengers can claim compensation from V/Line.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/d4c095074f2f815fedd1a0139f2a56a7?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=1361&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-11/vline-train-shutdown-long-journey-home/106901924",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-10T21:05:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Okta (OKTA) Faces A Valuation Test After Russell Growth Index Removals",
-                "desc": "Index removals put Okta stock in focus\nOkta (OKTA) has been dropped from several Russell growth benchmarks, a shift that can prompt index tracking funds to rebalance and adjust positions, putting short term attention on the stock.\nFor you as an investor, the key question is how much of this move reflects mechanical index flows versus changing views on Okta's fundamentals and longer term role in identity and access management.\nSee our latest analysis for Okta.\nDespite the index removals,...",
-                "image": "https://images.simplywall.st/asset/industry/8030001-choice2-main-header/1585186766184",
-                "url": "https://simplywall.st/stocks/us/software/nasdaq-okta/okta/news/okta-okta-faces-a-valuation-test-after-russell-growth-index",
-                "source": "simplywall.st",
-                "date": "2026-07-10T21:03:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gas for Africa, NNPC launch Nigeria gas, power infrastructure map",
-                "desc": "The Gas for Africa programme, in partnership with the Nigerian National Petroleum Company (NNPC) Limited, has unveiled the Nigeria gas & power infrastructure map 2026.",
-                "image": "https://www.thecable.ng/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-10-at-9.54.35-PM-2026-07-10-376.jpeg",
-                "url": "https://www.thecable.ng/gas-for-africa-nnpc-launch-nigeria-gas-power-infrastructure-map/",
-                "source": "TheCable",
-                "date": "2026-07-10T21:00:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lufthansa Group Carriers 4Q26 Buenos Aires Service Changes",
-                "desc": "Published at 1400PDT / 2100GMT 10JUL26 Lufthansa Group in the last few days gradually filed service changes for Buenos Aires Ezeiza during the period of 24OCT26 – 11NOV26, due to Ezeiza Airport’s runway maintenance project. Planned service changes include the following. Frankfurt – Buenos Aire",
-                "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
-                "url": "https://www.aeroroutes.com/eng/260710-lhgnw26eze",
-                "source": "AeroRoutes",
-                "date": "2026-07-10T21:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "279 high-income earners nabbed for tax avoidance",
-                "desc": "Discover how IRAS is cracking down on high-income earners using sham arrangements to avoid paying their fair share of tax. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7be6e31dec640aff417764537e998bc0961ca405903b1a32eec3f7e39e445aef",
-                "url": "https://www.straitstimes.com/business/invest/iras-nabs-279-high-income-earners-over-sham-arrangements-to-pay-less-tax",
-                "source": "The Straits Times",
-                "date": "2026-07-10T21:00:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T13:00:16.921465Z"
+    "lastGlobalSync": "2026-07-11T13:40:15.018720Z"
 }
