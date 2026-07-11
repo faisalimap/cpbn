@@ -4,6 +4,24 @@
     "en": {
         "business": [
             {
+                "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+                "desc": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
+                "source": "BBC",
+                "date": "2026-07-10T22:44:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Even with Gold Below $4,150 and Bitcoin Under $64,000, I'd Still Rather Buy This Unstoppable Dividend Stock in July",
+                "desc": "Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876909%2F22_03_07-a-person-putting-a-100-dollar-bill-into-a-piggy-bank-_gettyimages-1203959263.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/10/even-with-gold-below-4150-and-bitcoin-under-64000/",
+                "source": "The Motley Fool",
+                "date": "2026-07-10T22:40:24Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Under Lula, Amazon deforestation falls to lowest level in a decade",
                 "desc": "The figures come months before Brazil’s presidential election, with Lula promising to end illegal deforestation by 2030.",
                 "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a515ee6-1783717606.jpg?resize=1920%2C1440",
@@ -613,24 +631,6 @@
                 "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
                 "source": "CNBC",
                 "date": "2026-07-10T19:12:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Daily Post Nigeria",
-                "desc": "The Abuja Electricity Distribution Company, AEDC, said it regretted to inform customers in Maitama, Abuja, and surrounding areas that it is presently",
-                "image": "https://dailypost.ng/wp-content/uploads/2024/06/AEDC.jpeg",
-                "url": "https://dailypost.ng/2026/07/10/power-supply-disruption-in-abuja-after-invasion-of-aedcs-maitama-station-by-land-grabbers/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-10T19:12:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-                "desc": "Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company",
-                "image": "https://i.abcnewsfe.com/a/d9f0ecbd-9b59-4037-9ea8-f6469d245d67/wirestory_6fff8833f5889d86406b89a02dd8fb16_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Technology/wireStory/apple-files-lawsuit-accusing-chatgpt-maker-openai-stealing-134663221",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-10T19:11:11Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T10:40:16.491450Z"
+    "lastGlobalSync": "2026-07-11T10:45:58.785538Z"
 }
