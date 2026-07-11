@@ -4,6 +4,60 @@
     "en": {
         "business": [
             {
+                "title": "Meta removes controversial AI feature on Instagram after backlash",
+                "desc": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+                "source": "TechCrunch",
+                "date": "2026-07-10T23:55:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Zealand wage growth 'worst in the world' - OECD report",
+                "desc": "New Zealanders have had some of the worst wage growth in the world in recent years, when adjusted for inflation.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--1GVhgpQb--/t_tohu-badge-facebook/f_auto/q_auto/4L3GLZ2_212880405_l_jpg",
+                "url": "https://www.rnz.co.nz/news/personal-finance/700162/new-zealand-wage-growth-worst-in-the-world-oecd-report",
+                "source": "RNZ",
+                "date": "2026-07-10T23:50:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anti-Sangla ATM! Chinabank To Let Workers Borrow From Their Salary Before Payday",
+                "desc": "The service enables eligible employees of Chinabank's payroll partner companies to make multiple salary withdrawals within a payroll period through a mobile app.",
+                "image": "https://bitpinas.com/wp-content/uploads/2026/07/Anti-Sangla-ATM-Chinabank-To-Let-Workers-Access-Their-Salary-Before-Payday.png",
+                "url": "https://bitpinas.com/fintech/chinabank-payday/",
+                "source": "BitPinas",
+                "date": "2026-07-10T23:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HRD Corp faces uphill task",
+                "desc": "Cash-rich Human Resources Development Corp (HRD Corp) has undergone sweeping leadership changes this year, with a new minister overseeing the agency, a complete revamp of its board plus a new chief executive officer.",
+                "image": "https://assets.theedgemarkets.com/TEM_Weekly_Highlights_1635.jpg",
+                "url": "https://theedgemalaysia.com/node/810254",
+                "source": "The Edge Malaysia",
+                "date": "2026-07-10T23:48:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is Pfizer on Track to Launch Its Next Lipitor -- This Time in the Weight-Loss Market?",
+                "desc": "So far, Pfizer has been an also-ran in the GLP-1 race, but that could change if its long-acting weight-loss medication takes off.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876551%2F26_02_08-weight-loss-drugs-in-a-box-_gettyimages-2025836701-1200x800-5b2df79.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/10/is-pfizer-on-track-to-launch-its-next-lipitor-this/",
+                "source": "The Motley Fool",
+                "date": "2026-07-10T23:47:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Circle Receives New Regulatory Approval for National Trust Bank. Here's What It Could Mean For CRCL Stock",
+                "desc": "What does this change for Circle stock?",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa6663256daaa3ada798a77bec0061b432d28ffe6-1200x675.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/10/circle-receives-new-regulatory-approval-for-national-trust-bank-heres-what-it-could-mean-for-crcl-stock/",
+                "source": "The Motley Fool",
+                "date": "2026-07-10T23:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Young man lives in car after going broke",
                 "desc": "A YOUNG man from Perak has been living in his car for the past four months after moving to Kuala Lumpur.",
                 "image": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4004448.jpeg",
@@ -578,63 +632,18 @@
                 "source": "South China Morning Post",
                 "date": "2026-07-10T20:00:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The ‘phantom brands’ hiding in plain sight in the supermarket aisle",
-                "desc": "They look like premium, independent labels, but the fine print reveals a sneaky supermarket trick that could be changing how much you spend at the checkout.",
-                "image": "https://static.ffx.io/images/$zoom_0.2628%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_99/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/36e27b971a7ce5d23fe9830c30eba4e0cba6130cba2f329abcba6689e99d83f5",
-                "url": "https://www.nine.com.au/lifestyle/money/supermarket-phantom-brands-explained-hidden-home-brand-grocery-trick-20260624-p609i1.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-10T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oruka Therapeutics - Intriguing Long Acting Psoriasis Programs May Need Further Derisking",
-                "desc": "Oruka Therapeutics (ORKA) psoriasis mAbs show high PASI 100 and longer dosing; see 2H26/2027 catalysts, valuation risks, and prospects—read now.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1137281782/image_1137281782.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4921257-oruka-therapeutics-intriguing-long-acting-psoriasis-programs-may-need-further-derisking",
-                "source": "Seeking Alpha",
-                "date": "2026-07-10T19:58:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Outlook for July 13-17, 2026",
-                "desc": "Investors are anticipating the start of earnings season and the release of June inflation data, just as the U.S-Iran war threatens to reassert itself.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108328138-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-6.jpg?v=1782745808&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
-                "source": "CNBC",
-                "date": "2026-07-10T19:58:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "G7 data protection and privacy authorities discuss key data protection issues and emerging technologies",
-                "desc": "G7 data protection and privacy authorities discuss key data protection issues and emerging technologies",
-                "image": "https://edge.sitecorecloud.io/allenoveryllp1-aoshearmanwe0db-production-ecf3/media/project/aoshearman/aoshearman/website_insights_news-678252cc-c702-46f1-ad2b-4c9e23325d8f.jpg?h=1063&iar=0&w=1600",
-                "url": "https://www.aoshearman.com/en/insights/ao-shearman-on-data/g7-data-protection-and-privacy-authorities-discuss-key-data-protection-issues",
-                "source": "A&O Shearman",
-                "date": "2026-07-10T19:58:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man nearly sucked out of 'detached' window on Ryanair flight from Greece",
-                "desc": "Serbian tourist suffers friction burns after head and shoulders exit airplane mid-air when engine debris strikes window, is held in by other passengers; 'fortunately, he hadn't taken off his seat belt'",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2025/01/AP23026052552946.jpg",
-                "url": "https://www.timesofisrael.com/man-nearly-sucked-out-of-detached-window-on-ryanair-flight-from-greece/",
-                "source": "The Times of Israel",
-                "date": "2026-07-10T19:52:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kiwi workers go backwards, as NZ’s real wage growth is the worst in the OECD",
-                "desc": "Working New Zealanders, who feel like they are going backwards financially, aren’t just imagining it. Real wages, or nominal wages adjusted for inflation,...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/ELX3GAY4JZC65G3746SAALJ6IU.jpg?auth=765f62aadf56f2ea3be7ad8416f4b97262f205233296bd10e73aa75ca932f62b&width=1200&height=675&quality=70&smart=true",
-                "url": "https://www.nzherald.co.nz/business/economy/employment/kiwi-workers-go-backwards-as-nzs-real-wage-growth-is-the-worst-in-the-oecd/premium/NKIB3KXJBJHFJDDQBQYXJXKHEQ/",
-                "source": "NZ Herald",
-                "date": "2026-07-10T19:52:01Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Taboola expands OPPO, realme deal to India, Thailand",
+                "desc": "Taboola deepens its OPPO and realme partnership, bringing lockscreen content recommendations to millions more devices in India and Thailand.",
+                "image": "https://images-r2.thebrag.com/mw/uploads/2023/11/cropped-favicon-32x32.png",
+                "url": "https://www.mediaweek.com.au/taboola-oppo-realme-india-thailand/",
+                "source": "Mediaweek",
+                "date": "2026-07-10T23:48:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The Honda Civic Type R Lost Its Nürburgring Crown To The Golf GTI, But It Doesn't Matter",
                 "desc": "The lap record for FWD cars set by Honda in a Civic Type R was taken by Wolfsburg’s prodigal son. As for us, we’d still take the Type R.",
@@ -1255,18 +1264,54 @@
                 "source": "BankInfoSecurity",
                 "date": "2026-07-10T18:52:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Circle Empires 2 Doubles Its Playable Leader Roster With Eight New Leaders",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2024/11/181449-a1f521cd/HEADER_CAPTULE.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=ce1c49aca350f083f4a6ed6a882eb0f9fb1cdc95c687ec974eb0b7f9199845b1",
-                "url": "https://www.gamespress.com/nl/Circle-Empires-2-Doubles-Its-Playable-Leader-Roster-With-Eight-New-Lea",
-                "source": "Games Press",
-                "date": "2026-07-10T18:50:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Cognizant finds mention as US begins visa fraud probe",
+                "desc": "International Business News: BENGALURU: The United States Department of Labour has launched an investigation into alleged fraud involving the H-1B and PERM employment visa program.",
+                "image": "https://static.toiimg.com/thumb/msid-132322929,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/business/international-business/cognizant-finds-mention-as-us-begins-visa-fraud-probe/articleshow/132322927.cms",
+                "source": "The Times of India",
+                "date": "2026-07-10T23:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who is Dr. Phil, and what is he doing in Greenland?",
+                "desc": "Dr. Phil has traded daytime therapy for Arctic oil, fronting a podcast for a Texas company's contested push to drill in East Greenland. Who is he, and what is he doing there?",
+                "image": "https://www.arctictoday.com/wp-content/uploads/2026/07/maxresdefault-2.jpg",
+                "url": "https://www.arctictoday.com/who-is-dr-phil-and-what-is-he-doing-in-greenland/",
+                "source": "Arctic Today",
+                "date": "2026-07-10T23:54:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Several killed in small plane crash in the Bahamas, officials say",
+                "desc": "A small plane crashed in the Bahamas on Friday, killing several people and prompting the government to temporarily ground Flamingo Air flights.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/30/b5231918-0873-4a24-a4fb-6629cdc8babc/thumbnail/1200x630/09a26b1985e3621e0ec2ded3e714a31e/gettyimages-1354821469.jpg",
+                "url": "https://www.cbsnews.com/news/small-plane-crash-bahamas-fatalities/",
+                "source": "CBS News",
+                "date": "2026-07-10T23:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wilderness Celebrates the Opening of Wilderness Mara in Kenya",
+                "desc": "Wilderness Mara has opened within the Masai Mara National Reserve’s Mara Triangle, marking a new chapter for Wilderness in East Africa. The fully rebuilt safari camp combines wildlife encounters, conservation-led hospitality, wellness, cultural immersion and a deeper connection to Kenya’s celebrated safari landscape.",
+                "image": "https://www.hospitalityandcateringnews.com/wp-content/uploads/2026/07/wilderness-mara-kenya.jpg",
+                "url": "https://www.hospitalityandcateringnews.com/2026/07/wilderness-celebrates-the-opening-of-wilderness-mara-in-kenya/",
+                "source": "Hospitality & Catering News",
+                "date": "2026-07-10T23:51:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US President Donald Trump agrees to more Iran talks but insists truce is over",
+                "desc": "US President Donald Trump today said he had agreed to further negotiations with Iran, even as he repeated his assertion that the ceasefire between the...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/YZZYCTE2FJAHROYXYKQPXGUTFE.jpg?auth=b58924c17705bdc8129f2d18f518bfaa680d72e7d26ec2104e03984212b04fc9&width=1200&height=675&quality=70&focal=938%2C685&smart=false",
+                "url": "https://www.nzherald.co.nz/world/trump-agrees-to-more-iran-talks-but-insists-truce-is-over/QB3QHEJNUVEANK6N76KBF5RJJQ/",
+                "source": "NZ Herald",
+                "date": "2026-07-10T23:43:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Man stabs woman who rejected him",
                 "desc": "SPURNED by a woman who was not keen on his romantic advances, a 31-year-old man resorted to stabbing her multiple times at a public place, Malaysia Nanban reported.",
@@ -1851,53 +1896,8 @@
                 "source": "TimesLIVE",
                 "date": "2026-07-10T19:09:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "FG Seeks Stronger African Collaboration To Combat Illicit Wealth, Transnational Corruption",
-                "desc": "The Federal Government has urged African countries to form stronger institutional collaboration to fight illicit wealth and transnational corruption.",
-                "image": "https://nannews.ng/wp-content/uploads/2026/07/Mr-Lateef-Fagbemi-SAN-the-Attorney-General-of-the-Federation-and-Minister-of-Justice.jpg",
-                "url": "https://nannews.ng/fg-seeks-stronger-african-collaboration-to-combat-illicit-wealth-transnational-corruption/",
-                "source": "News Agency of Nigeria",
-                "date": "2026-07-10T19:07:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seven highlights including Puno, Uros islands and Taquile",
-                "desc": "Rural life and ancient traditions flourish around the perimeter of South America’s largest and highest water spectacle.",
-                "image": "https://static.ffx.io/images/$zoom_0.19381405563689605%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_14/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/989ce27f784659322c6347af60f0d9cc1c1cd0ec",
-                "url": "https://www.smh.com.au/traveller/inspiration/the-world-s-highest-lake-is-more-than-just-a-beautiful-body-of-water-20260626-p60a9w.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-10T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is Nigel Farage, Alice Weidel and Marine Le Pen’s brand of populism actually popular?",
-                "desc": "Nigel Farage has given Britain the gift of a political circus that will run for weeks during a blistering summer. But the test for Farage and his movement is deadly serious.",
-                "image": "https://static.ffx.io/images/$zoom_0.1941%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/f46e3473894bb1d3ea76ff8d32b2ecf15805ca6d",
-                "url": "https://www.theage.com.au/world/europe/how-popular-are-the-populists-for-nigel-farage-and-his-right-wing-friends-it-s-finding-out-time-20260710-p60e5f.html",
-                "source": "The Age",
-                "date": "2026-07-10T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s missile test wasn’t aimed at any one Pacific nation",
-                "desc": "Australia’s Pacific diplomacy is a proactive response to Beijing’s belligerence and Donald Trump’s dysfunction. But more must be done to deter the communist nation.",
-                "image": "https://static.ffx.io/images/$zoom_0.17053140096618358%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/17b467479b5fd9d473fd277f153a7630258b94e5",
-                "url": "https://www.theage.com.au/politics/federal/china-s-missile-test-did-not-target-any-one-pacific-nation-it-was-aimed-at-all-of-them-including-australia-20260710-p60e8u.html",
-                "source": "The Age",
-                "date": "2026-07-10T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Beijing’s nuclear gambit gave Australia a surprise advantage",
-                "desc": "This week’s test is just a preview of what is to come.",
-                "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/862fc9e641b6b33d431f04db29ffe8f9f6e21f31",
-                "url": "https://www.theage.com.au/politics/federal/how-beijing-s-nuclear-gambit-gave-australia-a-surprise-advantage-20260707-p60dch.html",
-                "source": "The Age",
-                "date": "2026-07-10T19:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T11:40:17.483676Z"
+    "lastGlobalSync": "2026-07-11T11:58:09.115776Z"
 }
