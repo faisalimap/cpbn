@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "5 Set A Record Few Others Can Boast About",
+                "desc": "The 2026 Mazda CX-5 secures a Top Safety Pick+ award, helping Mazda join an elite group of automakers with 100 or more such honors from the IIHS.",
+                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/2026-mazda-cx-5-17.jpg?w=1600&h=900&fit=crop",
+                "url": "https://carbuzz.com/2026-mazda-cx-5-set-new-safety-record/",
+                "source": "CarBuzz",
+                "date": "2026-07-11T22:31:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Major American city again takes top honors for worst possible travel reason",
+                "desc": "Experts warn summer travelers to inspect hotel mattresses and furniture as bedbug activity surges across top U.S. cities hosting major events.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/4cce6bbc-woman_packing_suitcase.jpg",
+                "url": "https://www.foxnews.com/health/major-american-city-again-takes-top-honors-worst-possible-travel-reason",
+                "source": "Fox News",
+                "date": "2026-07-11T22:21:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "13 Assessing the Quality and Reliability of Online Health Information for Breast Pathology: Search Engines Versus Large Language Models",
+                "desc": "Using the DISCERN tool, LLMs (ChatGPT and OpenEvidence) scored significantly higher than Google on breast pathology health information quality and reliability, with mean total DISCERN scores of 62.2 and 64.8 vs 35.9, supporting integration of AI tools for patient education.",
+                "image": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/089b8085d760511190c330824e22a9be55415ecb-801x451.png",
+                "url": "https://www.cancernetwork.com/view/13-assessing-quality-reliability-online-health-information-breast-pathology-search-engines-versus-llms",
+                "source": "CancerNetwork",
+                "date": "2026-07-11T22:09:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Carrier Behind LATAM Airlines' Inflight Entertainment Overhaul",
+                "desc": "LATAM is reinventing inflight entertainment by following Delta Air Lines' digital blueprint, combining AI, Viasat WiFi, and personalization.",
+                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/latam-airlines.jpg?w=1600&h=900&fit=crop",
+                "url": "https://simpleflying.com/carrier-behind-latam-airlines-ife-overhaul/",
+                "source": "Simple Flying",
+                "date": "2026-07-11T22:00:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Secure glass containers for storing chemical waste through laser welding",
                 "desc": "As the adoption of electric vehicles continues to grow, so does the need for the safe and permanent storage of battery materials and industrial chemical waste. Certain waste streams require disposal in what are known as Category IV landfills, which impose particularly stringent requirements on storage containers. These must simultaneously ensure environmental protection, safe handling and long-term structural integrity.",
                 "image": "https://scx2.b-cdn.net/gfx/news/2026/secure-glass-container.jpg",
@@ -596,45 +632,99 @@
                 "source": "The Economic Times",
                 "date": "2026-07-11T17:30:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "America's cheapest city to grab a cheeseburger, fries and soda revealed-and it might surprise you",
-                "desc": "A cheeseburger, fries and a soda remain one of America's classic comfort meals, but what Americans pay for that combo depends heavily on where they live, according to the so-called Cheeseburger Index.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39955296_e13489.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/11/us-news/americas-cheapest-city-to-grab-a-cheeseburger-fries-and-soda-revealedand-it-might-surprise-you/",
-                "source": "New York Post",
-                "date": "2026-07-11T17:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The AI Trade Is Rotating From Chips to Infrastructure. 2 Stocks Riding the Shift.",
-                "desc": "As money moves past the chipmakers, the companies that power and cool AI data centers are having a moment.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878508%2Finfrastructure-ai-stocks.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/11/the-ai-trade-is-rotating-from-chips-to-infrastruct/",
-                "source": "The Motley Fool",
-                "date": "2026-07-11T17:28:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Franklin Cudjoe urges Minister to intervene as Azumah Resources, E&P dispute heads to international arbitration",
-                "desc": "IMANI Africa Founding President Franklin Cudjoe has called on Lands and Natural Resources Minister Emmanuel Armah Kofi Buah to intervene in the dispute between Azumah Resources and Engineers Planners (E P), following reports that the matter has moved to international arbitration .",
-                "image": "https://cdn.modernghana.com/images/content/711202672417-rwnyqdcp53-m.png",
-                "url": "https://www.modernghana.com/news/1509827/franklin-cudjoe-urges-minister-to-intervene-as.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-11T17:28:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Forget GLP-1s-GLP-3s show promise in phase 3 weight loss and diabetes trial",
-                "desc": "Phase 3 clinical trial results (TRANSCEND-T2D-1) published in The Lancet report that retatrutide, an investigational once-weekly injection for diabetes management, can significantly improve blood sugar levels and lead to substantial weight loss in people with Type 2 diabetes. The study included adults with Type 2 diabetes who were not taking diabetes medicines and whose blood sugar was not adequately controlled with diet and exercise alone.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/insulin-injection.jpg",
-                "url": "https://medicalxpress.com/news/2026-06-glp-1s-3s-phase-weight.html",
-                "source": "Medical Xpress",
-                "date": "2026-07-11T17:20:01Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Digital Extremes Reveals the Future of Warframe and Soulframe Alongside Millions of Players at Annual TennoCon Celebration",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/112212-fd5a5c5b/WF_TauPromo_Keyart_4K_Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=d5fc2dfc65ed569fe42166ec0f37cc68fc0d589acb2ed528a0d95f386de177c7",
+                "url": "https://www.gamespress.com/Digital-Extremes-Reveals-the-Future-of-Warframe-and-Soulframe-Alongsid",
+                "source": "Games Press",
+                "date": "2026-07-11T22:28:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Digital Extremes Reveals the Future of Warframe and Soulframe Alongside Millions of Players at Annual TennoCon Celebration",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/112212-fd5a5c5b/WF_TauPromo_Keyart_4K_Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=d5fc2dfc65ed569fe42166ec0f37cc68fc0d589acb2ed528a0d95f386de177c7",
+                "url": "https://www.gamespress.com/es/Digital-Extremes-Reveals-the-Future-of-Warframe-and-Soulframe-Alongsid",
+                "source": "Games Press",
+                "date": "2026-07-11T22:28:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Digital Extremes Reveals the Future of Warframe and Soulframe Alongside Millions of Players at Annual TennoCon Celebration",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/112212-fd5a5c5b/WF_TauPromo_Keyart_4K_Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=d5fc2dfc65ed569fe42166ec0f37cc68fc0d589acb2ed528a0d95f386de177c7",
+                "url": "https://www.gamespress.com/en-GB/Digital-Extremes-Reveals-the-Future-of-Warframe-and-Soulframe-Alongsid",
+                "source": "Games Press",
+                "date": "2026-07-11T22:23:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warframe's next major update blends Blade Runner, The Sopranos, and film noir in a whole new solar system, coming later this year",
+                "desc": "Creative director Rebecca Ford speaks on leaving for Tau in Warframe's next major update, as well as the core inspirations for Fornax.",
+                "image": "https://assetsio.gnwcdn.com/WF_TauDemo_Screenshotr_Brysko_3840x2160.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/warframe-tau-tennocon-reveal-blade-runner-sopranos",
+                "source": "Eurogamer.net",
+                "date": "2026-07-11T22:22:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This tiny open printer could finally break the billion-dollar cartridge lockout system frustrating users worldwide for decades",
+                "desc": "Printer of our dreams? One small detail could ruin everything",
+                "image": "https://cdn.mos.cms.futurecdn.net/484yjKsoeeddABGX7httAb-1920-80.png",
+                "url": "https://www.techradar.com/pro/is-this-the-open-source-printer-of-our-dreams-raspberry-pi-powered-drm-free-open-printer-inkjet-could-be-the-perfect-solution-if-it-ever-sees-the-light-of-day",
+                "source": "TechRadar",
+                "date": "2026-07-11T22:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft announces layoffs following successful launch of Assassin’s Creed Black Flag Resynced",
+                "desc": "Ubisoft plans to cut a number of jobs despite the successful launch of Assassin’s Creed Black Flag Resynced, amid a broader wave of gaming-industry layoffs. Affected employees have launched a strike, citing mistreatment, weakened worker rights and an increasingly top-down management culture.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ubisoft-layoffs61.png",
+                "url": "https://www.notebookcheck.net/Ubisoft-announces-layoffs-following-successful-launch-of-Assassin-s-Creed-Black-Flag-Resynced.1340520.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-11T22:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SEGA talks importance of Sonic, failing to reach its goal, wanted new game to sell more",
+                "desc": "As part of a wide-ranging Famitsu interview with SEGA, president Shuji Utsumi touched upon a number of different topics, including Sonic the Hedgehog. The Japanese magazine published a lengthy discussion with the executive in this week’s issue. During their talk, Famitsu mentioned that Sonic the Hedgehog plays a pretty big role in the transmedia business. Utsumi said in response: “Sonic...",
+                "image": "https://nintendoeverything.com/wp-content/uploads/SEGA-president-Sonic-the-Hedgehog-interview.jpg",
+                "url": "https://nintendoeverything.com/sega-president-talks-sonic/",
+                "source": "Nintendo Everything",
+                "date": "2026-07-11T22:03:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pagani unveils manual-equipped Huayra 70 Derecho at Goodwood",
+                "desc": "Pagani has pulled the covers off its latest one-off, the Huayra 70 Derecho, with the car headlining the brand's appearance at Goodwood. Under the skin",
+                "image": "https://autotrader.co.nz/wp-content/uploads/2026/07/Hyuara-5.jpg",
+                "url": "https://autotrader.co.nz/news/pagani-unveils-manual-equipped-huayra-70-derecho-at-goodwood",
+                "source": "Auto Trader NZ",
+                "date": "2026-07-11T22:03:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pokémon GO: The 2016 phenomenon that redefined mobile gaming",
+                "desc": "A Newcastle mum better known as ZoëTwoDots has played Pokémon GO since its July 6, 2016 launch. She now earns a living from it.",
+                "image": "https://www.newcastleherald.com.au/images/transform/v1/crop/frm/37hLjTSaqSzzPeeWNnNkKKB/1932463f-d55f-4680-b473-269a3897fc22.jpg/r0_256_1080_823_w1200_h630_fmax.jpg",
+                "url": "https://www.newcastleherald.com.au/story/9301462/pokemon-go-the-2016-phenomenon-that-redefined-mobile-gaming/",
+                "source": "Newcastle Herald",
+                "date": "2026-07-11T22:03:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As Video Game Industry Burns, Warframe's Devs Aren't Taking Anything For Granted",
+                "desc": "“I feel very lucky to be working on this game and to have this dev team and the community that we’ve built, because I’m no stranger to the fact that it could all end tomorrow\"",
+                "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/WF_TauDemo_Screenshot_Vessel_3840x2160.png",
+                "url": "https://aftermath.site/warframe-tau-tennocon-2026-interview/",
+                "source": "Aftermath",
+                "date": "2026-07-11T22:01:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Beyond Origin to 'Tau'... Warframe Confirms September 'Tenno VIP' World Tour in Seoul",
                 "desc": "©Digital ExtremesDigital Extremes successfully hosted its annual global festival, 'TennoCon 2026,' in London, Ontario, Canada, from July 10 to 11.",
@@ -1174,99 +1264,27 @@
                 "source": "Nyngan Observer",
                 "date": "2026-07-11T18:09:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft defends Asha Sharma, says she is an American CEO and Xbox layoff had nothing to do with H-1B",
-                "desc": "US News: As Asha Sharm, the CEO of Xbox, came under vicious trolling after the gaming division of Microsoft announced the elimination of 3,200 positions, Micro.",
-                "image": "https://static.toiimg.com/thumb/msid-132335854,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/microsoft-defends-asha-sharma-says-she-is-an-american-ceo-and-xbox-layoff-had-nothing-to-do-with-h-1b/articleshow/132335655.cms",
-                "source": "The Times of India",
-                "date": "2026-07-11T17:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Every modern Mac hides a free local AI, and I got mine answering questions in Home Assistant",
-                "desc": "Why download a local LLM when your Mac already has one built in?",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/apfel-mac.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/every-modern-mac-hides-free-local-ai-home-assistant/",
-                "source": "XDA",
-                "date": "2026-07-11T17:30:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firefox’s privacy defaults are too soft - and that’s exactly why I switched to this privacy-focused browser",
-                "desc": "It is Firefox, if Firefox woke up annoyed and decided cookies had enjoyed enough freedom.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/browsing-makeuseof-with-ironfox-browser.png?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/firefoxs-privacy-defaults-soft-switched-privacy-focused-android-browser/",
-                "source": "MakeUseOf",
-                "date": "2026-07-11T17:30:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I'm saving hundreds on new phones while everyone else panics about the RAM crisis",
-                "desc": "I found the one trick that keeps me ahead",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/a-hand-holding-three-smartphones-with-a-ram-price-increase-symbol-and-discount-icons.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/im-saving-hundreds-on-new-phones-while-everyone-else-panics-about-the-ram-crisis/",
-                "source": "Android Police",
-                "date": "2026-07-11T17:30:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fantasy action-RPG Soulframe is open to all players for a limited time, with a new dark progression path, wolf mounts, and a Warsongs origin quest on the way",
-                "desc": "Soulframe, the fantasy action-RPG from Warframe makers Digital Extremes, is getting wolf mounts, a Warsongs quest, and a new Vadagar progression path.",
-                "image": "https://assetsio.gnwcdn.com/MendicantReinbreaker.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.rockpapershotgun.com/fantasy-action-rpg-soulframe-is-open-to-all-players-for-a-limited-time-with-a-new-dark-progression-path-wolf-mounts-and-a-warsongs-origin-quest-on-the-way",
-                "source": "Rock Paper Shotgun",
-                "date": "2026-07-11T17:28:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung quietly leaks cheap PCIe 4.0 SSD as soaring RAM prices force surprising DRAM-free storage design change for mainstream buyers",
-                "desc": "Samsung's mystery 1TB SSD delivers 7,150 MB/s without DRAM",
-                "image": "https://cdn.mos.cms.futurecdn.net/ryhYAZfL7rahoS68bXpg9N-1920-80.png",
-                "url": "https://www.techradar.com/pro/samsung-set-to-launch-cheap-pcie-4-0-990-ssd-as-rampocalypse-pushes-even-the-worlds-largest-ssd-vendor-to-remove-dram-from-product",
-                "source": "TechRadar",
-                "date": "2026-07-11T17:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple’s Strategic Choice Can Defeat Rivals",
-                "desc": "Apple’s September launch of the iPhone 18 Pro allows it to learn from its Android rivals. Samsung and Google will take the pain as Apple reaps the benefits.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a527aaa815e7835cb11293b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/ewanspence/2026/07/11/phone-18-pro-market-timing-strategy/",
-                "source": "Forbes",
-                "date": "2026-07-11T17:24:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New generation approaches revive BET protein inhibitors in solid tumors",
-                "desc": "BET proteins, especially BRD4, drive oncogenic transcription in solid tumours. First‑generation inhibitors (JQ1, molibresib, birabresib) showed preclinical promise but failed clinically due to modest efficacy, dose‑limiting thrombocytopenia, and resistance (isoform switching, compensatory PI3K/AKT/WNT signalling).",
-                "image": "https://www.news-medical.net/images/tags/TagImage-2099-458520524366319441723-620x480.jpg",
-                "url": "https://www.news-medical.net/news/20260711/New-generation-approaches-revive-BET-protein-inhibitors-in-solid-tumors.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-11T17:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WEBTOON Launches AI Story Chat Service byUs Featuring Creator-Approved Webtoon IP",
-                "desc": "Service allows users to create original stories by interacting with characters from creator-approved IPs",
-                "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.9/239448/byus.jpg",
-                "url": "https://www.animenewsnetwork.com/news/2026-07-11/webtoon-launches-ai-story-chat-service-byus-featuring-creator-approved-webtoon-ip/.239448",
-                "source": "Anime News Network",
-                "date": "2026-07-11T17:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI's GPT-5.6 Outperforms Physicians in Health Evaluations",
-                "desc": "Here’s a sentence that would have sounded like science fiction two years ago: doctors reviewed medical responses, rated them blind, and the AI came out ahead. N",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/openai-s-gpt-5-6-outperforms-physicians-in-health-evaluations",
-                "source": "KuCoin",
-                "date": "2026-07-11T17:12:48Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "IRGC closes Strait of Hormuz until end of US interference in region",
+                "desc": "Iranian state media announced that explosions were heard near Chabahar, on Qeshm Island, and in Bandar Abbas, Sirik, Bushehr, and Asaluyeh.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/727853",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-902180",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-11T22:31:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "England and Norway tied 1-1 at halftime of World Cup quarterfinal",
+                "desc": "Jude Bellingham scored in the third minute of extra time to lift England past Norway 2-1 and into the World Cup semifinals for the first time since 2018.",
+                "image": "https://www.tsn.ca/resizer/v2/YKGCEBYR6BBHC23XAPVSVVT42U.jpg?smart=true&auth=a719e9a0f74fcc9b43a1dcaeb0b742d7a6e90db4274a2f74398d9a375f683a55&width=1200&height=630",
+                "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/england-and-norway-tied-at-halftime-of-world-cup-quarterfinal/",
+                "source": "TSN",
+                "date": "2026-07-11T22:09:49Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Manhunt expands as Interpol joins Ireland murder search",
                 "desc": "Jamey Carney's Killarney murder has sparked a manhunt for an asylum seeker who fled to Turkey via Dublin Airport before Irish police issued alerts.",
@@ -1878,26 +1896,8 @@
                 "source": "AP News",
                 "date": "2026-07-11T16:41:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Koskei signals steady gains in Digital Superhighway rollout",
-                "desc": "He says the flagship programme is expanding digital infrastructure and improving access to government services.",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/e1af0f2e-70ef-40cc-8249-8404a1d4c179.webp?1783811306117",
-                "url": "https://www.the-star.co.ke/news/2026-07-11-koskei-signals-steady-gains-in-digital-superhighway-rollout",
-                "source": "the-star.co.ke",
-                "date": "2026-07-11T16:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Soludo, Bianca Ojukwu Decry Women's Exclusion From Nigerian Politics",
-                "desc": "Anambra State Governor, Prof. Chukwuma Soludo, and the Minister of State for Foreign Affairs, Ambassador Bianca Odumegwu-Ojukwu, on Saturday",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/IMG-20260518-WA00581.jpg",
-                "url": "https://guardian.ng/news/soludo-bianca-ojukwu-decry-womens-exclusion-from-nigerian-politics/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-11T16:38:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T10:00:16.598941Z"
+    "lastGlobalSync": "2026-07-12T10:41:07.435594Z"
 }
