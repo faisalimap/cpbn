@@ -4,6 +4,15 @@
     "en": {
         "business": [
             {
+                "title": "British Airways Dreamliner operating flight BA5 declared an emergency and diverted to Azerbaijan",
+                "desc": "LONDON — A British Airways flight bound for Tokyo was forced to make an unexpected diversion to Azerbaijan today after declaring a mid-air emergency over Central Asia. Flight BA5, operated by a Boeing 787-9 Dreamliner, departed London Heathrow at 1:30 PM local time for what was scheduled to be a 13-hour journey to Tokyo Haneda […]",
+                "image": "https://airlive.net/wp-content/uploads/2026/07/BA5.jpg",
+                "url": "https://airlive.net/emergency/2026/07/11/british-airways-dreamliner-operating-flight-ba5-declared-an-emergency-and-diverted-to-azerbaijan/",
+                "source": "airlive",
+                "date": "2026-07-11T19:38:24Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Art Group pivots Northbourne plans, adds 100 apartments",
                 "desc": "Northbourne Avenue's density increases as Art Group amends its master plan. Uncover the full scope of 527 new apartments across this significant development.",
                 "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/230199405/214fbe09-01a2-43fd-883c-f8ae4b0196eb.png/r43_57_3159_1693_w1200_h630_fmax.jpg",
@@ -622,15 +631,6 @@
                 "url": "https://www.fool.com/investing/2026/07/11/what-5000-invested-in-spacex-could-be-worth-2030/",
                 "source": "The Motley Fool",
                 "date": "2026-07-11T15:07:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.",
-                "desc": "Wood and her team have been staunch believers in crypto for many years.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878013%2Fperson-analytical-1.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/11/cathie-wood-buy-coinbase-circle-clarity-act-vote/",
-                "source": "The Motley Fool",
-                "date": "2026-07-11T15:07:08Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1268,6 +1268,24 @@
         ],
         "world": [
             {
+                "title": "Heatwave fuels 127 fires in Algeria, one still burning",
+                "desc": "The department attributed the outbreak to high temperatures and dry conditions, increasing the risk of wildfires and accelerating their spread.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/thumbs_b_c_3cdce8df560827ef714b8411ca2d285b.webp",
+                "url": "https://eastleighvoice.co.ke/africa/378325/heatwave-fuels-127-fires-in-algeria-one-still-burning",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-11T19:39:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa faces devastating choices as foreign aid plummets",
+                "desc": "Development finance rarely disappears overnight. Budget allocations usually rise and fall gradually, giving governments enough time to adjust spending plans or seek alternative funding. Recent developments across sub-Saharan Africa have, however, broken that pattern. Official development assistance has fallen by roughly 26 percent within a single year, marking one of the",
+                "image": "https://www.arabnews.com/sites/default/files/authors/1528016-gad22.png",
+                "url": "https://www.arabnews.com/node/2650561",
+                "source": "Arab News",
+                "date": "2026-07-11T19:37:42Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Venezuela Earthquakes Death Toll Surpasses 4,300",
                 "desc": "Venezuela Earthquakes Death Toll Surpasses 4,300",
                 "image": "https://www.channelstv.com/wp-content/uploads/2026/06/Venezuelan-Civil-Protection-members-firefighters-and-volunteers-work-at-the-site-of-a-collapsed-bui.jpg",
@@ -1878,26 +1896,8 @@
                 "source": "Yahoo",
                 "date": "2026-07-11T15:20:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Johor polls: BN sweeps 48 of 56 seats as PM Anwar’s PH cedes ground in southern state",
-                "desc": "Barisan Nasional's Johor rival, Prime Minister Anwar Ibrahim’s Pakatan Harapan (PH) coalition, won the remaining eight seats in the closely watched contest, losing ground from the 12 seats it secured in 2022.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--ulBM_nIx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/11/dsc_1261.jpg?itok=G6sJmAOX",
-                "url": "https://www.channelnewsasia.com/asia/johor-state-election-results-barisan-nasional-6248056",
-                "source": "CNA",
-                "date": "2026-07-11T15:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How a vague clause in Trump’s peace deal led to anarchy in the Strait of Hormuz",
-                "desc": "The global economy is facing uncertainty after the resumption of hostilities between the US and Iran. Experts tell Maira Butt that negotiators must go back to the drawing board on the strait if disruption is to be avoided",
-                "image": "https://static.independent.co.uk/2026/07/10/14/2026-07-10T130543Z_1345548046_RC25AMATSFKG_RTRMADP_3_IRAN-CRISIS-SHIPPING-UN.JPG?trim=0,429,0,429&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/middle-east/strait-hormuz-iran-us-ceasefire-peace-deal-b3012657.html",
-                "source": "The Independent",
-                "date": "2026-07-11T15:10:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T07:35:23.262021Z"
+    "lastGlobalSync": "2026-07-12T07:40:20.714474Z"
 }
