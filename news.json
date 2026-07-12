@@ -4,6 +4,51 @@
     "en": {
         "business": [
             {
+                "title": "Youth suicides in Hong Kong hit 10-year high: court report",
+                "desc": "Population expert warns of ‘virtual alienation’ trend among youth as cases rise for those aged 10 to 19 in 2025.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/11/d7a4f0de-e6a2-4b35-8600-8539bc0d5ea0_999b798b.jpg?itok=JJV_SN1q&v=1783757484",
+                "url": "https://www.scmp.com/news/hong-kong/society/article/3360213/youth-suicides-hong-kong-hit-10-year-high-court-report",
+                "source": "South China Morning Post",
+                "date": "2026-07-12T01:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China’s developers eagerly line up to offer commercial-property Reits amid recovery signs",
+                "desc": "Exchanges receive 19 listing applications after enthusiastic investor reception for first four such trusts.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/10/b54322ca-88d0-4f1b-9f5d-35b7f4e5708a_329ed591.jpg?itok=XHqQgk0_&v=1783681999",
+                "url": "https://www.scmp.com/business/banking-finance/article/3360156/chinas-developers-eagerly-line-offer-commercial-property-reits-amid-recovery-signs",
+                "source": "South China Morning Post",
+                "date": "2026-07-12T01:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Airline Quietly Putting Lie-Flat Throne Suites 8 On Short European Routes This Summer",
+                "desc": "A closer look at one of the most comfortable ways to travel throughout Western Europe.",
+                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-airline-quietly-putting-lie-flat-throne-suites-on-5-short-european-routes-this-summer.jpg?w=1600&h=900&fit=crop",
+                "url": "https://simpleflying.com/airline-quietly-putting-lie-flat-throne-suites-8-short-european-routes-summer/",
+                "source": "Simple Flying",
+                "date": "2026-07-12T01:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Gen Z chilling red wine is socially acceptable, especially in the summer heat",
+                "desc": "Drinking a red at room temperature only is a common belief but the heatwave might have changed that.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b056/live/662ab470-7c62-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c5yzjlgr7zlo",
+                "source": "BBC",
+                "date": "2026-07-12T00:47:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Gen Z chilling red wine is socially acceptable, especially in the summer heat",
+                "desc": "Drinking a red at room temperature only is a common belief but the heatwave might have changed that.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b056/live/662ab470-7c62-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/c5yzjlgr7zlo",
+                "source": "BBC",
+                "date": "2026-07-12T00:47:46Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Sunday, July 12",
                 "desc": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
                 "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
@@ -587,54 +632,18 @@
                 "source": "The Motley Fool",
                 "date": "2026-07-11T19:07:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AGA launches AI-powered virtual assistant for gastroenterology and hepatology care",
-                "desc": "The American Gastroenterological Association (AGA) today announced the launch of Nigel, an artificial intelligence (AI)-powered virtual assistant developed exclusively for gastroenterology and hepatology.",
-                "image": "https://www.news-medical.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg",
-                "url": "https://www.news-medical.net/news/20260711/AGA-launches-AI-powered-virtual-assistant-for-gastroenterology-and-hepatology-care.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-11T19:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Does the ‘World’s Best’ cafe live up to the hype?",
-                "desc": "Good Food reviews the specialty coffee roaster, which was acquired by a Japanese company in 2022, to see if it’s worth queueing for in 2026.",
-                "image": "https://static.ffx.io/images/$zoom_0.1855%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_213/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/d089f525a1dcb964d6b4f1d7fb9d6395bcc6b042",
-                "url": "https://www.smh.com.au/goodfood/sydney-eating-out/does-the-world-s-best-coffee-shop-live-up-to-the-hype-20260707-p60ddn.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-11T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why using secure storage services can save your holiday and your back",
-                "desc": "With a weekend in Bruges planned before returning to Brussels, I decided I wasn’t going to drag mum’s suitcases with us.",
-                "image": "https://static.ffx.io/images/$zoom_0.271677783478707%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_49/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/861f369fd9791eee230befc888c42e11da9b700c",
-                "url": "https://www.smh.com.au/traveller/reviews-and-advice/my-mum-packs-way-too-much-and-i-have-to-lug-it-around-but-i-found-a-solution-20260624-p609qg.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-11T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "National Lottery Lotto numbers for Saturday July 11 2026",
-                "desc": "Tonight's National Lottery Lotto winning numbers for Saturday July 11, 2026, have been drawn.",
-                "image": "https://www.echo-news.co.uk/resources/images/18566090.jpg?type=og-image",
-                "url": "https://www.echo-news.co.uk/news/26272703.national-lottery-lotto-numbers-saturday-july-11-2026/",
-                "source": "Southend Echo",
-                "date": "2026-07-11T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Daily Lotto results: Saturday, 11 July 2026",
-                "desc": "A R500 000 jackpot is up for grabs tonight! Here are your winning Daily Lotto results for 11 July 2026.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/Daily-Lotto-results-Saturday-july.jpg",
-                "url": "https://www.citizen.co.za/lotto/daily-lotto-results-saturday-11-july-2026/",
-                "source": "The Citizen",
-                "date": "2026-07-11T18:49:17Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Legion 7a: Lenovo releases 16-inch gaming laptop with Nvidia GeForce RTX 5070 and 12 GB VRAM",
+                "desc": "Lenovo has updated one of its recent 16-inch gaming laptops. Arriving only a few months after its initial release, the new Legion 7a can now be configured with the Nvidia GeForce RTX 5070, which was missing at launch. Lenovo has opted for Nvidia's newer variant, which brings 12 GB VRAM to the table too.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/legion-7a-16agp11-rtx-5070-12gb-release-kv.jpg",
+                "url": "https://www.notebookcheck.net/Legion-7a-Lenovo-releases-16-inch-gaming-laptop-with-Nvidia-GeForce-RTX-5070-and-12-GB-VRAM.1339833.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-12T00:52:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Eye spy a growing screen time crisis",
                 "desc": "Dry eye symptoms also affected productivity, interfering with work for 47.7% of ophthalmologists and 57.4% of optometrists. Researchers further noted that the COVID-19 pandemic appeared to worsen the prevalence and severity of the condition because of increased screen use during remote work and virtual consultations.",
@@ -1255,18 +1264,72 @@
                 "source": "Yahoo",
                 "date": "2026-07-11T19:00:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Relationship experts warn AI could be hurting your love life, not improving it",
-                "desc": "ChatGPT relationship advice and using AI to create dating profiles may be making people \"relationally stupid,\" experts warn, as singles outsource conversations and breakups.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/WOMAN-PHONE-SMILING.jpg",
-                "url": "https://www.foxnews.com/media/ai-changing-modern-dating-experts-warn-making-people-relationally-stupid",
-                "source": "Fox News",
-                "date": "2026-07-11T19:00:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Manhunt underway after 2 killed in mass shooting at Canada’s largest Latin street festival in Toronto, police say",
+                "desc": "A manhunt is underway after two people were killed and several others were injured in a mass shooting at Canada’s largest Latin street festival in Toronto on Saturday, police said.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285123195.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/11/world/toronto-shooting-sat-intl",
+                "source": "CNN",
+                "date": "2026-07-12T00:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Heatwave grips Japan, record-tying 39.3 C at Kyushu tourist spot",
+                "desc": "Parts of Japan's southwestern region of Kyushu saw a hot summer day on Saturday, with the mercury hitting a record-tying 39.3 C in Dazaifu, a tourist spot in Fukuoka",
+                "image": "https://globalnation.inquirer.net/files/2026/07/Heatwave-grips-Japan-record-tying-39.3-C-at-Kyushu-tourist-spot-scaled.jpg",
+                "url": "https://globalnation.inquirer.net/330542/heatwave-grips-japan-record-tying-39-3-c-at-kyushu-tourist-spot",
+                "source": "Inquirer.net",
+                "date": "2026-07-12T00:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+                "desc": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9b9e/live/2a507da0-7bf8-11f1-b447-c332f78126d1.jpg",
+                "url": "https://www.bbc.com/news/articles/cd6e9zq87xvo",
+                "source": "BBC",
+                "date": "2026-07-12T00:49:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+                "desc": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b9e/live/2a507da0-7bf8-11f1-b447-c332f78126d1.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo",
+                "source": "BBC",
+                "date": "2026-07-12T00:49:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US military launches new round of strikes against Iran",
+                "desc": "WASHINGTON: The US military said Saturday it has launched a new round of strikes against Iran, after Tehran \"blatantly attacked\" a container ship in the Strait of Hormuz.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/12/4005733.JPG",
+                "url": "https://www.thestar.com.my/news/world/2026/07/12/us-military-launches-new-round-of-strikes-against-iran",
+                "source": "The Star",
+                "date": "2026-07-12T00:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We are living fewer years in good health: Is the NHS part of the problem?",
+                "desc": "What is driving the UK's fall in healthy life expectancy?",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b716/live/fb297cd0-7c64-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/c8r2nz82z3vo",
+                "source": "BBC",
+                "date": "2026-07-12T00:42:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We are living fewer years in good health: Is the NHS part of the problem?",
+                "desc": "What is driving the UK's fall in healthy life expectancy?",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b716/live/fb297cd0-7c64-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo",
+                "source": "BBC",
+                "date": "2026-07-12T00:42:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Iran declares Strait of Hormuz closed as US launches new strikes",
                 "desc": "Tehran says the strategic waterway will remain shut after firing warning shots at a Cyprus-flagged vessel, while US forces begin a third round of strikes.",
@@ -1833,71 +1896,8 @@
                 "source": "LEADERSHIP Newspapers",
                 "date": "2026-07-11T19:30:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran supreme leader calls for revenge after father's burial",
-                "desc": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/cj9gkpp0dkeo",
-                "source": "BBC",
-                "date": "2026-07-11T19:30:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran supreme leader calls for revenge after father's burial",
-                "desc": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo",
-                "source": "BBC",
-                "date": "2026-07-11T19:30:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
-                "desc": "Ten newly identified victims were buried as the more than 8,000 Bosnian Muslim men and boys killed were remembered.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a528db0528c-1783795120.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide",
-                "source": "Al Jazeera",
-                "date": "2026-07-11T19:29:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India, New Zealand launch roadmap to 2030, boosting defence ties",
-                "desc": "News News: India and New Zealand on Saturday unveiled the comprehensive “India-New Zealand Strategic Partnership: Roadmap to 2030”, establishing a robust bluepri.",
-                "image": "https://static.toiimg.com/thumb/msid-132337406,width-1280,height-720,imgsize-63846,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/defence/news/pm-modi-his-new-zealand-counterpart-luxon-announce-annual-maritime-security-dialogue/articleshow/132337286.cms",
-                "source": "The Times of India",
-                "date": "2026-07-11T19:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The CCTV footage that brought down hit",
-                "desc": "Hirani has been sentenced to six years and 9 months in prison for killing a food delivery worker in a high-speed hit-and-run crash",
-                "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/08/pmnewslogo-75x50.gif",
-                "url": "https://pmnewsnigeria.com/2026/07/11/the-cctv-footage-that-brought-down-hit-and-run-london-driver-now-hes-in-jail/",
-                "source": "PM News Nigeria",
-                "date": "2026-07-11T19:27:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Sudan Launches First Drought Response Before Crisis Hits, Protecting 65,000 People",
-                "desc": "Government joins hands with WFP to protect more than 65,000 people in Eastern Equatoria State as forecasts point to worsening drought conditions.",
-                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgYRMdNvf7VcfSm73TO6Fe1xDi204K8vtNakpl",
-                "url": "https://www.dawan.africa/news/south-sudan-launches-first-drought-response-before-crisis-hits-protecting-65000-people",
-                "source": "Dawan Africa",
-                "date": "2026-07-11T19:25:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
-                "desc": "As the death toll in Venezuela surges past 4,000, families continue to hold out hope that loved ones might be found.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/Scenes-of-devastation-1783803074.jpg?resize=1920%2C1080&quality=80",
-                "url": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes",
-                "source": "Al Jazeera",
-                "date": "2026-07-11T19:21:47Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T12:41:08.594805Z"
+    "lastGlobalSync": "2026-07-12T13:01:08.238471Z"
 }
