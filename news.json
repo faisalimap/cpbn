@@ -4,6 +4,60 @@
     "en": {
         "business": [
             {
+                "title": "Mag 7 and software could boost portfolio in second half: ETF Action",
+                "desc": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108288920-1775679881284-gettyimages-2269830686-AFP_A77J38N.jpeg?v=1783716112&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+                "source": "CNBC",
+                "date": "2026-07-11T15:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US electric aviation advances with first multistate cargo flights",
+                "desc": "US company BETA Technologies has completed the first electric aircraft flights under the FAA's new eVTOL Integration Pilot Program.",
+                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/image-1920x1080-2026-07-11T101616.373.png?w=1920",
+                "url": "https://interestingengineering.com/transportation/us-electric-aircraft-with-first-flights",
+                "source": "Interesting Engineering",
+                "date": "2026-07-11T14:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Berkshire Hathaway's $8.5 Billion Housing Bet Faces a Shareholder Vote on July 22. Here's What's at Stake.",
+                "desc": "Greg Abel's \"big\" move to buy Taylor Morrison Home is going to a vote, but the biggest risk isn't to Berkshire Hathaway.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877627%2F25_03_08-a-person-looking-at-a-piece-of-paper-with-a-shocked-expression-_mf-dload-gettyimages-997934518-1200x800-5b2df79.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/berkshire-hathaways-85-billion-housing-bet-faces-a/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T14:48:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The economy in a cup of coffee",
+                "desc": "A decade or two ago, we saw strong volume growth in beer and spirits. Today, coffee has probably become the fastest-growing beverage consumed outside the home.",
+                "image": "https://images.assettype.com/tribune/2026-07-11/7awdh6io/ARTCARDS-NIGHT-SHIFT-NASH-9.png?w=1200&auto=format",
+                "url": "https://tribune.net.ph/2026/07/11/the-economy-in-a-cup-of-coffee",
+                "source": "Daily Tribune",
+                "date": "2026-07-11T14:46:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warrington to Liverpool trains cancelled amid Sankey incident",
+                "desc": "ALL trains between Warrington Central and Liverpool Lime Street were cancelled amid a large emergency services presence Sankey railway station.",
+                "image": "https://www.warringtonguardian.co.uk/resources/images/21171013.jpg?type=og-image",
+                "url": "https://www.warringtonguardian.co.uk/news/26272511.warrington-liverpool-trains-cancelled-amid-sankey-incident/",
+                "source": "Warrington Guardian",
+                "date": "2026-07-11T14:45:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Drivers warned of £5,000 fine for doing 1 thing",
+                "desc": "Members of the public may not be aware of the little-known rule surrounding driving in a heatwave",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7031309.jpg",
+                "url": "https://www.express.co.uk/life-style/cars/2227288/drivers-warned-5000-fine-doing",
+                "source": "Daily Express",
+                "date": "2026-07-11T14:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Delta Expects Companies To Ban Its New “Basic” First Class Fares",
                 "desc": "Delta expects many corporate travel programs to block its new restrictive Basic fares in First Class, Premium Select, and Delta One.",
                 "image": "https://liveandletsfly.com/wp-content/uploads/2026/07/Delta-Basic-First-Class-fares.jpeg",
@@ -578,63 +632,99 @@
                 "source": "Bangkok Post",
                 "date": "2026-07-11T01:34:18Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Apple sues OpenAI for stealing trade secrets",
-                "desc": "The lawsuit paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--JpvhMYDC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/11/000_73ge2zh.jpg?itok=M2RYrnDi",
-                "url": "https://www.channelnewsasia.com/world/apple-sues-openai-trade-secrets-6247591",
-                "source": "CNA",
-                "date": "2026-07-11T01:32:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LeaseRunner's RS³ Scoring Model Addresses the Gap Between Credit History and Actual Rental Affordability",
-                "desc": "Bank transaction data and income verification provide what credit score was never designed to measure",
-                "image": "https://img.einnews.com/facebook/1149319/gap-between-credit-history-and.png",
-                "url": "https://www.einpresswire.com/article/925694878/leaserunner-s-rs-scoring-model-addresses-the-gap-between-credit-history-and-actual-rental-affordability",
-                "source": "EIN Presswire",
-                "date": "2026-07-11T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "15 eats to try at Circle Line’s new stations",
-                "desc": "Explore 15 new and underrated food spots around the Circle Line's new stations, offering a diverse culinary journey. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/55f6be7609f307de007c0601a4c84be89750b8c5b098c9de27e98296c69adc83",
-                "url": "https://www.straitstimes.com/life/food/feast-along-the-food-loop-explore-15-new-and-underrated-eats-at-the-circle-lines-new-stations",
-                "source": "The Straits Times",
-                "date": "2026-07-11T01:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ryanair passenger partially sucked out of window",
-                "desc": "A passenger has been partially sucked through a dislodged window on a Ryanair flight shortly after takeoff in Greece.",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/ryanair_window_break_x.png?itok=Sqlek-51",
-                "url": "https://www.odt.co.nz/news/world/ryanair-passenger-partially-sucked-out-window",
-                "source": "Otago Daily Times",
-                "date": "2026-07-11T01:18:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European shares snap four-week winning streak on tech selloff, US-Iran war",
-                "desc": "The Stoxx 600 lost 1.8% as investors dialled back hopes for the energy supply shock easing soon Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/2ac577d307783bf44f9a4715fac20149e5fc71f3cc2f941741050e86e0d922ed?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-snap-four-week-winning-streak-tech-selloff-us-iran-war",
-                "source": "The Business Times",
-                "date": "2026-07-11T01:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Procter & Gamble (PG) Stock Still Looks Below Fair Value Today",
-                "desc": "Procter & Gamble stock has delivered an 18.8% total return over the past 5 years, yet the current checks suggest the market price may still sit below an intrinsic value estimate based on a Discounted Cash Flow (DCF) approach and supported by earnings multiples.\nOver 5 years, a total return of 18.8% points to steady wealth creation, rather than the kind of surge that often leaves a clear valuation premium.\nRecent commentary around dividend resilience and modest organic growth suggests stable...",
-                "image": "https://images.simplywall.st/asset/company-cover/33328-main-header/1756194107264",
-                "url": "https://simplywall.st/stocks/us/household/nyse-pg/procter-gamble/news/procter-gamble-pg-stock-still-looks-below-fair-value-today",
-                "source": "simplywall.st",
-                "date": "2026-07-11T01:02:16Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I tested the Flowtica Scribe. It looked good until I compared it to Gemini and a voice recorder",
+                "desc": "It has the write idea though",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/flowtica-scribe-notebook.JPG?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/flowtica-scribe-review/",
+                "source": "Android Police",
+                "date": "2026-07-11T15:00:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leaked GeForce RTX 5090 SE aims to bridge the RTX 5080 and RTX 5090 gap",
+                "desc": "The rumored NVIDIA RTX 5090 SE could bridge the RTX 5080 and 5090 gap, but leaked pricing and memory specs are contradictory.",
+                "image": "https://cdn.dlcompare.com/others_jpg/upload/news/image/en-leaked-geforce-rtx-5090-se-ai-a5711b10-image-a5711afb.jpg.webp",
+                "url": "https://www.dlcompare.com/gaming-news/leaked-geforce-rtx-5090-se-aims-to-bridge-the-rtx-5080-and-rtx-5090-gap-80372",
+                "source": "DLCompare.com",
+                "date": "2026-07-11T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+                "desc": "The Image Line CEO hits the forums and subreddits every day to keep in touch with his users.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&strip=all&crop=0%2C24.763158265338%2C100%2C34.691184608181&w=1200",
+                "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+                "source": "The Verge",
+                "date": "2026-07-11T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marvel Rivals Version 20260711 Balance Post",
+                "desc": "Marvel Rivals is a Super Hero Team-based PVP Shooter in the Marvel Universe developed by Marvel Games & NetEase Games, has already launched globally with All Heroes Free to Unlock. Play for free Now to Ignite the Battle!",
+                "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+                "url": "https://www.marvelrivals.com/20260711/41525_1307328.html",
+                "source": "Marvel Rivals",
+                "date": "2026-07-11T14:59:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy Tab S12+ Just Showed Up in Its First Live Image",
+                "desc": "Samsung Galaxy Tab S12+ just surfaced in a Korean certification image. Here's what it reveals about Samsung's upcoming $1,100+ flagship tablet in 2026.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/07/Samsung-Galaxy-Tab-S12-Just-Showed-Up-in-Its-First-Live-Image.jpg",
+                "url": "https://memeburn.com/samsung-galaxy-tab-s12-plus-live-image/",
+                "source": "Memeburn",
+                "date": "2026-07-11T14:58:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HKC Lists Specifications For World's First 31.4\" And 27\" RGB Mini LED Monitors; Launches A Dual Mode Fast IPS Gaming Monitor As Well",
+                "desc": "HKC unveils RGB Mini LED monitors APEX 27U165D and APEX 32U165VD with 165Hz 4K and 330Hz FHD, plus budget Falcon 27U165A for $235.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/HKC-RGB-mini-LED-monitors.jpg",
+                "url": "https://wccftech.com/hkc-lists-specifications-for-worlds-first-31-4-and-27-rgb-mini-led-monitors/",
+                "source": "Wccftech",
+                "date": "2026-07-11T14:57:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel 11 Series Release Date, Price, Specs, Expectations",
+                "desc": "The number of days before Google brings us new phones to obsess over are dwindling quickly. Assuming Google keeps to a familiar timeline for Pixel releases, the Pixel 11 series should arrive before the end of the summer and we're already into June. Thanks to numerous leaks, we know that Google...",
+                "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Pixel-11-Rumors-Specs-Release-Date-Price-1200x628.jpg",
+                "url": "https://www.droid-life.com/2026/07/11/pixel-11-series-everything-we-know-about-googles-new-phones/",
+                "source": "Droid Life",
+                "date": "2026-07-11T14:54:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages",
+                "desc": "Though it sets no precedent outside Brazil.",
+                "image": "https://cdn.mos.cms.futurecdn.net/mFKpufMPUKRTroyPTjZEZA-1920-80.png",
+                "url": "https://www.tomshardware.com/video-games/xbox/brazilian-court-orders-microsoft-to-restore-a-gamers-account-and-digital-library-after-it-told-him-to-rebuy-his-games",
+                "source": "Tom's Hardware",
+                "date": "2026-07-11T14:52:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This open source TV box has zero tracking and everyone I show it to wants one",
+                "desc": "It's time to rethink what's on your TV.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/04/vero-v-tv-stand.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/this-open-source-tv-box-has-zero-tracking-and-everyone-i-show-it-to-wants-one/",
+                "source": "How-To Geek",
+                "date": "2026-07-11T14:45:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Testing the Porsche Taycan Turbo S with Burmester",
+                "desc": "Faster than many supercars—but does it also deliver top-notch sound quality? We put the Burmester high-end sound system in the Porsche Taycan Turbo S to the test under real-world driving conditions.",
+                "image": "https://stereoguide.de/wp-content/uploads/2026/02/porsche-taycan-burmester-test-7891.jpg",
+                "url": "https://stereoguide.com/car-hi-fi/car-hi-fi-reviews/porsche-taycan-turbo-s-with-burmester-review-high-end-audio-in-an-electric-sports-car/",
+                "source": "stereoguide.com",
+                "date": "2026-07-11T14:42:49Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Hawks to tackle pigeon menace at £500m Elephant and Castle centre",
                 "desc": "Hawks will be deployed to scare pigeons away when the Elephant and Castle shopping centre opens later this year, developers have said.",
@@ -1174,99 +1264,81 @@
                 "source": "Irish Examiner",
                 "date": "2026-07-11T12:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A VPN Can Only Protect Your Privacy So Much. Here’s What to Consider",
-                "desc": "A VPN is a powerful privacy tool, but knowing what one can and can't do is important for protecting yourself online.",
-                "image": "https://www.cnet.com/a/img/resize/d80a215ee2f8ff6f93ea06147903c20c3ae25db4/hub/2024/05/11/dcf2a2b5-3f38-49fe-902d-6d74ee0e1262/vpn-general.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/services-and-software/vpn-privacy-limitations/",
-                "source": "CNET",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who Needs Scalpers When GameStop Is Marking Up Pokémon Cards By More Than 300 Percent?",
-                "desc": "Is paying a reasonable price for colorful cardboard too much to ask?",
-                "image": "https://www.engadget.com/img/gallery/who-the-hell-needs-scalpers-when-gamestop-is-marking-up-30th-anniversary-pokmon-cards-by-more-than-300-percent/l-intro-1783712761.jpg",
-                "url": "https://www.engadget.com/2212688/gamestop-resell-pokmon-30th-anniversary-at-obscene-markup/",
-                "source": "Engadget",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McLaren 788HS: A 777-HP Goodbye to the Supercar That Redefined Woking",
-                "desc": "For the supercar bloodline that began when the McLaren 720S landed in 2017 and rewrote what a series-production McLaren could be, that closing argument arrived on July 9 in the shape of the new 788HS, which took its first public bow up the hill at the Goodwood Festival of Speed. It is also the ...",
-                "image": "https://s.yimg.com/lo/mysterio/api/ada571b6179c790af5732f7ee98af76a5f2bfea9a0d48af4a4b1772e8094b21e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F0d71512b2258ba6c3fd12f6d0cf63e08",
-                "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/mclaren-788hs-777-hp-goodbye-114408018.html",
-                "source": "Yahoo Autos",
-                "date": "2026-07-11T11:44:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "6 niche programming languages developers secretly love",
-                "desc": "There are some languages that don't need mass appeal to be loved. Elixir, Lua, Zig, Clojure, Julia, and Rust prove that point a thousand times over.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/02/a-laptop-with-some-code-on-the-screen-and-a-mouse-cursor.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/niche-programming-languages-developers-secretly-love/",
-                "source": "How-To Geek",
-                "date": "2026-07-11T11:38:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows is much less distracting when you turn off these 5 unnecessary notifications",
-                "desc": "You don't have to be bothered with a never-ending stream of needles alerts.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/07/a-laptop-on-a-surface-with-the-phone-link-logo-and-notification-icons-around-it.png?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/windows-is-much-less-distracting-when-you-turn-off-these-unnecessary-notifications/",
-                "source": "How-To Geek",
-                "date": "2026-07-11T11:31:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donkey Kong Arcade Set Surfaces In New LEGO Leak, Here's A First Look",
-                "desc": "It's on like Donkey Kong! - Last month, Nintendo teased a brand-new Lego Donkey Kong set via the Nintendo Today app. In an update, it seems we've now got our...",
-                "image": "https://images.nintendolife.com/c7aa4189b4e5a/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-set-surfaces-in-new-lego-leak-heres-a-first-look",
-                "source": "Nintendo Life",
-                "date": "2026-07-11T00:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Audi Sport Quattro tribute has 600hp, €500k price tag",
-                "desc": "The HSR Manufakture Type 859 is an Audi Sport Quattro tribute that has a modern 600hp 2.5-liter five-cylinder engine and a €500,000 price tag. Read more.",
-                "image": "http://images.topgear.com.ph/topgear/images/2026/07/10/hsr-manufaktur-type-859-audi-sport-quattro-8-1783671427.webp",
-                "url": "https://www.topgear.com.ph/news/car-news/hsr-manufaktur-type-859-audi-sport-quattro-tguk-a2603-20260711",
-                "source": "Top Gear Philippines",
-                "date": "2026-07-11T00:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Audi Sport Quattro tribute has 600hp, €500k price tag",
-                "desc": "The HSR Manufakture Type 859 is an Audi Sport Quattro tribute that has a modern 600hp 2.5-liter five-cylinder engine and a €500,000 price tag. Read more.",
-                "image": "http://images.topgear.com.ph/topgear/images/2026/07/10/hsr-manufaktur-type-859-audi-sport-quattro-8-1783671427.webp",
-                "url": "https://www.topgear.com.ph/news/car-news/hsr-manufaktur-type-859-audi-sport-quattro-tguk-a2603-20260711?ref=home_feed_1",
-                "source": "Top Gear Philippines",
-                "date": "2026-07-11T00:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Solawave Discount Codes July 2026",
-                "desc": "Our deals editors found the best Solawave discount codes and deals available this week. Here's how to save.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4e961082d002cbda586463/0x0.jpg?format=jpg&crop=1600,900,x0,y0,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/solawave-discount-codes/",
-                "source": "Forbes",
-                "date": "2026-07-11T00:21:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Measure SEO Success: The Metrics That Actually Matter in 2026",
-                "desc": "SEO in 2026 is not about celebrating traffic spikes that never turn into sales. It is about organic revenue, qualified pipeline, share of voice, local actions, and whether your brand appears when AI answer engines summarise a category. I used that lens to rank seven of the best SEO agencies Australia has for small-to-mid businesses",
-                "image": "https://www.techguide.com.au/wp-content/uploads/2026/07/Business-Evaluation-Information-Growth-Concept.jpeg",
-                "url": "https://www.techguide.com.au/news/computers-news/how-to-measure-seo-success-the-metrics-that-actually-matter-in-2026/",
-                "source": "techguide.com.au",
-                "date": "2026-07-11T00:18:52Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Can Europe Beat the Heat Without More Air Conditioners?",
+                "desc": "Europe is increasingly adopting sustainable cooling technologies, smarter urban planning, and energy-efficient infrastructure to cope with intensifying heatwaves while limiting fossil fuel dependence.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-10_l4yxwv0vcr.jpg",
+                "url": "https://oilprice.com/Energy/Energy-General/Can-Europe-Beat-the-Heat-Without-More-Air-Conditioners.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-11T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A boat capsizes in southern Vietnam and kills 15 tourists not far from shore",
+                "desc": "A boat returning from an island trip in southern Vietnam capsized on Saturday, killing 15 Indian tourists less than half a kilometer (0.30 mile) from shore, as passengers shouted for help, officials and a witness said.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-capsized-tourist-boat-vietnam-mn-1050-0e88f6.jpg",
+                "url": "https://www.nbcnews.com/world/asia/boat-capsizes-southern-vietnam-kills-tourists-not-far-shore-rcna479754",
+                "source": "NBC News",
+                "date": "2026-07-11T14:56:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missouri flooding: 200 children and staff rescued by Black Hawk helicopters from summer camp after catastrophic flooding",
+                "desc": "The National Weather Service issued flash flood warnings for the area, which got between 6 and 12 inches (15 and 30 centimeters) of rain",
+                "image": "https://static.independent.co.uk/2026/07/11/15/2026-07-11T042751Z_639977201_RC2GBMA7776N_RTRMADP_3_USA-WEATHER-FLOODS.JPG?trim=0,197,0,197&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/missouri-flash-flooding-weather-camp-taum-sauk-b3013169.html",
+                "source": "The Independent",
+                "date": "2026-07-11T14:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Where retirement goes to die: Inside America’s geriatric government",
+                "desc": "US News: The TOI correspondent from Washington: Mystery surrounds the health condition of powerful US Senator Mitch McConnell, whose prolonged absence from the.",
+                "image": "https://static.toiimg.com/thumb/msid-132332984,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/where-retirement-goes-to-die-inside-americas-geriatric-government/articleshow/132332786.cms",
+                "source": "The Times of India",
+                "date": "2026-07-11T14:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spanish firefighters struggle to contain deadly wildfires as more villages evacuated",
+                "desc": "Autopsies conducted on all 12 bodies recovered from close to the forested district of Bédar",
+                "image": "https://www.irishtimes.com/resizer/v2/7TG2KVALARIZY24AGSOM6KRR2U.jpg?smart=true&auth=c629b39ad3832d34ad6b8239fdaaf99ee0f575359b4e5d13c48d6e84eb4bb935&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/europe/2026/07/11/spanish-firefighters-to-beat-back-deadly-wildfire-as-more-villages-evacuated/",
+                "source": "The Irish Times",
+                "date": "2026-07-11T14:49:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa seeks tariff exemption as US probes forced labor tied to imports",
+                "desc": "South Africa has asked the United States to exempt it from proposed tariffs tied to a U.S. investigation into the enforcement of forced labor in dozens of countries. A South African delegation...",
+                "image": "https://s.hdnux.com/photos/01/66/63/71/31145580/3/rawImage.jpg",
+                "url": "https://www.bigrapidsnews.com/news/world/article/south-africa-seeks-tariff-exemption-as-us-probes-22341496.php",
+                "source": "Big Rapids Pioneer",
+                "date": "2026-07-11T14:42:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Four settlers arrested in attack on journalists, including CNN, in West Bank",
+                "desc": "Four settlers were arrested after an attack on CNN and other journalists in the occupied West Bank on Saturday, according to Israel Police.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/150318130028-breaking-news-t1.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/11/middleeast/settlers-arrested-attack-on-journalists-intl",
+                "source": "CNN",
+                "date": "2026-07-11T14:41:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US seeks free Hormuz access from Iran as talks focus on strait",
+                "desc": "By Parisa Hafezi and Steve HollandDUBAI/WASHINGTON, July 11 (Reuters) - Iran's Foreign Minister Abbas Araqchi and his Omani counterpart on Saturday discussed arrangements for the safe passage of ships through the Strait of Hormuz, as Washington seeks a public pledge of free, secure transit.U.S. President Donald Trump said on Friday the U.S. and Iran had agreed to continue talks despite an escalation of hostilities this week, while also declaring an end to the ceasefire between the two countries.",
+                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-07/2026-07-11T044636Z_1_LYNXMPEM6A036_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.JPG?h=fc01e0da&itok=7sHhYcfM",
+                "url": "https://www.al-monitor.com/originals/2026/07/us-seeks-free-hormuz-access-iran-talks-focus-strait",
+                "source": "Al-Monitor",
+                "date": "2026-07-11T14:40:26Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Moldova's president nominates pro-European businessman Vasile Tofan for prime minister",
                 "desc": "If approved by parliament, Tofan will be tasked with driving Moldova closer to realising its EU membership goal and reviving an economy that has experienced years-long decline.",
@@ -1824,80 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-11T00:46:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
-                "desc": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help",
-                "image": "https://i.guim.co.uk/img/media/45bfd090b2fc996f49cae89b6964db6583c5179e/876_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=402274bed48e2eb49fb78bdad68c7113",
-                "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-                "source": "The Guardian",
-                "date": "2026-07-11T00:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japanese government to work with industry and academia on dual-use tech",
-                "desc": "A new strategy adopted Friday calls for “organic links” between scientific technology and national security.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/11/551129.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/news/2026/07/11/japan/japan-industry-academia-dual-use-tech/",
-                "source": "The Japan Times",
-                "date": "2026-07-11T00:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK arrests suspect in ex-lawmaker, reality TV contestant Ann Widdecombe's killing",
-                "desc": "British police have arrested a suspect in the killing of Ann Widdecombe, a former British member of Parliament and reality TV contestant.",
-                "image": "https://dims.apnews.com/dims4/default/f30ef5d/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2Fda%2Fefc5004fa9e53da0c70313bce17a%2Fed54c39c93cc4caaaca80cf9acc6213f",
-                "url": "https://apnews.com/article/britain-ann-widdecombe-death-murder-investigation-abc984245f0faa8ffe85590a19d084b4",
-                "source": "AP News",
-                "date": "2026-07-11T00:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
-                "desc": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/09c2/live/46d36bc0-7cbd-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/c4gy12gqzpvo",
-                "source": "BBC",
-                "date": "2026-07-11T00:17:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
-                "desc": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09c2/live/46d36bc0-7cbd-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo",
-                "source": "BBC",
-                "date": "2026-07-11T00:17:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "See if you can spot an AI deepfake with our test",
-                "desc": "Researchers in Aberdeen have been finding out if you can train people to identify computer-generated facial images.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cc3/live/e3048a10-7b7d-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c9d2wgvg55jo",
-                "source": "BBC",
-                "date": "2026-07-11T00:00:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cognizant finds mention as US begins visa fraud probe",
-                "desc": "International Business News: BENGALURU: The United States Department of Labour has launched an investigation into alleged fraud involving the H-1B and PERM employment visa program.",
-                "image": "https://static.toiimg.com/thumb/msid-132322929,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/business/international-business/cognizant-finds-mention-as-us-begins-visa-fraud-probe/articleshow/132322927.cms",
-                "source": "The Times of India",
-                "date": "2026-07-10T23:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who is Dr. Phil, and what is he doing in Greenland?",
-                "desc": "Dr. Phil has traded daytime therapy for Arctic oil, fronting a podcast for a Texas company's contested push to drill in East Greenland. Who is he, and what is he doing there?",
-                "image": "https://www.arctictoday.com/wp-content/uploads/2026/07/maxresdefault-2.jpg",
-                "url": "https://www.arctictoday.com/who-is-dr-phil-and-what-is-he-doing-in-greenland/",
-                "source": "Arctic Today",
-                "date": "2026-07-10T23:54:19Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T02:40:17.933004Z"
+    "lastGlobalSync": "2026-07-12T03:00:16.839012Z"
 }
