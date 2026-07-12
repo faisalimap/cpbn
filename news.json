@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "PSX snaps winning streak, loses 3,130 points",
+                "desc": "PSX snaps winning streak, loses 3,130 points",
+                "image": "https://i.tribune.com.pk/media/images/psx1783558129-0/psx1783558129-0-640x480.webp",
+                "url": "https://tribune.com.pk/story/2617774/psx-snaps-winning-streak-loses-3130-points",
+                "source": "The Express Tribune",
+                "date": "2026-07-11T23:34:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ageing Gas Plants Undermine Nigeria's Power Sector",
+                "desc": "A new report reveals how ageing gas plants are severely undermining Nigeria's power sector, operating below capacity despite decades of investment. Learn m",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/Power-Grid.webp",
+                "url": "https://punchng.com/ageing-gas-plants-undermine-nigerias-power-sector-report/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-11T23:31:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI protesters march through S.F. to demand development pause",
+                "desc": "About 200 protesters marched through San Francisco, urging OpenAI, Anthropic and Google DeepMind to pause new AI model training.",
+                "image": "https://s.hdnux.com/photos/01/66/64/02/31146165/5/rawImage.jpg",
+                "url": "https://www.sfchronicle.com/tech/article/san-francisco-ai-protest-22340835.php",
+                "source": "San Francisco Chronicle",
+                "date": "2026-07-11T23:31:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Jersey clears plug-in solar for all, giving renters an easier way to cut electric bills",
+                "desc": "\"One of the most low cost accessible ways to get into solar.\"",
+                "image": "https://s.yimg.com/lo/mysterio/api/0ad8d59e96a0b630972ad100768a77dd4d09355d5cf4c15e35f242ef3492e813/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fdf6d67917f67fff8e906ee41c3282bf4",
+                "url": "https://www.yahoo.com/news/science/articles/jersey-clears-plug-solar-giving-232200165.html",
+                "source": "Yahoo",
+                "date": "2026-07-11T23:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "River Island recalls kids’ clothes in UK over serious chemical risk",
+                "desc": "A British retail chain has recalled children’s clothing items after it was revealed they posed a “serious chemical risk”. Fashion brand River Island has...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/YB266ELGHJGKLPCAVPIEE2RMA4.webp?auth=8b290e2eaf34e5ff8959c94d79cb2f9f8771561e466646d212d1db1032c5a8d0&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/world/river-island-recalls-kids-clothes-over-serious-chemical-risk/KJYRBUG7Z5C2RM4DMQVPREENUA/",
+                "source": "NZ Herald",
+                "date": "2026-07-11T23:14:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Still no agreement on making costly prenatal testing available through the public system",
+                "desc": "A proposal on giving greater access to prenatal testing has gone to the Department of Health for consideration.",
+                "image": "https://img2.thejournal.ie/article/7097638/river/?height=400&version=7097726",
+                "url": "https://www.thejournal.ie/prenatal-chromosonal-testing-public-system-7097638-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-11T23:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jet2 flight LS869 declared an emergency immediately after takeoff from Manchester",
+                "desc": "MANCHESTER, UK — A holiday flight bound for Spain was forced to make a dramatic U-turn and emergency landing at Manchester Airport late Tuesday night after the crew reported fumes in the cockpit. Jet2 flight LS869, operated by a Boeing 737-800 (registration G-JZBZ), departed Manchester’s runway 05R at 10:15 PM, heading for Palma de Mallorca. […]",
+                "image": "https://airlive.net/wp-content/uploads/2026/07/LS869.jpg",
+                "url": "https://airlive.net/emergency/2026/07/11/jet2-flight-ls869-declared-an-emergency-immediately-after-takeoff-from-manchester/",
+                "source": "airlive",
+                "date": "2026-07-11T23:05:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ladies Day At Dundalk Handicap",
+                "desc": "Get the Ladies Day At Dundalk Handicap result for the 13:00 dundalk. View full result with expert form, analysis, positions, beaten margins and returned odds.",
+                "image": "https://www.sportinglife.com/favicon-16x16.png",
+                "url": "https://www.sportinglife.com/racing/racecards/2026-07-12/dundalk/racecard/927436/ladies-day-at-dundalk-handicap",
+                "source": "Sporting Life",
+                "date": "2026-07-11T23:04:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Vanguard ETF Warren Buffett Endorsed in 2014 Would Have Turned $5,000 Into $20,465 Today",
+                "desc": "The Oracle of Omaha understands that too many investors easily fall into the trap of trying to outperform the market, ultimately undermining their own performance.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877824%2Fwarren-buffett.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/the-vanguard-etf-warren-buffett-endorsed-in-2014-w/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T23:03:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Apple files lawsuit accusing OpenAI of stealing trade secrets",
                 "desc": "Apple said in the lawsuit that the theft of its trade secrets was part of a “coordinated pattern of misconduct at an institutional level” by OpenAI, the creator of ChatGPT.",
                 "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/apple-openai-lawsuit-5G77OJ7FRBBDNJJ7NSSEB5SW64.jpg?auth=3194142ca1fff9a2a9675002a518e9b59360afb53b0c89584d59af60ab7a43db&quality=70&width=600&height=315&focal=3514%2C1463",
@@ -551,90 +632,72 @@
                 "source": "CoinDesk",
                 "date": "2026-07-11T18:07:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Why I won't let this week's OCR hike scare me into playing 'safe' with my investments",
-                "desc": "OPINION: If this week left you wanting to find a safe place for your money, I don't blame you. But the 'safe' option for your money isn't always what you think.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/protect-piggybank-ULQKYV55MBB43CPJRUCPUWMQEQ.jpg?auth=82c9741710e4847e8c1093540c18c9cdd949d8bcb44eba44c5ab4c7acc24806b&quality=70&width=600&height=315&focal=1944%2C1301",
-                "url": "https://www.1news.co.nz/2026/07/12/why-i-wont-let-this-weeks-ocr-hike-scare-me-into-playing-safe-with-my-investments/",
-                "source": "1News",
-                "date": "2026-07-11T18:05:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Palantir Insiders Disgusted by Company's Leadership",
-                "desc": "Employees at surveillance giant Palantir are becoming disturbed with the higher-ups who sign their paychecks.",
-                "image": "https://futurism.com/wp-content/uploads/2026/07/palantir-workers-surveillance-disgusted-leaders.jpg?quality=85&w=1200",
-                "url": "https://futurism.com/future-society/palantir-workers-surveillance-disgusted-leaders",
-                "source": "Futurism",
-                "date": "2026-07-11T18:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Palantir Insiders Disgusted by Company’s Leadership",
-                "desc": "\"An absolute internal meltdown.\"",
-                "image": "https://s.yimg.com/lo/mysterio/api/4ea9aa5f5e570a1dcc6baea529338af7be425091033e1ecd53ed45b3665beeec/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2F5bb4f5504ba54b1d8090613221fe9e1b",
-                "url": "https://nz.news.yahoo.com/palantir-insiders-disgusted-company-leadership-180200946.html",
-                "source": "Yahoo News New Zealand",
-                "date": "2026-07-11T18:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Letting them fly",
-                "desc": "Helping my 16-year-old into the world of work this summer has turned out to be much harder on me than it is on her.",
-                "image": "https://img2.thejournal.ie/article/7096077/river/?height=400&version=7096208",
-                "url": "https://www.thejournal.ie/readme/parenting-in-2026-7096077-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-11T18:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prediction: Apple Will Be Worth $5 Trillion (or More) by the End of 2026",
-                "desc": "Those who bet against the tech leader don't have a great track record.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878392%2Fapple-logo.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/11/prediction-apple-will-be-worth-5-trillion-or-more/",
-                "source": "The Motley Fool",
-                "date": "2026-07-11T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Franklin Cudjoe: Azumah-E&P dispute is becoming “untidy and tedious”",
-                "desc": "President of IMANI Africa, Franklin Cudjoe, has urged the Minister of Lands and Natural Resources, Emmanuel Armah-Kofi Buah, to intervene in the ongoing",
-                "image": "https://www.citinewsroom.com/wp-content/uploads/2024/11/Franklin-Cudjoe-335296378.jpg",
-                "url": "https://www.citinewsroom.com/2026/07/frankline-cudjoe-azumah-ep-dispute-is-becoming-untidy-and-tedious/",
-                "source": "CitiNewsroom.com",
-                "date": "2026-07-11T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa's biggest truck maker warns 700% electricity price surge could undermine manufacturing",
-                "desc": "South Africas largest truck manufacturer, Isuzu Motors South Africa (IMSA), has warned that soaring electricity costs are placing growing pressure on the countrys manufacturing sector, urging the government to extend energy price relief to industrial users to help safeguard competitiveness. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/DSGktkpTURBXy80NTU5YzFkNDg3ZDhkZTY4YzQ1ZDJiNjhmZDE5NWRjMS5qcGeSlQMBAM0C4c0Bn5MFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/markets/south-africas-biggest-truck-maker-warns-700-electricity-price-surge-could-undermine/71ddhg6",
-                "source": "Business Insider Africa",
-                "date": "2026-07-11T17:47:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IEA says global oil demand picks up",
-                "desc": "The International Energy Agency said Friday that “a recovery” in global oil demand had started as supplies tentatively start moving through the strategic Strait of Hormuz again and prices ease.",
-                "image": "https://www.thedailystar.net/themes/custom/swallow/favicon.ico",
-                "url": "https://www.thedailystar.net/business/global-economy/news/iea-says-global-oil-demand-picks-4221531",
-                "source": "The Daily Star",
-                "date": "2026-07-11T17:46:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air Canada adds direct shuttle between Montreal airport and downtown",
-                "desc": "The shuttle costs $9 each way for Air Canada passengers.",
-                "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/07/hoho-and-1218-city-airport-7321_300414304.jpg",
-                "url": "https://montrealgazette.com/news/air-canada-adds-direct-shuttle-between-montreal-airport-and-downtown/",
-                "source": "Montreal Gazette",
-                "date": "2026-07-11T17:45:54Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Skip Pyrex: The Antique Dishware You Can Find At Thrift Stores That's A 'True Collector's Jewel'",
+                "desc": "The Le Creuset Dutch Oven Terrine is unique. Shaped like a duck and no longer in production, this piece is a rare and interesting twist on plain cookware.",
+                "image": "https://www.housedigest.com/img/gallery/skip-pyrex-the-antique-dishware-you-can-find-at-thrift-stores-thats-a-true-collectors-jewel/l-intro-1783514819.jpg",
+                "url": "https://www.housedigest.com/2210412/skip-pyrex-antique-dishware-le-creuset-duck-terrine-thrift-stores/",
+                "source": "House Digest",
+                "date": "2026-07-11T23:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI report accused of ruining startup’s reputation as Koi Security faces lawsuit over alleged cybersecurity hallucinations",
+                "desc": "Koi Security faces a legal battle after AI analysis sparks serious accusations",
+                "image": "https://cdn.mos.cms.futurecdn.net/c7YgN4hKc8SQX7FnAWApPE-1600-80.png",
+                "url": "https://www.techradar.com/pro/the-false-attributions-were-the-direct-product-of-kois-unsupervised-reliance-startup-sues-koi-security-after-ai-tool-hallucinates-and-links-it-to-a-chinese-spying-scam",
+                "source": "TechRadar",
+                "date": "2026-07-11T23:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The McLaren 788HS - The End of an Era, and What a Send-Off It Is",
+                "desc": "McLaren just dropped the final curtain call on the 720S/750S/765LT supercar lineage, and they're going out with a bang. Enter the McLaren 788HS: the th ...",
+                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/9276560-18153-ns-mclaren-788hs-coupe-01-final-scaled.webp",
+                "url": "https://www.tarmaclife.co.nz/news/the-mclaren-788hs-the-end-of-an-era-and-what-a-send-off-it-is/",
+                "source": "Tarmac Life",
+                "date": "2026-07-11T23:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No, Windows did not fall below 60% market share or lose 20 points to Linux",
+                "desc": "A web analytics company, claimed that Windows' market share had fallen from 70% to just 56%, but as expected, it turned out to be a reporting error",
+                "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Windows-market-share-1.jpg",
+                "url": "https://www.windowslatest.com/2026/07/12/no-windows-did-not-fall-below-60-market-share-or-lose-15-points-to-linux/",
+                "source": "Windows Latest",
+                "date": "2026-07-11T23:21:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Podcasting Microphones With Great Audio For Every Budget",
+                "desc": "Whether you're investing in a massive upgrade to your equipment or just getting started, there's a podcasting microphone for everyone if you know where to look.",
+                "image": "https://www.bgr.com/img/gallery/5-podcasting-microphones-with-great-audio-for-every-budget/l-intro-1783452724.jpg",
+                "url": "https://www.bgr.com/2209987/podcasting-microphones-great-audio-every-budget/",
+                "source": "bgr.com",
+                "date": "2026-07-11T23:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toyota's Sports Cars Are Outselling BMW's By More Than 3 To 1",
+                "desc": "Toyota sold 3,523 GR86, GR Supra, and Lexus LC units in Q2 2026 vs. BMW's 1,099 Z4s — and BMW has no replacement coming.",
+                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-z4-main.png?w=1600&h=900&fit=crop",
+                "url": "https://carbuzz.com/toyota-sports-cars-outselling-bmw/",
+                "source": "CarBuzz",
+                "date": "2026-07-11T23:10:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel Watch 5 Price and Colors Leak Ahead of August Launch",
+                "desc": "Leaked Pixel Watch 5 pricing reveals a $50 increase to $399 for the base model, matching Apple Watch Series 11. Four colors confirmed ahead of the August 12 Made by Google event.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/07/Pixel-Watch-5-Price-and-Colors-Leak-Ahead-of-August-Launch.jpg",
+                "url": "https://memeburn.com/pixel-watch-5-price-and-colors-leak-ahead-of-august-launch/",
+                "source": "Memeburn",
+                "date": "2026-07-11T23:05:50Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "I bought a $10 Blu-ray player at a thrift store and it beats streaming quality",
                 "desc": "You don't need to spend a fortune to beat streaming with physical media. Here's how I did it.",
@@ -1201,72 +1264,99 @@
                 "source": "MakeUseOf",
                 "date": "2026-07-11T18:30:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "McLaren 788HS Unveiled: Final 700-Series Supercar",
-                "desc": "McLaren has unveiled the 788HS, the final evolution of its 700 series of supercars, limited to 200 units with a 788PS V8 and revised aerodynamics.",
-                "image": "https://images.drivespark.com/img/2026/07/mclaren-788hs-coupe-cover-88471783794511.jpg",
-                "url": "https://www.drivespark.com/four-wheelers/2026/mclaren-788hs-final-700-series-supercar-unveiled-087473.html",
-                "source": "DriveSpark",
-                "date": "2026-07-11T18:28:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I've found my perfect summer game: A stomach-churning horror story about Czech train conductors built over...",
-                "desc": "Rancid vibes only.",
-                "image": "https://s.yimg.com/lo/mysterio/api/d16d7cea2b33e5142e19e28ae99375208183d6d0ab3b723ac4605c828cbc93a2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2Fd783544810d301352df2070938163d63",
-                "url": "https://tech.yahoo.com/gaming/articles/ive-found-perfect-summer-game-182312928.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-11T18:23:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 Reasons Why Owners Ditch Their Google Pixel Phone",
-                "desc": "Google's Pixel line has a dedicated userbase that swears by the phones, but there are just as many disappointed users who have sworn off the brand.",
-                "image": "https://www.bgr.com/img/gallery/4-reasons-why-owners-ditch-their-google-pixel-phone/l-intro-1783438090.jpg",
-                "url": "https://www.bgr.com/2209620/reasons-why-owners-ditched-google-pixel-phone/",
-                "source": "bgr.com",
-                "date": "2026-07-11T18:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Health users asked to allow use of their health data for AI training or it will be deleted",
-                "desc": "The Korean brand says the data will be used to improve Samsung Health, including algorithms to analyse health conditions and its AI features.",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-health-data-ai-training-consent/-952x498w6/gsmarena_001.jpg",
-                "url": "https://www.gsmarena.com/samsung_health_data_ai_training_consent-news-73683.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-11T18:15:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Are 4WDs too clever to have fun?",
-                "desc": "Modern-day off-roaders are impressive, no doubt about that: they're generally quite comfortable on-road and often quite capable off-road.",
-                "image": "https://www.centralwesterndaily.com.au/images/transform/v1/crop/frm/silverstone-feed-data/955491dd-7cc6-4b01-a28e-bc1b184d9d61.jpg/r0_4_1490_786_w1200_h630_fmax.jpg",
-                "url": "https://www.centralwesterndaily.com.au/story/9308883/are-4wds-too-clever-to-have-fun/",
-                "source": "Central Western Daily",
-                "date": "2026-07-11T18:14:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ubisoft Reports 4% Drop in Average Employee Compensation",
-                "desc": "According to its 2026 annual report, average compensation for Ubisoft employees dropped 4% year-on-year.",
-                "image": "https://insider-gaming.com/wp-content/uploads/2026/02/Ubisoft_Header.webp",
-                "url": "https://insider-gaming.com/ubisoft-reports-4-drop-in-average-employee-compensation/",
-                "source": "Insider Gaming",
-                "date": "2026-07-11T18:13:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Are 4WDs too clever to have fun?",
-                "desc": "Modern-day off-roaders are impressive, no doubt about that: they're generally quite comfortable on-road and often quite capable off-road.",
-                "image": "https://www.standard.net.au/images/transform/v1/crop/frm/silverstone-feed-data/955491dd-7cc6-4b01-a28e-bc1b184d9d61.jpg/r0_4_1490_786_w1200_h630_fmax.jpg",
-                "url": "https://www.standard.net.au/story/9308883/are-4wds-too-clever-to-have-fun/",
-                "source": "The Standard | Warrnambool, VIC",
-                "date": "2026-07-11T18:11:51Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Iran strikes Gulf neighbours after new US attacks",
+                "desc": "Iran announced the closure of the Strait of Hormuz \"until further notice and until the end of American interventions in this region\".",
+                "image": "https://dam.mediacorp.sg/image/upload/s--oX-RBk-r--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-11T232134Z_1_LYNXMPEM6A0GA_RTROPTP_3_IRAN-CRISIS-SHIPPING-UN.JPG?itok=j_NkXPCm",
+                "url": "https://www.channelnewsasia.com/world/iran-strait-hormuz-closed-unauthorised-vessel-hit-6248636",
+                "source": "CNA",
+                "date": "2026-07-11T23:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran says it hit vessel in Strait of Hormuz, declares route closed; U.S. announces retaliatory strikes",
+                "desc": "Iran said it considers the Strait of Hormuz closed once again after a vessel using an \"unauthorized route\" was struck by a warning shot in the critical waterway, further jeopardizing the already tenuous ceasefire agreement with the United States.",
+                "image": "https://i.cbc.ca/ais/e353e7ee-82f0-4178-99a0-fddea0100288,1783813208772/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C251%2C5500%2C3093%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/iran-strait-of-hormuz-9.7267163",
+                "source": "CBC",
+                "date": "2026-07-11T23:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Congress recalls former NZ PM’s role in reviving ties with India in the 1980s as Modi elevates partnership",
+                "desc": "Congress highlights former NZ PM David Lange's pivotal role in strengthening India-New Zealand relations during the 1980s amid partnership elevation.",
+                "image": "https://th-i.thgim.com/public/incoming/3bp8sr/article71212251.ece/alternates/LANDSCAPE_1200/PTI06_24_2026_000060B.jpg",
+                "url": "https://www.thehindu.com/news/national/congress-recalls-former-nz-pms-role-in-reviving-ties-with-india-in-the-1980s-as-modi-elevates-partnership/article71210771.ece",
+                "source": "The Hindu",
+                "date": "2026-07-11T23:33:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran declares Strait of Hormuz closed, US renews strikes",
+                "desc": "Iran said it closed the Strait of Hormuz after a vessel travelled on an unapproved route and was struck.",
+                "image": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_94/t_crop_custom/q_86%2Cf_auto/d6017b19c2cdbbd7712c9f80ce110c48b9067cf1",
+                "url": "https://www.smh.com.au/world/middle-east/iran-declares-strait-of-hormuz-closed-until-the-end-of-us-interference-in-this-region-20260712-p60elg.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-11T23:30:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK police make new arrest over killing of former politician",
+                "desc": "The former UK politician and reality TV contestant was found dead in her isolated rural home in the village of Haytor on the edge of Dartmoor National Park.",
+                "image": "https://static.ffx.io/images/$zoom_0.1935%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4812a0914fec38114a4cc3ebd29d40b6da73f173",
+                "url": "https://www.smh.com.au/world/europe/police-make-new-arrest-over-killing-of-former-uk-minister-ann-widdecombe-20260712-p60eln.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-11T23:25:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police in Britain make new arrest over Widdecombe killing",
+                "desc": "British police have arrested a 28-year-old man on suspicion of killing former politician Ann Widdecombe.",
+                "image": "https://dims.apnews.com/dims4/default/2db0f42/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F70%2Fd7a4fd3a49bd9463f07098a7bbb5%2F1cf06351c639461e82c8428fe35d8f73",
+                "url": "https://apnews.com/article/ann-widdecombe-british-politician-murder-investigation-d01ef397629ecb0149303fa19fd62106",
+                "source": "AP News",
+                "date": "2026-07-11T23:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "old arrested on suspicion of Widdecombe murder",
+                "desc": "A 28-year-old man has been arrested in South Yorkshire on suspicion of the murder of former MP and MEP Ann Widdecombe, UK police have said.",
+                "image": "https://www.rte.ie/images/0024adcc-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0711/1582939-widdecombe-murder/",
+                "source": "RTE.ie",
+                "date": "2026-07-11T23:14:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sky News Australia",
+                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+                "source": "Sky News Australia",
+                "date": "2026-07-11T23:11:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over 1.7 million evacuated as Typhoon Bavi makes landfall in China",
+                "desc": "Chinese authorities issued high alerts while eastern China braced for Bavi, which had maximum sustained winds of 144km/h near its centre.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/huge-waves-crash-on-the-coastline-ahead-of-typhoon-bavi-in-w-5JMJKDYZZFCNJFJAAJQBSYCLRA.jpg?auth=917b16cfa11c72eb32bb47dccc4700ef7d07fcca369be77f978182d5ad4d7654&quality=70&width=600&height=315&focal=2065%2C1292",
+                "url": "https://www.1news.co.nz/2026/07/12/over-17-million-evacuated-as-typhoon-bavi-makes-landfall-in-china/",
+                "source": "1News",
+                "date": "2026-07-11T23:05:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran's elite fears losing Strait of Hormuz if Israel joins IMEC project",
+                "desc": "Iran is worried that the rapid advance of the IMEC corridor could offer a viable alternative to trade and energy flows through the Strait of Hormuz, while strengthening Israel's regional standing.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/551889",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-902182",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-11T23:02:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Typhoon makes landfall in China after forcing nearly two million to flee",
                 "desc": "There was no immediate word on damage or casualties.",
@@ -1806,98 +1896,8 @@
                 "source": "RTE.ie",
                 "date": "2026-07-11T17:33:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Supermarket staff call police after naked woman marches into store",
-                "desc": "Shop workers reported the woman entered the store without any clothes but then dressed herself before leaving.",
-                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7035192.jpg",
-                "url": "https://www.express.co.uk/news/world/2228087/supermarket-staff-call-police-completely",
-                "source": "Daily Express",
-                "date": "2026-07-11T17:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump administration subpoenas New York Times journalists after Air Force One reporting",
-                "desc": "The Trump administration's move, which seeks to force the reporters to testify before a federal grand jury, should 'shock the conscience' of Americans, a New York Times lawyer says.",
-                "image": "https://i.cbc.ca/ais/f22c8887-46f1-4164-9d5c-acffd4edc114,1783781845967/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C579%2C8640%2C4860%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/trump-new-york-times-subpoenas-air-force-one-9.7266938",
-                "source": "CBC",
-                "date": "2026-07-11T17:26:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US congressman says he was detained by armed Israeli settlers in occupied West Bank",
-                "desc": "Ro Khanna said settlers were armed with US-made weapons and Israel Defense Forces refused to intervene",
-                "image": "https://i.guim.co.uk/img/media/8714504135d810afb951eac88fb8caf073e721a9/1002_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e829bf548d79bb64574cd23917e1f0e",
-                "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
-                "source": "The Guardian",
-                "date": "2026-07-11T17:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian-origin former Google employee shot dead by husband in US' Georgia; son survives",
-                "desc": "Police said the shooting stemmed from a domestic dispute, though the exact circumstances leading to the incident remain under investigation. | World News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/11/550x309/sheetal_us_georgia_1783789082686_1783789082833_c1fc3e38-552c-4cfb-af82-53dca91eb172.jpeg",
-                "url": "https://www.hindustantimes.com/world-news/sheetal-wrzesien-indian-origin-former-google-employee-shot-dead-by-husband-in-georgia-son-injured-survives-cobb-county-101783787736034.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-11T17:17:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump suggests a standing order to attack Iran if it assassinates him, but Vance would make the call",
-                "desc": "WASHINGTON: President Donald Trump is suggesting he has left standing orders for the US military to destroy Iran ” at levels they’ve never seen before ” if Tehran follows through on its long-standing threats to kill him. But the US government has no way to create an automatic, preauthorized “dead man’s switch” that would prompt immediate retaliation. Instead, if Trump were",
-                "image": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/11/4730347-549867328.jpg?itok=UMmm2sxz",
-                "url": "https://www.arabnews.com/node/2650545/world",
-                "source": "Arab News",
-                "date": "2026-07-11T17:08:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "​To Replace T-72s Transferred to Ukraine, Czechia Has Got 42 Leopard 2A4s as Intermediate Version of Country's Main Tank",
-                "desc": "Against the backdrop of the supply of T-72 tanks to Ukraine, the Czech Republic has re-armed with German Leopard 2A4 tanks, which were received not only as part of the \"circular exchange\" from Germany",
-                "image": "https://en.defence-ua.com/media/illustration/articles/8e06a526bcd1b55a.jpg",
-                "url": "https://en.defence-ua.com/news/to_replace_t_72s_transferred_to_ukraine_czechia_has_got_42_leopard_2a4s_as_intermediate_version_of_countrys_main_tank-19102.html",
-                "source": "Defense Express",
-                "date": "2026-07-11T17:06:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eritrea: Mai-Nefhi College of Science Graduates 300 Students",
-                "desc": "Eritrea: Mai-Nefhi College of Science Graduates 300 Students",
-                "image": "https://www.zawya.com/favicon.ico",
-                "url": "https://www.zawya.com/en/press-release/africa-press-releases/eritrea-mai-nefhi-college-of-science-graduates-300-students-imprfz1c",
-                "source": "ZAWYA",
-                "date": "2026-07-11T17:06:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s Poverty Alleviation Model Offers Lessons for the Global South",
-                "desc": "China's achievement has been widely recognized as unprecedented in scale and speed. It demonstrates how a large and populous developing country can eliminate extreme poverty through sustained policy implementation, targeted...",
-                "image": "https://capitalfm.africa/wp-content/uploads/2026/07/Ningxia.jpeg",
-                "url": "https://capitalfm.africa/chinas-poverty-alleviation-model-offers-lessons-for-the-global-south/",
-                "source": "Capitalfm.co.ke",
-                "date": "2026-07-11T17:03:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN acts ahead of drought to protect thousands in South Sudan",
-                "desc": "Anticipatory action is when humanitarian assistance is triggered before a crisis hits to protect lives, food security and incomes, WFP explained.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-11-153339.webp",
-                "url": "https://eastleighvoice.co.ke/south-sudan/378254/un-acts-ahead-of-drought-to-protect-thousands-in-south-sudan",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-11T16:59:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese evacuates more than 1 million as Typhoon Bavi makes landfall",
-                "desc": "China’s national weather center says Typhoon Bavi has made landfall in the eastern province of Zhejiang and is expected to gradually weaken.",
-                "image": "https://dims.apnews.com/dims4/default/7761748/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2F4b%2F3c093b972f39157a415d7d50fcb8%2F94043e3d62734d888d390d9b45b4b4be",
-                "url": "https://apnews.com/article/typhoon-bavi-taiwan-china-japan-bfdfdbb239f38b6c22a54c8349ce8d28",
-                "source": "AP News",
-                "date": "2026-07-11T16:54:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T11:01:10.081662Z"
+    "lastGlobalSync": "2026-07-12T11:41:11.794221Z"
 }
