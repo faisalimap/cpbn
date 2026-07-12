@@ -636,6 +636,33 @@
         ],
         "technology": [
             {
+                "title": "My phone doesn't go anywhere without this $10 accessory; it's better than a headphone jack",
+                "desc": "A simple splitter which opens a world of possibilities",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/android-phone-splitter-hero-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/my-phone-doesnt-go-anywhere-without-this-10-accessory/",
+                "source": "Android Police",
+                "date": "2026-07-11T17:00:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AIC Gets Flashy with 32 SSD Bay JBOF Server for Key Value Caching",
+                "desc": "In preparation for the Rubin Vera era, AIC was showing off its F2032-01-G6, a 2U JBOF storage system that can house up to 32 E3 SSDs. The box is designed to be paired with BlueField-4 DPUs, allowing it to be used as a key value caching appliance",
+                "image": "https://www.servethehome.com/wp-content/uploads/2026/07/AIC-F2032-01-G6-JBOF-Server.jpg",
+                "url": "https://www.servethehome.com/aic-gets-flashy-with-32-ssd-bay-jbof-server-for-key-value-caching/",
+                "source": "ServeTheHome",
+                "date": "2026-07-11T17:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "To Build More Believable Bots, Simulate The Neurochemistry",
+                "desc": "Giving machines the ability to communicate nonverbally has real value, and [Drew Smith] clearly thinks your robot deserves better than an emoji. He shared a very interesting approach with his project ...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/07/Kindalive-banner.png",
+                "url": "https://hackaday.com/2026/07/11/to-build-more-believable-bots-simulate-the-neurochemistry/",
+                "source": "Hackaday",
+                "date": "2026-07-11T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Saturday Pre-orders - New starter sets for Warhammer newcomers",
                 "desc": "Check out this week’s pre-orders for Warhammer 40,000 and Black Library.",
                 "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/preorders-jul11-1-feature-bfqt6yhrgn.jpg",
@@ -1237,36 +1264,18 @@
                 "source": "Android Police",
                 "date": "2026-07-11T13:30:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Five Games Are Confirmed For Xbox Game Pass In August 2026 So Far",
-                "desc": "An early look at what's to come - As we always do around this time of the month, we're taking an early look today at what's ahead for August 2026's Xbox Game...",
-                "image": "https://images.purexbox.com/92690b4f0c846/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/07/five-games-are-confirmed-for-xbox-game-pass-in-august-2026-so-far",
-                "source": "Pure Xbox",
-                "date": "2026-07-11T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Actually Changed for Metastatic Disease? Kefah Mokbel on NCCN Breast Cancer v4.2026 Updates",
-                "desc": "What Actually Changed for Metastatic Disease? Kefah Mokbel on NCCN Breast Cancer v4.2026 Updates / Breast Cancer, breast cancer guidelines, cancer, Kefah",
-                "image": "https://oncodaily.com/pub/uploads/2025/10/Kefah-Mokbel-1280x720.jpg",
-                "url": "https://oncodaily.com/science/kefah-mokbel-539722",
-                "source": "Oncodaily",
-                "date": "2026-07-11T13:27:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pokémon Go 'Genetic Mastery' Steps: Mega Mewtwo X or Y?",
-                "desc": "Want to know whether you should pick Mega Mewtwo X or Mega Mewtwo Y during the Genetic Mastery quest? Then look hear to learn more about this Pokémon Go quest.",
-                "image": "https://assetsio.gnwcdn.com/Pokemon-Go-Mewtwo-Branching-Research-Quest-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/pokemon-go-genetic-mastery-mega-mewtwo-x-y-best-choose-path-choice-rewards",
-                "source": "Eurogamer.net",
-                "date": "2026-07-11T13:16:34Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "UN acts ahead of drought to protect thousands in South Sudan",
+                "desc": "Anticipatory action is when humanitarian assistance is triggered before a crisis hits to protect lives, food security and incomes, WFP explained.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-11-153339.webp",
+                "url": "https://eastleighvoice.co.ke/south-sudan/378254/un-acts-ahead-of-drought-to-protect-thousands-in-south-sudan",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-11T16:59:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Chinese evacuates more than 1 million as Typhoon Bavi makes landfall",
                 "desc": "China’s national weather center says Typhoon Bavi has made landfall in the eastern province of Zhejiang and is expected to gradually weaken.",
@@ -1887,17 +1896,8 @@
                 "source": "Modern Ghana",
                 "date": "2026-07-11T13:10:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "China’s Long March-10B rocket feat lights up social media: is SpaceX set to lose crown?",
-                "desc": "The space race just became a real race again, says one online commentator, after net-and-cable recovery of rocket booster sparks awe.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/11/a5512f9f-21ca-4d2e-8591-917970e7639b_71e5bc9f.jpg?itok=bRjbKT9O&v=1783769851",
-                "url": "https://www.scmp.com/news/china/science/article/3360231/chinas-long-march-10b-rocket-feat-lights-social-media-spacex-set-lose-crown",
-                "source": "South China Morning Post",
-                "date": "2026-07-11T13:00:16Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T04:59:20.657498Z"
+    "lastGlobalSync": "2026-07-12T05:00:20.070330Z"
 }
