@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "Emirates is ready to introduce its Airbus A380 services to Hyderabad",
+                "desc": "The CM also invited Emirates to establish Maintenance, Repair and Overhaul (MRO) facilities at the proposed airports in Warangal and Adilabad, positioning Telangana as an emerging aviation hub",
+                "image": "https://bl-i.thgim.com/public/incoming/c0eex2/article71211258.ece/alternates/LANDSCAPE_1200/458261612.jpg",
+                "url": "https://www.thehindubusinessline.com/economy/logistics/emirates-is-ready-to-introduce-its-airbus-a380-services-to-hyderabad/article71211088.ece",
+                "source": "BusinessLine",
+                "date": "2026-07-11T15:40:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prediction: Taiwan Semiconductor's Stock Will Soar on July 17",
+                "desc": "Taiwan Semiconductor Manufacturing will set the tone for AI demand during earnings season.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878163%2Ftsm.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/predict-taiwan-semiconductor-tsmc-stock-will-soar/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T15:37:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high",
+                "desc": "The Federal Reserve’s rate-setting committee is split over whether inflation is likely to stay elevated or whether it will cool once the Iran war winds down, according to minutes released Wednesday.",
+                "image": "https://dims.apnews.com/dims4/default/108f880/2147483647/strip/true/crop/4880x3252+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F51%2F023f94aae780c6985faf50be92ac%2F400d6ed3f02b46388d9a02fb9ecd084d",
+                "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-6e3bec84857235030c5aa6859869f33f",
+                "source": "AP News",
+                "date": "2026-07-11T15:32:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Nigeria, Cameroon, Côte d'Ivoire, Ghana join forces to boost Cocoa production",
+                "desc": "Nigeria, Cameroon, Côte d'Ivoire, and Ghana have announced plans to join forces to boost Cocoa production.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2025/03/Nigeria-Cocoa.jpg",
+                "url": "https://thesun.ng/nigeria-cameroon-cote-divoire-ghana-join-forces-to-boost-cocoa-production/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-11T15:23:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man admits to spraying own car in Worcester taxi rank",
+                "desc": "A man has admitted that he sprayed his own car in Worcester city centre as part of a publicity stunt.",
+                "image": "https://www.worcesternews.co.uk/resources/images/21171095.jpg?type=og-image&xType=0&yType=100",
+                "url": "https://www.worcesternews.co.uk/news/26272551.man-admits-spraying-car-worcester-taxi-rank/",
+                "source": "The Worcester News",
+                "date": "2026-07-11T15:22:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man arrested after crash on Gatwick Airport main road",
+                "desc": "The collision, which closed the A23 Airport Way near Junction 9A of the M23, occurred at around 1.35pm earlier today (July 11).",
+                "image": "https://www.theargus.co.uk/resources/images/21171071.jpg?type=og-image",
+                "url": "https://www.theargus.co.uk/news/26272550.man-arrested-crash-gatwick-airport-main-road/",
+                "source": "The Argus",
+                "date": "2026-07-11T15:20:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple",
+                "desc": "Most of OpenAI’s Apple recruits came from Ternus’ hardware engineering division, and some designers had backed Tan over Ternus for the top hardware job in 2021.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2156402117-e1783782201684.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/11/openai-engineers-legal-fight-apple-ai-product-poaching/",
+                "source": "Fortune",
+                "date": "2026-07-11T15:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What $5,000 Invested in SpaceX Could Be Worth by 2030",
+                "desc": "Here are the bull, base, and bear cases every investor should consider.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877826%2Fgettyimages-1328283439.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/what-5000-invested-in-spacex-could-be-worth-2030/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T15:07:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.",
+                "desc": "Wood and her team have been staunch believers in crypto for many years.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878013%2Fperson-analytical-1.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/cathie-wood-buy-coinbase-circle-clarity-act-vote/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T15:07:08Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Mag 7 and software could boost portfolio in second half: ETF Action",
                 "desc": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108288920-1775679881284-gettyimages-2269830686-AFP_A77J38N.jpeg?v=1783716112&w=1920&h=1080",
@@ -551,90 +632,99 @@
                 "source": "NW Mail",
                 "date": "2026-07-11T12:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Diesel braced for big-time oil price jump",
-                "desc": "Brace yourselves for a steep increase in fuel expenses next week as the squeeze on global middle distillate inventories and renewed geopolitical tensions in the...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/11/115269.webp",
-                "url": "https://mb.com.ph/2026/07/11/diesel-braced-for-big-time-oil-price-jump",
-                "source": "Manila Bulletin",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sulphur exposes chokepoints in global production networks",
-                "desc": "When the Strait of Hormuz closed, sulphur chokepoints turned a regional conflict into a shock affecting global food production and clean energy manufacturing.",
-                "image": "https://eastasiaforum.org/wp-content/uploads/2026/07/2026-04-14T084313Z_1796609816_MT1VCG000JFCGP4_RTRMADP_3_VCG-1200x800.jpg",
-                "url": "https://eastasiaforum.org/2026/07/11/sulphur-exposes-chokepoints-in-global-production-networks/",
-                "source": "East Asia Forum",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘End of an era’: what is the future of British TV after Sky’s ITV takeover?",
-                "desc": "Merger stokes fears over job cuts, US influence and possible BBC and Channel 4 tie-up to take on Netflix and YouTube",
-                "image": "https://i.guim.co.uk/img/media/91047cdd523aab77c87f48c349f47f0d74304365/305_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5da0c90b768b01e3d7a32c0bacf89b3",
-                "url": "https://www.theguardian.com/media/2026/jul/11/british-tv-sky-itv-takeover-bbc-channel-4-netflix-youtube",
-                "source": "The Guardian",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China Aligns With South Korea, Malaysia and Other Global Leading Countries as Thailand Tourism Growth 2026 Accelerates with Agoda Insights Revealing Rising Asian Visitor Demand, Bangkok, Pattaya, Phuk",
-                "desc": "China, South Korea and Malaysia drive Thailand Tourism Growth 2026 as Agoda reveals Asian visitor demand boosting inbound travel, connectivity and destinations.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Thailand-1-3.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/76se0gokqi84/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-11T11:57:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Boeing unveils new 737 MAX production line as aviation giant charts comeback",
-                "desc": "Boeing marked another step in a marathon comeback Friday when it celebrated expanded production of the 737 MAX, now an aircraft in heavy demand after earlier disasters tarnished the company's reputation.",
-                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/6f459543084c5c86dbb8ffcdf214fb0d/2026-07/AFP__20260711__B9WD6RB__v1__HighRes__BoeingMarksTheStartOfNorthLineToExpand737MaxOut.jpg",
-                "url": "https://www.thestandard.com.hk/world/article/336968/Boeing-unveils-new-737-MAX-production-line-as-aviation-giant-charts-comeback",
-                "source": "The Standard (HK)",
-                "date": "2026-07-11T11:39:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan",
-                "desc": "Meta's announcement doesn't spell doom for the neocloud market.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878280%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/11/coreweave-stock-sank-11-after-mark-zuckerbergs-me/",
-                "source": "The Motley Fool",
-                "date": "2026-07-11T11:35:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meet the Unstoppable Vanguard ETF Obliterating the S&P 500 in 2026",
-                "desc": "Investors have favored domestic companies amid the increasingly uncertain geopolitical environment.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878241%2Fan-investor-intently-focused-on-their-computer-screens-which-are-displaying-stock-charts.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/11/meet-the-vanguard-etf-obliterating-sp-500-in-2026/",
-                "source": "The Motley Fool",
-                "date": "2026-07-11T11:35:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump touts Micron Technology $250B memory chip investment as 'The Trump Effect'",
-                "desc": "Trump hailed the \"Trump Effect\" after Micron CEO Sanjay Mehrotra announced the company boosted its U.S. chip manufacturing investment to $250 billion.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/trump-micron-250-billion-investment.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/politics/trump-celebrates-250b-micron-investment-america-getting-shovels-ground",
-                "source": "Fox Business",
-                "date": "2026-07-11T01:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asian shares gain despite new US-Iran clashes",
-                "desc": "RECAP: Asian stocks rose sharply yesterday, led by ‌chip and AI firms, as investors brushed off concern about fresh US-Iran hostilities, which has put the spotlight back on oil prices and inflation risk.",
-                "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-                "url": "https://www.bangkokpost.com/business/general/3284194/asian-shares-gain-despite-new-usiran-clashes",
-                "source": "Bangkok Post",
-                "date": "2026-07-11T01:34:18Z",
-                "priority": "MAJOR_ALERT"
             }
         ],
         "technology": [
+            {
+                "title": "We got an exclusive first look at Nopia, the viral chord synth and \"harmony machine\" that broke the internet",
+                "desc": "Creators Martin Grieco and Rocío Gal visit the MusicRadar studio to show us what Nopia can do and reveal its price ahead of the instrument's release later this year",
+                "image": "https://cdn.mos.cms.futurecdn.net/PWV5uwd9kgCPQWVybPKdCS-1280-80.jpg",
+                "url": "https://www.musicradar.com/music-tech/we-got-an-exclusive-first-look-at-nopia-the-viral-chord-synth-and-harmony-machine-that-broke-the-internet",
+                "source": "MusicRadar",
+                "date": "2026-07-11T15:37:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Assassin's Creed Black Flag Resynced opens to 2 million sales on launch day",
+                "desc": "Ubisoft tends not to share sales figures publicly – which means we can't even compare it to the sales of prior Assassin's Creed games, let alone its peers.",
+                "image": "https://assetsio.gnwcdn.com/Main-Image-2-Edward-Smiling-Finding-Treasure.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-2-million-sales",
+                "source": "Eurogamer.net",
+                "date": "2026-07-11T15:32:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your music app's high-res lossless setting is doing nothing your ears can hear",
+                "desc": "Files beyond CD quality sound impressive on paper, but they're unnecessary for almost everyone.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/hi-res-lossless-apple-music.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/your-high-res-lossless-setting-is-doing-nothing/",
+                "source": "MakeUseOf",
+                "date": "2026-07-11T15:30:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kelly Slater’s Pro Surfer Clip Explodes Online 24 Years Later: ‘Better Than Games Today’ (Video)",
+                "desc": "The beloved 2002 surfing video game is enjoying a viral resurgence thanks to its stunningly realistic waves.",
+                "image": "https://s.yimg.com/lo/mysterio/api/fda93f1383da64ce4580eb664eb9e07faeb80d61b4a39795c5065d517b06d3cb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsurfer_magazine_140%2Fd00683f7696e52786a7342fe41fa504b",
+                "url": "https://tech.yahoo.com/gaming/articles/kelly-slater-pro-surfer-clip-152646383.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-11T15:26:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Huawei building 12-inch chip wafer plant to deal with DRAM shortage",
+                "desc": "Huawei is reportedly teaming up with the Chinese government to build a new 12-inch chip wafer plant that can help it cut off some pressure fr",
+                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Huawei-AI-chip.jpg",
+                "url": "https://www.huaweicentral.com/huawei-building-12-inch-chip-wafer-plant/",
+                "source": "Huawei Central",
+                "date": "2026-07-11T15:22:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "My favorite Gemini alternative isn't ChatGPT or Copilot; it's way more productive",
+                "desc": "The AI tool that actually clicked",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/claude-is-best-gemini-alternative.png?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/favorite-gemini-alternative-is-not-chatgpt-or-copilot-it-is-way-more-productive/",
+                "source": "Android Police",
+                "date": "2026-07-11T15:15:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lenovo launches affordable MacBook Neo rival with thin and light design",
+                "desc": "The Lecoo Air 14 powered by Intel Wildcat Lake is now available in China. Lenovo introduced it in May 2026, and this affordable MacBook Neo rival has 12GB of RAM, weighs 990g, and is 12.95mm thick. Its initial price is CNY 4,088, around $603.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Lenovo-launches-Lecoo-Air-14-with-Intel-Wildcat-Lake.jpg",
+                "url": "https://www.notebookcheck.net/Lenovo-launches-affordable-MacBook-Neo-rival-with-thin-and-light-design.1340194.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-11T15:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Huawei Mate 80 series sales rapidly crossed 7.5 million units",
+                "desc": "Huawei Mate 80 series continues to surprise consumers with its sales figures, and the flagship lineup has now crossed 7.5 million units in th",
+                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/Mate80ProMax3.jpg",
+                "url": "https://www.huaweicentral.com/huawei-mate-80-series-sales-rapidly-crossed-7-5-million-units/",
+                "source": "Huawei Central",
+                "date": "2026-07-11T15:09:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation Boss Says Sony Ending Discs Is 'Kind Of Sad'",
+                "desc": "'I think there's probably a whole lot of financial analysis that went behind this decision'",
+                "image": "https://kotaku.com/app/uploads/2021/06/554f2d880cae9dbbafd2dabfd6ad16ab-1200x675.jpg",
+                "url": "https://kotaku.com/former-playstation-boss-sony-game-discs-sad-2000714799",
+                "source": "Kotaku",
+                "date": "2026-07-11T15:08:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft warns of risk of releasing games too late, 'when market anticipation has waned'",
+                "desc": "Tracking the most notable changes in Ubisoft's new annual report. The company also cut a claim that micro-transactions can make games “more fun.”",
+                "image": "https://substackcdn.com/image/fetch/$s_!UJdy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac14719-aa14-4348-8488-48073839ffbb_2010x1222.png",
+                "url": "https://www.gamefile.news/p/ubisoft-2026-annual-report-changes",
+                "source": "Game File | Stephen Totilo",
+                "date": "2026-07-11T15:08:05Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "I tested the Flowtica Scribe. It looked good until I compared it to Gemini and a voice recorder",
                 "desc": "It has the write idea though",
@@ -1174,99 +1264,99 @@
                 "source": "Android Police",
                 "date": "2026-07-11T12:30:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed",
-                "desc": "Ryse: Son of Rome was originally planned to explore multiple eras, Assassin's Creed style, before critical and commercial failure sank Crytek and Xbox's ambition.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/08/ryse-blogroll-1783522794890.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/ryse-son-of-rome-had-plans-to-be-xboxs-assassins-creed",
-                "source": "IGN",
-                "date": "2026-07-11T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei making real 5G comeback in global market with Pura 90s",
-                "desc": "Huawei is really making a true \"5G\" comeback on the global stage next week with the Pura 90s series. The company will launch its new-generati",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sProMax-color.jpg",
-                "url": "https://www.huaweicentral.com/huawei-making-real-5g-comeback-in-global-market-with-pura-90s/",
-                "source": "Huawei Central",
-                "date": "2026-07-11T12:22:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pro or anti-Ubisoft? Response to Black Flag remake criticism divides fans",
-                "desc": "In response to criticism over the large number of paid add-ons in Assassin’s Creed Black Flag Resynced, Ubisoft has stressed that the Standard Edition already includes the complete game. While many fans remain critical, others believe the backlash is overblown.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Assassins-Creed-Black-Flag-Resynced_6.jpg",
-                "url": "https://www.notebookcheck.net/Pro-or-anti-Ubisoft-Response-to-Black-Flag-remake-criticism-divides-fans.1340217.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-11T12:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola Edge 70 Max Leak Reveals Premium Design Display and Battery Upgrades",
-                "desc": "Motorola Edge 70 Max leak highlights premium specifications, improved performance, advanced imaging, and next-generation AI tools for flagship users.",
-                "image": "https://chshyd.in/wp-content/uploads/2026/07/Motorola.png",
-                "url": "https://chshyd.in/tech/motorola-edge-70-max/",
-                "source": "chshyd.in",
-                "date": "2026-07-11T12:18:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I Asked Microsoft About Windows 12. Here's What It Would (and Wouldn't) Say",
-                "desc": "Microsoft wouldn't confirm Windows 12, but what it did say reveals when the next version may arrive, what it will include, and why it could look a lot like Windows 11.",
-                "image": "https://i.pcmag.com/imagery/articles/00dP9sF66Ky9cnbRfZcX5KM-1.fit_lim.size_1200x630.v1783695825.jpg",
-                "url": "https://www.pcmag.com/news/i-asked-microsoft-about-windows-12-heres-what-it-would-and-wouldnt-say",
-                "source": "PCMag",
-                "date": "2026-07-11T12:18:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These 4 Pixel features work smarter than Gemini-and they don't need AI",
-                "desc": "Pixel settings that make my phone feel smarter.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/07/google-pixel-phones.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/these-pixel-features-work-smarter-than-gemini-and-they-dont-need-ai/",
-                "source": "How-To Geek",
-                "date": "2026-07-11T12:00:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to block YouTube ads for free with DuckDuckGo's new feature",
-                "desc": "DuckDuckGo can now block YouTube ads for free. I tested it across multiple devices to see if it actually works — and it does.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/YouTube-Ad-Blocking-setting-on-DuckDuckGo-browser.jpg",
-                "url": "https://www.androidauthority.com/duckduckgo-youtube-ad-blocker-how-use-3686151/",
-                "source": "Android Authority",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work",
-                "desc": "Until new Fallout game needs them - There's a chance the Avowed sequel Obsidian has been working on could still see the light of day, despite the fact it has...",
-                "image": "https://images.pushsquare.com/0a0cd39da3d56/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
-                "source": "Push Square",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The perfect kit for all your tiny repairs",
-                "desc": "Plus, in this week’s Installer: The Nothing Earbuds 3A, GPT-Live, Apple EarPods, and more.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-135.jpeg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-                "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
-                "source": "The Verge",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inside Estuary Ridge, Kinsale's new €950k luxury homes overlooking the estuary",
-                "desc": "Park Developments makes its Cork debut with nine premium A-rated homes overlooking Kinsale harbour, marinas and the Bandon estuary",
-                "image": "https://www.irishexaminer.com/cms_media/module_img/10302/5151407_3_org_01.jpg",
-                "url": "https://www.irishexaminer.com/property/residential/arid-41877350.html",
-                "source": "Irish Examiner",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "UK reaffirms Nigeria, 100 countries requiring under six months visa",
+                "desc": "UK has reaffirmed that Nigerian citizens and 100 other countries must obtain a visa for any stay of less than six months.",
+                "image": "https://www.icirnigeria.org/wp-content/uploads/2022/01/Rightorentimmigrationvisarules.jpeg",
+                "url": "https://www.icirnigeria.org/uk-reaffirms-nigerians-citizens-of-over-100-countries-require-visas-for-visits-under-six-months/",
+                "source": "The ICIR",
+                "date": "2026-07-11T15:35:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police recover cache of weapons used in deadly Negombo Prison riot",
+                "desc": "Police have recovered a cache of sharp weapons and makeshift clubs during ongoing investigations into the recent riot at the Negombo Prison, where inmates brutally attacked prison officers.",
+                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_be31c36921.jpg",
+                "url": "https://www.dailymirror.lk/breaking-news/Police-recover-cache-of-weapons-used-in-deadly-Negombo-Prison-riot/108-345418",
+                "source": "Daily Mirror - Sri Lanka",
+                "date": "2026-07-11T15:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump and Iran’s supreme leader trade threats as mediators try to save their crumbling deal",
+                "desc": "The U.S. and Iran exchanged fresh threats Saturday as fragile talks continued, raising new doubts about efforts to prevent a wider conflict in the Middle East.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Trump-Iran-talks.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11962338/trump-iran-deal-crumbles/",
+                "source": "Global News",
+                "date": "2026-07-11T15:30:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. Seeks Iran’s Uranium Surrender as Path to Nuclear Deal",
+                "desc": "Washington has ruled out any final diplomatic agreement with Iran unless Tehran agrees to transfer its entire stockpile of highly enriched uranium to the United States.",
+                "image": "https://caspianpost.com/storage/photos/thumbs/aspect/qEwzg2R0N3vV1INxnPYni4DhsWwflxwBYgc9oq5m.webp",
+                "url": "https://caspianpost.com/iran/u-s-seeks-iran-s-uranium-surrender-as-path-to-nuclear-deal",
+                "source": "Caspianpost.com",
+                "date": "2026-07-11T15:28:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Malaysia’s seabass farmers struggle as Thailand export market stalls",
+                "desc": "Seabass farmers in northern Malaysia say their industry is struggling as tighter Thai inspections disrupt exports, leaving farms with unsold fish, rising costs and uncertain futures. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d7b633bfc02fe6e3b7ef77375d2d34f730868361c958d478b4d70bdce768bd6f",
+                "url": "https://www.straitstimes.com/asia/se-asia/we-need-to-borrow-money-just-to-feed-the-fish-malaysian-seabass-farmers-reel-from-thai-curbs",
+                "source": "The Straits Times",
+                "date": "2026-07-11T15:26:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Egyptian, Turkish Foreign Ministers stress need to contain regional tension, get back to negotiations",
+                "desc": "Cairo: Egyptian Foreign Minister Badr Abdelatty and his Turkish counterpart, Hakan Fidan, emphasized, during a phone call Saturday, the importance of...",
+                "image": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
+                "url": "https://thepeninsulaqatar.com/article/11/07/2026/egyptian-turkish-foreign-ministers-stress-need-to-contain-regional-tension-get-back-to-negotiations",
+                "source": "The Peninsula Qatar",
+                "date": "2026-07-11T15:24:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration subpoenas New York Times reporters after Air Force One security report",
+                "desc": "The subpoenas, which seek the journalists’ testimonies before a federal grand jury, mark a significant escalation in the administration’s clash with the media",
+                "image": "https://www.theglobeandmail.com/resizer/v2/JXVCWUIOCJETXMN23HYMWYDFWM.jpg?auth=bb87beaa03899c80b340ad985adc9adbdba0188410eac224aab32613f2a8702b&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/world/article-new-york-times-subpoenas-air-force-one/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-11T15:23:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7 Nations Where the Internet Remains a Luxury Only the Wealthy Can Afford",
+                "desc": "Image credits: Unsplash For most people in wealthy nations, a monthly internet bill is barely a passing thought. It slides out of a checking account automatically, and streaming, remote work, and vide...",
+                "image": "https://s.yimg.com/lo/mysterio/api/60f49456f47d22626ed60736ad59d38814dcc9100669d97c2fcb4ac342fc9e00/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftravelbinger_873%2F28a9bd9c4ce37d14ed9397460f4dd868",
+                "url": "https://www.yahoo.com/news/world/articles/7-nations-where-internet-remains-152014445.html",
+                "source": "Yahoo",
+                "date": "2026-07-11T15:20:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Johor polls: BN sweeps 48 of 56 seats as PM Anwar’s PH cedes ground in southern state",
+                "desc": "Barisan Nasional's Johor rival, Prime Minister Anwar Ibrahim’s Pakatan Harapan (PH) coalition, won the remaining eight seats in the closely watched contest, losing ground from the 12 seats it secured in 2022.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--ulBM_nIx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/11/dsc_1261.jpg?itok=G6sJmAOX",
+                "url": "https://www.channelnewsasia.com/asia/johor-state-election-results-barisan-nasional-6248056",
+                "source": "CNA",
+                "date": "2026-07-11T15:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How a vague clause in Trump’s peace deal led to anarchy in the Strait of Hormuz",
+                "desc": "The global economy is facing uncertainty after the resumption of hostilities between the US and Iran. Experts tell Maira Butt that negotiators must go back to the drawing board on the strait if disruption is to be avoided",
+                "image": "https://static.independent.co.uk/2026/07/10/14/2026-07-10T130543Z_1345548046_RC25AMATSFKG_RTRMADP_3_IRAN-CRISIS-SHIPPING-UN.JPG?trim=0,429,0,429&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/middle-east/strait-hormuz-iran-us-ceasefire-peace-deal-b3012657.html",
+                "source": "The Independent",
+                "date": "2026-07-11T15:10:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Can Europe Beat the Heat Without More Air Conditioners?",
                 "desc": "Europe is increasingly adopting sustainable cooling technologies, smarter urban planning, and energy-efficient infrastructure to cope with intensifying heatwaves while limiting fossil fuel dependence.",
@@ -1806,98 +1896,8 @@
                 "source": "Al Jazeera",
                 "date": "2026-07-11T11:52:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Japan heatwave: Extreme temperatures rise",
-                "desc": "Parts of Japan's Kyushu region experienced extreme temperatures on July 11, with a heatstroke warning issued for several prefectures. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3e96a02224d1cdbed15d4c36fdd67e0df1da385b706fc5389df0d851c7d723ee",
-                "url": "https://www.straitstimes.com/asia/east-asia/heatwave-grips-southwest-japan-record-tying-39-3-deg-c-at-kyushu-tourist-spot",
-                "source": "The Straits Times",
-                "date": "2026-07-11T11:50:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Most people who need glasses lack a pair. Here's a solution : NPR",
-                "desc": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3132+0+290/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3a%2F2b7ae267443fb28f38919fb0d0b8%2Findia-post-office-eye-exam-11.jpg",
-                "url": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
-                "source": "NPR",
-                "date": "2026-07-11T11:49:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Many were trapped': Vietnam tragedy visuals show overturned boat, CPR on shore and panic at sea",
-                "desc": "Rest of World News: At least 15 people were killed after a speedboat carrying Indian tourists capsized off Vietnam's southern Phu Quoc Island on Saturday, according to au.",
-                "image": "https://static.toiimg.com/thumb/msid-132329996,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/rest-of-world/many-were-trapped-vietnam-tragedy-visuals-show-overturned-boat-cpr-on-shore-and-panic-at-sea/articleshow/132329996.cms",
-                "source": "The Times of India",
-                "date": "2026-07-11T11:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Typhoon Bavi loses eye but system expands to 1,263 times the size of Hong Kong",
-                "desc": "Experts warn the change has dissipated Bavi's energy from the core to its overall cloud structure, making it potentially more dangerous",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4004532.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/typhoon-bavi-loses-eye-but-system-expands-to-1263-times-the-size-of-hong-kong",
-                "source": "The Star",
-                "date": "2026-07-11T11:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Person hospitalised following early",
-                "desc": "Detectives are appealing for information and witnesses following an early-morning arson attack in Limavady. At approximately 1.30am this morning, police received a report of a fire at a block of flats in the Glenview Drive area. Officers attended, alongside colleagues from the Northern Ireland Fire and Rescue Service, and the Northern Ireland Ambulance Service. Colleagues […]",
-                "image": "https://highlandradio.com/wp-content/uploads/2024/07/128899416_policepacemaker.jpg",
-                "url": "https://highlandradio.com/2026/07/11/person-hospitalised-following-early-morning-arson-attack-in-derry/",
-                "source": "Highland Radio",
-                "date": "2026-07-11T11:44:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nobel Laureate Who Invented Blue LED Now Chases Nuclear Fusion Breakthrough",
-                "desc": "At 72, Shuji Nakamura says his fusion venture could outweigh the impact of the invention that made him famous.",
-                "image": "https://mjengohub.co.ke/static/images/articles/900dab2a139544b4b5bc69b57dca644a_1000198396.jpg",
-                "url": "https://mjengohub.co.ke/articles/technology/nobel-laureate-who-invented-blue-led-now-chases-nuclear-fusion-breakthrough",
-                "source": "Mjengo Hub",
-                "date": "2026-07-11T11:42:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran denies requesting talks with US, warns of 'reciprocal' response to any breach",
-                "desc": "ISTANBUL: Iran on Friday (July 10) denied reports that it had requested negotiations with the United States, warning that any breach of commitments by Washington would be met with \"reciprocal action,\" Anadolu Ajansi reported, citing Iran's official news agency IRNA.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4004510.jpg",
-                "url": "https://www.thestar.com.my/news/world/2026/07/11/iran-denies-requesting-talks-with-us-warns-of-039reciprocal039-response-to-any-breach",
-                "source": "The Star",
-                "date": "2026-07-11T00:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India may face heat as US revives Russia sanctions push",
-                "desc": "The legislation proposes sanctions on countries purchasing Russian oil, natural gas, uranium and petroleum products, of which India is also one. | India News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/11/550x309/Trump_Putin_1783730593697_1783730593854_8b515872-74bb-475a-a166-33e10a6bd6c2.jpg",
-                "url": "https://www.hindustantimes.com/india-news/india-may-face-heat-as-us-revives-russia-oil-buying-sanctions-push-101783730146889.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-11T00:53:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Iran Used Quran Verses as Diplomatic Messages at Khamenei's Funeral",
-                "desc": "The Quranic verses recited at the funeral varied according to each country's ties with Tehran, from allies to regional rivals",
-                "image": "https://statik.tempo.co/data/2026/07/10/id_1481690/1481690_720.jpg",
-                "url": "https://en.tempo.co/read/2113079/how-iran-used-quran-verses-as-diplomatic-messages-at-khameneis-funeral",
-                "source": "Tempo.co English",
-                "date": "2026-07-11T00:49:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How a fake presidential council ended up in Nigeria's national budget",
-                "desc": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/27a0/live/80ca2f10-7c83-11f1-926f-c90d1bcfbc84.jpg",
-                "url": "https://www.bbc.com/news/articles/c872v7wldjyo",
-                "source": "BBC",
-                "date": "2026-07-11T00:46:15Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T03:00:16.839012Z"
+    "lastGlobalSync": "2026-07-12T03:40:19.915527Z"
 }
