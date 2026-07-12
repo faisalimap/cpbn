@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "From Makati to Trieste: In pursuit of coffee mastery",
+                "desc": "Usually, you will find Rosario Juan brewing coffee at her café along Polaris Street in Makati. But last May, Juan found herself some 10,000 kilometers away, trading her familiar brewing station for one in Italy.",
+                "image": "https://media.philstar.com/photos/2026/07/11/5a_2026-07-11_17-27-22.jpg",
+                "url": "https://www.philstar.com/business/2026/07/12/2541461/makati-trieste-pursuit-coffee-mastery",
+                "source": "Philstar.com",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippine ranks 3rd in intangible investment growth - WIPO",
+                "desc": "The Philippines ranked as the world’s third fastest-growing economy for intangible investments, according to a report from the World Intellectual Property Organization (WIPO).",
+                "image": "https://media.philstar.com/photos/2026/07/11/1_2026-07-11_17-35-40.jpg",
+                "url": "https://www.philstar.com/business/2026/07/12/2541465/philippine-ranks-3rd-intangible-investment-growth-wipo",
+                "source": "Philstar.com",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Townhouse prices could balloon to $2M in these surprising Metro Vancouver spots",
+                "desc": "The suburbs might pop off.",
+                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/townhouse.jpg?format=auto",
+                "url": "https://dailyhive.com/vancouver/metro-vancouver-townhouses-real-estate-prices",
+                "source": "Daily Hive",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Retirement has changed and most Filipinos haven’t noticed",
+                "desc": "FOR decades, retirement planning in the Philippines followed a simple formula. Work hard. Raise children. Support them while they’re young. Then someday, when you’re older, they will help support you. It was a model that worked for generations. But the world has changed.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133577.jpg",
+                "url": "https://www.manilatimes.net/2026/07/12/business/retirement-has-changed-and-most-filipinos-havent-noticed/2382770",
+                "source": "The Manila Times",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Emirates is ready to introduce its Airbus A380 services to Hyderabad",
                 "desc": "The CM also invited Emirates to establish Maintenance, Repair and Overhaul (MRO) facilities at the proposed airports in Warangal and Adilabad, positioning Telangana as an emerging aviation hub",
                 "image": "https://bl-i.thgim.com/public/incoming/c0eex2/article71211258.ece/alternates/LANDSCAPE_1200/458261612.jpg",
@@ -596,45 +632,90 @@
                 "source": "Cork Beo",
                 "date": "2026-07-11T12:06:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Aleph Hospitality To Manage A’Ibom Hotels As State Moves To Global Tourism Standards",
-                "desc": "Akwa Ibom State Government has signed a Memorandum of Understanding (MoU) with international hotel management company, Aleph Hospitality, to take over the management of its key hospitality assets. The decision is said to have been made to reposition the state as Nigeria’s leading tourism and conference destination. The move, which signals a new phase in...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/idon-33.jpg",
-                "url": "https://independent.ng/aleph-hospitality-to-manage-aibom-hotels-as-state-moves-to-global-tourism-standards/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-11T12:02:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GLP-1 implant from Vivani Medical aims to help patients stay on treatment",
-                "desc": "Vivani Medical is developing an implant of semaglutide, the active ingredient in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108279913-1773864085826-gettyimages-2260914806-64393_48_ms_4337.jpeg?v=1773864352&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html",
-                "source": "CNBC",
-                "date": "2026-07-11T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon layoffs take their toll",
-                "desc": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108217469-1761596968439-gettyimages-2221389323-AFP_63TY9KL.jpeg?v=1761597002&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-                "source": "CNBC",
-                "date": "2026-07-11T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Barrow Brewers Fayre at North Road put on the market",
-                "desc": "The pub and restaurant is one of nearly 200 branches to face being sold as Premier Inn owner Whitbread exits its Beefeater and Brewers Fayre brands.",
-                "image": "https://www.nwemail.co.uk/resources/images/21170481.jpg?type=og-image&xType=0&yType=1",
-                "url": "https://www.nwemail.co.uk/news/26272219.barrow-brewers-fayre-north-road-put-market/",
-                "source": "NW Mail",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "New test measures how well humanoid robots handle real-world forces",
+                "desc": "As technology advances, more is expected from humanoid robots. What were once seen as gimmicks that could walk, if not like us, then close to it, are now pulling their weight and doing more work in places like factories. ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/new-test-measures-how.jpg",
+                "url": "https://techxplore.com/news/2026-07-humanoid-robots-real-world.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-11T16:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Acer Swift Go 16 AI review: An impressive OLED Windows laptop",
+                "desc": "It has its downsides, but Acer surprised me in more of the right ways with a well-priced Windows laptop that'll be a strong competitor in its category.",
+                "image": "https://cdn.mos.cms.futurecdn.net/HCwGvwcs3J6iRSEK5c9Wxh-2000-80.jpg",
+                "url": "https://www.windowscentral.com/hardware/acer/acer-swift-go-16-ai-review",
+                "source": "Windows Central",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pokemon fans defy typhoon at Main Station",
+                "desc": "Bringing Taiwan to the World and the World to Taiwan",
+                "image": "https://img.taipeitimes.com/images/2026/07/12/P03-260712-001.jpg",
+                "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/12/2003860620",
+                "source": "Taipei Times",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your lost dog can now call home with the world's 1st satellite-connected dog collar",
+                "desc": "A new dog collar with GPS tracking enabled by SpaceX's Starlink direct-to-mobile network promises connectivity from almost anywhere.",
+                "image": "https://cdn.mos.cms.futurecdn.net/AVXKWiis9M2qjR5cvD5szK-2000-80.jpg",
+                "url": "https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar",
+                "source": "Space",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SANDISK Phone Drive for iPhone is a great solution to low storage",
+                "desc": "Each time we buy a phone, we have to decide which storage tier to go for, and that requires a...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/SANDISK-Phone-Drive-for-iPhone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/11/sandisk-phone-drive-iphone-great-solution-to-low-storage/",
+                "source": "9to5Mac",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Killeagh home ‘going for a song’ at €695k",
+                "desc": "Detached four-bed set off the N25 on a Killeagh acre",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10302/5151437_2_org_Lagile_2c_20Killeagh_20-_20Photos-_20Lyne_20Media-15_20blur.jpg",
+                "url": "https://www.irishexaminer.com/property/residential/arid-41877356.html",
+                "source": "Irish Examiner",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "YouTuber son turns Unitree robot dog into all",
+                "desc": "Jake Laser modified a Unitree quadruped robot to help his father navigate difficult terrain and regain outdoor mobility.",
+                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/2-1-2.jpg",
+                "url": "https://interestingengineering.com/photo-story/unitree-robot-dog-mobility-chair",
+                "source": "Interesting Engineering",
+                "date": "2026-07-11T15:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Details On What Was Cut From Ghost Recon Project OVR",
+                "desc": "Insider Gaming has learned new details about some of the features that were cut from Ghost Recon Project OVR at Ubisoft.",
+                "image": "https://insider-gaming.com/wp-content/uploads/2024/12/Ghost-Recon-Wildlands-Quarry.jpg",
+                "url": "https://insider-gaming.com/new-details-what-was-cut-ghost-recon-project-ovr/",
+                "source": "Insider Gaming",
+                "date": "2026-07-11T15:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "You May No Longer Need An Apple Watch To Track Your Workouts With iOS 27",
+                "desc": "Apple's iOS 27 adds new GymKit functionality and can work with some iPhones and AirPods the same way it would work with an Apple Watch.",
+                "image": "https://www.bgr.com/img/gallery/you-may-no-longer-need-an-apple-watch-to-track-your-workouts-with-ios-27/l-intro-1783441577.jpg",
+                "url": "https://www.bgr.com/2209704/ios-27-apple-gymkit-iphone-workout-tracking/",
+                "source": "bgr.com",
+                "date": "2026-07-11T15:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "We got an exclusive first look at Nopia, the viral chord synth and \"harmony machine\" that broke the internet",
                 "desc": "Creators Martin Grieco and Rocío Gal visit the MusicRadar studio to show us what Nopia can do and reveal its price ahead of the instrument's release later this year",
@@ -1183,90 +1264,81 @@
                 "source": "Creative Bloq",
                 "date": "2026-07-11T13:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google Cuts Free Cloud Storage for Android Backups",
-                "desc": "Following the change, backing up data like SMS messages, call history, and device settings will all count toward the 15GB of free storage Google gives you.",
-                "image": "https://sm.pcmag.com/t/pcmag_me/news/g/google-is-/google-is-giving-you-less-free-storage-for-your-android-back_pf92.1200.jpg",
-                "url": "https://me.pcmag.com/en/storage/37662/google-is-giving-you-less-free-storage-for-your-android-backups",
-                "source": "PCMag",
-                "date": "2026-07-11T12:55:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Is Giving You Less Free Storage for Your Android Backups",
-                "desc": "Following the change, backing up data like SMS messages, call history, and device settings will all count toward the 15GB of free storage Google gives you.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/g/google-is-/google-is-giving-you-less-free-storage-for-your-android-back_djd8.1200.jpg",
-                "url": "https://au.pcmag.com/storage/118720/google-is-giving-you-less-free-storage-for-your-android-backups",
-                "source": "PCMag Australia",
-                "date": "2026-07-11T12:55:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why",
-                "desc": "You should take calorie data with a grain of salt. Here's what I learned after testing the Fitbit Air's heart rate data against a gold standard heart rate monitor.",
-                "image": "https://www.zdnet.com/a/img/resize/dbf49c71454358558b2b1f9c6012ecf5ed0000f0/2026/07/09/6d2885bd-8786-426d-b88f-ad0ed37af940/fitbitair.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
-                "source": "ZDNET",
-                "date": "2026-07-11T12:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Free iOS App Uses Your AirPods To Fix Your Posture",
-                "desc": "Posture Pal uses AirPods accelerometer data to track head tilt and alert iPhone users when their posture starts to slip while sitting.",
-                "image": "https://www.bgr.com/img/gallery/this-free-ios-app-uses-your-airpods-to-fix-your-posture/l-intro-1783437875.jpg",
-                "url": "https://www.bgr.com/2209617/how-to-use-airpods-to-fix-posture-app/",
-                "source": "bgr.com",
-                "date": "2026-07-11T12:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "John Carmack responds to Microsoft laying off id Software staff, and his comments hit hard for fans who watched him help build DOOM from the ground up",
-                "desc": "Carmack speaks out after Microsoft cuts jobs at id Software, raising questions about the studio’s future under Xbox.",
-                "image": "https://cdn.mos.cms.futurecdn.net/oEx5YwFXMwQVZJutNbiANK-1791-80.jpg",
-                "url": "https://www.windowscentral.com/gaming/john-carmack-responds-to-microsoft-laying-off-id-software-staff-and-his-comments-hit-hard-for-fans-who-watched-him-help-build-doom-from-the-ground-up",
-                "source": "Windows Central",
-                "date": "2026-07-11T12:35:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "6 local LLMs I've used that prove they're not just smaller versions of cloud models",
-                "desc": "These local LLMs are changing the game in lots of fun ways.",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/claude-code-qwen3-coder-next.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/local-llms-used-prove-not-just-smaller-versions-cloud-models/",
-                "source": "XDA",
-                "date": "2026-07-11T12:30:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Visibility Rankings Aren't Stable",
-                "desc": "New research shows AI visibility rankings shift between runs. Learn why a single reading is mostly noise and how many samples you actually need.",
-                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/6d8827ec-a62d-445c-a3cc-68aad35a3ca7-524.jpeg",
-                "url": "https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/",
-                "source": "Search Engine Journal",
-                "date": "2026-07-11T12:30:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I fired Claude after forcing it to build a private, self-hosted replacement",
-                "desc": "Stop paying per token—here's how to run Claude locally for free.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/llama-cpp-on-a-pc.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/i-fired-claude-after-forcing-it-to-build-a-private-self-hosted-claude-replacement/",
-                "source": "How-To Geek",
-                "date": "2026-07-11T12:30:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 5 simple tweaks that kept my data plan under control for more than half a decade",
-                "desc": "Thanks to these settings, I never go over more than a few gigs of data each month",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/data-saver-hero-2.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/simple-tweaks-that-kept-data-plan-control-more-than-half-decade/",
-                "source": "Android Police",
-                "date": "2026-07-11T12:30:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Saudi Funding for Training of Somali Soldiers Raises Concerns Over Erosion of Army's \"Doctrine\"",
+                "desc": "Saudi-funded training for over Somali soldiers raises concerns about conflicting military doctrines, undermining Somalia's operational cohesion amidst challenges.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/1139123a67a0ca5c.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/world/africa/632235-saudi-funding-training-somali-soldiers-raises-concerns-erosion-armys-doctrine/",
+                "source": "Tuko News",
+                "date": "2026-07-11T16:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Drone bills face review",
+                "desc": "Bringing Taiwan to the World and the World to Taiwan",
+                "image": "https://img.taipeitimes.com/images/2026/07/12/p02-260712-aa1.jpg",
+                "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/12/2003860615",
+                "source": "Taipei Times",
+                "date": "2026-07-11T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+                "desc": "US decision to delist Syria as a ‘state sponsor of terrorism’ prompts cautious optimism among businesses and citizens.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5169316a79-1783720241.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes",
+                "source": "Al Jazeera",
+                "date": "2026-07-11T15:57:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Museveni Calls for African Integration, Says Unity Key to Continental Security",
+                "desc": "BUIKWE — President Yoweri Kaguta Museveni has renewed his call for deeper economic and political integration of Africa, saying a united continent is critical to strengthening strategic security and defence capabilities. Museveni, who is also the Commander-in-Chief of the Uganda People’s Defence Forces (UPDF), made the remarks on Friday while presiding over the graduation ceremony […]",
+                "image": "https://softpower.ug/wp-content/uploads/2026/07/HM4QJtlXUAA3TZZ.jpg",
+                "url": "https://softpower.ug/museveni-calls-for-african-integration-says-unity-key-to-continental-security/",
+                "source": "SoftPower News",
+                "date": "2026-07-11T15:54:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Caricom commission heading to UK to press reparations case",
+                "desc": "GEORGETOWN, Guyana (CMC) – The Caribbean Community (Caricom) Reparations Commission (CRC) will travel to the United Kingdom next week as part of a renewed push to build international support for reparatory justice, amid what it described as growing global momentum for the issue. A statement from the Caricom Secretariat said the July 13-16 mission will include meetings with diplomats, academics and civil society organisations, as well as a presentation at...",
+                "image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2014/09/86e010b237fefccd41cfbf111b5507db.jpg",
+                "url": "https://www.jamaicaobserver.com/2026/07/11/caricom-commission-heading-uk-press-reparations-case/",
+                "source": "Jamaica Observer",
+                "date": "2026-07-11T15:46:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US extends work permits for Haitians, other immigrants with temporary protected status",
+                "desc": "WASHINGTON: US ‌President Donald Trump’s administration on Friday extended work permits for hundreds of thousands of immigrants with temporary protected status from Haiti and six other countries, hours before they were due to expire. The US Citizenship and Immigration Services, which is part of the Department of Homeland Security, said work permits for Haitians with temporary",
+                "image": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/11/4730321-1805320898.jpg?itok=p63mc06r",
+                "url": "https://www.arabnews.com/node/2650535/world",
+                "source": "Arab News",
+                "date": "2026-07-11T15:44:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+                "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o",
+                "source": "BBC",
+                "date": "2026-07-11T15:40:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+                "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
+                "url": "https://www.bbc.com/news/articles/cpd3g8q51g7o",
+                "source": "BBC",
+                "date": "2026-07-11T15:40:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "UK reaffirms Nigeria, 100 countries requiring under six months visa",
                 "desc": "UK has reaffirmed that Nigerian citizens and 100 other countries must obtain a visa for any stay of less than six months.",
@@ -1824,80 +1896,8 @@
                 "source": "Al Jazeera",
                 "date": "2026-07-11T12:26:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
-                "desc": "Iran’s Supreme Leader Mojtaba Khamenei vows to avenge his slain predecessor, highlighting national demand for justice following recent airstrikes.",
-                "image": "https://th-i.thgim.com/public/incoming/1broj4/article71210365.ece/alternates/LANDSCAPE_1200/2026-07-06T125353Z_276076981_RC2V4LA24HZV_RTRMADP_3_IRAN-CRISIS-MOJTABA.JPG",
-                "url": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
-                "source": "The Hindu",
-                "date": "2026-07-11T12:26:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More homes evacuated in Coalsnaughton ground movement probe",
-                "desc": "In total 256 residents in the former Clackmannanshire mining village have been told to leave their homes.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/afff/live/3eec2af0-5aa3-11f1-8b8c-6d33e1d5abb6.jpg",
-                "url": "https://www.bbc.com/news/articles/clye0dy72x3o",
-                "source": "BBC",
-                "date": "2026-07-11T12:24:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.K. rattled by killing of politician Ann Widdecombe as murder probe continues",
-                "desc": "LONDON — A former British member of Parliament was found dead with serious injuries at her home in Thursday, prompting a murder investigation that has reignited concerns about the safety of the country’s politicians.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-widdecombe-nd-0e69fc.jpg",
-                "url": "https://www.nbcnews.com/world/united-kingdom/uk-rattled-killing-politician-ann-widdecombe-murder-probe-continues-rcna439777",
-                "source": "NBC News",
-                "date": "2026-07-11T12:24:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Army chief Asim Munir has new job in Pakistan",
-                "desc": "Pakistan has placed army chief Asim Munir on a committee to address rapid population growth. The move comes as Asim Munir fights threats from Afghanistan and also works to mediate between the US and Iran.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pakistan-army-chief-asim-munir-110934633-16x9_0.jpg?VersionId=cP0AyWU97LUldXHmawbXfAK0ugEoC8PD",
-                "url": "https://www.indiatoday.in/world/story/pakistan-army-chief-asim-munir-population-growth-control-2945716-2026-07-11",
-                "source": "India Today",
-                "date": "2026-07-11T12:24:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As Democrats pick up the pieces after Graham Platner, many wonder: how did this happen?",
-                "desc": "The former US Senate candidate’s spectacular fall has upended the Maine Senate race and left voters fuming at the party",
-                "image": "https://i.guim.co.uk/img/media/73071b950928ef29cd5c5d8d2b15293fe8dc69bb/426_0_6392_5116/master/6392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=742616a03481fa11598c9c2a379dc02b",
-                "url": "https://www.theguardian.com/us-news/2026/jul/11/graham-platner-democrats-maine-senate",
-                "source": "The Guardian",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump praises Allah, threatens to obliterate Iran",
-                "desc": "New threats come amid reports the regime in Tehran is targeting the U.S. president for assassination.",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/11/GettyImages-2285272782-scaled.jpg",
-                "url": "https://www.politico.eu/article/donald-trump-praises-allah-threatens-obliterate-iran/",
-                "source": "politico.eu",
-                "date": "2026-07-11T11:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran's Mojtaba Khamenei vows revenge for father's killing",
-                "desc": "Iran's supreme leader said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him. DW has more.",
-                "image": "https://static.dw.com/image/77871516_6.jpg",
-                "url": "https://www.dw.com/en/irans-mojtaba-khamenei-vows-revenge-for-fathers-killing/live-77913349",
-                "source": "DW.com",
-                "date": "2026-07-11T11:56:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
-                "desc": "Claudia Sheinbaum is trying to govern on her own terms — while dealing with Trump, cartels and AMLO's shadow.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/New-Sheinbaum-1783295558.png?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968",
-                "source": "Al Jazeera",
-                "date": "2026-07-11T11:52:06Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T03:40:19.915527Z"
+    "lastGlobalSync": "2026-07-12T04:00:16.697780Z"
 }
