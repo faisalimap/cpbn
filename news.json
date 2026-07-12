@@ -4,6 +4,15 @@
     "en": {
         "business": [
             {
+                "title": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
+                "desc": "The Nasdaq-100 listing is one thing, but the forthcoming lock-up expiry dates are another.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878219%2Fgettyimages-1468209977-1200x800-5b2df79.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/elon-musks-spacex-just-joined-the-nasdaq-100-now-w/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T21:39:40Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "How Boston Scientific’s 2026 Guidance Cut and Pump Recall At Boston Scientific (BSX) Has Changed Its Investment Story",
                 "desc": "In early July 2026, Boston Scientific voluntarily recalled a single Intera Oncology INTERA 3000 Hepatic Artery Infusion Pump (Class II, Serial Number 20175) in the US after identifying potential leakage from the pump through the catheter, with the recall now classified as completed.\nA separate earnings update saw management cut 2026 guidance amid weakness in WATCHMAN, Electrophysiology, and Urology, while expressing confidence that upcoming product launches could support results in 2027 and...",
                 "image": "https://images.simplywall.st/asset/company-cover/317627-main-header/1756255518234",
@@ -623,15 +632,6 @@
                 "source": "BreakingNews.ie",
                 "date": "2026-07-11T16:53:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Atlantic Lottery pays $212K penalty to federal agency",
-                "desc": "Atlantic Lottery has paid a $212,025 administrative penalty to Canada's financial watchdog for three violations of federal anti-money laundering rules.",
-                "image": "https://i.cbc.ca/ais/1.1856745,1379366572000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/new-brunswick/atlantic-lottery-fintrac-fine-9.7266963",
-                "source": "CBC",
-                "date": "2026-07-11T16:51:43Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
@@ -642,6 +642,15 @@
                 "url": "https://www.notebookcheck.net/Before-EUR80-Pokemon-Winds-and-Waves-price-leak-Game-Freak-wanted-more-expensive-games.1340532.0.html",
                 "source": "Notebookcheck",
                 "date": "2026-07-11T21:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"This is our Spider-Man 3\" - Soulfame's Warsong update adds \"edgelord\" progression path later this year",
+                "desc": "A 30-minute trailer showed off the next major narrative beat for the fantastical open world action RPG.",
+                "image": "https://assetsio.gnwcdn.com/SF_TC2026_Screenshots_Nightmaiden_B.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/soulframe-warsong-trailer-spiderman-3-edgy-mount-fishing",
+                "source": "Eurogamer.net",
+                "date": "2026-07-11T21:27:08Z",
                 "priority": "STANDARD"
             },
             {
@@ -1255,18 +1264,27 @@
                 "source": "SlashGear",
                 "date": "2026-07-11T16:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ubisoft Highlights Major Risk Facing Modern Game Releases",
-                "desc": "Ubisoft's annual report says poor release timing, tough AAA competition, and delayed launches can significantly hurt a game's success.",
-                "image": "https://insider-gaming.com/wp-content/uploads/2026/05/ubisoft-ai.jpg",
-                "url": "https://insider-gaming.com/ubisoft-highlights-major-risk-facing-modern-game-releases/",
-                "source": "Insider Gaming",
-                "date": "2026-07-11T16:44:25Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Nyati Safari Lodge Launches Exclusive Private Rhino Camp In Greater Kruger: All You Need To Know",
+                "desc": "Nyati Safari Lodge launches Private Rhino Camp in Greater Kruger, offering exclusive luxury safari stays and Big Five wildlife experiences.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/a-6.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/ziiml3lllz4a/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-11T21:32:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US seeks free Hormuz access from Iran as talks focus on strait",
+                "desc": "The US is demanding that Iran publicly state it will stop attacks on ships in the Strait of Hormuz, and that all lanes will be open with no tolls.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--cc58sKms--/c_crop,h_448,w_798,x_1,y_12/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-11T104859Z_1_LYNXMPEM6A05L_RTROPTP_3_IRAN-CRISIS-MOJTABA.JPG?itok=4u8JaVsy",
+                "url": "https://www.channelnewsasia.com/world/iran-war-us-strait-hormuz-iran-talks-6248521",
+                "source": "CNA",
+                "date": "2026-07-11T21:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Disaster displacement: Bangladesh 6th worst-hit in the world",
                 "desc": "Natural disasters triggered more than 21 million internal displacements in Bangladesh between 2008 and 2025, placing the country among the world’s six most affected, according to a new study analysing internal displacement patterns.",
@@ -1878,26 +1896,8 @@
                 "source": "Modern Ghana",
                 "date": "2026-07-11T16:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Police believe Ann Widdecombe was attacked 24 hours before body found",
-                "desc": "The ex-Tory prisons minister was found dead at her home in Haytor on Dartmoor on Thursday.",
-                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTExMzI2MDRcXFwvVW50aXRsZWQtZGVzaWduLTIwMjYtMDctMTFUMTYxMzM3LjE1NjEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhNDE4MTA4Njc5MGVlZTJhZjhmMjU1MDYzMjY3MzIxZjRhY2FjY2VjIn0=/police-believe-ann-widdecombe-was-attacked-24-hours-before-body-found.jpg",
-                "url": "https://www.breakingnews.ie/world/police-investigating-ann-widdecombes-death-release-man-from-custody-1925432.html",
-                "source": "BreakingNews.ie",
-                "date": "2026-07-11T16:23:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7 countries with the world’s largest submarine fleets in 2026",
-                "desc": "Explore the seven biggest submarine fleets in 2026, ranked by total vessels, naval strength, and capabilities worldwide.",
-                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Submarine-fleets.jpg",
-                "url": "https://interestingengineering.com/lists/7-biggest-submarine-fleets-in-the-world-ranked-2026",
-                "source": "Interesting Engineering",
-                "date": "2026-07-11T16:19:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T09:29:57.182561Z"
+    "lastGlobalSync": "2026-07-12T09:40:16.658266Z"
 }
