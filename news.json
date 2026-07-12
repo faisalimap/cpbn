@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "'You've got the whole lot!': Huntly man's surprise Lotto win",
+                "desc": "The winner of the $1 million Lotto draw didn't know he was the recipient of all four prizes until he read a news story, and checked his ticket.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-lotto-winner-didnt-know-how-much-he-had-won-until-he-che-AO2N6X2DIRB27OCQ4ZBQ7IEJGE.jpg?auth=c5657925b78a083b2e19b8d10b023904588adfe8e9305180dd0ccf67a06b637c&quality=70&width=600&height=315&focal=1137%2C508",
+                "url": "https://www.1news.co.nz/2026/07/10/youve-got-the-whole-lot-huntly-mans-surprise-lotto-win/",
+                "source": "1News",
+                "date": "2026-07-11T12:36:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+                "desc": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10meta-ai-ztgp/10meta-ai-ztgp-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+                "source": "The New York Times",
+                "date": "2026-07-11T12:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Should You Wait For This Upcoming Mahindra XEV 9e Rival?",
+                "desc": "Vinfast has patented the VF8 in India, suggesting that the model could launch by 2027. Here's everything to know about this SUV.",
+                "image": "https://motoroctane.com/wp-content/uploads/2026/07/Vinfast-VF8-Patented-1.jpg",
+                "url": "https://motoroctane.com/news/317278-should-you-wait-for-this-upcoming-mahindra-xev-9e-rival",
+                "source": "MotorOctane",
+                "date": "2026-07-11T12:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Palladyne AI Stock: Autonomous Platforms Have Potential In Modern Warfare (NASDAQ:PDYN)",
+                "desc": "Palladyne AI is becoming a more credible vertically integrated defense-autonomy platform as its acquired operating base scales. See why PDYN stock is a buy.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2255060573/image_2255060573.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4921303-palladyne-ai-autonomous-platforms-have-potential-in-modern-warfare",
+                "source": "Seeking Alpha",
+                "date": "2026-07-11T12:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin treasury company Empery Digital sold about half of BTC stack",
+                "desc": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+                "source": "CoinDesk",
+                "date": "2026-07-11T12:26:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Etihad Hikes Upgrade Costs For Three-Room A380 The Residence By 50-100%",
+                "desc": "The Residence is Etihad Airways' exclusive A380 three-room suite, above first class. The cost of upgrading to this has just been increased massively.",
+                "image": "https://cdn.onemileatatime.com/wp-content/uploads/2025/11/Etihad-Residence-A380-14.jpeg",
+                "url": "https://onemileatatime.com/news/etihad-a380-the-residence-upgrade-cost/",
+                "source": "One Mile at a Time",
+                "date": "2026-07-11T12:22:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fed Governor Christopher Waller Just Drove a Dagger Through President Donald Trump's Demand for Lower Interest Rates",
+                "desc": "Members of the Federal Open Market Committee (FOMC), including Fed Board Governor Waller, have begun indirectly jabbing back at the president's frequent calls for lower rates.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878212%2F49750148681_73e99680b4_k.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/fed-waller-dagger-trump-demand-low-interest-rates/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T12:09:53Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Joule Pro Launches National Insurance Program Built Exclusively for Electrical Contractors",
+                "desc": "Fusco Orsini & Associates debuts a specialty program called Joule Pro, pairing purpose-built coverage with in-house claims advocacy and field-grade risk engineering for the electrical trade.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133519.png",
+                "url": "https://www.manilatimes.net/2026/07/11/tmt-newswire/globenewswire/joule-pro-launches-national-insurance-program-built-exclusively-for-electrical-contractors/2382754",
+                "source": "The Manila Times",
+                "date": "2026-07-11T12:06:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Watch: Moment Cork woman wins life-changing €310,000 cash machine prize",
+                "desc": "It's the biggest win in the competition's history",
+                "image": "https://i2-prod.corkbeo.ie/article34275665.ece/ALTERNATES/s1200d/0_Screenshot-2026-07-11-at-130010pngSio.png",
+                "url": "https://www.corkbeo.ie/incoming/watch-moment-cork-woman-wins-34275388",
+                "source": "Cork Beo",
+                "date": "2026-07-11T12:06:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aleph Hospitality To Manage A’Ibom Hotels As State Moves To Global Tourism Standards",
+                "desc": "Akwa Ibom State Government has signed a Memorandum of Understanding (MoU) with international hotel management company, Aleph Hospitality, to take over the management of its key hospitality assets. The decision is said to have been made to reposition the state as Nigeria’s leading tourism and conference destination. The move, which signals a new phase in...",
+                "image": "https://independent.ng/wp-content/uploads/2026/07/idon-33.jpg",
+                "url": "https://independent.ng/aleph-hospitality-to-manage-aibom-hotels-as-state-moves-to-global-tourism-standards/",
+                "source": "Independent Newspaper Nigeria",
+                "date": "2026-07-11T12:02:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "GLP-1 implant from Vivani Medical aims to help patients stay on treatment",
                 "desc": "Vivani Medical is developing an implant of semaglutide, the active ingredient in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108279913-1773864085826-gettyimages-2260914806-64393_48_ms_4337.jpeg?v=1773864352&w=1920&h=1080",
@@ -542,99 +632,99 @@
                 "source": "BBC",
                 "date": "2026-07-10T22:44:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Even with Gold Below $4,150 and Bitcoin Under $64,000, I'd Still Rather Buy This Unstoppable Dividend Stock in July",
-                "desc": "Gold and Bitcoin have been in a funk, and so has this global consumer staples giant, but a business can grow.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876909%2F22_03_07-a-person-putting-a-100-dollar-bill-into-a-piggy-bank-_gettyimages-1203959263.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/10/even-with-gold-below-4150-and-bitcoin-under-64000/",
-                "source": "The Motley Fool",
-                "date": "2026-07-10T22:40:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Under Lula, Amazon deforestation falls to lowest level in a decade",
-                "desc": "The figures come months before Brazil’s presidential election, with Lula promising to end illegal deforestation by 2030.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a515ee6-1783717606.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade",
-                "source": "Al Jazeera",
-                "date": "2026-07-10T22:38:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple sues OpenAI for stealing trade secrets",
-                "desc": "The lawsuit also targets two ex-employees, Tang Yew Tan, now OpenAI’s chief hardware officer, and engineer Chang Liu.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/11/729b42f8-224b-4092-bb46-b435dc89e4c1_3f9657a5.jpg?itok=mk4Aoffg&v=1783722417",
-                "url": "https://www.scmp.com/news/world/united-states-canada/article/3360196/apple-sues-openai-stealing-trade-secrets",
-                "source": "South China Morning Post",
-                "date": "2026-07-10T22:27:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man nearly sucked out of window mid-air on Ryanair flight from Greece",
-                "desc": "One passenger told Greek media the man's \"whole head, neck, shoulders\" were pulled out of the window, adding that those seated near him pulled him back in.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-ryanair-desk-is-seen-aug-10-2018-at-the-barajas-airport-MI3LWVAUZJGLHB7XL4VJZEEXEM.jpg?auth=d676dd54affe9eb112785481f13570cfb17357ce51437e3294f33554b5f75169&quality=70&width=600&height=315&focal=1607%2C850",
-                "url": "https://www.1news.co.nz/2026/07/11/man-nearly-sucked-out-of-window-mid-air-on-ryanair-flight-from-greece/",
-                "source": "1News",
-                "date": "2026-07-10T22:25:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Reasons I Think Meta Platforms is a Screaming Buy Right Now",
-                "desc": "The company's AI strategy is beginning to pay dividends.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878432%2Fthe-meta-platforms-logo-superimporsed-over-a-picture-of-the-companys-headquarters-building.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/10/3-reasons-i-think-meta-platforms-is-a-screaming-bu/",
-                "source": "The Motley Fool",
-                "date": "2026-07-10T22:23:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mega Millions and Powerball pots roll on into the weekend, jackpot surpasses $1B",
-                "desc": "The jackpots for the Mega Millions and Powerball lottery games have climbed to a combined estimated $1.06 billion after neither game produced a jackpot winner i",
-                "image": "https://komonews.com/resources/media2/16x9/1999/1320/0x49/90/d561dde6-04df-44bd-b724-b43fd01c7372-Powerball.jpg",
-                "url": "https://komonews.com/news/local/washington-state-lottery-mega-millions-powerball-combined-jackpot-surpasses-1-billion-dollars-winner-latest-drawing-quick-pick-how-to-get-a-lottery-ticket",
-                "source": "KOMO",
-                "date": "2026-07-10T22:22:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-                "desc": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
-                "image": "https://static01.nyt.com/images/2026/07/10/science/10CLI-SOLAR-MIRROR/10CLI-SOLAR-MIRROR-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-                "source": "The New York Times",
-                "date": "2026-07-10T22:21:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple sues OpenAI for stealing trade secrets",
-                "desc": "The lawsuit paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/be7f759c-apple-logo-china-epa-01_05_26.webp",
-                "url": "https://www.freemalaysiatoday.com/category/business/2026/07/11/apple-sues-openai-for-stealing-trade-secrets",
-                "source": "Free Malaysia Today",
-                "date": "2026-07-10T22:20:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
-                "desc": "Canada’s new privacy bill promises stronger protections for children, but experts say it still misses risks in the AI world.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2fb7079625-1781511943.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough",
-                "source": "Al Jazeera",
-                "date": "2026-07-10T22:14:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A 20-Year Fusion Bet Just Closed Its Business Combination, and a New Kind of Energy Stock Is About to Reach the Public Markets",
-                "desc": "/PRNewswire/ -- USA News Group News Commentary — For more than two decades, fusion energy has lived almost entirely in the private markets, funded by venture...",
-                "image": "https://mmx.prnewswire.com/media/MS1718298/USA-News-Group-Logo.jpg?id=OA2759278&p=facebook",
-                "url": "https://www.prnewswire.com/news-releases/a-20-year-fusion-bet-just-closed-its-business-combination-and-a-new-kind-of-energy-stock-is-about-to-reach-the-public-markets-302823108.html",
-                "source": "PR Newswire",
-                "date": "2026-07-10T22:06:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "John Carmack responds to Microsoft laying off id Software staff, and his comments hit hard for fans who watched him help build DOOM from the ground up",
+                "desc": "Carmack speaks out after Microsoft cuts jobs at id Software, raising questions about the studio’s future under Xbox.",
+                "image": "https://cdn.mos.cms.futurecdn.net/oEx5YwFXMwQVZJutNbiANK-1791-80.jpg",
+                "url": "https://www.windowscentral.com/gaming/john-carmack-responds-to-microsoft-laying-off-id-software-staff-and-his-comments-hit-hard-for-fans-who-watched-him-help-build-doom-from-the-ground-up",
+                "source": "Windows Central",
+                "date": "2026-07-11T12:35:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 local LLMs I've used that prove they're not just smaller versions of cloud models",
+                "desc": "These local LLMs are changing the game in lots of fun ways.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/claude-code-qwen3-coder-next.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/local-llms-used-prove-not-just-smaller-versions-cloud-models/",
+                "source": "XDA",
+                "date": "2026-07-11T12:30:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Visibility Rankings Aren't Stable",
+                "desc": "New research shows AI visibility rankings shift between runs. Learn why a single reading is mostly noise and how many samples you actually need.",
+                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/6d8827ec-a62d-445c-a3cc-68aad35a3ca7-524.jpeg",
+                "url": "https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/",
+                "source": "Search Engine Journal",
+                "date": "2026-07-11T12:30:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I fired Claude after forcing it to build a private, self-hosted replacement",
+                "desc": "Stop paying per token—here's how to run Claude locally for free.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/llama-cpp-on-a-pc.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/i-fired-claude-after-forcing-it-to-build-a-private-self-hosted-claude-replacement/",
+                "source": "How-To Geek",
+                "date": "2026-07-11T12:30:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 5 simple tweaks that kept my data plan under control for more than half a decade",
+                "desc": "Thanks to these settings, I never go over more than a few gigs of data each month",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/data-saver-hero-2.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/simple-tweaks-that-kept-data-plan-control-more-than-half-decade/",
+                "source": "Android Police",
+                "date": "2026-07-11T12:30:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed",
+                "desc": "Ryse: Son of Rome was originally planned to explore multiple eras, Assassin's Creed style, before critical and commercial failure sank Crytek and Xbox's ambition.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/08/ryse-blogroll-1783522794890.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/ryse-son-of-rome-had-plans-to-be-xboxs-assassins-creed",
+                "source": "IGN",
+                "date": "2026-07-11T12:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Huawei making real 5G comeback in global market with Pura 90s",
+                "desc": "Huawei is really making a true \"5G\" comeback on the global stage next week with the Pura 90s series. The company will launch its new-generati",
+                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sProMax-color.jpg",
+                "url": "https://www.huaweicentral.com/huawei-making-real-5g-comeback-in-global-market-with-pura-90s/",
+                "source": "Huawei Central",
+                "date": "2026-07-11T12:22:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pro or anti-Ubisoft? Response to Black Flag remake criticism divides fans",
+                "desc": "In response to criticism over the large number of paid add-ons in Assassin’s Creed Black Flag Resynced, Ubisoft has stressed that the Standard Edition already includes the complete game. While many fans remain critical, others believe the backlash is overblown.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Assassins-Creed-Black-Flag-Resynced_6.jpg",
+                "url": "https://www.notebookcheck.net/Pro-or-anti-Ubisoft-Response-to-Black-Flag-remake-criticism-divides-fans.1340217.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-11T12:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Motorola Edge 70 Max Leak Reveals Premium Design Display and Battery Upgrades",
+                "desc": "Motorola Edge 70 Max leak highlights premium specifications, improved performance, advanced imaging, and next-generation AI tools for flagship users.",
+                "image": "https://chshyd.in/wp-content/uploads/2026/07/Motorola.png",
+                "url": "https://chshyd.in/tech/motorola-edge-70-max/",
+                "source": "chshyd.in",
+                "date": "2026-07-11T12:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I Asked Microsoft About Windows 12. Here's What It Would (and Wouldn't) Say",
+                "desc": "Microsoft wouldn't confirm Windows 12, but what it did say reveals when the next version may arrive, what it will include, and why it could look a lot like Windows 11.",
+                "image": "https://i.pcmag.com/imagery/articles/00dP9sF66Ky9cnbRfZcX5KM-1.fit_lim.size_1200x630.v1783695825.jpg",
+                "url": "https://www.pcmag.com/news/i-asked-microsoft-about-windows-12-heres-what-it-would-and-wouldnt-say",
+                "source": "PCMag",
+                "date": "2026-07-11T12:18:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "These 4 Pixel features work smarter than Gemini-and they don't need AI",
                 "desc": "Pixel settings that make my phone feel smarter.",
@@ -1174,99 +1264,99 @@
                 "source": "Games Press",
                 "date": "2026-07-10T20:48:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The New Roku Update Is Terrible And Everyone Hates It",
-                "desc": "Stop fucking things up just to shove more ads and algorithm nonsense into my face",
-                "image": "https://kotaku.com/app/uploads/2026/07/Roku-bad-1200x675.jpg",
-                "url": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762",
-                "source": "Kotaku",
-                "date": "2026-07-10T20:48:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Week in Retail: Massimo Dutti Enters Denmark, Giorgio Armani Hosts Tennis Classic, Dior Debuts FW Couture, Mytheresa Reopens Munich, Rabanne Launches Invictus Takeover, Mattel Unveils Miley Cyrus",
-                "desc": "Luxury brands are rewriting retail as an immersive experience, from courtside garden parties to museum-grade couture collaborations, signalling a future built on storytelling over transactions.",
-                "image": "https://substackcdn.com/image/fetch/$s_!-RXi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ff4b4dd-8d0a-43d1-a085-02167ce431c0_1920x1080.avif",
-                "url": "https://retailboss.substack.com/p/this-week-in-retail-massimo-dutti-16d",
-                "source": "RETAILBOSS | Substack",
-                "date": "2026-07-10T20:45:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Don't Buy an AirTag If You Only Need It for a Trip. Just Borrow One",
-                "desc": "Traveling is already expensive enough. Save a few bucks by borrowing an AirTag from a friend or family member.",
-                "image": "https://www.cnet.com/a/img/resize/e3c8dc9c66f4a4f71a500dadc61bb8029ea0428f/hub/2024/10/29/21f1827a-8530-461f-8b55-f15347e6b7b1/apple-airtag-bf.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/mobile/dont-buy-an-airtag-if-you-only-need-it-for-a-trip-just-borrow-one/",
-                "source": "CNET",
-                "date": "2026-07-10T20:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Big Changes Coming To Google Messages In 2026",
-                "desc": "Sharing links, photos, and updates with your inner circle is about to get a whole lot smoother. Unpack the 3 major Google Messages changes rolling out soon.",
-                "image": "https://www.bgr.com/img/gallery/3-big-changes-coming-to-google-messages-in-2026/l-intro-1783715028.jpg",
-                "url": "https://www.bgr.com/2212721/changes-coming-google-messages/",
-                "source": "bgr.com",
-                "date": "2026-07-10T20:42:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ready with the Ingenieur Automatic 35 Pool",
-                "desc": "Sporting a new turquoise green dial, the IWC Ingenieur Automatic 35 Pool brings summer energy to the celebrated collection.",
-                "image": "https://robbreport.com.sg/storage/2026/07/iwc_ingenieur-auto-35_iw3249021-2.jpg",
-                "url": "https://robbreport.com.sg/iwc-ingenieur-automatic-35-pool/",
-                "source": "Robb Report Singapore",
-                "date": "2026-07-10T20:41:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jsaux Previews 3 Steam Machine Display Faceplates",
-                "desc": "Jsaux, the maker of a smorgasbord of functional and decorative Steam Deck accessories, has just provided an update on its previously announced Steam Machine faceplate project, which it has revealed to potentially be coming in three separate iterations. On the brand's Discord, it recently held a...",
-                "image": "https://www.techpowerup.com/img/NflghZJBDlgVfX3d.jpg",
-                "url": "https://www.techpowerup.com/350673/jsaux-previews-3-steam-machine-display-faceplates",
-                "source": "TechPowerUp",
-                "date": "2026-07-10T20:33:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Black Flag Resynced Breaks Assassin's Creed Steam Player Record",
-                "desc": "Assassin's Creed Black Flag Resynced has surpassed 99,000 concurrent Steam players, sold over 2 million copies, and become Ubisoft's biggest Assassin's Creed Steam launch ever.",
-                "image": "https://cdn.80.lv/api/upload/meta/49217/images/6a51541f021d1/contain_1200x630.jpg",
-                "url": "https://80.lv/articles/assassin-s-creed-black-flag-resynced-sets-franchise-steam-player-record-sells-2-million-copies",
-                "source": "80 Level",
-                "date": "2026-07-10T20:32:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Best USB Microphones for 2026",
-                "desc": "Don't rely on the wimpy microphone built into your phone or laptop. Here's how to find the best USB (and XLR with USB) mics for content creation, gaming, podcasting, and recording music, including our top-tested picks.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/guide/t/the-best-u/the-best-usb-microphones-for-2026_44s1.1200.jpg",
-                "url": "https://au.pcmag.com/audio-recording/57853/the-best-usb-microphones",
-                "source": "PCMag Australia",
-                "date": "2026-07-10T20:30:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three Things I Already Love About the New Ultrahuman Ring Pro",
-                "desc": "The Ultrahuman Ring Pro is an upgrade from the Ring Air. So far the improvements are mainly aesthetic, and I'm enjoying the case that buzzes and sings to me.",
-                "image": "https://lifehacker.com/imagery/articles/01KX6VBEE8T8AG0Q4S82T9ZM5R/hero-image.fill.size_1200x675.webp",
-                "url": "https://lifehacker.com/health/three-things-i-already-love-about-the-ultrahuman-ring-pro",
-                "source": "Lifehacker",
-                "date": "2026-07-10T20:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date",
-                "desc": "The action game doesn't currently have a release date",
-                "image": "https://kotaku.com/app/uploads/2026/06/topgod2-1200x675.jpg",
-                "url": "https://kotaku.com/god-of-war-laufey-promises-physical-disc-version-all-but-confirming-2027-launch-2000714778",
-                "source": "Kotaku",
-                "date": "2026-07-10T20:29:38Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Runner gored in the face at Spain's San Fermin bull run festival",
+                "desc": "The huge animals knocked bodies to the cobblestones, and stumbling runners caused several pileups during the two-and-a-half-minute run from the pen to the bull ring where bullfighters will kill the bulls later in the day.",
+                "image": "https://i.cbc.ca/ais/6cf73389-f8c8-4481-94d4-278d1b669579,1783755683637/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C280%2C3402%2C1913%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/runner-gored-spain-bull-run-festival-9.7266863",
+                "source": "CBC",
+                "date": "2026-07-11T12:40:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands attend Donegal Orange Order parade",
+                "desc": "The Rossnowlagh demonstration takes place each year on the Saturday before the main Twelfth of July.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8bf3/live/bc2508a0-7d2d-11f1-9bb6-f90d2cb001e2.jpg",
+                "url": "https://www.bbc.com/news/articles/cy4ex3kngjpo",
+                "source": "BBC",
+                "date": "2026-07-11T12:37:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pope Leo at Borgo Laudato si' lunch: 'I came with a 'hunger' for genuine charity'",
+                "desc": "During a special \"Lunch with the Pope\" in Borgo Laudato si' in the Pontifical Gardens of Castel Gandolfo with some 200 poor and socially vulnerable ...",
+                "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/07/11/2026-07-11-castel-gandolfo---pranzo-con-i-poveri/1783770056598.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+                "url": "https://www.vaticannews.va/en/pope/news/2026-07/lunch-with-pope-leo-xiv-borgo-laudato-si-poor-address.html",
+                "source": "Vatican News",
+                "date": "2026-07-11T12:36:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Multinationals sold Kenyan Farmers a lethal harvest",
+                "desc": "Informer East Africa News is a United Kingom (UK) news and media company specializing in East African, African and UK Diaspora News. Providing Daily news and exclusive news.",
+                "image": "https://informereastafrica.com/templates/it_365news/custom/images/headers/favicon.ico",
+                "url": "https://informereastafrica.com/index.php/east-africa/multinationals-sold-kenyan-farmers-a-lethal-harvest",
+                "source": "Informer East Africa",
+                "date": "2026-07-11T12:35:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran's supreme leader pledges revenge for father's death",
+                "desc": "Iran's supreme leader Ayatollah Mojtaba Khamenei has said that avenging his father was \"the demand of the nation\" and \"must certainly\" take place.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/3f5793e469f8a7c434844ab9031b03ed?impolicy=wcms_watermark_news&cropH=2221&cropW=3948&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-11/iran-s-supreme-leader-pledges-revenge-for-father-s-death/106905744",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-11T12:30:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
+                "desc": "In the latest salvo in one of the war’s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a51f34f8cb1-1783755599.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv",
+                "source": "Al Jazeera",
+                "date": "2026-07-11T12:26:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
+                "desc": "Iran’s Supreme Leader Mojtaba Khamenei vows to avenge his slain predecessor, highlighting national demand for justice following recent airstrikes.",
+                "image": "https://th-i.thgim.com/public/incoming/1broj4/article71210365.ece/alternates/LANDSCAPE_1200/2026-07-06T125353Z_276076981_RC2V4LA24HZV_RTRMADP_3_IRAN-CRISIS-MOJTABA.JPG",
+                "url": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
+                "source": "The Hindu",
+                "date": "2026-07-11T12:26:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More homes evacuated in Coalsnaughton ground movement probe",
+                "desc": "In total 256 residents in the former Clackmannanshire mining village have been told to leave their homes.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/afff/live/3eec2af0-5aa3-11f1-8b8c-6d33e1d5abb6.jpg",
+                "url": "https://www.bbc.com/news/articles/clye0dy72x3o",
+                "source": "BBC",
+                "date": "2026-07-11T12:24:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.K. rattled by killing of politician Ann Widdecombe as murder probe continues",
+                "desc": "LONDON — A former British member of Parliament was found dead with serious injuries at her home in Thursday, prompting a murder investigation that has reignited concerns about the safety of the country’s politicians.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-widdecombe-nd-0e69fc.jpg",
+                "url": "https://www.nbcnews.com/world/united-kingdom/uk-rattled-killing-politician-ann-widdecombe-murder-probe-continues-rcna439777",
+                "source": "NBC News",
+                "date": "2026-07-11T12:24:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Army chief Asim Munir has new job in Pakistan",
+                "desc": "Pakistan has placed army chief Asim Munir on a committee to address rapid population growth. The move comes as Asim Munir fights threats from Afghanistan and also works to mediate between the US and Iran.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pakistan-army-chief-asim-munir-110934633-16x9_0.jpg?VersionId=cP0AyWU97LUldXHmawbXfAK0ugEoC8PD",
+                "url": "https://www.indiatoday.in/world/story/pakistan-army-chief-asim-munir-population-growth-control-2945716-2026-07-11",
+                "source": "India Today",
+                "date": "2026-07-11T12:24:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "As Democrats pick up the pieces after Graham Platner, many wonder: how did this happen?",
                 "desc": "The former US Senate candidate’s spectacular fall has upended the Maine Senate race and left voters fuming at the party",
@@ -1806,98 +1896,8 @@
                 "source": "Yahoo! Finance Canada",
                 "date": "2026-07-10T21:03:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Johor polls: What the early vote means for Malaysia",
-                "desc": "The early Johor polls will have a deeper impact on Malaysian politics and upcoming election strategies for the major coalitions compared to the 2022 edition. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8cb491f27164e5140fdf2c8de35fd03d665235eee2e72d67d03f1ba1e2c0aada",
-                "url": "https://www.straitstimes.com/asia/se-asia/like-in-2022-johor-votes-early-again-but-this-time-it-means-more-heres-why",
-                "source": "The Straits Times",
-                "date": "2026-07-10T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Arctic Peatlands Expanding",
-                "desc": "Recent findings that peatlands are expanding northward as the Arctic warms might sound like good news, since peat has powerful carbon storage capabilities. But it takes millennia for peat to sequester large amounts of carbon, while we are burning fossil fuels far more quickly than the Earth can absorb. One of the authors of the 2026 study on Arctic peatland expansion is Angela Gallego-Sala, a professor and biogeochemist at the University of Exeter in the UK, who talked with Living on Earth’s Jenni Doering about what changes in peatland distribution could mean for the climate.",
-                "image": "https://loe.org/content/2026-07-10/PEAT_peat.jpg",
-                "url": "https://www.loe.org/shows/segments.html?programID=26-P13-00028&segmentID=2",
-                "source": "Living on Earth",
-                "date": "2026-07-10T20:58:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zulu king scolds wife for having affair without permission",
-                "desc": "South Africa’s Zulu king scolded his wife for having an affair with a member of her church congregation without his permission, leaked video footage shows.",
-                "image": "https://s.yimg.com/lo/mysterio/api/f0ed365c7d1baad36eaef0393875e5f079921f8d9263b6632a5e17f73c9728ca/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fff51fa44d66716eaa7b490d8550d1b15",
-                "url": "https://www.yahoo.com/news/world/articles/zulu-king-scolds-wife-having-205057500.html",
-                "source": "Yahoo",
-                "date": "2026-07-10T20:50:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sparks Vietnam veteran gets Purple Heart after nearly 60 years",
-                "desc": "A Vietnam veteran in Sparks has been awarded the Purple Heart after nearly 60 years.",
-                "image": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/MBMZURA2EFGB7EATXW77I4HKNE.png?auth=a2c43c65871a2198287ddf981caccf9ad8b968956a023807d9e6ea17163248fe&width=1200&height=600&smart=true",
-                "url": "https://www.kolotv.com/2026/07/10/sparks-vietnam-veteran-gets-purple-heart-after-nearly-60-years/",
-                "source": "KOLO | 8 News Now",
-                "date": "2026-07-10T20:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran War Has 'Severely Disrupted' Fertilizer Trade, WTO Says",
-                "desc": "The war in Iran has \"severely disrupted\" trade in fertilizers like urea and phosphate, raising concerns that agricultural yields could fall and food prices could rise, the World Trade Organization said Friday.",
-                "image": "https://www.law360.com/images/law360-stacked.png",
-                "url": "https://www.law360.com/articles/2499561/iran-war-has-severely-disrupted-fertilizer-trade-wto-says",
-                "source": "Law360",
-                "date": "2026-07-10T20:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Weekend briefing: Markets ignore resumption of Hormuz hot conflict",
-                "desc": "US real economy data mixed; Wall St enamoured with SK Hynix; China car sales strong, exports stronger; Japan PPI high; container freight rates rise; UST 10yr at 4.56%; gold rises; oil eases; NZ$1 = 57.6 USc; TWI-5 = 61.5",
-                "image": "https://www.interest.co.nz/sites/default/files/2026-07/matariki-2.jpg",
-                "url": "https://www.interest.co.nz/economy/139331/us-real-economy-data-mixed-wall-st-enamoured-sk-hynix-china-car-sales-strong-exports",
-                "source": "Interest.co.nz",
-                "date": "2026-07-10T20:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PM praises Australia social ban for U-16s, hinting at similar curbs",
-                "desc": "India News: NEW DELHI: In what could be an indication that the Centre is actively weighing tighter age-based controls on social media, PM Narendra Modi has praise.",
-                "image": "https://static.toiimg.com/thumb/msid-132320461,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/india/pm-praises-australia-social-ban-for-u-16s-hinting-at-similar-curbs/articleshow/132320464.cms",
-                "source": "The Times of India",
-                "date": "2026-07-10T20:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Unusual vibration' felt before plane crash that killed Joshua Baer",
-                "desc": "As the plane approached the U.S.-Mexico border, both engines stopped working. A pilot asked for a possible field to land in nearby before ultimately crashing on a highway near the Laredo airport.",
-                "image": "https://npr.brightspotcdn.com/dims4/default/8c38cc3/2147483647/strip/true/crop/5324x2795+0+456/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F09%2F5d8895c84a49842758455f82b0e7%2F20260502-kut-festival-138.JPG",
-                "url": "https://www.kut.org/transportation/2026-07-10/ntsb-joshua-baer-plane-crash-report-laredo-tx-texas-austin-tech",
-                "source": "KUT",
-                "date": "2026-07-10T20:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump removes final members of independent US election commission",
-                "desc": "The dismissals leave the federal election body vacant as Trump presses for broader changes to US voting rules.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260708__B9L87BP__v1__HighRes__TurkeyUsNatoSummitDefence-1783512145.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission",
-                "source": "Al Jazeera",
-                "date": "2026-07-10T20:16:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tyler Perry and Colin Kaepernick Paying For Nolan Wells' Funeral, Independent Autopsy",
-                "desc": "Tyler Perry and Colin Kaepernick are stepping up to cover two huge expenses for Nolan Wells' family ... the funeral and an independent autopsy.",
-                "image": "https://imagez.tmz.com/image/f1/16by9/2026/07/10/f169801ff61045638dc93bdeb5a89ba0_xl.jpg",
-                "url": "https://www.tmz.com/2026/07/10/tyler-perry-colin-kaepernick-paying-for-nolan-wells-funeral-and-autopsy/",
-                "source": "TMZ",
-                "date": "2026-07-10T20:10:38Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T00:00:20.908401Z"
+    "lastGlobalSync": "2026-07-12T00:40:15.032047Z"
 }
