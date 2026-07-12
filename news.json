@@ -4,6 +4,24 @@
     "en": {
         "business": [
             {
+                "title": "Secure glass containers for storing chemical waste through laser welding",
+                "desc": "As the adoption of electric vehicles continues to grow, so does the need for the safe and permanent storage of battery materials and industrial chemical waste. Certain waste streams require disposal in what are known as Category IV landfills, which impose particularly stringent requirements on storage containers. These must simultaneously ensure environmental protection, safe handling and long-term structural integrity.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/secure-glass-container.jpg",
+                "url": "https://phys.org/news/2026-07-glass-chemical-laser-welding.html",
+                "source": "Phys.org",
+                "date": "2026-07-11T22:00:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LA supermarket’s despicable act after shopper dropped dead in aisle",
+                "desc": "Southern California’s Vons supermarket kept doors open for hours with a dead shopper in the bakery aisle, sparking outrage.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134124765.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/11/us-news/la-supermarkets-despicable-act-after-shopper-dropped-dead-in-aisle/",
+                "source": "New York Post",
+                "date": "2026-07-11T21:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
                 "desc": "The Nasdaq-100 listing is one thing, but the forthcoming lock-up expiry dates are another.",
                 "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878219%2Fgettyimages-1468209977-1200x800-5b2df79.jpg&w=1200&op=resize",
@@ -614,27 +632,81 @@
                 "source": "Medical Xpress",
                 "date": "2026-07-11T17:20:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Police make arrest after Norwich store ram raid",
-                "desc": "A man has been arrested following a ram raid at a store when a JCB was used to pull a cash machine from the wall.",
-                "image": "https://www.edp24.co.uk/resources/images/20704719.jpg?type=og-image",
-                "url": "https://www.edp24.co.uk/news/26272336.police-make-arrest-norwich-store-ram-raid/",
-                "source": "EDP24",
-                "date": "2026-07-11T17:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Warning issued as impersonator tries to cash in on TD Pearse Doherty",
-                "desc": "The scam has led the Donegal TD to issue a warning to his followers.",
-                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMjQyMTAyMTVcXFwvMi44NDM5MzM3Ny5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImU0OWNhMzI3NjJlOWQ2ZWM0NzFhNzg3NGIwYWU1OTBiYTMzNWM1NmMifQ==/warning-issued-as-impersonator-tries-to-cash-in-on-td-pearse-doherty.jpg",
-                "url": "https://www.breakingnews.ie/ireland/warning-issued-as-impersonator-tries-to-cash-in-on-td-pearse-doherty-1925534.html",
-                "source": "BreakingNews.ie",
-                "date": "2026-07-11T16:53:42Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Beyond Origin to 'Tau'... Warframe Confirms September 'Tenno VIP' World Tour in Seoul",
+                "desc": "©Digital ExtremesDigital Extremes successfully hosted its annual global festival, 'TennoCon 2026,' in London, Ontario, Canada, from July 10 to 11.",
+                "image": "https://static.invenglobal.com/upload/image/2026/07/11/i1783807339024564.png",
+                "url": "https://www.invenglobal.com/articles/23675/beyond-origin-to-tau-warframe-confirms-september-tenno-vip-world-tour-in-seoul",
+                "source": "Inven Global",
+                "date": "2026-07-11T22:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Top 5 Reissues",
+                "desc": "Every brand has done it. Virtually every watchmaker established during the 20th century occasionally returns to its archives in search of the next model worthy",
+                "image": "https://en.worldtempus.com/themes/custom/worldtempus/favicon.ico",
+                "url": "https://en.worldtempus.com/article/top-5/top-5-reissues-82897.html",
+                "source": "en.worldtempus.com",
+                "date": "2026-07-11T22:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warframe's Next Expansion Is the Epic Payoff to 13 Years of Storytelling",
+                "desc": "Warframe Tau might be Digital Extremes' version of Bungie's Destiny 2 expansion The Final Shape.",
+                "image": "https://www.cnet.com/a/img/resize/ed7a83803a3d7655dea4878fccee1454d87a153d/hub/2026/07/11/7bdb3604-c838-4661-9bbc-4cf4af8796d5/wf-taupromo-keyart-1080p-logo.png?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling/",
+                "source": "CNET",
+                "date": "2026-07-11T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Creating the 'Football Manager' of Esports: Esports Manager 2026",
+                "desc": "If you are a fan of the Football Manager series and esports, you have likely imagined it at least once: 'Wouldn't it be great if there were a similar game for esports?' The dream o...",
+                "image": "https://static.invenglobal.com/upload/image/2026/07/11/r1783807171097499.png",
+                "url": "https://www.invenglobal.com/articles/23674/creating-the-football-manager-of-esports-esports-manager-2026",
+                "source": "Inven Global",
+                "date": "2026-07-11T21:57:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's What Makes The Nothing Ear 3a's New 'Audio Snapshot' Feature So Unique",
+                "desc": "The Nothing tech brand has introduced new Ear 3a earbuds, and they offer a rather unique \"Audio Snapshot\" feature described as being a screenshot for audio.",
+                "image": "https://www.bgr.com/img/gallery/heres-what-makes-the-nothing-ear-3as-new-audio-snapshot-feature-so-unique/l-intro-1783802403.jpg",
+                "url": "https://www.bgr.com/2212974/nothing-ear-3a-audio-snapshot-explained/",
+                "source": "bgr.com",
+                "date": "2026-07-11T21:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4 Car Brands Bringing Back The Inline-6 Engine",
+                "desc": "Discover 4 car brands bringing back the inline-6 engine. We review how automakers like Mazda, Stellantis, Mercedes-Benz, and Land Rover use the tech.",
+                "image": "https://www.slashgear.com/img/gallery/4-car-brands-bringing-back-the-inline-6-engine/l-intro-1783425220.jpg",
+                "url": "https://www.slashgear.com/2209382/car-brands-bringing-back-inline-6-engine/",
+                "source": "SlashGear",
+                "date": "2026-07-11T21:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New retro-futuristic Casio G-Shock arrives with a Space Age aesthetic and a collectible time capsule case",
+                "desc": "Following last year's GM-5600 collaboration, Casio and C2H4 are back with another retro-futuristic G-Shock. This time, the GA-2100 gets the Space Age treatment, complete with a custom collectible packaging inspired by vintage industrial design.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-G-Shock-x-C2H4-GA-21001910.jpg",
+                "url": "https://www.notebookcheck.net/New-retro-futuristic-Casio-G-Shock-arrives-with-a-Space-Age-aesthetic-and-a-collectible-time-capsule-case.1340176.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-11T21:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TennoCon 2026: Soulframe Goes To The Edge With Its Most Ambitious Updates Yet",
+                "desc": "Soulframe revealed a dark twist on its core mythos coming in the upcoming Warsongs Fable, as well as a new villain, mounts, and “vegan fishing.”",
+                "image": "https://s.yimg.com/lo/mysterio/api/04e0656e7e81e5f900cf07d26e351f2d815244ea8fa6effed713052f2b553742/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcg_magazine_431%2F3ee396994a4a64a6e337647a8dc9cbe2",
+                "url": "https://tech.yahoo.com/gaming/articles/tennocon-2026-soulframe-goes-edge-214054828.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-11T21:40:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Before €80 Pokemon Winds and Waves price leak, Game Freak wanted more expensive games",
                 "desc": "If Game Freak has its way, the Pokémon Winds and Waves price may stretch budgets. A Teraleak document exposes how long the studio has been pushing for price hikes. Earlier, Amazon Germany leaked the cost of the upcoming Nintendo Switch 2 game at €79.99.",
@@ -1192,81 +1264,27 @@
                 "source": "KuCoin",
                 "date": "2026-07-11T17:12:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
-                "desc": "If scrolling feels more exhausting than entertaining, you're not alone. I feel the same way, and a recent study backs up the sentiment: Social media is losing its fun factor.",
-                "image": "https://i.pcmag.com/imagery/articles/05jtX24y12N42HIDJ8fPcnG-1.fit_lim.size_1200x630.v1783789260.png",
-                "url": "https://www.pcmag.com/news/death-of-the-status-update-why-55-americans-stopped-posting-social-media",
-                "source": "PCMag",
-                "date": "2026-07-11T17:02:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "My phone doesn't go anywhere without this $10 accessory; it's better than a headphone jack",
-                "desc": "A simple splitter which opens a world of possibilities",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/android-phone-splitter-hero-1.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/my-phone-doesnt-go-anywhere-without-this-10-accessory/",
-                "source": "Android Police",
-                "date": "2026-07-11T17:00:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AIC Gets Flashy with 32 SSD Bay JBOF Server for Key Value Caching",
-                "desc": "In preparation for the Rubin Vera era, AIC was showing off its F2032-01-G6, a 2U JBOF storage system that can house up to 32 E3 SSDs. The box is designed to be paired with BlueField-4 DPUs, allowing it to be used as a key value caching appliance",
-                "image": "https://www.servethehome.com/wp-content/uploads/2026/07/AIC-F2032-01-G6-JBOF-Server.jpg",
-                "url": "https://www.servethehome.com/aic-gets-flashy-with-32-ssd-bay-jbof-server-for-key-value-caching/",
-                "source": "ServeTheHome",
-                "date": "2026-07-11T17:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "To Build More Believable Bots, Simulate The Neurochemistry",
-                "desc": "Giving machines the ability to communicate nonverbally has real value, and [Drew Smith] clearly thinks your robot deserves better than an emoji. He shared a very interesting approach with his project ...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/Kindalive-banner.png",
-                "url": "https://hackaday.com/2026/07/11/to-build-more-believable-bots-simulate-the-neurochemistry/",
-                "source": "Hackaday",
-                "date": "2026-07-11T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Saturday Pre-orders - New starter sets for Warhammer newcomers",
-                "desc": "Check out this week’s pre-orders for Warhammer 40,000 and Black Library.",
-                "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/preorders-jul11-1-feature-bfqt6yhrgn.jpg",
-                "url": "https://www.warhammer-community.com/en-gb/articles/tpq1ctqn/saturday-pre-orders-new-starter-sets-for-warhammer-newcomers/",
-                "source": "Warhammer Community",
-                "date": "2026-07-11T16:56:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is Pokémon Go Down Today? Players Report Issues as Trackers Show Service Mostly Operational For Some",
-                "desc": "Pokémon Go players reported access issues during a busy event period, but monitoring services indicated no widespread outages, highlighting the gap between user complaints and confirmed disruptions.",
-                "image": "https://d.ibtimes.com.au/en/full/1696164/pokemon-go-has-been-hugely-successful-around-world-including-during-pandemic.jpg",
-                "url": "https://www.ibtimes.com.au/pokemon-go-players-report-issues-event-calendar-1872138",
-                "source": "International Business Times Australia",
-                "date": "2026-07-11T16:54:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You Can Unlock New Updates For Old Android Phones Using This Loophole",
-                "desc": "Older Android phones can lose updates while their hardware still works fine. A community-built option can help some models stay useful longer.",
-                "image": "https://www.bgr.com/img/gallery/you-can-unlock-new-updates-for-old-android-phones-using-this-loophole/l-intro-1783442458.jpg",
-                "url": "https://www.bgr.com/2209751/unlock-newer-updates-your-old-android-one-loophole/",
-                "source": "bgr.com",
-                "date": "2026-07-11T16:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 Drawbacks Of Buying A Nintendo Switch 2",
-                "desc": "Generally, the Nintendo Switch 2 is a great console. Are there any drawbacks to buying one now? Our expert weighs in on the cons of buying Nintendo's flagship.",
-                "image": "https://www.slashgear.com/img/gallery/4-drawbacks-of-buying-a-nintendo-switch-2/l-intro-1783420357.jpg",
-                "url": "https://www.slashgear.com/2209358/drawbacks-of-buying-nintendo-switch-2/",
-                "source": "SlashGear",
-                "date": "2026-07-11T16:45:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Manhunt expands as Interpol joins Ireland murder search",
+                "desc": "Jamey Carney's Killarney murder has sparked a manhunt for an asylum seeker who fled to Turkey via Dublin Airport before Irish police issued alerts.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/carney-police.jpg",
+                "url": "https://www.foxnews.com/world/irish-police-under-fire-refusing-identify-reported-asylum-seeker-sought-american-mothers-murder",
+                "source": "Fox News",
+                "date": "2026-07-11T22:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Up: Top six claims we verified this week",
+                "desc": "This week, DUBAWA examined a range of widely shared claims and separated fact from fiction using official records, credible reports, and digital verification",
+                "image": "https://i0.wp.com/dubawa.org/wp-content/uploads/2026/07/image-29.png",
+                "url": "https://dubawa.org/round-up-top-six-claims-we-verified-this-week-2/",
+                "source": "Dubawa",
+                "date": "2026-07-11T21:52:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Nyati Safari Lodge Launches Exclusive Private Rhino Camp In Greater Kruger: All You Need To Know",
                 "desc": "Nyati Safari Lodge launches Private Rhino Camp in Greater Kruger, offering exclusive luxury safari stays and Big Five wildlife experiences.",
@@ -1878,26 +1896,8 @@
                 "source": "The Guardian Nigeria News",
                 "date": "2026-07-11T16:38:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Patrolling the people’s encyclopedia",
-                "desc": "An unpaid army keeps the internet honest. A quarter of a century after Wikipedia was founded, about 250,000 volunteer editors guard its 65 million...",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/star9nanowiki1.jpg?itok=JrxSE3FO",
-                "url": "https://www.odt.co.nz/the-star/patrolling-peoples-encyclopedia",
-                "source": "Otago Daily Times",
-                "date": "2026-07-11T16:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Understanding Human Rights, Refugees, Statelessness, and Asylum: Why These Issues Matter to Us All",
-                "desc": "Every day, millions of people around the world are forced to flee their homes because of war, persecution, political instability, violence, or gross violations of human rights .",
-                "image": "https://cdn.modernghana.com/images/content/711202660919-osjvm8x442-672fe322-a10f-4d7b-935d-5f200afb909d.jpeg",
-                "url": "https://www.modernghana.com/news/1509797/understanding-human-rights-refugees-statelessnes.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-11T16:30:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T09:40:16.658266Z"
+    "lastGlobalSync": "2026-07-12T10:00:16.598941Z"
 }
