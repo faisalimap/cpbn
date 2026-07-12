@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "GLP-1 implant from Vivani Medical aims to help patients stay on treatment",
+                "desc": "Vivani Medical is developing an implant of semaglutide, the active ingredient in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108279913-1773864085826-gettyimages-2260914806-64393_48_ms_4337.jpeg?v=1773864352&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html",
+                "source": "CNBC",
+                "date": "2026-07-11T12:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon layoffs take their toll",
+                "desc": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108217469-1761596968439-gettyimages-2221389323-AFP_63TY9KL.jpeg?v=1761597002&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
+                "source": "CNBC",
+                "date": "2026-07-11T12:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Barrow Brewers Fayre at North Road put on the market",
+                "desc": "The pub and restaurant is one of nearly 200 branches to face being sold as Premier Inn owner Whitbread exits its Beefeater and Brewers Fayre brands.",
+                "image": "https://www.nwemail.co.uk/resources/images/21170481.jpg?type=og-image&xType=0&yType=1",
+                "url": "https://www.nwemail.co.uk/news/26272219.barrow-brewers-fayre-north-road-put-market/",
+                "source": "NW Mail",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Diesel braced for big-time oil price jump",
+                "desc": "Brace yourselves for a steep increase in fuel expenses next week as the squeeze on global middle distillate inventories and renewed geopolitical tensions in the...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/11/115269.webp",
+                "url": "https://mb.com.ph/2026/07/11/diesel-braced-for-big-time-oil-price-jump",
+                "source": "Manila Bulletin",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sulphur exposes chokepoints in global production networks",
+                "desc": "When the Strait of Hormuz closed, sulphur chokepoints turned a regional conflict into a shock affecting global food production and clean energy manufacturing.",
+                "image": "https://eastasiaforum.org/wp-content/uploads/2026/07/2026-04-14T084313Z_1796609816_MT1VCG000JFCGP4_RTRMADP_3_VCG-1200x800.jpg",
+                "url": "https://eastasiaforum.org/2026/07/11/sulphur-exposes-chokepoints-in-global-production-networks/",
+                "source": "East Asia Forum",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘End of an era’: what is the future of British TV after Sky’s ITV takeover?",
+                "desc": "Merger stokes fears over job cuts, US influence and possible BBC and Channel 4 tie-up to take on Netflix and YouTube",
+                "image": "https://i.guim.co.uk/img/media/91047cdd523aab77c87f48c349f47f0d74304365/305_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5da0c90b768b01e3d7a32c0bacf89b3",
+                "url": "https://www.theguardian.com/media/2026/jul/11/british-tv-sky-itv-takeover-bbc-channel-4-netflix-youtube",
+                "source": "The Guardian",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China Aligns With South Korea, Malaysia and Other Global Leading Countries as Thailand Tourism Growth 2026 Accelerates with Agoda Insights Revealing Rising Asian Visitor Demand, Bangkok, Pattaya, Phuk",
+                "desc": "China, South Korea and Malaysia drive Thailand Tourism Growth 2026 as Agoda reveals Asian visitor demand boosting inbound travel, connectivity and destinations.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Thailand-1-3.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/76se0gokqi84/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-11T11:57:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Boeing unveils new 737 MAX production line as aviation giant charts comeback",
+                "desc": "Boeing marked another step in a marathon comeback Friday when it celebrated expanded production of the 737 MAX, now an aircraft in heavy demand after earlier disasters tarnished the company's reputation.",
+                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/6f459543084c5c86dbb8ffcdf214fb0d/2026-07/AFP__20260711__B9WD6RB__v1__HighRes__BoeingMarksTheStartOfNorthLineToExpand737MaxOut.jpg",
+                "url": "https://www.thestandard.com.hk/world/article/336968/Boeing-unveils-new-737-MAX-production-line-as-aviation-giant-charts-comeback",
+                "source": "The Standard (HK)",
+                "date": "2026-07-11T11:39:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan",
+                "desc": "Meta's announcement doesn't spell doom for the neocloud market.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878280%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/coreweave-stock-sank-11-after-mark-zuckerbergs-me/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T11:35:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet the Unstoppable Vanguard ETF Obliterating the S&P 500 in 2026",
+                "desc": "Investors have favored domestic companies amid the increasingly uncertain geopolitical environment.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878241%2Fan-investor-intently-focused-on-their-computer-screens-which-are-displaying-stock-charts.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/meet-the-vanguard-etf-obliterating-sp-500-in-2026/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T11:35:06Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Trump touts Micron Technology $250B memory chip investment as 'The Trump Effect'",
                 "desc": "Trump hailed the \"Trump Effect\" after Micron CEO Sanjay Mehrotra announced the company boosted its U.S. chip manufacturing investment to $250 billion.",
                 "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/trump-micron-250-billion-investment.jpg?ve=1&tl=1",
@@ -542,99 +632,99 @@
                 "source": "PR Newswire",
                 "date": "2026-07-10T22:06:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "SK hynix: From near collapse to AI chip powerhouse behind record US listing",
-                "desc": "Once on the edge of financial ruin, the South Korean chip giant has rebounded to debut on Wall Street in what is the largest US listing by a foreign company.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--tyfYOAkO--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/11/sk_hynix.jpg?itok=BF0YbiZS",
-                "url": "https://www.channelnewsasia.com/east-asia/sk-hynix-story-record-us-listing-ai-chips-6245921",
-                "source": "CNA",
-                "date": "2026-07-10T22:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toilet cleaning robot seeks to meet Japanese high standards",
-                "desc": "It’s not every day that a top company official asks to clean the restrooms at a commercial complex at night.",
-                "image": "https://p.potaufeu.asahi.com/164e-p/picture/31062405/baf1f51b3363a83bd1fb66ea9d89e9b4.jpg",
-                "url": "https://www.asahi.com/ajw/articles/16678156",
-                "source": "朝日新聞",
-                "date": "2026-07-10T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Winter Escape At Brisbane’s The Calile Hotel",
-                "desc": "Brisbane has emerged as one of Australia’s most exciting city breaks. At the heart of its transformation is The Calile Hotel, a design-led destination that...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/63OEZGIWAFAYDGXFC5RQXQU2UE.jpg?auth=fd70d211c3693d535a8be02ee733b1d7a25fe58e0161f23017a60f371b56282a&width=1200&height=675&quality=70&focal=553%2C879&smart=false",
-                "url": "https://www.nzherald.co.nz/viva/travel/a-winter-escape-at-brisbanes-the-calile-hotel-plus-the-best-of-james-street-and-beyond/premium/HN4XTV664FDP3J3GJOJSZDQTHI/",
-                "source": "NZ Herald",
-                "date": "2026-07-10T21:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Luxury Fashion Retailer in Bahrain Launches its AI Personal Stylist",
-                "desc": "Brands Seekers, a global luxury fashion retailer, said the multilingual AI stylist is available in over 150 countries.",
-                "image": "https://wwd.com/wp-content/uploads/2026/07/GettyImages-485065515.jpg?w=1000&h=563&crop=1",
-                "url": "https://wwd.com/sourcing-journal/industry-news/brands-seekers-luxury-fashion-artificial-intelligence-1239063495/",
-                "source": "WWD",
-                "date": "2026-07-10T21:43:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bay of Plenty's $15.5m trophy home finally sells: 'NBR rich-listers' showed interest",
-                "desc": "Agents predicted a long campaign from the outset., All things property, under OneRoof",
-                "image": "https://s.oneroof.co.nz/image/91/b9/91b9b2dcfcc5ce58b3fcb0a41245e352.jpg?x-oss-process=image/quality,q_80",
-                "url": "https://www.oneroof.co.nz/news/15-5m-trophy-home-finally-sells-nbr-rich-listers-and-captains-of-industry-showed-interest-49824",
-                "source": "OneRoof",
-                "date": "2026-07-10T21:35:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israelis embrace homemade cosmetics, but doctors warn o",
-                "desc": "A growing DIY beauty movement is replacing store-bought toothpaste, deodorant and soap with kitchen-made alternatives; Supporters cite control, savings and sustainability, but experts warn of bacteria, burns, tooth damage and products that lack proper testing",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/02/rJf002JmNmfl/rJf002JmNmfl_0_49_1000_563_0_large.jpg",
-                "url": "https://www.ynetnews.com/culture/lifestyle/article/b1mice97mg",
-                "source": "Ynetnews",
-                "date": "2026-07-10T21:31:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DoD class deviation leaves contractors with more questions than answers",
-                "desc": "“It's not entirely clear what the rulemakers were intending here,” Tracye Howard said.",
-                "image": "https://federalnewsnetwork.com/wp-content/uploads/2019/11/pentagon-money-defense-spending.jpg",
-                "url": "https://federalnewsnetwork.com/defense-main/2026/07/dod-class-deviation-leaves-contractors-with-more-questions-than-answers/",
-                "source": "Federal News Network",
-                "date": "2026-07-10T21:30:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
-                "desc": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108043118-1727991804628-AravindSrinivas-1.jpg?v=1727991916&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
-                "source": "CNBC",
-                "date": "2026-07-10T21:22:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU lawmakers give digital euro the green light, but rollout still years away",
-                "desc": "The digital euro would be an electronic form of central bank money, backed directly by the European Central Bank (ECB) and accessible via a digital wallet, intended to work alongside cash and existing bank accounts rather than replace them. The project has been years in the making but the EU first needs to agree on the legal framework underpinning the virtual currency",
-                "image": "https://cdn.modernghana.com/images/content/7102026103606-g30n1r5edx-000-96uv6zr.jpg",
-                "url": "https://www.modernghana.com/news/1509661/eu-lawmakers-give-digital-euro-the-green-light.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-10T21:18:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man partly sucked out of broken plane window mid-flight",
-                "desc": "A 61-year-old passenger suffered neck and shoulder injuries and friction burns, according to a Greek hospital official.",
-                "image": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/e8eaa5230b6a3f2f9acc321d0a133a4fb9e0d6b0aae1c8510effb1c0b0d3a7cf",
-                "url": "https://www.nine.com.au/world-news/uk-europe/man-partly-sucked-out-of-broken-plane-window-mid-flight-20260711-p60eh0.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-10T21:16:49Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "These 4 Pixel features work smarter than Gemini-and they don't need AI",
+                "desc": "Pixel settings that make my phone feel smarter.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/07/google-pixel-phones.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/these-pixel-features-work-smarter-than-gemini-and-they-dont-need-ai/",
+                "source": "How-To Geek",
+                "date": "2026-07-11T12:00:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to block YouTube ads for free with DuckDuckGo's new feature",
+                "desc": "DuckDuckGo can now block YouTube ads for free. I tested it across multiple devices to see if it actually works — and it does.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/YouTube-Ad-Blocking-setting-on-DuckDuckGo-browser.jpg",
+                "url": "https://www.androidauthority.com/duckduckgo-youtube-ad-blocker-how-use-3686151/",
+                "source": "Android Authority",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work",
+                "desc": "Until new Fallout game needs them - There's a chance the Avowed sequel Obsidian has been working on could still see the light of day, despite the fact it has...",
+                "image": "https://images.pushsquare.com/0a0cd39da3d56/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
+                "source": "Push Square",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The perfect kit for all your tiny repairs",
+                "desc": "Plus, in this week’s Installer: The Nothing Earbuds 3A, GPT-Live, Apple EarPods, and more.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-135.jpeg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+                "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+                "source": "The Verge",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside Estuary Ridge, Kinsale's new €950k luxury homes overlooking the estuary",
+                "desc": "Park Developments makes its Cork debut with nine premium A-rated homes overlooking Kinsale harbour, marinas and the Bandon estuary",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10302/5151407_3_org_01.jpg",
+                "url": "https://www.irishexaminer.com/property/residential/arid-41877350.html",
+                "source": "Irish Examiner",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A VPN Can Only Protect Your Privacy So Much. Here’s What to Consider",
+                "desc": "A VPN is a powerful privacy tool, but knowing what one can and can't do is important for protecting yourself online.",
+                "image": "https://www.cnet.com/a/img/resize/d80a215ee2f8ff6f93ea06147903c20c3ae25db4/hub/2024/05/11/dcf2a2b5-3f38-49fe-902d-6d74ee0e1262/vpn-general.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/services-and-software/vpn-privacy-limitations/",
+                "source": "CNET",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who Needs Scalpers When GameStop Is Marking Up Pokémon Cards By More Than 300 Percent?",
+                "desc": "Is paying a reasonable price for colorful cardboard too much to ask?",
+                "image": "https://www.engadget.com/img/gallery/who-the-hell-needs-scalpers-when-gamestop-is-marking-up-30th-anniversary-pokmon-cards-by-more-than-300-percent/l-intro-1783712761.jpg",
+                "url": "https://www.engadget.com/2212688/gamestop-resell-pokmon-30th-anniversary-at-obscene-markup/",
+                "source": "Engadget",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "McLaren 788HS: A 777-HP Goodbye to the Supercar That Redefined Woking",
+                "desc": "For the supercar bloodline that began when the McLaren 720S landed in 2017 and rewrote what a series-production McLaren could be, that closing argument arrived on July 9 in the shape of the new 788HS, which took its first public bow up the hill at the Goodwood Festival of Speed. It is also the ...",
+                "image": "https://s.yimg.com/lo/mysterio/api/ada571b6179c790af5732f7ee98af76a5f2bfea9a0d48af4a4b1772e8094b21e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F0d71512b2258ba6c3fd12f6d0cf63e08",
+                "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/mclaren-788hs-777-hp-goodbye-114408018.html",
+                "source": "Yahoo Autos",
+                "date": "2026-07-11T11:44:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 niche programming languages developers secretly love",
+                "desc": "There are some languages that don't need mass appeal to be loved. Elixir, Lua, Zig, Clojure, Julia, and Rust prove that point a thousand times over.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/02/a-laptop-with-some-code-on-the-screen-and-a-mouse-cursor.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/niche-programming-languages-developers-secretly-love/",
+                "source": "How-To Geek",
+                "date": "2026-07-11T11:38:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Windows is much less distracting when you turn off these 5 unnecessary notifications",
+                "desc": "You don't have to be bothered with a never-ending stream of needles alerts.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/07/a-laptop-on-a-surface-with-the-phone-link-logo-and-notification-icons-around-it.png?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/windows-is-much-less-distracting-when-you-turn-off-these-unnecessary-notifications/",
+                "source": "How-To Geek",
+                "date": "2026-07-11T11:31:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Donkey Kong Arcade Set Surfaces In New LEGO Leak, Here's A First Look",
                 "desc": "It's on like Donkey Kong! - Last month, Nintendo teased a brand-new Lego Donkey Kong set via the Nintendo Today app. In an update, it seems we've now got our...",
@@ -1174,99 +1264,99 @@
                 "source": "Kotaku",
                 "date": "2026-07-10T20:29:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Samsung 65-Inch S90H OLED TV Just Got a Massive $700 Price Cut",
-                "desc": "This Samsung TV packs a gorgeous, glare-free 4K screen with AI upscaling and built-in Alexa for your viewing pleasure.",
-                "image": "https://www.cnet.com/a/img/resize/9ad0c75b61e597ea58e2abe0b90e17ac347b1794/hub/2026/07/10/37ed7d73-3be7-4328-b5f5-cfdc349b79cf/samsung-s90h.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/samsung-65-inch-s90h-oled-tv-deal-2026-07-10/",
-                "source": "CNET",
-                "date": "2026-07-10T20:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's Voice Recorder will get an improved transcription feature to understand you better",
-                "desc": "It's coming soon",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-finder-article.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/samsung-voice-recorder-app-cloud-transcription-update/",
-                "source": "Android Police",
-                "date": "2026-07-10T20:24:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
-                "desc": "MuScriptor, an open-weight decoder-only Transformer transcribing multi-instrument music into MIDI across diverse musical genres.",
-                "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/kyutai-releases-muscriptor-an-open-weigh_IXsqV0lpXg6D1rtmM94rWA_km1iPHN0RR6lde9aYcoKwQ_cover.png",
-                "url": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
-                "source": "MarkTechPost",
-                "date": "2026-07-10T20:21:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "20mm F/2.8 Leak Reveals New Full",
-                "desc": "A leaked image has revealed Tamron's upcoming 12-20mm F/2.8 ultra-wide zoom for Sony E and Nikon Z, with reports pointing to a July 15 announcement.",
-                "image": "https://media.imaging-resource.com/2026/07/10201627/Tamron-12-20mm-f_2-700px.jpg",
-                "url": "https://www.imaging-resource.com/news/tamron-12-20mm-f-2-8-leak-reveals-new-full-frame-ultra-wide-zoom/",
-                "source": "Imaging Resource",
-                "date": "2026-07-10T20:20:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Using Your iPhone at Night? Here's How You Can Make the Screen Extra Dim",
-                "desc": "Some iPhone screens can get down to a single nit of brightness, but these tricks will let you get it even dimmer.",
-                "image": "https://www.cnet.com/a/img/resize/b1e6df722cefbb58c1cc155c6b30fec603b7e83e/hub/2024/05/29/69880edb-81c8-45d0-ac04-9c0b9437ea49/20240529-103318.png?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/mobile/using-your-iphone-at-night-heres-how-you-can-make-the-screen-extra-dim/",
-                "source": "CNET",
-                "date": "2026-07-10T20:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Supernatural Launches Sensory Wellness Studio",
-                "desc": "High-frequency.",
-                "image": "https://insider.fitt.co/wp-content/uploads/2026/07/DSC4478-2.jpg",
-                "url": "https://insider.fitt.co/supernatural-launches-sensory-wellness-studio/",
-                "source": "Fitt Insider",
-                "date": "2026-07-10T19:56:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Doom Studio id Software Tries to Ease Concerns After Xbox Layoffs",
-                "desc": "The layoffs at id Software were deep enough to cause some to wonder whether the studio could survive following Microsoft's controversial decision to cut costs.",
-                "image": "https://i.pcmag.com/imagery/articles/0507g6oOSjyHQm4DS24YMuR-1.fit_lim.size_1200x630.v1783709305.jpg",
-                "url": "https://www.pcmag.com/news/doom-studio-id-software-tries-to-ease-concerns-after-xbox-layoffs",
-                "source": "PCMag",
-                "date": "2026-07-10T19:55:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Doom Studio id Software Tries to Ease Concerns After Xbox Layoffs",
-                "desc": "The layoffs at id Software were deep enough to cause some to wonder whether the studio could survive following Microsoft's controversial decision to cut costs.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/d/doom-studi/doom-studio-id-software-tries-to-ease-concerns-after-xbox-la_hbvp.1200.jpg",
-                "url": "https://au.pcmag.com/pc-games/118712/doom-studio-id-software-tries-to-ease-concerns-after-xbox-layoffs",
-                "source": "PCMag Australia",
-                "date": "2026-07-10T19:55:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vivo Y500 vs OnePlus N6 Comparison: Which Battery Phone Wins?",
-                "desc": "The Vivo Y500 and OnePlus N6 both pack 8,000mAh-class batteries but differ sharply on display, 5G, durability and price. Here is the full comparison.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Vivo-Y500-vs-OnePlus-N6-Comparison-Which-Battery-Phone-Wins.jpg",
-                "url": "https://memeburn.com/vivo-y500-vs-oneplus-n6-comparison/",
-                "source": "Memeburn",
-                "date": "2026-07-10T19:55:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A decade later, Pokémon Go finally made good on its original promise",
-                "desc": "Pokémon Go kicked off its 10th anniversary by turning its first trailer into wild in-person event.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-                "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-                "source": "The Verge",
-                "date": "2026-07-10T19:51:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "As Democrats pick up the pieces after Graham Platner, many wonder: how did this happen?",
+                "desc": "The former US Senate candidate’s spectacular fall has upended the Maine Senate race and left voters fuming at the party",
+                "image": "https://i.guim.co.uk/img/media/73071b950928ef29cd5c5d8d2b15293fe8dc69bb/426_0_6392_5116/master/6392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=742616a03481fa11598c9c2a379dc02b",
+                "url": "https://www.theguardian.com/us-news/2026/jul/11/graham-platner-democrats-maine-senate",
+                "source": "The Guardian",
+                "date": "2026-07-11T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump praises Allah, threatens to obliterate Iran",
+                "desc": "New threats come amid reports the regime in Tehran is targeting the U.S. president for assassination.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/11/GettyImages-2285272782-scaled.jpg",
+                "url": "https://www.politico.eu/article/donald-trump-praises-allah-threatens-obliterate-iran/",
+                "source": "politico.eu",
+                "date": "2026-07-11T11:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran's Mojtaba Khamenei vows revenge for father's killing",
+                "desc": "Iran's supreme leader said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him. DW has more.",
+                "image": "https://static.dw.com/image/77871516_6.jpg",
+                "url": "https://www.dw.com/en/irans-mojtaba-khamenei-vows-revenge-for-fathers-killing/live-77913349",
+                "source": "DW.com",
+                "date": "2026-07-11T11:56:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
+                "desc": "Claudia Sheinbaum is trying to govern on her own terms — while dealing with Trump, cartels and AMLO's shadow.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/New-Sheinbaum-1783295558.png?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968",
+                "source": "Al Jazeera",
+                "date": "2026-07-11T11:52:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan heatwave: Extreme temperatures rise",
+                "desc": "Parts of Japan's Kyushu region experienced extreme temperatures on July 11, with a heatstroke warning issued for several prefectures. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3e96a02224d1cdbed15d4c36fdd67e0df1da385b706fc5389df0d851c7d723ee",
+                "url": "https://www.straitstimes.com/asia/east-asia/heatwave-grips-southwest-japan-record-tying-39-3-deg-c-at-kyushu-tourist-spot",
+                "source": "The Straits Times",
+                "date": "2026-07-11T11:50:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Most people who need glasses lack a pair. Here's a solution : NPR",
+                "desc": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3132+0+290/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3a%2F2b7ae267443fb28f38919fb0d0b8%2Findia-post-office-eye-exam-11.jpg",
+                "url": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
+                "source": "NPR",
+                "date": "2026-07-11T11:49:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Many were trapped': Vietnam tragedy visuals show overturned boat, CPR on shore and panic at sea",
+                "desc": "Rest of World News: At least 15 people were killed after a speedboat carrying Indian tourists capsized off Vietnam's southern Phu Quoc Island on Saturday, according to au.",
+                "image": "https://static.toiimg.com/thumb/msid-132329996,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/rest-of-world/many-were-trapped-vietnam-tragedy-visuals-show-overturned-boat-cpr-on-shore-and-panic-at-sea/articleshow/132329996.cms",
+                "source": "The Times of India",
+                "date": "2026-07-11T11:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Typhoon Bavi loses eye but system expands to 1,263 times the size of Hong Kong",
+                "desc": "Experts warn the change has dissipated Bavi's energy from the core to its overall cloud structure, making it potentially more dangerous",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4004532.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/typhoon-bavi-loses-eye-but-system-expands-to-1263-times-the-size-of-hong-kong",
+                "source": "The Star",
+                "date": "2026-07-11T11:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Person hospitalised following early",
+                "desc": "Detectives are appealing for information and witnesses following an early-morning arson attack in Limavady. At approximately 1.30am this morning, police received a report of a fire at a block of flats in the Glenview Drive area. Officers attended, alongside colleagues from the Northern Ireland Fire and Rescue Service, and the Northern Ireland Ambulance Service. Colleagues […]",
+                "image": "https://highlandradio.com/wp-content/uploads/2024/07/128899416_policepacemaker.jpg",
+                "url": "https://highlandradio.com/2026/07/11/person-hospitalised-following-early-morning-arson-attack-in-derry/",
+                "source": "Highland Radio",
+                "date": "2026-07-11T11:44:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nobel Laureate Who Invented Blue LED Now Chases Nuclear Fusion Breakthrough",
+                "desc": "At 72, Shuji Nakamura says his fusion venture could outweigh the impact of the invention that made him famous.",
+                "image": "https://mjengohub.co.ke/static/images/articles/900dab2a139544b4b5bc69b57dca644a_1000198396.jpg",
+                "url": "https://mjengohub.co.ke/articles/technology/nobel-laureate-who-invented-blue-led-now-chases-nuclear-fusion-breakthrough",
+                "source": "Mjengo Hub",
+                "date": "2026-07-11T11:42:22Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Iran denies requesting talks with US, warns of 'reciprocal' response to any breach",
                 "desc": "ISTANBUL: Iran on Friday (July 10) denied reports that it had requested negotiations with the United States, warning that any breach of commitments by Washington would be met with \"reciprocal action,\" Anadolu Ajansi reported, citing Iran's official news agency IRNA.",
@@ -1806,98 +1896,8 @@
                 "source": "TMZ",
                 "date": "2026-07-10T20:10:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "King Charles, Camilla meet with Prince Harry, Meghan and kids in UK",
-                "desc": "The reunion at Highgrove House is the family's first known meeting since 2022.",
-                "image": "https://cdn.abcotvs.com/dip/images/19482068_071026-wabc-ap-file-king-charles-prince-harry-img.jpg?w=1600",
-                "url": "https://abc7ny.com/post/king-charles-camilla-meet-prince-harry-meghan-kids-uk/19482016/",
-                "source": "ABC7 New York",
-                "date": "2026-07-10T20:01:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why everyday sounds are a nightmare for people like Ben",
-                "desc": "“I remember just recoiling and wanting to run away or lash out in anger.”",
-                "image": "https://static.ffx.io/images/$zoom_0.3244%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_63/t_crop_custom/q_86%2Cf_auto/2bed257a9cfd1acfbfc55906dafe21e70516a5009f309a7d8dbbec79e9567b0f",
-                "url": "https://www.brisbanetimes.com.au/national/queensland/the-everyday-sounds-that-are-a-nightmare-for-people-like-ben-20260708-p60dn6.html",
-                "source": "Brisbane Times",
-                "date": "2026-07-10T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Punjab Congress crisis: Partap Bajwa to join dissidents' meet with Baghel, Warring to skip it",
-                "desc": "Only 50 leaders may be allowed for meeting.",
-                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQxZWU2YTkwLTdjZDQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-                "url": "https://www.tribuneindia.com/news/punjab/bajwa-to-join-dissidents-meet-with-baghel-today-warring-to-stay-away/",
-                "source": "The Tribune",
-                "date": "2026-07-10T19:59:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Just Rs 20,000 for murder: How Bishnoi, Bhagwanpuria gangs hired unsuspected minors, women, paid minimal amount",
-                "desc": "US records show both gangsters operated with striking similarity.",
-                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMwNzU2NzYwLTdjYzgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-                "url": "https://www.tribuneindia.com/news/top-headlines/just-rs-20000-for-murder-how-bishnoi-bhagwanpuria-gangs-hired-unsuspected-minors-women-paid-minimal-amount/",
-                "source": "The Tribune",
-                "date": "2026-07-10T19:56:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insecurity, Democratic Backsliding and the Erosion of Political Competition",
-                "desc": "An in-depth CDD-West Africa report examining Benin's 2026 presidential election, analysing how political reforms, shrinking democratic space, and rising insecurity in the north shaped electoral competition, governance, and the country's democratic trajectory.",
-                "image": "https://images.cddwestafrica.org/1676568336/reports/og/og-logo.jpg",
-                "url": "https://www.cddwestafrica.org/reports/benin-s-2026-vote-insecurity-political-re-engineering-and-the-erosion-of-competition/",
-                "source": "Centre for Democracy and Development",
-                "date": "2026-07-10T19:55:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say",
-                "desc": "Lawyer says men who were riding in van are being pressured to self-deport as footage of incident is reportedly with investigators",
-                "image": "https://i.guim.co.uk/img/media/d7c85a248cf1af646c36ccb1e89aec744498e35b/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a08de3e54eba65b93c707aa42a6fe402",
-                "url": "https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration",
-                "source": "The Guardian",
-                "date": "2026-07-10T19:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa’s richest man takes $2billion infrastructure push to one of the continent’s smallest economies",
-                "desc": "Aliko Dangote has pledged $2 billion to develop a 250MW solar power plant and a fuel storage terminal in The Gambia, expanding his pan-African infrastructure investment strategy beyond Nigeria. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/8IyktkpTURBXy83N2EzZTM5ODU1NmQyMTg2NjU2OTFmOTZjNmVkYTRmOC5qcGeSlQMAzQHyzRKezQp4kwXNBLDNAnY",
-                "url": "https://africa.businessinsider.com/local/markets/africas-richest-man-takes-dollar2billion-infrastructure-push-to-one-of-the-continents/5tw7c3v",
-                "source": "Business Insider Africa",
-                "date": "2026-07-10T19:50:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s Controversial Qatari Jet Grounded Over Security Fears",
-                "desc": "The Qatari jet gifted to President Donald Trump, which made its debut as Air Force One last week, was quickly retrofitted for security upgrades, but some experts have questioned whether it is entirely up to snuff.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fc466a67900ee6ec22362/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/conormurray/2026/07/10/white-house-grounded-trumps-qatari-jet-over-security-concerns-more-reports-confirm/",
-                "source": "Forbes",
-                "date": "2026-07-10T19:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ICE officer shot driver through passenger window, detainees tell lawyer",
-                "desc": "Tuesday's shooting during an attempted traffic stop by ICE officers in Houston has revived critical voices deriding the Trump administration’s immigration crackdown.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/houston-shooting-update-e1783712283785.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11961574/ice-officer-shooting-detainees-lawyer/",
-                "source": "Global News",
-                "date": "2026-07-10T19:38:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/07/10/6a51483f432781783711807.jpg",
-                "url": "https://techreviewafrica.com/news/6260/ethiopia-highlights-intellectual-property-as-catalyst-for-innovation-and-economic-transformation-at-wipo-assemblies",
-                "source": "Tech Review Africa",
-                "date": "2026-07-10T19:32:22Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T23:40:17.875428Z"
+    "lastGlobalSync": "2026-07-12T00:00:20.908401Z"
 }
