@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "A charity policy coordinator on €36K living in Dublin",
+                "desc": "This week, our reader outlines how they make €900 last over a month after their outgoings, including €1,000 a month in rent.",
+                "image": "https://img2.thejournal.ie/article/7095272/river/?height=400&version=7096074",
+                "url": "https://www.thejournal.ie/readme/money-diaries-spending-saving-93-7095272-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-12T19:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These are the corporate gamblers who never waste a good energy crisis",
+                "desc": "Big oil’s secretive trading arms are having an extraordinary year, trading far more of the stuff than they actually produce.",
+                "image": "https://static.ffx.io/images/$zoom_0.2152%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_431%2C$y_195/t_crop_custom/q_86%2Cf_auto/44d88a5678b13be1695496adffed78e710586e8d",
+                "url": "https://www.smh.com.au/business/markets/these-are-the-corporate-gamblers-who-never-waste-a-good-energy-crisis-20260710-p60eao.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-12T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Denholm panel slams Labor changes to R&D tax incentives",
+                "desc": "An innovation panel led by the Tesla chairwoman has slammed Labor’s R&D tax changes, as leading biotechs warn the policy will smash cashflow and force growth overseas.",
+                "image": "https://static.ffx.io/images/$zoom_0.3162%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_206%2C$y_45/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8972cbd47bfe747855f1f952f383e361f61ae3cd",
+                "url": "https://www.afr.com/politics/federal/denholm-panel-slams-labor-changes-to-r-and-d-tax-incentives-20260708-p60dko",
+                "source": "AFR",
+                "date": "2026-07-12T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How a $75 million upgrade is transforming one of Australia’s most iconic coastlines",
+                "desc": "This Aussie town’s hotel scene isn’t keeping pace with tourism growth. At least one operator is trying to make it better, if not bigger.",
+                "image": "https://static.ffx.io/images/$zoom_0.2735020661157025%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_56/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/1da830d7112eddbd451bd0d28a4f23f0992694b7",
+                "url": "https://www.smh.com.au/traveller/travel-news/the-75-million-upgrade-transforming-one-of-our-most-epic-coasts-20260706-p60czb.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-12T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why hotel check-in still takes forever – but doesn’t have to",
+                "desc": "You’re waiting while the receptionist furrows their brow, taps a keyboard and … nothing. At least that’s the way it looks, but there’s a lot going on.",
+                "image": "https://static.ffx.io/images/$zoom_0.4995283018867924%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/6f5b88f030ca83edeeec149558c13ffd3c38d37e",
+                "url": "https://www.theage.com.au/traveller/reviews-and-advice/why-hotel-check-in-still-takes-forever-but-doesn-t-have-to-20260710-p60eaq.html",
+                "source": "The Age",
+                "date": "2026-07-12T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is the AI Bubble About to Burst?",
+                "desc": "Artificial intelligence is transforming business, but mounting evidence suggests its greatest value lies in supporting human expertise rather than replacing it.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-10_gubbvwsud8.jpg",
+                "url": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-12T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mainsgill - The Farm shop near Darlington, the A1(M) and A66",
+                "desc": "Mainsgill Farm Shop, located just 20 minutes from Darlington and close to the A1(M) and A66 has cemented its reputation as one of Yorkshire’s…",
+                "image": "https://www.thenorthernecho.co.uk/resources/images/21163975.jpg?type=og-image",
+                "url": "https://www.thenorthernecho.co.uk/news/26267864.mainsgill---farm-shop-near-darlington-a1-m-a66/",
+                "source": "The Northern Echo",
+                "date": "2026-07-12T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "When managing your money, take a chatbot's 'confidence' with a grain of salt",
+                "desc": "According to a 2025 survey of 2,000 U.S. adults by Pearl.com, a professional services platform, 19% said they lost more than $100 by following financial advice from an AI chatbot.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2025-09-24T164042Z_309711084_RC2GYGASCF0Y_RTRMADP_3_US-ECONOMY-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/economy/when-managing-your-money-take-a-chatbots-confidence-with-a-grain-of-salt",
+                "source": "PBS",
+                "date": "2026-07-12T18:57:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "J Communities launches as parent platform, restructuring New Jersey Developments’ real estate portfolio",
+                "desc": "J Communities has announced the launch of its operations in Egypt’s real estate market as the parent company of the group, in a restructuring that places the Jamila and Jura projects under its direct management. New Jersey Developments will continue operating as a subsidiary during a transition period. The restructuring is part of the group’s",
+                "image": "https://images.dailynewsegypt.com/2026/07/j-communities-scaled.jpeg",
+                "url": "https://www.dailynewsegypt.com/2026/07/12/j-communities-launches-as-parent-platform-restructuring-new-jersey-developments-real-estate-portfolio/",
+                "source": "Dailynewsegypt",
+                "date": "2026-07-12T18:56:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three Gorges' 100 MW Fresnel CSP enters trial operation at Hami in Xingjiang",
+                "desc": "[Ed: This plant incorporates multiple innovations, not only that outside China, Fresnel projects have never been built at this scale, and that even within China, this is only the second ever built at 100MW following China General Nuclear’s 100MW Fresnel in Gansu province, online in 2024.] Source:CSTA On July 7, the nation’s largest “Linear Fresnel” […]",
+                "image": "https://www.solarpaces.org/wp-content/uploads/2026/07/Fresnel-in-Gansu-by-China-General-Nuclear.jpg",
+                "url": "https://www.solarpaces.org/three-gorges-100-mw-fresnel-csp-enters-trial-operation-at-hami-in-xingjiang/",
+                "source": "SolarPACES",
+                "date": "2026-07-12T18:53:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nestlé Nigeria Backs Youth Entrepreneurship & Innovation",
                 "desc": "Nestlé Nigeria reaffirms its commitment to youth entrepreneurship and innovation, empowering young Nigerians with skills and support for successful busines",
                 "image": "https://punchng.com/wp-content/uploads/2026/06/Nestle-Nigeria_1782429989.webp",
@@ -542,99 +632,81 @@
                 "source": "Philstar.com",
                 "date": "2026-07-12T16:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "PERA contributors surge nearly fivefold",
-                "desc": "The number of Filipinos enrolled in Personal Equity and Retirement Accounts (PERA) rose by nearly five times as of end-June, driven by a sharp increase in self-employed contributors and wider access to the voluntary retirement savings program.",
-                "image": "https://media.philstar.com/photos/2026/07/12/13_2026-07-12_17-51-27.jpg",
-                "url": "https://www.philstar.com/business/2026/07/13/2541655/pera-contributors-surge-nearly-fivefold",
-                "source": "Philstar.com",
-                "date": "2026-07-12T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IN DETAIL: Stock market investors trade N220.6bn shares as banking sector dominate activity",
-                "desc": "Stock market investors traded a total of 3.64 billion shares worth N220.56 billion on the floor of the Nigerian Exchange (NGX) this week.",
-                "image": "https://www.thecable.ng/wp-content/uploads/2023/11/NGX-Stock-Exchange_TheCable-C-e1720792273912.jpeg",
-                "url": "https://www.thecable.ng/in-detail-stock-market-investors-trade-n220-6bn-shares-as-banking-sector-dominate-activity/",
-                "source": "TheCable",
-                "date": "2026-07-12T15:40:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The FTSE 100 Is Still Twitching: The Victim Refuses To Die",
-                "desc": "The U.K. is the absolute runt of the stock market litter. But it’s twitching into life because extreme value has a value-add: predation and the rendering of the victim.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a53b434528ff9738cd91954/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/digital-assets/2026/07/12/the-ftse-100-is-still-twitching-the-victim-refuses-to-die/",
-                "source": "Forbes",
-                "date": "2026-07-12T15:39:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dalal Street Week Ahead: Q1 earnings, inflation, oil prices, US Fed Chair Warsh's testimony, and China GDP among 10 key factors to watch",
-                "desc": "Going ahead, the market is expected to maintain a positive bias, provided there is no major escalation in geopolitical risks in West Asia.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260311012754_bse_nse_stockmarket_nifty_sensex5.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-q1-earnings-inflation-oil-prices-us-fed-chair-warsh-testimony-china-gdp-among-10-key-factors-to-watch-13972038.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-12T15:38:04Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "The Average Social Security Check Jumps This Much in 2027",
-                "desc": "Social Security's 2027 COLA forecast just got a significant upgrade, and analysts say it could deliver the biggest raise seniors have seen in years. But Medicare and unfinished inflation data could quietly erase much of that gain before retirees ever see it.",
-                "image": "https://247wallst.com/wp-content/uploads/2024/12/shutterstock-2281542179-huge-licensed-scaled.jpg",
-                "url": "https://247wallst.com/personal-finance/2026/07/12/the-average-social-security-check-jumps-this-much-in-2027/",
-                "source": "24/7 Wall St.",
-                "date": "2026-07-12T15:36:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After Rs 3.3 lakh crore infra push, Airtel eyes cloud, NBFC and data centres: Sunil Mittal",
-                "desc": "The strategy marks a shift beyond connectivity as Airtel looks to monetise India's accelerating adoption of artificial intelligence (AI), cloud computing and digital infrastructure while leveraging its nationwide telecom network.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2023/08/Sunil-Mittal-B20-Summit.jpg",
-                "url": "https://www.moneycontrol.com/news/telecom/after-rs-3-3-lakh-crore-infra-push-airtel-eyes-cloud-nbfc-and-data-centres-sunil-mittal-13972040.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-12T15:34:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 1 Bitcoin Chart They Don’t Want You To See",
-                "desc": "I’ve been calling bitcoin down for ages. And it’s been falling. I called it up in 2017, 2021, and 2025. I’m a bull on the way up and a bear on the way back down again.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/650869b54cede04d12935f67/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/digital-assets/2026/07/12/the-1-bitcoin-chart-they-dont-want-you-to-see/",
-                "source": "Forbes",
-                "date": "2026-07-12T15:33:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-                "desc": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108333755-1783868174451-gettyimages-2273245639-2026_apr_30_muskvsaltman_0352.jpeg?v=1783868241&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-                "source": "CNBC",
-                "date": "2026-07-12T15:32:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LEQEMBI® Subcutaneous Autoinjector Clinical Data Supports Similar Efficacy and Safety to IV Formulation in Early Alzheimer’s Disease Presented at the Alzheimer’s Association International Conference®",
-                "desc": "New clinical and real-world data support a subcutaneous treatment pathway from initiation through maintenance treatment, offering dosing convenience for patients and care partners",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/12/1134083.jpg",
-                "url": "https://www.manilatimes.net/2026/07/12/tmt-newswire/globenewswire/leqembi-subcutaneous-autoinjector-clinical-data-supports-similar-efficacy-and-safety-to-iv-formulation-in-early-alzheimers-disease-presented-at-the-alzheimers-association-international-conference-aaic-2026/2382977",
-                "source": "The Manila Times",
-                "date": "2026-07-12T15:30:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How AI adoption is making insurers rethink cyber cover",
-                "desc": "Cyber insurance has historically focused on attacks by external actors who infiltrate company systems through stolen credentials, software vulnerabilities or social engineering.",
-                "image": "https://www.businessdailyafrica.com/resource/image/5525184/landscape_ratio3x2/1200/800/fe6a2231a9de462920c95ceb60521345/ux/cybertech.jpg",
-                "url": "https://www.businessdailyafrica.com/bd/corporate/technology/how-ai-adoption-is-making-insurers-rethink-cyber-cover-5525180",
-                "source": "Business Daily",
-                "date": "2026-07-12T15:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "After 20 years, GIMP finally fixed everything people disliked about it",
+                "desc": "GIMP finally grew up.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/gimp-3-running-on-windows-11-with-photogimp-patch.JPG?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/gimp-finally-fixed-everything-people-disliked/",
+                "source": "MakeUseOf",
+                "date": "2026-07-12T19:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2028 Could Bring the Most Mind-Bendingly Expensive Apple Product of All Time",
+                "desc": "And it's all because of you-know-what.",
+                "image": "https://gizmodo.com/app/uploads/2026/03/mac-pro-1200x675.jpg",
+                "url": "https://gizmodo.com/2028-could-bring-the-most-mind-bendingly-expensive-apple-product-of-all-time-2000784460",
+                "source": "Gizmodo",
+                "date": "2026-07-12T18:56:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Razer Expands Sanrio Collection with Target-Exclusives",
+                "desc": "Razer, a leading global lifestyle brand for gamers, has announced the latest expansion of its collaboration with Sanrio®, adding an irresistibly cute new collection of gaming gear and accessories. Featuring beloved characters including Hello Kitty®, Cinnamoroll™, Pompompurin™, My Melody™, and Kuromi",
+                "image": "https://www.totallicensing.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-16.15.41.png",
+                "url": "https://www.totallicensing.com/razer-expands-sanrio-collection-with-target-exclusives/",
+                "source": "Total Licensing",
+                "date": "2026-07-12T18:50:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minimum and recommended requirements for Marvel Tokon: Fighting Souls revealed for the PC version",
+                "desc": "Marvel Tokon: Fighting Souls is set to be released on August 6, 2026 for the PlayStation 5 and PC. At launch, it will feature a base roster made up of 20 characters — Captain America, Iron Man, Hulk, Black Panther (Shuri ...",
+                "image": "https://media.eventhubs.com/images/2026/07/12_tokon-requirements-bnrt.webp",
+                "url": "https://www.eventhubs.com/news/2026/jul/12/minimum-arecommended-requirements-tokon-pc/",
+                "source": "EventHubs",
+                "date": "2026-07-12T18:50:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brazilian Courts Force Xbox To Restore Hacked Account",
+                "desc": "Microsoft reportedly assigned 12 lawyers to argue over $400 and some video games",
+                "image": "https://kotaku.com/app/uploads/2019/05/l5dyuzkmobnf1sreh4n8-1200x675.jpg",
+                "url": "https://kotaku.com/brazilian-courts-force-xbox-to-restore-hacked-account-and-pay-damages-2000715020",
+                "source": "Kotaku",
+                "date": "2026-07-12T18:47:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Things You Probably Didn't Know Android 17 Can Do",
+                "desc": "Google has already showcased all the cool things that Android 17 can do, including underrated features like floating app bubbles and editable quick replies.",
+                "image": "https://www.bgr.com/img/gallery/5-things-you-probably-didnt-know-android-17-can-do/l-intro-1783529042.jpg",
+                "url": "https://www.bgr.com/2210646/things-didnt-know-android-17-can-do/",
+                "source": "bgr.com",
+                "date": "2026-07-12T18:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Things You May Not Know Your Wi-Fi Router Could Do",
+                "desc": "Wi-Fi routers can create guest networks, set parental controls, share USB storage, block ads with DNS, and extend range with an old router.",
+                "image": "https://www.slashgear.com/img/gallery/5-things-you-may-not-know-your-wi-fi-router-could-do/l-intro-1783509544.jpg",
+                "url": "https://www.slashgear.com/2210345/things-you-had-no-idea-home-wifi-router-could-do/",
+                "source": "SlashGear",
+                "date": "2026-07-12T18:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The next Apple Pencil could feature replaceable batteries",
+                "desc": "Bloomberg's Mark Gurman reports Apple is preparing two new Apple Pencil models, codenamed B582 and B632, for release alongside updated iPads in the first half of 2027. The Apple Pencil Pro successor may gain improved repairability to meet new EU rules requiring replaceable batteries.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-51.jpg",
+                "url": "https://www.notebookcheck.net/The-next-Apple-Pencil-could-feature-replaceable-batteries.1341156.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-12T18:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Xbox Gamer Wins Lawsuit Against Microsoft To Restore Account And Digital Library",
                 "desc": "Microsoft also has to pay roughly $400 in damages to the user.",
@@ -1192,81 +1264,72 @@
                 "source": "Android Police",
                 "date": "2026-07-12T15:15:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Here's Why Apple is Reportedly Skipping M6 Pro and M6 Max Chips",
-                "desc": "According to Bloomberg's Mark Gurman, Apple will be releasing a regular M6 chip, but it has no plans to offer higher-end M6 Pro and M6 Max chips. In his Power On newsletter today, he said the reason for this break in tradition is AI. \"Apple had been planning major neural-processing upgrades for the M7 family and ultimately decided those improvements were important enough to justify accelerating the next generation rather than completing the M6 lineup,\" he explained.",
-                "image": "https://images.macrumors.com/t/dZpr2AHe9O20SSyJxJudUyjwyTw=/1600x/article-new/2026/07/M6-Pro-M6-Max-Mockup.jpg",
-                "url": "https://www.macrumors.com/2026/07/12/why-apple-is-skipping-m6-pro-m6-max-chips/",
-                "source": "MacRumors",
-                "date": "2026-07-12T15:12:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Studio Ghibli calendar figures are back, look amazing whether you check the date or not[Photos]",
-                "desc": "Give Totoro, No-Face, and Jiji a little time every day, and they’ll make sure you don’t forget the date.",
-                "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/07/gc-0.jpg?w=1200&h=630&crop=1",
-                "url": "https://soranews24.com/2026/07/13/studio-ghibli-calendar-figures-are-back-look-amazing-whether-you-check-the-date-or-notphotos/",
-                "source": "SoraNews24",
-                "date": "2026-07-12T15:00:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One of SteelSeries’ best gaming headsets is over $100 off",
-                "desc": "The SteelSeries Arctis Nova Pro wireless gaming headset has ANC, swappable batteries, and mixable sources. They’re discounted because their packaging is damaged.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25360143/akrales_220510_5209_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
-                "source": "The Verge",
-                "date": "2026-07-12T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andrew Middleton’s 700hp, trophy-winning HK Monaro",
-                "desc": "Forget Silver Mink – Andrew Middleton’s trophy-magnet, 700hp HK Monaro proves that winners wear gold",
-                "image": "https://www.streetmachine.com.au/wp-content/uploads/2026/07/andrew-middleton-hk-monaro-7.jpg",
-                "url": "https://www.streetmachine.com.au/features/andrew-middleton-700hp-trophy-winning-hk-monaro",
-                "source": "Street Machine",
-                "date": "2026-07-12T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Intelligence began in Apple Car research",
-                "desc": "We've been telling you this for years — Apple Car research wasn't lit on fire, and the fruits of Apple's labor on it will be seen in artificial intelligence performance in the M7 and M8 processor.",
-                "image": "https://photos5.appleinsider.com/gallery/61811-127942-Glossy-VS-Matte-Displaky-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/12/power-of-apples-m7-m8-chips-was-born-from-apple-car-research",
-                "source": "AppleInsider",
-                "date": "2026-07-12T14:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A sustainable driven intrusion detection model for green CPS using ISP analysis and energy aware deep ensemble learning",
-                "desc": "Intrusion Detection Systems (IDSs) play a fundamental role in ensuring the reliability of green Cyber-Physical Systems (CPSs). Yet, existing IDS approaches did not capture the Inconsistent Sequential Pattern (ISP) in green CPS, thus resulting in high misclassification and limited sustainability. To address this issue, this study proposes a sustainability-driven ISP-aware intrusion detection framework that integrates ISP analysis and an energy-aware optimized deep ensemble learning model. The proposed framework encompasses the major layers, including the perception layer, transport layer, network layer, and control layer. The perception layer is responsible for authentication, whereas the transmission layer acts as an intermediate node between the perception layer and the network layer. Here, the network layer is generalized well enough to perform ISP-aware intrusion detection. Further, the proposed approach employs behavioral similarity modeling to enable fine-grained intrusion detection across CPS layers. Moreover, an optimized deep ensemble model is employed to detect intrusions while ensuring computational efficiency and generalization. Finally, the commands are executed through the actuator in the control layer. Thus, the proposed work obtains noticeable accuracies of 99.0654% and 99.4523% regarding network and IoT data, respectively. Hence, the experimental results confirm that the incorporation of ISP analysis significantly enhances IDS reliability and resilience in green CPS environments.",
-                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-55501-0?error=cookies_not_supported&code=73312ba5-afa6-41d7-aaf4-c6895b33635c",
-                "source": "Nature",
-                "date": "2026-07-12T14:52:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Source Archive Manager Is Out with Support for ZIM Archives",
-                "desc": "PeaZip 11.2 open-source archive manager is now available for download with read support for Zeno IMproved .ZIM archives and other changes.",
-                "image": "https://9to5linux.com/wp-content/uploads/2026/07/pz112.webp",
-                "url": "https://9to5linux.com/peazip-11-2-open-source-archive-manager-is-out-with-support-for-zim-archives",
-                "source": "9to5Linux",
-                "date": "2026-07-12T14:46:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stop treating your 3D printer like a vending machine for other people's models",
-                "desc": "Designing your own models is a hidden side of 3D printing that many miss out on.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/04/printing-a-pla-benchy-on-the-ankermake-m5c-3d-printer.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/stop-treating-your-3d-printer-like-a-vending-machine-for-other-peoples-models/",
-                "source": "How-To Geek",
-                "date": "2026-07-12T14:45:17Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Ship with notorious history gets new lease on life in our region",
+                "desc": "Having survived harsh environments, insolvency and even a run in with the Venezuelan navy, the reborn Heritage Adventurer is now running bucket-list trips in our region.",
+                "image": "https://static.ffx.io/images/$zoom_0.2717%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/b49c13fe4c557984ad3a31142e4ce47ae2f85f67",
+                "url": "https://www.smh.com.au/traveller/reviews-and-advice/ship-with-notorious-history-gets-new-lease-on-life-in-our-region-20260428-p5zrpp.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-12T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China blocks the most important apps travellers use. Here’s how to cope",
+                "desc": "Forget Apple Pay, WhatsApp and Google Maps. The technology that we have come to know and love evaporates after landing here.",
+                "image": "https://static.ffx.io/images/$zoom_0.27406832298136646%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/492a5b4771aab579070eb13fbb564d88b31610c0",
+                "url": "https://www.smh.com.au/traveller/reviews-and-advice/this-futuristic-nation-can-feel-like-a-step-back-in-time-20260618-p6081j.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-12T19:00:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "South Africa says 53,000 foreigners deported in campaign",
+                "desc": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/95a2/live/dc811170-7e22-11f1-a1b8-3d436696a874.jpg",
+                "url": "https://www.bbc.com/news/articles/cvgj2prd4p8o",
+                "source": "BBC",
+                "date": "2026-07-12T18:57:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Soccer Manager Has Intense TV Interview with Reporter After England Defeats Norway at World Cup",
+                "desc": "“How can you ask about mentality now? This is pure mentality,” Thomas Tuchel said after his team’s July 11 victory over Norway",
+                "image": "https://s.yimg.com/ny/api/res/1.2/UrdtotudGEwoXcRuW0y4vQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/095867cc6460990646c021bc6640ebad",
+                "url": "https://uk.sports.yahoo.com/news/soccer-manager-intense-tv-interview-184615678.html",
+                "source": "Yahoo Sports UK",
+                "date": "2026-07-12T18:46:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Archaeologists uncover 3,000-year-old tomb near Egypt's Luxor",
+                "desc": "The burial site was identified as belonging to a man named Paser based on inscriptions.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/12/88ecda04-9ecd-48af-acd0-a90240967427/thumbnail/1200x630/dbf6f1ef4761ba6974cc8f7e31f812ee/luxor-discovery.jpg",
+                "url": "https://www.cbsnews.com/news/archaeologists-uncover-3000-year-old-tomb-near-egypts-luxor/",
+                "source": "CBS News",
+                "date": "2026-07-12T18:46:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Syria's newly elected parliament holds first session post-Assad",
+                "desc": "Syria's newly elected parliament has held its first session since the ouster of former President Bashar Assad.",
+                "image": "https://dims.apnews.com/dims4/default/9671b5f/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2b%2Fda%2F6856aeb52c1b62024a642aa59fb3%2F4b68c94e7d9e4347ba268051015cdbf7",
+                "url": "https://apnews.com/article/syria-parliament-damascus-6be4ad499015beefcf40d47215bd75a7",
+                "source": "AP News",
+                "date": "2026-07-12T18:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KVKs: Propelling Rural Development through Agriculture",
+                "desc": "Dr. Parveen Kumar* India has been predominantly a rural country with two thirds of its population still residing in rural areas. India’s 70% workforce belongs to rural areas. Father of Nation Late Mahatma Gandhi had once remarked that India lives in her villages. The rural growth and development drive the overall growth and development of […]",
+                "image": "https://thenorthlines.com/wp-content/uploads/2026/07/pdfrendition1.pdf_20260713_000908145_4278956379729285889.png",
+                "url": "https://thenorthlines.com/kvks-propelling-rural-development-through-agriculture/",
+                "source": "thenorthlines.com",
+                "date": "2026-07-12T18:41:14Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "US condemns anti-American acts in Somalia, commends government's swift response",
                 "desc": "While calling for accountability for the actions done in the viral clip that shows members of the Somali Security Forces desecrating the American flag.",
@@ -1833,71 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-12T15:22:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-                "desc": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a539e905166-1783864976.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza",
-                "source": "Al Jazeera",
-                "date": "2026-07-12T15:22:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Believe’ - Jude Bellingham channels his inner Ted Lasso after firing England into 2026 World Cup semi-final showdown with Lionel Messi & Argentina",
-                "desc": "Jude Bellingham has invoked the spirit of Ted Lasso after carrying England into the final four of the 2026 World Cup. The Real Madrid superstar was once again the hero, netting a brace to secure a gritty 2-1 quarter-final victory over Norway and set up a mouth-watering clash against Argentina.",
-                "image": "https://assets.goal.com/images/v3/blt21d5eb7436e4692b/GOAL%20-%20Multiple%20Images%20-%202%20Split%20-%20Facebook%20-%202026-07-12T160204.464.jpg",
-                "url": "https://www.goal.com/en-ng/lists/jude-bellingham-channels-inner-ted-lasso-after-firing-england-into-2026-world-cup-semi-final-showdown-lionel-messi-argentina/blt742da1cc6ca08eed",
-                "source": "Goal.com",
-                "date": "2026-07-12T15:13:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Believe’ - Jude Bellingham channels his inner Ted Lasso after firing England into 2026 World Cup semi-final showdown with Lionel Messi & Argentina",
-                "desc": "Jude Bellingham has invoked the spirit of Ted Lasso after carrying England into the final four of the 2026 World Cup. The Real Madrid superstar was once again the hero, netting a brace to secure a gritty 2-1 quarter-final victory over Norway and set up a mouth-watering clash against Argentina.",
-                "image": "https://assets.goal.com/images/v3/blt21d5eb7436e4692b/GOAL%20-%20Multiple%20Images%20-%202%20Split%20-%20Facebook%20-%202026-07-12T160204.464.jpg",
-                "url": "https://www.goal.com/en-ke/lists/jude-bellingham-channels-inner-ted-lasso-after-firing-england-into-2026-world-cup-semi-final-showdown-lionel-messi-argentina/blt742da1cc6ca08eed",
-                "source": "Goal.com",
-                "date": "2026-07-12T15:12:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One Nation’s rise puts the next election in ‘unknown territory’ - but does Pauline Hanson really have a path to government?",
-                "desc": "Data shows the rightwing party faces an obstacle in the form of urban seats – and the effect of preference flows is harder to predict",
-                "image": "https://i.guim.co.uk/img/media/00fcfd71010e8ecc87bcb22bd2dc48e8b34119e6/607_62_6803_5442/master/6803.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e868cbc30dcf1691883e142a0745a6f5",
-                "url": "https://www.theguardian.com/news/2026/jul/13/one-nation-rise-next-election-pauline-hanson-path-to-government",
-                "source": "The Guardian",
-                "date": "2026-07-12T15:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Minister confronts Transnet over policy than could derail reforms",
-                "desc": "Transport Minister Barbara Creecy gave the Transnet board three days to explain how it would correct a rail access agreement she said broke with legislation",
-                "image": "https://i0.wp.com/sundayworld-prod-s3-bucket.s3.eu-west-1.amazonaws.com/wp-content/uploads/2026/07/11193253/P11-freight-train-Supplied.jpg?fit=1344%2C886&ssl=1",
-                "url": "https://sundayworld.co.za/business/minister-confronts-transnet-over-policy-than-could-derail-reforms/",
-                "source": "sundayworld.co.za",
-                "date": "2026-07-12T15:00:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bavarian Football Works",
-                "desc": "Norway will row into their next World Cup stronger.",
-                "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285682007.jpg?quality=90&strip=all&crop=0%2C11.454804434863%2C100%2C77.090391130274&w=1200",
-                "url": "https://www.bavarianfootballworks.com/fifa-world-cup/229467/three-observations-from-englands-2-1-win-over-norway-in-the-fifa-world-cup-quarterfinals",
-                "source": "Bavarian Football Works",
-                "date": "2026-07-12T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China reiterates rejection of 2016 'South China Sea Arbitration award'",
-                "desc": "China reiterates that the award of the \"2016 South China Sea Arbitration\" is null, void and has no binding force, and that it neither accepts nor recognizes it. July 12, 2026 marks the 10th anniversary of the ruling handed down by the Arbitral Tribunal",
-                "image": "https://video.cgtn.com/news/2026-07-12/China-reiterates-rejection-of-2016-South-China-Sea-Arbitration-award--1OIO2h0aICc/video/wu_1jtbb8v2uo9d6ajq9919fulutsq5/wu_1jtbb8v2uo9d6ajq9919fulutsq5-1280.jpg",
-                "url": "https://news.cgtn.com/news/2026-07-12/China-reiterates-rejection-of-2016-South-China-Sea-Arbitration-award--1OIO2h0aICc/p.html",
-                "source": "news.cgtn.com",
-                "date": "2026-07-12T14:58:14Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T06:41:11.435096Z"
+    "lastGlobalSync": "2026-07-13T07:01:10.898122Z"
 }
