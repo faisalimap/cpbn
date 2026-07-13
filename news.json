@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "‘It was 100 per cent co-ordinated’: Montreal restaurateur warns others after dine-and-dash",
+                "desc": "The owner of Yans Deli says a group of six diners left without paying a bill of nearly $500.",
+                "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/07/download-2.gif?w=864",
+                "url": "https://montrealgazette.com/news/montreal-restaurateur-yans-deli-warns-others-after-dine-and-dash/",
+                "source": "Montreal Gazette",
+                "date": "2026-07-12T17:14:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China Targets Food Delivery Subsidy Battles With New Rules on P…",
+                "desc": "Chinese regulators have proposed new rules aimed at reining in aggressive discounting practices in the country's food delivery...",
+                "image": "https://www.pymnts.com/wp-content/uploads/2023/01/aggregators-food-delivery-suburbs.jpg",
+                "url": "https://www.pymnts.com/cpi-posts/china-targets-food-delivery-subsidy-battles-with-new-rules-on-platform-competition/",
+                "source": "PYMNTS.com",
+                "date": "2026-07-12T17:11:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PSE considering end to involuntary delisting",
+                "desc": "THE Philippine Stock Exchange (PSE) is reviewing its approach to the involuntary delistings in an effort to better balance market discipline with investor interests while keeping the bourse attractive.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134100.jpg",
+                "url": "https://www.manilatimes.net/2026/07/13/business/corporate-news/pse-considering-end-to-involuntary-delisting/2382991",
+                "source": "The Manila Times",
+                "date": "2026-07-12T17:10:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Latvia Becomes the World Leader in Mobile Internet Consumption",
+                "desc": "In comparison, just a few years ago this volume was nearly six times smaller. Today, Latvia surpasses even traditional leaders in digitalization - Finland, Estonia, and South Korea - in mobile internet consumption.",
+                "image": "https://news.inbox.eu/w/img/21/94/219498219198946b2e.webp",
+                "url": "https://news.inbox.eu/150hwm0-latvia-becomes-the-world-leader-in-mobile-internet-consumption?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-07-12T17:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alarum cuts workforce after FBI investigation rocks the company",
+                "desc": "The Israeli company has begun laying off employees after U.S. authorities launched an investigation into subsidiary NetNut, triggering a sharp collapse in its share price.",
+                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/05/21/rJLhaH5mC/rJLhaH5mC_0_0_2048_1153_0_large.jpg",
+                "url": "https://www.calcalistech.com/ctechnews/article/4gnx3zo23",
+                "source": "CTech",
+                "date": "2026-07-12T17:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 1 AI Stock I'd Buy and Hold for the Next Decade",
+                "desc": "My pick isn't the market's hottest AI name -- and that's the point.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878510%2Fmsft-stock-buy.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/12/the-1-ai-stock-id-buy-and-hold-for-the-next-decade/",
+                "source": "The Motley Fool",
+                "date": "2026-07-12T17:07:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How async processing hides latency and improves responsiveness",
+                "desc": "Learn how asynchronous processing hides system latency and improves responsiveness using an event loop to handle tasks concurrently.",
+                "image": "https://cdn.thenewstack.io/media/2026/07/b62ce36e-getty-images-nzho-_nuwfs-unsplash.jpg",
+                "url": "https://thenewstack.io/async-processing-hides-latency/",
+                "source": "The New Stack",
+                "date": "2026-07-12T17:04:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Moderna (MRNA) Faces A Fresh Valuation Test Following Its Flu Vaccine Decision",
+                "desc": "Board appointment and flu vaccine decision put Moderna in focus\nInterest in Moderna (MRNA) is being driven by an upcoming regulatory decision on its mRNA-1010 seasonal flu vaccine, alongside boardroom changes that refresh financial oversight and governance at the company.\nAgainst that backdrop, Moderna stock has been volatile, including an 11% pullback after a recent rally, as investors weigh the potential impact of an expanded pipeline in oncology and respiratory vaccines.\nSee our latest...",
+                "image": "https://images.simplywall.st/asset/company-cover/128680956-main-header/1756229826628",
+                "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-mrna/moderna/news/moderna-mrna-faces-a-fresh-valuation-test-following-its-flu",
+                "source": "simplywall.st",
+                "date": "2026-07-12T17:03:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How GitLab’s Softer 2027 Outlook and AI Push Will Impact GitLab (GTLB) Investors",
+                "desc": "Earlier this week, GitLab reported quarterly results that exceeded expectations but issued softer fiscal 2027 revenue and earnings guidance, highlighting a projected moderation in revenue growth and a decline in non-GAAP EPS despite rolling out its AI-driven Duo Agent Platform and authorizing a US$400 million share repurchase.\nThe update underscores a tension between GitLab’s longer-term AI and platform ambitions and management’s cautious near-term outlook for monetization and...",
+                "image": "https://images.simplywall.st/asset/industry/8042000-choice1-main-header/1585186669041",
+                "url": "https://simplywall.st/stocks/us/software/nasdaq-gtlb/gitlab/news/how-gitlabs-softer-2027-outlook-and-ai-push-will-impact-gitl",
+                "source": "simplywall.st",
+                "date": "2026-07-12T17:02:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Snap (SNAP) Could Be 38% Undervalued On SPECS Launch And Cash Flow Efficiency",
+                "desc": "Snap (SNAP) is back in the spotlight after launching its high priced SPECS augmented reality glasses, a hardware push that lands just as the stock shows weakness and underlying cash generation looks more efficient.\nSee our latest analysis for Snap.\nDespite the excitement around SPECS, Snap’s share price return has been weak, with the stock down 11.03% over the past 30 days and the year to date share price return down 42.44%, while the 1 year total shareholder return has fallen 48.63% and the...",
+                "image": "https://images.simplywall.st/asset/company-cover/224055283-main-header/1585186858130",
+                "url": "https://simplywall.st/stocks/us/media/nyse-snap/snap/news/snap-snap-could-be-38-undervalued-on-specs-launch-and-cash-f",
+                "source": "simplywall.st",
+                "date": "2026-07-12T17:02:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Laid Off? LinkedIn Might Be Your Smartest Career Move",
                 "desc": "With more than 7 million Americans unemployed, talent acquisition consultant Jalonni Weaver shares how to turn a layoff into a stronger personal brand on LinkedIn.",
                 "image": "https://imageio.forbes.com/specials-images/imageserve/6a533b728b20318fcd3e8e81/0x0.jpg?format=jpg&crop=2904,1633,x0,y42,safe&height=900&width=1600&fit=bounds",
@@ -542,99 +632,54 @@
                 "source": "The Guardian",
                 "date": "2026-07-12T14:01:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Dropee Question of the Day 13 July 2026: Earn Coins",
-                "desc": "Check the Dropee Question of the Day for 13 July 2026. See today’s question, answer update, rewards, and how to participate safely.",
-                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/dropee-question-of-the-day-answer-13-july-2026-8133.webp",
-                "url": "https://www.coingabbar.com/en/crypto-currency-news/dropee-question-of-the-day-answer-13-july-2026",
-                "source": "Coin Gabbar",
-                "date": "2026-07-12T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "B.C. researchers turn to wild yeast in bid to help struggling craft breweries",
-                "desc": "Researchers at Langara College and the University of British Columbia are studying wild yeast collected from across B.C. and the Pacific Northwest to see if it can be used to brew beer with unique flavours while reducing costs for breweries.",
-                "image": "https://i.cbc.ca/ais/1.4258901,1503504063000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C97%2C1920%2C1080%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/british-columbia/wild-yeast-research-beer-9.7266556",
-                "source": "CBC",
-                "date": "2026-07-12T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Thoroughly Preposterous Notion Of So-Called “Fed Independence”",
-                "desc": "The scholarly class must cease their pretense about the impossibility of “Fed independence.” They want no such thing.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fa41b5426255e06eef782/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/johntamny/2026/07/12/the-thoroughly-preposterous-notion-of-so-called-fed-independence/",
-                "source": "Forbes",
-                "date": "2026-07-12T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Energy projects drive investor confidence in Tanzania",
-                "desc": "The country's growing pipeline of investment projects reflects continued efforts to create a favourable business environment and attract both domestic and foreign capital into the energy sector",
-                "image": "https://thebizlens.co.tz/wp-content/uploads/2026/07/forum2-1024x682.jpg",
-                "url": "https://thebizlens.co.tz/2026/07/12/energy-projects-drive-investor-confidence-in-tanzania/",
-                "source": "The BizLens",
-                "date": "2026-07-12T13:58:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alphabet vs. Amazon vs. Microsoft: Which Is the Best Cloud Computing Stock to Buy Today?",
-                "desc": "One cloud computing stock stands out among the group.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878414%2Fgettyimages-1480633240.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/12/alphabet-vs-amazon-vs-microsoft-which-is-the-best/",
-                "source": "The Motley Fool",
-                "date": "2026-07-12T13:56:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Credit Market Is Sending A Warning On AI Stocks",
-                "desc": "CDS spreads are widening for hyperscalers and chip giants, signaling rising credit risk and AI investment cycle uncertainty. Click for an updated market outlook.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2248352514/image_2248352514.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4921397-credit-market-sending-warning-on-ai-stocks",
-                "source": "Seeking Alpha",
-                "date": "2026-07-12T13:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Future of Digital Ownership and Creative Economies in Web3",
-                "desc": "The digital collectibles industry continues to evolve beyond profile pictures and speculative trading, moving toward deeper utility, intellectual property expansion, and new forms of artistic experimentation. Recent developments from Claynosaurz, Doodles, and Beeple illustrate how leading Web3-native brands are redefining ownership, creativity, and community engagement in the NFT ecosystem. One of the most significant announcements […]",
-                "image": "https://www.tekedia.com/wp-content/uploads/2023/10/web3.jpg",
-                "url": "https://www.tekedia.com/future-of-digital-ownership-and-creative-economies-in-web3/",
-                "source": "Tekedia",
-                "date": "2026-07-12T13:53:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yii Unveils First Physical Skincare Counter at Facesss Along with Summer Essential Launch: Milk M Lotion",
-                "desc": "Experience Custom-Tailored Rituals Through a Unique Consultation Journey, Activate Your Skin's Internal Hydration Engine",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/07/12/tmt-newswire/pr-newswire/yii-unveils-first-physical-skincare-counter-at-facesss-along-with-summer-essential-launch-milk-m-lotion/2382939",
-                "source": "The Manila Times",
-                "date": "2026-07-12T13:53:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Food Double Cheeseburgers and Ranked Them",
-                "desc": "We tried 13 fast-food double cheeseburgers and ranked them based on taste and value.",
-                "image": "https://i.insider.com/6a51270cd9d92978fe6a5ab7?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/best-fast-food-double-cheeseburger-ranked-taste-test",
-                "source": "Business Insider",
-                "date": "2026-07-12T13:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Investor compensation fund swells to Sh6.8bn",
-                "desc": "Disclosures by the Capital Markets Authority (CMA) in its 2024/2025 annual report show that the fund’s interest income from investments such as bonds and Treasury bills grew by 25 percent to...",
-                "image": "https://www.businessdailyafrica.com/resource/image/5519614/landscape_ratio3x2/1200/800/29931786fba8944e33fcf03579724de2/JY/shamiah.jpg",
-                "url": "https://www.businessdailyafrica.com/bd/markets/investor-compensation-fund-swells-to-sh6-8-bn-5525044",
-                "source": "Business Daily",
-                "date": "2026-07-12T13:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "5 Phone Brands That Are Owned By Chinese Companies",
+                "desc": "A handful of popular phone brands trace back to a single parent company, even after years of operating under completely separate names.",
+                "image": "https://www.bgr.com/img/gallery/5-phone-brands-that-are-owned-by-chinese-companies/l-intro-1783522706.jpg",
+                "url": "https://www.bgr.com/2210582/phone-brands-owned-by-chinese-companies/",
+                "source": "bgr.com",
+                "date": "2026-07-12T17:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warframe Dev Reacts To The Sudden Death Of Rival Destiny 2",
+                "desc": "Business realities remain an existential threat to live service art",
+                "image": "https://kotaku.com/app/uploads/2026/07/warframe-1200x675.jpg",
+                "url": "https://kotaku.com/warframe-dev-calls-the-sudden-death-of-destiny-2-horrible-news-and-says-its-terrifying-to-not-be-in-charge-of-your-own-goodbye-2000715006",
+                "source": "Kotaku",
+                "date": "2026-07-12T17:10:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Digimon Story: Time Stranger lands on Switch consoles with massive day",
+                "desc": "Digimon Story: Time Stranger comes to Nintendo Switch and Switch 2. Version 1.2.1 patch adds 4K graphics modes, Terriermon Assistant, and critical bug fixes.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Digimon-Story-Time-Stranger.jpg",
+                "url": "https://www.notebookcheck.net/Digimon-Story-Time-Stranger-lands-on-Switch-with-massive-day-one-update.1341149.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-12T17:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "33 Games is launching a self-service approach to physical publishing for Indie developers",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/33-Games-is-launching-a-self-service-approach-to-physical-publishing-f",
+                "source": "Games Press",
+                "date": "2026-07-12T17:03:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Margarite Entertainment Announces 'Gold Miner: Party Rush'",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Margarite-Entertainment-Announces-Gold-Miner-Party-Rush",
+                "source": "Games Press",
+                "date": "2026-07-12T17:03:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tested: 2026 Cadillac Optiq EV: Not Too Pricey, Autonomy Included",
                 "desc": "The 2026 Cadillac Optiq is an aggressively priced, compact luxury EV. With a bonus: standard vehicle autonomy. Dare I say it competes with the Tesla Model Y?",
@@ -1219,54 +1264,90 @@
                 "source": "MakeUseOf",
                 "date": "2026-07-12T13:30:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "I finally fixed my Pixel's missed call problem with these simple settings tweaks",
-                "desc": "I haven't noticed an increase in spam calls",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/a-man-holding-a-blue-pixel-phone-with-an-incoming-call-screen-beside-him.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/i-finally-fixed-my-pixels-missed-call-problem-with-these-simple-settings-tweaks/",
-                "source": "Android Police",
-                "date": "2026-07-12T13:30:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I use these free Windows tools to find what’s slowing down my PC",
-                "desc": "Pinpoint the causes of your sluggish PC without opening your wallet.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/52679273174_c93a060c3c_o.jpg?w=1200&h=675&fit=crop",
-                "url": "https://www.makeuseof.com/use-these-free-windows-tools-to-find-whats-slowing-down-pc/",
-                "source": "MakeUseOf",
-                "date": "2026-07-12T13:16:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Moto G77 Power Launched in India With 7,000mAh Battery and Big Trade",
-                "desc": "Motorola launched the Moto G77 Power in India at ₹25,999 with a 7,000mAh battery and Dimensity 6400 chip, but the pricing and spec mix raise questions about its value.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Moto-G77-Power-Launched-in-India-With-7000mAh-Battery-and-Big-TradeOffs.jpg",
-                "url": "https://memeburn.com/moto-g77-power-launched-in-india/",
-                "source": "Memeburn",
-                "date": "2026-07-12T13:06:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Public consultation to shape new College Street mural",
-                "desc": "Public consultation to shape new College Street mural - News - Carlow Nationalist",
-                "image": "https://www.carlow-nationalist.ie/cms_media/module_img/7717/3858718_2_articledetail_744737734_1548624350102782_5937572176497888905_n.jpg",
-                "url": "https://www.carlow-nationalist.ie/news/public-consultation-to-shape-new-college-street-mural_arid-104686.html",
-                "source": "carlow-nationalist.ie",
-                "date": "2026-07-12T13:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Granblue Fantasy: Relink - Endless Ragnarok Review (Switch 2)",
-                "desc": "Cleared for takeoff - Though Cygames has always been a mobile game developer, the company has historically been pretty good about supporting its games with s...",
-                "image": "https://images.nintendolife.com/83305d930d25a/1280x720.jpg",
-                "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/granblue-fantasy-relink-endless-ragnarok",
-                "source": "nintendolife.com",
-                "date": "2026-07-12T13:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Cork gardaí praised for role in apprehending serial British child-sex offender",
+                "desc": "Assailant fled to Republic via Northern Ireland while facing sentence for sex crimes between 2015 and 2022",
+                "image": "https://www.irishtimes.com/resizer/v2/MT65AWLMZFA3NB6FEF4SGVNMAQ.png?smart=true&auth=a29debeb674e64f881ba94d44861399c72fe68c739ee9741d8955090694a2bbd&width=1200&height=630",
+                "url": "https://www.irishtimes.com/crime-law/courts/2026/07/12/cork-gardai-praised-for-role-in-apprehending-serial-british-child-sex-offender/",
+                "source": "The Irish Times",
+                "date": "2026-07-12T17:17:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sudan court sentences RSF leader Hemedti to death",
+                "desc": "A court in Sudan's army-controlled city of Port Sudan on Sunday sentenced paramilitary leader Mohamed Hamdan Dagalo and 15 others to death in absentia over charges of killing a regional governor and war crimes in Darfur, state media reported.",
+                "image": "https://assets.citizen.digital/162854/conversions/daglo-og_image.webp",
+                "url": "https://citizen.digital/article/sudan-court-sentences-rsf-leader-hemedti-to-death-n386335",
+                "source": "Citizen Digital",
+                "date": "2026-07-12T17:17:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sudan: El Obeid families dying in drone strikes as hunger spreads, ground assault feared",
+                "desc": "Families in El Obeid, North Kordofan, are dying in drone strikes and facing extreme hunger despite repeated warnings, and the world has yet to act.",
+                "image": "https://hornobserver.com/uploads/article/photo/thumbs/IMG_A97CE0-5C9E26-537B71-ABED5D-AF68D0-9A4980.jpg",
+                "url": "https://hornobserver.com/articles/3690/Sudan-El-Obeid-families-dying-in-drone-strikes-as-hunger-spreads-ground-assault-feared",
+                "source": "Horn Observer",
+                "date": "2026-07-12T17:15:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "11 Stunning European Destinations Where You Can Retire On $1,500 A Month",
+                "desc": "From Bucharest, Romania to Corfu, Greece, some small European cities only cost $1,500 a month for retirees to live comfortably.",
+                "image": "https://www.moneydigest.com/img/gallery/11-stunning-european-destinations-where-you-can-retire-on-1500-a-month/l-intro-1783711588.jpg",
+                "url": "https://www.moneydigest.com/2212679/stunning-european-destinations-retire-1500-dollars-month/",
+                "source": "moneydigest.com",
+                "date": "2026-07-12T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lack of integrity undermining Africa's anti",
+                "desc": "Chairperson of the African Union Advisory Board Against Corruption, Edem Senanu, says Africa's fight against corruption has yet to produce visible results",
+                "image": "https://www.citinewsroom.com/wp-content/uploads/2026/07/Senanu.jpg",
+                "url": "https://www.citinewsroom.com/2026/07/lack-of-integrity-undermining-africas-anti-corruption-fight-edem-senanu/",
+                "source": "CitiNewsroom.com",
+                "date": "2026-07-12T17:11:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Farage forces by-election as financial scandals engulf Reform UK",
+                "desc": "Behind the campaign against Farage lies the concern that Reform UK is not yet ready to govern. Dominant sections of the ruling class have concluded that Labour under Andy Burnham is better able to impose their interests while placating and policing social and political opposition in the working class.",
+                "image": "https://www.wsws.org/asset/5d4a790b-0ce8-47a7-820d-661f3a582e0d?rendition=1600x900",
+                "url": "https://www.wsws.org/en/articles/2026/07/12/ulhi-j12.html",
+                "source": "World Socialist Web Site",
+                "date": "2026-07-12T17:06:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
+                "desc": "Sheikh Hamad, who ruled the Gulf state from 1995 to 2013, is buried after a simple Islamic ceremony.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260712__B9YP4CR__v1__HighRes__QatarPoliticsRoyalsEmirDeath-1783874897.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha",
+                "source": "Al Jazeera",
+                "date": "2026-07-12T17:05:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Egypt reaffirms full support for Somalia's unity, sovereignty",
+                "desc": "Mogadishu (HOL) — Egypt’s Foreign Minister Badr Abdelatty reaffirmed Cairo’s support for Somalia’s unity, sovereignty and territorial integrity during a phone call Saturday with Somali Foreign Minister Abdisalam Abdi Ali.",
+                "image": "https://www.hiiraan.com/uploads/2026/07/178383204541_2026-639193918235666614-566.jpg",
+                "url": "https://www.hiiraan.com/news4/2026/Jul/205663/egypt_reaffirms_full_support_for_somalias_unity_sovereignty.aspx",
+                "source": "Hiiraan Online",
+                "date": "2026-07-12T16:57:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Motorcyclist dies week after west Belfast road crash",
+                "desc": "The PSNI has appealed for witnesses to the collision to come forward.",
+                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTIxNzU1MzNcXFwvMi40MzkxMzE2Ni5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImJiYmFiMzdlN2ZjYzQzMjc2YjkyNGNkOTIwNTRhZDE0NWI2NmYzMDEifQ==/motorcyclist-dies-week-after-west-belfast-road-crash.jpg",
+                "url": "https://www.breakingnews.ie/ireland/motorcyclist-dies-week-after-west-belfast-road-crash-1925839.html",
+                "source": "BreakingNews.ie",
+                "date": "2026-07-12T16:56:25Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ukrainian drone strikes force Russia to suspend shipping in Sea of Azov",
                 "desc": "Vital maritime corridor closes after 90 vessels – including shadow fleet oil tankers – are attacked in under a week",
@@ -1815,89 +1896,8 @@
                 "source": "Ghana News Agency",
                 "date": "2026-07-12T13:48:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Israel rejects reports of humanitarian crisis in Gaza",
-                "desc": "Tel Aviv, July 9, (dpa/GNA) – Reports of a humanitarian crisis in the Gaza Strip are “extremely misleading,” a high-ranking official of the Israeli government organization responsible for…",
-                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
-                "url": "https://gna.org.gh/2026/07/israel-rejects-reports-of-humanitarian-crisis-in-gaza/",
-                "source": "Ghana News Agency",
-                "date": "2026-07-12T13:48:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Who was the masked man?' Khamenei funeral mystery solved",
-                "desc": "Middle East News: A masked figure seen at the funeral of Iran’s slain Supreme Leader Ali Khamenei, which fuelled speculation that his successor and son Mojtaba Khamenei.",
-                "image": "https://static.toiimg.com/thumb/msid-132346278,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/middle-east/who-was-the-masked-man-khamenei-funeral-mystery-solved/articleshow/132346181.cms",
-                "source": "The Times of India",
-                "date": "2026-07-12T13:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israeli police: Soldier feared abducted in West Bank was with partner",
-                "desc": "Tel Aviv, July 9 (dpa/GNA) – Israeli police reported on Thursday, that they followed the car of a Palestinian man, carrying a female Israeli soldier into the West…",
-                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
-                "url": "https://gna.org.gh/2026/07/israeli-police-soldier-feared-abducted-in-west-bank-was-with-partner/",
-                "source": "Ghana News Agency",
-                "date": "2026-07-12T13:38:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup reaches its climax - Ockham Weekly News Diary",
-                "desc": "The FIFA World Cup concludes in New Jersey, President Ramaphosa hosts Namibian counterpart, and Mandela Day is celebrated",
-                "image": "https://www.politicsweb.co.za/img/social.png",
-                "url": "https://www.politicsweb.co.za/news/world-cup-reaches-its-climax-ockham-weekly-news-diary",
-                "source": "Politicsweb",
-                "date": "2026-07-12T13:31:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
-                "desc": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a538b5e-1783860062.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko",
-                "source": "Al Jazeera",
-                "date": "2026-07-12T13:30:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China strongly deplores Japanese FM's statement on South China Sea",
-                "desc": "China strongly deplores and firmly opposes the statement made by Japan's Foreign Minister Toshimitsu Motegi ten years after the so-called \"2016 Arbitral Award on the South China Sea,\" a Chinese foreign ministry spokesperson said on Sunday.",
-                "image": "https://news.cgtn.com/news/2026-07-12/China-strongly-deplores-Japanese-FM-s-statement-on-South-China-Sea-1OIRqD4JNLy/img/6e1fe6a2e469479388cc4f8a778b1f50/6e1fe6a2e469479388cc4f8a778b1f50-1920.png",
-                "url": "https://news.cgtn.com/news/2026-07-12/China-strongly-deplores-Japanese-FM-s-statement-on-South-China-Sea-1OIRqD4JNLy/p.html",
-                "source": "news.cgtn.com",
-                "date": "2026-07-12T13:28:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man (30s) allegedly assaulted by eight masked men armed with bats in Co Antrim",
-                "desc": "The man was taken to hospital for treatment of serious injuries caused to his leg, head, wrist and arms.",
-                "image": "https://img2.thejournal.ie/article/7099394/river/?height=400&version=7099395",
-                "url": "https://www.thejournal.ie/man-assaulted-co-antrim-7099394-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-12T13:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All Vessels Can Pass Through Strait of Hormuz Safely, U.S. Military Says",
-                "desc": "IDF says it killed two Hamas militants in the Gaza Strip over the weekend. Trump tells NBC the Strait of Hormuz is 'open'. High school principal threatens to suspend student for distributing military refusal leaflets",
-                "image": "https://img.haarets.co.il/bs/0000019f-5465-d38b-afbf-5f779adb0004/7a/ae/fc183e834a1598de3a5b925d4c44/200463.jpg?&width=1200&height=630&cmsprod",
-                "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-12/ty-article-live/u-s-says-iran-strikes-complete-as-iran-claims-it-destroyed-u-s-drone-base/0000019f-5465-d38b-afbf-5f779adb0004",
-                "source": "Haaretz",
-                "date": "2026-07-12T13:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Myanmar tells ASEAN detained Aung San Suu Kyi will be looked after, special envoy says",
-                "desc": "The top diplomats of the 11-member Association of Southeast Asian Nations met in person with their Myanmar counterpart on Sunday for the first time since the coup, in an effort to kick-start a five-year-old peace initiative that has failed to end a civil war gripping the country.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--dP8BONrw--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-12T115112Z_1_LYNXMPEM6B07L_RTROPTP_3_MYANMAR-SUUKYI.JPG?itok=VLsi0sG-",
-                "url": "https://www.channelnewsasia.com/asia/myanmar-asean-aung-san-suu-kyi-looked-after-6249191",
-                "source": "CNA",
-                "date": "2026-07-12T13:22:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T05:01:08.297353Z"
+    "lastGlobalSync": "2026-07-13T05:18:39.395884Z"
 }
