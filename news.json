@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Mark Carney’s trade strategy is driving manufacturers south",
+                "desc": "KPMG finds Canadian firms cutting investment and moving production to the U.S. as trade uncertainty persists. Find out more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/2281265084.jpg",
+                "url": "https://torontosun.com/opinion/columnists/canadian-manufacturers-moving-south-as-carney-fails-to-deliver-on-trade",
+                "source": "Toronto Sun",
+                "date": "2026-07-13T00:00:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Regulator creates \"Insurance Scholars\" to help road accident victims",
+                "desc": "The Thai regulator, Office of Insurance Commission (OIC), is planning to create a new cadre of \"Insurance Scholars\" as a part of upgrading the protection system for victims of vehicle accidents in the country.",
+                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Country-Asia/large/Thailand_OIC_Insurance_Scholars_2026.jpg",
+                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96160/type/eDaily/Thailand-Regulator-creates-Insurance-Scholars-to-help-road-accident-victims",
+                "source": "Asia Insurance Review",
+                "date": "2026-07-13T00:00:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Study projects future of disaster insurance in a changing risk environment",
+                "desc": "Governments, insurers and communities can respond to rising disaster risks, increasing insurance costs and growing protection gaps by developing sustainable and inclusive support for household wellbeing, community resilience and economic stability, according to a new report by Australian",
+                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Catastrophe/large/Report.jpg",
+                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96156/Type/eDaily/Australia-Study-projects-future-of-disaster-insurance-in-a-changing-risk-environment",
+                "source": "Asia Insurance Review",
+                "date": "2026-07-13T00:00:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore's alternative risk transfer market poised for notable growth with upcoming PCC framework",
+                "desc": "The captive insurance and insurance-linked securities (ILS) sectors in Singapore are forecast to see clear growth soon after the Protected Cell Company (PCC) framework is launched by the Monetary Authority of Singapore (MAS), according to Mr Simon Goh, Partner and Head of Insurance & Reinsurance",
+                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Finance/large/Growth-04.jpg",
+                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96155/Type/eDaily/Singapore-s-alternative-risk-transfer-market-poised-for-notable-growth-with-upcoming-PCC-framework",
+                "source": "Asia Insurance Review",
+                "date": "2026-07-13T00:00:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strong Singapore dollar impacts businesses unevenly",
+                "desc": "Discover how Singapore's strong currency is affecting local businesses differently, with consumer-facing firms feeling the pinch more than manufacturers. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a224498124cefc6cc1225397c3c33850af72d55a2321459dc64f5a858b0cabe8",
+                "url": "https://www.straitstimes.com/business/companies-markets/part-of-the-risk-spore-businesses-face-uneven-impact-from-strong-singapore-dollar",
+                "source": "The Straits Times",
+                "date": "2026-07-13T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stellantis Trails Its Rival on Key Metrics but Offers Compelling Upside for Patient Investors",
+                "desc": "Compared to its \"Detroit Three\" peers, Stellantis offers a stronger risk/reward proposition.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877810%2Fautomotive-factory-1200x676-3f04514.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/12/stellantis-trails-its-rival-on-key-metrics-but-off/",
+                "source": "The Motley Fool",
+                "date": "2026-07-12T23:59:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marine insurance key to AfCFTA trade competitiveness - NIC",
+                "desc": "Marine cargo insurance will play a critical role in improving trade competitiveness under the African Continental Free Trade Area (AfCFTA), according to the National Insurance Commission (NIC).",
+                "image": "https://thebftonline.com/api/media/file/2G3A0169%20copy.jpg%20(1).jpg",
+                "url": "https://thebftonline.com/article/marine-insurance-key-to-afcfta-trade-competitiveness-nic",
+                "source": "Business & Financial Times",
+                "date": "2026-07-12T23:59:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil jumps 3% after US, Iran escalate strikes in Mideast",
+                "desc": "SINGAPORE: Oil prices jumped on Monday as Iran expanded strikes on Gulf states following attacks by the United States, threatening energy shipments via the Strait of Hormuz.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4007101.jpg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/07/13/oil-jumps-3-after-us-iran-escalate-strikes-in-mideast",
+                "source": "The Star",
+                "date": "2026-07-12T23:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya’s investors are rewriting the rules of risk and return",
+                "desc": "Investors are recognising that even instruments traditionally perceived as risk-free are tied to sovereign balance sheet dynamics and inflation trajectories.",
+                "image": "https://www.businessdailyafrica.com/resource/image/5519452/landscape_ratio3x2/1200/800/2d074bdf148ed65650af2df34cb4f41c/Av/silas-mutuku-pic.jpg",
+                "url": "https://www.businessdailyafrica.com/bd/sponsored/kenya-s-investors-are-rewriting-the-rules-of-risk-and-return-5519448",
+                "source": "Business Daily",
+                "date": "2026-07-12T23:56:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Data Centre Boom Exacerbates Construction Labor Shortages in US",
+                "desc": "Explore how the US data centre construction boom is driving construction costs, labour shortages, and regional capacity constraints through 2030.",
+                "image": "https://www.oxfordeconomics.com/wp-content/uploads/2026/07/data-centre-us-wp.png",
+                "url": "https://www.oxfordeconomics.com/resource/us-data-centre-construction-boom-drives-cost-pressures/",
+                "source": "Oxford Economics",
+                "date": "2026-07-12T23:51:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "duration energy storage facility",
                 "desc": "The Latrobe Valley will be home to Australia’s first long-duration CO2 energy storage facility, with SEC revealing a new energy innovation precinct.",
                 "image": "https://www.energymagazine.com.au/wp-content/uploads/2026/07/Artists-impression-of-Energy-Domes-CO2-Battery-project-in-the-Latrobe-Valley-Victoria.jpg",
@@ -542,99 +632,81 @@
                 "source": "simplywall.st",
                 "date": "2026-07-12T20:37:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Dangote cracks down on illegal haulage, offers N500,000 reward for whistleblowers",
-                "desc": "The company warned that any Dangote truck found transporting unauthorized goods would be treated as involved in illegal haulage activities, adding that both the drivers and the owners of such goods risk arrest, confiscation of the cargo, and prosecution under applicable laws.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/Aliko-Dangote.jpg",
-                "url": "https://www.vanguardngr.com/2026/07/dangote-cracks-down-on-illegal-haulage-offers-n500000-reward-for-whistleblowers/",
-                "source": "Vanguard News",
-                "date": "2026-07-12T20:36:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Happened To Adulthood? Welcome to Gen-Z’s Liquid Adulthood",
-                "desc": "Adulthood used to be solid, but now it’s liquid. The traditional markers of adulthood no longer stand on solid foundations. Brands need a new framework for adulthood.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a53f0ded6768a3e384e11aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/kianbakhtiari/2026/07/12/what-happened-to-adulthood-welcome-to-gen-zs-liquid-adulthood/",
-                "source": "Forbes",
-                "date": "2026-07-12T20:32:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philippine Airlines Airbus Boeing Fleet Expansion",
-                "desc": "Philippine Airlines plans major widebody acquisition including Boeing 787-10 and Airbus A350-1000 aircraft to boost long-haul routes in 2026.",
-                "image": "https://images.nomadlawyer.org/images/blog/airline-news/2026/07/philippine-airlines-airbus-boeing-fleet-expansion-2026.jpg",
-                "url": "https://www.nomadlawyer.org/philippine-airlines-airbus-boeing-fleet-expansion-2026",
-                "source": "Nomad Lawyer",
-                "date": "2026-07-12T20:31:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Keeps Losing the People in Charge of AI Safety",
-                "desc": "OpenAI just lost another leader of one of its safety teams. The company's safety and alignment teams have had high turnover in recent years.",
-                "image": "https://i.insider.com/6a53ed55daf4d560957bfedb?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-12T20:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump embraces Australian retirement system backed by Larry Fink",
-                "desc": "The system is on pace to be the world’s second-largest retirement plan within the next decade.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-633685814-e1783887397936.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/12/trump-australian-retirement-system-superannuation-funds-larry-fink-social-security/",
-                "source": "Fortune",
-                "date": "2026-07-12T20:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Has a 'Blind Spot' on Severe Storms: Hail",
-                "desc": "In America's storm narrative, one familiar villain is quietly being upstaged. The New York Times ' Judson Jones reports that while tornadoes have long dominated the...",
-                "image": "https://cdn.newser.com/image/1697834-12-20260712155102.jpeg",
-                "url": "https://www.newser.com/story/392549/one-reason-for-spiking-insurance-costs-hailstorms.html",
-                "source": "Newser",
-                "date": "2026-07-12T20:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria's Oil Production Hits 74-Month High, Beats OPEC Quot",
-                "desc": "Nigeria's crude oil production reached a 74-month high in June 2026, exceeding its OPEC quota. Learn how improved stability boosted Nigeria oil production.",
-                "image": "https://punchng.com/wp-content/uploads/2016/10/punchlogo.png",
-                "url": "https://punchng.com/nigerias-crude-oil-output-hits-74-month-high-beats-opec-quota/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-12T20:18:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watchdog says UAW head Shawn Fain abused authority; he denies findings",
-                "desc": "A report found that Shawn Fain retaliated against a union official, Rich Boyer, after Boyer pushed back against some of Fain's actions.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108263382-17706550752026-02-09t160351z_1180649729_rc2eijac2p0b_rtrmadp_0_usa-autos-uaw.jpeg?v=1770655102&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/12/watchdog-says-uaw-head-shawn-fain-abused-authority-he-denies-findings.html",
-                "source": "CNBC",
-                "date": "2026-07-12T20:17:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The not-so empty nest: Adult children are no longer moving out of home. But is it working?",
-                "desc": "Maria Holyoake was 18 when she left her family home in south-east England to live in a rental. Her husband Gavin also left home around the same age to live on campus at university.\nFast forward three decades, and the couple now lives in Sydney’s southern suburbs, along with their two adult sons, Harry, 21, and Alex, 19, who show no signs of leaving. It is a trend that is growing across Australia, in part due to rising cost of living and dwindling housing affordability.",
-                "image": "https://static.ffx.io/images/$zoom_1.015%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_7/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/78473b1f669fd58db6e36b7626cecbfc3454a9741f147c07c8331fdd01d54d8b",
-                "url": "https://www.nine.com.au/lifestyle/family-relationships/cost-of-living-young-adults-live-at-home-longer-housing-affordability-20260708-p60doh.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-12T20:15:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 80/20 Institute Introduces an Approach to Expand Margin Without Cutting - by Concentrating on the 20% That Drives Profit",
-                "desc": "Bill Canady challenges the cost-cutting reflex, arguing that durable margin comes from concentrating on the vital few customers and products - and starving the complexity that quietly drains profit.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134106.png",
-                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/the-8020-institute-introduces-an-approach-to-expand-margin-without-cutting-by-concentrating-on-the-20-that-drives-profit/2382994",
-                "source": "The Manila Times",
-                "date": "2026-07-12T20:10:32Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "High-Tech Dog Collar Brand Uses AI To Create Photorealistic Dogs",
+                "desc": "High-Tech Dog Collar Brand Uses AI To Create Photorealistic Dogs - 07/13/2026",
+                "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/07/12/fi-ultra_SaILlzs.jpg",
+                "url": "https://www.mediapost.com/publications/article/416471/high-tech-dog-collar-brand-uses-ai-to-create-photo.html?edition=143177",
+                "source": "MediaPost",
+                "date": "2026-07-12T23:57:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple’s Strategic Choice Can Defeat Rivals",
+                "desc": "Apple’s September launch of the iPhone 18 Pro allows it to learn from its Android rivals. Samsung and Google will take the pain as Apple reaps the benefits.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a527aaa815e7835cb11293b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/ewanspence/2026/07/12/phone-18-pro-market-timing-strategy/",
+                "source": "Forbes",
+                "date": "2026-07-12T23:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RTX 5060 gaming laptop with Intel Core i7-14650HX CPU gets 14% price cut in Amazon deal",
+                "desc": "This MSI Katana 15 HX laptop comes with a 1440p display, DDR5 RAM, and 1TB SSD storage - snap it up quickly!",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/RTX-5060-gaming-laptop-with-Intel-Core-i7-14650HX-CPU-gets-14-percent-price-cut-in-Amazon-deal.jpg",
+                "url": "https://www.pcguide.com/deals/rtx-5060-gaming-laptop-with-intel-core-i7-14650hx-cpu-gets-14-price-cut-in-amazon-deal/",
+                "source": "PC Guide",
+                "date": "2026-07-12T23:52:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NC and Lynk complete satellite mobile connectivity test in New Caledonia",
+                "desc": "New Caledonian operator OPT-NC has successfully completed its first satellite mobile connectivity test in New Caledonia in partnership with satcoms company Lynk Global.",
+                "image": "https://developingtelecoms.com/favicon.ico",
+                "url": "https://developingtelecoms.com/telecom-technology/satellite-communications-networks/20522-opt-nc-and-lynk-complete-satellite-mobile-connectivity-test-in-new-caledonia.html",
+                "source": "Developing Telecoms",
+                "date": "2026-07-12T23:51:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NC and Lynk complete satellite mobile connectivity test in New Caledonia",
+                "desc": "New Caledonian operator OPT-NC has successfully completed its first satellite mobile connectivity test in New Caledonia in partnership with satcoms company Lynk Global.",
+                "image": "https://www.developingtelecoms.com/favicon.ico",
+                "url": "https://www.developingtelecoms.com/telecom-technology/satellite-communications-networks/20522-opt-nc-and-lynk-complete-satellite-mobile-connectivity-test-in-new-caledonia.html",
+                "source": "Developing Telecoms",
+                "date": "2026-07-12T23:51:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exhibitor list goes live for Bulk Expo",
+                "desc": "The Bulk Expo 2026 exhibitor directory is live, revealing a strong lineup of manufacturers, engineering specialists and technology providers.",
+                "image": "https://www.railexpress.com.au/wp-content/uploads/2026/07/0S0A8622-1.jpg",
+                "url": "https://www.railexpress.com.au/exhibitor-list-goes-live-for-bulk-expo/",
+                "source": "Rail Express",
+                "date": "2026-07-12T23:51:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Limited time OLED laptop deal on Amazon will save you $290 off the MSRP of this HP OmniBook 5",
+                "desc": "This is a great laptop for general productivity, built around an energy efficient Snapdragon X CPU and a great OLED display.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Limited-time-OLED-laptop-deal-on-Amazon-will-save-you-290-off-the-MSRP-of-this-HP-OmniBook-5.jpg",
+                "url": "https://www.pcguide.com/deals/limited-time-oled-laptop-deal-on-amazon-will-save-you-290-off-the-msrp-of-this-hp-omnibook-5/",
+                "source": "PC Guide",
+                "date": "2026-07-12T23:48:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Experts reveal why advancements in physical technology are not keeping pace with AI",
+                "desc": "Still waiting for your flying car or robot butler? You’re not alone.",
+                "image": "https://images.7news.com.au/publication/C-22538004/77ca16f1ef9d10f9c8f8e9bcfefb299b9e6b9cbf-16x9-x0y80w1536h864.png?imwidth=1200",
+                "url": "https://7news.com.au/news/experts-reveal-why-advancements-in-physical-technology-are-not-keeping-pace-with-ai-c-22538004",
+                "source": "7NEWS",
+                "date": "2026-07-12T23:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Dave Collins joins Kerfuffe as Head of Strategy",
                 "desc": "Kerfuffle has bolstered its strategic leadership with the appointment of Dave Collins as Head of Strategy.\nCollins joins from Droga5 (formerly The Monkeys), where he spent the last six years, most recently as Head of Strategy, helping shape award-winning creative strategies for brands includin",
@@ -1192,81 +1264,72 @@
                 "source": "Total Licensing",
                 "date": "2026-07-12T18:50:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Minimum and recommended requirements for Marvel Tokon: Fighting Souls revealed for the PC version",
-                "desc": "Marvel Tokon: Fighting Souls is set to be released on August 6, 2026 for the PlayStation 5 and PC. At launch, it will feature a base roster made up of 20 characters — Captain America, Iron Man, Hulk, Black Panther (Shuri ...",
-                "image": "https://media.eventhubs.com/images/2026/07/12_tokon-requirements-bnrt.webp",
-                "url": "https://www.eventhubs.com/news/2026/jul/12/minimum-arecommended-requirements-tokon-pc/",
-                "source": "EventHubs",
-                "date": "2026-07-12T18:50:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brazilian Courts Force Xbox To Restore Hacked Account",
-                "desc": "Microsoft reportedly assigned 12 lawyers to argue over $400 and some video games",
-                "image": "https://kotaku.com/app/uploads/2019/05/l5dyuzkmobnf1sreh4n8-1200x675.jpg",
-                "url": "https://kotaku.com/brazilian-courts-force-xbox-to-restore-hacked-account-and-pay-damages-2000715020",
-                "source": "Kotaku",
-                "date": "2026-07-12T18:47:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Things You Probably Didn't Know Android 17 Can Do",
-                "desc": "Google has already showcased all the cool things that Android 17 can do, including underrated features like floating app bubbles and editable quick replies.",
-                "image": "https://www.bgr.com/img/gallery/5-things-you-probably-didnt-know-android-17-can-do/l-intro-1783529042.jpg",
-                "url": "https://www.bgr.com/2210646/things-didnt-know-android-17-can-do/",
-                "source": "bgr.com",
-                "date": "2026-07-12T18:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Things You May Not Know Your Wi-Fi Router Could Do",
-                "desc": "Wi-Fi routers can create guest networks, set parental controls, share USB storage, block ads with DNS, and extend range with an old router.",
-                "image": "https://www.slashgear.com/img/gallery/5-things-you-may-not-know-your-wi-fi-router-could-do/l-intro-1783509544.jpg",
-                "url": "https://www.slashgear.com/2210345/things-you-had-no-idea-home-wifi-router-could-do/",
-                "source": "SlashGear",
-                "date": "2026-07-12T18:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The next Apple Pencil could feature replaceable batteries",
-                "desc": "Bloomberg's Mark Gurman reports Apple is preparing two new Apple Pencil models, codenamed B582 and B632, for release alongside updated iPads in the first half of 2027. The Apple Pencil Pro successor may gain improved repairability to meet new EU rules requiring replaceable batteries.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-51.jpg",
-                "url": "https://www.notebookcheck.net/The-next-Apple-Pencil-could-feature-replaceable-batteries.1341156.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-12T18:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Gamer Wins Lawsuit Against Microsoft To Restore Account And Digital Library",
-                "desc": "Microsoft also has to pay roughly $400 in damages to the user.",
-                "image": "https://www.engadget.com/img/gallery/xbox-gamer-wins-lawsuit-against-microsoft-to-restore-account-and-digital-library/l-intro-1783880837.jpg",
-                "url": "https://www.engadget.com/2213111/xbox-gamer-wins-lawsuit-against-microsoft-to-restore-account-and-digital-library/",
-                "source": "Engadget",
-                "date": "2026-07-12T18:39:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fast charging 10,000mAh MagSafe Power Bank for iPhones is 30% cheaper in limited time Amazon deal",
-                "desc": "You only have a few hours left to pick up this fantastic deal on this portable smartphone power bank, so don’t miss out!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Fast-charging-10000mAh-MagSafe-Power-Bank-for-iPhones-is-30-percent-cheaper-in-limited-time-Amazon-deal.jpg",
-                "url": "https://www.pcguide.com/deals/fast-charging-10000mah-magsafe-power-bank-for-iphones-is-30-cheaper-in-limited-time-amazon-deal/",
-                "source": "PC Guide",
-                "date": "2026-07-12T18:34:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I stopped hunting for subtitles online after finding this buried VLC feature",
-                "desc": "This VLC feature made downloading subtitles directly through websites obsolete for me.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/vlc-subtitles-featured.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/stopped-hunting-subtitles-online-after-finding-buried-vlc-feature/",
-                "source": "MakeUseOf",
-                "date": "2026-07-12T18:30:18Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Women in EU losing billions yearly over failure to implement gender pay transparency laws",
+                "desc": "If the pay gap were to be reduced by 10%, the EU’s 43 million working women would be €28bn better off.",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10306/5153162_5_org_iStock-2008548646.jpg",
+                "url": "https://www.irishexaminer.com/news/arid-41878127.html",
+                "source": "Irish Examiner",
+                "date": "2026-07-13T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "9 Best Places To Retire In Queensland",
+                "desc": "These Queensland towns offer retirees affordable homes, high-quality healthcare, and access to beautiful beaches and charming streets.",
+                "image": "https://www.worldatlas.com/r/w1200-q80/upload/a3/b8/e5/175/shutterstock-1492802726.jpg",
+                "url": "https://www.worldatlas.com/places/9-best-places-to-retire-in-queensland-57497.html",
+                "source": "WorldAtlas",
+                "date": "2026-07-13T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. launches more strikes on Iran as standoff over Strait of Hormuz escalates",
+                "desc": "The U.S. escalates military strikes on Iran amid rising tensions over the Strait of Hormuz and attacks on commercial shipping.",
+                "image": "https://th-i.thgim.com/public/incoming/mwfaad/article71215760.ece/alternates/LANDSCAPE_1200/2026-07-12T083107Z_212065747_RC25CMA1A4YX_RTRMADP_3_IRAN-CRISIS.JPG",
+                "url": "https://www.thehindu.com/news/international/us-launches-more-strikes-on-iran-as-standoff-over-strait-of-hormuz-escalates/article71215678.ece",
+                "source": "The Hindu",
+                "date": "2026-07-13T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "11 West African Countries Hit With US Entry Bans and Visa Restrictions in 2026",
+                "desc": "US visa restrictions in 2026 affect 11 West African nations, with Burkina Faso, Mali, Niger, and Sierra Leone facing outright bans, while others endure scrutiny.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/16cb4b3af38b3f37.jpeg?v=1",
+                "url": "https://yen.com.gh/world/us/307736-11-west-african-countries-hit-entry-bans-visa-restrictions-2026/",
+                "source": "Yen News",
+                "date": "2026-07-12T23:58:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK Announces New Immigration Rules 2026: Key Changes to Work, Study and Family Visas",
+                "desc": "UK government's Statement of Changes HC 259 reforms immigration rules, enhancing deportation powers, compliance measures, and affecting work, family, and asylum.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/fe28d45a7d09ccda.jpeg?v=1",
+                "url": "https://yen.com.gh/world/europe/307735-uk-announces-immigration-rules-2026-key-work-study-family-visas/",
+                "source": "Yen News",
+                "date": "2026-07-12T23:53:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andy Burnham set for No 10: What Trump, Putin and others will make of him",
+                "desc": "In the US, China, Europe, Russia and elsewhere, how is the UK's expected new prime minister regarded?",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/405d/live/10093c20-7b8a-11f1-881d-8fcf7e2296a7.png",
+                "url": "https://www.bbc.co.uk/news/articles/cn8qzlvlz81o",
+                "source": "BBC",
+                "date": "2026-07-12T23:49:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "United Nations Industrial Development Organization (UNIDO) secures funding for 43 projects to drive",
+                "desc": "Forty-three projects, including a regional project, to be implemented in 22 countries at a cost of USD 14 million, were approved in the...",
+                "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-07-12-234659002.jpg",
+                "url": "http://www.businessghana.com/site/news/general/351930/United-Nations-Industrial-Development-Organization-(UNIDO)-secures-funding-for-43-projects-to-drive-",
+                "source": "BusinessGhana",
+                "date": "2026-07-12T23:46:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
                 "desc": "The US Republican senator has been absent from Congress during a weeks-long hospitalisation, spurring party concern.",
@@ -1833,71 +1896,8 @@
                 "source": "politico.eu",
                 "date": "2026-07-12T19:54:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
-                "desc": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bdf4/live/784b04d0-7e28-11f1-a203-d7c6aaf9b69a.png",
-                "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o",
-                "source": "BBC",
-                "date": "2026-07-12T19:45:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
-                "desc": "Firefighters were called to the scene just after midnight local time and discovered patrons fleeing through the flame-enveloped front door of the venue.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bdf4/live/784b04d0-7e28-11f1-a203-d7c6aaf9b69a.png",
-                "url": "https://www.bbc.com/news/articles/c24yev53q06o",
-                "source": "BBC",
-                "date": "2026-07-12T19:45:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3-year-old child dies in alleged drowning as search continues for other two victims",
-                "desc": "3-year-old child dies in alleged drowning as search continues for other two victims",
-                "image": "https://www.fijivillage.com/news_images/20260713074255_media_6a53ec14408676_75301871.jpg",
-                "url": "https://www.fijivillage.com/news/3-year-old-child-dies-in-alleged-drowning-as-search-continues-for-other-two-victims-20f2c2/",
-                "source": "Fijivillage",
-                "date": "2026-07-12T19:42:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lindsey Graham’s death will shake the US Senate, and the November election. Here’s what comes next",
-                "desc": "The sudden death of influential Republican Sen. Lindsey Graham of South Carolina will have implications for legislative business in the Senate - where Republicans' slim margin is already under stress with the absence of Sen. Mitch McConnell after he was hospitalised- and the November election.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--7KdhNmBk--/t_tohu-badge-facebook/f_auto/q_auto/4JLKF8J_Lindsay_Graham_JPG",
-                "url": "https://www.rnz.co.nz/news/world/707253/lindsey-graham-s-death-will-shake-the-us-senate-and-the-november-election-here-s-what-comes-next",
-                "source": "RNZ",
-                "date": "2026-07-12T19:41:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Homes We Carry (Reath Bol)",
-                "desc": "Homes We Carry is a of holding onto places places in South Sudan and Sudan through photography. Take a look to Photography works.",
-                "image": "https://borkena.com/wp-content/uploads/2026/07/South-Sudan-_-6-.jpg",
-                "url": "https://borkena.com/2026/07/12/south-sudan-photography-homes-we-carry-reath-bol/",
-                "source": "Borkena",
-                "date": "2026-07-12T19:34:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thailand fire horror: At least 27 dead after midnight blaze tears through Bangkok pub; several injured",
-                "desc": "Rest of World News: A massive fire ripped through a pub in Thailand’s capital Bangkok early Monday, killing at least 27 people and leaving 63 others injured, officials sa.",
-                "image": "https://static.toiimg.com/thumb/msid-132351996,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/rest-of-world/thailand-fire-horror-at-least-27-dead-after-midnight-blaze-tears-through-bangkok-pub/articleshow/132351916.cms",
-                "source": "The Times of India",
-                "date": "2026-07-12T19:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Venezuela sets up temporary housing, as death toll rises",
-                "desc": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to set up temporary housing to shelter thousands of people left homeless.",
-                "image": "https://static.dw.com/image/77875893_6.jpg",
-                "url": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-hits-4300/a-77924690",
-                "source": "DW.com",
-                "date": "2026-07-12T19:28:51Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T11:44:32.181792Z"
+    "lastGlobalSync": "2026-07-13T12:01:08.806480Z"
 }
