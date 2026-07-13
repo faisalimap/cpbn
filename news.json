@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "Racing with biofuel",
+                "desc": "Toyota Motor Philippines has commenced the 2026 Toyota Gazoo Racing Philippine Cup in Clark Pampanga with the use of sustainable biofuel. See details here.",
+                "image": "http://images.topgear.com.ph/topgear/images/2026/07/11/tgr-ph-cup-clark-2026-10-1783755215.webp",
+                "url": "https://www.topgear.com.ph/sponsored-content/tgr-philippine-cup-leg-2-biofuels-2026-advcon-a6895-a6895-20260713?ref=home_feed_1",
+                "source": "Top Gear Philippines",
+                "date": "2026-07-13T01:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korea launches AD probe into Chinese tinplate, TFS imports",
+                "desc": "South Korea's fair-trade monitor, the Korea Trade Commission (KTC...",
+                "image": "https://cs.mysteelcdn.com/web/pc/english-station-static/img/og-image.9aff406.png",
+                "url": "https://www.mysteel.net/news/5131864-south-korea-launches-ad-probe-into-chinese-tinplate-tfs-imports",
+                "source": "mysteel.net",
+                "date": "2026-07-13T01:46:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chalamila impressed by Yas innovations at Sabasaba",
+                "desc": "Dar es Salaam Regional Commissioner Albert Chalamila has commended telecommunications company Yas for expanding access to digital and financial services through innovative solutions showcased at...",
+                "image": "https://www.thecitizen.co.tz/resource/image/5525528/landscape_ratio3x2/1200/800/7a01dc58e67bee4fdefe6211380882b0/lv/yas-innovation-pic.jpg",
+                "url": "https://www.thecitizen.co.tz/tanzania/business/chalamila-impressed-by-yas-innovations-at-sabasaba-5525524",
+                "source": "thecitizen.co.tz",
+                "date": "2026-07-13T01:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Satya Nadella's 'Reverse Information Paradox': Why companies risk giving away their edge",
+                "desc": "In a lengthy post on X, Nadella argued that while AI promises unprecedented intelligence and productivity, enterprises risk giving away their most valuable asset, their proprietary knowledge, every time they use AI systems.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2018/12/1-Satya-Nadella.jpg",
+                "url": "https://www.moneycontrol.com/news/business/satya-nadellas-reverse-information-paradox-why-companies-risk-giving-away-their-edge-13972122.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-13T01:43:04Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "‘LOL, I found out I can access the network storage’: Ex-employee sued by Apple for stealing trade secrets",
                 "desc": "Apple sues OpenAI, two former employees for trade secrets theft. Read more at straitstimes.com.",
                 "image": "https://cassette.sphdigital.com.sg/image/straitstimes/df13b4655c3e8c64ab8a2310de88080472244fe8a2b3214d1b572c98b9202f37",
@@ -596,45 +632,27 @@
                 "source": "Interest.co.nz",
                 "date": "2026-07-12T22:11:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices rise as U.S. and Iran fight for control of Strait of Hormuz",
-                "desc": "The U.S. and Iran disputed whether Hormuz was open to ship traffic after trading strikes over the weekend.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108325557-1782233337462-gettyimages-2282803195-02222026qaboosport-1_1qpe2mek.jpeg?v=1782235596&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/12/oil-price-strait-hormuz-iran-trump-tanker.html",
-                "source": "CNBC",
-                "date": "2026-07-12T22:07:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Maple Leafs will haunt Larry Tanenbaum",
-                "desc": "Failure to hoist the Stanley Cup despite success in everything else in sports and business will torment the 81-year-old",
-                "image": "https://www.theglobeandmail.com/resizer/v2/5SMB2RCCMBBLDLYNVXP7YAKBZ4.JPG?auth=794272d8f43b710df1ab7ea8b70d8a1c597aa160079865a9cfc9d10ab563a7af&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/commentary/article-the-maple-leafs-will-haunt-larry-tanenbaum/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-12T22:03:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk and Sam Altman Are Fighting in Public Again",
-                "desc": "OpenAI CEO Sam Altman and SpaceX CEO Elon Musk do not like each other. That dislike was on full display on social media over the weekend.",
-                "image": "https://i.insider.com/6a53ff07daf4d560957bfefd?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-12T22:03:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan aims to become rare earth powerhouse despite investment risks",
-                "desc": "TOKYO -- During a campaign speech for the House of Representatives election in February this year, Japanese Prime Minister Sanae Takaichi expressed hi",
-                "image": "https://cdn.mainichi.jp/vol1/2026/07/08/20260708p2a00m0bu001000p/0c10.jpg?1",
-                "url": "https://mainichi.jp/english/articles/20260708/p2a/00m/0bu/003000c",
-                "source": "毎日新聞",
-                "date": "2026-07-12T22:00:41Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "OpenAI's newest AI ambassador? Someone's grandma",
+                "desc": "OpenAI has enlisted an unlikely group of ambassadors to introduce its latest voice AI technology: grandmothers.",
+                "image": "https://marketing-interactive-assets.b-cdn.net/article_images/openai-lets-grandmas-do-the-talking-for-gpt-live/1783656183_openai%20%285%29.jpg",
+                "url": "https://www.marketing-interactive.com/openai-s-newest-ai-ambassador-someone-s-grandma",
+                "source": "Marketing-Interactive",
+                "date": "2026-07-13T01:47:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung DX Adopts Both Google and OpenAI AI Platforms, Intensifying Reference Competition",
+                "desc": "Samsung Electronics' Device Experience (DX) Division announced on the 13th that it will roll out Google Cloud's 'Gemini Enterprise' to its global…",
+                "image": "https://img.biggo.com/qK0-iVFJSeEqiDcd5jgvfM8_dddi6Bi_EUlAwdGZtuA/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzlmYjhiNTY5LTkxN2YtNGEzYS1iYWEzLWYxZGMxNGY2Yzc0Yl8xNzgzOTA3NTIxX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/9fb8b569-917f-4a3a-baa3-f1dc14f6c74b",
+                "source": "finance.biggo.com",
+                "date": "2026-07-13T01:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The Latest Lego Batman Has Something For Fans Of All Ages",
                 "desc": "Review: Batman: Legacy of the Dark Knight It's been over 20 years now since the release of the PlayStation 2 classic LEGO Star Wars, the first in a series of 27 distinct LEGO adventure games based on existing properties. LEGO Batman: Legacy of the Dark Knight is the fourth LEGO Batman game, and the eighth [...]",
@@ -1246,27 +1264,36 @@
                 "source": "bgr.com",
                 "date": "2026-07-12T21:17:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "4 fast ways I troubleshoot a Fire TV device",
-                "desc": "If nothing else, these will help you diagnose what's going on.",
-                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/06/hisense-u6sf-displaying-fire-tv-home-screen.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.pocket-lint.com/fast-ways-i-troubleshoot-a-fire-tv-device/",
-                "source": "Pocket-lint",
-                "date": "2026-07-12T21:00:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honda Civic Type R set to sell out, and future batches could cost more",
-                "desc": "The Type R has sold strongly since the latest allocation went on sale. More may come to Australia, but emissions regulations could make them pricier.",
-                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2025-08-honda-civic-type-r-racing-blue-3.jpg",
-                "url": "https://www.carexpert.com.au/car-news/honda-civic-type-r-set-to-sell-out-and-future-batches-could-cost-more",
-                "source": "CarExpert",
-                "date": "2026-07-12T21:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Iran newspaper publishes list of 13 foreign leaders as revenge targets",
+                "desc": "Middle East News: A conservative newspaper in Iran known for its provocative tone has published a list of people to be targeted as revenge for the killing of supreme le.",
+                "image": "https://static.toiimg.com/thumb/msid-132354512,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-newspaper-publishes-list-of-13-foreign-leaders-as-revenge-targets/articleshow/132354480.cms",
+                "source": "The Times of India",
+                "date": "2026-07-13T01:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Applications Open for the 2026 Africa Thesis Award: Win €500 and Get Published",
+                "desc": "The African Studies Centre Leiden (ASCL), in partnership with academic publisher Brill, has officially opened applications for the 2026 Africa Thesis Award.",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/06/ata.png",
+                "url": "https://www.globalsouthopportunities.com/2026/07/13/award-12/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-13T01:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Strikes Iranian Ports as IRGC Shuts Strait of Hormuz, Escalating Trump",
+                "desc": "Explosions rock Iranian cities as US launches new strikes and IRGC shuts the Strait of Hormuz, escalating a crisis over vital global energy trade.",
+                "image": "https://media.assettype.com/gulfnews%2F2026-07-12%2Fedh0l5sq%2FScreenshot-2026-06-15-at-5.25.46-AM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://gulfnews.com/world/mena/us-launches-fresh-strikes-on-iran-as-irgc-closes-strait-of-hormuz-1.500605011",
+                "source": "Gulf News",
+                "date": "2026-07-13T01:41:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ukraine war briefing: Zelenskyy replaces PM and flags law enforcement overhaul",
                 "desc": "Yulia Svyrydenko steps down, possibly to become US ambassador, amid reshuffle; Ukrainian strikes cripple Russian shipping in Azov sea. What we know on day 1,601",
@@ -1869,35 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-12T21:48:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran condemns US criminal aggression, vows to strike origins of attacks",
-                "desc": "Iran’s Ministry of Foreign Affairs has strongly condemned the criminal military aggression carried out by the United States against Iran over the past 24 hours.",
-                "image": "https://cdn.presstv.ir/Photo/2026/7/12/b41496fe-8712-4e9b-bdb6-4ab37835f18f.jpg",
-                "url": "https://www.presstv.ir/Detail/2026/07/12/772126/Iran-condemns-US-barbaric-aggression,-vows-to-strike-origins-of-attacks",
-                "source": "PressTV",
-                "date": "2026-07-12T21:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israel to hold national elections on October 27, parliament says",
-                "desc": "Netanyahu, Israel’s longest-serving prime minister, has confirmed that he will run for office again.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a53d9755257-1783880053.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says",
-                "source": "Al Jazeera",
-                "date": "2026-07-12T21:34:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
-                "desc": "Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham Platner",
-                "image": "https://i.guim.co.uk/img/media/e01053124788d2b4852f5672553dd27144e0e80a/352_0_3517_2813/master/3517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=780067b64a265d230028e17f35bca5c8",
-                "url": "https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction",
-                "source": "The Guardian",
-                "date": "2026-07-12T21:26:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T13:41:10.446489Z"
+    "lastGlobalSync": "2026-07-13T13:51:26.423770Z"
 }
