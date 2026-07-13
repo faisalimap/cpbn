@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "‘LOL, I found out I can access the network storage’: Ex-employee sued by Apple for stealing trade secrets",
+                "desc": "Apple sues OpenAI, two former employees for trade secrets theft. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/df13b4655c3e8c64ab8a2310de88080472244fe8a2b3214d1b572c98b9202f37",
+                "url": "https://www.straitstimes.com/business/companies-markets/lol-i-found-out-i-can-access-the-network-storage-ex-employee-sued-by-apple-for-stealing-trade",
+                "source": "The Straits Times",
+                "date": "2026-07-13T01:39:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why are investors suddenly obsessed with schools?",
+                "desc": "An explainer on why PE firms are interested in buying up Indian schools.",
+                "image": "https://cdn.finshots.app/images/2026/07/VC-buying-scools.jpg",
+                "url": "https://finshots.in/archive/pe-investors-buying-indian-schools/",
+                "source": "Finshots",
+                "date": "2026-07-13T01:34:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7-Eleven owner drops go-it-alone strategy with SoftBank deal",
+                "desc": "Seven & I Holdings is mulling a new share issuance totaling several hundred billion yen to SoftBank as well as PayPay.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/13/551217.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/13/companies/seven-i-selling-stake-softbank-paypay/",
+                "source": "The Japan Times",
+                "date": "2026-07-13T01:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Independent' AI news websites run by property developer",
+                "desc": "ACT developer Shane Anderson's AI-powered news network features news stories while advertising his Belconnen development.",
+                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/232169416/8cf7f553-ff6b-4c21-91b4-f859b2220a41.jpg/r0_30_1600_870_w1200_h630_fmax.jpg",
+                "url": "https://www.canberratimes.com.au/story/9307334/act-developer-shane-anderson-launches-ai-powered-news-network/",
+                "source": "The Canberra Times",
+                "date": "2026-07-13T01:32:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Consumer advocates intensify calls for mandatory domestic mobile roaming",
+                "desc": "Already available to international tourists, consumer advocates want to see mobile roaming mandated for domestic customers too.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/bf226c16969196cc2cab4d42436b4604?impolicy=wcms_watermark_news&cropH=1278&cropW=2272&xPos=0&yPos=213&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-13/calls-for-mandatory-domestic-mobile-roaming-intensify/106899332",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-13T01:32:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 BMW X3 30 xDrive M Sport outdoor gallery in Malaysia",
+                "desc": "From June 2025 to April 2026, the BMW X3 20 was the only fourth-gen (G45) X3 on sale in Malaysia. Not any more. This now lords over it – the RM358,800 (or RM386,700 with BSRI) …",
+                "image": "https://paultan.org/image/2026/07/2026-BMW-X3-30-Malaysia-Ext-3-1200x801.jpg",
+                "url": "https://paultan.org/2026/07/13/2026-bmw-x3-30-xdrive-m-sport-outdoor-gallery-in-malaysia/",
+                "source": "Paul Tan's Automotive News",
+                "date": "2026-07-13T01:31:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why tapped solar electricity is going down the drain in India",
+                "desc": "While solar power generation in India has increased manifold, storage capacity lags drastically. That's why electricity generated from the sun is going down the drain. The challenge is to make solar power available when consumers need it the most.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/sam-panthaky--afp-093250442-16x9_0.jpg?VersionId=7l2tMmDOoT4.M8vSf.RznxqhZeIw7W1M",
+                "url": "https://www.indiatoday.in/india/story/india-clean-energy-shift-shift-infrastructure-waste-of-solar-energy-peak-power-demand-rising-electricity-2943861-2026-07-13",
+                "source": "India Today",
+                "date": "2026-07-13T01:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vodafone Idea Offers this Home Broadband Plan with OTT Benefits",
+                "desc": "Vodafone Idea Limited (VIL), the third-largest telecom operator in India, has a home broadband plan with OTT (over-the-top) benefits.",
+                "image": "https://telecomtalk.info/wp-content/uploads/2026/07/vodafone-idea-offers-this-home-broadband-plan.png",
+                "url": "https://telecomtalk.info/vodafone-idea-offers-this-home-broadband-plan/1009564/",
+                "source": "TelecomTalk",
+                "date": "2026-07-13T01:29:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thailand plans AI and semiconductor push after IMF export recognition",
+                "desc": "The policy announcement followed an International Monetary Fund assessment identifying Thailand, Taiwan, South Korea, and Malaysia as the world’s four leading net exporters of AI-related hardware.",
+                "image": "https://asianews.network/wp-content/uploads/2026/07/AFP__20260227__96CJ72R__v1__MidRes__TexasTheEpicenterOfAmazonSPushIntoAiChips.jpg",
+                "url": "https://asianews.network/thailand-plans-ai-and-semiconductor-push-after-imf-export-recognition/",
+                "source": "Asia News Network",
+                "date": "2026-07-13T01:28:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘There’s still some pretty good monetary stimulus supporting the economy’: RBNZ Assistant Governor talks OCR hike",
+                "desc": "RBNZ Assistant Governor Karen Silk says there’s still ‘some pretty good’ monetary stimulus supporting NZ's economy, election not ‘the thing that's front of mind’ when making OCR decisions",
+                "image": "https://www.interest.co.nz/sites/default/files/2026-05/Karen%20Silk%202026%20MPS.jpg",
+                "url": "https://www.interest.co.nz/economy/139358/rbnz-assistant-governor-karen-silk-says-there%E2%80%99s-still-%E2%80%98some-pretty-good%E2%80%99-monetary",
+                "source": "Interest.co.nz",
+                "date": "2026-07-13T01:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "You can now tap your Visa or Mastercard to pay for your LRT2 ride",
                 "desc": "(1st UPDATE) Instead of loading money onto a separate transport card, the appropriate fare is charged directly to the debit or credit card tapped",
                 "image": "https://www.rappler.com/tachyon/2023/02/lrt-2-masinag-commuters-february-1-2023-004.jpg",
@@ -542,99 +632,99 @@
                 "source": "毎日新聞",
                 "date": "2026-07-12T22:00:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Study Shows Modern EV Batteries Can Outlast The Rest Of The Vehicle",
-                "desc": "One of the biggest concerns surrounding electric vehicle ownership has always been the cost of replacing the battery. Since a battery pack can account for a significant portion of an EV’s value, many prospective buyers ... Read more",
-                "image": "https://s.yimg.com/lo/mysterio/api/3b75f5ae7df847b8dd0b61dff95e39efb65a7d0e0b6d0208413ec8043d64d3c2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F283376ca806f2b7f8bd72fe66eed0f11",
-                "url": "https://autos.yahoo.com/ev-and-future-tech/articles/study-shows-modern-ev-batteries-220030711.html",
-                "source": "Yahoo Autos",
-                "date": "2026-07-12T22:00:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VIDEO: Confused about Ontario’s new car insurance rules? You're not alone",
-                "desc": "This week on Village Media's 'Closer Look' podcast: Now that certain auto insurance benefits are optional in Ontario, we revisit an important conversation that every driver should hear",
-                "image": "https://www.vmcdn.ca/f/files/closerlook/images/cl_2000x1333_172.jpg;w=1200;h=800;mode=crop",
-                "url": "https://www.baytoday.ca/closer-look/video-confused-about-ontarios-new-car-insurance-rules-youre-not-alone-12538591",
-                "source": "BayToday.ca",
-                "date": "2026-07-12T22:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Gen Z complication",
-                "desc": "By dint of spectacular collaborations, niche micro-brands and a fresh approach to storytelling, the watch industry is seeking to win over Gen Z, a generation that",
-                "image": "https://en.worldtempus.com/themes/custom/worldtempus/favicon.ico",
-                "url": "https://en.worldtempus.com/article/business-news/gen-z-complication-82899.html",
-                "source": "en.worldtempus.com",
-                "date": "2026-07-12T22:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 ASX dividend stock down 37% I'd buy right now",
-                "desc": "This ASX dividend stock has fallen heavily over the last six months. It looks like a great time to buy this share!",
-                "image": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-508441433-1-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/13/1-asx-dividend-stock-down-37-id-buy-right-now-3/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-12T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Energy costs and rate hikes to squeeze Asia loan growth",
-                "desc": "A double whammy of higher energy costs and higher interest rates will negatively affect credit growth, said S&P Global Market Intelligence.",
-                "image": "https://asianbankingandfinance.net/s3/files/styles/opengraph/public/2026-07/slow-down-signage-logan-weaver-via-unsplash.jpg?h=7c2a942b&itok=SjiT-nvl",
-                "url": "https://asianbankingandfinance.net/lending-credit/in-focus/energy-costs-and-rate-hikes-squeeze-asia-loan-growth",
-                "source": "Asian Banking & Finance",
-                "date": "2026-07-12T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MeCure Industries seeks N50bn capital raise as profit jumps 177%",
-                "desc": "MeCure Industries Plc has proposed increasing its capital-raising programme to N50 billion from N30 billion as the pharmaceutical",
-                "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/SAVE_20260712_183924.jpg",
-                "url": "https://tribuneonlineng.com/mecure-industries-seeks-n50bn-capital-raise-as-profit-jumps-177/",
-                "source": "Tribune Online",
-                "date": "2026-07-12T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Local casinos regain momentum as Chinese group tourists return",
-                "desc": "Korea’s foreigner-only casinos are gaining renewed momentum this year, triggered by a steady recovery in inbound tourism and expectations of a surg...",
-                "image": "https://newsimg.koreatimes.co.kr/2026/07/12/e8063d88-a33f-432f-a907-a86f0fa97a87.jpg",
-                "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260713/local-casinos-regain-momentum-as-chinese-group-tourists-return",
-                "source": "The Korea Times",
-                "date": "2026-07-12T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PMET Demonstrates >97% Caesium Extraction from Pollucite Concentrate",
-                "desc": "The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.",
-                "image": "https://mmx.prnewswire.com/media/MS1864549/PMET-Resources-Inc-PMET-Demonstrates-97-Caesium-Extraction-fr.jpg?id=OA2759439",
-                "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607121800CANADANWCANADAPR_C5480-1",
-                "source": "Financial Times",
-                "date": "2026-07-12T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Safety Boss Resigns in Latest Executive Departure",
-                "desc": "OpenAI’s safety head, Johannes Heidecke, is leaving the company amid a larger leadership shakeup at the AI startup.",
-                "image": "https://www.pymnts.com/wp-content/uploads/2026/07/OpenAI-safety-boss-1.jpg",
-                "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-safety-boss-resigns-in-latest-executive-departure/",
-                "source": "PYMNTS.com",
-                "date": "2026-07-12T21:59:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Billionaire Ken Griffin Boosted His Stake in This Dividend King by 146%. Here's Why It's a Dream Stock for Risk-Averse Investors.",
-                "desc": "Griffin is at the helm of the world's most profitable hedge fund.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877982%2Fgettyimages-two-people-smile-and-look-at-computer.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/12/billionaire-ken-griffin-boosted-his-stake-in-this/",
-                "source": "The Motley Fool",
-                "date": "2026-07-12T21:37:05Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The Latest Lego Batman Has Something For Fans Of All Ages",
+                "desc": "Review: Batman: Legacy of the Dark Knight It's been over 20 years now since the release of the PlayStation 2 classic LEGO Star Wars, the first in a series of 27 distinct LEGO adventure games based on existing properties. LEGO Batman: Legacy of the Dark Knight is the fourth LEGO Batman game, and the eighth [...]",
+                "image": "https://www.insights.uca.org.au/wp-content/uploads/2026/07/Insights-Images-1.png",
+                "url": "https://www.insights.uca.org.au/the-latest-lego-batman-has-something-for-fans-of-all-ages/",
+                "source": "Uniting Church Australia",
+                "date": "2026-07-13T01:24:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Games Inbox: Will there ever be a Nintendo Switch 2 Lite?",
+                "desc": "Monday’s Inbox asks is worried Nintendo may have ditched plans for a Switch 2 Lite, as a reader expects Elder Scrolls 6 to be a disaster.",
+                "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_305063817-747d_1783905441.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+                "url": "https://metro.co.uk/2026/07/13/games-inbox-will-ever-a-nintendo-switch-2-lite-29120901/",
+                "source": "Metro.co.uk",
+                "date": "2026-07-13T01:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The McLaren 788HS Is A 777-HP Final Send-Off For The Brand's V8 Supercar",
+                "desc": "Unveiled at the Goodwood Festival of Speed, the 788HS is only the third McLaren ever to wear the High Sport badge, following the low-volume MP4-12C HS and the 675LT-based MSO HS. The number refers to the engine's output in metric horsepower, which works out to 777 horsepower in the United States. ...",
+                "image": "https://s.yimg.com/lo/mysterio/api/9b926517842a3f00d19cfd9ff1aa3728ad08aea48d227854bb542ebe5f639408/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fautoblog_arena_articles_145%2F67acf5c524a05be0db1f01240784b66b",
+                "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/mclaren-788hs-777-hp-final-012000059.html",
+                "source": "Yahoo Autos",
+                "date": "2026-07-13T01:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Obsidian Director Blasts People 'Running Their Mouths' About How the Studio Has Changed Following Xbox Layoffs",
+                "desc": "Ain't that a kick in the head.",
+                "image": "https://sm.ign.com/t/ign_ap/news/o/obsidian-d/obsidian-director-blasts-people-running-their-mouths-about-h_f1pv.1200.jpg",
+                "url": "https://sea.ign.com/avowed/245348/obsidian-director-blasts-people-running-their-mouths-about-how-the-studio-has-changed-following-xbox",
+                "source": "IGN Southeast Asia",
+                "date": "2026-07-13T01:18:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shadow AI for SMBs: Hidden risks and security tips",
+                "desc": "AI platforms used in a corporate ecosystem should meet high reliability and security requirements. Protection should be comprehensive: from securing the AI infrastructure to defending against large language model‑specific attacks (such as indirect prompt injection) and from switching from publicly available cloud services to on‑premise deployments of LLMs.",
+                "image": "https://technode.global/wp-content/uploads/2026/07/kdcj1nikgou.jpg",
+                "url": "https://technode.global/2026/07/13/shadow-ai-for-smbs-hidden-risks-and-security-tips/",
+                "source": "TNGlobal",
+                "date": "2026-07-13T01:15:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI to Shut Down ChatGPT Atlas Browser in August as AI Battle Shifts to Enterprise Infrastructure",
+                "desc": "OpenAI announced it will discontinue its proprietary browser \"ChatGPT Atlas\" on August 9, 2026, less than a year after its fall 2025 launch. Built on…",
+                "image": "https://img.biggo.com/awaOb1D1K4Dw5iKzpMxeR3-t3YFZ_17AI4LEgdmbuAQ/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2NkNjg0ZWM1LWE0MmYtNGVkOS04NjRhLTgwNGU0MzY5MmI1M18xNzgzOTA1Njc3X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/cd684ec5-a42f-4ed9-864a-804e43692b53",
+                "source": "finance.biggo.com",
+                "date": "2026-07-13T01:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lenovo denies using banned Chinese SSDs where they're not allowed",
+                "desc": "PLUS: Canadian/Bhutanese datacenter for India; China re-uses a rocket; Australia signals AI intervention; And more!",
+                "image": "https://image.theregister.com/225936.jpg?imageId=225936&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/personal-tech/2026/07/13/lenovo-denies-using-banned-chinese-ssds-where-theyre-not-allowed/5270212",
+                "source": "The Register",
+                "date": "2026-07-13T01:14:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Games Done Quick 'Excited' To Work With Saudi-Owned SNK For Around Three Hours Before Pulling Sponsorship Deal",
+                "desc": "'DQ is committed to supporting human rights and inclusivity, and we recognize that this partnership conflicted with those values'",
+                "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/Untitled-3.jpg",
+                "url": "https://aftermath.site/gdq-sgdq-snk-saudi-games-done-quick-controversy/",
+                "source": "Aftermath",
+                "date": "2026-07-13T01:06:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Upcoming M7 Ultra chip could match a feat that the most powerful Intel Mac achieved",
+                "desc": "As part of Bloomberg’s Mark Gurman’s weekly Powered On newsletter, he expects Apple to launch the future M7 Ultra chip sometime in 2028, and it could match an unprecedented feat that only the most powerful Intel Mac has achieved. You see, before 2019, there was the 2013 Mac Pro that had a controversial “trash-can” design,",
+                "image": "https://cdn.appleosophy.com/2026/01/Apple-Mac-Studio-front-220308_big_carousel.jpg.large_2x.jpg",
+                "url": "https://appleosophy.com/2026/07/12/upcoming-m7-ultra-chip-could-match-a-feat-that-the-most-powerful-intel-mac-achieved/",
+                "source": "Appleosophy",
+                "date": "2026-07-13T01:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "You Can Get Windows 11 Pro on Sale for A$14 Right Now",
+                "desc": "Get Windows 11 Pro on sale for A$14 right now (reg. A$286) through July 16, though prices can change at any time.",
+                "image": "https://sm.lifehacker.com/t/lifehacker_au/photo/default/windows-11-pro-big_13ue.1200.jpg",
+                "url": "https://au.lifehacker.com/tech/119026/you-can-get-windows-11-pro-on-sale-for-a14-right-now",
+                "source": "Lifehacker",
+                "date": "2026-07-13T01:01:56Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Sony Bravia 7 II review: Is True RGB the future of TV colour?",
                 "desc": "Sony's new Bravia 7 II comes with new True RGB backlight technology. So how does this technology work, and does it improve the picture?",
@@ -1174,99 +1264,90 @@
                 "source": "CarExpert",
                 "date": "2026-07-12T21:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AI Has A Cerebellum Now",
-                "desc": "We're bombarded with information at all times, so much that if we had to try and process it all times, we'd be paralyzed. Our cerebellum does information damage",
-                "image": "http://science20.com/files/inline-images/2026-07/molybdenum_disulfide_memristor.jpg",
-                "url": "http://science20.com/news_articles/20260712/ai_has_a_cerebellum_now-73896",
-                "source": "Science 2.0",
-                "date": "2026-07-12T20:51:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Am 2026 Leaderboard",
-                "desc": "How does the Fortnite Pro-Am 2026 leaderboard look? These are the complete standings for the tournament so far, and how it’s all looking.",
-                "image": "https://www.hotspawn.com/wp-content/uploads/2026/07/Fortnite-Pro-Am-20261.webp",
-                "url": "https://www.hotspawn.com/fortnite/news/full-fortnite-pro-am-2026-leaderboard",
-                "source": "Hotspawn",
-                "date": "2026-07-12T20:08:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Guide to Loop Engineering: How 'autoresearch' and 'Bilevel Autoresearch' Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
-                "desc": "Loop engineering explained through Karpathy's autoresearch repo and Bilevel Autoresearch paper, covering verifiers, state, stop conditions",
-                "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-15.png",
-                "url": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
-                "source": "MarkTechPost",
-                "date": "2026-07-12T20:07:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australian Porsche 911 restomod to go global",
-                "desc": "Zeigler/Bailey, a Melbourne firm turning classic Porsche 911s into modern performance machines, has appointed an Australian company to sell its cars to the world",
-                "image": "https://storage.ghost.io/c/a9/b3/a9b3e204-3117-4792-9a32-46184029df44/content/images/size/w1200/2026/07/z-b-4.4-2.jpg",
-                "url": "https://torquecafe.com/australian-porsche-911-restomod-to-go-global/",
-                "source": "Torquecafe",
-                "date": "2026-07-12T20:02:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 10 Best Bluetooth Speaker Brands, Ranked By Sound Quality",
-                "desc": "Getting serious sound quality with the convenience of Bluetooth portability is big business these days. We checked out some of the top brands in the market.",
-                "image": "https://www.bgr.com/img/gallery/the-10-best-bluetooth-speaker-brands-ranked-by-sound-quality/l-intro-1783327193.jpg",
-                "url": "https://www.bgr.com/2208215/best-bluetooth-speaker-brands-ranked/",
-                "source": "bgr.com",
-                "date": "2026-07-12T20:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vancouver Island: close encounters with nine grizzly bears",
-                "desc": "Discover how Homalco First Nation guides led a record grizzly bear tour on Vancouver Island. Uncover the unique cultural insights that connect visitors to the wild.",
-                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/130854433/d5a40a49-2907-47e5-a607-f70c804fdb89.jpg/r0_273_2032_1340_w1200_h630_fmax.jpg",
-                "url": "https://www.canberratimes.com.au/story/9306821/vancouver-island-close-encounters-with-nine-grizzly-bears/",
-                "source": "The Canberra Times",
-                "date": "2026-07-12T20:01:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hideo Kojima Officially Responds to PlayStation's Execution of Physical Media",
-                "desc": "A Metal Gear legend has spoken about the huge Playstation controversy. Read on for more details.",
-                "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/metal-gear-solid-v-snake-helicopter-1.avif?w=1600&h=900&fit=crop",
-                "url": "https://collider.com/metal-gear-legend-playstation-controversy-hideo-kojima-comments/",
-                "source": "Collider",
-                "date": "2026-07-12T20:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This star just ate a planet, and it’s not done yet",
-                "desc": "A star 1,300 light-years away appears to have just consumed one world and is gearing up for seconds.",
-                "image": "https://images.seattletimes.com/wp-content/uploads/2026/07/07102026_star-tzr_tzr_144739.jpg?d=1200x630",
-                "url": "https://www.seattletimes.com/seattle-news/science/this-star-just-ate-a-planet-and-its-not-done-yet/",
-                "source": "The Seattle Times",
-                "date": "2026-07-12T20:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New imaging method offers fresh insight into LED materials",
-                "desc": "Light Emitting Diodes (LEDs) are used in everything from household lighting and mobile phones to large display screens. Improving their efficiency could reduce energy use and enhance performance across a wide range of technologies. A new study involving researchers from the University of Liverpool and the University of Strathclyde has demonstrated a powerful way to identify tiny crystal defects that can reduce the efficiency of LED materials. The advance could help scientists better understand how these defects form and ultimately support the development of more efficient electronic and optoelectronic devices.",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/new-imaging-method-off.jpg",
-                "url": "https://phys.org/news/2026-07-imaging-method-fresh-insight-materials.html",
-                "source": "Phys.org",
-                "date": "2026-07-12T20:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Porting The Nvidia GPU Driver To Haiku For 3D Acceleration",
-                "desc": "As good as a desktop OS may be, at some point it has to feature accelerated 3D graphics. This has been a bit of a sticking point for Haiku OS, as none of the big names in GPU cards are likely to start...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/haiku_3d_accelerated_nvidia_gpu_action_retro_youtube.jpg",
-                "url": "https://hackaday.com/2026/07/12/porting-the-nvidia-gpu-driver-to-haiku-for-3d-acceleration/",
-                "source": "Hackaday",
-                "date": "2026-07-12T20:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Ukraine war briefing: Zelenskyy replaces PM and flags law enforcement overhaul",
+                "desc": "Yulia Svyrydenko steps down, possibly to become US ambassador, amid reshuffle; Ukrainian strikes cripple Russian shipping in Azov sea. What we know on day 1,601",
+                "image": "https://i.guim.co.uk/img/media/820b3edcf06235698a53c808a44e35b0b648f652/0_0_4413_3529/master/4413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26189f8c4cf35c7935841250c2f9727a",
+                "url": "https://www.theguardian.com/world/2026/jul/13/ukraine-war-briefing-zelenskyy-replaces-pm-and-flags-law-enforcement-overhaul",
+                "source": "The Guardian",
+                "date": "2026-07-13T01:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia news LIVE: One Nation slides in poll; mass casualties in Thai pub fire",
+                "desc": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+                "image": "https://static.ffx.io/images/$zoom_0.3138904853128991%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_125%2C$y_110/t_crop_custom/q_86%2Cf_auto/38c4098dea3665d2c01624da836e295a6e8c2aed",
+                "url": "https://www.theage.com.au/national/australia-news-live-one-nation-slides-in-poll-mass-casualties-in-thai-pub-fire-20260713-p60epx.html",
+                "source": "The Age",
+                "date": "2026-07-13T01:38:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippines, Malaysia, Indonesia, Cambodia and Vietnam are Getting Tourism Community Grants Allocating Funds for Infrastructural Development, Renovation of Tourists Attractions, Ensuring Sustainable G",
+                "desc": "Southeast Asian nations boost sustainable tourism through ASEAN grants, infrastructure investment and community-led cultural travel initiatives.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/China-Aligns-with-Japan-South-Korea-Thailand-and-Singapore-to-Accelerate-Summer-Tourism-Growth-Through-450-Million-Yuan-Travel.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/7nweqcsdonmc/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-13T01:37:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US launches more strikes on Iran as standoff over Strait of Hormuz escalates",
+                "desc": "The strikes took place overnight and into early Monday.",
+                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTIxMzUzMTdcXFwvYTcyM2Q2Y2Y0NGU5NDkyM2EwOWNkYTI1ZDkwZWVkZDUtMTUuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjMWVhMzAyNDRmY2RjNThkMzRhNzM5MmE4NWI2NzRhZDJmYTljNzk0In0=/us-launches-more-strikes-on-iran-as-standoff-over-strait-of-hormuz-escalates.jpg",
+                "url": "https://www.breakingnews.ie/world/us-launches-more-strikes-on-iran-as-standoff-over-strait-of-hormuz-escalates-1925656.html",
+                "source": "BreakingNews.ie",
+                "date": "2026-07-13T01:35:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s informal sector hits $125bn - AfDB",
+                "desc": "The African Development Bank (AfDB) has estimated the potential of Africa’s informal sector revenue to be around $125 billion, while calling on countries on...",
+                "image": "https://dailytrust.com/wp-content/uploads/2025/08/AfDB.jpg",
+                "url": "https://dailytrust.com/africas-informal-sector-hits-125bn-afdb/",
+                "source": "Daily Trust",
+                "date": "2026-07-13T01:31:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran expands attacks on Gulf states after US strikes",
+                "desc": "Discover the escalation of Iran's attacks on Gulf states following US strikes and the closure of the Strait of Hormuz. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a97edebaad87cf9addfd4550936c406ecc7d284fcf69bab71f32ddc655c52c54",
+                "url": "https://www.straitstimes.com/world/middle-east/iran-expands-attacks-on-gulf-states-after-us-strikes-says-strait-of-hormuz-closed",
+                "source": "The Straits Times",
+                "date": "2026-07-13T01:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "W/Bank, IFC target 32m Nigerians for electricity access",
+                "desc": "The World Bank in collaboration with the International Finance Corporation (IFC), has disclosed plans to allow 32 million Nigerians to have access to...",
+                "image": "https://dailytrust.com/wp-content/uploads/2022/04/international-finance-corporation-IFC.jpg",
+                "url": "https://dailytrust.com/w-bank-ifc-target-32m-nigerians-for-electricity-access/",
+                "source": "Daily Trust",
+                "date": "2026-07-13T01:20:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Extra £250m funding announced to boost Jewish community safety",
+                "desc": "Police forces are to receive extra funds to help increase protection in Jewish communities.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/99d4/live/cd6933a0-48aa-11f1-90e6-350a323e11ac.jpg",
+                "url": "https://www.bbc.com/news/articles/c78y2xg0090o",
+                "source": "BBC",
+                "date": "2026-07-13T01:17:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Turning the tide on drowning deaths",
+                "desc": "Join the fight against drowning deaths on World Drowning Prevention Day, July 25, and help save lives globally.",
+                "image": "https://bl-i.thgim.com/public/incoming/heulo/article71214915.ece/alternates/LANDSCAPE_1200/2025-11-27T153551Z_1570529240_RC20JCA25H2P_RTRMADP_3_HEALTH-INFERTILTIY-WHO.JPG",
+                "url": "https://www.thehindubusinessline.com/specials/pulse/turning-the-tide-on-drowning-deaths/article71207195.ece",
+                "source": "BusinessLine",
+                "date": "2026-07-13T01:13:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How Muar’s oysters turned a sleepy riverside village into a tourist draw",
                 "desc": "Fresh oysters have put Kampung Parit Tiram on the culinary map and helped breathe new life into a once-overlooked corner of Johor.",
@@ -1815,89 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-12T21:26:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
-                "desc": "The fire is one of the deadliest such incidents in the popular tourist destination in ⁠recent years",
-                "image": "https://i.guim.co.uk/img/media/940fa208db3f594dbf725119f86f77c95bc2fea0/558_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2bee008c82a7d0df843a71adbc58b84",
-                "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
-                "source": "The Guardian",
-                "date": "2026-07-12T21:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Major change announced for travellers heading to Australia",
-                "desc": "The change is aimed at streamlining processes for arriving passengers ahead of an expected influx of tourists for the 2032 Brisbane Olympic Games.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/suitcase-travel-generic-file-image-ABB46SG47BHNNGYEHDSE35RSGY.jpg?auth=8467b62a6c7c9f0dca8dbaa6673aa2facdad51086d330aab5e06925b203078ac&quality=70&width=600&height=315&focal=627%2C352",
-                "url": "https://www.1news.co.nz/2026/07/13/major-change-announced-for-travellers-heading-to-australia/",
-                "source": "1News",
-                "date": "2026-07-12T21:22:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lindsey Graham Died Of Aortic Dissection Due To Cardiovascular Disease, Office Says",
-                "desc": "The South Carolina senator’s office said the 71-year-old died after a “brief and sudden illness.”",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a539aa2f2d624165da3a657/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/12/lindsey-graham-died-from-cardiovascular-disease-preliminary-report-says/",
-                "source": "Forbes",
-                "date": "2026-07-12T21:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "At least 27 dead in Bangkok bar fire, says PM",
-                "desc": "Thai national police said in a social media post at around 2am that the fire had been 'brought under control'.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/11/13319112-1.webp",
-                "url": "https://www.freemalaysiatoday.com/category/highlight/2026/07/13/at-least-27-dead-in-bangkok-bar-fire-says-pm",
-                "source": "Free Malaysia Today",
-                "date": "2026-07-12T21:11:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria, AFD Deepen Partnership to Advance Livestock Sector",
-                "desc": "The Federal Government has reaffirmed its commitment to strengthening ties with France in efforts to transform Nigeria's livestock industry, following a courtesy visit by a delegation from the French Development Agency (AFD) to the Ministry of Livestock Development's headquarters in Abuja on Friday. Receiving the AFD delegation, led by its Country Director for Nigeria, Jacky",
-                "image": "https://agronigeria.ng/wp-content/uploads/2026/06/sail-2.jpg",
-                "url": "https://agronigeria.ng/nigeria-afd-deepen-partnership-to-advance-livestock-sector/",
-                "source": "AgroNigeria",
-                "date": "2026-07-12T21:07:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘His blood is on Trump’s hands’: man killed by ICE in Texas mourned at vigil",
-                "desc": "Fatal shooting of Lorenzo Salgado Araujo, a Texas builder, renews outcry against Trump’s immigration crackdown",
-                "image": "https://i.guim.co.uk/img/media/31f843643cda3d925f36d2342fd1330264efc6f4/0_0_4773_3821/master/4773.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=824b047bcd282f90be25ca18c820be49",
-                "url": "https://www.theguardian.com/us-news/2026/jul/12/lorenzo-salgado-araujo-texas-killed-ice-vigil",
-                "source": "The Guardian",
-                "date": "2026-07-12T21:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s Illegal Boat Bombings Are Just ‘Murder for Murder’s Sake,’ U.S. Official Says",
-                "desc": "Donald Trump’s boat strikes aren’t working – because they’re ‘not actually designed to end the fentanyl crisis,’ a senior administration official tells Zeteo.",
-                "image": "https://substackcdn.com/image/fetch/$s_!xnEH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa42f2d56-f92f-48f9-a361-da83c923f2ec_1801x1200.jpeg",
-                "url": "https://zeteo.com/p/trumps-illegal-boat-bombings-not-working",
-                "source": "Zeteo",
-                "date": "2026-07-12T21:02:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Benn Steil on Why the Global Order is Falling Apart",
-                "desc": "Benn Steil talks about how the U.S. and China are together reshaping world trade and why the ideas of a discredited German theorist from the last century has become influential in China.",
-                "image": "https://www.thewirechina.com/wp-content/uploads/2026/06/Steil-Featured-scaled.png",
-                "url": "https://www.thewirechina.com/2026/07/12/benn-steil-on-why-the-global-order-is-falling-apart/",
-                "source": "The Wire China",
-                "date": "2026-07-12T21:01:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Tech Billionaire Takeover review - a surprisingly fun look at the crypto bros threatening democracy",
-                "desc": "This documentary about the billionaires who want to rip up society’s rules in favour of CEOs somehow manages to be more entertaining than terrifying. Although at times it’s a close call …",
-                "image": "https://i.guim.co.uk/img/media/16920e5d551b6fe584690ce16d536b283e23a8d4/723_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=dd8d53c12612e877582a0ff45d77ac6f",
-                "url": "https://www.theguardian.com/tv-and-radio/2026/jul/12/the-tech-billionaire-takeover-review-a-surprisingly-fun-look-at-the-crypto-bros-threatening-democracy",
-                "source": "The Guardian",
-                "date": "2026-07-12T21:00:00Z",
-                "priority": "MAJOR_ALERT"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T13:01:08.071378Z"
+    "lastGlobalSync": "2026-07-13T13:41:10.446489Z"
 }
