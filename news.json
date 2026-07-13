@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "America's construction labor shortage is making homes more expensive",
+                "desc": "Homeownership is becoming increasingly out of reach as builders warn a shortage of skilled construction workers is raising costs and slowing the pace of new home construction.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/home-construction-workers-lifting-beams-getty.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/politics/overlooked-reason-america-cant-build-homes-fast-enough",
+                "source": "Fox Business",
+                "date": "2026-07-12T19:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+                "desc": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model.",
+                "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png",
+                "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+                "source": "BleepingComputer",
+                "date": "2026-07-12T19:39:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia’s Regional Commuters Receive Unrestricted Free Travel Across Victorian Trains, Trams and Buses as the State Absorbs the Financial Fallout of a Private Telecommunications Collapse",
+                "desc": "Transport Victoria introduces free transit across V/Line, Metro trains, trams, and buses on 13–14 July after a disruptive Telstra outage.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Australias-Victorian-transit-network.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/qblrr01oqg39/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-12T19:37:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Asha Sharma Appointed U.S. Federal Reserve Advisor on Productivity and Jobs Following Mass Layoffs at Xbox",
+                "desc": "The head of Xbox now joins the Federal Reserve’s working group, tasked with analyzing economic policy and decision-making for the U.S. central bank.",
+                "image": "https://www.levelup.com/resizer/v2/GINLY4YFDRHBNHQH5USKRZVFRQ.jpg?auth=14857cd7cd7abd40af83e721eaee50e397ec5ebc581e9a789b8b010c2d3bd7fb&height=630&width=1200&quality=70&smart=true",
+                "url": "https://www.levelup.com/en/news/asha-sharma-appointed-us-federal-reserve-advisor-on-productivity-and-jobs-following-mass-layoffs-at-xbox/",
+                "source": "levelup.com",
+                "date": "2026-07-12T19:25:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Interpol Closes In on $122M Crypto Wallet Linked to 20-Year-Old Fraudster",
+                "desc": "Interpol said a crypto wallet linked to a 20-year-old fraud suspect processed more than $122.5 million over 10 months.Police in Thailand arrested two people in",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/interpol-closes-in-on-122m-crypto-wallet-linked-to-20-year-old-fraudster",
+                "source": "KuCoin",
+                "date": "2026-07-12T19:22:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks to Watch Today: LTM, Avenue Supermarts, Swiggy, Pace Digitek, Power Grid, Powerica, RITES, Keystone Realtors, Sterlite Tech, L&T Finance in focus on 13 July",
+                "desc": "Stocks to Watch, 13 July: Stocks like LTM, Avenue Supermarts, Adani Green Energy, Keystone Realtors, Mankind Pharma, Lux Industries, RITES, JSW Energy, Powerica, Innovision, NTPC, NMDC, Sterlite Technologies, Pace Digitek, Power Grid Corporation of India, and Swiggy will be in focus on July 13.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260613040600_Sensex_market_Nifty.jpg",
+                "url": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-ltm-avenue-supermarts-swiggy-pace-digitek-power-grid-powerica-rites-keystone-realtors-sterlite-tech-l-t-finance-in-focus-on-13-july-13972091.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-12T19:17:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple sues OpenAI, alleges theft of trade secrets tied to ChatGPT hardware development",
+                "desc": "Apple has sued OpenAI, accusing the artificial intelligence company of encouraging former Apple employees to steal confidential trade secrets to help develop ChatGPT-related hardware.",
+                "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/07/1200/630/gettyimages-2272966665.jpg?ve=1&tl=1",
+                "url": "https://www.livenowfox.com/news/apple-sues-openai-alleges-trade-secret",
+                "source": "LiveNOW from FOX",
+                "date": "2026-07-12T19:16:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Customers shopped at Vons for hours while dead body lay in bakery aisle as worker recalls boss's 'horrifying' demand",
+                "desc": "A SUPERMARKET worker has revealed the horrifying demand her boss made that left customers shopper for hours around a dead body.\nThe shocking...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-bs4r66frf-1783883229045.jpg?quality=90&strip=all&1783886896&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/news/17284639/vons-shoppers-dead-body-bakery-aisle-worker-los-angeles/",
+                "source": "The Irish Sun",
+                "date": "2026-07-12T19:10:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LexinFintech Holdings (LX) Slides On Credit Fears As Undervaluation Debate Builds",
+                "desc": "LexinFintech Holdings (NasdaqGS:LX) has come under pressure after a sharp and sustained share price decline, as concerns around Chinese consumer credit conditions and regulatory scrutiny weigh on sentiment, despite the company remaining profitable. See our latest analysis for LexinFintech Holdings. Over the past year, LexinFintech Holdings has seen its share price weaken steadily, with the stock down 50.77% on a year to date share price return and the 1 year total shareholder return falling...",
+                "image": "https://s.yimg.com/lo/mysterio/api/B494190283EDED7DFD3A83EA821E83767632716C2DC55AE8A2A8B24696F0F0AD/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F17286ad821a1799fbe520d67c5c5f1ea",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/lexinfintech-holdings-lx-slides-credit-190702103.html",
+                "source": "Yahoo Finance",
+                "date": "2026-07-12T19:07:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta withdraws its controversial AI image feature",
+                "desc": "Called \"Muse Image,\" this proposed tool would have allowed users to use public-facing Instagram photos as references for generative AI.",
+                "image": "https://helios-i.mashable.com/imagery/articles/03hVPYmS1vOJXD4c5qxkljr/hero-image.fill.size_1200x675.v1783881289.png",
+                "url": "https://mashable.com/tech/meta-withdraws-controversial-ai-feature-that-allowed-images-to-be-sourced",
+                "source": "Mashable",
+                "date": "2026-07-12T19:05:07Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "A charity policy coordinator on €36K living in Dublin",
                 "desc": "This week, our reader outlines how they make €900 last over a month after their outgoings, including €1,000 a month in rent.",
                 "image": "https://img2.thejournal.ie/article/7095272/river/?height=400&version=7096074",
@@ -542,99 +632,90 @@
                 "source": "Moneycontrol.com",
                 "date": "2026-07-12T16:29:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "America’s Longest Small Town: Why Route 66 Is The Quintessential American Experience",
-                "desc": "Historic U.S. Route 66 is America's longest small town — a 2,400-mile neighborhood that one historian calls the \"quintessential American experience.\"…",
-                "image": "https://cowboystatedaily.imgix.net/Wayne-Schell-Route-66-Inset-Arizona-Nicholas-Klein-via-Alamy-7.12.26.jpg?w=1200&q=75&auto=format%2Ccompress",
-                "url": "https://cowboystatedaily.com/2026/07/12/americas-longest-small-town-how-route-66-became-americas-route-of-dreams/",
-                "source": "Cowboy State Daily",
-                "date": "2026-07-12T16:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After a year of tariffs, automakers are still resistant to moving production to the US",
-                "desc": "Toyota announced last week it would do something other automakers have been reluctant to do – shift some production from Mexico to the United States.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2206558037.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/12/business/tariffs-automakers-new-factories",
-                "source": "CNN",
-                "date": "2026-07-12T16:00:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7-Hour Flights: Air Canada's 10 Longest Nonstop Airbus A220 Routes Revealed [Map]",
-                "desc": "Montreal serves as a key A220 launch point for the airline.",
-                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/05/c-gmzr-air-canada-airbus-a220-300-3-cropped.jpg?w=1600&h=900&fit=crop",
-                "url": "https://simpleflying.com/7-hour-flights-air-canadas-10-longest-a220-routes/",
-                "source": "Simple Flying",
-                "date": "2026-07-12T16:00:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why investors keep betting on America’s resilience and innovation",
-                "desc": "We’ve seen two significant anniversaries over the past few weeks. One was the 10th anniversary of the Brexit referendum, while the other was the 250th...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/XWIYRBFFMJB73N54GU7RFOKZ64.jpg?auth=68c1d78aec6cc1f1a159d2977c6f6072e4721b964bbb447f7949a39143a46f08&width=1200&height=675&quality=70&smart=true",
-                "url": "https://www.nzherald.co.nz/rotorua-daily-post/business/why-investors-keep-betting-on-americas-resilience-and-innovation-mark-lister/premium/CR7MB2HDVZAMPEXNW4ZVT657GA/",
-                "source": "NZ Herald",
-                "date": "2026-07-12T16:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 public notices to be aware of in Norfolk this week",
-                "desc": "A new housing development of up to 49 homes in Holt and a tilting bungalow that could be demolished in Stow Bardolph are among this weeks public…",
-                "image": "https://www.edp24.co.uk/resources/images/21163520.jpg?type=og-image",
-                "url": "https://www.edp24.co.uk/news/26267601.5-public-notices-aware-norfolk-week/",
-                "source": "EDP24",
-                "date": "2026-07-12T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Health care worker earning $143,000 can’t imagine 26 more years in such a stressful field",
-                "desc": "Michelle, 39, says there is a lot of pressure in the vital but ‘severely’ under-funded sector",
-                "image": "https://www.theglobeandmail.com/resizer/v2/WH5MARMDKZEXVMVYZNHMH3LAYA.jpg?auth=6550eb1dea93e62dfa3ed85b8818dd939929bd629ea5abe0c4ec7f7ae47a79a1&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/personal-finance/article-health-care-worker-earning-143000-cant-imagine-26-more-years-in-such-a/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-12T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks to Buy: 5 Stocks That Can Deliver Returns of Up to 69%; Do You Own Any?",
-                "desc": "Brokerage reports are widely followed by investors as they provide insights into a company's earnings outlook, growth prospects, and industry trends. Positive ratings and higher target prices often improve investor confidence and help identify stocks that could outperform over the coming months.",
-                "image": "https://tradebrains.in/wp-content/uploads/2024/11/market-42.jpg",
-                "url": "https://tradebrains.in/stocks-to-buy-5-stocks-that-can-deliver-returns-of-up-to-69-do-you-own-any/",
-                "source": "Trade Brains",
-                "date": "2026-07-12T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Banks shifting from OTPs to silent authentication’",
-                "desc": "Philippine banks and e-wallet providers are expected to increasingly replace text-based one-time passwords (OTPs) with silent and risk-based authentication as financial institutions strengthen safeguards against fraud.",
-                "image": "https://media.philstar.com/photos/2026/07/12/11_2026-07-12_17-54-10.jpg",
-                "url": "https://www.philstar.com/business/2026/07/13/2541657/banks-shifting-otps-silent-authentication",
-                "source": "Philstar.com",
-                "date": "2026-07-12T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Starlux’s Airsorayama Silver makes maiden flight to Tokyo",
-                "desc": "Bringing Taiwan to the World and the World to Taiwan",
-                "image": "https://img.taipeitimes.com/images/2026/07/13/p03-260713-webpic3ZZZ.jpg",
-                "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860672",
-                "source": "Taipei Times",
-                "date": "2026-07-12T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Learn from history",
-                "desc": "The BSP has recently published two books of national consequence.",
-                "image": "https://media.philstar.com/images/filler/business-logo-filler-thumbnail.jpg",
-                "url": "https://www.philstar.com/business/2026/07/13/2541656/learn-history",
-                "source": "Philstar.com",
-                "date": "2026-07-12T16:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Microsoft wants Windows 11 and your phone to become best friends",
+                "desc": "For years, Phone Link has felt like that one app everyone knows exists but rarely remembers to open. Microsoft apparently wants to change that. According to a report from Windows Central, the company is working on a major overhaul of how smartphones integrate with Windows 11, making phones feel like a native part of the […]",
+                "image": "https://www.digitaltrends.com/tachyon/2026/07/Windows-11-PC-with-Android-Phone.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/computing/microsoft-wants-windows-11-and-your-phone-to-become-best-friends/",
+                "source": "Digital Trends",
+                "date": "2026-07-12T19:40:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+                "desc": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model.",
+                "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png",
+                "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+                "source": "BleepingComputer",
+                "date": "2026-07-12T19:39:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Four ways to help your teen (and yourself) spend more time away from devices",
+                "desc": "When phone use starts to affect our mood or interfere with relationships, it’s a sign our habits have crossed the line from healthy to unhealthy.",
+                "image": "https://images.theconversation.com/files/746788/original/file-20260709-57-4k92n8.jpg?ixlib=rb-4.1.0&rect=0%2C210%2C2120%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/four-ways-to-help-your-teen-and-yourself-spend-more-time-away-from-devices-286552",
+                "source": "The Conversation",
+                "date": "2026-07-12T19:31:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The \"HDMI 2.1\" label on your TV might be lying, legally",
+                "desc": "Some HDMI ports wear the badge without bringing the useful features to the meeting.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/07/hdmi-cables-plugged-into-a-television.png?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/the-hdmi-21-label-on-your-tv-might-be-lying-legally/",
+                "source": "MakeUseOf",
+                "date": "2026-07-12T19:30:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "32\" in the real world: Actual rides on a secret pre",
+                "desc": "A more balanced assessment after a couple of weeks sneaking around in the woods",
+                "image": "https://cyclingmagazine.ca/wp-content/uploads/2026/07/32-bike-1-e1783568231216.jpg",
+                "url": "https://cyclingmagazine.ca/mtb/32-real-world-test-rides-actual-rides-on-a-secret-pre-production-prototype-xc-bike/",
+                "source": "Canadian Cycling Magazine",
+                "date": "2026-07-12T19:25:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call of Duty: Black Ops 1 and 2 Support Crossplay Between PS4 and PS5, Activision Confirms",
+                "desc": "Ascend from darkness.",
+                "image": "https://sm.ign.com/t/ign_nordic/news/c/call-of-du/call-of-duty-black-ops-1-and-2-support-crossplay-between-ps4_ft7y.1200.jpg",
+                "url": "https://nordic.ign.com/call-of-duty-black-ops/109775/call-of-duty-black-ops-1-and-2-support-crossplay-between-ps4-and-ps5-activision-confirms",
+                "source": "IGN Nordic",
+                "date": "2026-07-12T19:23:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASUS expands its ProArt lineup with a compact keyboard and a smart creator mouse",
+                "desc": "ASUS has expanded its ProArt ecosystem with the new ProArt Keyboard KD300 and ProArt Mouse MD301, bringing creator-focused features, compact design, and multi-device connectivity to professionals.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/07/ASUS-ProArt-Keyboard-KD300-and-ProArt-Mouse-MD301.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/computing/asus-expands-its-proart-lineup-with-a-compact-keyboard-and-a-smart-creator-mouse/",
+                "source": "Digital Trends",
+                "date": "2026-07-12T19:23:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple's M7 Ultra could take on Nvidia Blackwell with a staggering 1.5TB of memory",
+                "desc": "Apple's M7 Ultra chip could feature up to 1.5TB of unified memory, reportedly bringing AI performance closer to Nvidia Blackwell while powering future Macs and Apple Intelligence servers.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/05/MacBook-Pro-on-Table.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/computing/apples-m7-ultra-could-take-on-nvidia-blackwell-with-a-staggering-1-5tb-of-memory/",
+                "source": "Digital Trends",
+                "date": "2026-07-12T19:09:29Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "LIAN LI UNI FAN FLEX Series Unveiled With 4 New Models Featuring New FLEX Receiver",
+                "desc": "LIAN LI's new UNI FAN FLEX Series features 4 models with flexible controls via L-Wireless, USB, or motherboard sync. LCD variants also gets a 1.8-inch screen and 512MB flash for customization.",
+                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/13030536/lianliunifanflexseriescover.jpg",
+                "url": "https://pokde.net/system/pc/cooling/lian-li-uni-fan-flex-series",
+                "source": "Pokde.Net",
+                "date": "2026-07-12T19:07:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "After 20 years, GIMP finally fixed everything people disliked about it",
                 "desc": "GIMP finally grew up.",
@@ -1183,90 +1264,99 @@
                 "source": "MacRumors",
                 "date": "2026-07-12T15:45:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ubisoft's Black Flag remake is a symptom, not a strategy",
-                "desc": "Assassin's Creed Black Flag Resynced is a good remake. It exists because Ubisoft cancelled six games and needs something to sell",
-                "image": "https://media.thenextweb.com/2026/06/claude-guillemot-ubisoft-co-founder-dies-plane-crash-69.avif",
-                "url": "https://thenextweb.com/news/ubisoft-black-flag-remake-nostalgia-business",
-                "source": "The Next Web",
-                "date": "2026-07-12T15:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Minecraft's New Cushion Is Reinventing Pretty Much Everything",
-                "desc": "Mojang, please don't nerf the cushion",
-                "image": "https://kotaku.com/app/uploads/2026/07/sitting.jpg",
-                "url": "https://kotaku.com/minecraft-adds-the-ability-to-sit-17-years-later-and-its-reinventing-everything-2000714330",
-                "source": "Kotaku",
-                "date": "2026-07-12T15:30:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 5 coolest open-source projects I've discovered in 2026",
-                "desc": "Big AI breakthroughs aren't the only interesting things happening.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/ollama-website-open-models-run-any-app-or-agent.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/coolest-open-source-projects-discovered-2026/",
-                "source": "How-To Geek",
-                "date": "2026-07-12T15:30:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Dietitian Reveals 5 Red Flags",
-                "desc": "Veena V, Chief Clinical Dietician at Aster Whitefield Hospital, Bengaluru, warns that consumers are frequently misled by catchy marketing trends when purchasing popular protein supplements. She outlines five major red flags: high added sugar content, overly long ingredient lists full of artificial additives, hidden stimulants like caffeine, using powders as improper meal replacements, and consuming extra protein without tracking daily bodily requirements.",
-                "image": "https://images.indianexpress.com/2026/07/protein-shake-2.jpg",
-                "url": "https://indianexpress.com/article/lifestyle/health/5-protein-shake-red-flags-to-know-10775449/",
-                "source": "The Indian Express",
-                "date": "2026-07-12T15:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung sparks privacy debate with new health data consent request for AI models",
-                "desc": "Samsung Health users are being asked to allow their activity, medical and other personal health data to be used in AI training, sparking fresh privacy.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-12-145208.webp",
-                "url": "https://eastleighvoice.co.ke/technology/378500/samsung-sparks-privacy-debate-with-new-health-data-consent-request-for-ai-models",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-12T15:29:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Progress Told ShareFile Customers to Pull the Plug on Their Servers. Here's What We Know.",
-                "desc": "Progress urged ShareFile Storage Zone customers to shut down internet-facing servers immediately over a credible threat under investigation",
-                "image": "https://securityaffairs.com/wp-content/uploads/2026/07/image-35.png",
-                "url": "https://securityaffairs.com/195194/hacking/progress-told-sharefile-customers-to-pull-the-plug-on-their-servers-heres-what-we-know.html",
-                "source": "Security Affairs",
-                "date": "2026-07-12T15:22:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "God of War Laufey studio hints at 2027 release window following tweet that assures players it \"will be available on disc\"",
-                "desc": "We may not know the precise release date of the upcoming God of War Laufey, but a new tweet suggests we'll get it before the end of 2027.",
-                "image": "https://assetsio.gnwcdn.com/god-of-war-laufey.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/god-of-war-laufey-disc-confirmed",
-                "source": "Eurogamer.net",
-                "date": "2026-07-12T15:18:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shane Sweetnam and James Kann Cruz winner of the Falsterbo Rolex Grand Prix",
-                "desc": "A total of twelve combinations qualified today for the Jump-Off in the 1.60m CSIO5* Rolex Grand Prix at the Falsterbo Horse Show. Last at the start, Ireland's Shane Sweetnam jumped to the win aboard his Irish bred, James Kann cruz (Kannan).",
-                "image": "http://equnews.s3-eu-west-1.amazonaws.com/2026/07/24348.jpg",
-                "url": "https://equnews.com/article/showjumping-en/shane-sweetnam-and-james-kann-cruz-winner-of-the-falsterbo-rolex-grand-prix",
-                "source": "Equnews International",
-                "date": "2026-07-12T15:16:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I started using Gemini with Samsung Notes; it's been a game-changer",
-                "desc": "Samsung Notes is smarter than ever",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/using-gemini-with-samsung-notes.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/started-using-gemini-with-samsung-notes-it-is-been-game-changer/",
-                "source": "Android Police",
-                "date": "2026-07-12T15:15:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Lindsey Graham’s death will shake the US Senate, and the November election. Here’s what comes next",
+                "desc": "The sudden death of influential Republican Sen. Lindsey Graham of South Carolina will have implications for legislative business in the Senate - where Republicans' slim margin is already under stress with the absence of Sen. Mitch McConnell after he was hospitalised- and the November election.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--7KdhNmBk--/t_tohu-badge-facebook/f_auto/q_auto/4JLKF8J_Lindsay_Graham_JPG",
+                "url": "https://www.rnz.co.nz/news/world/707253/lindsey-graham-s-death-will-shake-the-us-senate-and-the-november-election-here-s-what-comes-next",
+                "source": "RNZ",
+                "date": "2026-07-12T19:41:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Homes We Carry (Reath Bol)",
+                "desc": "Homes We Carry is a of holding onto places places in South Sudan and Sudan through photography. Take a look to Photography works.",
+                "image": "https://borkena.com/wp-content/uploads/2026/07/South-Sudan-_-6-.jpg",
+                "url": "https://borkena.com/2026/07/12/south-sudan-photography-homes-we-carry-reath-bol/",
+                "source": "Borkena",
+                "date": "2026-07-12T19:34:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thailand fire horror: At least 27 dead after midnight blaze tears through Bangkok pub; several injured",
+                "desc": "Rest of World News: A massive fire ripped through a pub in Thailand’s capital Bangkok early Monday, killing at least 27 people and leaving 63 others injured, officials sa.",
+                "image": "https://static.toiimg.com/thumb/msid-132351996,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/rest-of-world/thailand-fire-horror-at-least-27-dead-after-midnight-blaze-tears-through-bangkok-pub/articleshow/132351916.cms",
+                "source": "The Times of India",
+                "date": "2026-07-12T19:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Venezuela sets up temporary housing, as death toll rises",
+                "desc": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to set up temporary housing to shelter thousands of people left homeless.",
+                "image": "https://static.dw.com/image/77875893_6.jpg",
+                "url": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-hits-4300/a-77924690",
+                "source": "DW.com",
+                "date": "2026-07-12T19:28:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Breakfast briefing: 'Strategy' beating 'firepower'",
+                "desc": "China car exports flood global markets; helium access a new chokepoint; Japan PPI high & rising; eyes on yen; US data languid; freight rates rise again; UST 10yr at 4.56%; gold rises; oil holds on Strait closure; NZ$1 = 57.6 USc; TWI-5 = 61.5",
+                "image": "https://www.interest.co.nz/sites/default/files/2022-01/Breakfast1_Loop.gif",
+                "url": "https://www.interest.co.nz/economy/139344/china-car-exports-flood-global-markets-helium-access-new-chokepoint-japan-ppi-high",
+                "source": "Interest.co.nz",
+                "date": "2026-07-12T19:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Harry Kane defends Thomas Tuchel as he admits England have only shown 'glimpses' of best level at 2026 World Cup",
+                "desc": "Harry Kane has leaped to the defence of Thomas Tuchel after the England head coach delivered a scathing assessment of the Three Lions' quarter-final victory over Norway. Despite securing a place in the World Cup semi-finals, the German tactician was far from satisfied with the laboured performance in Miami.",
+                "image": "https://assets.goal.com/images/v3/getty-2285693182/crop/MM5DIMJRGM5DEMZRGQ5G433XMU5DAORSHAYA====/GettyImages-2285693182.jpg",
+                "url": "https://www.goal.com/en-gh/lists/harry-kane-defends-thomas-tuchel-admits-england-have-only-shown-glimpses-of-best-level-at-2026-world-cup/bltb21051f1c5059899",
+                "source": "Goal.com",
+                "date": "2026-07-12T19:15:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Harry Kane defends Thomas Tuchel as he admits England have only shown 'glimpses' of best level at 2026 World Cup",
+                "desc": "Harry Kane has leaped to the defence of Thomas Tuchel after the England head coach delivered a scathing assessment of the Three Lions' quarter-final victory over Norway. Despite securing a place in the World Cup semi-finals, the German tactician was far from satisfied with the laboured performance in Miami.",
+                "image": "https://assets.goal.com/images/v3/getty-2285693182/crop/MM5DIMJRGM5DEMZRGQ5G433XMU5DAORSHAYA====/GettyImages-2285693182.jpg",
+                "url": "https://www.goal.com/en/lists/harry-kane-defends-thomas-tuchel-admits-england-have-only-shown-glimpses-of-best-level-at-2026-world-cup/bltb21051f1c5059899",
+                "source": "Goal.com",
+                "date": "2026-07-12T19:14:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German Bundestag Opens Applications for 2027 International Parliamentary Scholarship (IPS)",
+                "desc": "The German Bundestag has announced the opening of applications for the 2027 International Parliamentary Scholarship (IPS), an internationally recognised",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/IPS-1.jpg",
+                "url": "https://www.globalsouthopportunities.com/2026/07/12/international-45/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-12T19:08:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fire at a pub in Bangkok kills at least 27 people,",
+                "desc": "A huge fire that engulfed a pub in Bangkok overnight has killed at least 27 people. Firefighters brought the blaze under control early on Monday.",
+                "image": "https://dims.apnews.com/dims4/default/9148367/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F12%2Fe9%2F4757b25fccdb8bded64a6a11d122%2Fdb513d0041b5497789a39854f84db8a8",
+                "url": "https://apnews.com/article/thailand-bangkok-fire-pub-0869e3d356d4be11c5633f9ceb3dc329",
+                "source": "AP News",
+                "date": "2026-07-12T19:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+                "desc": "General Jean Elysee Dao says 60 others also wounded as army retakes key town after nearly a week of fighting.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a53b24d52df-1783870029.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief",
+                "source": "Al Jazeera",
+                "date": "2026-07-12T19:04:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ship with notorious history gets new lease on life in our region",
                 "desc": "Having survived harsh environments, insolvency and even a run in with the Venezuelan navy, the reborn Heritage Adventurer is now running bucket-list trips in our region.",
@@ -1806,98 +1896,8 @@
                 "source": "Ecofin Agency",
                 "date": "2026-07-12T15:52:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ukrainian prime minister to step down as Zelenskyy announces government reshuffle",
-                "desc": "Ukrainian Prime Minister Yulia Svyrydenko stepped down as President Volodymyr Zelenskyy announced fresh changes to Ukraine’s government.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260712-Yulia-Svyrydenko-vl-1118a-df3ce5.jpg",
-                "url": "https://www.nbcnews.com/world/ukraine/ukrainian-prime-minister-step-zelenskyy-announces-government-reshuffle-rcna557059",
-                "source": "NBC News",
-                "date": "2026-07-12T15:48:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Syrian parliament convenes for first time following al-Assad’s overthrow",
-                "desc": "President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a53a1216dd9-1783865633.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow",
-                "source": "Al Jazeera",
-                "date": "2026-07-12T15:46:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is there a way out of Vladimir Putin’s forever war?",
-                "desc": "Editorial: Until Russia’s president is gone – and he is already 73 – a permanent standoff seems the best that can be hoped for",
-                "image": "https://static.independent.co.uk/2026/07/10/15/2026-07-10T130652Z_63151050_RC2YAMA4CAE1_RTRMADP_3_RUSSIA-PUTIN.JPG?trim=0,29,0,28&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/vladimir-putin-war-ukraine-exit-strategy-peace-b3013184.html",
-                "source": "The Independent",
-                "date": "2026-07-12T15:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"Somalia is My Second Country\": Djibouti Police Commander Arrives in Mogadishu",
-                "desc": "MOGADISHU – The Commander of the Djibouti National Police, Colonel Abdirahman Ali Kahin, has arrived in Mogadishu at the official invitation of his Somali counterpart, Major General Asad Osman Abdullahi, in a move that underscores the enduring security cooperation between the two neighbouring nations. The visiting police chief was received at Aden Adde International Airport by General Abdullahi and other senior Somali police officers, federal officials, and the Djiboutian Ambassador to Somalia. The warm reception reflected the close ties between the two countries, which share deep historical, cultural, and security links. Somalia and Djibouti have consistently reaffirmed their strategic partnership, with stability and prosperity in the region closely intertwined. Djibouti, which hosts regional and international security partners, has been a key supporter of Somalia’s state-building efforts. ‘Somalia is My Second Country’ Speaking to reporters upon arrival, Colonel Kahin described Somalia as his “second country” and said he planned to visit various regions during his stay to assess the security situation firsthand. “I will be here for a few days, and I intend to tour the regions and observe the situation. Many false things are said about Somalia,” he said. The Djibouti police chief also highlighted the shared history of the two nations, recalling the pivotal role Somalia played in Djibouti’s own liberation struggle. “Somalia is my second country. We know the efforts the Somali government has made. If Somalia did not exist, Djibouti would not have gained independence,” Kahin said. The two countries have a long history of security collaboration, with Djibouti providing training and support to Somali security forces as part of broader efforts to stabilise the Horn of Africa. Strengthening Law Enforcement Cooperation The visit follows years of close cooperation between the police forces of both countries. Somalia and Djibouti have previously agreed to strengthen cooperation in law […]",
-                "image": "https://ftlsomalia.com/wp-content/uploads/2026/07/Djibouti-Police-Commisionar.webp",
-                "url": "https://www.ftlsomalia.com/somalia-is-my-second-country-djibouti-police-commander-arrives-in-mogadishu/",
-                "source": "FTL Somalia",
-                "date": "2026-07-12T15:41:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eritrean Community Festival in Germany",
-                "desc": "Asmara, 12 July 2026 – The Eritrean community festival in Germany, officially opened by Mr. Fesehatsion Petros, Eritrea’s Ambassador to Italy, was conducted with enthusiasm.The two-day festival, attended by nationals from various German cities and ot",
-                "image": "https://shabait.com/wp-content/uploads/2026/07/shabait97369548-4-720x399.jpg",
-                "url": "https://shabait.com/2026/07/12/eritrean-community-festival-in-germany-4/",
-                "source": "Eritrea Ministry Of Information",
-                "date": "2026-07-12T15:34:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK police not looking for any other suspects in Ann Widdecombe murder probe",
-                "desc": "Police investigating the alleged murder of the former MP and MEP arrested a man in South Yorkshire.",
-                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTIxNDUyNDBcXFwvMi43OTE3MjYzMy0yLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYTA3M2NhZTk2ZGFlOWNmMWJmMmFiZjA1MWNkYTk1MTAyMTEzOTIyYSJ9/uk-police-not-looking-for-any-other-suspects-in-ann-widdecombe-murder-probe.jpg",
-                "url": "https://www.breakingnews.ie/world/police-arrest-28-year-old-man-on-suspicion-of-the-murder-of-ann-widdecombe-1925636.html",
-                "source": "BreakingNews.ie",
-                "date": "2026-07-12T15:34:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
-                "desc": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.",
-                "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-promo-pjft/12int-spain-fires-promo-pjft-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
-                "source": "The New York Times",
-                "date": "2026-07-12T15:31:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK updates visa requirement for Ghana and 32 African nations: See list",
-                "desc": "The UK Home Office has reaffirmed that citizens of Ghana and 32 other African countries must obtain a visa before travelling to or transiting through the United Kingdom. Read more.",
-                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/12072026/da49ab0d-da59-4581-8c10-24563fd37f5d.jpg?operations=crop(0:0:738:415),autocrop(1200:630)",
-                "url": "https://www.pulse.com.gh/story/uk-updates-visa-requirement-for-ghana-and-32-african-nations-see-list-2026071215175949345",
-                "source": "Pulse Ghana",
-                "date": "2026-07-12T15:29:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
-                "desc": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0c5d/live/b0df0c60-7e05-11f1-afb0-9dae682daff3.jpg",
-                "url": "https://www.bbc.com/news/articles/cn9403518jro",
-                "source": "BBC",
-                "date": "2026-07-12T15:22:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
-                "desc": "Willey is best known for covering the Vatican, and reported on five popes during his long career.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c5d/live/b0df0c60-7e05-11f1-afb0-9dae682daff3.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cn9403518jro",
-                "source": "BBC",
-                "date": "2026-07-12T15:22:52Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T07:01:10.898122Z"
+    "lastGlobalSync": "2026-07-13T07:41:09.214884Z"
 }
