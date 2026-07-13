@@ -4,6 +4,69 @@
     "en": {
         "business": [
             {
+                "title": "Food Double Cheeseburgers and Ranked Them",
+                "desc": "We tried 13 fast-food double cheeseburgers and ranked them based on taste and value.",
+                "image": "https://i.insider.com/6a51270cd9d92978fe6a5ab7?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/best-fast-food-double-cheeseburger-ranked-taste-test",
+                "source": "Business Insider",
+                "date": "2026-07-12T13:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Investor compensation fund swells to Sh6.8bn",
+                "desc": "Disclosures by the Capital Markets Authority (CMA) in its 2024/2025 annual report show that the fund’s interest income from investments such as bonds and Treasury bills grew by 25 percent to...",
+                "image": "https://www.businessdailyafrica.com/resource/image/5519614/landscape_ratio3x2/1200/800/29931786fba8944e33fcf03579724de2/JY/shamiah.jpg",
+                "url": "https://www.businessdailyafrica.com/bd/markets/investor-compensation-fund-swells-to-sh6-8-bn-5525044",
+                "source": "Business Daily",
+                "date": "2026-07-12T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "My 4 Worst REIT Picks: Lessons Learned The Hard Way",
+                "desc": "Learn investing lessons from my worst REIT picks (ARCP, MPW, SAFE, IIPR): avoid yield traps, duration risk, and bad management.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/864893078/image_864893078.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4921431-my-4-worst-reit-picks-lessons-learned-the-hard-way",
+                "source": "Seeking Alpha",
+                "date": "2026-07-12T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The move by Gil Shwed that the market overlooked",
+                "desc": "Share sales by insiders are not usually particularly significant, but changes in their patterns of sales can be very significant indeed.",
+                "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1707231922/COT_Pic/4040_113_jftbct_qeixai.jpg",
+                "url": "https://en.globes.co.il/en/article-the-move-by-gil-shwed-that-the-market-overlooked-1001549013",
+                "source": "Globes - Israel Business News",
+                "date": "2026-07-12T13:25:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2027 worst memory supply shortage in history: SK Hynix CEO",
+                "desc": "The global memory chip industry is heading for its most severe supply shortage in 2027, according to SK Hynix Chief Executive Kwak Noh-jung.",
+                "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/SK%20Hynix%20CEO.png",
+                "url": "https://www.thedailystar.net/news/tech-startup/news/2027-will-be-the-worst-memory-supply-shortage-history-sk-hynix-ceo-4222091",
+                "source": "The Daily Star",
+                "date": "2026-07-12T13:22:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tata Consultancy to deploy 8,900 AI engineers: report",
+                "desc": "TCS is deploying up to 8,900 forward-deployed AI engineers and pursuing acquisitions to combat a slowdown in its annualized AI revenue growth.",
+                "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Tata%20Consultancy%20Services%20Reuters.png",
+                "url": "https://www.thedailystar.net/news/tech-startup/news/tata-consultancy-deploy-8900-ai-engineers-report-4222066",
+                "source": "The Daily Star",
+                "date": "2026-07-12T13:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why psychological safety at work matters more than ever",
+                "desc": "Nurture psychological safety within your Dhaka workplace to combat post-pandemic burnout and isolation. Building peer support networks, launching mental health first aid programs, and prioritizing human connection effectively boosts employee well-being, trust, and organizational performance.",
+                "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Why%20psychological%20safety%20at%20work%20matters%20more%20than%20ever%20%20%20%20engin-akyurt-wJaMWPU_VYY-unsplash.jpg",
+                "url": "https://www.thedailystar.net/life-living/health-fitness/news/why-psychological-safety-work-matters-more-ever-4222081",
+                "source": "The Daily Star",
+                "date": "2026-07-12T13:17:58Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Could SpaceX Become the Next $3 Trillion Company?",
                 "desc": "Space Exploration Technologies is currently the seventh-largest company in the world by market capitalization.",
                 "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878075%2Fgettyimages-2151542518-5.jpg&w=1200&op=resize",
@@ -569,72 +632,63 @@
                 "source": "Punch Newspapers",
                 "date": "2026-07-11T23:50:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "PSX snaps winning streak, loses 3,130 points",
-                "desc": "PSX snaps winning streak, loses 3,130 points",
-                "image": "https://i.tribune.com.pk/media/images/psx1783558129-0/psx1783558129-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2617774/psx-snaps-winning-streak-loses-3130-points",
-                "source": "The Express Tribune",
-                "date": "2026-07-11T23:34:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ageing Gas Plants Undermine Nigeria's Power Sector",
-                "desc": "A new report reveals how ageing gas plants are severely undermining Nigeria's power sector, operating below capacity despite decades of investment. Learn m",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/Power-Grid.webp",
-                "url": "https://punchng.com/ageing-gas-plants-undermine-nigerias-power-sector-report/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-11T23:31:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI protesters march through S.F. to demand development pause",
-                "desc": "About 200 protesters marched through San Francisco, urging OpenAI, Anthropic and Google DeepMind to pause new AI model training.",
-                "image": "https://s.hdnux.com/photos/01/66/64/02/31146165/5/rawImage.jpg",
-                "url": "https://www.sfchronicle.com/tech/article/san-francisco-ai-protest-22340835.php",
-                "source": "San Francisco Chronicle",
-                "date": "2026-07-11T23:31:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Jersey clears plug-in solar for all, giving renters an easier way to cut electric bills",
-                "desc": "\"One of the most low cost accessible ways to get into solar.\"",
-                "image": "https://s.yimg.com/lo/mysterio/api/0ad8d59e96a0b630972ad100768a77dd4d09355d5cf4c15e35f242ef3492e813/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fdf6d67917f67fff8e906ee41c3282bf4",
-                "url": "https://www.yahoo.com/news/science/articles/jersey-clears-plug-solar-giving-232200165.html",
-                "source": "Yahoo",
-                "date": "2026-07-11T23:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "River Island recalls kids’ clothes in UK over serious chemical risk",
-                "desc": "A British retail chain has recalled children’s clothing items after it was revealed they posed a “serious chemical risk”. Fashion brand River Island has...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/YB266ELGHJGKLPCAVPIEE2RMA4.webp?auth=8b290e2eaf34e5ff8959c94d79cb2f9f8771561e466646d212d1db1032c5a8d0&width=1200&height=675&quality=70&smart=true",
-                "url": "https://www.nzherald.co.nz/world/river-island-recalls-kids-clothes-over-serious-chemical-risk/KJYRBUG7Z5C2RM4DMQVPREENUA/",
-                "source": "NZ Herald",
-                "date": "2026-07-11T23:14:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Still no agreement on making costly prenatal testing available through the public system",
-                "desc": "A proposal on giving greater access to prenatal testing has gone to the Department of Health for consideration.",
-                "image": "https://img2.thejournal.ie/article/7097638/river/?height=400&version=7097726",
-                "url": "https://www.thejournal.ie/prenatal-chromosonal-testing-public-system-7097638-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-11T23:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jet2 flight LS869 declared an emergency immediately after takeoff from Manchester",
-                "desc": "MANCHESTER, UK — A holiday flight bound for Spain was forced to make a dramatic U-turn and emergency landing at Manchester Airport late Tuesday night after the crew reported fumes in the cockpit. Jet2 flight LS869, operated by a Boeing 737-800 (registration G-JZBZ), departed Manchester’s runway 05R at 10:15 PM, heading for Palma de Mallorca. […]",
-                "image": "https://airlive.net/wp-content/uploads/2026/07/LS869.jpg",
-                "url": "https://airlive.net/emergency/2026/07/11/jet2-flight-ls869-declared-an-emergency-immediately-after-takeoff-from-manchester/",
-                "source": "airlive",
-                "date": "2026-07-11T23:05:41Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Asus launches lightweight AMD-powered laptop with 120Hz OLED display",
+                "desc": "The Asus a14 Air 2026 is now available to purchase in China. It's a lightweight laptop that weighs 990g, and it measures 14.9mm thick. The AMD Ryzen 9 8945H powers the system, and it has a 120Hz OLED display. It starts at CNY 6,799, about $1,003.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Asus-launches-lightweight-A14-Air-2026.jpg",
+                "url": "https://www.notebookcheck.net/Asus-launches-lightweight-AMD-powered-laptop-with-120Hz-OLED-display.1340803.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-12T13:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 smartphones under PHP 50K launched in the 1st half of 2026",
+                "desc": "With June quickly coming to a close, we think it’s time to look back and see what phones have been...",
+                "image": "https://www.yugatech.com/wp-content/uploads/2026/07/fe344b16-be09-4249-a255-fb34950368db.webp",
+                "url": "https://www.yugatech.com/guides/6-smartphones-under-php-50k-launched-in-the-1st-half-of-2026/",
+                "source": "YugaTech",
+                "date": "2026-07-12T13:34:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 Smartphones above PHP 50K (Q2 2026)",
+                "desc": "It seems like it was only yesterday when 2026 started, but now we’re already halfway through the year. Not surprisingly,...",
+                "image": "https://www.yugatech.com/wp-content/uploads/2026/07/smartphones-above-50k-2.webp",
+                "url": "https://www.yugatech.com/smartphones/smartphones-above-50k-q2-2026/",
+                "source": "YugaTech",
+                "date": "2026-07-12T13:34:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4 free apps I’d use before paying for Microsoft 365 again",
+                "desc": "Save $100 without missing a thing.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/claude-add-in-the-microsoft-word-open-on-a-asus-vivobook-s-14-flip.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/use-these-free-apps-instead-of-microsoft-365/",
+                "source": "MakeUseOf",
+                "date": "2026-07-12T13:30:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I finally fixed my Pixel's missed call problem with these simple settings tweaks",
+                "desc": "I haven't noticed an increase in spam calls",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/a-man-holding-a-blue-pixel-phone-with-an-incoming-call-screen-beside-him.png?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/i-finally-fixed-my-pixels-missed-call-problem-with-these-simple-settings-tweaks/",
+                "source": "Android Police",
+                "date": "2026-07-12T13:30:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I use these free Windows tools to find what’s slowing down my PC",
+                "desc": "Pinpoint the causes of your sluggish PC without opening your wallet.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/52679273174_c93a060c3c_o.jpg?w=1200&h=675&fit=crop",
+                "url": "https://www.makeuseof.com/use-these-free-windows-tools-to-find-whats-slowing-down-pc/",
+                "source": "MakeUseOf",
+                "date": "2026-07-12T13:16:17Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Moto G77 Power Launched in India With 7,000mAh Battery and Big Trade",
                 "desc": "Motorola launched the Moto G77 Power in India at ₹25,999 with a 7,000mAh battery and Dimensity 6400 chip, but the pricing and spec mix raise questions about its value.",
@@ -1210,63 +1264,99 @@
                 "source": "Notebookcheck",
                 "date": "2026-07-11T21:44:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "TennoCon 2026: Soulframe Goes To The Edge With Its Most Ambitious Updates Yet",
-                "desc": "Soulframe revealed a dark twist on its core mythos coming in the upcoming Warsongs Fable, as well as a new villain, mounts, and “vegan fishing.”",
-                "image": "https://s.yimg.com/lo/mysterio/api/04e0656e7e81e5f900cf07d26e351f2d815244ea8fa6effed713052f2b553742/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcg_magazine_431%2F3ee396994a4a64a6e337647a8dc9cbe2",
-                "url": "https://tech.yahoo.com/gaming/articles/tennocon-2026-soulframe-goes-edge-214054828.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-11T21:40:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Before €80 Pokemon Winds and Waves price leak, Game Freak wanted more expensive games",
-                "desc": "If Game Freak has its way, the Pokémon Winds and Waves price may stretch budgets. A Teraleak document exposes how long the studio has been pushing for price hikes. Earlier, Amazon Germany leaked the cost of the upcoming Nintendo Switch 2 game at €79.99.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PokemonWindsWavesBannerNew-1.jpg",
-                "url": "https://www.notebookcheck.net/Before-EUR80-Pokemon-Winds-and-Waves-price-leak-Game-Freak-wanted-more-expensive-games.1340532.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-11T21:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"This is our Spider-Man 3\" - Soulfame's Warsong update adds \"edgelord\" progression path later this year",
-                "desc": "A 30-minute trailer showed off the next major narrative beat for the fantastical open world action RPG.",
-                "image": "https://assetsio.gnwcdn.com/SF_TC2026_Screenshots_Nightmaiden_B.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/soulframe-warsong-trailer-spiderman-3-edgy-mount-fishing",
-                "source": "Eurogamer.net",
-                "date": "2026-07-11T21:27:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tony Vitello ejected from Giants-Rockies game after balk call",
-                "desc": "SAN FRANCISCO -- The first half didn’t go exactly to plan for Tyler Mahle, but the veteran right-hander will head into the All-Star break with some positive momentum after turning in one of his best starts of the season in the Giants’ 4-2 win over the Rockies on Saturday afternoon",
-                "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/t3txjimx56pjfa3ptgr2.jpg",
-                "url": "https://www.mlb.com/news/tony-vitello-ejected-from-giants-rockies-game-after-balk-call",
-                "source": "MLB.com",
-                "date": "2026-07-11T21:26:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Aims To Reduce The DRAM Supply Shortage With An Approach Only The Brave And The Bold Can Execute; Building Its Own Fabrication Plant",
-                "desc": "While some companies branch out to bring other suppliers into the fold, Huawei is reportedly building a DRAM supply chain to curb shortages",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Huawei-DRAM.jpg",
-                "url": "https://wccftech.com/huawei-building-its-own-dram-fabrication-plant-to-curb-shortages/",
-                "source": "Wccftech",
-                "date": "2026-07-11T21:21:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deals: the Samsung Galaxy S26 Ultra is under $1,000, the Galaxy S26 and S26+ are also on sale",
-                "desc": "Meanwhile, the Galaxy S25 FE is at its lowest price in 30 days. At the end of this month, Samsung’s attention will shift towards launching the new Galaxy Z...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-10/-952x498w6/gsmarena_us.jpg",
-                "url": "https://www.gsmarena.com/deals_the_samsung_galaxy_s26_ultra_is_under_1000_the_galaxy_s26_and_s26_are_also_on_sale-news-73666.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-11T21:19:02Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Israeli police: Soldier feared abducted in West Bank was with partner",
+                "desc": "Tel Aviv, July 9 (dpa/GNA) – Israeli police reported on Thursday, that they followed the car of a Palestinian man, carrying a female Israeli soldier into the West…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/07/israeli-police-soldier-feared-abducted-in-west-bank-was-with-partner/",
+                "source": "Ghana News Agency",
+                "date": "2026-07-12T13:38:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Cup reaches its climax - Ockham Weekly News Diary",
+                "desc": "The FIFA World Cup concludes in New Jersey, President Ramaphosa hosts Namibian counterpart, and Mandela Day is celebrated",
+                "image": "https://www.politicsweb.co.za/img/social.png",
+                "url": "https://www.politicsweb.co.za/news/world-cup-reaches-its-climax-ockham-weekly-news-diary",
+                "source": "Politicsweb",
+                "date": "2026-07-12T13:31:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
+                "desc": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a538b5e-1783860062.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko",
+                "source": "Al Jazeera",
+                "date": "2026-07-12T13:30:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China strongly deplores Japanese FM's statement on South China Sea",
+                "desc": "China strongly deplores and firmly opposes the statement made by Japan's Foreign Minister Toshimitsu Motegi ten years after the so-called \"2016 Arbitral Award on the South China Sea,\" a Chinese foreign ministry spokesperson said on Sunday.",
+                "image": "https://news.cgtn.com/news/2026-07-12/China-strongly-deplores-Japanese-FM-s-statement-on-South-China-Sea-1OIRqD4JNLy/img/6e1fe6a2e469479388cc4f8a778b1f50/6e1fe6a2e469479388cc4f8a778b1f50-1920.png",
+                "url": "https://news.cgtn.com/news/2026-07-12/China-strongly-deplores-Japanese-FM-s-statement-on-South-China-Sea-1OIRqD4JNLy/p.html",
+                "source": "news.cgtn.com",
+                "date": "2026-07-12T13:28:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man (30s) allegedly assaulted by eight masked men armed with bats in Co Antrim",
+                "desc": "The man was taken to hospital for treatment of serious injuries caused to his leg, head, wrist and arms.",
+                "image": "https://img2.thejournal.ie/article/7099394/river/?height=400&version=7099395",
+                "url": "https://www.thejournal.ie/man-assaulted-co-antrim-7099394-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-12T13:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "All Vessels Can Pass Through Strait of Hormuz Safely, U.S. Military Says",
+                "desc": "IDF says it killed two Hamas militants in the Gaza Strip over the weekend. Trump tells NBC the Strait of Hormuz is 'open'. High school principal threatens to suspend student for distributing military refusal leaflets",
+                "image": "https://img.haarets.co.il/bs/0000019f-5465-d38b-afbf-5f779adb0004/7a/ae/fc183e834a1598de3a5b925d4c44/200463.jpg?&width=1200&height=630&cmsprod",
+                "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-12/ty-article-live/u-s-says-iran-strikes-complete-as-iran-claims-it-destroyed-u-s-drone-base/0000019f-5465-d38b-afbf-5f779adb0004",
+                "source": "Haaretz",
+                "date": "2026-07-12T13:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Myanmar tells ASEAN detained Aung San Suu Kyi will be looked after, special envoy says",
+                "desc": "The top diplomats of the 11-member Association of Southeast Asian Nations met in person with their Myanmar counterpart on Sunday for the first time since the coup, in an effort to kick-start a five-year-old peace initiative that has failed to end a civil war gripping the country.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--dP8BONrw--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-12T115112Z_1_LYNXMPEM6B07L_RTROPTP_3_MYANMAR-SUUKYI.JPG?itok=VLsi0sG-",
+                "url": "https://www.channelnewsasia.com/asia/myanmar-asean-aung-san-suu-kyi-looked-after-6249191",
+                "source": "CNA",
+                "date": "2026-07-12T13:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qatar: Former Emir Sheikh Hamad bin Khalifa Al Thani dies",
+                "desc": "The former Emir led Qatar's transformation from a small Gulf state into one of the world's wealthiest nations and oversaw the launch of Al Jazeera and the country's World Cup bid.",
+                "image": "https://static.dw.com/image/77921967_6.jpg",
+                "url": "https://www.dw.com/en/qatar-former-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74/a-77922794",
+                "source": "DW.com",
+                "date": "2026-07-12T13:21:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Italian Smart Living 2026 Brings Design and Innovation to East Africa",
+                "desc": "ADDIS ABABA, ETHIOPIA – The second edition of Italian Smart Living 2026 brought together architects, developers, designers, investors, manufacturers and business leaders from Italy and across East Africa, creating a…",
+                "image": "https://www.ktpress.rw/wp-content/uploads/2026/07/IMG-20260711-WA0180.jpg",
+                "url": "https://www.ktpress.rw/2026/07/italian-smart-living-2026-brings-design-and-innovation-to-east-africa/",
+                "source": "KT PRESS -",
+                "date": "2026-07-12T13:20:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran targets Gulf countries after new U.S. attacks",
+                "desc": "The U.S. attacked Iran early Sunday over an Iranian strike on a vessel in the Strait of Hormuz that set the container ship ablaze. Iran responded with attacks targeting several countries in the Middle East, including Bahrain, Kuwait, Qatar, Oman and Jordan.",
+                "image": "https://i.cbc.ca/ais/c8afa2ab-22fb-4d58-93cd-e2149dfb7be9,1783861452306/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C157%2C3000%2C1687%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/iran-u-s-conflict-strait-july12-9.7267313",
+                "source": "CBC",
+                "date": "2026-07-12T13:18:37Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How Sheikh Hamad bin Khalifa Al Thani built Qatar’s soft power",
                 "desc": "Leader known as Qatar’s father emir was able to redefine his nation’s position on the political map of the Middle East.",
@@ -1806,98 +1896,8 @@
                 "source": "Goal.com",
                 "date": "2026-07-11T23:51:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "England player ratings vs Norway: Just leave it to Jude! Another Bellingham brace carries Three Lions into World Cup semi-finals and sends Erling Haaland home",
-                "desc": "Jude Bellingham was once again England's hero as the midfielder scored both goals to secure a 2-1 win over Norway in Saturday's World Cup quarter-final",
-                "image": "https://assets.goal.com/images/v3/blt1119a6c4705cd359/England%20Norway%20ratings%20GFX.jpg",
-                "url": "https://www.goal.com/en-ng/lists/england-player-ratings-norway-world-cup-jude-bellingham/blt23836ae6bfeb918f",
-                "source": "Goal.com",
-                "date": "2026-07-11T23:48:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bellingham leads England to World Cup semi-finals",
-                "desc": "Jude Bellingham scored twice, including the extra-time winner, as England beat Norway 2-1 to reach the World Cup semi-finals. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ce7e02a29c5d73b5b75b6155b534ca5d3f6004c7b1eabce2c45032101008e17f",
-                "url": "https://www.straitstimes.com/sport/football/jude-bellingham-leads-england-past-norway-to-world-cup-semi-finals-with-2-1-win",
-                "source": "The Straits Times",
-                "date": "2026-07-11T23:47:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Norway’s furious protests ignored as cable drama sends England through to World Cup semis",
-                "desc": "FIFA officials were forced to issue a statement before the game was even over after the crucial goal was controversially allowed to stand.",
-                "image": "https://images.7news.com.au/publication/C-22565827/996371c4102d3b6eeaae1960dd761fafb8520fc1-16x9-x0y0w1280h720.jpg?imwidth=1200",
-                "url": "https://7news.com.au/sport/soccer/norways-furious-protests-ignored-as-cable-drama-sends-england-through-to-world-cup-semis-c-22565827",
-                "source": "7NEWS",
-                "date": "2026-07-11T23:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. attacks Iran in response to vessel struck in Strait of Hormuz; Tehran strikes Gulf Arab states",
-                "desc": "UAE warned the public of an incoming missile and drone attack while Iran closed the critical waterway",
-                "image": "https://www.theglobeandmail.com/resizer/v2/FUCG2D6745DVTD5HXOY7O4HD6E.JPG?auth=7cbc637d90093394712762c121016e21e9867a8ed8a301973fb091ee72b0823f&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-iran-strait-of-hormuz-closed-after-vessel-unauthorized-route/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-11T23:45:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran strikes Gulf neighbours after new US attacks",
-                "desc": "Iran announced the closure of the Strait of Hormuz \"until further notice and until the end of American interventions in this region\".",
-                "image": "https://dam.mediacorp.sg/image/upload/s--oX-RBk-r--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-11T232134Z_1_LYNXMPEM6A0GA_RTROPTP_3_IRAN-CRISIS-SHIPPING-UN.JPG?itok=j_NkXPCm",
-                "url": "https://www.channelnewsasia.com/world/iran-strait-hormuz-closed-unauthorised-vessel-hit-6248636",
-                "source": "CNA",
-                "date": "2026-07-11T23:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran says it hit vessel in Strait of Hormuz, declares route closed; U.S. announces retaliatory strikes",
-                "desc": "Iran said it considers the Strait of Hormuz closed once again after a vessel using an \"unauthorized route\" was struck by a warning shot in the critical waterway, further jeopardizing the already tenuous ceasefire agreement with the United States.",
-                "image": "https://i.cbc.ca/ais/e353e7ee-82f0-4178-99a0-fddea0100288,1783813208772/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C251%2C5500%2C3093%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/iran-strait-of-hormuz-9.7267163",
-                "source": "CBC",
-                "date": "2026-07-11T23:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Congress recalls former NZ PM’s role in reviving ties with India in the 1980s as Modi elevates partnership",
-                "desc": "Congress highlights former NZ PM David Lange's pivotal role in strengthening India-New Zealand relations during the 1980s amid partnership elevation.",
-                "image": "https://th-i.thgim.com/public/incoming/3bp8sr/article71212251.ece/alternates/LANDSCAPE_1200/PTI06_24_2026_000060B.jpg",
-                "url": "https://www.thehindu.com/news/national/congress-recalls-former-nz-pms-role-in-reviving-ties-with-india-in-the-1980s-as-modi-elevates-partnership/article71210771.ece",
-                "source": "The Hindu",
-                "date": "2026-07-11T23:33:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran declares Strait of Hormuz closed, US renews strikes",
-                "desc": "Iran said it closed the Strait of Hormuz after a vessel travelled on an unapproved route and was struck.",
-                "image": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_94/t_crop_custom/q_86%2Cf_auto/d6017b19c2cdbbd7712c9f80ce110c48b9067cf1",
-                "url": "https://www.smh.com.au/world/middle-east/iran-declares-strait-of-hormuz-closed-until-the-end-of-us-interference-in-this-region-20260712-p60elg.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-11T23:30:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK police make new arrest over killing of former politician",
-                "desc": "The former UK politician and reality TV contestant was found dead in her isolated rural home in the village of Haytor on the edge of Dartmoor National Park.",
-                "image": "https://static.ffx.io/images/$zoom_0.1935%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4812a0914fec38114a4cc3ebd29d40b6da73f173",
-                "url": "https://www.smh.com.au/world/europe/police-make-new-arrest-over-killing-of-former-uk-minister-ann-widdecombe-20260712-p60eln.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-11T23:25:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Police in Britain make new arrest over Widdecombe killing",
-                "desc": "British police have arrested a 28-year-old man on suspicion of killing former politician Ann Widdecombe.",
-                "image": "https://dims.apnews.com/dims4/default/2db0f42/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F70%2Fd7a4fd3a49bd9463f07098a7bbb5%2F1cf06351c639461e82c8428fe35d8f73",
-                "url": "https://apnews.com/article/ann-widdecombe-british-politician-murder-investigation-d01ef397629ecb0149303fa19fd62106",
-                "source": "AP News",
-                "date": "2026-07-11T23:17:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T01:14:41.509304Z"
+    "lastGlobalSync": "2026-07-13T01:41:07.513021Z"
 }
