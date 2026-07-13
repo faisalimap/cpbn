@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "After a year of tariffs, automakers are still resistant to moving production to the US",
+                "desc": "Toyota announced last week it would do something other automakers have been reluctant to do – shift some production from Mexico to the United States.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2206558037.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/12/business/tariffs-automakers-new-factories",
+                "source": "CNN",
+                "date": "2026-07-12T16:00:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7-Hour Flights: Air Canada's 10 Longest Nonstop Airbus A220 Routes Revealed [Map]",
+                "desc": "Montreal serves as a key A220 launch point for the airline.",
+                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/05/c-gmzr-air-canada-airbus-a220-300-3-cropped.jpg?w=1600&h=900&fit=crop",
+                "url": "https://simpleflying.com/7-hour-flights-air-canadas-10-longest-a220-routes/",
+                "source": "Simple Flying",
+                "date": "2026-07-12T16:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why investors keep betting on America’s resilience and innovation",
+                "desc": "We’ve seen two significant anniversaries over the past few weeks. One was the 10th anniversary of the Brexit referendum, while the other was the 250th...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/XWIYRBFFMJB73N54GU7RFOKZ64.jpg?auth=68c1d78aec6cc1f1a159d2977c6f6072e4721b964bbb447f7949a39143a46f08&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/rotorua-daily-post/business/why-investors-keep-betting-on-americas-resilience-and-innovation-mark-lister/premium/CR7MB2HDVZAMPEXNW4ZVT657GA/",
+                "source": "NZ Herald",
+                "date": "2026-07-12T16:00:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 public notices to be aware of in Norfolk this week",
+                "desc": "A new housing development of up to 49 homes in Holt and a tilting bungalow that could be demolished in Stow Bardolph are among this weeks public…",
+                "image": "https://www.edp24.co.uk/resources/images/21163520.jpg?type=og-image",
+                "url": "https://www.edp24.co.uk/news/26267601.5-public-notices-aware-norfolk-week/",
+                "source": "EDP24",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Health care worker earning $143,000 can’t imagine 26 more years in such a stressful field",
+                "desc": "Michelle, 39, says there is a lot of pressure in the vital but ‘severely’ under-funded sector",
+                "image": "https://www.theglobeandmail.com/resizer/v2/WH5MARMDKZEXVMVYZNHMH3LAYA.jpg?auth=6550eb1dea93e62dfa3ed85b8818dd939929bd629ea5abe0c4ec7f7ae47a79a1&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/personal-finance/article-health-care-worker-earning-143000-cant-imagine-26-more-years-in-such-a/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks to Buy: 5 Stocks That Can Deliver Returns of Up to 69%; Do You Own Any?",
+                "desc": "Brokerage reports are widely followed by investors as they provide insights into a company's earnings outlook, growth prospects, and industry trends. Positive ratings and higher target prices often improve investor confidence and help identify stocks that could outperform over the coming months.",
+                "image": "https://tradebrains.in/wp-content/uploads/2024/11/market-42.jpg",
+                "url": "https://tradebrains.in/stocks-to-buy-5-stocks-that-can-deliver-returns-of-up-to-69-do-you-own-any/",
+                "source": "Trade Brains",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Banks shifting from OTPs to silent authentication’",
+                "desc": "Philippine banks and e-wallet providers are expected to increasingly replace text-based one-time passwords (OTPs) with silent and risk-based authentication as financial institutions strengthen safeguards against fraud.",
+                "image": "https://media.philstar.com/photos/2026/07/12/11_2026-07-12_17-54-10.jpg",
+                "url": "https://www.philstar.com/business/2026/07/13/2541657/banks-shifting-otps-silent-authentication",
+                "source": "Philstar.com",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Starlux’s Airsorayama Silver makes maiden flight to Tokyo",
+                "desc": "Bringing Taiwan to the World and the World to Taiwan",
+                "image": "https://img.taipeitimes.com/images/2026/07/13/p03-260713-webpic3ZZZ.jpg",
+                "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860672",
+                "source": "Taipei Times",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Learn from history",
+                "desc": "The BSP has recently published two books of national consequence.",
+                "image": "https://media.philstar.com/images/filler/business-logo-filler-thumbnail.jpg",
+                "url": "https://www.philstar.com/business/2026/07/13/2541656/learn-history",
+                "source": "Philstar.com",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PERA contributors surge nearly fivefold",
+                "desc": "The number of Filipinos enrolled in Personal Equity and Retirement Accounts (PERA) rose by nearly five times as of end-June, driven by a sharp increase in self-employed contributors and wider access to the voluntary retirement savings program.",
+                "image": "https://media.philstar.com/photos/2026/07/12/13_2026-07-12_17-51-27.jpg",
+                "url": "https://www.philstar.com/business/2026/07/13/2541655/pera-contributors-surge-nearly-fivefold",
+                "source": "Philstar.com",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "IN DETAIL: Stock market investors trade N220.6bn shares as banking sector dominate activity",
                 "desc": "Stock market investors traded a total of 3.64 billion shares worth N220.56 billion on the floor of the Nigerian Exchange (NGX) this week.",
                 "image": "https://www.thecable.ng/wp-content/uploads/2023/11/NGX-Stock-Exchange_TheCable-C-e1720792273912.jpeg",
@@ -542,99 +632,63 @@
                 "source": "Gasgoo",
                 "date": "2026-07-12T12:59:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Here is what it takes to start a profitable Akara business",
-                "desc": "Starting a roadside business selling akara in Nigeria now requires triple the minimum wage in startup capital, according to estimates from...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/Akara-Elepo-a-super-street-food-Nigeria-must-add-to-UNESCO-ICH-list.png",
-                "url": "https://businessday.ng/news/article/here-is-what-it-takes-to-start-a-profitable-akara-business/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-12T12:57:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ecobox Picks Vizag for ₹1,008 Cr Logistics Park",
-                "desc": "Visakhapatnam is steadily emerging as a major data centre and technology hub. In another boost for the city, Ecobox has announced a ₹1,008 crore",
-                "image": "https://cdn.gulte.com/wp-content/uploads/2026/07/Ecobox.jpg",
-                "url": "https://www.gulte.com/political-news/420731/ecobox-picks-vizag-for-%E2%82%B91008-cr-logistics-park",
-                "source": "Gulte",
-                "date": "2026-07-12T12:55:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fashion chains Onot and Jump file urgent application for stay of proceedings",
-                "desc": "The companies request to operate the 33 remaining stores for 60 days in order to urgently locate a buyer and save the jobs of about 100 employees.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729523",
-                "url": "https://www.jpost.com/business-and-innovation/all-news/article-902244",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-12T12:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How To Reduce The Tax Drag On Stock Returns",
-                "desc": "Reduce the tax drag on stock returns with strategies including ETFs, tax-loss harvesting, exchange funds, opportunity zones and buy-and-hold.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a53884469a47790fb68254a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/bill_stone/2026/07/12/how-to-reduce-the-tax-drag-on-stock-returns/",
-                "source": "Forbes",
-                "date": "2026-07-12T12:47:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tech Experts Wonder if AI is Moving too Fast for Humans to Fully Grasp it",
-                "desc": "As AI systems become more capable, experts are beginning to ask whether the technology is moving so quickly th...",
-                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/kevin-andrews.jpg",
-                "url": "https://vocm.com/2026/07/12/tech-experts-wonder-if-ai-is-moving-too-fast-for-humans-to-fully-grasp-it/",
-                "source": "VOCM",
-                "date": "2026-07-12T12:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VW Reforms Lack Clarity As China Threat Accelerates; Toyota Not Immune",
-                "desc": "Volkswagen investors might take comfort from the fact even Toyota is unlikely to emerge unscathed from China's assault on the auto industry.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a527710b0e69069bd87b432/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/neilwinton/2026/07/12/vw-reforms-lack-clarity-as-china-threat-accelerates-toyota-not-immune/",
-                "source": "Forbes",
-                "date": "2026-07-12T12:37:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sustainable tourism: Sheraton sustains practice with key green initiatives",
-                "desc": "In line with the clean energy and sustainable tourism practice focus of Marriott International, Sheraton Lagos Hotel has boosted its",
-                "image": "https://cdn.businessday.ng/2016/03/sheraton-hotel.jpg",
-                "url": "https://businessday.ng/life/article/sustainable-tourism-sheraton-sustains-practice-with-key-green-initiatives/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-12T12:36:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rare Skoda At The Price Of New Japanese SUV",
-                "desc": "If you are planning to buy the new Tekton but want even more performance and style, we have found something for you. Used Skoda Octavia RS",
-                "image": "https://motoroctane.com/wp-content/uploads/2026/07/Used-Skoda-Octavia-RS-2.png",
-                "url": "https://motoroctane.com/news/317329-rare-skoda-at-the-price-of-new-japanese-suv/amp",
-                "source": "MotorOctane",
-                "date": "2026-07-12T12:33:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Goldman Sachs Analyzes Chinese AI Model Industry, Highlights Cost and Competitive Advantages",
-                "desc": "Goldman Sachs dropped a comprehensive report on Friday dissecting the competitive positioning of China’s AI large language model industry, and the takeaway is p",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/goldman-sachs-analyzes-chinese-ai-model-industry-highlights-cost-and-competitive-advantages",
-                "source": "KuCoin",
-                "date": "2026-07-12T12:33:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is It Really Safe to Invest in AI Stocks and ETFs Right Now? Here's What the Experts Say.",
-                "desc": "AI stocks can still be a great long-term investment.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878303%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/12/safe-to-invest-ai-stocks-etf-now-expert/",
-                "source": "The Motley Fool",
-                "date": "2026-07-12T12:32:37Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition",
+                "desc": "Lenovo's ThinkPad X1 Carbon Gen 14 Aura Edition evolves the class-leading business laptop with an accessible, repairable internal redesign and even longer battery life.",
+                "image": "https://sm.pcmag.com/t/pcmag_uk/review/l/lenovo-thi/lenovo-thinkpad-x1-carbon-gen-14-aura-edition_417r.1200.jpg",
+                "url": "https://uk.pcmag.com/laptops/166122/lenovo-thinkpad-x1-carbon-gen-14-aura-edition",
+                "source": "PCMag UK",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Rare Pyrex Bowl Produced For Only A Year That Collectors Dream Of Finding At Thrift Stores",
+                "desc": "Pyrex’s Black Tulip casserole dish is a rare find for thrifters because its pattern of black flowers and pinwheels was only produced from 1956 to 1957.",
+                "image": "https://www.housedigest.com/img/gallery/the-rare-pyrex-bowl-produced-for-only-a-year-that-collectors-dream-of-finding-at-thrift-stores/l-intro-1783516873.jpg",
+                "url": "https://www.housedigest.com/2210434/rare-pyrex-dish-black-tulip-pattern-collectors-dream-of-finding-thrift-stores/",
+                "source": "House Digest",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition",
+                "desc": "Lenovo's ThinkPad X1 Carbon Gen 14 Aura Edition evolves the class-leading business laptop with an accessible, repairable internal redesign and even longer battery life.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/review/l/lenovo-thi/lenovo-thinkpad-x1-carbon-gen-14-aura-edition_6ccu.1200.jpg",
+                "url": "https://au.pcmag.com/laptops/118729/lenovo-thinkpad-x1-carbon-gen-14-aura-edition",
+                "source": "PCMag Australia",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic Illuminates LLM J-Space With J-Lens",
+                "desc": "Anthropic's J-space research reveals AI's hidden reasoning workspace without claiming the models possess consciousness or feelings.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a53b9112be3c2fba573e645/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/johnwerner/2026/07/12/anthropic-illuminates-llm-j-space-with-j-lens/",
+                "source": "Forbes",
+                "date": "2026-07-12T15:56:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony revives the RX10 with AI autofocus, 4K 120fps, and a longer-lasting battery",
+                "desc": "Sony's fifth-generation RX10 gets AI subject tracking from the Alpha series, 4K at 120fps, and 50 percent better battery life.",
+                "image": "https://s.yimg.com/lo/mysterio/api/2066ae9888e41433056ec4382b4658c7d542f51d39165423f1479b1f65c035a5/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_trends_973%2F6b44f0c07a5734de340fae2b4c3c620d",
+                "url": "https://tech.yahoo.com/cameras/articles/sony-revives-rx10-ai-autofocus-155601176.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-12T15:56:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two New Apple Pencils Reportedly Launching Next Year",
+                "desc": "Two new Apple Pencil models are in development for release alongside next-generation iPad Pro models next year, according to Bloomberg's Mark Gurman. Specifically, he said new versions of the lower-end Apple Pencil with a USB-C port and the higher-end Apple Pencil Pro are in the works.",
+                "image": "https://images.macrumors.com/t/ElaN4D5YBexY7Ou0bCReT0w2FIs=/1960x/article-new/2023/10/Apple-Pencil-USB-C-sliding-cap-feature.jpg",
+                "url": "https://www.macrumors.com/2026/07/12/two-new-apple-pencils-next-year-report/",
+                "source": "MacRumors",
+                "date": "2026-07-12T15:45:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ubisoft's Black Flag remake is a symptom, not a strategy",
                 "desc": "Assassin's Creed Black Flag Resynced is a good remake. It exists because Ubisoft cancelled six games and needs something to sell",
@@ -1210,63 +1264,99 @@
                 "source": "Android Police",
                 "date": "2026-07-12T12:00:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A new CRASH Clock measures the chance of satellite collisions, and it’s ticking down fast",
-                "desc": "Imagine a piece of space debris the size of a hockey puck slams into a Starlink satellite at about 10 kilometres per second. The kinetic...",
-                "image": "https://stuff.co.za/wp-content/uploads/2024/06/Satellite-header.png",
-                "url": "https://stuff.co.za/2026/07/12/crash-clock-measures-chance-of-satellite-collisions/",
-                "source": "Stuff South Africa",
-                "date": "2026-07-12T12:00:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In Its Eleventh Season, The Finals Is Better Than Ever",
-                "desc": "You can't escape from progress - The Finals has been constantly improving over its recent seasons, focusing on the new player experience and quality of life ...",
-                "image": "https://images.pushsquare.com/8e0f509527932/large.jpg",
-                "url": "https://www.pushsquare.com/features/hands-on-in-its-eleventh-season-the-finals-is-better-than-ever",
-                "source": "Push Square",
-                "date": "2026-07-12T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I used the Razr Fold and Pixel 10 Pro Fold. Only one keeps winning me over",
-                "desc": "The Motorola Razr Fold and Pixel 10 Pro Fold are two of the top book-style foldable options in the US — but there's only one I truly love.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-Fold-Google-Pixel-10-Pro-Fold-sunlight-scaled.jpg",
-                "url": "https://www.androidauthority.com/i-used-motorola-razr-fold-and-google-pixel-10-pro-fold-3685952/",
-                "source": "Android Authority",
-                "date": "2026-07-12T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "26 New Watches You Missed from Seiko, IWC, Timex, Casio and More",
-                "desc": "Keep time with the industry's most exciting new watches, including Seiko, IWC, Timex, Casio and more.",
-                "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/watches-you-missed-7-12-26-lead.webp",
-                "url": "https://www.gearpatrol.com/watches/watches-you-missed-july-12-2026/",
-                "source": "Gear Patrol",
-                "date": "2026-07-12T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to build a digital painting from the ground up using Photoshop and Blender",
-                "desc": "Fantasy freelancer Pierre Ignaszewski share his process.",
-                "image": "https://cdn.mos.cms.futurecdn.net/L8GtVF6e8ZFEDGfFcN6spB-2560-80.jpg",
-                "url": "https://www.creativebloq.com/art/digital-art/how-to-build-a-digital-painting-from-the-ground-up-using-photoshop-and-blender",
-                "source": "Creative Bloq",
-                "date": "2026-07-12T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If Android Auto keeps crashing, this update may finally save your commute",
-                "desc": "Android Auto 17.3 has arrived, and you can download it early",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/gemini-with-youtube-music-in-android-auto-2.avif?w=1200&h=675&fit=crop",
-                "url": "https://www.androidpolice.com/android-auto-update-fixes-crashes/",
-                "source": "Android Police",
-                "date": "2026-07-12T11:59:39Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Ukraine’s Zelenskiy dismisses Prime Minister Svyrydenko after only a year",
+                "desc": "Ukrainian President Volodymyr Zelenskiy said on ​Sunday he planned to replace Prime Minister Yulia Svyrydenko after only a year in office, triggering the resignation ‌of the government.",
+                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_5854be3a7b.jpg",
+                "url": "https://www.dailymirror.lk/breaking-news/Ukraines-Zelenskiy-dismisses-Prime-Minister-Svyrydenko-after-only-a-year/108-345438",
+                "source": "Daily Mirror - Sri Lanka",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Senators reaffirm arbitral ruling on West Philippine Sea",
+                "desc": "Senators yesterday renewed calls to uphold the landmark 2016 Arbitral Award, saying the ruling remains the country’s strongest legal basis for asserting its rights in the West Philippine Sea (WPS) amid China’s continuing maritime claims.",
+                "image": "https://media.philstar.com/photos/2026/07/12/7_2026-07-12_20-38-53.jpg",
+                "url": "https://www.philstar.com/headlines/2026/07/13/2541685/senators-reaffirm-arbitral-ruling-west-philippine-sea",
+                "source": "Philstar.com",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU, 14 nations reaffirm 2016 South China Sea ruling",
+                "desc": "Bringing Taiwan to the World and the World to Taiwan",
+                "image": "https://img.taipeitimes.com/images/2026/07/13/P01-260713-308.jpg",
+                "url": "https://www.taipeitimes.com/News/front/archives/2026/07/13/2003860650",
+                "source": "Taipei Times",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2,500 Pinoy seafarers stranded in Persian Gulf",
+                "desc": "Around 2,500 Filipino seafarers are still stranded in the Persian Gulf as the Middle East war between the US and Iran flared up anew.",
+                "image": "https://media.philstar.com/photos/2026/07/12/7_2026-07-12_19-53-33.jpg",
+                "url": "https://www.philstar.com/nation/2026/07/13/2541671/2500-pinoy-seafarers-stranded-persian-gulf",
+                "source": "Philstar.com",
+                "date": "2026-07-12T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
+                "desc": "But David Willey will be best remembered for his decades of work in Rome.",
+                "image": "https://cdn.radioafrica.digital/image/2026/07/19d72bae-302f-4193-9102-35dfd0679044.webp?1783896772434",
+                "url": "https://www.the-star.co.ke/news/world/2026-07-12-bbc-foreign-correspondent-willey-dies-aged-93",
+                "source": "the-star.co.ke",
+                "date": "2026-07-12T15:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lindsey Graham obituary",
+                "desc": "Long-serving South Carolina Republican senator who was an ally of Donald Trump and an ardent supporter of Ukraine",
+                "image": "https://i.guim.co.uk/img/media/0a0db0fe29170ca144263fa22b3c8ed54f136244/378_2_2269_1816/master/2269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75cfcfc058bd3de07e62e40f4ce52095",
+                "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-obituary",
+                "source": "The Guardian",
+                "date": "2026-07-12T15:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya’s Lamu Port Second-Chance Bid May Ride on Dangote’s Refinery Plan",
+                "desc": "Dangote’s planned 700,000-barrel-per-day refinery could give Kenya’s Lamu Port its first major industrial anchor and boost the LAPSSET trade",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/7af99db8e3cd57ce1d3153daa88abc44_S.jpg",
+                "url": "https://www.ecofinagency.com/news/1207-57301-kenya-s-lamu-port-second-chance-bid-may-ride-on-dangote-s-refinery-plan",
+                "source": "Ecofin Agency",
+                "date": "2026-07-12T15:52:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukrainian prime minister to step down as Zelenskyy announces government reshuffle",
+                "desc": "Ukrainian Prime Minister Yulia Svyrydenko stepped down as President Volodymyr Zelenskyy announced fresh changes to Ukraine’s government.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260712-Yulia-Svyrydenko-vl-1118a-df3ce5.jpg",
+                "url": "https://www.nbcnews.com/world/ukraine/ukrainian-prime-minister-step-zelenskyy-announces-government-reshuffle-rcna557059",
+                "source": "NBC News",
+                "date": "2026-07-12T15:48:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Syrian parliament convenes for first time following al-Assad’s overthrow",
+                "desc": "President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a53a1216dd9-1783865633.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow",
+                "source": "Al Jazeera",
+                "date": "2026-07-12T15:46:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is there a way out of Vladimir Putin’s forever war?",
+                "desc": "Editorial: Until Russia’s president is gone – and he is already 73 – a permanent standoff seems the best that can be hoped for",
+                "image": "https://static.independent.co.uk/2026/07/10/15/2026-07-10T130652Z_63151050_RC2YAMA4CAE1_RTRMADP_3_RUSSIA-PUTIN.JPG?trim=0,29,0,28&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/vladimir-putin-war-ukraine-exit-strategy-peace-b3013184.html",
+                "source": "The Independent",
+                "date": "2026-07-12T15:44:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "\"Somalia is My Second Country\": Djibouti Police Commander Arrives in Mogadishu",
                 "desc": "MOGADISHU – The Commander of the Djibouti National Police, Colonel Abdirahman Ali Kahin, has arrived in Mogadishu at the official invitation of his Somali counterpart, Major General Asad Osman Abdullahi, in a move that underscores the enduring security cooperation between the two neighbouring nations. The visiting police chief was received at Aden Adde International Airport by General Abdullahi and other senior Somali police officers, federal officials, and the Djiboutian Ambassador to Somalia. The warm reception reflected the close ties between the two countries, which share deep historical, cultural, and security links. Somalia and Djibouti have consistently reaffirmed their strategic partnership, with stability and prosperity in the region closely intertwined. Djibouti, which hosts regional and international security partners, has been a key supporter of Somalia’s state-building efforts. ‘Somalia is My Second Country’ Speaking to reporters upon arrival, Colonel Kahin described Somalia as his “second country” and said he planned to visit various regions during his stay to assess the security situation firsthand. “I will be here for a few days, and I intend to tour the regions and observe the situation. Many false things are said about Somalia,” he said. The Djibouti police chief also highlighted the shared history of the two nations, recalling the pivotal role Somalia played in Djibouti’s own liberation struggle. “Somalia is my second country. We know the efforts the Somali government has made. If Somalia did not exist, Djibouti would not have gained independence,” Kahin said. The two countries have a long history of security collaboration, with Djibouti providing training and support to Somali security forces as part of broader efforts to stabilise the Horn of Africa. Strengthening Law Enforcement Cooperation The visit follows years of close cooperation between the police forces of both countries. Somalia and Djibouti have previously agreed to strengthen cooperation in law […]",
@@ -1806,98 +1896,8 @@
                 "source": "Yahoo",
                 "date": "2026-07-12T13:01:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Zohran Mamdani riding high despite New York Post’s daily demonization",
-                "desc": "The media-savvy mayor’s popularity has only grown as the Murdoch-owned tabloid has thrown everything at him",
-                "image": "https://i.guim.co.uk/img/media/4f6e8ccbc702109d0e337e94d5c98b53f118bab3/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f83f573aa31193518162aae759ee02a1",
-                "url": "https://www.theguardian.com/us-news/2026/jul/12/zohran-mamdani-new-york-post",
-                "source": "The Guardian",
-                "date": "2026-07-12T13:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France and UK to increase staffing at border controls in effort to avert travel chaos",
-                "desc": "Disruption at Channel crossings expected to rise amid new fingerprint and facial recognition checks",
-                "image": "https://i.guim.co.uk/img/media/33a5230b9e32ad7c2a0b85a8126502e42a730e55/1320_0_6846_5477/master/6846.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cbd8bd0c9a055da36751108d411785f",
-                "url": "https://www.theguardian.com/uk-news/2026/jul/12/france-uk-increase-staffing-border-controls-travel-chaos",
-                "source": "The Guardian",
-                "date": "2026-07-12T12:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya still unprepared for major Ebola outbreak as review exposes critical health system gaps",
-                "desc": "An internal government review found Kenya has strengthened Ebola surveillance and laboratory capacity but still faces major weaknesses in patient care.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-11-104444.webp",
-                "url": "https://eastleighvoice.co.ke/health/378464/kenya-still-unprepared-for-major-ebola-outbreak-as-review-exposes-critical-health-system-gaps",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-12T12:57:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelenskyy announces government reshuffle, including new Ukrainian prime minister",
-                "desc": "Outgoing PM Yuliia Svyrydenko said she was proud of her work in office and that she remained \"ready to serve the Ukrainian state.\"",
-                "image": "https://images.euronews.com/articles/stories/09/83/52/54/1200x675_cmsv2_0f92a475-20f1-556c-b391-a7a35d66a72b-9835254.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/12/zelenskyy-announces-government-reshuffle-including-new-ukrainian-prime-minister",
-                "source": "Euronews",
-                "date": "2026-07-12T12:56:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Missing link? Why experts believe monkeys and apes are key to preventing a sixth mass extinction",
-                "desc": "Researchers are racing to find solutions to stave off such a catastrophic event, which would pose a major threat to the global food supply",
-                "image": "https://s.yimg.com/lo/mysterio/api/d8c43cc8612d3f9bc5429082ac7dc2f26b0a9d2db073f79fa999f07f39273c71/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F5501b90757dfe9813d2c5aa4b8bc6e2b",
-                "url": "https://malaysia.news.yahoo.com/missing-why-experts-believe-monkeys-124807565.html",
-                "source": "Yahoo",
-                "date": "2026-07-12T12:48:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Missing link? Why experts believe monkeys and apes are key to preventing a sixth mass extinction",
-                "desc": "Researchers are racing to find solutions to stave off such a catastrophic event, which would pose a major threat to the global food supply",
-                "image": "https://s.yimg.com/lo/mysterio/api/d8c43cc8612d3f9bc5429082ac7dc2f26b0a9d2db073f79fa999f07f39273c71/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F5501b90757dfe9813d2c5aa4b8bc6e2b",
-                "url": "https://www.yahoo.com/news/science/articles/missing-why-experts-believe-monkeys-124807565.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAALWh1ch1-0vGyTNra4i0TyY3yXyacfq1j6K--JBoJKYHzYd1xU3RlcbX0_x6MRLtlRjsf_2uyfuYsfGbGry_i6geZh78ZjDqo6UBiA2sQr3pcKjeTQmipa3wMvGWCHLYZBnCWNxlQn9cXW7NfPK4lGmRiZKq0AXk19vWMMQ8NCDB&_guc_consent_skip=1783861524",
-                "source": "Yahoo",
-                "date": "2026-07-12T12:48:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Missing link? Why experts believe monkeys and apes are key to preventing a sixth mass extinction",
-                "desc": "Researchers are racing to find solutions to stave off such a catastrophic event, which would pose a major threat to the global food supply",
-                "image": "https://static.independent.co.uk/2026/07/08/21/09/GettyImages-2213249691.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/science/sixth-extinction-prevention-monkeys-b3011535.html",
-                "source": "The Independent",
-                "date": "2026-07-12T12:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed",
-                "desc": "By Steve Holland, Parisa Hafezi, Phil Stewart and Yomna EhabWASHINGTON/DUBAI, July 12 (Reuters) - U.S. and Iranian forces exchanged heavy missile and drone assaults with Tehran targeting U.S. facilities in states across the Gulf on Sunday and saying it had again closed the vital Strait of Hormuz.A series of attacks between the U.S. and Iran over the past several days led President Donald Trump to declare the end of a ceasefire meant to halt the fighting that the U.S. and Israel began on February 28, though Trump has left the door open to continued negotiations.",
-                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-07/2026-07-11T232134Z_1_LYNXMPEM6A0GA_RTROPTP_4_IRAN-CRISIS-SHIPPING-UN.JPG?h=6a00fd0a&itok=qeVfHrGL",
-                "url": "https://www.al-monitor.com/originals/2026/07/us-strikes-iran-tehran-hits-gulf-states-says-strait-hormuz-closed",
-                "source": "Al-Monitor",
-                "date": "2026-07-12T12:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oman Proposes Two-Corridor Navigation Scheme for Strait of Hormuz",
-                "desc": "Oman has proposed a two-corridor navigation agreement for the Strait of Hormuz, suggesting unrestricted passage through Omani waters and authorized access through Iranian waters.",
-                "image": "https://static.kyivpost.com/storage/2026/07/12/f6c4261589dab2ae116630b92660b0ec.jpg?w=1200&q=90&f=jpg",
-                "url": "https://www.kyivpost.com/post/80119",
-                "source": "Kyiv Post",
-                "date": "2026-07-12T12:41:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Michael McCaul believes Ukraine can build Patriot missiles faster and better",
-                "desc": "Ukraine may have the opportunity not only to produce Patriot missiles on its own, but also to improve the manufacturing process based on its own combat experience.",
-                "image": "https://newsukraine.rbc.ua/static/img/p/a/patriot_gettyimages_1240315652_874ed9e5466254b22e4d3ae4901c01d2_1300x820_e147aea9f21ccd1b9ebdeefd65ff586a_650x410.jpg",
-                "url": "https://newsukraine.rbc.ua/news/us-congressman-believes-ukraine-can-build-1783859650.html",
-                "source": "RBC-Ukraine",
-                "date": "2026-07-12T12:34:10Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T03:41:09.377417Z"
+    "lastGlobalSync": "2026-07-13T04:01:10.450269Z"
 }
