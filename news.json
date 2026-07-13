@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Bank of Canada expected to hold as monetary policy dilemma fades",
+                "desc": "While economy is not firing on all cylinders, worries of recession have receded",
+                "image": "https://www.theglobeandmail.com/resizer/v2/5NUIL2S7GFDY7LOIPEBPSEYH3E.JPG?auth=28519917a5b9cddf8a98d6fcd0a0a526a2d4f0adcb0631ed77ab5374327356db&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-preview-july-2026/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-12T14:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Britain’s biggest community solar farm forced to shut over grid overload fears",
+                "desc": "Timing of Devon switchoff ‘could not be worse’, says board, as members face an estimated £2m in lost revenue",
+                "image": "https://i.guim.co.uk/img/media/be034339af604b096be1f46431dfd0e997105273/46_0_5092_4074/master/5092.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=715c7a0d1fd424c3fff2cbaaf5215f46",
+                "url": "https://www.theguardian.com/environment/2026/jul/12/solar-farm-forced-to-shut-derril-water-biggest-grid-overload-fears",
+                "source": "The Guardian",
+                "date": "2026-07-12T14:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dropee Question of the Day 13 July 2026: Earn Coins",
+                "desc": "Check the Dropee Question of the Day for 13 July 2026. See today’s question, answer update, rewards, and how to participate safely.",
+                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/dropee-question-of-the-day-answer-13-july-2026-8133.webp",
+                "url": "https://www.coingabbar.com/en/crypto-currency-news/dropee-question-of-the-day-answer-13-july-2026",
+                "source": "Coin Gabbar",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "B.C. researchers turn to wild yeast in bid to help struggling craft breweries",
+                "desc": "Researchers at Langara College and the University of British Columbia are studying wild yeast collected from across B.C. and the Pacific Northwest to see if it can be used to brew beer with unique flavours while reducing costs for breweries.",
+                "image": "https://i.cbc.ca/ais/1.4258901,1503504063000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C97%2C1920%2C1080%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/wild-yeast-research-beer-9.7266556",
+                "source": "CBC",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Thoroughly Preposterous Notion Of So-Called “Fed Independence”",
+                "desc": "The scholarly class must cease their pretense about the impossibility of “Fed independence.” They want no such thing.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fa41b5426255e06eef782/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/johntamny/2026/07/12/the-thoroughly-preposterous-notion-of-so-called-fed-independence/",
+                "source": "Forbes",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Energy projects drive investor confidence in Tanzania",
+                "desc": "The country's growing pipeline of investment projects reflects continued efforts to create a favourable business environment and attract both domestic and foreign capital into the energy sector",
+                "image": "https://thebizlens.co.tz/wp-content/uploads/2026/07/forum2-1024x682.jpg",
+                "url": "https://thebizlens.co.tz/2026/07/12/energy-projects-drive-investor-confidence-in-tanzania/",
+                "source": "The BizLens",
+                "date": "2026-07-12T13:58:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alphabet vs. Amazon vs. Microsoft: Which Is the Best Cloud Computing Stock to Buy Today?",
+                "desc": "One cloud computing stock stands out among the group.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878414%2Fgettyimages-1480633240.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/12/alphabet-vs-amazon-vs-microsoft-which-is-the-best/",
+                "source": "The Motley Fool",
+                "date": "2026-07-12T13:56:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Credit Market Is Sending A Warning On AI Stocks",
+                "desc": "CDS spreads are widening for hyperscalers and chip giants, signaling rising credit risk and AI investment cycle uncertainty. Click for an updated market outlook.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2248352514/image_2248352514.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4921397-credit-market-sending-warning-on-ai-stocks",
+                "source": "Seeking Alpha",
+                "date": "2026-07-12T13:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Future of Digital Ownership and Creative Economies in Web3",
+                "desc": "The digital collectibles industry continues to evolve beyond profile pictures and speculative trading, moving toward deeper utility, intellectual property expansion, and new forms of artistic experimentation. Recent developments from Claynosaurz, Doodles, and Beeple illustrate how leading Web3-native brands are redefining ownership, creativity, and community engagement in the NFT ecosystem. One of the most significant announcements […]",
+                "image": "https://www.tekedia.com/wp-content/uploads/2023/10/web3.jpg",
+                "url": "https://www.tekedia.com/future-of-digital-ownership-and-creative-economies-in-web3/",
+                "source": "Tekedia",
+                "date": "2026-07-12T13:53:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yii Unveils First Physical Skincare Counter at Facesss Along with Summer Essential Launch: Milk M Lotion",
+                "desc": "Experience Custom-Tailored Rituals Through a Unique Consultation Journey, Activate Your Skin's Internal Hydration Engine",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/12/tmt-newswire/pr-newswire/yii-unveils-first-physical-skincare-counter-at-facesss-along-with-summer-essential-launch-milk-m-lotion/2382939",
+                "source": "The Manila Times",
+                "date": "2026-07-12T13:53:34Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Food Double Cheeseburgers and Ranked Them",
                 "desc": "We tried 13 fast-food double cheeseburgers and ranked them based on taste and value.",
                 "image": "https://i.insider.com/6a51270cd9d92978fe6a5ab7?width=1200&format=jpeg",
@@ -542,99 +632,99 @@
                 "source": "Forbes",
                 "date": "2026-07-12T00:39:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Flights Cancelled Over Japan, Singapore, Malaysia, And Philippines As Tokyo, Kuala Lumpur, Manila, And More Cancel 176 And Delay 1,038 Flights, Disrupting Japan Airlines, AirAsia, Cebu Pacific, And Ot",
-                "desc": "Thousands of travelers paralyzed in Japan, Singapore, Malaysia and Philippines today as over 1200 cancellations and delays hit Tokyo, Manila, Kuala Lumpur, More",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Japan-Singapore-Malaysia-and-Philippines-flights-disrupted-due-to-Typhoon-Bavi.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/5ujjxio330jw/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-12T00:32:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crypto ETFs Attract $108.87M as Bitcoin Approaches $65K Resistance",
-                "desc": "Key InsightsCrypto ETFs attracted $108.87 million across Bitcoin and Ethereum products.BlackRock’s IBIT accounted for $86.83 million of Bitcoin ETF demand.Bitco",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/crypto-etfs-attract-108-87m-as-bitcoin-approaches-65k-resistance",
-                "source": "KuCoin",
-                "date": "2026-07-12T00:30:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBS' Matt Gutman Said He Got \"Completely Scammed\" By Phone Fraudster",
-                "desc": "CBS' Matt Gutman Said He Got \"Completely Scammed\" By Fake Bank Fraud Investigator: \"Scary Experience\"",
-                "image": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-2246112484.jpg?w=1024",
-                "url": "https://deadline.com/2026/07/cbs-matt-gutman-scammed-fake-bank-fraud-investigator-1236980003/",
-                "source": "Deadline",
-                "date": "2026-07-12T00:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AbbVie Is Already a Dividend King. Here's Why the $10.9 Billion Apogee Deal Could Make It a Dynasty",
-                "desc": "AbbVie inherited its status as a Dividend King, but it is building a strong foundation to continue the dividend streak.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876178%2F22_04_25-connected-puzzle-pieces-with-the-letters-ma-on-them-_gettyimages-1318465425.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/11/abbvie-is-already-a-dividend-king-heres-why-the-10/",
-                "source": "The Motley Fool",
-                "date": "2026-07-12T00:22:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Citi Rewards Visa to be discontinued on 15 October 2026",
-                "desc": "It's the final countdown.",
-                "image": "https://milelion.com/wp-content/uploads/2026/07/citi-rewards-card-farewell-1.jpg",
-                "url": "https://milelion.com/2026/07/12/citi-rewards-visa-to-be-discontinued-on-15-october-2026/",
-                "source": "The MileLion",
-                "date": "2026-07-12T00:10:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Property developers Mike Sullivan, Darren Ellis target $1b in projects by 2028, including Christchurch’s tallest new office block",
-                "desc": "The legacies of New Zealand’s great Wilkins & Davies and ASX-listed Scentre Group brought Mike Sullivan and Darren Ellis together. Standing outside their...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/ON7LNVYQKRBUZDA2O5XLQNI3AI.jpg?auth=e93cd5520ba6b42fa7a776cc84f3faa0d1405ead65875e29e8a8c4dd9bdb96ef&width=1200&height=675&quality=70&focal=1014%2C567&smart=false",
-                "url": "https://www.nzherald.co.nz/property/property-developers-mike-sullivan-darren-ellis-target-1b-in-projects-by-2028-including-christchurchs-tallest-new-office-block/premium/WJSDT42HUZAT5OEOHSGC7JUPZM/",
-                "source": "NZ Herald",
-                "date": "2026-07-12T00:02:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Auto companies find it difficult to monetise software services after complimentary term ends",
-                "desc": "Globally, nearly 350 million connected cars are on the road. They account for about a fourth of cars in India and that number is rising. Between 2022 and 2026, features such as remote vehicle access, remote AC control and battery management, driven largely by electric vehicles, have seen rapid growth.",
-                "image": "https://img.etimg.com/thumb/msid-132336380,width-1200,height-630,imgsize-1263974,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-companies-find-it-difficult-to-monetise-software-services-after-complimentary-term-ends/articleshow/132336329.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-12T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Plymouth council saves thousands after solar rollout",
-                "desc": "Two council solar systems in New Plymouth are expected to pay for themselves within six years.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/npdc-energy-and-infrastructure-adviser-mat-sycamore-left-and-CDZMDWCEGRCCJFS7IANPNLAW6M.png?auth=a6e860997d6ae0463bd54ebbfd9763ce924d7ab67379768cb7078a94835d634e&quality=70&width=600&height=315&focal=493%2C247",
-                "url": "https://www.1news.co.nz/2026/07/11/new-plymouth-council-saves-thousands-after-solar-rollout/",
-                "source": "1News",
-                "date": "2026-07-11T23:53:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Theparkpay Secures Canadian Payment Service Provider Licence",
-                "desc": "Nigerian fintech Theparkpay Technologies secures a Payment Service Provider licence in Canada, enhancing cross-border payment solutions for global business",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/Anthony-Akujobi-ThePark-Pay_1783798311-1023x630.webp",
-                "url": "https://punchng.com/theparkpay-secures-canadian-licence/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-11T23:50:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Balancing Boardroom Success with Impeccable S",
-                "desc": "Discover how Zenith Bank CEO Adaora Umeoji masterfully balances demanding corporate leadership with impeccable style, proving success and self-care go hand",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/Adaora_1783798432-701x630.webp",
-                "url": "https://punchng.com/how-adaora-umeoji-balances-boardroom-success-with-impeccable-style/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-11T23:50:28Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "How to Make Product Ads With AI for TikTok and YouTube-For (Almost) Free",
+                "desc": "One product photo, three AI tools, and about 20 minutes: Here's the full workflow for generating a sales video without a camera, a model, or a studio.",
+                "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/tiktok-logo-decrypt-style-03-gID_7.png",
+                "url": "https://decrypt.co/373290/how-to-make-ai-ads-tiktok-youtube-free",
+                "source": "Decrypt",
+                "date": "2026-07-12T14:01:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I stopped using Task Scheduler after switching to Docker containers on my home server",
+                "desc": "The automation should live with the programs it manages.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/docker-installation-wizard-on-hp-pavillion-laptop.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/stopped-using-task-scheduler-after-switching-to-docker-containers/",
+                "source": "MakeUseOf",
+                "date": "2026-07-12T14:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Review: Turtle Beach Pacific Skyline - The New Xbox Controller With GTA 6 Vibes",
+                "desc": "It certainly looks the part - Whenever companies contact us about reviewing new Xbox controllers, we obviously have to be quite picky about how many we cover...",
+                "image": "https://images.purexbox.com/2b4b00d4fa631/large.jpg",
+                "url": "https://www.purexbox.com/reviews/turtle-beach-pacific-skyline-the-new-xbox-controller-with-gta-6-vibes",
+                "source": "Pure Xbox",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Less is more with the Oura Ring 5",
+                "desc": "The $399 Oura Ring 5 is truly thinner and lighter, but it’s mostly the same user experience as the previous Oura Ring 4. The app is also a bit more cluttered.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+                "source": "The Verge",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Understanding multi-exposure photography: key terms explained, in-camera techniques, what to shoot and more",
+                "desc": "It was even available on film cameras, so I'm a bit late to the party",
+                "image": "https://cdn.mos.cms.futurecdn.net/WvwXAk3tZkfgP5QdYebp8o-1920-80.jpg",
+                "url": "https://www.techradar.com/cameras/photography/how-to-master-multi-exposure-photography",
+                "source": "TechRadar",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Right Way to Get Rid of Old Laptops, PCs and Printers (and It's Free)",
+                "desc": "Getting rid of old computers and printers responsibly is free, accessible and considerably simpler than most people assume.",
+                "image": "https://www.cnet.com/a/img/resize/dbff43b9aec33a7ba030a71627e94dbfdc4b29c9/hub/2025/04/09/cbcd5942-8195-4883-959e-0b8545b8db2a/gettyimages-77510867.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/computing/the-right-way-to-get-rid-of-old-laptops-pcs-and-printers-and-its-free/",
+                "source": "CNET",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 'Godfather of AI' has stark warning about superintelligence as he says 'AI is conscious'",
+                "desc": "Human safety is at the top of Geoffrey Hinton's priority list as AI continues to develop",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt2e7a9d7c6f405350/6a50b829572fa0ca97ab1514/Screenshot_2026-07-10_at_08.24.18.png",
+                "url": "https://www.ladbible.com/technology/superintelligence-warning-geoffrey-hinton-802474-20260710",
+                "source": "LADbible",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Speak Silently With An Ultrasound Probe",
+                "desc": "Speaking is much faster than typing, and while it's an increasingly convenient way to interact with computers, it's hardly private. Providing speech privacy in a way we haven't seen before is this pro...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/07/silent-speech.png",
+                "url": "https://hackaday.com/2026/07/12/speak-silently-with-an-ultrasound-probe/",
+                "source": "Hackaday",
+                "date": "2026-07-12T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Future of Digital Ownership and Creative Economies in Web3",
+                "desc": "The digital collectibles industry continues to evolve beyond profile pictures and speculative trading, moving toward deeper utility, intellectual property expansion, and new forms of artistic experimentation. Recent developments from Claynosaurz, Doodles, and Beeple illustrate how leading Web3-native brands are redefining ownership, creativity, and community engagement in the NFT ecosystem. One of the most significant announcements […]",
+                "image": "https://www.tekedia.com/wp-content/uploads/2023/10/web3.jpg",
+                "url": "https://www.tekedia.com/future-of-digital-ownership-and-creative-economies-in-web3/",
+                "source": "Tekedia",
+                "date": "2026-07-12T13:53:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quebec video game industry in limbo as studios cut back",
+                "desc": "In Quebec, the video game industry finds itself in a state of limbo as studios let go of workers, tax credits recede and consumers turn their attention elsewhere — even while some outfits find ways to thrive.",
+                "image": "https://i.cbc.ca/ais/d63cb5d2-654e-4ab8-a0a2-c55fee4761d4,1783857139346/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C157%2C2500%2C1406%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/montreal/quebec-video-game-industry-layoffs-9.7267282",
+                "source": "CBC",
+                "date": "2026-07-12T13:50:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Asus launches lightweight AMD-powered laptop with 120Hz OLED display",
                 "desc": "The Asus a14 Air 2026 is now available to purchase in China. It's a lightweight laptop that weighs 990g, and it measures 14.9mm thick. The AMD Ryzen 9 8945H powers the system, and it has a 120Hz OLED display. It starts at CNY 6,799, about $1,003.",
@@ -1174,99 +1264,99 @@
                 "source": "Nintendo Everything",
                 "date": "2026-07-11T22:03:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Pagani unveils manual-equipped Huayra 70 Derecho at Goodwood",
-                "desc": "Pagani has pulled the covers off its latest one-off, the Huayra 70 Derecho, with the car headlining the brand's appearance at Goodwood. Under the skin",
-                "image": "https://autotrader.co.nz/wp-content/uploads/2026/07/Hyuara-5.jpg",
-                "url": "https://autotrader.co.nz/news/pagani-unveils-manual-equipped-huayra-70-derecho-at-goodwood",
-                "source": "Auto Trader NZ",
-                "date": "2026-07-11T22:03:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pokémon GO: The 2016 phenomenon that redefined mobile gaming",
-                "desc": "A Newcastle mum better known as ZoëTwoDots has played Pokémon GO since its July 6, 2016 launch. She now earns a living from it.",
-                "image": "https://www.newcastleherald.com.au/images/transform/v1/crop/frm/37hLjTSaqSzzPeeWNnNkKKB/1932463f-d55f-4680-b473-269a3897fc22.jpg/r0_256_1080_823_w1200_h630_fmax.jpg",
-                "url": "https://www.newcastleherald.com.au/story/9301462/pokemon-go-the-2016-phenomenon-that-redefined-mobile-gaming/",
-                "source": "Newcastle Herald",
-                "date": "2026-07-11T22:03:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As Video Game Industry Burns, Warframe's Devs Aren't Taking Anything For Granted",
-                "desc": "“I feel very lucky to be working on this game and to have this dev team and the community that we’ve built, because I’m no stranger to the fact that it could all end tomorrow\"",
-                "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/WF_TauDemo_Screenshot_Vessel_3840x2160.png",
-                "url": "https://aftermath.site/warframe-tau-tennocon-2026-interview/",
-                "source": "Aftermath",
-                "date": "2026-07-11T22:01:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beyond Origin to 'Tau'... Warframe Confirms September 'Tenno VIP' World Tour in Seoul",
-                "desc": "©Digital ExtremesDigital Extremes successfully hosted its annual global festival, 'TennoCon 2026,' in London, Ontario, Canada, from July 10 to 11.",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/11/i1783807339024564.png",
-                "url": "https://www.invenglobal.com/articles/23675/beyond-origin-to-tau-warframe-confirms-september-tenno-vip-world-tour-in-seoul",
-                "source": "Inven Global",
-                "date": "2026-07-11T22:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Top 5 Reissues",
-                "desc": "Every brand has done it. Virtually every watchmaker established during the 20th century occasionally returns to its archives in search of the next model worthy",
-                "image": "https://en.worldtempus.com/themes/custom/worldtempus/favicon.ico",
-                "url": "https://en.worldtempus.com/article/top-5/top-5-reissues-82897.html",
-                "source": "en.worldtempus.com",
-                "date": "2026-07-11T22:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Warframe's Next Expansion Is the Epic Payoff to 13 Years of Storytelling",
-                "desc": "Warframe Tau might be Digital Extremes' version of Bungie's Destiny 2 expansion The Final Shape.",
-                "image": "https://www.cnet.com/a/img/resize/ed7a83803a3d7655dea4878fccee1454d87a153d/hub/2026/07/11/7bdb3604-c838-4661-9bbc-4cf4af8796d5/wf-taupromo-keyart-1080p-logo.png?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling/",
-                "source": "CNET",
-                "date": "2026-07-11T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Creating the 'Football Manager' of Esports: Esports Manager 2026",
-                "desc": "If you are a fan of the Football Manager series and esports, you have likely imagined it at least once: 'Wouldn't it be great if there were a similar game for esports?' The dream o...",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/11/r1783807171097499.png",
-                "url": "https://www.invenglobal.com/articles/23674/creating-the-football-manager-of-esports-esports-manager-2026",
-                "source": "Inven Global",
-                "date": "2026-07-11T21:57:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's What Makes The Nothing Ear 3a's New 'Audio Snapshot' Feature So Unique",
-                "desc": "The Nothing tech brand has introduced new Ear 3a earbuds, and they offer a rather unique \"Audio Snapshot\" feature described as being a screenshot for audio.",
-                "image": "https://www.bgr.com/img/gallery/heres-what-makes-the-nothing-ear-3as-new-audio-snapshot-feature-so-unique/l-intro-1783802403.jpg",
-                "url": "https://www.bgr.com/2212974/nothing-ear-3a-audio-snapshot-explained/",
-                "source": "bgr.com",
-                "date": "2026-07-11T21:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 Car Brands Bringing Back The Inline-6 Engine",
-                "desc": "Discover 4 car brands bringing back the inline-6 engine. We review how automakers like Mazda, Stellantis, Mercedes-Benz, and Land Rover use the tech.",
-                "image": "https://www.slashgear.com/img/gallery/4-car-brands-bringing-back-the-inline-6-engine/l-intro-1783425220.jpg",
-                "url": "https://www.slashgear.com/2209382/car-brands-bringing-back-inline-6-engine/",
-                "source": "SlashGear",
-                "date": "2026-07-11T21:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New retro-futuristic Casio G-Shock arrives with a Space Age aesthetic and a collectible time capsule case",
-                "desc": "Following last year's GM-5600 collaboration, Casio and C2H4 are back with another retro-futuristic G-Shock. This time, the GA-2100 gets the Space Age treatment, complete with a custom collectible packaging inspired by vintage industrial design.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-G-Shock-x-C2H4-GA-21001910.jpg",
-                "url": "https://www.notebookcheck.net/New-retro-futuristic-Casio-G-Shock-arrives-with-a-Space-Age-aesthetic-and-a-collectible-time-capsule-case.1340176.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-11T21:44:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Furious South Africans ‘arrest all foreigners on sight’ in angry protest",
+                "desc": "Demonstrators carrying ceremonial Zulu weapons have called on police to make more arrests across the nation.",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7036005.jpg",
+                "url": "https://www.express.co.uk/news/world/2228221/furious-south-africans-arrest-foreigners-angry-protest",
+                "source": "Daily Express",
+                "date": "2026-07-12T14:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Amazing' Norwegian shipwreck yields best-preserved Chinese porcelain cargo",
+                "desc": "An 18th-century shipwreck in Norway's Skagerrak Strait contains the best-preserved cargo of Chinese porcelain and luxury goods ever found in Northern Europe.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/NORWAY_MYSTERIOUS_SHIPWRECK_DISCOVERY_HISTORY_ARCHAEOLOGY_1.jpg",
+                "url": "https://www.foxnews.com/travel/spectacular-shipwreck-found-underwater-time-capsule-untouched-cargo-amazing-find",
+                "source": "Fox News",
+                "date": "2026-07-12T14:00:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What does China’s J-16 fighter jet in ‘beast mode’ mean for PLA Air Force patrols?",
+                "desc": "Extreme loadout configuration suggests a potential extension of the PLA Air Force’s tactical capabilities, Chinese military magazine says.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/10/8ed42be1-8f8d-4e79-a08c-c3cea363292d_9a7edae1.jpg?itok=tgLn_azv&v=1783685146",
+                "url": "https://www.scmp.com/news/china/military/article/3360170/what-does-chinas-j-16-fighter-jet-beast-mode-mean-pla-air-force-patrols",
+                "source": "South China Morning Post",
+                "date": "2026-07-12T14:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. launches new strikes on Iran’s largest island near the Strait of Hormuz",
+                "desc": "Strikes targeted Iranian military assets to reduce threat’s to commercial shipping, U.S. official says",
+                "image": "https://www.theglobeandmail.com/resizer/v2/WYML3MC5JZGOBN5JNH6A7UGOZI.jpg?auth=ea43c2866a6407f5aa11b8cb4cef30a48ecfd9509f57dec31c1e9def9823273c&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/world/article-iran-gulf-region-us-airstrikes-strait-of-hormuz/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-12T14:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US politicians and foreign leaders pay tribute to Lindsey Graham",
+                "desc": "Trump says Graham was ‘a true American patriot’ while Zelenskyy says he’s ‘deeply saddened’ by death",
+                "image": "https://i.guim.co.uk/img/media/0efe72f19d9f9b3069b1b545c785b173a2203db5/223_0_4375_3498/master/4375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecf65329782913e92aba6ef28c1e8e85",
+                "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-death-tributes",
+                "source": "The Guardian",
+                "date": "2026-07-12T13:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Malian army says about 100 terrorists neutralized in northern operations",
+                "desc": "DAKAR, July 9 (Xinhua/GNA) – The Malian forces have neutralized about 100 terrorists during operations carried out on Wednesday in the areas of Anefis and Tabrichat in northern…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/07/malian-army-says-about-100-terrorists-neutralized-in-northern-operations/",
+                "source": "Ghana News Agency",
+                "date": "2026-07-12T13:53:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Berlin school head ordered to pay fine for alleged false attack report",
+                "desc": "Berlin, July 9 (dpa/GNA) – A Berlin court has imposed a fine of on the head of a German-Arab school in Berlin, who is accused of making a…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/07/berlin-school-head-ordered-to-pay-fine-for-alleged-false-attack-report/",
+                "source": "Ghana News Agency",
+                "date": "2026-07-12T13:53:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fifteen dead in violence as South Sudan marks 15 years of independence",
+                "desc": "Nairobi, July 9, (dpa/GNA) – At least 15 people have been killed in attacks in South Sudan, as the country marks 15 years of independence.  Attacks took place…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/07/fifteen-dead-in-violence-as-south-sudan-marks-15-years-of-independence/",
+                "source": "Ghana News Agency",
+                "date": "2026-07-12T13:48:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israel rejects reports of humanitarian crisis in Gaza",
+                "desc": "Tel Aviv, July 9, (dpa/GNA) – Reports of a humanitarian crisis in the Gaza Strip are “extremely misleading,” a high-ranking official of the Israeli government organization responsible for…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/07/israel-rejects-reports-of-humanitarian-crisis-in-gaza/",
+                "source": "Ghana News Agency",
+                "date": "2026-07-12T13:48:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Who was the masked man?' Khamenei funeral mystery solved",
+                "desc": "Middle East News: A masked figure seen at the funeral of Iran’s slain Supreme Leader Ali Khamenei, which fuelled speculation that his successor and son Mojtaba Khamenei.",
+                "image": "https://static.toiimg.com/thumb/msid-132346278,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/middle-east/who-was-the-masked-man-khamenei-funeral-mystery-solved/articleshow/132346181.cms",
+                "source": "The Times of India",
+                "date": "2026-07-12T13:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Israeli police: Soldier feared abducted in West Bank was with partner",
                 "desc": "Tel Aviv, July 9 (dpa/GNA) – Israeli police reported on Thursday, that they followed the car of a Palestinian man, carrying a female Israeli soldier into the West…",
@@ -1806,98 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-12T00:24:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran shuts Strait of Hormuz amid fresh hostilities with US",
-                "desc": "Strait of Hormuz, a major route of petroleum products for Europe, Asia and some parts of the world, has been shut amid renewed hostilities between the United...",
-                "image": "https://dailytrust.com/wp-content/uploads/2026/04/Strait-of-Hormuz-1.jpg",
-                "url": "https://dailytrust.com/iran-shuts-strait-of-hormuz-amid-fresh-hostilities-with-us/",
-                "source": "Daily Trust",
-                "date": "2026-07-12T00:21:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Norway vs England live updates: Score, goals, highlights, stats from 2026 FIFA World Cup quarterfinals",
-                "desc": "England's defense limited Erling Haaland to 21 touches over 105 minutes before the Man City striker subbed out with an apparent leg injury.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/4865578/2147483647/strip/true/crop/3990x2244+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F52%2Fbdddc0914502aa10a4f08df05fff%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2285682195",
-                "url": "https://www.nbcsports.com/soccer/live/norway-vs-england-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup",
-                "source": "NBC Sports",
-                "date": "2026-07-12T00:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Norway vs. England player ratings as Jude Bellingham outshines Harry Kane in World Cup quarterfinal",
-                "desc": "England player ratings from a seismic evening in Miami that saw them seal their place in the World Cup semifinals.",
-                "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687999_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.in/football/story/_/id/49335098/norway-vs-england-player-ratings-jude-bellingham-leads-three-lions-world-cup-semifinal",
-                "source": "espn.in",
-                "date": "2026-07-12T00:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US strikes Iran for third time in a week after Revolutionary Guards close Strait of Hormuz",
-                "desc": "Iran earlier said it considered the Strait of Hormuz closed once again after a vessel used an \"unauthorised route\" through the strait, prompting the Revolutionary Guard to fire on the vessel.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/c12edffe2683e79c479e64970d13df5e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-12/iran-revolutionary-guard-closes-strait-hormuz-centcom-us-strikes/106906666",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-12T00:15:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bellingham rescues England again as Norway’s historic World Cup run ends",
-                "desc": "MIAMI, July 12 — Jude Bellingham was England's hero once more by scoring twice as the Three Lions came from behind to end Norway's historic run and reach the World Cup...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/12/351428.jpg",
-                "url": "https://www.malaymail.com/news/sports/2026/07/12/bellingham-rescues-england-again-as-norways-historic-world-cup-run-ends/227254",
-                "source": "Malay Mail",
-                "date": "2026-07-12T00:14:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lavrov Holds Talks with AUC Chair Mahmoud Youssouf",
-                "desc": "The main topics discussed were the current state of affairs and prospects for expanding relations with the African Union and its member states",
-                "image": "https://moderndiplomacy.eu/wp-content/uploads/2022/11/african-union.jpg",
-                "url": "https://moderndiplomacy.eu/2026/07/12/lavrov-holds-talks-with-auc-chair-mahmoud-youssouf/",
-                "source": "Modern Diplomacy",
-                "date": "2026-07-12T00:00:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The last great landscape",
-                "desc": "Why the future of the Sri Lankan elephant will define the country’s future Every civilisation is remembered not only for the monuments it built, but also for the landscapes it chose to preserve. Sri Lanka’s ancient reservoirs, majestic stupas and remarkable irrigation systems continue to inspire admiration centuries after they were constructed. Equally remarkable, though […]",
-                "image": "http://island.lk/wp-content/uploads/2026/07/2-1000x600.jpg",
-                "url": "https://island.lk/the-last-great-landscape/",
-                "source": "The island.lk",
-                "date": "2026-07-11T23:57:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Soccer-Bellingham double guides England to World Cup semis in extra-time win over Norway",
-                "desc": "MIAMI, July ⁠11 (Reuters) - Jude Bellingham scored twice ⁠as England beat Norway 2-1 ‌in an extra time thriller in their World Cup quarter-final in Miami ​Stadium on Saturday.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/12/4005702.jpg",
-                "url": "https://www.thestar.com.my/sport/football/2026/07/12/soccer-bellingham-double-guides-england-to-world-cup-semis-in-extra-time-win-over-norway",
-                "source": "The Star",
-                "date": "2026-07-11T23:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US military announces new strikes after Iran warning shot against vessel",
-                "desc": "Iran says it again considers the Strait of Hormuz closed after a vessel using an ‘unauthorized route’ was struck by a warning shot in the critical waterway — potentially further menacing the already tenuous ceasefire agreement with the United States.",
-                "image": "https://dims.apnews.com/dims4/default/6127087/2147483647/strip/true/crop/6524x4347+604+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F53%2F9d62d4d2e1f8071461de705f5d85%2Fb7137f829b9b4b62ba65cb367c8c33e7",
-                "url": "https://apnews.com/article/iran-united-states-trump-khamenei-funeral-533b52cf249314ba1d9b5f9a30b1ca43",
-                "source": "AP News",
-                "date": "2026-07-11T23:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "England player ratings vs Norway: Just leave it to Jude! Another Bellingham brace carries Three Lions into World Cup semi-finals and sends Erling Haaland home",
-                "desc": "Jude Bellingham was once again England's hero as the midfielder scored both goals to secure a 2-1 win over Norway in Saturday's World Cup quarter-final",
-                "image": "https://assets.goal.com/images/v3/blt1119a6c4705cd359/England%20Norway%20ratings%20GFX.jpg",
-                "url": "https://www.goal.com/en-ke/lists/england-player-ratings-norway-world-cup-jude-bellingham/blt23836ae6bfeb918f",
-                "source": "Goal.com",
-                "date": "2026-07-11T23:51:06Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T01:41:07.513021Z"
+    "lastGlobalSync": "2026-07-13T02:01:07.164974Z"
 }
