@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "10 Abnormality-Focused Two-Phase Deep Learning for Mammographic Lesion Segmentation: Strategies and Limitations",
+                "desc": "A 2-phase U-Net trained on abnormality-focused patches achieved a mean Dice coefficient of 0.58 and detected 77.8% of mammographic lesions on a 55-image test set, with 100% detection of large lesions but resolution-dependent failures for small abnormalities.",
+                "image": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/089b8085d760511190c330824e22a9be55415ecb-801x451.png",
+                "url": "https://www.cancernetwork.com/view/10-abnormality-focused-two-phase-deep-learning-mammographic-lesion-segmentation-strategies-limitations",
+                "source": "CancerNetwork",
+                "date": "2026-07-12T22:40:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SK hynix Debuts on Nasdaq, Says 'Wherever AI Is, SK hynix Will Be There'",
+                "desc": "SK hynix officially debuted on the Nasdaq on July 10 (local time), raising approximately 4",
+                "image": "https://cdn.thelec.net/news/photo/202607/12188_12291_102.png",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=12188",
+                "source": "thelec.net",
+                "date": "2026-07-12T22:36:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran",
+                "desc": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
+                "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12biz-hormuz-markets-1-vmkw/12biz-hormuz-markets-1-vmkw-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
+                "source": "The New York Times",
+                "date": "2026-07-12T22:24:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangote Group offers N500k reward in whistleblower initiative to curb illegal use of its trucks",
+                "desc": "Dangote Industries Limited (DIL) has introduced a whistleblower initiative as the conglomerate moves to clamp down on the \"illegal use\" of its trucks.",
+                "image": "https://www.thecable.ng/wp-content/uploads/2025/06/Dangote-refinery-CNG-truck-e1761224137720.jpg",
+                "url": "https://www.thecable.ng/dangote-group-offers-n500k-reward-in-whistleblower-initiative-to-curb-illegal-use-of-its-trucks/",
+                "source": "TheCable",
+                "date": "2026-07-12T22:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These four NZ banks didn’t change their mortgage test rates after last week's OCR hike",
+                "desc": "Despite the first Official Cash Rate increase in three years, ANZ NZ, ASB, BNZ and Kiwibank have left their mortgage serviceability test rates unchanged",
+                "image": "https://www.interest.co.nz/sites/default/files/2026-02/house%20insurance.jpg",
+                "url": "https://www.interest.co.nz/banking/139340/despite-first-official-cash-rate-increase-three-years-anz-nz-asb-bnz-and-kiwibank",
+                "source": "Interest.co.nz",
+                "date": "2026-07-12T22:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil prices rise as U.S. and Iran fight for control of Strait of Hormuz",
+                "desc": "The U.S. and Iran disputed whether Hormuz was open to ship traffic after trading strikes over the weekend.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108325557-1782233337462-gettyimages-2282803195-02222026qaboosport-1_1qpe2mek.jpeg?v=1782235596&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/12/oil-price-strait-hormuz-iran-trump-tanker.html",
+                "source": "CNBC",
+                "date": "2026-07-12T22:07:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Maple Leafs will haunt Larry Tanenbaum",
+                "desc": "Failure to hoist the Stanley Cup despite success in everything else in sports and business will torment the 81-year-old",
+                "image": "https://www.theglobeandmail.com/resizer/v2/5SMB2RCCMBBLDLYNVXP7YAKBZ4.JPG?auth=794272d8f43b710df1ab7ea8b70d8a1c597aa160079865a9cfc9d10ab563a7af&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/commentary/article-the-maple-leafs-will-haunt-larry-tanenbaum/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-12T22:03:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk and Sam Altman Are Fighting in Public Again",
+                "desc": "OpenAI CEO Sam Altman and SpaceX CEO Elon Musk do not like each other. That dislike was on full display on social media over the weekend.",
+                "image": "https://i.insider.com/6a53ff07daf4d560957bfefd?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/elon-musk-sam-altman-rivalry-apple-openai-lawsuit-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-12T22:03:07Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Japan aims to become rare earth powerhouse despite investment risks",
                 "desc": "TOKYO -- During a campaign speech for the House of Representatives election in February this year, Japanese Prime Minister Sanae Takaichi expressed hi",
                 "image": "https://cdn.mainichi.jp/vol1/2026/07/08/20260708p2a00m0bu001000p/0c10.jpg?1",
@@ -560,81 +632,99 @@
                 "source": "The Journal",
                 "date": "2026-07-12T19:01:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "These are the corporate gamblers who never waste a good energy crisis",
-                "desc": "Big oil’s secretive trading arms are having an extraordinary year, trading far more of the stuff than they actually produce.",
-                "image": "https://static.ffx.io/images/$zoom_0.2152%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_431%2C$y_195/t_crop_custom/q_86%2Cf_auto/44d88a5678b13be1695496adffed78e710586e8d",
-                "url": "https://www.smh.com.au/business/markets/these-are-the-corporate-gamblers-who-never-waste-a-good-energy-crisis-20260710-p60eao.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-12T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Denholm panel slams Labor changes to R&D tax incentives",
-                "desc": "An innovation panel led by the Tesla chairwoman has slammed Labor’s R&D tax changes, as leading biotechs warn the policy will smash cashflow and force growth overseas.",
-                "image": "https://static.ffx.io/images/$zoom_0.3162%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_206%2C$y_45/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8972cbd47bfe747855f1f952f383e361f61ae3cd",
-                "url": "https://www.afr.com/politics/federal/denholm-panel-slams-labor-changes-to-r-and-d-tax-incentives-20260708-p60dko",
-                "source": "AFR",
-                "date": "2026-07-12T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How a $75 million upgrade is transforming one of Australia’s most iconic coastlines",
-                "desc": "This Aussie town’s hotel scene isn’t keeping pace with tourism growth. At least one operator is trying to make it better, if not bigger.",
-                "image": "https://static.ffx.io/images/$zoom_0.2735020661157025%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_56/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/1da830d7112eddbd451bd0d28a4f23f0992694b7",
-                "url": "https://www.smh.com.au/traveller/travel-news/the-75-million-upgrade-transforming-one-of-our-most-epic-coasts-20260706-p60czb.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-12T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why hotel check-in still takes forever – but doesn’t have to",
-                "desc": "You’re waiting while the receptionist furrows their brow, taps a keyboard and … nothing. At least that’s the way it looks, but there’s a lot going on.",
-                "image": "https://static.ffx.io/images/$zoom_0.4995283018867924%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/6f5b88f030ca83edeeec149558c13ffd3c38d37e",
-                "url": "https://www.theage.com.au/traveller/reviews-and-advice/why-hotel-check-in-still-takes-forever-but-doesn-t-have-to-20260710-p60eaq.html",
-                "source": "The Age",
-                "date": "2026-07-12T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is the AI Bubble About to Burst?",
-                "desc": "Artificial intelligence is transforming business, but mounting evidence suggests its greatest value lies in supporting human expertise rather than replacing it.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-10_gubbvwsud8.jpg",
-                "url": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-12T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mainsgill - The Farm shop near Darlington, the A1(M) and A66",
-                "desc": "Mainsgill Farm Shop, located just 20 minutes from Darlington and close to the A1(M) and A66 has cemented its reputation as one of Yorkshire’s…",
-                "image": "https://www.thenorthernecho.co.uk/resources/images/21163975.jpg?type=og-image",
-                "url": "https://www.thenorthernecho.co.uk/news/26267864.mainsgill---farm-shop-near-darlington-a1-m-a66/",
-                "source": "The Northern Echo",
-                "date": "2026-07-12T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When managing your money, take a chatbot's 'confidence' with a grain of salt",
-                "desc": "According to a 2025 survey of 2,000 U.S. adults by Pearl.com, a professional services platform, 19% said they lost more than $100 by following financial advice from an AI chatbot.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2025-09-24T164042Z_309711084_RC2GYGASCF0Y_RTRMADP_3_US-ECONOMY-1024x683.jpg",
-                "url": "https://www.pbs.org/newshour/economy/when-managing-your-money-take-a-chatbots-confidence-with-a-grain-of-salt",
-                "source": "PBS",
-                "date": "2026-07-12T18:57:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "J Communities launches as parent platform, restructuring New Jersey Developments’ real estate portfolio",
-                "desc": "J Communities has announced the launch of its operations in Egypt’s real estate market as the parent company of the group, in a restructuring that places the Jamila and Jura projects under its direct management. New Jersey Developments will continue operating as a subsidiary during a transition period. The restructuring is part of the group’s",
-                "image": "https://images.dailynewsegypt.com/2026/07/j-communities-scaled.jpeg",
-                "url": "https://www.dailynewsegypt.com/2026/07/12/j-communities-launches-as-parent-platform-restructuring-new-jersey-developments-real-estate-portfolio/",
-                "source": "Dailynewsegypt",
-                "date": "2026-07-12T18:56:38Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Droga5's Dave Collins appointed head of strategy at Kerfuffle",
+                "desc": "\" ... independent, senior-led, fast on its feet, and built for impact.”",
+                "image": "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fit,w_630,f_auto/https%3A%2F%2Fcdn%2Eyaffa%2Ecom%2Eau%2Fadnews%2Flive%2Fimages%2FdmImage%2FSourceImage%2Fdave22%2Ejpg",
+                "url": "https://www.adnews.com.au/news/droga5-s-dave-collins-appointed-head-of-strategy-at-kerfuffle",
+                "source": "adnews.com.au",
+                "date": "2026-07-12T22:40:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft Makes $80 Game $4 for Limited Time",
+                "desc": "A Ubisoft game that normally costs $80 on Steam is currently available for just $4, thanks to a massive and limited time 95% discount.",
+                "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125",
+                "url": "https://comicbook.com/gaming/news/ubisoft-game-pc-steam-sale/",
+                "source": "ComicBook.com",
+                "date": "2026-07-12T22:37:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fujifilm Australia launches wide-angle cinema zoom lens",
+                "desc": "Filmmakers gain an ultra-wide option for the GFX ETERNA 55, with a matched lens swap setup aimed at faster large-format production.",
+                "image": "https://futurefive.com.au/uploads/story/2026/07/10/compatible_GF_098%2B%2B.jpg",
+                "url": "https://futurefive.com.au/story/fujifilm-australia-launches-wide-angle-cinema-zoom-lens",
+                "source": "futurefive.com.au",
+                "date": "2026-07-12T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Debian 13.6 security update patches over a hundred advisories in trixie",
+                "desc": "Debian 13.6 security update patches an expired Secure Boot certificate, curl, apache2, qemu and over a hundred advisories in trixie.",
+                "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/07123846/debian-1500.webp",
+                "url": "https://www.helpnetsecurity.com/2026/07/13/debian-13-6-security-update-released/",
+                "source": "Help Net Security",
+                "date": "2026-07-12T22:25:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call of Duty: Black Ops and Black Ops 2 have been released for PS4 and PS5",
+                "desc": "Back in June, Treyarch announced that Black Ops and Black Ops 2 were being ported to PlayStation by Iron Galaxy. Last week, Treyarch surprised us all by announcing that both games were now available on PS4 and PS5. Call of Duty: Black Ops and Black Ops 2 were released in 2010 and 2012, respectively and",
+                "image": "https://powerup-gaming.com/wp-content/uploads/2026/07/Call-of-Duty-–-Key-Art.jpg",
+                "url": "https://powerup-gaming.com/call-of-duty-black-ops-and-black-ops-2-have-been-released-for-ps4-and-ps5/",
+                "source": "powerup-gaming.com",
+                "date": "2026-07-12T22:23:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Experience TCL's latest TVs, home appliances at Home Court roadshow",
+                "desc": "TCL and Robinsons Appliances launch the Home Court: Fresh & Clean Roadshow, featuring interactive games, smart home innovations, and a CJ Cansino appearance.",
+                "image": "https://www.speed.ph/wp-content/uploads/TCL-Home-Court.jpg",
+                "url": "https://www.speed.ph/tcl-home-court-roadshow-robinsons-appliances/",
+                "source": "speed.ph",
+                "date": "2026-07-12T22:22:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Phoebe Bridgers Launches Itch.io Page With An Infinite Runner",
+                "desc": "The indie superstar breaks her hiatus with a RuneScape inspired single and a Subway Surfers style micro game",
+                "image": "https://kotaku.com/app/uploads/2026/07/bridgers-1200x675.jpg",
+                "url": "https://kotaku.com/phoebe-bridgers-launches-itch-io-page-with-an-infinite-runner-2000715034",
+                "source": "Kotaku",
+                "date": "2026-07-12T22:22:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thunderobot showcases Zero Air 16 Racing Edition with RTX 5070 in an ultra",
+                "desc": "Thunderobot showcases the Zero Air 16 Racing Edition with a 1.64kg carbon fiber chassis, RTX 5070 graphics, 2.5K 240Hz display, and 160W output.",
+                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Thunderobot-Zero-Air-16-Racing-Edition.jpg",
+                "url": "https://www.gizmochina.com/2026/07/12/thunderobot-zero-air-16-racing-edition-showcased/",
+                "source": "Gizmochina",
+                "date": "2026-07-12T22:20:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BenQ's latest monitor for photographers boasts incredible color space coverage",
+                "desc": "Yet it's still accessibly priced",
+                "image": "https://s.yimg.com/lo/mysterio/api/87bae775b4d4327febd621fe0dcf5fb7cc702a02a493be182e116a6cffbb1f34/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_camera_world_590%2F4bccdf098665670ef16189ec03b83cd7",
+                "url": "https://tech.yahoo.com/cameras/articles/benqs-latest-monitor-photographers-boasts-221503400.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-12T22:15:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SBG Systems launches new Pulse",
+                "desc": "SBG Systems announced the launch of the new Pulse-40 OEM the latest generation of its miniature tactical-grade Inertial Measurement Unit",
+                "image": "https://asiapacificdefencereporter.com/wp-content/uploads/2026/07/qeCFJLIKo9OZ.png",
+                "url": "https://asiapacificdefencereporter.com/sbg-systems-launches-new-pulse-40-oem/",
+                "source": "Asia Pacific Defence Reporter",
+                "date": "2026-07-12T22:14:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Quote of the day by Sun Microsystems CEO Scott McNealy: 'You have zero privacy anyway. Get over it' — an early declaration foreshadowing the modern era",
                 "desc": "Although the erosion of privacy feels more of a modern phenomenon, the earliest digital systems were a subtle sign of things to come",
@@ -1174,99 +1264,99 @@
                 "source": "Kotaku",
                 "date": "2026-07-12T17:57:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Fast selling Google Pixel 10 Pro deal knocks a massive $300 off the price, but stock is running out!",
-                "desc": "This is a great deal on the most high-end Google smartphone on the market - don't miss out while stock still lasts!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Fast-selling-Google-Pixel-10-Pro-deal-knocks-a-massive-300-off-the-price-but-stock-is-running-out.jpg",
-                "url": "https://www.pcguide.com/deals/fast-selling-google-pixel-10-pro-deal-knocks-a-massive-300-off-the-price-but-stock-is-running-out/",
-                "source": "PC Guide",
-                "date": "2026-07-12T17:54:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-                "desc": "Google Photos is getting a new “Video Remix” feature that can edit and transform videos in seconds, Google announced on Wednesday. The...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-12-173906000.jpg",
-                "url": "https://www.businessghana.com/site/news/technology/351904/Google-Photos-adds-a-new-AI-Video-Remix-tool",
-                "source": "BusinessGhana",
-                "date": "2026-07-12T17:51:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy S26+ deal slashes $200 off the MSRP of the latest generation smartphone",
-                "desc": "The S26 Plus variant is perfect for those who want a larger 6.7 inch screen but desire something cheaper than the Ultra model.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Samsung-Galaxy-S26-deal-slashes-200-off-the-MSRP-of-the-latest-generation-smartphone.jpg",
-                "url": "https://www.pcguide.com/deals/samsung-galaxy-s26-deal-slashes-200-off-the-msrp-of-the-latest-generation-smartphone/",
-                "source": "PC Guide",
-                "date": "2026-07-12T17:49:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Massive deal for 50% off the price of this 1500W Anker SOLIX S2000 Portable Power Station with solar panel compatibility",
-                "desc": "This is perfect for camping or as an emergency backup generator at home - grab it quick while this limited time offer lasts!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Massive-deal-for-50-percent-off-the-price-of-this-1500W-Anker-SOLIX-S2000-Portable-Power-Station-with-solar-panel-compatibility.jpg",
-                "url": "https://www.pcguide.com/deals/massive-deal-for-50-off-the-price-of-this-1500w-anker-solix-s2000-portable-power-station-with-solar-panel-compatibility/",
-                "source": "PC Guide",
-                "date": "2026-07-12T17:46:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Maps killed the Commute tab-here's what to use instead",
-                "desc": "Make your commute feel smoother every day.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/07/google-maps-route-showing-saved-trips-and-home-to-work-commute-icons.png?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/google-maps-best-feature-for-commuters-isnt-on-every-phone/",
-                "source": "How-To Geek",
-                "date": "2026-07-12T17:45:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft may make big changes to bring Android and Windows 11 closer together",
-                "desc": "Microsoft is reportedly working on several major changes to improve and expand upon Phone Link, deepening Android integration.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/microsoft-phone-link-to-windows-on-Android-scaled.jpg",
-                "url": "https://www.androidauthority.com/microsoft-more-deeply-integrating-android-in-windows-3686649/",
-                "source": "Android Authority",
-                "date": "2026-07-12T17:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Razer Kraken Kitty V2 BT Cinnamoroll Edition Wireless Headset Is Now Available In Malaysia",
-                "desc": "The Razer Kraken Kitty V2 BT Cinnamoroll Edition rounds up the Cinnamoroll Edition lineup, being the sole model to be available here in Malaysia via select retail channels.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/13012954/razerkrakenkittyv2btcinamorollcover.jpg",
-                "url": "https://pokde.net/system/audio/headphone/kraken-kitty-v2-bt-cinnamoroll",
-                "source": "Pokde.Net",
-                "date": "2026-07-12T17:32:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "on Video Leak Ahead of Launch, 7,100mAh Battery & 90W Charging Officially Confirmed ~ My Mobile India",
-                "desc": "Motorola Edge 70 Max leaks show premium design, Snapdragon 8 Gen 5, QHD+ 144Hz display, and a 7,100mAh battery with 90W wired & 25W magnetic wireless charging.",
-                "image": "https://www.mymobileindia.com/wp-content/uploads/2026/07/Motorola-Edge-70-Max-Live-Images-and-Hands-on-Video-Leak-Ahead-of-Launch-7100mAh-Battery-90W-Charging-Officially-Confirmed-1.webp",
-                "url": "https://www.mymobileindia.com/motorola-edge-70-max-live-images-and-hands-on-video-leak-ahead-of-launch-7100mah-battery-90w-charging-officially-confirmed/",
-                "source": "My Mobile India",
-                "date": "2026-07-12T17:32:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'TFT' Enchanted Wilds: The First Set Transitioning to Unreal Engine",
-                "desc": "@Riot GamesRiot Games' 'Teamfight Tactics (TFT)' is taking its first steps onto a new engine with its 18th set, 'Enchanted Wilds.' The game is moving to Unreal Engine, a process th...",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/12/r1783877665410270.jpeg",
-                "url": "https://www.invenglobal.com/articles/23691/tft-enchanted-wilds-the-first-set-transitioning-to-unreal-engine",
-                "source": "Inven Global",
-                "date": "2026-07-12T17:32:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Tensor G6 isn't a downgrade at all; it's Google admitting what really matters",
-                "desc": "Google ditched the CPU core race and the Pixel 11 is better for it",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/tensor-g6-chip-displayed-on-the-back-of-a-google-pixel-phone.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/tensor-g6-downgrade-is-smart/",
-                "source": "Android Police",
-                "date": "2026-07-12T17:30:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Mitch McConnell reveals fall led to hospitalization after weeks of silence",
+                "desc": "Senator says in statement he has undergone battery of tests after weeks of mounting speculation about his health",
+                "image": "https://i.guim.co.uk/img/media/22f1f98161ac082e257697ba97c064be66e567cf/0_33_713_570/master/713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=951731bed7ab6b14846edc38a7be2a81",
+                "url": "https://www.theguardian.com/us-news/2026/jul/12/mitch-mcconnell-hospitalization-fall",
+                "source": "The Guardian",
+                "date": "2026-07-12T22:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US claims Strait of Hormuz is open as heavy missile fire continues",
+                "desc": "The latest US strikes against Iran began about 7am on Monday (AEST), after a weekend in which the two countries exchanged heavy missile and drone assaults. The US insists Tehran does not control the Strait of Hormuz",
+                "image": "https://static.ffx.io/images/$zoom_0.641%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/2813248ae813837a0036dfa53071029cac9bf876",
+                "url": "https://www.smh.com.au/world/middle-east/us-insists-tehran-doesn-t-control-strait-of-hormuz-after-completing-wave-of-attacks-on-iran-20260713-p60eqk.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-12T22:37:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Horn Of Africa States: Banking Systems Behind The Curve But Not Behind The Times",
+                "desc": "Across the Horn of Africa States region, cranes dot city skylines, ports handle increasing volumes of cargo, mobile phones have become wallets, and a young",
+                "image": "https://www.eurasiareview.com/wp-content/uploads/2023/06/a-187.png",
+                "url": "https://www.eurasiareview.com/13072026-the-horn-of-africa-states-banking-systems-behind-the-curve-but-not-behind-the-times-oped/",
+                "source": "Eurasia Review",
+                "date": "2026-07-12T22:31:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Europe is Facing Up to the China Shock Now",
+                "desc": "Europe's relationship with China has reached a tipping point as economic and political pressures grow.",
+                "image": "https://www.thewirechina.com/wp-content/uploads/2026/07/China-EU-Summit-scaled.jpg",
+                "url": "https://www.thewirechina.com/2026/07/12/why-europe-is-facing-up-to-the-china-shock-now/",
+                "source": "The Wire China",
+                "date": "2026-07-12T22:27:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Displaced migrants face severe healthcare crisis amid xenophobic violence, warns MSF",
+                "desc": "Médecins Sans Frontières says thousands displaced by anti-migrant violence are struggling to access healthcare, shelter and medication, while the government insists conditions at repatriation centres remain humane.",
+                "image": "https://cdn.dailymaverick.co.za/i/UbLzh2BT0-wvihvbVfNjVV8knWs=/800x0/smart/filters:strip_exif()/file/attachments/orphans/2283590373_138444.jpg",
+                "url": "https://www.dailymaverick.co.za/article/2026-07-13-displaced-migrants-face-severe-healthcare-crisis-amid-xenophobic-violence-warns-msf/",
+                "source": "Daily Maverick",
+                "date": "2026-07-12T22:22:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strikes hit Kuwait oil platform as US",
+                "desc": "Fresh attacks have rocked Iran and Kuwait as Tehran and Washington squared off over the Strait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/a7a603d3b06547840e2bfcd41c89255e?impolicy=wcms_watermark_news&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-13/strikes-hit-kuwait-oil-platform-as-us-iran-war-continues/106908216",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-12T22:20:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. Sen. Mitch McConnell breaks silence, says he was hospitalized after a fall",
+                "desc": "U.S. Republican Sen. Mitch McConnell has finally broken his silence regarding his hospitalization, saying it was caused by a fall.",
+                "image": "https://i.cbc.ca/ais/a1f574f8-676a-42d5-9a26-54764dda5fdb,1783893151309/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/mcconnell-us-senator-fall-hospitalization-9.7267640",
+                "source": "CBC",
+                "date": "2026-07-12T22:16:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NZ 'should not be fazed' by any objection from China to Pacific defence alliance",
+                "desc": "The Foreign Minister says China might call it an act of provocation to join the Ocean of Peace Alliance, but New Zealand should not be fazed.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--chydjGXw--/t_tohu-badge-facebook/f_auto/q_auto/4JPGNRW_Winston_Peters_1_jpg",
+                "url": "https://www.rnz.co.nz/news/politics/707430/nz-should-not-be-fazed-by-any-objection-from-china-to-pacific-defence-alliance",
+                "source": "RNZ",
+                "date": "2026-07-12T22:12:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+                "desc": "Progressive congressman accuses Israeli military of ‘lying’ after settlers held up his van in the occupied West Bank.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-11T111536Z_1746176356_RC26AMAEG0Q6_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-KHANNA-1783889253.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks",
+                "source": "Al Jazeera",
+                "date": "2026-07-12T22:11:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Winston Peters blasts China missile test and ‘disgrace’ of India FTA confusion",
+                "desc": "Foreign Minister Winston Peters is concerned the Chinese Government now thinks it is normal to test nuclear capable missiles in the Pacific. Peters spoke to...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/NEA3R7SFCJDAVHETUTPKI4WRGA.jpeg?auth=d3dc0d7a9a1a3d1cbe99857b76197888f49527df81fbeab3c123a0bf18221cf4&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/nz/politics/most-concerning-most-unhelpful-and-most-unacceptable-winston-peters-blasts-china-missile-test-and-disgrace-of-india-fta-confusion/WZ7W7Z6I7JDCHH5B3GQGFAKJVQ/",
+                "source": "NZ Herald",
+                "date": "2026-07-12T22:10:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tanzania's richest man offers $100m for Dangote's planned Kenya refinery",
                 "desc": "Mohammed Dewji, Tanzania's richest businessman, has offered to invest $100 million in Aliko Dangote's planned oil refinery in Kenya...",
@@ -1806,98 +1896,8 @@
                 "source": "AOL.com",
                 "date": "2026-07-12T18:04:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "four lives, politics, and ignorance of the commentari",
-                "desc": "Let me say this plainly, people should not play politics with lives. The Oriire mass abduction is finally behind us.",
-                "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/08/pmnewslogo-75x50.gif",
-                "url": "https://pmnewsnigeria.com/2026/07/12/oriire-mass-kidnap-forty-four-lives-politics-and-ignorance-of-the-commentari/",
-                "source": "PM News Nigeria",
-                "date": "2026-07-12T18:01:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Von der Leyen says Europe has done most for Gaza. Can Ireland push for more during its presidency?",
-                "desc": "Ireland has a golden opportunity to make its voice heard. The big question is whether Europe will listen.",
-                "image": "https://img2.thejournal.ie/article/7090653/river/?height=400&version=7098140",
-                "url": "https://www.thejournal.ie/von-der-leyen-gaza-eu-presidency-7090653-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-12T18:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Heatwave fuels 127 fires in Algeria, 1 still burning",
-                "desc": "Sixty-three agricultural fires have been fully extinguished, one was brought under control and placed under monitoring, while another remained active in the eastern province of Setif, the department said in a statement.",
-                "image": "https://newvision-media.s3.amazonaws.com/cms/8919ab65-a90b-4f26-b710-8c11cd6c717b.jpg",
-                "url": "https://www.newvision.co.ug/category/world/heatwave-fuels-127-fires-in-algeria-1-still-b-NV_236941_072026",
-                "source": "NewVision.co.ug",
-                "date": "2026-07-12T18:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who will replace Trump ally Lindsey Graham in the US Senate?",
-                "desc": "The US president suggests he is considering a potential candidate to fill the late senator’s seat in South Carolina.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-11-27T130423Z_1022945707_RC2ODBAEV902_RTRMADP_3_ISRAEL-PALESTINIANS-ICC-USA-GRAHAM-1783875363.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate",
-                "source": "Al Jazeera",
-                "date": "2026-07-12T17:58:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
-                "desc": "US military has significantly increased the scale of attacks on Iran in recent days as the Strait of Hormuz standoff boils over.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T065638Z_1526201117_RC24CMAL4XTS_RTRMADP_3_IRAN-CRISIS-1783841308.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets",
-                "source": "Al Jazeera",
-                "date": "2026-07-12T17:54:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 'facade' of the U.S.-Iran ceasefire crumbles after after largest round of fighting in months",
-                "desc": "\"I have a feeling that this could go poop very fast, and that's the fear once you unleash the dogs of war.\"",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/9799100-e1783873597335.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/12/us-iran-ceasefire-facade-strait-of-hormuz-fighting-undeclared-naval-war/",
-                "source": "Fortune",
-                "date": "2026-07-12T17:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israel worries Turkey could work around US limits to F-35 if sale happens",
-                "desc": "Though the UAE and Saudi Arabia dropped their interest in F-35s after US legislation imposed limits on the aircraft, Israeli defense officials worry that Turkey won't be affected the same way.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729572",
-                "url": "https://www.jpost.com/israel-news/article-902268",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-12T17:49:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine's prime minister resigns, as Zelenskyy says country \"is changing its political strategy\"",
-                "desc": "Ukrainian Prime Minister Yulia Svyrydenko has stepped down as President Volodymyr Zelenskyy announced fresh changes to Ukraine's government.",
-                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/12/d73e7b10-024e-461e-8c69-2ea514adf7f3/thumbnail/1200x630/af2eb6a35293d465f5f9327520c61e11/ap26193507145099.jpg",
-                "url": "https://www.cbsnews.com/news/ukraine-prime-minister-resigns-yulia-svyrydenko-volodymyr-zelenskyy-politics/",
-                "source": "CBS News",
-                "date": "2026-07-12T17:46:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya’s construction industry set to hit Sh1.16 trillion as building boom gains pace",
-                "desc": "The value of the continent’s construction industry is projected to increase from nearly $190 billion (Sh24.5 trillion) in 2025 to more than $300 billion.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2024/06/Screenshot-2024-06-06-125844.jpg",
-                "url": "https://eastleighvoice.co.ke/business/378480/kenyas-construction-industry-set-to-hit-sh116-trillion-as-building-boom-gains-pace",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-12T17:46:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Sh299bn fees crashed Mau-Summit toll road deal",
-                "desc": "From year 14, Kenya was expected to cover the toll shortfall in the event that fewer cars use the highway, tilting the deal in favour of the consortium.",
-                "image": "https://www.businessdailyafrica.com/resource/image/5298726/landscape_ratio3x2/1200/800/44dc4e2d737f70d8ca1038e5261d2538/Te/mauroad.jpg",
-                "url": "https://www.businessdailyafrica.com/bd/economy/how-sh299bn-fees-crashed-mau-summit-toll-road-deal-5525204",
-                "source": "Business Daily",
-                "date": "2026-07-12T17:45:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T10:01:09.468495Z"
+    "lastGlobalSync": "2026-07-13T10:41:09.418045Z"
 }
