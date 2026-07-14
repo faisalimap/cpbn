@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch",
+                "desc": "SpaceX is targeting no earlier than July 16 for the next launch of its massive Starship rocket. Flight 13 will be the second launch of the vehicle's Version 3 configuration and will be similar to the mostly successful Flight 12.",
+                "image": "https://cdn.mos.cms.futurecdn.net/rJfDYZCkZHCgsNTJQ3cjs5-1920-80.jpg",
+                "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch",
+                "source": "Space",
+                "date": "2026-07-13T16:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A purpose bigger than business",
+                "desc": "Gilbert Gabriel Santa Maria, President and Chief Executive Officer of Metro Pacific Tollways Corporation, shares why joining the MVP Group meant joining a mission to serve through infrastructure and public service.",
+                "image": "https://media.philstar.com/photos/2026/07/14/g_2026-07-14_01-07-17.jpg",
+                "url": "https://qa.philstar.com/lifestyle/2026/07/14/2542016/purpose-bigger-business",
+                "source": "Philstar.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Buffalo Trace is opening a summer camp for bourbon lovers",
+                "desc": "If you’re the type of person who thinks fondly of weeks spent at sleepaway camp as a youth and you also love the sweet, mellow flavor of well-made bourbon, Buffalo Trace has the experience for you. This summer, the iconic Kentucky-based distillery is transforming its historic Frankfort campus into a summer camp for whiskey fans. […]",
+                "image": "https://www.themanual.com/tachyon/sites/9/2026/07/Camp-Buffalo-Trace-3.jpg?resize=1200%2C630",
+                "url": "https://www.themanual.com/food-and-drink/buffalo-trace-is-opening-a-summer-camp-for-bourbon-lovers/",
+                "source": "The Manual",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More GOCCs eyed for P1 billion dividend club",
+                "desc": "Finance Secretary Frederick Go hopes more state-run firms will break into the P1-billion dividend mark next year, with remittances expected to hit a record P147.15 billion by year-end.",
+                "image": "https://media.philstar.com/photos/2026/07/13/frederick-go-22025-11-2618-39-52_2026-07-13_19-17-02.jpg",
+                "url": "https://www.philstar.com/business/2026/07/14/2541902/more-goccs-eyed-p1-billion-dividend-club",
+                "source": "Philstar.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IEA Chief Slams Europe’s Slow Electrification as Energy Crisis Deepens",
+                "desc": "IEA chief Fatih Birol says Europe's slow shift from fossil fuels after 2022 is hurting competitiveness, as the UK faces its own North Sea reckoning.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-13_yzjwpfosij.jpg",
+                "url": "https://oilprice.com/Energy/Energy-General/IEA-Chief-Slams-Europes-Slow-Electrification-as-Energy-Crisis-Deepens.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brazil bets on more beef exports to Philippines",
+                "desc": "Brazil, one of the top suppliers of beef in the Philippines, is betting on the country’s rising urban population and growing incomes to drive the expansion of its beef exports, an industry group said.",
+                "image": "https://media.philstar.com/photos/2026/07/13/beef2024-08-0818-48-30_2026-07-13_19-50-17.jpg",
+                "url": "https://www.philstar.com/business/2026/07/14/2541908/brazil-bets-more-beef-exports-philippines",
+                "source": "Philstar.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MGEN inaugurates world’s largest solar farm facility",
+                "desc": "Meralco PowerGen Corp. is marking a major milestone today with the inauguration of Phase 1 of the world’s largest integrated solar farm, a project expected to help bring down electricity costs in Luzon.",
+                "image": "https://media.philstar.com/photos/2026/07/13/mgen_2026-07-13_20-08-14.jpg",
+                "url": "https://www.philstar.com/business/2026/07/14/2541911/mgen-inaugurates-worlds-largest-solar-farm-facility",
+                "source": "Philstar.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SEC overhauling rules on credit rating agencies",
+                "desc": "The Securities and Exchange Commission  plans to overhaul rules governing credit rating agencies (CRAs) to ensure a more comprehensive accreditation and supervisory regime as part of a broader capital market development agenda.",
+                "image": "https://media.philstar.com/photos/2026/07/13/52026-03-2919-54-402026-06-1819-57-46_2026-07-13_19-26-10.jpg",
+                "url": "https://www.philstar.com/business/2026/07/14/2541904/sec-overhauling-rules-credit-rating-agencies",
+                "source": "Philstar.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Beyond AI adoption: Building human-centered organizations",
+                "desc": "Artificial intelligence is no longer an emerging technology waiting to prove its value.",
+                "image": "https://media.philstar.com/photos/2026/07/13/ai_2026-07-13_19-01-20.jpg",
+                "url": "https://www.philstar.com/business/2026/07/14/2541897/beyond-ai-adoption-building-human-centered-organizations",
+                "source": "Philstar.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "At least 10 expected to bid for NSCR - DOTr",
+                "desc": "The country’s largest infrastructure project – the North-South Commuter Railway – is expected to receive at least 10 offers from local and foreign investors for its P229-billion concession on operations and maintenance.",
+                "image": "https://media.philstar.com/photos/2026/07/13/162025-05-0420-22-232025-10-1618-54-35_2026-07-13_20-16-33.jpg",
+                "url": "https://www.philstar.com/business/2026/07/14/2541912/least-10-expected-bid-nscr-dotr",
+                "source": "Philstar.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Dostarlimab Yields Sustained Complete Responses in dMMR/MSI-H Rectal Cancer",
                 "desc": "Interim data from the phase 2 AZUR-1 trial showed sustained clinical complete responses with dostarlimab monotherapy in dMMR/MSI-H locally advanced rectal cancer.",
                 "image": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/c95b35c7e60144b3519d138a9f74af768785c605-3840x2160.jpg",
@@ -542,99 +632,99 @@
                 "source": "Trefis",
                 "date": "2026-07-13T12:56:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nigerian shoppers embrace Facebook, AI faster than most of the world - Report",
-                "desc": "Nigeria's online shoppers are buying through Facebook and leaning on artificial intelligence at rates that outstrip most of the 29...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/online-shoppers-1.png",
-                "url": "https://businessday.ng/companies/article/nigerias-shoppers-embrace-facebook-ai-faster-than-most-of-the-world-report/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-13T12:52:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MeCure Industries seeks N50bn capital raise as profit jumps 177%",
-                "desc": "MeCure Industries Plc has proposed increasing its capital raising programme to N50 billion from N30 billion as the pharmaceutical...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/57c829a8-e698-45dd-b5c1-2ccff4451777.jpg",
-                "url": "https://businessday.ng/companies/article/mecure-industries-seeks-n50bn-capital-raise-as-profit-jumps-177/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-13T12:52:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Guardforce AI to Present Live, Answer Questions, at Skyline Signature Series™ on July 22, 2026, at 11:00 AM ET",
-                "desc": "Individual and institutional investors, advisors, and analysts are invited to attend",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134947.png",
-                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/guardforce-ai-to-present-live-answer-questions-at-skyline-signature-series-on-july-22-2026-at-1100-am-et/2383361",
-                "source": "The Manila Times",
-                "date": "2026-07-13T12:39:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BOSS Money App Crowned #1 Digital Money Transfer Service for Second Consecutive Year",
-                "desc": "FXC Intelligence ranks BOSS Money first among digital cross-border payment providers based on stellar customer reviews",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134943.jpg",
-                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/boss-money-app-crowned-1-digital-money-transfer-service-for-second-consecutive-year/2383357",
-                "source": "The Manila Times",
-                "date": "2026-07-13T12:39:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pliant Therapeutics Names Flavia Borellini, Ph.D. and Robert Iannone, M.D., M.S.C.E. to Board of Directors",
-                "desc": "Appointments bring global oncology drug development experience",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134942.jpg",
-                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/pliant-therapeutics-names-flavia-borellini-phd-and-robert-iannone-md-msce-to-board-of-directors/2383356",
-                "source": "The Manila Times",
-                "date": "2026-07-13T12:39:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OPC incubator launched to foster business transformation",
-                "desc": "One-Person Company (OPC) refers to solo entrepreneurs, small teams, or a dedicated squad from an enterprise that deeply embeds artificial intelligence (AI) technologies, especially AI agents – smart assistants that can autonomously interact with humans, systems, and other agents to execute tasks – into their product development and operations.",
-                "image": "https://www.chinadailyhk.com/upload/main/image/2026/07/13/143ac9495eef1eff6052446c6de56081.png",
-                "url": "https://www.chinadailyasia.com/hk/article/636369",
-                "source": "chinadailyasia.com",
-                "date": "2026-07-13T12:38:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa Tech 50 Index enters African exchange activation phase after LSE launch",
-                "desc": "Indexa Exchange Group will on Wednesday July 15 activate the Africa Tech 50 Index - AT50 - with the Johannesburg Stock Exchange (JSE) in...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Untitled-design-2026-07-13T131453.435-1.png",
-                "url": "https://businessday.ng/markets/article/africa-tech-50-index-enters-african-exchange-activation-phase-after-lse-launch/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-13T12:38:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Adoption Is Testing Modular Firms",
-                "desc": "Organizations have spent decades becoming more modular, breaking themselves into agile teams, business units, and platforms to improve flexibility and speed. But many are discovering a new constraint: They can decompose work far more easily than they can recombine it. As AI, ecosystems, and rapidly changing markets create constant opportunities to redeploy capabilities, organizations often find themselves slowed by governance hurdles, bespoke negotiations, and centralized decision making. Drawing on research across leading companies, the authors argue that competitive advantage now depends on composable integration—the ability to rapidly reconfigure existing capabilities. They outline four managerial priorities: treat recombination as a measurable capability, standardize governance as well as technical interfaces, build reusable enterprise-wide capabilities, and push integration authority closer to the front line. In the AI era, success will increasingly depend not on having the best components, but on recombining them faster than rivals.",
-                "image": "https://hbr.org/resources/images/article_assets/2026/07/Jul26_11_AI.jpg",
-                "url": "https://hbr.org/2026/07/ai-adoption-is-testing-modular-firms",
-                "source": "Harvard Business Review",
-                "date": "2026-07-13T12:36:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBN Releases Latest Lending Rates of Access, UBA, GTbank, Zenith, Other Banks",
-                "desc": "The CBN said publishing commercial banks' lending rates improves transparency and helps customers make informed borrowing decisions across financial sector.",
-                "image": "https://cdn.legit.ng/images/1200x675/02909733c2412571.jpeg?v=1",
-                "url": "https://www.legit.ng/business-economy/money/1719018-cbn-releases-latest-lending-rates-commercial-banks-nigeria/",
-                "source": "Legit.ng",
-                "date": "2026-07-13T12:35:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Senate Reintroduces CLARITY Act to Address Crypto Regulation",
-                "desc": "US crypto regulation has spent years stuck between enforcement actions, agency turf fights, and unfinished legislation. The CLARITY Act is one of the efforts me",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.6.0/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/us-senate-reintroduces-clarity-act-to-address-crypto-regulation",
-                "source": "KuCoin",
-                "date": "2026-07-13T12:34:54Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "On: The Blancpain Fifty Fathoms Tech Date, a Truly Purposeful Three",
+                "desc": "Born from the extreme Tech Gombessa, Blancpain's latest technical dive watch is a little more versatile for use on dry land.",
+                "image": "https://monochrome-watches.com/app/uploads/2026/07/Blancpain-Fifty-Fathoms-Tech-Date-5019A-Three-Hour-Dive-Watch-closed-circuit-rebreather-review-3.jpg",
+                "url": "https://monochrome-watches.com/blancpain-fifty-fathoms-tech-date-5019a-three-hour-dive-watch-rebreather-review-price/",
+                "source": "Monochrome Watches",
+                "date": "2026-07-13T16:00:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Soulslike from the Pokémon team is confusing, challenging, and such a blast",
+                "desc": "Game Freak's action RPG is emphatically not a Pokémon game for widdle babies, but a combat-forward experience for tough customers",
+                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bor_screenshot-4.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.polygon.com/beast-of-reincarnation-preview-demo-impressions/",
+                "source": "Polygon.com",
+                "date": "2026-07-13T16:00:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Every AI feature in Galaxy phones, ranked from genuinely useful to pure gimmick",
+                "desc": "You won't like everything it offers.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/a-z-fold-6-showing-galaxy-ai-menu.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/every-samsung-galaxy-ai-feature-ranked/",
+                "source": "MakeUseOf",
+                "date": "2026-07-13T16:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A+T Instruments launches the HFD5 Graphic Display",
+                "desc": "Sail World - The world's largest sailing news network; sail and sailing, cruising, boating news",
+                "image": "https://www.yachtsandyachting.com/photos/aandtinstruments/yysw563305.jpg",
+                "url": "https://www.yachtsandyachting.com/news/297919/AT-Instruments-launches-the-HFD5-Graphic-Display",
+                "source": "Yachts and Yachting Online",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A+T Instruments launches the HFD5 Graphic Display",
+                "desc": "Sail World - The world's largest sailing news network; sail and sailing, cruising, boating news",
+                "image": "https://www.sail-world.com/photos/aandtinstruments/yysw563305.jpg",
+                "url": "https://www.sail-world.com/news/297919/AT-Instruments-launches-the-HFD5-Graphic-Display",
+                "source": "Sail-World.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy Trifold 2 foldable could take a backseat to a ‘slideable’ phone",
+                "desc": "A new rumor suggests Samsung's slideable phone, once expected in 2028, could arrive as soon as next year.",
+                "image": "https://sm.mashable.com/t/mashable_sea/article/s/samsung-ga/samsung-galaxy-trifold-2-foldable-could-take-a-backseat-to-a_eyfh.1200.jpg",
+                "url": "https://sea.mashable.com/mobile/52497/samsung-galaxy-trifold-2-foldable-could-take-a-backseat-to-a-slideable-phone",
+                "source": "Mashable SEA",
+                "date": "2026-07-13T15:59:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Winning MR Series with the New MR4.5",
+                "desc": "Built for work, creation and everyday listening, the MR4.5 delivers accurate, balanced sound for producers, content creators and music enthusiasts […]",
+                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
+                "url": "https://technode.global/prnasia/edifier-expands-its-award-winning-mr-series-with-the-new-mr4-5/",
+                "source": "TNGlobal",
+                "date": "2026-07-13T15:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Infinix HOT 70 Pro debuts July 16 with 5G, rear LED display, 3-in-1 protection",
+                "desc": "The Infinix HOT 70 Pro drops July 16 with 5G power, a rear LED display, and triple protection: drop-proof, waterproof, dustproof!",
+                "image": "https://www.revu.com.ph/wp-content/uploads/2026/07/Infinix-HOT-70-Pro-price-specs-REVU-Philippines.jpg",
+                "url": "https://www.revu.com.ph/2026/07/infinix-hot-70-pro-launch-date-key-specs/",
+                "source": "REVU Philippines",
+                "date": "2026-07-13T15:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Free Mac App Unravels All Your Annoying USB-C Cable Mysteries",
+                "desc": "WhatCable is a new free macOS app that finally takes the mystery out of USB-C cable performance once and for all.",
+                "image": "https://petapixel.com/assets/uploads/2026/07/whatcable-1.jpg",
+                "url": "https://petapixel.com/2026/07/13/free-mac-app-unravels-all-your-annoying-usb-c-cable-mysteries/",
+                "source": "PetaPixel",
+                "date": "2026-07-13T15:54:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best HP deal: HP OmniBook 3 17.3-inch laptop hits lowest price ever at $449.99",
+                "desc": "Save $280 on the HP OmniBook 3 17.3-inch Laptop at Amazon. The Windows 11 PC is down to $449.99 from its typical $729.99 price.",
+                "image": "https://helios-i.mashable.com/imagery/articles/00QEQf1DglfWxYBmiyllvor/hero-image.fill.size_1200x675.v1783951963.jpg",
+                "url": "https://mashable.com/tech/july-13-hp-omnibook-3-17-inch-laptop-deal",
+                "source": "Mashable",
+                "date": "2026-07-13T15:54:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Square Enix Is Charging Full Price For A Shinier Octopath Traveler",
                 "desc": "'Improved resolution' is not worth $60, Square",
@@ -1174,99 +1264,99 @@
                 "source": "Salon.com",
                 "date": "2026-07-13T13:00:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Palworld Storms Back on Steam with 855K Concurrent Players as Version 1.0 Unlocks the World Tree and 20 new Pals",
-                "desc": "Palworld's version 1.0 launch drew 855K concurrent players on Steam, unlocking the long-teased World Tree region and 20+ new Pals to collect.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/palworld-1-0-HD-1920x1081.jpeg",
-                "url": "https://wccftech.com/palworld-1-0-855k-concurrent-players-world-tree/",
-                "source": "Wccftech",
-                "date": "2026-07-13T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Introducing The Maurice De Mauriac Rallymaster 'Swiss Tennis'",
-                "desc": "The latest iteration of the Rallymaster from California designer Carlton DeWoody and Zurich's Maurice de Mauriac pays tribute to Swiss Tennis.",
-                "image": "https://hodinkee.imgix.net/uploads/images/4a8d087b-eb02-4b01-82f6-41097a8a4df8/L1020773.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-                "url": "https://www.hodinkee.com/articles/the-maurice-de-mauriac-rallymaster-swiss-tennis",
-                "source": "Hodinkee",
-                "date": "2026-07-13T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CrashStealer' malware mimics Apple tool to steal Mac data",
-                "desc": "CrashStealer, a newly documented Mac infostealer, used an Apple-notarized meeting app to reach victims before stealing passwords, browser data and cryptocurrency credentials behind a fake system prompt.",
-                "image": "https://photos5.appleinsider.com/gallery/68220-143829-997C32E1-E383-4C76-92CE-220490CFDD4D-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/13/crashstealer-malware-poses-as-an-apple-tool-to-steal-passwords-mac-data",
-                "source": "AppleInsider",
-                "date": "2026-07-13T13:00:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Uvora: A macOS Menu Bar App for Finding Laravel Projects",
-                "desc": "Uvora is a free macOS menu bar app that indexes your Laravel projects locally and opens any of them from a single keyboard shortcut.",
-                "image": "https://laravelnews.s3.amazonaws.com/featured-images/Uvora-LN.png",
-                "url": "https://laravel-news.com/uvora-a-macos-menu-bar-app-for-finding-laravel-projects",
-                "source": "Laravel News",
-                "date": "2026-07-13T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Saudi’s first ultra-luxury train doesn’t make any stops",
-                "desc": "Dream of the Desert is due to start running at the end of the year, and one of its trips will leave Riyadh on a two-day swing through the desert without stopping.",
-                "image": "https://img.semafor.com/165056b532b3b288f788d8c8bdffbf8180687144-1330x998.png?rect=0,150,1330,698&w=1200&h=630&q=75&auto=format",
-                "url": "https://www.semafor.com/article/07/13/2026/saudis-first-ultra-luxury-train-doesnt-make-any-stops",
-                "source": "Semafor",
-                "date": "2026-07-13T12:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK Trade Group Calls Death Of Discs A Blow To Consumer Choice",
-                "desc": "The move is coming even as many still buy games physically",
-                "image": "https://kotaku.com/app/uploads/2026/07/gta-5-disc-1200x675.jpg",
-                "url": "https://kotaku.com/uk-retail-group-slams-playstation-killing-discs-as-the-triumph-of-corporate-convenience-over-consumer-choice-2000715189",
-                "source": "Kotaku",
-                "date": "2026-07-13T12:58:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Final Fantasy Tactics: The Ivalice Chronicles 1.5.1 update out now, patch notes",
-                "desc": "Square Enix just put out a new version 1.5.1 update for Final Fantasy Tactics: The Ivalice Chronicles, and the patch notes are in.",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-Tactics-The-Ivalice-Chronicles-1.5.1-update.jpg",
-                "url": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-1-update-out-now-patch-notes/",
-                "source": "Nintendo Everything",
-                "date": "2026-07-13T12:56:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei MatePad Air 2026 teaser shows stylish design, soft colors",
-                "desc": "Huawei MatePad Air 2026 tablet will be part of tomorrow's global launch event, and a video teaser is here showing tablet's design and colors",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/MatePadAir-2026.jpg",
-                "url": "https://www.huaweicentral.com/huawei-matepad-air-2026-teaser-shows-stylish-design-soft-colors/",
-                "source": "Huawei Central",
-                "date": "2026-07-13T12:50:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Steam Machine \"Red Line of Death\" Turns On When System Hits 100°C",
-                "desc": "Previously, we reported that Valve's Steam Machine featured a \"red line of death\" (RLOD) that was mistakenly flagged as a system problem. This issue was actually a simple BIOS glitch that was resolved quickly. Valve has since updated its Q&A and the Steam Machine BIOS to enhance the functionality...",
-                "image": "https://www.techpowerup.com/img/PIFadsKKBEygdtS3.jpg",
-                "url": "https://www.techpowerup.com/350715/steam-machine-red-line-of-death-turns-on-when-system-hits-100-c",
-                "source": "TechPowerUp",
-                "date": "2026-07-13T12:48:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thread-like electronics point to less obtrusive wearable health monitors",
-                "desc": "Imagine using a wearable device so thin and discreet that you'd hardly be aware you were wearing it. Now Tufts engineers have created flexible electronics that could do just that. Made of thread-based integrated circuits ...",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/and-you-thought-a-smar.jpg",
-                "url": "https://techxplore.com/news/2026-07-thread-based-electronics-conform-body.html",
-                "source": "Tech Xplore",
-                "date": "2026-07-13T12:40:07Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Arbitral Award not a piece of paper’ - Malacañang",
+                "desc": "Malacañang yesterday maintained that the 2016 Arbitral Award is not just a “piece of paper,” as it gave assurance that President Marcos would continue to protect the country’s sovereign rights over the West Philippine Sea while contributing to peace and stability in the region.",
+                "image": "https://media.philstar.com/photos/2026/07/13/a_2026-07-13_22-50-58.jpg",
+                "url": "https://www.philstar.com/headlines/2026/07/14/2541992/arbitral-award-not-piece-paper-malacaang",
+                "source": "Philstar.com",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US and Iran battle for control of the Strait of Hormuz as peace deal falters",
+                "desc": "Before the Middle East war, Iran’s nuclear programme was at the heart of the dispute between Tehran and Washington. Now it is the strategic Strait of Hormuz that is igniting tensions.",
+                "image": "https://news24cobalt.24.co.za/resources/02a6-20f0034673d7-8031d35966fd-1000/format/inline/gettyimages-2276029086.jpeg",
+                "url": "https://www.news24.com/world/us-and-iran-battle-for-control-of-the-strait-of-hormuz-as-peace-deal-falters-20260713-0924",
+                "source": "News24",
+                "date": "2026-07-13T15:59:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine and 9 other countries announce a coalition to protect Europe from ballistic missiles",
+                "desc": "Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv’s experience of fighting Russia.",
+                "image": "https://dims.apnews.com/dims4/default/9d6e01a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2Fbc%2F9d1683133a30f90059814a4e7b8e%2F4798c1cef7924126b62660e05675c5db",
+                "url": "https://apnews.com/article/russia-ukraine-war-europe-coalition-putin-d813eb18fba24a57f7cb2000b302ef4d",
+                "source": "AP News",
+                "date": "2026-07-13T15:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live updates: ICE-involved shooting in Maine kills one person",
+                "desc": "A person was killed today in an ICE-involved shooting in Biddeford, Maine, according to the state’s speaker of the house. Follow here for live updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22801304-69662-still.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/13/us/live-news/maine-ice-shooting-houston-minnesota",
+                "source": "CNN",
+                "date": "2026-07-13T15:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Portugal Releases Full List of 59 Countries Whose Citizens Can Enter Visa",
+                "desc": "Portugal unveils a list of 59 visa-free countries for travellers holding biometric passports, highlighting notable absences from African nations in this access.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/2ff6d6c8e5b2f78b.jpeg?v=1",
+                "url": "https://yen.com.gh/world/europe/307802-portugal-publishes-full-list-59-countries-eligible-visa-free-entry/",
+                "source": "Yen News",
+                "date": "2026-07-13T15:56:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "West Africa: Economic Indicators Turn Green",
+                "desc": "The West African economy is expected to maintain its momentum over the coming years. According to the latest forecasts from the ECOWAS Bank for Investment and ...",
+                "image": "https://powersofafrica.com/pouvoirsafriqueen/uploads/images/2026/07/13/16190.png",
+                "url": "https://powersofafrica.com/article/4049/west-africa-economic-indicators-turn-green",
+                "source": "Powers of Africa",
+                "date": "2026-07-13T15:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Medical Devices Emerge as Top Winner in EU-Mexico Deal",
+                "desc": "European Parliament approves modernized EU-Mexico trade deal, easing tariffs and opening new export paths for Mexico's medical device sector.",
+                "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-07/testalize-me-SVmaaACzcJ8-unsplash.jpg?h=b5955f22&itok=IJvf1qkX",
+                "url": "https://mexicobusiness.news/health/news/medical-devices-emerge-top-winner-eu-mexico-deal",
+                "source": "Mexico Business News",
+                "date": "2026-07-13T15:56:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "British couple killed in Spanish wildfires as authorities race to identify victims",
+                "desc": "Appeal for DNA to help identify bodies as local government leader says ‘we are in a state of climate chaos’",
+                "image": "https://i.guim.co.uk/img/media/12be7353c68dcc14f39828a50409769b8286796e/414_0_5030_4024/master/5030.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a393cebcb1d41f6f14df1912734c924b",
+                "url": "https://www.theguardian.com/world/2026/jul/13/british-couple-confirmed-to-have-been-killed-by-deadly-wildfires-in-spain",
+                "source": "The Guardian",
+                "date": "2026-07-13T15:55:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seabed Mining Threatens 60% of Vent Molluscs, IUCN Warns",
+                "desc": "IUCN lists 125 of 201 vent mollusc species as threatened by seabed mining, renewing moratorium calls as the ISA meets and Mexico weighs its stance.",
+                "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-07/j-f-manzanero-3J2FB7BItdA-unsplash.jpg?h=b5955f22&itok=huV6Kd4R",
+                "url": "https://mexicobusiness.news/mining/news/seabed-mining-threatens-60-vent-molluscs-iucn-warns",
+                "source": "Mexico Business News",
+                "date": "2026-07-13T15:54:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 dead after plane crashes in the Bahamas",
+                "desc": "Ten people died after a Cessna 402 crashed in the Bahamas. The Bahamas Musicians and Entertainers Union said Bahamian musicians and a DJ are among the dead.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/13/USAT/90900157007-usatsi-19627632.jpg?crop=3299,1857,x0,y158&width=3200&height=1802&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/world/2026/07/13/bahamas-plane-crash-victims/90899867007/",
+                "source": "USA Today",
+                "date": "2026-07-13T15:51:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "One person killed in shooting involving federal agents in Maine, official says",
                 "desc": "It comes less than a week after a man on his way to work in Houston was shot and killed by an immigration agent.",
@@ -1806,98 +1896,8 @@
                 "source": "CNBC",
                 "date": "2026-07-13T12:56:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/07/13/6a54decc74cb81783946956.jpg",
-                "url": "https://techreviewafrica.com/news/6279/geneva-digital-week-emphasises-global-push-for-ai-governance-digital-sustainability-and-infrastructure-resilience",
-                "source": "Tech Review Africa",
-                "date": "2026-07-13T12:52:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insider: How Tanzania, Uganda lost $17 billion Dangote refinery lobby to Kenya",
-                "desc": "Dangote's decision to anchor his second mega-refinery on Kenya's northern coast came only after a monthslong, three-way contest with Uganda and Tanzania that exposed how differently the three East African neighbors compete for the same investor",
-                "image": "https://businessfront.com/wp-content/uploads/2025/04/105608495-1543947913488aliko-1.jpg",
-                "url": "https://businessfront.com/energy/insights/tanzania-uganda-dangote-refinery-kenya/",
-                "source": "Businessfront",
-                "date": "2026-07-13T12:51:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK slams new visa requirements on 33 African countries [Full list]",
-                "desc": "The United Kingdom has maintained its visa requirement for citizens of Nigeria and 32 other African countries, reaffirming that affected travelers must obtain entry clearance before travelling to or passing through the country.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/UKG.jpg",
-                "url": "https://www.vanguardngr.com/2026/07/uk-slams-new-visa-requirements-on-33-african-countries-full-list/",
-                "source": "Vanguard News",
-                "date": "2026-07-13T12:51:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Heat Waves in Europe Linked to Thousands of Excess Deaths",
-                "desc": "While the full toll will take months to calculate, death statistics already look substantial compared with historical averages.",
-                "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13int-europe-heat-promo-qvtc/13int-europe-heat-promo-qvtc-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html",
-                "source": "The New York Times",
-                "date": "2026-07-13T12:51:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Colombian flower sector pushes back against proposed U.S. tariff hike",
-                "desc": "In March 2026, the USTR initiated investigations under Section 301 against 60 economies, including Colombia, to assess whether they have effective mechanisms to prohibit and enforce the…",
-                "image": "https://www.floraldaily.com/remote/https/agfstorage.blob.core.windows.net/misc/StockPhotos/Floral/FloralDaily_FP_img_0118.jpg?preset=OgImage",
-                "url": "https://www.floraldaily.com/article/9855823/colombian-flower-sector-pushes-back-against-proposed-u-s-tariff-hike/",
-                "source": "FloralDaily",
-                "date": "2026-07-13T12:40:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Teenage girl is victim of 'abhorrent' sexual assault in Bristol",
-                "desc": "Police have released a CCTV image of a man believed to have information about the incident.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/68e0/live/28e58a10-7eb8-11f1-8439-ebc9c5f19300.png",
-                "url": "https://www.bbc.com/news/articles/c5yz1e113l6o",
-                "source": "BBC",
-                "date": "2026-07-13T12:39:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK police rearrest suspect in Widdecombe killing over terrorism",
-                "desc": "UK police say a 28-year-old man arrested on suspicion of killing former British politician Ann Widdecombe is now suspected of terrorism.",
-                "image": "https://dims.apnews.com/dims4/default/2db0f42/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F70%2Fd7a4fd3a49bd9463f07098a7bbb5%2F1cf06351c639461e82c8428fe35d8f73",
-                "url": "https://apnews.com/article/britain-widdecombe-murder-suspect-de024110706ac0615a69b221333b657f",
-                "source": "AP News",
-                "date": "2026-07-13T12:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump declares US will take over Strait of Hormuz, charge patrolling fees: 'Iran broke the deal'",
-                "desc": "Trump said the US will take control of the Strait of Hormuz and charge ships for its protection. He accused Iran of breaking their agreement as fresh military strikes intensified across the Gulf.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260713123558_Trump-Iran-New-2.jpg",
-                "url": "https://www.moneycontrol.com/world/trump-declares-us-will-take-over-strait-of-hormuz-charge-patrolling-fees-iran-broke-the-deal-article-13972778.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-13T12:36:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US to reinstate Iran blockade, says Trump",
-                "desc": "President Trump announces US reinstatement of an Iran blockade and a 20% charge on cargo through the Strait of Hormuz. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1149f8edb539043c9ec24f44ec838a4b774ba398ce17b9b60cfdb6073441faa9",
-                "url": "https://www.straitstimes.com/world/middle-east/trump-says-the-us-should-control-the-strait-of-hormuz-and-get-paid-for-it",
-                "source": "The Straits Times",
-                "date": "2026-07-13T12:35:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Euro-MPs call on Abu Dhabi to end backing for RSF as fears grow of humanitarian catastrophe in Sudan’s El Obeid",
-                "desc": "The European parliament’s demand for the militia to be declared a terrorist entity will complicate EU-UAE trade talks, Breaking with earlier diplomatic caution, the European Parliament has urged the EU to add the Rapid Support Forces to its list of terrorist organisations and directly called out the United Arab Emirates for its role in Sudan’s civil war in a resolution passed by a 476 to 28 margin on 9 July.",
-                "image": "https://www.africa-confidential.com/content/images/dispatches_twitter.png",
-                "url": "https://www.africa-confidential.com/article/id/16095/euro-mps-call-on-abu-dhabi-to-end-backing-for-rsf-as-fears-grow-of-humanitarian-catastrophe-in-sudans-el-obeid",
-                "source": "Africa Confidential",
-                "date": "2026-07-13T12:34:39Z",
-                "priority": "MAJOR_ALERT"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T03:40:29.694339Z"
+    "lastGlobalSync": "2026-07-14T04:00:31.744705Z"
 }
