@@ -4,6 +4,24 @@
     "en": {
         "business": [
             {
+                "title": "Federation of Labour Calls for Higher Injury Payouts Following WorkplaceNL Surplus",
+                "desc": "The agency which runs the workers compensation system says 2025 was a good year on several fronts, but adds th...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/jessica-mccormick-budget.jpg",
+                "url": "https://vocm.com/2026/07/13/303996/",
+                "source": "VOCM",
+                "date": "2026-07-13T13:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Experts highlight need to explore safer nicotine alternatives alongside existing measures",
+                "desc": "New Zealand's experience offers lessons for countries battling persistent tobacco addiction.",
+                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1MmFlZjQwLTdlYmItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+                "url": "https://www.tribuneindia.com/news/health/experts-highlight-need-to-explore-safer-nicotine-alternatives-alongside-existing-measures/",
+                "source": "The Tribune",
+                "date": "2026-07-13T13:00:43Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Women pay a penalty for being ambitious and asking for more",
                 "desc": "In an era where we supposedly don’t discriminate, Stefanie O’Connell says women, when they question their failure to advance, are met with pervasive gaslighting",
                 "image": "https://www.theglobeandmail.com/resizer/v2/XEJBRI6Z6JEMRFLEKO7TIKOYJ4.jpg?auth=0c2cce0ab681b24ad2928b3630e3090abd7519e842c26e0da3b3c6a83c6279db&width=1200&height=800&quality=80&smart=true",
@@ -614,27 +632,90 @@
                 "source": "livemint.com",
                 "date": "2026-07-13T00:30:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Are HSBC shares set for a turnover bump owing to Hong Kong’s board-lot reform?",
-                "desc": "The minimum investment of nearly US$8,000 for one of Hongkongers’ favourite stocks is set to drop. The question is how low it will go.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/12/f750e468-2cda-4946-a1e3-6af2e9bb88c3_4ff2eda2.jpg?itok=AeZ1eXtt&v=1783840470",
-                "url": "https://www.scmp.com/business/banking-finance/article/3360270/are-hsbc-shares-set-turnover-bump-owing-hong-kongs-board-lot-reform",
-                "source": "South China Morning Post",
-                "date": "2026-07-13T00:30:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Solar surge lifts India’s RE additions to 29GW in first half",
-                "desc": "India added nearly 29 GW of renewable energy capacity during H1, including about 26 GW of solar and 2.9 GW of wind, according to JMK Research.",
-                "image": "https://www.cmgassets.com/s3fs-public/styles/opengraph/public/2026-07/pexels-quang-nguyen-vinh-222549-35105434.jpg?VersionId=R3bW8X_pCs7T8L3hSVoT3qSYjrfvvmeB&h=4938c091&itok=1CBzUPul",
-                "url": "https://asian-power.com/power-utility/in-focus/solar-surge-lifts-indias-re-additions-29gw-in-first-half",
-                "source": "Asian Power",
-                "date": "2026-07-13T00:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+                "desc": "Forg365 targets Microsoft 365 with device code and AitM phishing, then uses stolen tokens for persistent browser sessions and mailbox access.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlR-dy6ENZN5NKa1_sViQqXH6fEfEROkwjKV9vTowPmCu_nOALJ89JzGg-ueVJMCAqDHHozMZGd8oWbIlAQDTI8anEd6A2ZK0MdBN_FiShR3UoHGL6Cf0Gbhv8dY9RkVlZxpOCmks29u8Fnmx-JcytGZlnKC_9EuColvIMY4Y5IXH91aRaN5HOgjvvSPEo/s1700-e365/ms-device-code1.jpg",
+                "url": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+                "source": "The Hacker News",
+                "date": "2026-07-13T13:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MY.GAMES Celebrates 8th Anniversary of Left to Survive With Month-Long Celebration",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/MYGAMES-Celebrates-8th-Anniversary-of-Left-to-Survive-With-Month-Long-",
+                "source": "Games Press",
+                "date": "2026-07-13T13:02:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bending Roguelike Sharpened to the Last Second",
+                "desc": "Time-bending action roguelike Ascend to ZERO is available today on XBOX Series X|S, XBOX on PC, and via XBOX Game Pass.",
+                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/A2Z-in-line-asset_01_keyart-4b293a6c17f6857d1ac7.jpg",
+                "url": "https://news.xbox.com/en-us/2026/07/13/ascend-to-zero-a-time-bending-roguelike-xbox-launch/",
+                "source": "XBOX Wire",
+                "date": "2026-07-13T13:02:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Emma mattress designed to 'keep cool' now less than half price with double discount",
+                "desc": "Emma Sleep has launched its Big Summer Sale with up to 50% off - and shoppers can get an extra 10% off all sale prices with an exclusive discount code",
+                "image": "https://i2-prod.corkbeo.ie/article34280785.ece/ALTERNATES/s1200d/1_linkby-1.jpg",
+                "url": "https://www.corkbeo.ie/culture/whats-on-news/mattress-less-than-half-price-34280786",
+                "source": "Cork Beo",
+                "date": "2026-07-13T13:02:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year",
+                "desc": "Consumer security updates now run to October 2027, and Redmond doesn't mention Windows 11 once",
+                "image": "https://image.theregister.com/5270429.jpg?imageId=5270429&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/os-platforms/2026/07/13/microsoft-emails-windows-10-holdouts-fine-keep-your-old-pc-another-year/5270336",
+                "source": "The Register",
+                "date": "2026-07-13T13:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Benefits, Risks & Best Practices",
+                "desc": "Learn how SaaS security posture management helps enterprises detect misconfigurations, strengthen access controls, improve compliance, and reduce cyber risks.",
+                "image": "https://securityjournalamericas.com/wp-content/uploads/2026/07/How-SaaS-Security-Posture-Management-Strengthens-Enterprise-Cybersecurity-1-1.jpg",
+                "url": "https://securityjournalamericas.com/saas-security-posture-management/",
+                "source": "Security Journal Americas",
+                "date": "2026-07-13T13:01:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox fan successfully sues Microsoft for blocking his entire digital games library - in what could be a huge win for consumer rights",
+                "desc": "Brazilian Xbox player, Ordo_Liberal, recently won a court case against Microsoft, proving you can fight for the right to preserve digital ownership of your games and win.",
+                "image": "https://cdn.mos.cms.futurecdn.net/FvaB5XVBD4R897rQUnFEQB-1920-80.png",
+                "url": "https://www.windowscentral.com/gaming/xbox/xbox-fan-sues-microsoft-blocking-his-digital-games-library",
+                "source": "Windows Central",
+                "date": "2026-07-13T13:01:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reditus Finishes ENOS Reentry Vehicle Ahead of First Flight",
+                "desc": "Reditus announced today it completed development of its first reentry spacecraft—called ENOS—which is scheduled to fly a debut flight this fall.",
+                "image": "https://payloadspace.com/wp-content/uploads/2026/07/DSC02699-scaled.jpeg",
+                "url": "https://payloadspace.com/reditus-finishes-enos-reentry-vehicle-ahead-of-first-flight/",
+                "source": "Payload Space",
+                "date": "2026-07-13T13:01:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lunarium launches July 29",
+                "desc": "Hand-drawn isometric action RPG Lunarium will launch for PC via Steam on July 29 for $17.99 / €17.99 / £15.99, publisher Imperfect Games and developer Lunarium…",
+                "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Lunarium-Date_07-13-26.jpg",
+                "url": "https://www.gematsu.com/2026/07/lunarium-launches-july-29",
+                "source": "Gematsu",
+                "date": "2026-07-13T13:00:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "It's time to reclaim the Luddite",
                 "desc": "Big Tech looted our attention. Getting it back means rethinking the world offline",
@@ -1183,90 +1264,45 @@
                 "source": "MediaPost",
                 "date": "2026-07-12T23:57:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apple’s Strategic Choice Can Defeat Rivals",
-                "desc": "Apple’s September launch of the iPhone 18 Pro allows it to learn from its Android rivals. Samsung and Google will take the pain as Apple reaps the benefits.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a527aaa815e7835cb11293b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/ewanspence/2026/07/12/phone-18-pro-market-timing-strategy/",
-                "source": "Forbes",
-                "date": "2026-07-12T23:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RTX 5060 gaming laptop with Intel Core i7-14650HX CPU gets 14% price cut in Amazon deal",
-                "desc": "This MSI Katana 15 HX laptop comes with a 1440p display, DDR5 RAM, and 1TB SSD storage - snap it up quickly!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/RTX-5060-gaming-laptop-with-Intel-Core-i7-14650HX-CPU-gets-14-percent-price-cut-in-Amazon-deal.jpg",
-                "url": "https://www.pcguide.com/deals/rtx-5060-gaming-laptop-with-intel-core-i7-14650hx-cpu-gets-14-price-cut-in-amazon-deal/",
-                "source": "PC Guide",
-                "date": "2026-07-12T23:52:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NC and Lynk complete satellite mobile connectivity test in New Caledonia",
-                "desc": "New Caledonian operator OPT-NC has successfully completed its first satellite mobile connectivity test in New Caledonia in partnership with satcoms company Lynk Global.",
-                "image": "https://developingtelecoms.com/favicon.ico",
-                "url": "https://developingtelecoms.com/telecom-technology/satellite-communications-networks/20522-opt-nc-and-lynk-complete-satellite-mobile-connectivity-test-in-new-caledonia.html",
-                "source": "Developing Telecoms",
-                "date": "2026-07-12T23:51:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NC and Lynk complete satellite mobile connectivity test in New Caledonia",
-                "desc": "New Caledonian operator OPT-NC has successfully completed its first satellite mobile connectivity test in New Caledonia in partnership with satcoms company Lynk Global.",
-                "image": "https://www.developingtelecoms.com/favicon.ico",
-                "url": "https://www.developingtelecoms.com/telecom-technology/satellite-communications-networks/20522-opt-nc-and-lynk-complete-satellite-mobile-connectivity-test-in-new-caledonia.html",
-                "source": "Developing Telecoms",
-                "date": "2026-07-12T23:51:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exhibitor list goes live for Bulk Expo",
-                "desc": "The Bulk Expo 2026 exhibitor directory is live, revealing a strong lineup of manufacturers, engineering specialists and technology providers.",
-                "image": "https://www.railexpress.com.au/wp-content/uploads/2026/07/0S0A8622-1.jpg",
-                "url": "https://www.railexpress.com.au/exhibitor-list-goes-live-for-bulk-expo/",
-                "source": "Rail Express",
-                "date": "2026-07-12T23:51:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Limited time OLED laptop deal on Amazon will save you $290 off the MSRP of this HP OmniBook 5",
-                "desc": "This is a great laptop for general productivity, built around an energy efficient Snapdragon X CPU and a great OLED display.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Limited-time-OLED-laptop-deal-on-Amazon-will-save-you-290-off-the-MSRP-of-this-HP-OmniBook-5.jpg",
-                "url": "https://www.pcguide.com/deals/limited-time-oled-laptop-deal-on-amazon-will-save-you-290-off-the-msrp-of-this-hp-omnibook-5/",
-                "source": "PC Guide",
-                "date": "2026-07-12T23:48:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Experts reveal why advancements in physical technology are not keeping pace with AI",
-                "desc": "Still waiting for your flying car or robot butler? You’re not alone.",
-                "image": "https://images.7news.com.au/publication/C-22538004/77ca16f1ef9d10f9c8f8e9bcfefb299b9e6b9cbf-16x9-x0y80w1536h864.png?imwidth=1200",
-                "url": "https://7news.com.au/news/experts-reveal-why-advancements-in-physical-technology-are-not-keeping-pace-with-ai-c-22538004",
-                "source": "7NEWS",
-                "date": "2026-07-12T23:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dave Collins joins Kerfuffe as Head of Strategy",
-                "desc": "Kerfuffle has bolstered its strategic leadership with the appointment of Dave Collins as Head of Strategy.\nCollins joins from Droga5 (formerly The Monkeys), where he spent the last six years, most recently as Head of Strategy, helping shape award-winning creative strategies for brands includin",
-                "image": "https://campaignbrief.com/wp-content/uploads/2026/07/Dave2.jpg",
-                "url": "https://campaignbrief.com/dave-collins-joins-kerfuffe-as-head-of-strategy/",
-                "source": "Campaign Brief",
-                "date": "2026-07-12T23:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In a Word ... Expert",
-                "desc": "Frequently, ‘experts’ know as much about the future as do you or I",
-                "image": "https://www.irishtimes.com/resizer/v2/null?smart=true&auth=undefined&width=1200&height=630",
-                "url": "https://www.irishtimes.com/culture/2026/07/13/in-a-word-expert/",
-                "source": "The Irish Times",
-                "date": "2026-07-12T23:31:41Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Indigenous leaders confront overlapping crises at UN, as climate and conflict collide",
+                "desc": "IndigiNews is in Geneva for the UN’s Expert Mechanism on the Rights of Indigenous Peoples, which will focus on violence, disaster relief, artificial intelligence, and more.",
+                "image": "https://indiginews.com/wp-content/uploads/2026/07/emrip-1-grist.webp",
+                "url": "https://indiginews.com/news/un-expert-mechanism-rights-indigenous-peoples-confront-overlapping-crises/",
+                "source": "Indiginews",
+                "date": "2026-07-13T13:03:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Protected but deported anyway, as Trump goes after ‘dreamers’",
+                "desc": "HOUSTON, July 13 — Jose Contreras felt safe from deportation under a programme launched years ago under Barack Obama, but the Trump administration expelled him anyway.The day...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/13/351636.jpg",
+                "url": "https://www.malaymail.com/news/world/2026/07/13/protected-but-deported-anyway-as-trump-goes-after-dreamers/227402",
+                "source": "Malay Mail",
+                "date": "2026-07-13T13:02:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First came the dead fish, then invasive plants. A year later and Lake Suchitlán’s pollution remains a mystery",
+                "desc": "Fishers on El Salvador’s largest lake are still looking for answers after the die-off, with no explanation provided by the government",
+                "image": "https://i.guim.co.uk/img/media/e5a76a4f6f71a1b3a84260d40ddb11550d10af65/542_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c0ab4c9a8d9a68d513edf4c1f3781e6",
+                "url": "https://www.theguardian.com/global-development/2026/jul/13/el-salvador-lake-suchitlan-pollution-waste-water-invasive-plants-fish",
+                "source": "The Guardian",
+                "date": "2026-07-13T13:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EES faces fresh political pressure despite security gains",
+                "desc": "Governments and transport operators want EES border-check flexibilities extended, while the EC cites nearly 44,000 denied entries as proof it works.",
+                "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2026/04/27114916/speed-identity-ees-scaled.jpg",
+                "url": "https://www.biometricupdate.com/202607/ees-faces-fresh-political-pressure-despite-security-gains",
+                "source": "Biometric Update",
+                "date": "2026-07-13T13:01:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Why West Africa is betting on private capital to bridge its infrastructure deficit",
                 "desc": "Nigeria urges ECOWAS nations to expand public-private partnerships as governments seek private investment to bridge West Africas growing infrastructure gap. | Business Insider Africa",
@@ -1860,44 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-12T23:49:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "United Nations Industrial Development Organization (UNIDO) secures funding for 43 projects to drive",
-                "desc": "Forty-three projects, including a regional project, to be implemented in 22 countries at a cost of USD 14 million, were approved in the...",
-                "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-07-12-234659002.jpg",
-                "url": "http://www.businessghana.com/site/news/general/351930/United-Nations-Industrial-Development-Organization-(UNIDO)-secures-funding-for-43-projects-to-drive-",
-                "source": "BusinessGhana",
-                "date": "2026-07-12T23:46:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
-                "desc": "The US Republican senator has been absent from Congress during a weeks-long hospitalisation, spurring party concern.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5421f2-1783898610.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength",
-                "source": "Al Jazeera",
-                "date": "2026-07-12T23:42:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sky News Australia",
-                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
-                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
-                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
-                "source": "Sky News Australia",
-                "date": "2026-07-12T23:35:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iranian strike on US base in Kuwait exposes American generals’ reckless negligence",
-                "desc": "Six American soldiers were killed and dozens more wounded when an Iranian drone struck a poorly defended US logistics base at Port Shuaiba in Kuwait on March 1, according to a report.",
-                "image": "https://cdn.presstv.ir/Photo/2026/7/12/89f2fa40-25e8-4ed1-b362-04cf639ff19f.jpg",
-                "url": "https://www.presstv.ir/Detail/2026/07/12/772127/Iranian-strike-on-US-base-in-Kuwait-exposes-generals%E2%80%99-reckless-negligence-during-war",
-                "source": "PressTV",
-                "date": "2026-07-12T23:35:28Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T01:00:29.966818Z"
+    "lastGlobalSync": "2026-07-14T01:04:52.012795Z"
 }
