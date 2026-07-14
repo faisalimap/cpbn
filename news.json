@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Women pay a penalty for being ambitious and asking for more",
+                "desc": "In an era where we supposedly don’t discriminate, Stefanie O’Connell says women, when they question their failure to advance, are met with pervasive gaslighting",
+                "image": "https://www.theglobeandmail.com/resizer/v2/XEJBRI6Z6JEMRFLEKO7TIKOYJ4.jpg?auth=0c2cce0ab681b24ad2928b3630e3090abd7519e842c26e0da3b3c6a83c6279db&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/careers/management/article-women-pay-a-penalty-for-being-ambitious-and-asking-for-more/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-13T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. Enterprises Recast Hybrid Cloud Strategies for AI Era",
+                "desc": "(2026-07-13 | NDAQ:III) U.S. Enterprises Recast Hybrid Cloud Strategies for AI Era",
+                "image": "https://assets.stockhouse.com/kentico-cms/0361-00/images/stockhouse-logo-og.png",
+                "url": "https://stockhouse.com/news/press-releases/2026/07/13/u-s-enterprises-recast-hybrid-cloud-strategies-for-ai-era",
+                "source": "Stockhouse",
+                "date": "2026-07-13T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cybersecurity startup Reken emerges from stealth with on-device shield for AI-powered fraud",
+                "desc": "Shuman Ghosemajumder's new company uses AI on-device to block phishing and other fraud attempts.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Screenshot-2026-07-12-at-145011.png?resize=1200,600",
+                "url": "https://fortune.com/2026/07/13/ex-google-click-fraud-czar-emerges-from-stealth-with-an-on-device-ai-shield-against-ai-powered-phishing-deepfakes-and-other-scams/",
+                "source": "Fortune",
+                "date": "2026-07-13T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Siren songs: AI, inflation, and the Fed’s next move",
+                "desc": "AI demand, energy risks, and inflation pressures test market resilience and the Federal Reserve’s outlook on monetary policy.",
+                "image": "https://www.invesco.com/content/dam/invesco/na/en/images/insights/THMB-siren-songs-AI-inflation-Fed-next-move.jpg",
+                "url": "https://www.invesco.com/us/en/insights/siren-songs-ai-inflation-fed-next-move.html",
+                "source": "invesco.com",
+                "date": "2026-07-13T12:58:56Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "LEIFRAS Co., Ltd. Forms Strategic Alliance with HR Produce, Leveraging Its Network of Over 10,000 Preschools to Accelerate Expansion into Japan's Preschool Market",
+                "desc": "Partnership Provides Access to an Extensive Childcare Facility Network to Scale Leifras' EdTech Solutions and Multi-Sport School Programs",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/pr-newswire/leifras-co-ltd-forms-strategic-alliance-with-hr-produce-leveraging-its-network-of-over-10000-preschools-to-accelerate-expansion-into-japans-preschool-market/2383368",
+                "source": "The Manila Times",
+                "date": "2026-07-13T12:58:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Caverton generates cash, but debt burden keeps profit in the red",
+                "desc": "Caverton Offshore Support Group has returned to positive cash generation, signalling that its core operations are stabilising. However...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Caverton-1.png",
+                "url": "https://businessday.ng/companies/article/caverton-generates-cash-but-debt-burden-keeps-profit-in-the-red/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-13T12:57:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BSNL unaudited operational revenue up by 10% to Rs 4,418 crore in Q1: Jyotiraditya Scindia",
+                "desc": "State-run BSNL reported a ten percent revenue increase in the first quarter. Enterprise business and consumer mobility segments showed growth for the company. The consumer fixed access segment remained almost flat during this period. Total revenue from operations reached Rs 4,418 crores this year. Average revenue per user provisionally increased from Rs 100 to Rs 102.7.",
+                "image": "https://img.etimg.com/thumb/msid-132367514,width-1200,height-630,imgsize-26148,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/bsnl-unaudited-operational-revenue-up-by-10-pc-to-rs-4418-crore-in-q1-jyotiraditya-scindia/articleshow/132367473.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-13T12:56:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Intel Stock Was Telling You About The Coming AI-CPU Revival",
+                "desc": "Behind the chipmaker's soaring share price was an overlooked story: the quiet, powerful resurgence of its oldest and most dominant product. Heading into mid-2025, you could be forgiven for thinking Intel (INTC) was a value trap on its way to becoming a museum piece.",
+                "image": "https://s3.amazonaws.com/wp-uploads-trefis/articles/wp-content/uploads/2026/06/09041400/ai-generated-technology-circuits-electronics-computer-pcb-motherboard-hardware-cpu-processor-trace-capacitor-semiconductor-connection-microchip-stockpack-pixabay.jpg",
+                "url": "https://www.trefis.com/stock/intc/articles-v3/606805/what-intel-stock-was-telling-you-about-the-coming-ai-cpu-revival/2026-07-13",
+                "source": "Trefis",
+                "date": "2026-07-13T12:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian shoppers embrace Facebook, AI faster than most of the world - Report",
+                "desc": "Nigeria's online shoppers are buying through Facebook and leaning on artificial intelligence at rates that outstrip most of the 29...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/online-shoppers-1.png",
+                "url": "https://businessday.ng/companies/article/nigerias-shoppers-embrace-facebook-ai-faster-than-most-of-the-world-report/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-13T12:52:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MeCure Industries seeks N50bn capital raise as profit jumps 177%",
+                "desc": "MeCure Industries Plc has proposed increasing its capital raising programme to N50 billion from N30 billion as the pharmaceutical...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/57c829a8-e698-45dd-b5c1-2ccff4451777.jpg",
+                "url": "https://businessday.ng/companies/article/mecure-industries-seeks-n50bn-capital-raise-as-profit-jumps-177/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-13T12:52:30Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Guardforce AI to Present Live, Answer Questions, at Skyline Signature Series™ on July 22, 2026, at 11:00 AM ET",
                 "desc": "Individual and institutional investors, advisors, and analysts are invited to attend",
                 "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134947.png",
@@ -542,99 +632,99 @@
                 "source": "Asian Power",
                 "date": "2026-07-13T00:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Consultation launched to develop new standards for CAMHS",
-                "desc": "The Mental Health Commission (MHC) has launched a six-week public consultation to develop standards in Child and Adolescent Mental Health Services (CAMHS).",
-                "image": "https://www.rte.ie/images/0020924a-1600.jpg",
-                "url": "https://www.rte.ie/news/ireland/2026/0713/1583029-camhs-consultation/",
-                "source": "RTE.ie",
-                "date": "2026-07-13T00:29:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stablecoin Market Cap Suffers Biggest Decline in 4 Years",
-                "desc": "The stablecoin market saw its largest decline in nearly four years. Stablecoins’ market capitalization dropped by $7.7 billion in June.",
-                "image": "https://www.pymnts.com/wp-content/uploads/2026/07/stablecoins-decline-1.jpg",
-                "url": "https://www.pymnts.com/cryptocurrency/2026/stablecoin-market-cap-suffers-biggest-decline-in-4-years/",
-                "source": "PYMNTS.com",
-                "date": "2026-07-13T00:28:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount Might Leave California if Sued Over Warner Bros. Discovery Merger",
-                "desc": "Paramount is reportedly considering leaving California as it prepares a lawsuit over its planned $111 billion takeover of Warner Bros. Discovery.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-2272991569.jpg?w=1440&h=810&crop=1",
-                "url": "https://www.hollywoodreporter.com/business/business-news/paramount-leave-california-lawsuit-warner-bros-discovery-merger-1236646241/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-07-13T00:26:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mark Carney’s trade strategy is driving manufacturers south",
-                "desc": "KPMG finds Canadian firms cutting investment and moving production to the U.S. as trade uncertainty persists. Find out more.",
-                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/2281265084.jpg",
-                "url": "https://torontosun.com/opinion/columnists/canadian-manufacturers-moving-south-as-carney-fails-to-deliver-on-trade",
-                "source": "Toronto Sun",
-                "date": "2026-07-13T00:00:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Regulator creates \"Insurance Scholars\" to help road accident victims",
-                "desc": "The Thai regulator, Office of Insurance Commission (OIC), is planning to create a new cadre of \"Insurance Scholars\" as a part of upgrading the protection system for victims of vehicle accidents in the country.",
-                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Country-Asia/large/Thailand_OIC_Insurance_Scholars_2026.jpg",
-                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96160/type/eDaily/Thailand-Regulator-creates-Insurance-Scholars-to-help-road-accident-victims",
-                "source": "Asia Insurance Review",
-                "date": "2026-07-13T00:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Study projects future of disaster insurance in a changing risk environment",
-                "desc": "Governments, insurers and communities can respond to rising disaster risks, increasing insurance costs and growing protection gaps by developing sustainable and inclusive support for household wellbeing, community resilience and economic stability, according to a new report by Australian",
-                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Catastrophe/large/Report.jpg",
-                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96156/Type/eDaily/Australia-Study-projects-future-of-disaster-insurance-in-a-changing-risk-environment",
-                "source": "Asia Insurance Review",
-                "date": "2026-07-13T00:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore's alternative risk transfer market poised for notable growth with upcoming PCC framework",
-                "desc": "The captive insurance and insurance-linked securities (ILS) sectors in Singapore are forecast to see clear growth soon after the Protected Cell Company (PCC) framework is launched by the Monetary Authority of Singapore (MAS), according to Mr Simon Goh, Partner and Head of Insurance & Reinsurance",
-                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Finance/large/Growth-04.jpg",
-                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96155/Type/eDaily/Singapore-s-alternative-risk-transfer-market-poised-for-notable-growth-with-upcoming-PCC-framework",
-                "source": "Asia Insurance Review",
-                "date": "2026-07-13T00:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strong Singapore dollar impacts businesses unevenly",
-                "desc": "Discover how Singapore's strong currency is affecting local businesses differently, with consumer-facing firms feeling the pinch more than manufacturers. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a224498124cefc6cc1225397c3c33850af72d55a2321459dc64f5a858b0cabe8",
-                "url": "https://www.straitstimes.com/business/companies-markets/part-of-the-risk-spore-businesses-face-uneven-impact-from-strong-singapore-dollar",
-                "source": "The Straits Times",
-                "date": "2026-07-13T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stellantis Trails Its Rival on Key Metrics but Offers Compelling Upside for Patient Investors",
-                "desc": "Compared to its \"Detroit Three\" peers, Stellantis offers a stronger risk/reward proposition.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877810%2Fautomotive-factory-1200x676-3f04514.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/12/stellantis-trails-its-rival-on-key-metrics-but-off/",
-                "source": "The Motley Fool",
-                "date": "2026-07-12T23:59:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marine insurance key to AfCFTA trade competitiveness - NIC",
-                "desc": "Marine cargo insurance will play a critical role in improving trade competitiveness under the African Continental Free Trade Area (AfCFTA), according to the National Insurance Commission (NIC).",
-                "image": "https://thebftonline.com/api/media/file/2G3A0169%20copy.jpg%20(1).jpg",
-                "url": "https://thebftonline.com/article/marine-insurance-key-to-afcfta-trade-competitiveness-nic",
-                "source": "Business & Financial Times",
-                "date": "2026-07-12T23:59:58Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "It's time to reclaim the Luddite",
+                "desc": "Big Tech looted our attention. Getting it back means rethinking the world offline",
+                "image": "https://www.salon.com/app/uploads/2026/07/luddite-1649662729.jpg",
+                "url": "https://www.salon.com/2026/07/13/its-time-to-reclaim-the-luddite/",
+                "source": "Salon.com",
+                "date": "2026-07-13T13:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Palworld Storms Back on Steam with 855K Concurrent Players as Version 1.0 Unlocks the World Tree and 20 new Pals",
+                "desc": "Palworld's version 1.0 launch drew 855K concurrent players on Steam, unlocking the long-teased World Tree region and 20+ new Pals to collect.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/palworld-1-0-HD-1920x1081.jpeg",
+                "url": "https://wccftech.com/palworld-1-0-855k-concurrent-players-world-tree/",
+                "source": "Wccftech",
+                "date": "2026-07-13T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Introducing The Maurice De Mauriac Rallymaster 'Swiss Tennis'",
+                "desc": "The latest iteration of the Rallymaster from California designer Carlton DeWoody and Zurich's Maurice de Mauriac pays tribute to Swiss Tennis.",
+                "image": "https://hodinkee.imgix.net/uploads/images/4a8d087b-eb02-4b01-82f6-41097a8a4df8/L1020773.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+                "url": "https://www.hodinkee.com/articles/the-maurice-de-mauriac-rallymaster-swiss-tennis",
+                "source": "Hodinkee",
+                "date": "2026-07-13T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CrashStealer' malware mimics Apple tool to steal Mac data",
+                "desc": "CrashStealer, a newly documented Mac infostealer, used an Apple-notarized meeting app to reach victims before stealing passwords, browser data and cryptocurrency credentials behind a fake system prompt.",
+                "image": "https://photos5.appleinsider.com/gallery/68220-143829-997C32E1-E383-4C76-92CE-220490CFDD4D-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/13/crashstealer-malware-poses-as-an-apple-tool-to-steal-passwords-mac-data",
+                "source": "AppleInsider",
+                "date": "2026-07-13T13:00:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Uvora: A macOS Menu Bar App for Finding Laravel Projects",
+                "desc": "Uvora is a free macOS menu bar app that indexes your Laravel projects locally and opens any of them from a single keyboard shortcut.",
+                "image": "https://laravelnews.s3.amazonaws.com/featured-images/Uvora-LN.png",
+                "url": "https://laravel-news.com/uvora-a-macos-menu-bar-app-for-finding-laravel-projects",
+                "source": "Laravel News",
+                "date": "2026-07-13T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi’s first ultra-luxury train doesn’t make any stops",
+                "desc": "Dream of the Desert is due to start running at the end of the year, and one of its trips will leave Riyadh on a two-day swing through the desert without stopping.",
+                "image": "https://img.semafor.com/165056b532b3b288f788d8c8bdffbf8180687144-1330x998.png?rect=0,150,1330,698&w=1200&h=630&q=75&auto=format",
+                "url": "https://www.semafor.com/article/07/13/2026/saudis-first-ultra-luxury-train-doesnt-make-any-stops",
+                "source": "Semafor",
+                "date": "2026-07-13T12:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK Trade Group Calls Death Of Discs A Blow To Consumer Choice",
+                "desc": "The move is coming even as many still buy games physically",
+                "image": "https://kotaku.com/app/uploads/2026/07/gta-5-disc-1200x675.jpg",
+                "url": "https://kotaku.com/uk-retail-group-slams-playstation-killing-discs-as-the-triumph-of-corporate-convenience-over-consumer-choice-2000715189",
+                "source": "Kotaku",
+                "date": "2026-07-13T12:58:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Final Fantasy Tactics: The Ivalice Chronicles 1.5.1 update out now, patch notes",
+                "desc": "Square Enix just put out a new version 1.5.1 update for Final Fantasy Tactics: The Ivalice Chronicles, and the patch notes are in.",
+                "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-Tactics-The-Ivalice-Chronicles-1.5.1-update.jpg",
+                "url": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-1-update-out-now-patch-notes/",
+                "source": "Nintendo Everything",
+                "date": "2026-07-13T12:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Huawei MatePad Air 2026 teaser shows stylish design, soft colors",
+                "desc": "Huawei MatePad Air 2026 tablet will be part of tomorrow's global launch event, and a video teaser is here showing tablet's design and colors",
+                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/MatePadAir-2026.jpg",
+                "url": "https://www.huaweicentral.com/huawei-matepad-air-2026-teaser-shows-stylish-design-soft-colors/",
+                "source": "Huawei Central",
+                "date": "2026-07-13T12:50:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Steam Machine \"Red Line of Death\" Turns On When System Hits 100°C",
+                "desc": "Previously, we reported that Valve's Steam Machine featured a \"red line of death\" (RLOD) that was mistakenly flagged as a system problem. This issue was actually a simple BIOS glitch that was resolved quickly. Valve has since updated its Q&A and the Steam Machine BIOS to enhance the functionality...",
+                "image": "https://www.techpowerup.com/img/PIFadsKKBEygdtS3.jpg",
+                "url": "https://www.techpowerup.com/350715/steam-machine-red-line-of-death-turns-on-when-system-hits-100-c",
+                "source": "TechPowerUp",
+                "date": "2026-07-13T12:48:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Thread-like electronics point to less obtrusive wearable health monitors",
                 "desc": "Imagine using a wearable device so thin and discreet that you'd hardly be aware you were wearing it. Now Tufts engineers have created flexible electronics that could do just that. Made of thread-based integrated circuits ...",
@@ -1174,99 +1264,99 @@
                 "source": "The Irish Times",
                 "date": "2026-07-12T23:31:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Kaspersky expert insights go interactive",
-                "desc": "An update to Threat Intelligence Reporting brings expert reports into the portal as structured content with inline visuals and geo-filtering.",
-                "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/Gemini_Generated_Image_wqmyx3wqmyx3wqmy.jpg?resize=1000%2C600&ssl=1",
-                "url": "https://gadget.co.za/kasperskyinteractive27m/",
-                "source": "gadget.co.za",
-                "date": "2026-07-12T23:27:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Realme Narzo 100x 5G Confirmed With 8,000mAh Battery for July 15",
-                "desc": "Realme Narzo 100x 5G launches July 15 in India with an 8,000mAh battery, 144Hz display, and Dimensity 6300. Full specs, pricing, and how it compares to the OnePlus N6.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Realme-Narzo-100x-5G-Confirmed-With-8000mAh-Battery-for-July-15.jpg",
-                "url": "https://memeburn.com/realme-narzo-100x-5g-confirmed-with-8000mah-battery-for-july-15/",
-                "source": "Memeburn",
-                "date": "2026-07-12T23:10:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S27 Ultra won't have to compete with S27 Pro on cameras",
-                "desc": "Instead of giving it near-identical imaging hardware to the flagship Ultra (as some earlier rumors suggested), the Pro is now shaping up as the sensible middle child",
-                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render-1024x577-1.webp",
-                "url": "https://www.gizmochina.com/2026/07/12/galaxy-s27-ultra-wont-have-to-compete-with-s27-pro-on-cameras/",
-                "source": "Gizmochina",
-                "date": "2026-07-12T23:10:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xero awards Australian media account to Speed",
-                "desc": "Accounting platform Xero has handed its Australian media planning and buying account to Sydney-based independent Speed following a competitive review.The New Zealand-founded software company has split its ANZ media account between Speed and Auckland-based D3, the latter handling the NZ territory.The full ANZ account was previously held by Noisy Beast, Mumbrella understands.In a statement shared […]",
-                "image": "https://mumbrella.com.au/wp-content/uploads/2026/07/Xero_2026-07-10.jpg",
-                "url": "https://mumbrella.com.au/xero-awards-australian-media-account-to-speed-929184",
-                "source": "Mumbrella",
-                "date": "2026-07-12T23:03:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Sheets vs Excel 2026: Which Spreadsheet Skill Should You Learn First?",
-                "desc": "Compare Google Sheets vs Excel 2026 to see which spreadsheet tool is best for beginners, students, job seekers, and professionals.",
-                "image": "https://h2g6j3q2.delivery.rocketcdn.me/wp-content/uploads/2026/07/IMG_9441.jpeg",
-                "url": "https://www.techcityng.com/google-sheets-vs-excel-2026/",
-                "source": "techcityng.com",
-                "date": "2026-07-12T23:01:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Surface Pro 2026 is still a good convertible, but Microsoft only uses the slowest Snapdragon X2 Elite",
-                "desc": "Microsoft only updates the CPU of the Surface Pro OLED with the latest Qualcomm Snapdragon X2 chips. However, you only get the slowest version of the Snapdragon X2 Elite with a comparatively slow GPU, which is not much faster than the Snapdragon X2 Plus.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Pro_13_OLED/surface_pro_oled_x2_elite_case_02.JPG",
-                "url": "https://www.notebookcheck.net/The-Surface-Pro-2026-is-still-a-good-convertible-but-Microsoft-only-uses-the-slowest-Snapdragon-X2-Elite.1338601.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-12T22:52:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Do Fitness Apps Work in 2026? What the Research Really Says",
-                "desc": "Do fitness apps work in 2026? Explore what research says about fitness apps, motivation, and whether they help build healthier habits.",
-                "image": "https://h2g6j3q2.delivery.rocketcdn.me/wp-content/uploads/2026/07/IMG_9440.jpeg",
-                "url": "https://www.techcityng.com/do-fitness-apps-work-2026/",
-                "source": "techcityng.com",
-                "date": "2026-07-12T22:51:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drakong launches Challenger controller for Xbox & PC",
-                "desc": "The wired pad targets budget-minded Xbox and PC players with Hall-effect sticks, back buttons and official licensing at USD $34.99.",
-                "image": "https://futurefive.com.au/uploads/story/2026/07/10/compatible_2525.jpg",
-                "url": "https://futurefive.com.au/story/drakong-launches-challenger-controller-for-xbox-pc-09dd9ef6-f8de-4822-9c04-bdab71488dc4",
-                "source": "futurefive.com.au",
-                "date": "2026-07-12T22:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Droga5's Dave Collins appointed head of strategy at Kerfuffle",
-                "desc": "\" ... independent, senior-led, fast on its feet, and built for impact.”",
-                "image": "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fit,w_630,f_auto/https%3A%2F%2Fcdn%2Eyaffa%2Ecom%2Eau%2Fadnews%2Flive%2Fimages%2FdmImage%2FSourceImage%2Fdave22%2Ejpg",
-                "url": "https://www.adnews.com.au/news/droga5-s-dave-collins-appointed-head-of-strategy-at-kerfuffle",
-                "source": "adnews.com.au",
-                "date": "2026-07-12T22:40:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ubisoft Makes $80 Game $4 for Limited Time",
-                "desc": "A Ubisoft game that normally costs $80 on Steam is currently available for just $4, thanks to a massive and limited time 95% discount.",
-                "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125",
-                "url": "https://comicbook.com/gaming/news/ubisoft-game-pc-steam-sale/",
-                "source": "ComicBook.com",
-                "date": "2026-07-12T22:37:18Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Why West Africa is betting on private capital to bridge its infrastructure deficit",
+                "desc": "Nigeria urges ECOWAS nations to expand public-private partnerships as governments seek private investment to bridge West Africas growing infrastructure gap. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/WaGktkpTURBXy85YjYzNTlhNmQyYjlmMTBlOTMzYjAwNGUxMzUxN2Q4OC5wbmeSlQMAAM0GiM0DrJMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/why-west-africa-is-betting-on-private-capital-to-bridge-its-infrastructure-deficit/2s4e28t",
+                "source": "Business Insider Africa",
+                "date": "2026-07-13T12:59:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine’s Drone Campaign Is Making the Sea of Azov Too Dangerous for Russia",
+                "desc": "Ukraine struck 105 Russian vessels in eight days, disrupting Crimea’s supply routes, threatening oil exports, turning the Sea of Azov into a trap for Russia.",
+                "image": "https://storage.united24media.com/og/f/85/fdd5ea25658184e713c99a66a7fc585f.png",
+                "url": "https://united24media.com/war-in-ukraine/ukraines-drone-campaign-is-making-the-sea-of-azov-too-dangerous-for-russia-20723",
+                "source": "UNITED24 Media",
+                "date": "2026-07-13T12:59:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zimbabwe Aligns With Malawi, Mozambique and Others as South Africa Immigration Enforcement Increases Border Checks, Regional Travel Concerns and Tourism Mobility Challenges",
+                "desc": "Zimbabwe Aligns With Malawi, Mozambique and Others as South Africa Immigration Enforcement continues influencing regional travel patterns, border checks and tourism mobility across Southern Africa. The evolving situation highlights the importance of balancing immigration management with smooth movement for travellers, businesses and tourism stakeholders. As regional destinations remain connected through cross-border journeys, maintaining efficient travel procedures and visitor confidence will be essential for supporting tourism growth and connectivity. Zimbabwe, Malawi, Mozambique and neighbouring markets will continue adapting to changing mobility conditions while working towards stronger regional cooperation, improved accessibility and sustainable tourism development across Southern Africa.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Immigration-.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/lhmp68ohouol/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-13T12:58:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Day Pre Approved Visit Permit Programme with Digital Visa Access Through VFS Global, Creating Faster Entry Opportunities for Tourism, Business Trips and Seamless Short Stay Journeys Across the UAE",
+                "desc": "Eligible Vietnamese passengers can now access Dubai more conveniently as the UAE has expanded its Emirates-linked 14-day pre-approved visit permit programme to include Vietnam, enabling smoother online visa processing through VFS Global before travel.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/high-level-description-a-wide-an-1-7.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/uwtn4ksexwdx/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-13T12:58:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TechReviewAfrica - News Details",
+                "desc": "Your Trusted Tech News Platform",
+                "image": "https://techreviewafrica.com/assets/images/news/2026/07/13/6a54e0826c0351783947394.jpg",
+                "url": "https://techreviewafrica.com/news/6280/smart-africa-and-african-union-renew-commitment-to-advancing-africas-ai-agenda",
+                "source": "Tech Review Africa",
+                "date": "2026-07-13T12:57:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump: U.S. should be reimbursed for guarding Strait of Hormuz",
+                "desc": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108330932-1783354232285-gettyimages-2284348554-AFP_B9EJ7H8.jpeg?v=1783354256&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+                "source": "CNBC",
+                "date": "2026-07-13T12:56:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TechReviewAfrica - News Details",
+                "desc": "Your Trusted Tech News Platform",
+                "image": "https://techreviewafrica.com/assets/images/news/2026/07/13/6a54decc74cb81783946956.jpg",
+                "url": "https://techreviewafrica.com/news/6279/geneva-digital-week-emphasises-global-push-for-ai-governance-digital-sustainability-and-infrastructure-resilience",
+                "source": "Tech Review Africa",
+                "date": "2026-07-13T12:52:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Insider: How Tanzania, Uganda lost $17 billion Dangote refinery lobby to Kenya",
+                "desc": "Dangote's decision to anchor his second mega-refinery on Kenya's northern coast came only after a monthslong, three-way contest with Uganda and Tanzania that exposed how differently the three East African neighbors compete for the same investor",
+                "image": "https://businessfront.com/wp-content/uploads/2025/04/105608495-1543947913488aliko-1.jpg",
+                "url": "https://businessfront.com/energy/insights/tanzania-uganda-dangote-refinery-kenya/",
+                "source": "Businessfront",
+                "date": "2026-07-13T12:51:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK slams new visa requirements on 33 African countries [Full list]",
+                "desc": "The United Kingdom has maintained its visa requirement for citizens of Nigeria and 32 other African countries, reaffirming that affected travelers must obtain entry clearance before travelling to or passing through the country.",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/UKG.jpg",
+                "url": "https://www.vanguardngr.com/2026/07/uk-slams-new-visa-requirements-on-33-african-countries-full-list/",
+                "source": "Vanguard News",
+                "date": "2026-07-13T12:51:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Heat Waves in Europe Linked to Thousands of Excess Deaths",
+                "desc": "While the full toll will take months to calculate, death statistics already look substantial compared with historical averages.",
+                "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13int-europe-heat-promo-qvtc/13int-europe-heat-promo-qvtc-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html",
+                "source": "The New York Times",
+                "date": "2026-07-13T12:51:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Colombian flower sector pushes back against proposed U.S. tariff hike",
                 "desc": "In March 2026, the USTR initiated investigations under Section 301 against 60 economies, including Colombia, to assess whether they have effective mechanisms to prohibit and enforce the…",
@@ -1806,98 +1896,8 @@
                 "source": "PressTV",
                 "date": "2026-07-12T23:35:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NGOs allege rights abuses by Western countries in deadlocked pandemic agreement talks",
-                "desc": "Civil society groups are calling on a UN human rights expert to investigate alleged foot-dragging by pharma-intensive countries at ongoing pandemic treaty talks, but will the motion have teeth?",
-                "image": "https://prodgs-17455.kxcdn.com/photos/e8bb53f8-d33f-40da-a9e9-d2d8997d7433/medium",
-                "url": "https://genevasolutions.news/global-health/frustrated-by-deadlocked-pandemic-treaty-talks-ngos-allege-rights-abuses-by-western-countries",
-                "source": "Geneva Solutions",
-                "date": "2026-07-12T23:35:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US launches second round of strikes on Iran as diplomacy gives way to conflict",
-                "desc": "The US military confirmed it had launched a new wave of attacks against Iran, after several of Washington’s Gulf allies were targeted by incoming fire in...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/BF3MJH3JYBE43P5HQOVR47CCOM.jpg?auth=dfd221025ed83f03cdf503c337470fb29157ad57f4db4636029f92b7ac9b7328&width=1200&height=675&quality=70&focal=1498%2C647&smart=false",
-                "url": "https://www.nzherald.co.nz/world/us-launches-second-round-of-strikes-on-iran-as-diplomacy-gives-way-to-conflict/GWCI6UJR3JEJVLNIJ4PEA33LIE/",
-                "source": "NZ Herald",
-                "date": "2026-07-12T23:32:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New era for Gibraltar with removal of border controls with Spain",
-                "desc": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno",
-                "source": "BBC",
-                "date": "2026-07-12T23:29:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New era for Gibraltar with removal of border controls with Spain",
-                "desc": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.com/news/articles/cwydz60j3eno",
-                "source": "BBC",
-                "date": "2026-07-12T23:29:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada Releases Portal to Check Countries Whose Citizens are Eligible for Visa",
-                "desc": "Discover the new IRCC online portal to simplify entry requirements for travellers, including visa details for Ghanaians, other passport holders visiting Canada.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/3c7abb0db82a0122.jpeg?v=1",
-                "url": "https://yen.com.gh/world/us/307732-canada-releases-online-portal-check-nigerians-a-visa-travelling/",
-                "source": "Yen News",
-                "date": "2026-07-12T23:26:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man kills son after soothsayer’s prediction",
-                "desc": "A YOUNG man in India who was missing for three years was found not only to have been murdered by his own father but was also dismembered by him.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4007081.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/07/13/man-kills-son-after-soothsayers-prediction",
-                "source": "The Star",
-                "date": "2026-07-12T23:25:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US launches more strikes on Iran, escalating clashes over Strait of Hormuz",
-                "desc": "The US military began launching more strikes against Iran about 7am (AEST) on Monday, after a weekend in which the two countries exchanged heavy missile and drone assaults.",
-                "image": "https://static.ffx.io/images/$zoom_2.118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_159/t_crop_custom/q_86%2Cf_auto/8b8d6e51eaa0cfabf9028b227a2e9726632aa9d6f0fe5f272db43530554e1b27",
-                "url": "https://www.theage.com.au/world/middle-east/us-launches-more-strikes-on-iran-escalating-clashes-over-strait-of-hormuz-20260713-p60eqk.html",
-                "source": "The Age",
-                "date": "2026-07-12T23:25:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hapless snatch thief messes with the wrong retiree",
-                "desc": "A 78-YEAR-OLD woman in Taiwan's Pingtung County fought off a 44-year-old man who tried to snatch her handbag, reported Sin Chew Daily.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4007079.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/07/13/hapless-snatch-thief-messes-with-the-wrong-retiree",
-                "source": "The Star",
-                "date": "2026-07-12T23:22:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NDLEA Arrests South African Woman, Seizes ₦10.3bn Worth of Drugs",
-                "desc": "NDLEA intercepts heroin, methamphetamine and cannabis worth billions in coordinated operations across Abuja, Lagos and Apapa seaport.",
-                "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/07/NDLEA-Arrests-South-African-Woman-Seizes-₦10.3bn-Worth-of-Drugs-.jpeg",
-                "url": "https://www.arise.tv/ndlea-arrests-south-african-woman-seizes-%E2%82%A610-3bn-worth-of-drugs/",
-                "source": "Arise News",
-                "date": "2026-07-12T22:54:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to spend smarter",
-                "desc": "Given the government's strong base of support in parliament, approval of the fiscal 2027 budget bill proceeded smoothly during the first reading earlier this month.",
-                "image": "https://static.bangkokpost.com/media/content/dcx/2026/07/13/6152477_700.jpg",
-                "url": "https://www.bangkokpost.com/business/general/3285192/how-to-spend-smarter",
-                "source": "Bangkok Post",
-                "date": "2026-07-12T22:44:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T00:40:32.629251Z"
+    "lastGlobalSync": "2026-07-14T01:00:29.966818Z"
 }
