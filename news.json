@@ -4,6 +4,33 @@
     "en": {
         "business": [
             {
+                "title": "Newsom signs SB 168: Creating instant rebates for EV buyers",
+                "desc": "Gov. Gavin Newsom signed a bill that will allow California families buying their first zero-emission vehicle (ZEV) to walk into participating automakers and get an instant rebate.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/d15cd6b7-180d-4cb9-9182-08587a42ed61.jpg?crop=1.00xw:0.846xh;0,0.0366xh&resize=1200:*",
+                "url": "https://www.kcra.com/article/newsom-sb-168-instant-rebates-ev-buyers/71922910",
+                "source": "KCRA",
+                "date": "2026-07-13T22:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google probed by Swiss regulator over Android default search feature",
+                "desc": "Switzerland's Competition Commission (COMCO) has launched a preliminary investigation into Google's  removal of a feature that allows mobile ​phone users to",
+                "image": "https://www.citinewsroom.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-083130.png",
+                "url": "https://www.citinewsroom.com/2026/07/google-probed-by-swiss-regulator-over-android-default-search-feature/",
+                "source": "CitiNewsroom.com",
+                "date": "2026-07-13T22:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brief lull in Middle East war pushed up business confidence",
+                "desc": "Business confidence partly recovered during the lull in Middle East hostilities, but uncertainty continues to weigh on firms' expectations for the economy, according to the latest NZ Institute of Economic Research's (NZIER) Quarterly Survey of Business Opinion (QSBO).",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--6_eLsoYa--/t_tohu-badge-facebook/f_auto/q_auto/4KI637I_d8e1c5999a04fc2e5064b0ed3d17a604_avif",
+                "url": "https://www.rnz.co.nz/news/business/715133/brief-lull-in-middle-east-war-pushed-up-business-confidence",
+                "source": "RNZ",
+                "date": "2026-07-13T22:46:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "STATEMENT FROM THE RIGMORA BIOTECH INVESTORS",
                 "desc": "MONACO, July 14, 2026 /PRNewswire/ -- The Rigmora Biotech Investors welcome the order issued July 10th 2026 by Hon. Justice Jalil Asif KC of the Grand Court of the Cayman Islands.",
                 "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
@@ -605,36 +632,72 @@
                 "source": "The Sun Nigeria",
                 "date": "2026-07-13T19:39:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "More than 2,000 sexual extortion complaints spark warning to young men",
-                "desc": "Major online platforms are accused of failing to deploy readily available technology to detect well-known blackmail tactics.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/833323fd83080ea05d32f96cfdf73bea?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-14/sextortion-threats-on-the-rise/106911280",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-13T19:38:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pentagon announces 'immediate suspension' of CMMC Phase II mandates",
-                "desc": "Top Pentagon officials said as currently executed, CMMC is too prohibitively burdensome on the Defense Industrial Base.",
-                "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/04/250421_DVIDS_airmen_typing_8891872-scaled-e1745262439703.jpg",
-                "url": "https://breakingdefense.com/2026/07/pentagon-announces-immediate-suspension-of-cmmc-mandates/",
-                "source": "Breaking Defense",
-                "date": "2026-07-13T19:33:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia Aligns With China and South Korea as Vietnam’s Top Tourism Markets as Russian Visitor Growth Surges Through Direct Flights, Easy Visas and Beach Holiday Demand",
-                "desc": "Vietnam has strengthened its position as one of the most attractive international destinations for Russian travellers, with visitor numbers recording a major",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Vietnam-FP.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/sn57h6h9otb6/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-13T19:33:23Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Your new laptop might have an SSD brand you've never heard of, and it's worth checking which one",
+                "desc": "The storage crisis is pushing manufacturers towards an alternative they wouldn't otherwise consider",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/06/lenovo-thinkpad-x1-carbon-laptop-gen14-17-1.png?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/your-new-laptop-probably-has-an-ssd-brand-youve-never-heard-of-and-its-worth-checking-which-one/",
+                "source": "XDA",
+                "date": "2026-07-13T23:00:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Coming Soon: A New AI-Powered Health Companion on Your Wrist",
+                "desc": "As AI becomes an integral part of daily life, mobile devices serve as the primary entry po",
+                "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/07/10174708/Samsung-Mobile-New-AI-Powered-Health-Companion_Thumb932.jpg",
+                "url": "https://news.samsung.com/global/coming-soon-a-new-ai-powered-health-companion-on-your-wrist",
+                "source": "Samsung Global Newsroom",
+                "date": "2026-07-13T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AirPods Case With MagSafe Charging & Drop Protection",
+                "desc": "Quad Lock has released its first AirPods case, bringing the brand's rugged phone-mount philosophy to everyday earphone protection, with a McLaren Formula 1 Team Edition finished in papaya orange.",
+                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/quad-lock-c9dde78592.webp",
+                "url": "https://www.tarmaclife.co.nz/top-gear/airpods-case-with-magsafe-charging-drop-protection/",
+                "source": "Tarmac Life",
+                "date": "2026-07-13T22:56:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Casio launches two new Color Camo watches with Y2K",
+                "desc": "Casio launches two new Color Camo watches in pink and purple, expanding its G-Shock Bold Camo lineup with 200m water resistance and 10-year battery life.",
+                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Casio-Color-Camo-watches.jpeg",
+                "url": "https://www.gizmochina.com/2026/07/13/casio-two-new-color-camo-watches-launched-in-the-us/",
+                "source": "Gizmochina",
+                "date": "2026-07-13T22:54:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dropbox expands AI integrations with ChatGPT & Claude",
+                "desc": "Users can now pull Dropbox files into ChatGPT, Claude and Gemini Spark, keeping AI output tied to existing permissions and team workflows.",
+                "image": "https://itbrief.com.au/uploads/story/2026/07/14/compatible_secure-cloud-ai-file-sharing-enterprise-dashboard-digital-illustration.jpg",
+                "url": "https://itbrief.com.au/story/dropbox-expands-ai-integrations-with-chatgpt-claude",
+                "source": "IT Brief Australia",
+                "date": "2026-07-13T22:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gothic 3D Collectathon 'Bobo and the Chest of Nightmares' Officially Announced for Nintendo Switch",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Gothic-3D-Collectathon-Bobo-and-the-Chest-of-Nightmares-Officially-Ann",
+                "source": "Games Press",
+                "date": "2026-07-13T22:46:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to install public betas for iOS 27, macOS 27, iPadOS 27, and more",
+                "desc": "Apple just launched public betas for its next big round of software revisions. Here's how to try iOS 27 and macOS 27 Golden Gate.",
+                "image": "https://helios-i.mashable.com/imagery/articles/01T3c8ogfmV4Zz461FwGrcb/hero-image.fill.size_1200x675.v1783960902.jpg",
+                "url": "https://mashable.com/tech/apple-ios-ipados-watchos-macos-27-public-beta-how-to-download",
+                "source": "Mashable",
+                "date": "2026-07-13T22:41:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "ThreatLocker CEO: AI vs. AI in cybersecurity is ‘complete garbage’",
                 "desc": "As outlined in CRN, ThreatLocker CEO Danny Jenkins has strongly refuted the notion that artificial intelligence (AI) can effectively defend against AI-powered cyberattacks, calling the concept \"complete garbage.\"",
@@ -1201,72 +1264,36 @@
                 "source": "The Southland Tribune",
                 "date": "2026-07-13T19:46:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Best Laptop Deal of the Day: Save $650 on This Clever HP OmniBook X Flip Convertible",
-                "desc": "This HP 2-in-1 Laptop is a solid midrange convertible choice for content creators and streamers, especially when it's on sale for 39% off!",
-                "image": "https://i.pcmag.com/imagery/articles/07AKu8NVoKx2rVYnp71olTv-2.fit_lim.size_1200x630.v1783959221.png",
-                "url": "https://www.pcmag.com/deals/best-laptop-deal-of-the-day-save-650-hp-omnibook-x-flip-july-13",
-                "source": "PCMag",
-                "date": "2026-07-13T19:45:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Get Your First Month of 5G Home Internet on T-Mobile and Up to $200 Back",
-                "desc": "One of the best deals in home internet service just got better, as T-Mobile's massive network can handle all your streaming, gaming, and work needs for less.",
-                "image": "https://i.pcmag.com/imagery/articles/05lNQvjO5OdAxTQNldJkxJp-1.fit_lim.size_1200x630.v1783951129.jpg",
-                "url": "https://www.pcmag.com/deals/first-month-of-5g-home-internet-on-t-mobile-and-up-to-200-back-july-13",
-                "source": "PCMag",
-                "date": "2026-07-13T19:45:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "8 watch in the US with Y2K",
-                "desc": "Casio launches the Baby-G BG169CMB-8 in the US, featuring a Y2K-inspired camo design, 200m water resistance, and retro digital watch functions.",
-                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Casio-Baby-G-BG169CMB-8-1.png",
-                "url": "https://www.gizmochina.com/2026/07/13/casio-baby-g-bg169cmb-8-launched-specs-price/",
-                "source": "Gizmochina",
-                "date": "2026-07-13T19:45:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Battery-like device pulls CO₂ from air using electricity and saltwater chemistry",
-                "desc": "Engineers have developed a new way to pull carbon dioxide directly from the atmosphere using a process similar to charging and discharging a battery—an advance that could help address the planet's excess CO2 problem.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-electrochemical-de.jpg",
-                "url": "https://techxplore.com/news/2026-07-battery-device-air-electricity-saltwater.html",
-                "source": "Tech Xplore",
-                "date": "2026-07-13T19:40:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations",
-                "desc": "A new chapter begins for the South of Midnight developer.",
-                "image": "https://sm.ign.com/t/ign_pk/news/f/former-xbo/former-xbox-studio-compulsion-games-says-its-open-to-collabo_ysd9.1200.jpg",
-                "url": "https://pk.ign.com/south-of-midnight/257811/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
-                "source": "IGN Pakistan",
-                "date": "2026-07-13T19:38:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More than 2,000 sexual extortion complaints spark warning to young men",
-                "desc": "Major online platforms are accused of failing to deploy readily available technology to detect well-known blackmail tactics.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/833323fd83080ea05d32f96cfdf73bea?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-14/sextortion-threats-on-the-rise/106911280",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-13T19:38:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's big Waze AI update includes a button that makes the app shut up",
-                "desc": "Google added Gemini voice search and a motorcycle mode to Waze. The feature people will actually use is 'less chatty' mode.",
-                "image": "https://media.thenextweb.com/2026/07/waze-gemini-less-chatty-motorcycle-mode.avif",
-                "url": "https://thenextweb.com/news/waze-gemini-less-chatty-motorcycle-mode",
-                "source": "The Next Web",
-                "date": "2026-07-13T19:38:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "The Cleanest Lakes in the World",
+                "desc": "Clear alpine basins and protected watersheds reveal the world’s cleanest lakes, including wonders such as Blue Lake, Crater Lake, and Lake Mashu.",
+                "image": "https://www.worldatlas.com/r/w1200-q80/upload/17/6f/59/queensland-lake-shutterstock-2556850949-s3cdn.jpg",
+                "url": "https://www.worldatlas.com/lakes/the-cleanest-lakes-in-the-world.html",
+                "source": "WorldAtlas",
+                "date": "2026-07-13T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xi to speak at WAIC; Preparing for July Politburo meeting on the economy; Unemployment at 10.2%?; Another American arrested for spying",
+                "desc": "The July Politburo meeting is usually about the economy, and adjustments needed for the rest of the year, and as part of the work ahead of that meeting the Premier solicits feedback. Today he held a meeting with several experts and entrepreneurs to “hear their views and suggestions on the current economic situation and the next steps in economic work.”",
+                "image": "https://substackcdn.com/image/fetch/$s_!1_R8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F230180fe-3d68-40c2-8fe3-bc628e4dc23e_1894x1060.png",
+                "url": "https://sinocism.com/p/xi-to-speak-at-waic-preparing-for",
+                "source": "Sinocism | Bill Bishop",
+                "date": "2026-07-13T22:42:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU announces restrictions on trading Sudanese gold",
+                "desc": "The European Union announced on Monday new sanctions against Sudan by targeting the country’s gold trade, which it said was being used to finance the military conflict in the country.“The decision introduces a ban on the purchase, import or transfer of gold originating in Sudan. It also bans the sale, supply, transfer or export of mercury and cyanide to Sudan,” said a statement by the Council of the European Union.The conflict between Sudan’s army and the paramilitary Rapid Support Forces began more than three years ago, and it has caused a vast humanitarian crisis.(By Sudip Kar-Gupta; Editing by Louise Heavens)",
+                "image": "https://image-api.prod.kitco.com/image/4ba1b3f6-ad04-4294-85ce-1c544837b7f8.png?top=10.323683110368&left=0&width=450&height=253.35263377926&scale_width=1920&token=e55f8b816a6419ec64396acf5cf8eb7a79fedceef72e67258ef922d296e6623e",
+                "url": "https://www.kitco.com/news/off-the-wire/2026-07-13/eu-announces-restrictions-trading-sudanese-gold",
+                "source": "KITCO",
+                "date": "2026-07-13T22:41:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "School Farms Boost Food Security In Kenya's Drylands",
                 "desc": "Kenya, 9th June 2026: At Inaarok Lukuny Comprehensive School in Kenya's Kajiado County, pupil enrolment has more than doubled over the past year,",
@@ -1869,35 +1896,8 @@
                 "source": "CBC",
                 "date": "2026-07-13T18:55:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran’s top clerical body endorses Leader’s call for revenge",
-                "desc": "The government’s top clerical body says the Leader’s strategic message proved Iran’s deep links with the revenge-seeking Shia school of thought.",
-                "image": "https://cdn.presstv.ir/Photo/2026/7/13/5514621f-cbf0-40d2-8cc5-a80333cdbb98.jpeg",
-                "url": "https://www.presstv.ir/Detail/2026/07/13/772189/Iran-Experts-Assembly-statement-Leader-revenge-call",
-                "source": "PressTV",
-                "date": "2026-07-13T18:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Woman arrested after objects thrown at Twelfth parade in east Belfast",
-                "desc": "A 42-year-old woman has been arrested after items were reportedly thrown at Twelfth parade participants in east Belfast on Monday.",
-                "image": "https://www.irishnews.com/resizer/v2/N6Q6DKMDNRNDXHEECAEKWASTMI.jpg?smart=true&auth=f74fc26b9565ceff2c76d5dbf923a9d8736613780c54ddbcccb1aa541e324601&width=1200&height=630",
-                "url": "https://www.irishnews.com/news/northern-ireland/woman-arrested-after-objects-thrown-at-twelfth-parade-in-east-belfast-3ITKTYS6ABH4ZHSA6RMXOSOVXE/",
-                "source": "The Irish News",
-                "date": "2026-07-13T18:49:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Coalition of the willing’ to build shared European anti-ballistic programme",
-                "desc": "Ukraine and nine other countries including UK issue joint statement as leaders meet Volodymyr Zelenskyy in Paris",
-                "image": "https://i.guim.co.uk/img/media/0480fec21079366ccf7a0805b22730be72d4fcbf/471_103_4342_3474/master/4342.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d79561fd23a0dad23a1ed16e7fc7cf44",
-                "url": "https://www.theguardian.com/world/2026/jul/13/coalition-of-the-willing-build-shared-european-anti-ballistic-programme",
-                "source": "The Guardian",
-                "date": "2026-07-13T18:49:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T10:40:21.532247Z"
+    "lastGlobalSync": "2026-07-14T11:00:23.729677Z"
 }
