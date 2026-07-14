@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+                "desc": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108214691-1761053683732-gettyimages-2242002238-FEDERAL_RESERVE_INNOVATION.jpeg?v=1761053710&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
+                "source": "CNBC",
+                "date": "2026-07-13T16:33:49Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Pot at PDX: Another high flier busted after police find over 30 pounds of marijuana",
+                "desc": "A North Carolina man is due in court Monday after Port of Portland Police say they found several packages of marijuana last week at PDX.",
+                "image": "https://katu.com/resources/media2/16x9/1280/1320/center/90/6b98dc46-d84a-4223-b952-006255bd54cc-PDXICESPE03212026_0001_frame_0.jpeg",
+                "url": "https://katu.com/news/local/pot-at-pdx-another-high-flier-busted-after-police-find-over-30-pounds-of-marijuana-portland-international-airport-tsa-transportation-security-administration-police-newark-new-jersey-oregon-multnomah-county",
+                "source": "KATU",
+                "date": "2026-07-13T16:32:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firm director ‘pretty gutted’ unable to halt liquidation",
+                "desc": "The director of an award-winning Central Otago painting company being liquidated owing $1.6 million says he put his ‘‘heart and soul’’ into the...",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/onecms_1semoiex8eju4oyg3fx.jpg?itok=sHw41dcq",
+                "url": "https://www.odt.co.nz/regions/central-otago/firm-director-%E2%80%98pretty-gutted%E2%80%99-unable-halt-liquidation",
+                "source": "Otago Daily Times",
+                "date": "2026-07-13T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ship traffic through Hormuz falls as U.S. and Iran fight for control",
+                "desc": "Ship traffic has fallen as the security situation in Hormuz rapidly deteriorated. Iran has repeatedly attacked ships, triggering fresh fighting with the U.S.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334121-17839589672026-07-12t085340z_645449173_rc25cmazvd5u_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1783959004&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/13/ship-traffic-through-hormuz-falls-as-us-and-iran-fight-for-control.html",
+                "source": "CNBC",
+                "date": "2026-07-13T16:29:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Internationally lauded North Kerry village encourages other communities to think big",
+                "desc": "Eleven years ago, Asdee was downgraded from the status of village to a node development because of population decline.",
+                "image": "https://img.resized.co/radiokerry-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltZy5yYWRpb2tlcnJ5LmllXFxcL3Byb2RcXFwvdXBsb2Fkc1xcXC9zaXRlc1xcXC8xNlxcXC9UaGUtVmlsbGFnZS1vZi1Bc2RlZS0yLTEwMjR4NjgyLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cucmFkaW9rZXJyeS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjE2NDg2OTYwNjc2MTQxNjA5MmUwN2MyN2Y0YjZmZGFhOTY5M2YwYjIifQ==/internationally-lauded-north-kerry-village-encourages-other-communities-to-think-big.jpg",
+                "url": "https://www.radiokerry.ie/news/internationally-lauded-north-kerry-village-encourages-other-communities-to-think-big-490971",
+                "source": "Radio Kerry",
+                "date": "2026-07-13T16:28:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canadian travel to U.S. ticks up in June, but remains far below pre-Trump levels",
+                "desc": "Statistics Canada says residents travelled more to the U.S. last month, but visitor numbers remained far below 2024 levels.",
+                "image": "https://www.castanet.net/content/2026/7/67fc1abb046df3f87df9d24f36ded82309c94185c106952a5e64d4e374b3d996.jpg",
+                "url": "https://www.castanet.net/news/Canada/624475/Canadian-travel-to-U-S-ticks-up-in-June-but-remains-far-below-pre-Trump-levels",
+                "source": "Castanet",
+                "date": "2026-07-13T16:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US state attorneys general file lawsuit in effort to block Paramount merger",
+                "desc": "A bipartisan group argue in lawsuit that $111bn merger would hurt competition and lead to thousands of job losses",
+                "image": "https://i.guim.co.uk/img/media/b302d13eedff044e908cd2838c56f307c67e14b6/662_0_7298_5840/master/7298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d8017da80e75c4694ef5dc56218360a",
+                "url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit",
+                "source": "The Guardian",
+                "date": "2026-07-13T16:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FG Borrows N7.6 Trillion From Nigerians As Domestic Debt Rises in H1 2026",
+                "desc": "The DMO raised N7.6 trillion through Treasury bills and FGN bonds in H1 2026 as the federal government intensified domestic borrowing to finance budget needs.",
+                "image": "https://cdn.legit.ng/images/1200x675/5e86ce496892d9b4.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/economy/1719083-fg-borrows-n76-trillion-nigerians-domestic-debt-rises-h1-2026/",
+                "source": "Legit.ng",
+                "date": "2026-07-13T16:25:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Weeds take over Judicial Service bungalow at Wenchi as key staff rent private accommodation",
+                "desc": "The newly constructed residential bungalow for the Judicial Service in the Wenchi Municipality, has been left unoccupied for some months, with weeds taking over the facility .",
+                "image": "https://cdn.modernghana.com/images/content/713202654141-ptkwn0a442-sun0352-social-bungalow-weeds-picture-.jpeg",
+                "url": "https://www.modernghana.com/news/1510301/weeds-takeover-judicial-service-bungalow-at-wench.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-13T16:25:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mon: Late rally wipes out losses",
+                "desc": "Tower and Delek led the gains today as Camtek lost ground.",
+                "image": "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/Globes_Archive_800x392.2018729T150619.jpg",
+                "url": "https://en.globes.co.il/en/article-mon-late-rally-wipes-out-losses-1001549187",
+                "source": "Globes - Israel Business News",
+                "date": "2026-07-13T16:24:57Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch",
                 "desc": "SpaceX is targeting no earlier than July 16 for the next launch of its massive Starship rocket. Flight 13 will be the second launch of the vehicle's Version 3 configuration and will be similar to the mostly successful Flight 12.",
                 "image": "https://cdn.mos.cms.futurecdn.net/rJfDYZCkZHCgsNTJQ3cjs5-1920-80.jpg",
@@ -542,99 +632,99 @@
                 "source": "Deadline",
                 "date": "2026-07-13T13:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Federation of Labour Calls for Higher Injury Payouts Following WorkplaceNL Surplus",
-                "desc": "The agency which runs the workers compensation system says 2025 was a good year on several fronts, but adds th...",
-                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/jessica-mccormick-budget.jpg",
-                "url": "https://vocm.com/2026/07/13/303996/",
-                "source": "VOCM",
-                "date": "2026-07-13T13:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Experts highlight need to explore safer nicotine alternatives alongside existing measures",
-                "desc": "New Zealand's experience offers lessons for countries battling persistent tobacco addiction.",
-                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA1MmFlZjQwLTdlYmItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-                "url": "https://www.tribuneindia.com/news/health/experts-highlight-need-to-explore-safer-nicotine-alternatives-alongside-existing-measures/",
-                "source": "The Tribune",
-                "date": "2026-07-13T13:00:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Women pay a penalty for being ambitious and asking for more",
-                "desc": "In an era where we supposedly don’t discriminate, Stefanie O’Connell says women, when they question their failure to advance, are met with pervasive gaslighting",
-                "image": "https://www.theglobeandmail.com/resizer/v2/XEJBRI6Z6JEMRFLEKO7TIKOYJ4.jpg?auth=0c2cce0ab681b24ad2928b3630e3090abd7519e842c26e0da3b3c6a83c6279db&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/careers/management/article-women-pay-a-penalty-for-being-ambitious-and-asking-for-more/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-13T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. Enterprises Recast Hybrid Cloud Strategies for AI Era",
-                "desc": "(2026-07-13 | NDAQ:III) U.S. Enterprises Recast Hybrid Cloud Strategies for AI Era",
-                "image": "https://assets.stockhouse.com/kentico-cms/0361-00/images/stockhouse-logo-og.png",
-                "url": "https://stockhouse.com/news/press-releases/2026/07/13/u-s-enterprises-recast-hybrid-cloud-strategies-for-ai-era",
-                "source": "Stockhouse",
-                "date": "2026-07-13T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cybersecurity startup Reken emerges from stealth with on-device shield for AI-powered fraud",
-                "desc": "Shuman Ghosemajumder's new company uses AI on-device to block phishing and other fraud attempts.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Screenshot-2026-07-12-at-145011.png?resize=1200,600",
-                "url": "https://fortune.com/2026/07/13/ex-google-click-fraud-czar-emerges-from-stealth-with-an-on-device-ai-shield-against-ai-powered-phishing-deepfakes-and-other-scams/",
-                "source": "Fortune",
-                "date": "2026-07-13T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Siren songs: AI, inflation, and the Fed’s next move",
-                "desc": "AI demand, energy risks, and inflation pressures test market resilience and the Federal Reserve’s outlook on monetary policy.",
-                "image": "https://www.invesco.com/content/dam/invesco/na/en/images/insights/THMB-siren-songs-AI-inflation-Fed-next-move.jpg",
-                "url": "https://www.invesco.com/us/en/insights/siren-songs-ai-inflation-fed-next-move.html",
-                "source": "invesco.com",
-                "date": "2026-07-13T12:58:56Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "LEIFRAS Co., Ltd. Forms Strategic Alliance with HR Produce, Leveraging Its Network of Over 10,000 Preschools to Accelerate Expansion into Japan's Preschool Market",
-                "desc": "Partnership Provides Access to an Extensive Childcare Facility Network to Scale Leifras' EdTech Solutions and Multi-Sport School Programs",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/pr-newswire/leifras-co-ltd-forms-strategic-alliance-with-hr-produce-leveraging-its-network-of-over-10000-preschools-to-accelerate-expansion-into-japans-preschool-market/2383368",
-                "source": "The Manila Times",
-                "date": "2026-07-13T12:58:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Caverton generates cash, but debt burden keeps profit in the red",
-                "desc": "Caverton Offshore Support Group has returned to positive cash generation, signalling that its core operations are stabilising. However...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Caverton-1.png",
-                "url": "https://businessday.ng/companies/article/caverton-generates-cash-but-debt-burden-keeps-profit-in-the-red/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-13T12:57:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BSNL unaudited operational revenue up by 10% to Rs 4,418 crore in Q1: Jyotiraditya Scindia",
-                "desc": "State-run BSNL reported a ten percent revenue increase in the first quarter. Enterprise business and consumer mobility segments showed growth for the company. The consumer fixed access segment remained almost flat during this period. Total revenue from operations reached Rs 4,418 crores this year. Average revenue per user provisionally increased from Rs 100 to Rs 102.7.",
-                "image": "https://img.etimg.com/thumb/msid-132367514,width-1200,height-630,imgsize-26148,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/bsnl-unaudited-operational-revenue-up-by-10-pc-to-rs-4418-crore-in-q1-jyotiraditya-scindia/articleshow/132367473.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-13T12:56:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Intel Stock Was Telling You About The Coming AI-CPU Revival",
-                "desc": "Behind the chipmaker's soaring share price was an overlooked story: the quiet, powerful resurgence of its oldest and most dominant product. Heading into mid-2025, you could be forgiven for thinking Intel (INTC) was a value trap on its way to becoming a museum piece.",
-                "image": "https://s3.amazonaws.com/wp-uploads-trefis/articles/wp-content/uploads/2026/06/09041400/ai-generated-technology-circuits-electronics-computer-pcb-motherboard-hardware-cpu-processor-trace-capacitor-semiconductor-connection-microchip-stockpack-pixabay.jpg",
-                "url": "https://www.trefis.com/stock/intc/articles-v3/606805/what-intel-stock-was-telling-you-about-the-coming-ai-cpu-revival/2026-07-13",
-                "source": "Trefis",
-                "date": "2026-07-13T12:56:15Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "ASUS expands ProArt range with compact keyboard and smart creator mouse",
+                "desc": "ASUS expands its ProArt range with the compact KD300 keyboard and MD301 mouse designed for creative professionals.",
+                "image": "https://www.techedt.com/wp-content/uploads/2026/07/ASUS-expands-ProArt-range-with-compact-keyboard-and-smart-creator-mouse.jpg",
+                "url": "https://www.techedt.com/asus-expands-proart-range-with-compact-keyboard-and-smart-creator-mouse",
+                "source": "Tech Edition",
+                "date": "2026-07-13T16:32:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Should AI help you get away with killing your spouse?",
+                "desc": "What does a world of total user-aligned AI actually look like?",
+                "image": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900",
+                "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+                "source": "TechCrunch",
+                "date": "2026-07-13T16:31:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Newly Independent Compulsion Games Is Looking For Collaboration Opportunities",
+                "desc": "Newly independent studio Compulsion Games has put out a call to action for those interested in collaborating on projects.",
+                "image": "https://insider-gaming.com/wp-content/uploads/2025/04/What-Time-Does-South-of-Midnight-Release-Start-Dates-Early-Access-Times-Confirmed-guide.jpg",
+                "url": "https://insider-gaming.com/newly-independent-compulsion-games-is-looking-for-collaboration-opportunities/",
+                "source": "Insider Gaming",
+                "date": "2026-07-13T16:30:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An unlikely Chinese company claims they have the first \"AI Agentic Phone\"",
+                "desc": "Their \"AI Agent\"-first approach is novel, but they still have a long way to go. A Chinese company you may have never heard of has just announced that it's...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/stepx-neo/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/an_unlikely_chinese_company_is_promising_the_first_ai_agentic_phone-news-73695.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-13T16:30:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Outlaws + Handful Of Missions Is Coming To Switch 2, Free Upgrade Confirmed",
+                "desc": "Atari doing what Squeenix don't - Don't you just love it when a new announcement makes a previous announcement look even worse? Case in point, Square Enix co...",
+                "image": "https://images.nintendolife.com/14f977f9a4072/large.jpg",
+                "url": "https://www.nintendolife.com/news/2026/07/outlaws-plus-handful-of-missions-is-coming-to-switch-2-free-upgrade-confirmed",
+                "source": "Nintendo Life",
+                "date": "2026-07-13T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"Score Attack Roguelike KAZ Goes No",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/pl/Score-Attack-Roguelike-KAZ-Goes-No-Holds-Barred-for-PC-Release",
+                "source": "Games Press",
+                "date": "2026-07-13T16:28:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ALEXA to the Xtreme",
+                "desc": "All the latest audio, video and lighting technology news that affects the industry in the vibrant and vital APAC markets. Always up to date on new global product launches, impart expert business analysis, and in-depth reports on the most topical projects and events in Asia-Pacific.",
+                "image": "https://www.proavl-asia.com/img/l0zpq989rcqbh6bnrtxq2zbt.png",
+                "url": "https://www.proavl-asia.com/details/80670-alexa-to-the-xtreme",
+                "source": "Pro AVL Asia",
+                "date": "2026-07-13T16:26:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Camera Assistant on One UI 9 to get mystery new foldable feature, camera auto-off control, and more",
+                "desc": "One of the more interesting additions is a feature called Mirror View, which will be exclusive to the Galaxy Z Fold 8 and Flip 8. - SamMobile",
+                "image": "https://www.sammobile.com/wp-content/uploads/2026/02/Galaxy-S26-camera-1200x675.jpg",
+                "url": "https://www.sammobile.com/news/samsung-camera-assistant-one-ui-9-auto-off-control-mystery-foldable-feature/",
+                "source": "SamMobile",
+                "date": "2026-07-13T16:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Pixel Watch 4 drops to $349.99 in one of its best deals yet",
+                "desc": "Amazon cuts the 41mm, LTE Google Pixel Watch 4 by $100, with Wear OS 6, 3000-nit display, and up to 30 hours runtime.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-watch-4-new-modular-watch-face.jpg",
+                "url": "https://www.androidauthority.com/google-pixel-watch-4-lte-deal-3686984/",
+                "source": "Android Authority",
+                "date": "2026-07-13T16:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Halo Studios reportedly cancels Halo multiplayer project Ekur, which had customisable Spartans and Elites and large player battles",
+                "desc": "Does that mean the Unreal remake of Halo 1 will have no competitive multiplayer at all?",
+                "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-11.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/halo-studios-project-ekur-cancelled-certain-affinity",
+                "source": "Eurogamer.net",
+                "date": "2026-07-13T16:20:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "On: The Blancpain Fifty Fathoms Tech Date, a Truly Purposeful Three",
                 "desc": "Born from the extreme Tech Gombessa, Blancpain's latest technical dive watch is a little more versatile for use on dry land.",
@@ -1174,99 +1264,99 @@
                 "source": "Games Press",
                 "date": "2026-07-13T13:32:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-                "desc": "Forg365 targets Microsoft 365 with device code and AitM phishing, then uses stolen tokens for persistent browser sessions and mailbox access.",
-                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlR-dy6ENZN5NKa1_sViQqXH6fEfEROkwjKV9vTowPmCu_nOALJ89JzGg-ueVJMCAqDHHozMZGd8oWbIlAQDTI8anEd6A2ZK0MdBN_FiShR3UoHGL6Cf0Gbhv8dY9RkVlZxpOCmks29u8Fnmx-JcytGZlnKC_9EuColvIMY4Y5IXH91aRaN5HOgjvvSPEo/s1700-e365/ms-device-code1.jpg",
-                "url": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-                "source": "The Hacker News",
-                "date": "2026-07-13T13:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MY.GAMES Celebrates 8th Anniversary of Left to Survive With Month-Long Celebration",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/MYGAMES-Celebrates-8th-Anniversary-of-Left-to-Survive-With-Month-Long-",
-                "source": "Games Press",
-                "date": "2026-07-13T13:02:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bending Roguelike Sharpened to the Last Second",
-                "desc": "Time-bending action roguelike Ascend to ZERO is available today on XBOX Series X|S, XBOX on PC, and via XBOX Game Pass.",
-                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/A2Z-in-line-asset_01_keyart-4b293a6c17f6857d1ac7.jpg",
-                "url": "https://news.xbox.com/en-us/2026/07/13/ascend-to-zero-a-time-bending-roguelike-xbox-launch/",
-                "source": "XBOX Wire",
-                "date": "2026-07-13T13:02:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Emma mattress designed to 'keep cool' now less than half price with double discount",
-                "desc": "Emma Sleep has launched its Big Summer Sale with up to 50% off - and shoppers can get an extra 10% off all sale prices with an exclusive discount code",
-                "image": "https://i2-prod.corkbeo.ie/article34280785.ece/ALTERNATES/s1200d/1_linkby-1.jpg",
-                "url": "https://www.corkbeo.ie/culture/whats-on-news/mattress-less-than-half-price-34280786",
-                "source": "Cork Beo",
-                "date": "2026-07-13T13:02:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year",
-                "desc": "Consumer security updates now run to October 2027, and Redmond doesn't mention Windows 11 once",
-                "image": "https://image.theregister.com/5270429.jpg?imageId=5270429&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/os-platforms/2026/07/13/microsoft-emails-windows-10-holdouts-fine-keep-your-old-pc-another-year/5270336",
-                "source": "The Register",
-                "date": "2026-07-13T13:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Benefits, Risks & Best Practices",
-                "desc": "Learn how SaaS security posture management helps enterprises detect misconfigurations, strengthen access controls, improve compliance, and reduce cyber risks.",
-                "image": "https://securityjournalamericas.com/wp-content/uploads/2026/07/How-SaaS-Security-Posture-Management-Strengthens-Enterprise-Cybersecurity-1-1.jpg",
-                "url": "https://securityjournalamericas.com/saas-security-posture-management/",
-                "source": "Security Journal Americas",
-                "date": "2026-07-13T13:01:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox fan successfully sues Microsoft for blocking his entire digital games library - in what could be a huge win for consumer rights",
-                "desc": "Brazilian Xbox player, Ordo_Liberal, recently won a court case against Microsoft, proving you can fight for the right to preserve digital ownership of your games and win.",
-                "image": "https://cdn.mos.cms.futurecdn.net/FvaB5XVBD4R897rQUnFEQB-1920-80.png",
-                "url": "https://www.windowscentral.com/gaming/xbox/xbox-fan-sues-microsoft-blocking-his-digital-games-library",
-                "source": "Windows Central",
-                "date": "2026-07-13T13:01:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reditus Finishes ENOS Reentry Vehicle Ahead of First Flight",
-                "desc": "Reditus announced today it completed development of its first reentry spacecraft—called ENOS—which is scheduled to fly a debut flight this fall.",
-                "image": "https://payloadspace.com/wp-content/uploads/2026/07/DSC02699-scaled.jpeg",
-                "url": "https://payloadspace.com/reditus-finishes-enos-reentry-vehicle-ahead-of-first-flight/",
-                "source": "Payload Space",
-                "date": "2026-07-13T13:01:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lunarium launches July 29",
-                "desc": "Hand-drawn isometric action RPG Lunarium will launch for PC via Steam on July 29 for $17.99 / €17.99 / £15.99, publisher Imperfect Games and developer Lunarium…",
-                "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Lunarium-Date_07-13-26.jpg",
-                "url": "https://www.gematsu.com/2026/07/lunarium-launches-july-29",
-                "source": "Gematsu",
-                "date": "2026-07-13T13:00:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "It's time to reclaim the Luddite",
-                "desc": "Big Tech looted our attention. Getting it back means rethinking the world offline",
-                "image": "https://www.salon.com/app/uploads/2026/07/luddite-1649662729.jpg",
-                "url": "https://www.salon.com/2026/07/13/its-time-to-reclaim-the-luddite/",
-                "source": "Salon.com",
-                "date": "2026-07-13T13:00:05Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Kano, Nigeria, among the 10 largest cities in the world by population in 2026 - Full list",
+                "desc": "Kano, Nigeria, ranks among the world's 10 largest cities by population in 2026. See the full list of the biggest cities and their latest population figures. Read more.",
+                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/13072026/09f29a06-e64e-4b3b-9952-e388af84e77a.jpg?operations=autocrop(1200:630)",
+                "url": "https://www.pulse.com.gh/story/kano-nigeria-among-the-10-largest-cities-in-the-world-by-population-in-2026-full-list-2026071316142358480",
+                "source": "Pulse Ghana",
+                "date": "2026-07-13T16:34:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK Explains How Migrants Can Stay Permanently After Spouse’s Death",
+                "desc": "The UK government details how foreign nationals on family visas can apply for Indefinite Leave to Remain after their partner's death including fee waivers",
+                "image": "https://cdn.yen.com.gh/images/1200x675/4d3e2c7086d479d7.jpeg?v=1",
+                "url": "https://yen.com.gh/people/307804-uk-explains-how-migrants-stay-permanently-spouses-death/",
+                "source": "Yen News",
+                "date": "2026-07-13T16:34:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump reimposes US blockade and demands 20% Hormuz shipping fee",
+                "desc": "Trump declared the US would collect a 20% fee on all Hormuz cargo as \"Guardian of the Strait,\" flipping the script on Iran's own toll demands, while US forces struck dozens of targets in Iran and the IRGC hit Bahrain, Jordan, Kuwait and Oman in the biggest exchange since the April ceasefire.",
+                "image": "https://images.euronews.com/articles/stories/09/83/65/32/1200x675_cmsv2_16632f1c-7d1d-52b4-85a9-452cb5bb5847-9836532.jpg",
+                "url": "https://www.euronews.com/2026/07/13/trump-reimposes-us-blockade-and-demands-20-hormuz-shipping-fee",
+                "source": "Euronews.com",
+                "date": "2026-07-13T16:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nine European countries and Ukraine form anti-ballistic missile coalition",
+                "desc": "The creation of the anti-ballistic missile coalition comes in the wake of a growing threat of ballistic missiles on Europe. The declaration states the coalition serves in a 'purely defensive' manner.",
+                "image": "https://images.euronews.com/articles/stories/09/83/63/83/1200x675_cmsv2_32077660-2d1f-5614-8c13-ca638454af68-9836383.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/07/13/nine-european-countries-and-ukraine-form-anti-ballistic-missile-coalition",
+                "source": "Euronews",
+                "date": "2026-07-13T16:31:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eight international logistics corridors launched as Egypt activates UN road transport pact",
+                "desc": "Egypt signed a guarantee agreement under the United Nations TIR Convention to reduce road transport costs by up to 40 per cent and transit times by 80 per cent, alongside announcing the implementation of eight international logistics corridors designed to link Europe, the Gulf, and Africa. The agreement between the Egyptian Customs Authority and the",
+                "image": "https://images.dailynewsegypt.com/2026/07/746823919_1685489369380309_3910971504723396276_n.png.jpeg",
+                "url": "https://www.dailynewsegypt.com/2026/07/13/eight-international-logistics-corridors-launched-as-egypt-activates-un-road-transport-pact/",
+                "source": "Dailynewsegypt",
+                "date": "2026-07-13T16:30:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reflection On Kazan 2026: Reaffirming ASEAN",
+                "desc": "Amidst the ongoing war with Ukraine for four years running, the 52nd G7 meeting in Évian-les-Bains, France (15-17 June 2026), and Israel-US and Iran conflict,",
+                "image": "https://www.eurasiareview.com/wp-content/uploads/2026/07/a-99.jpg",
+                "url": "https://www.eurasiareview.com/13072026-reflection-on-kazan-2026-reaffirming-asean-russia-strategic-ties-amid-great-power-rivalry/",
+                "source": "Eurasia Review",
+                "date": "2026-07-13T16:28:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK says support for Iran's IRGC outlawed under new state threats law",
+                "desc": "Britain said on Monday it would designate Iran's Islamic Revolutionary Guard Corps and two other groups under new state threats legislation, making it a criminal offense to support or assist them if the measure is approved by parliament later this week.",
+                "image": "https://i.iranintl.com/images/rdk9umy0/production/727344d37f0b58b61e69fe13f3200a422065cd44-650x350.jpg?rect=0,5,650,341&w=1200&h=630&q=66&fit=max&auto=format",
+                "url": "https://www.iranintl.com/en/202607137903",
+                "source": "ایران اینترنشنال",
+                "date": "2026-07-13T16:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump reinstating naval blockade of Iranian ports",
+                "desc": "The US president also says Washington will charge a 20% toll on all cargo shipped through the Strait of Hormuz.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o",
+                "source": "BBC",
+                "date": "2026-07-13T16:23:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge sanctions Trump lawyers over IRS ‘settlement’ in brutal takedown",
+                "desc": "Trump’s team schemed the court to force a settlement with his own government to bail him out from tax investigations, judge says",
+                "image": "https://static.independent.co.uk/2026/07/10/18/2284693598..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-irs-settlement-slush-fund-lawsuit-b3014060.html",
+                "source": "The Independent",
+                "date": "2026-07-13T16:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flight operations return to normal at OR Tambo after fog disruptions",
+                "desc": "Flight operations are running at full capacity after dense fog caused delays and diversions.",
+                "image": "https://media-cache.primedia-service.com/media/qjqnxvra/or-tambo-airport.jpg?width=1200&height=630",
+                "url": "https://www.ewn.co.za/2026/07/13/flight-operations-return-to-normal-at-or-tambo-after-fog-disruptions",
+                "source": "EWN",
+                "date": "2026-07-13T16:16:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Arbitral Award not a piece of paper’ - Malacañang",
                 "desc": "Malacañang yesterday maintained that the 2016 Arbitral Award is not just a “piece of paper,” as it gave assurance that President Marcos would continue to protect the country’s sovereign rights over the West Philippine Sea while contributing to peace and stability in the region.",
@@ -1806,98 +1896,8 @@
                 "source": "The Moscow Times",
                 "date": "2026-07-13T13:22:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Indigenous leaders confront overlapping crises at UN, as climate and conflict collide",
-                "desc": "IndigiNews is in Geneva for the UN’s Expert Mechanism on the Rights of Indigenous Peoples, which will focus on violence, disaster relief, artificial intelligence, and more.",
-                "image": "https://indiginews.com/wp-content/uploads/2026/07/emrip-1-grist.webp",
-                "url": "https://indiginews.com/news/un-expert-mechanism-rights-indigenous-peoples-confront-overlapping-crises/",
-                "source": "Indiginews",
-                "date": "2026-07-13T13:03:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Protected but deported anyway, as Trump goes after ‘dreamers’",
-                "desc": "HOUSTON, July 13 — Jose Contreras felt safe from deportation under a programme launched years ago under Barack Obama, but the Trump administration expelled him anyway.The day...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/13/351636.jpg",
-                "url": "https://www.malaymail.com/news/world/2026/07/13/protected-but-deported-anyway-as-trump-goes-after-dreamers/227402",
-                "source": "Malay Mail",
-                "date": "2026-07-13T13:02:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First came the dead fish, then invasive plants. A year later and Lake Suchitlán’s pollution remains a mystery",
-                "desc": "Fishers on El Salvador’s largest lake are still looking for answers after the die-off, with no explanation provided by the government",
-                "image": "https://i.guim.co.uk/img/media/e5a76a4f6f71a1b3a84260d40ddb11550d10af65/542_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c0ab4c9a8d9a68d513edf4c1f3781e6",
-                "url": "https://www.theguardian.com/global-development/2026/jul/13/el-salvador-lake-suchitlan-pollution-waste-water-invasive-plants-fish",
-                "source": "The Guardian",
-                "date": "2026-07-13T13:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EES faces fresh political pressure despite security gains",
-                "desc": "Governments and transport operators want EES border-check flexibilities extended, while the EC cites nearly 44,000 denied entries as proof it works.",
-                "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2026/04/27114916/speed-identity-ees-scaled.jpg",
-                "url": "https://www.biometricupdate.com/202607/ees-faces-fresh-political-pressure-despite-security-gains",
-                "source": "Biometric Update",
-                "date": "2026-07-13T13:01:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why West Africa is betting on private capital to bridge its infrastructure deficit",
-                "desc": "Nigeria urges ECOWAS nations to expand public-private partnerships as governments seek private investment to bridge West Africas growing infrastructure gap. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/WaGktkpTURBXy85YjYzNTlhNmQyYjlmMTBlOTMzYjAwNGUxMzUxN2Q4OC5wbmeSlQMAAM0GiM0DrJMFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/markets/why-west-africa-is-betting-on-private-capital-to-bridge-its-infrastructure-deficit/2s4e28t",
-                "source": "Business Insider Africa",
-                "date": "2026-07-13T12:59:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine’s Drone Campaign Is Making the Sea of Azov Too Dangerous for Russia",
-                "desc": "Ukraine struck 105 Russian vessels in eight days, disrupting Crimea’s supply routes, threatening oil exports, turning the Sea of Azov into a trap for Russia.",
-                "image": "https://storage.united24media.com/og/f/85/fdd5ea25658184e713c99a66a7fc585f.png",
-                "url": "https://united24media.com/war-in-ukraine/ukraines-drone-campaign-is-making-the-sea-of-azov-too-dangerous-for-russia-20723",
-                "source": "UNITED24 Media",
-                "date": "2026-07-13T12:59:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zimbabwe Aligns With Malawi, Mozambique and Others as South Africa Immigration Enforcement Increases Border Checks, Regional Travel Concerns and Tourism Mobility Challenges",
-                "desc": "Zimbabwe Aligns With Malawi, Mozambique and Others as South Africa Immigration Enforcement continues influencing regional travel patterns, border checks and tourism mobility across Southern Africa. The evolving situation highlights the importance of balancing immigration management with smooth movement for travellers, businesses and tourism stakeholders. As regional destinations remain connected through cross-border journeys, maintaining efficient travel procedures and visitor confidence will be essential for supporting tourism growth and connectivity. Zimbabwe, Malawi, Mozambique and neighbouring markets will continue adapting to changing mobility conditions while working towards stronger regional cooperation, improved accessibility and sustainable tourism development across Southern Africa.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Immigration-.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/lhmp68ohouol/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-13T12:58:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Day Pre Approved Visit Permit Programme with Digital Visa Access Through VFS Global, Creating Faster Entry Opportunities for Tourism, Business Trips and Seamless Short Stay Journeys Across the UAE",
-                "desc": "Eligible Vietnamese passengers can now access Dubai more conveniently as the UAE has expanded its Emirates-linked 14-day pre-approved visit permit programme to include Vietnam, enabling smoother online visa processing through VFS Global before travel.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/high-level-description-a-wide-an-1-7.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/uwtn4ksexwdx/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-13T12:58:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/07/13/6a54e0826c0351783947394.jpg",
-                "url": "https://techreviewafrica.com/news/6280/smart-africa-and-african-union-renew-commitment-to-advancing-africas-ai-agenda",
-                "source": "Tech Review Africa",
-                "date": "2026-07-13T12:57:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump: U.S. should be reimbursed for guarding Strait of Hormuz",
-                "desc": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108330932-1783354232285-gettyimages-2284348554-AFP_B9EJ7H8.jpeg?v=1783354256&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-                "source": "CNBC",
-                "date": "2026-07-13T12:56:25Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T04:00:31.744705Z"
+    "lastGlobalSync": "2026-07-14T04:34:45.327906Z"
 }
