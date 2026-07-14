@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "'Hey bro. Pay me': The message exposing a growing threat to young Australian men",
+                "desc": "Young men and boys are being lured into sharing intimate images — then blackmailed by organised criminal networks.",
+                "image": "https://assets.sbs.com.au/dims4/default/161a7ae/2147483647/strip/true/crop/8000x4500+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F1f%2F1e%2Fef47db354d11b47437d085267ef9%2Fgettyimages-2268577603.jpg",
+                "url": "https://www.sbs.com.au/news/article/sex-extortion-esafety-commission-young-men-transparency/p3l88l6j7",
+                "source": "SBS",
+                "date": "2026-07-14T01:37:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MTerra Solar builds community programs around local needs",
+                "desc": "MTerra Solar is empowering its host communities through jobs, livelihood, road safety, and emergency preparedness as it builds the world's largest integrated solar and battery storage project.",
+                "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Maricel_temp/advert/1-2026-July-13-Meralco%20Gen/meralco%20630.jpg",
+                "url": "https://philstarlife.com/news-and-views/291130-mterra-solar-builds-community-programs-around-local-needs",
+                "source": "Philstar Life",
+                "date": "2026-07-14T01:35:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The SBI Funds Management IPO",
+                "desc": "An explainer on the SBI Funds Management IPO, which is open for subscription from today  (July 14th) until July 16th.",
+                "image": "https://cdn.finshots.app/images/2026/07/SBI-FM-IPO.jpg",
+                "url": "https://finshots.in/archive/the-sbi-funds-management-ipo/",
+                "source": "Finshots",
+                "date": "2026-07-14T01:32:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airtel High-Speed Affordable Broadband Plan with OTT Benefits",
+                "desc": "Bharti Airtel has a high-speed affordable broadband plan which comes with OTT (over-the-top) benefits.",
+                "image": "https://telecomtalk.info/wp-content/uploads/2026/07/airtel-high-speed-affordable-broadband-plan-with.jpeg",
+                "url": "https://telecomtalk.info/airtel-high-speed-affordable-broadband-plan-with/1009619/",
+                "source": "TelecomTalk",
+                "date": "2026-07-14T01:31:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
+                "desc": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deaths",
+                "image": "https://i.guim.co.uk/img/media/47ef4bc525153f24a51b0a766a45d2e43394da0e/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5307342048d23ed16e99319d7a796562",
+                "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
+                "source": "The Guardian",
+                "date": "2026-07-14T01:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia's lamb export gains ground in US as protein 'wave' creates demand",
+                "desc": "Australians may love their lamb, but it has always been a harder sell for American consumers. There are signs that is changing.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/edd948c53401916c70dd8a4e397ad081?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-14/protein-driving-american-demand-for-australian-lamb-export-sa/106910068",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-14T01:29:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Low CO2 Levels Boost Biodegradable Plastic Output",
+                "desc": "In an innovative gas fermentation process, reducing the concentration of carbon dioxide was found to significantly improve microbial production of the",
+                "image": "https://www.isct.ac.jp/cms/contents/data/1/4352/component/file/62af33e849c3e431852cecbfe068ccf2.webp",
+                "url": "https://www.miragenews.com/low-co2-levels-boost-biodegradable-plastic-1709451/",
+                "source": "Mirage News",
+                "date": "2026-07-14T01:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report finds gaps in Big Tech's measures to tackle online child abuse in Australia",
+                "desc": "MLex Summary: Significant gaps remain in how major online platforms, including Apple, Google, Meta Platforms, Snap, Discord, Microsoft and WhatsApp, are tackling child sexual exploitation and abuse, particularly sexual extortion, a report has found. In a statement on Tuesday, Australia's eSafety Commissioner said a new transparency report has found serious gaps in platforms’ use of available technologies such as language analysis that can identify well-known coercion scripts used by sexual-extortion offenders. The statement added that between July 1 and Dec. 31, 2025, the regulator received more than 2,000 complaints about sexual extortion, with young men aged 18 to 24 the most affected.",
+                "image": "https://www.mlex.com/images/.png",
+                "url": "https://www.mlex.com/mlex/articles/2500587/report-finds-gaps-in-big-tech-s-measures-to-tackle-online-child-abuse-in-australia",
+                "source": "MLex",
+                "date": "2026-07-14T01:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From overseas Filipinos to global enterprises, a legacy of connection",
+                "desc": "As Manuel V. Pangilinan turns 80, his vision continues to guide PLDT Global in connecting overseas Filipinos, empowering businesses, and strengthening the Philippines' digital future.",
+                "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Maricel_temp/advert/1-2026-July-13-PLDT%20Global/MVP%20630.jpg",
+                "url": "https://philstarlife.com/news-and-views/329507-overseas-filipinos-global-enterprises-legacy-connection",
+                "source": "Philstar Life",
+                "date": "2026-07-14T01:26:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firms quicker to raise prices than cut them during high inflation, RBNZ research finds",
+                "desc": "New Reserve Bank research shows Kiwi firms have become more likely to increase prices during periods of high inflation and are less likely to cut them when costs fall.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--JDXdtR3l--/t_tohu-badge-facebook/f_auto/q_auto/4L901LR_IMG_3452_png",
+                "url": "https://www.rnz.co.nz/news/business/716203/firms-quicker-to-raise-prices-than-cut-them-during-high-inflation-rbnz-research-finds",
+                "source": "RNZ",
+                "date": "2026-07-14T01:26:24Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "India's trade deficit hits 5-month high as imports surge",
                 "desc": "India Business News: NEW DELHI: India's trade deficit widened to a five-month high of $30.4 billion as imports jumped 31% - the fastest pace of expansion in nearly four ye.",
                 "image": "https://static.toiimg.com/thumb/msid-132378676,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
@@ -541,96 +631,6 @@
                 "url": "https://www.fool.com.au/2026/07/14/4-asx-shares-which-could-improve-by-25-to-more-than-100/",
                 "source": "The Motley Fool Australia",
                 "date": "2026-07-13T22:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Economists say 'we must act now' on AI's economic impact and job displacement risks",
-                "desc": "Hundreds of economists say that institutions \"must act now\" to address how AI could transform the economy and could put many people out of work.",
-                "image": "https://cdn.abcotvs.com/dip/images/19214002_060126-kgo-anthropic-public2-img.jpg?w=1600",
-                "url": "https://abc7news.com/post/economists-say-act-now-ais-economic-impact-job-displacement-risks/19501555/",
-                "source": "ABC7 Bay Area",
-                "date": "2026-07-13T22:29:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jim Cramer says tech remains the market's best place to find big winners despite recent struggles",
-                "desc": "CNBC's Jim Cramer said tech stocks continue to offer the market's biggest upside.",
-                "image": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html",
-                "source": "CNBC",
-                "date": "2026-07-13T22:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "T-Mobile Customers on Old Plans Are Being Pushed to New Ones Starting This Week",
-                "desc": "If you're on a grandfathered plan, it will soon be automatically forced onto a newer plan that could cost more.",
-                "image": "https://www.cnet.com/a/img/resize/dcb0af2dbeab1e50cb82811a9fdebc0027e82f06/hub/2025/12/11/df0ad42d-e07b-4f90-8455-619c2bcdb952/tmo-emergency-day-boc.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/mobile/t-mobile-customers-on-old-plans-are-being-pushed-to-new-ones-starting-this-week/",
-                "source": "CNET",
-                "date": "2026-07-13T22:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Island businesses forced to 'plan around' unreliable postal service",
-                "desc": "Islanders face high postal costs and inconsistent services, according to the watchdog Consumer Scotland.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48a0/live/42b9d230-7ee9-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/crr8g47z48jo",
-                "source": "BBC",
-                "date": "2026-07-13T22:00:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "United Airlines passenger says he was forced to change anti-war shirt",
-                "desc": "A New Jersey man says a United Airlines flight attendant deemed his anti-war shirt offensive and forced him to change before flying. He filed a Department of Transportation complaint.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/gettyimages-893157936-scaled.jpg",
-                "url": "https://www.foxnews.com/us/united-passenger-says-crew-ordered-him-change-controversial-tshirt-could-travel",
-                "source": "Fox News",
-                "date": "2026-07-13T21:56:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Angry customers complain about SolarZero contracts",
-                "desc": "By Susan Edmunds of RNZ Customers angry at being stuck in what they say are expensive SolarZero contracts are turning to disputes resolution services for...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/FGJYMNLJLUOGMEVI7AALOD6R3M.jpg?auth=e224508423cf2a1acab8cff45997ace2f90323119c097e66aefd7064cadc73c0&width=1200&height=675&quality=70&focal=472%2C367&smart=false",
-                "url": "https://www.nzherald.co.nz/business/angry-customers-complain-about-solarzero-contracts/MMKMBKGYINGJJJJYJGWTF44RNQ/",
-                "source": "NZ Herald",
-                "date": "2026-07-13T21:52:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Housing prices: Most Australians support a fall, new Resolve poll shows",
-                "desc": "Housing prices need to fall, most Australians believe, according to a new poll.",
-                "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_307%2C$y_53/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f985d46e2e03d7f3b4997d59cc2d3145831d4982cd4e187389d85e53a59aa037",
-                "url": "https://www.nine.com.au/australia-news/majority-of-australians-say-falling-house-prices-are-a-good-thing-20260714-p60f18.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-13T21:46:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan Post Insurance shifts life risks to SCOR vehicle with partnership",
-                "desc": "Japan Post Insurance Co., Ltd. and French reinsurer SCOR SE have agreed to collaborate on managing life insurance risks through a new joint investment vehicle.",
-                "image": "https://insuranceasia.com/s3/files/styles/opengraph/public/2026-07/noah-naf-qhfxy3x6jv0-unsplash_0.jpg?h=3f0ba1e2&itok=MRzsD6eU",
-                "url": "https://insuranceasia.com/insurance/news/japan-post-insurance-shifts-life-risks-scor-vehicle-partnership",
-                "source": "Insurance Asia",
-                "date": "2026-07-13T21:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why big banks are doing so well in this economy",
-                "desc": "Banks are making money on the AI and stock market boom, whether by directly financing companies, facilitating stock trades, or managing IPOs.",
-                "image": "https://img.apmcdn.org/537b05323accd59d4727d26002a015a40cc270d6/widescreen/78945e-20260713-a-man-walks-past-a-bank-of-america-branch-in-manhattan-2000.jpg",
-                "url": "https://www.marketplace.org/story/2026/07/13/why-big-banks-are-doing-so-well-in-this-economy",
-                "source": "marketplace.org",
-                "date": "2026-07-13T21:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will property tax changes stem Australia's productivity crisis?",
-                "desc": "With housing prices coming off the boil, maybe our banks will start lending to more productive areas of the economy, like business.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/035dd3221405109f70986e0fda61e217?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-14/will-property-tax-changes-save-australia-productivity-crisis/106910926",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-13T21:44:51Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T13:00:25.773942Z"
+    "lastGlobalSync": "2026-07-14T13:40:27.823058Z"
 }
