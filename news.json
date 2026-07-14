@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Guardforce AI to Present Live, Answer Questions, at Skyline Signature Series™ on July 22, 2026, at 11:00 AM ET",
+                "desc": "Individual and institutional investors, advisors, and analysts are invited to attend",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134947.png",
+                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/guardforce-ai-to-present-live-answer-questions-at-skyline-signature-series-on-july-22-2026-at-1100-am-et/2383361",
+                "source": "The Manila Times",
+                "date": "2026-07-13T12:39:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BOSS Money App Crowned #1 Digital Money Transfer Service for Second Consecutive Year",
+                "desc": "FXC Intelligence ranks BOSS Money first among digital cross-border payment providers based on stellar customer reviews",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134943.jpg",
+                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/boss-money-app-crowned-1-digital-money-transfer-service-for-second-consecutive-year/2383357",
+                "source": "The Manila Times",
+                "date": "2026-07-13T12:39:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pliant Therapeutics Names Flavia Borellini, Ph.D. and Robert Iannone, M.D., M.S.C.E. to Board of Directors",
+                "desc": "Appointments bring global oncology drug development experience",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134942.jpg",
+                "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/pliant-therapeutics-names-flavia-borellini-phd-and-robert-iannone-md-msce-to-board-of-directors/2383356",
+                "source": "The Manila Times",
+                "date": "2026-07-13T12:39:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OPC incubator launched to foster business transformation",
+                "desc": "One-Person Company (OPC) refers to solo entrepreneurs, small teams, or a dedicated squad from an enterprise that deeply embeds artificial intelligence (AI) technologies, especially AI agents – smart assistants that can autonomously interact with humans, systems, and other agents to execute tasks – into their product development and operations.",
+                "image": "https://www.chinadailyhk.com/upload/main/image/2026/07/13/143ac9495eef1eff6052446c6de56081.png",
+                "url": "https://www.chinadailyasia.com/hk/article/636369",
+                "source": "chinadailyasia.com",
+                "date": "2026-07-13T12:38:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa Tech 50 Index enters African exchange activation phase after LSE launch",
+                "desc": "Indexa Exchange Group will on Wednesday July 15 activate the Africa Tech 50 Index - AT50 - with the Johannesburg Stock Exchange (JSE) in...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Untitled-design-2026-07-13T131453.435-1.png",
+                "url": "https://businessday.ng/markets/article/africa-tech-50-index-enters-african-exchange-activation-phase-after-lse-launch/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-13T12:38:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Adoption Is Testing Modular Firms",
+                "desc": "Organizations have spent decades becoming more modular, breaking themselves into agile teams, business units, and platforms to improve flexibility and speed. But many are discovering a new constraint: They can decompose work far more easily than they can recombine it. As AI, ecosystems, and rapidly changing markets create constant opportunities to redeploy capabilities, organizations often find themselves slowed by governance hurdles, bespoke negotiations, and centralized decision making. Drawing on research across leading companies, the authors argue that competitive advantage now depends on composable integration—the ability to rapidly reconfigure existing capabilities. They outline four managerial priorities: treat recombination as a measurable capability, standardize governance as well as technical interfaces, build reusable enterprise-wide capabilities, and push integration authority closer to the front line. In the AI era, success will increasingly depend not on having the best components, but on recombining them faster than rivals.",
+                "image": "https://hbr.org/resources/images/article_assets/2026/07/Jul26_11_AI.jpg",
+                "url": "https://hbr.org/2026/07/ai-adoption-is-testing-modular-firms",
+                "source": "Harvard Business Review",
+                "date": "2026-07-13T12:36:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CBN Releases Latest Lending Rates of Access, UBA, GTbank, Zenith, Other Banks",
+                "desc": "The CBN said publishing commercial banks' lending rates improves transparency and helps customers make informed borrowing decisions across financial sector.",
+                "image": "https://cdn.legit.ng/images/1200x675/02909733c2412571.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/money/1719018-cbn-releases-latest-lending-rates-commercial-banks-nigeria/",
+                "source": "Legit.ng",
+                "date": "2026-07-13T12:35:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Senate Reintroduces CLARITY Act to Address Crypto Regulation",
+                "desc": "US crypto regulation has spent years stuck between enforcement actions, agency turf fights, and unfinished legislation. The CLARITY Act is one of the efforts me",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.6.0/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/us-senate-reintroduces-clarity-act-to-address-crypto-regulation",
+                "source": "KuCoin",
+                "date": "2026-07-13T12:34:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cork woman claims €310,000 after 'biggest ever' cash machine win",
+                "desc": "Great news for one family here in Cork this week",
+                "image": "https://i2-prod.corkbeo.ie/article34282644.ece/ALTERNATES/s1200d/746350997_999888982888573_2634562674887063292_njpeg.jpg",
+                "url": "https://www.corkbeo.ie/news/local-news/cork-woman-claims-310000-after-34282043",
+                "source": "Cork Beo",
+                "date": "2026-07-13T12:34:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telstra outage blamed on known bug in obsolete server",
+                "desc": "Embattled telco faces Senate grilling and $30 million in fines.",
+                "image": "https://ia.acs.org.au/content/dam/ia/article/images/2026/Telstra-logo%20and%20syncserver.jpg",
+                "url": "https://ia.acs.org.au/article/2026/telstra-outage-blamed-on-known-bug-in-obsolete-server.html",
+                "source": "Information Age | ACS",
+                "date": "2026-07-13T12:34:48Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Hundreds of new Intel jobs for Leixlip in €5bn investment",
                 "desc": "Computer chip maker Intel is to invest €5 billion in its plant in Leixlip, Co Kildare to expand its manufacturing output.",
                 "image": "https://www.rte.ie/images/00226279-1600.jpg",
@@ -542,99 +632,99 @@
                 "source": "Business & Financial Times",
                 "date": "2026-07-12T23:59:58Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Oil jumps 3% after US, Iran escalate strikes in Mideast",
-                "desc": "SINGAPORE: Oil prices jumped on Monday as Iran expanded strikes on Gulf states following attacks by the United States, threatening energy shipments via the Strait of Hormuz.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4007101.jpg",
-                "url": "https://www.thestar.com.my/business/business-news/2026/07/13/oil-jumps-3-after-us-iran-escalate-strikes-in-mideast",
-                "source": "The Star",
-                "date": "2026-07-12T23:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya’s investors are rewriting the rules of risk and return",
-                "desc": "Investors are recognising that even instruments traditionally perceived as risk-free are tied to sovereign balance sheet dynamics and inflation trajectories.",
-                "image": "https://www.businessdailyafrica.com/resource/image/5519452/landscape_ratio3x2/1200/800/2d074bdf148ed65650af2df34cb4f41c/Av/silas-mutuku-pic.jpg",
-                "url": "https://www.businessdailyafrica.com/bd/sponsored/kenya-s-investors-are-rewriting-the-rules-of-risk-and-return-5519448",
-                "source": "Business Daily",
-                "date": "2026-07-12T23:56:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data Centre Boom Exacerbates Construction Labor Shortages in US",
-                "desc": "Explore how the US data centre construction boom is driving construction costs, labour shortages, and regional capacity constraints through 2030.",
-                "image": "https://www.oxfordeconomics.com/wp-content/uploads/2026/07/data-centre-us-wp.png",
-                "url": "https://www.oxfordeconomics.com/resource/us-data-centre-construction-boom-drives-cost-pressures/",
-                "source": "Oxford Economics",
-                "date": "2026-07-12T23:51:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "duration energy storage facility",
-                "desc": "The Latrobe Valley will be home to Australia’s first long-duration CO2 energy storage facility, with SEC revealing a new energy innovation precinct.",
-                "image": "https://www.energymagazine.com.au/wp-content/uploads/2026/07/Artists-impression-of-Energy-Domes-CO2-Battery-project-in-the-Latrobe-Valley-Victoria.jpg",
-                "url": "https://www.energymagazine.com.au/meet-victorias-first-long-duration-energy-storage-facility/",
-                "source": "Energy Magazine",
-                "date": "2026-07-12T23:43:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria's $500m Metering Project Installs Only 217,784 Meter",
-                "desc": "A new report reveals that only 217,784 electricity meters have been installed under Nigeria's $500m World Bank-backed free metering programme, falling far",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/metre_1783898857.webp",
-                "url": "https://punchng.com/only-217784-meters-installed-under-500m-power-project-report/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-12T23:40:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PenCom moves to block cyber threats to pension records",
-                "desc": "PenCom launches a regulatory overhaul to block cyber threats and secure digital pension records, mandating advanced cryptographic defences for all operator",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/PenCom.webp",
-                "url": "https://punchng.com/pencom-moves-to-block-cyber-threats-to-pension-records/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-12T23:40:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "International Breweries plans capital overhaul to offset N19",
-                "desc": "International Breweries proposes a capital reorganisation to eliminate N191bn accumulated losses, paving the way for future dividend payments. Learn more a",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/International-Breweries-Plc-IB-Plc_1783898033.webp",
-                "url": "https://punchng.com/intl-breweries-seeks-capital-overhaul-to-offset-n191bn-deficit/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-12T23:39:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ClimateLaunchpad Meknes Cohort Completes Regional Bootcamp",
-                "desc": "The Meknes cohort of ClimateLaunchpad Morocco completed its two-day Regional Bootcamp Tour program on Sunday.",
-                "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-12-at-23.45.437.webp",
-                "url": "https://www.moroccoworldnews.com/2026/07/328851/climatelaunchpad-meknes-cohort-completes-regional-bootcamp/",
-                "source": "Morocco World News",
-                "date": "2026-07-12T23:38:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NCC Urges Students to Support Telecom Infrastructure Protect",
-                "desc": "The NCC has called on Nigerian students to support telecom infrastructure protection efforts, warning that vandalism threatens service delivery and the dig",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/Nigerian-Communications-Commission-NCC.webp",
-                "url": "https://punchng.com/ncc-urges-students-to-support-telecom-infrastructure-protection/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-12T23:37:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "[SMM Steel Market Morning Briefing] Global iron ore shipments down 14% MoM, China's steel exports up 8% MoM",
-                "desc": "As of last week, total global iron ore shipments reached 30.381 million mt, down 14% WoW, and cumulative shipments for the year reached 902.6104 million mt, up 2% YoY; among these, both Australia's and Brazil's shipments experienced notable declines. Over the same period, China's iron ore port arrivals were 25.015 million mt, down 13% WoW, and cumulative port arrivals for the year reached 521.3448 million mt, up 4% YoY...",
-                "image": "https://static.metal.com/common.metal.com/images/header-en/smm-logo.png",
-                "url": "https://news.metal.com/newscontent/103999840-smm-steel-market-morning-briefing-global-iron-ore-shipments-down-14-mom-chinas-steel-exports-up-8-mom",
-                "source": "Shanghai Metals Market",
-                "date": "2026-07-12T23:36:46Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Thread-like electronics point to less obtrusive wearable health monitors",
+                "desc": "Imagine using a wearable device so thin and discreet that you'd hardly be aware you were wearing it. Now Tufts engineers have created flexible electronics that could do just that. Made of thread-based integrated circuits ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/and-you-thought-a-smar.jpg",
+                "url": "https://techxplore.com/news/2026-07-thread-based-electronics-conform-body.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-13T12:40:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Boostfinder Wants To Solve One Of Sports Betting’s Biggest Frustrations",
+                "desc": "For most punters, keeping track of all of it is nearly impossible.That problem is exactly what Boostfinder is trying to solve.",
+                "image": "https://www.completesports.com/wp-content/uploads/2026/07/Boostfinder-Wants-To-Solve-One-Of-Sports-Bettings-Biggest-Frustrations.png",
+                "url": "https://www.completesports.com/boostfinder-wants-to-solve-one-of-sports-bettings-biggest-frustrations/",
+                "source": "Complete Sports",
+                "date": "2026-07-13T12:39:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oppo Find X10 Pro Max: First ever \"600 MP Hasselblad camera system\" moves closer to mass production",
+                "desc": "For the first time ever, a camera consisting of a total of three 200-megapixel sensors could hit the market this fall, as a reliable leaker is currently reporting. The new Hasselblad camera in the Oppo Find X10 Pro Max boasts a total of 600 megapixels, even in the latest prototype version.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oppo-Find-X10-Pro-Max-Hasselblad-Kamera-Premiere-naehert-sich-Massenfertigung.jpg",
+                "url": "https://www.notebookcheck.net/Oppo-Find-X10-Pro-Max-First-ever-600-MP-Hasselblad-camera-system-moves-closer-to-mass-production.1341610.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-13T12:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Keep Android Backups From Filling Up Your Google Drive Storage",
+                "desc": "As of July 7, all of the data included in your Android backups count toward your Google storage cap, but you can choose what to back up if you are close to your limit.",
+                "image": "https://lifehacker.com/imagery/articles/01KX9W5HQ097TPDMQCED2S0VXS/hero-image.fill.size_1200x675.jpg",
+                "url": "https://lifehacker.com/tech/keep-android-backup-from-filling-google-storage-space",
+                "source": "Lifehacker",
+                "date": "2026-07-13T12:37:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MapleStory Universe swaps smart contract openess for safer rails",
+                "desc": "Nexpace is restricting decentralization in MapleStory Universe, limiting builders to using pre-built Action Modules for onchain actions.",
+                "image": "https://www.blockchaingamer.biz/wp-content/uploads/2025/05/msu-nft.jpg",
+                "url": "https://www.blockchaingamer.biz/news/42639/maplestory-universe-restricts-decentralization-for-safety/",
+                "source": "BlockchainGamerBiz",
+                "date": "2026-07-13T12:36:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Acer renews partnership with ACGL for African Gaming Championship 2026",
+                "desc": "Acer Africa has announced the continuation of its strategic partnership with the African Cyber Gaming League (ACGL) to anchor its African Gaming Championshi ...",
+                "image": "https://htxt.co.za/wp-content/uploads/2026/07/acer-acgl-header.jpg",
+                "url": "https://htxt.co.za/2026/07/acer-renews-partnership-with-acgl-for-african-gaming-championship-2026/",
+                "source": "htxt.co.za",
+                "date": "2026-07-13T12:34:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Follow-Up: Unusual Findings’ “Vinny’s Diary” update available now on all platforms",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Follow-Up-Unusual-Findings-Vinnys-Diary-update-available-now-on-all-pl",
+                "source": "Games Press",
+                "date": "2026-07-13T12:33:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Follow-Up: Unusual Findings’ “Vinny’s Diary” update available now on all platforms",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/ko-KR/Follow-Up-Unusual-Findings-Vinnys-Diary-update-available-now-on-all-pl",
+                "source": "Games Press",
+                "date": "2026-07-13T12:33:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Octopath Traveler 0 update announced, adds new Monster Arena foe and resident",
+                "desc": "Square Enix will release a free update for Octopath Traveler 0 later in 2026, the company announced. Full details will be announced closer to the update’s…",
+                "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Octopath-0-Update_07-13-26.jpg",
+                "url": "https://www.gematsu.com/2026/07/octopath-traveler-0-update-announced-adds-new-monster-arena-foe-and-resident",
+                "source": "Gematsu",
+                "date": "2026-07-13T12:30:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bomberman's Brilliant Retro Compilation Adds an 8th Game for Free on PS5",
+                "desc": "Konami dropping bombs - Konami’s superb Super Bomberman Collection is already one of the best retro compilations you can buy on the PS5, but it’s about t...",
+                "image": "https://images.pushsquare.com/8a408c1f36199/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/bombermans-brilliant-retro-compilation-adds-an-8th-game-for-free-on-ps5",
+                "source": "Push Square",
+                "date": "2026-07-13T12:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Galaxy Z Flip 8 rumors: Release date, colors, specs, and more",
                 "desc": "Leaked renders reveal Cream, Graphite, and Pink colors and specs for the Galaxy Z Flip 8 — plus rumors it could be the last one.",
@@ -1174,99 +1264,99 @@
                 "source": "ComicBook.com",
                 "date": "2026-07-12T22:37:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Fujifilm Australia launches wide-angle cinema zoom lens",
-                "desc": "Filmmakers gain an ultra-wide option for the GFX ETERNA 55, with a matched lens swap setup aimed at faster large-format production.",
-                "image": "https://futurefive.com.au/uploads/story/2026/07/10/compatible_GF_098%2B%2B.jpg",
-                "url": "https://futurefive.com.au/story/fujifilm-australia-launches-wide-angle-cinema-zoom-lens",
-                "source": "futurefive.com.au",
-                "date": "2026-07-12T22:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Debian 13.6 security update patches over a hundred advisories in trixie",
-                "desc": "Debian 13.6 security update patches an expired Secure Boot certificate, curl, apache2, qemu and over a hundred advisories in trixie.",
-                "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/07123846/debian-1500.webp",
-                "url": "https://www.helpnetsecurity.com/2026/07/13/debian-13-6-security-update-released/",
-                "source": "Help Net Security",
-                "date": "2026-07-12T22:25:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Call of Duty: Black Ops and Black Ops 2 have been released for PS4 and PS5",
-                "desc": "Back in June, Treyarch announced that Black Ops and Black Ops 2 were being ported to PlayStation by Iron Galaxy. Last week, Treyarch surprised us all by announcing that both games were now available on PS4 and PS5. Call of Duty: Black Ops and Black Ops 2 were released in 2010 and 2012, respectively and",
-                "image": "https://powerup-gaming.com/wp-content/uploads/2026/07/Call-of-Duty-–-Key-Art.jpg",
-                "url": "https://powerup-gaming.com/call-of-duty-black-ops-and-black-ops-2-have-been-released-for-ps4-and-ps5/",
-                "source": "powerup-gaming.com",
-                "date": "2026-07-12T22:23:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Experience TCL's latest TVs, home appliances at Home Court roadshow",
-                "desc": "TCL and Robinsons Appliances launch the Home Court: Fresh & Clean Roadshow, featuring interactive games, smart home innovations, and a CJ Cansino appearance.",
-                "image": "https://www.speed.ph/wp-content/uploads/TCL-Home-Court.jpg",
-                "url": "https://www.speed.ph/tcl-home-court-roadshow-robinsons-appliances/",
-                "source": "speed.ph",
-                "date": "2026-07-12T22:22:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Phoebe Bridgers Launches Itch.io Page With An Infinite Runner",
-                "desc": "The indie superstar breaks her hiatus with a RuneScape inspired single and a Subway Surfers style micro game",
-                "image": "https://kotaku.com/app/uploads/2026/07/bridgers-1200x675.jpg",
-                "url": "https://kotaku.com/phoebe-bridgers-launches-itch-io-page-with-an-infinite-runner-2000715034",
-                "source": "Kotaku",
-                "date": "2026-07-12T22:22:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thunderobot showcases Zero Air 16 Racing Edition with RTX 5070 in an ultra",
-                "desc": "Thunderobot showcases the Zero Air 16 Racing Edition with a 1.64kg carbon fiber chassis, RTX 5070 graphics, 2.5K 240Hz display, and 160W output.",
-                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Thunderobot-Zero-Air-16-Racing-Edition.jpg",
-                "url": "https://www.gizmochina.com/2026/07/12/thunderobot-zero-air-16-racing-edition-showcased/",
-                "source": "Gizmochina",
-                "date": "2026-07-12T22:20:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BenQ's latest monitor for photographers boasts incredible color space coverage",
-                "desc": "Yet it's still accessibly priced",
-                "image": "https://s.yimg.com/lo/mysterio/api/87bae775b4d4327febd621fe0dcf5fb7cc702a02a493be182e116a6cffbb1f34/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_camera_world_590%2F4bccdf098665670ef16189ec03b83cd7",
-                "url": "https://tech.yahoo.com/cameras/articles/benqs-latest-monitor-photographers-boasts-221503400.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-12T22:15:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SBG Systems launches new Pulse",
-                "desc": "SBG Systems announced the launch of the new Pulse-40 OEM the latest generation of its miniature tactical-grade Inertial Measurement Unit",
-                "image": "https://asiapacificdefencereporter.com/wp-content/uploads/2026/07/qeCFJLIKo9OZ.png",
-                "url": "https://asiapacificdefencereporter.com/sbg-systems-launches-new-pulse-40-oem/",
-                "source": "Asia Pacific Defence Reporter",
-                "date": "2026-07-12T22:14:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Quote of the day by Sun Microsystems CEO Scott McNealy: 'You have zero privacy anyway. Get over it' — an early declaration foreshadowing the modern era",
-                "desc": "Although the erosion of privacy feels more of a modern phenomenon, the earliest digital systems were a subtle sign of things to come",
-                "image": "https://cdn.mos.cms.futurecdn.net/FLEAs4a5CKno9zsNJWqbsZ-1024-80.jpg",
-                "url": "https://www.techradar.com/pro/quote-of-the-day-by-sun-microsystems-ceo-scott-mcnealy-you-have-zero-privacy-anyway-get-over-it-an-early-declaration-foreshadowing-the-modern-era",
-                "source": "TechRadar",
-                "date": "2026-07-12T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GravaStar cuts 20% off gaming peripherals on Amazon",
-                "desc": "Gamers can now save on premium keyboards and audio gear as GravaStar's Amazon sale trims up to USD $86 off selected devices.",
-                "image": "https://ecommercenews.com.au/uploads/story/2026/07/10/compatible_2528.jpg",
-                "url": "https://ecommercenews.com.au/story/gravastar-cuts-20-off-gaming-peripherals-on-amazon",
-                "source": "ecommercenews.com.au",
-                "date": "2026-07-12T22:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Colombian flower sector pushes back against proposed U.S. tariff hike",
+                "desc": "In March 2026, the USTR initiated investigations under Section 301 against 60 economies, including Colombia, to assess whether they have effective mechanisms to prohibit and enforce the…",
+                "image": "https://www.floraldaily.com/remote/https/agfstorage.blob.core.windows.net/misc/StockPhotos/Floral/FloralDaily_FP_img_0118.jpg?preset=OgImage",
+                "url": "https://www.floraldaily.com/article/9855823/colombian-flower-sector-pushes-back-against-proposed-u-s-tariff-hike/",
+                "source": "FloralDaily",
+                "date": "2026-07-13T12:40:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Teenage girl is victim of 'abhorrent' sexual assault in Bristol",
+                "desc": "Police have released a CCTV image of a man believed to have information about the incident.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/68e0/live/28e58a10-7eb8-11f1-8439-ebc9c5f19300.png",
+                "url": "https://www.bbc.com/news/articles/c5yz1e113l6o",
+                "source": "BBC",
+                "date": "2026-07-13T12:39:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK police rearrest suspect in Widdecombe killing over terrorism",
+                "desc": "UK police say a 28-year-old man arrested on suspicion of killing former British politician Ann Widdecombe is now suspected of terrorism.",
+                "image": "https://dims.apnews.com/dims4/default/2db0f42/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F70%2Fd7a4fd3a49bd9463f07098a7bbb5%2F1cf06351c639461e82c8428fe35d8f73",
+                "url": "https://apnews.com/article/britain-widdecombe-murder-suspect-de024110706ac0615a69b221333b657f",
+                "source": "AP News",
+                "date": "2026-07-13T12:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump declares US will take over Strait of Hormuz, charge patrolling fees: 'Iran broke the deal'",
+                "desc": "Trump said the US will take control of the Strait of Hormuz and charge ships for its protection. He accused Iran of breaking their agreement as fresh military strikes intensified across the Gulf.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260713123558_Trump-Iran-New-2.jpg",
+                "url": "https://www.moneycontrol.com/world/trump-declares-us-will-take-over-strait-of-hormuz-charge-patrolling-fees-iran-broke-the-deal-article-13972778.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-13T12:36:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US to reinstate Iran blockade, says Trump",
+                "desc": "President Trump announces US reinstatement of an Iran blockade and a 20% charge on cargo through the Strait of Hormuz. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1149f8edb539043c9ec24f44ec838a4b774ba398ce17b9b60cfdb6073441faa9",
+                "url": "https://www.straitstimes.com/world/middle-east/trump-says-the-us-should-control-the-strait-of-hormuz-and-get-paid-for-it",
+                "source": "The Straits Times",
+                "date": "2026-07-13T12:35:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Euro-MPs call on Abu Dhabi to end backing for RSF as fears grow of humanitarian catastrophe in Sudan’s El Obeid",
+                "desc": "The European parliament’s demand for the militia to be declared a terrorist entity will complicate EU-UAE trade talks, Breaking with earlier diplomatic caution, the European Parliament has urged the EU to add the Rapid Support Forces to its list of terrorist organisations and directly called out the United Arab Emirates for its role in Sudan’s civil war in a resolution passed by a 476 to 28 margin on 9 July.",
+                "image": "https://www.africa-confidential.com/content/images/dispatches_twitter.png",
+                "url": "https://www.africa-confidential.com/article/id/16095/euro-mps-call-on-abu-dhabi-to-end-backing-for-rsf-as-fears-grow-of-humanitarian-catastrophe-in-sudans-el-obeid",
+                "source": "Africa Confidential",
+                "date": "2026-07-13T12:34:39Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Jamey Carney: Irish police to engage with Jordanian counterparts in murder investigation",
+                "desc": "The body of Jamey Carney was discovered at a property in Killarney, County Kerry, last week.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ec6/live/b17f1780-7eb6-11f1-8439-ebc9c5f19300.png",
+                "url": "https://www.bbc.co.uk/news/articles/c621p1zne6qo",
+                "source": "BBC",
+                "date": "2026-07-13T12:32:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sudan paramilitary leader given death sentence for war crimes",
+                "desc": "The court in Port Sudan, an area under the control of the army, convicted Dagalo - known as Hemedti - in absentia, along with 15 other senior RSF memb...",
+                "image": "https://news.az/photos/2026/07/eb705460-7eaf-11f1-b5ec-67e9897fe2ad-1783945715.webp",
+                "url": "https://news.az/news/sudan-paramilitary-leader-given-death-sentence-for-war-crimes",
+                "source": "Latest news from Azerbaijan",
+                "date": "2026-07-13T12:32:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "African Economic Conference Closes With Renewed Push for Trade Resilience",
+                "desc": "AfDB, UNDP and OECD pledge to accelerate transformation through deeper regional integration, domestic resource mobilisation and unified global economic voice.",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgFo4Hf1YKZRAroG4pnSNCy2hbz0PDXd5gaI9k",
+                "url": "https://www.dawan.africa/news/african-economic-conference-closes-with-renewed-push-for-trade-resilience",
+                "source": "Dawan Africa",
+                "date": "2026-07-13T12:31:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says the US should control the Strait of Hormuz and get paid for it",
+                "desc": "WASHINGTON, July 13 (Reuters) - President Donald Trump ⁠said on Monday that the United States would probably take over the Strait ⁠of Hormuz and should be reimbursed for controlling the vital waterway.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4008343.jpg",
+                "url": "https://www.thestar.com.my/news/world/2026/07/13/trump-says-the-us-will-control-strait-of-hormuz-and-get-paid-for-it",
+                "source": "The Star",
+                "date": "2026-07-13T12:31:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "eMedia launches Openview Stream",
                 "desc": "Openview Stream, a free ad-supported service, debuts in seven African countries – with South Africa conspicuously absent.",
@@ -1806,98 +1896,8 @@
                 "source": "Bangkok Post",
                 "date": "2026-07-12T22:44:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Middle East crisis live: US launches new wave of strikes on Iran; Tehran says attacks render diplomacy ‘futile’",
-                "desc": "Iran has sought to establish a permanent system for collecting fees in the strait of Hormuz and warned vessels not to sail without its authorisation",
-                "image": "https://i.guim.co.uk/img/media/0b8cf49a0160ddf1f85e423260216a183df6a248/1040_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9f3bf44b86ff201915591e193da4ae8b",
-                "url": "https://www.theguardian.com/world/live/2026/jul/13/middle-east-crisis-live-us-launches-new-wave-of-strikes-on-iran-tehran-says-attacks-render-diplomacy-futile",
-                "source": "The Guardian",
-                "date": "2026-07-12T22:43:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'To hold Iranian forces accountable': US launches fresh strikes on Iran as tensions flare over Hormuz attacks",
-                "desc": "US News: The United States launched a fresh wave of strikes against Iran on early Monday (Sunday local time), with the Pentagon saying the operation was aimed .",
-                "image": "https://static.toiimg.com/thumb/msid-132353946,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/to-hold-iranian-forces-accountable-us-launches-fresh-strikes-on-iran-as-tensions-flare-over-hormuz-attacks/articleshow/132353945.cms",
-                "source": "The Times of India",
-                "date": "2026-07-12T22:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African hackathon entries – Gadget",
-                "desc": "The event is a platform where aspiring coders, innovators and female tech founders can develop solutions to real-world challenges.",
-                "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/girlcoders-header-BE294nYA-2-scaled.jpg?resize=1000%2C600&ssl=1",
-                "url": "https://gadget.co.za/girlcodehackathon15m/",
-                "source": "gadget.co.za",
-                "date": "2026-07-12T22:42:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mitch McConnell reveals fall led to hospitalization after weeks of silence",
-                "desc": "Senator says in statement he has undergone battery of tests after weeks of mounting speculation about his health",
-                "image": "https://i.guim.co.uk/img/media/22f1f98161ac082e257697ba97c064be66e567cf/0_33_713_570/master/713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=951731bed7ab6b14846edc38a7be2a81",
-                "url": "https://www.theguardian.com/us-news/2026/jul/12/mitch-mcconnell-hospitalization-fall",
-                "source": "The Guardian",
-                "date": "2026-07-12T22:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US claims Strait of Hormuz is open as heavy missile fire continues",
-                "desc": "The latest US strikes against Iran began about 7am on Monday (AEST), after a weekend in which the two countries exchanged heavy missile and drone assaults. The US insists Tehran does not control the Strait of Hormuz",
-                "image": "https://static.ffx.io/images/$zoom_0.641%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/2813248ae813837a0036dfa53071029cac9bf876",
-                "url": "https://www.smh.com.au/world/middle-east/us-insists-tehran-doesn-t-control-strait-of-hormuz-after-completing-wave-of-attacks-on-iran-20260713-p60eqk.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-12T22:37:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Horn Of Africa States: Banking Systems Behind The Curve But Not Behind The Times",
-                "desc": "Across the Horn of Africa States region, cranes dot city skylines, ports handle increasing volumes of cargo, mobile phones have become wallets, and a young",
-                "image": "https://www.eurasiareview.com/wp-content/uploads/2023/06/a-187.png",
-                "url": "https://www.eurasiareview.com/13072026-the-horn-of-africa-states-banking-systems-behind-the-curve-but-not-behind-the-times-oped/",
-                "source": "Eurasia Review",
-                "date": "2026-07-12T22:31:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Europe is Facing Up to the China Shock Now",
-                "desc": "Europe's relationship with China has reached a tipping point as economic and political pressures grow.",
-                "image": "https://www.thewirechina.com/wp-content/uploads/2026/07/China-EU-Summit-scaled.jpg",
-                "url": "https://www.thewirechina.com/2026/07/12/why-europe-is-facing-up-to-the-china-shock-now/",
-                "source": "The Wire China",
-                "date": "2026-07-12T22:27:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Displaced migrants face severe healthcare crisis amid xenophobic violence, warns MSF",
-                "desc": "Médecins Sans Frontières says thousands displaced by anti-migrant violence are struggling to access healthcare, shelter and medication, while the government insists conditions at repatriation centres remain humane.",
-                "image": "https://cdn.dailymaverick.co.za/i/UbLzh2BT0-wvihvbVfNjVV8knWs=/800x0/smart/filters:strip_exif()/file/attachments/orphans/2283590373_138444.jpg",
-                "url": "https://www.dailymaverick.co.za/article/2026-07-13-displaced-migrants-face-severe-healthcare-crisis-amid-xenophobic-violence-warns-msf/",
-                "source": "Daily Maverick",
-                "date": "2026-07-12T22:22:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strikes hit Kuwait oil platform as US",
-                "desc": "Fresh attacks have rocked Iran and Kuwait as Tehran and Washington squared off over the Strait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/a7a603d3b06547840e2bfcd41c89255e?impolicy=wcms_watermark_news&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-13/strikes-hit-kuwait-oil-platform-as-us-iran-war-continues/106908216",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-12T22:20:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. Sen. Mitch McConnell breaks silence, says he was hospitalized after a fall",
-                "desc": "U.S. Republican Sen. Mitch McConnell has finally broken his silence regarding his hospitalization, saying it was caused by a fall.",
-                "image": "https://i.cbc.ca/ais/a1f574f8-676a-42d5-9a26-54764dda5fdb,1783893151309/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/mcconnell-us-senator-fall-hospitalization-9.7267640",
-                "source": "CBC",
-                "date": "2026-07-12T22:16:34Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T00:00:28.893418Z"
+    "lastGlobalSync": "2026-07-14T00:40:32.629251Z"
 }
