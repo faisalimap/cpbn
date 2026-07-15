@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Arsat sticks with fiber, data and satellite bets in 2026",
+                "desc": "The Argentine state-owned company plans investments of US$20.6mn for 2026, focusing on fiber optics, data centers, and the Arsat-SG1 satellite mission, financed by IDB, Fonplata, CAF, and IBRD.",
+                "image": "https://cdnimg.bnamericas.com/mAMDrngZUSlmLgQOrcKGOedKHwiOyyklRmQysmprVaFIwIDTAMhtuFhRKzzjjUDT.jpg",
+                "url": "https://www.bnamericas.com/en/news/arsat-sticks-with-fiber-data-and-satellite-bets-in-2026",
+                "source": "BNamericas",
+                "date": "2026-07-14T20:38:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From Quito to the Galápagos, Petroecuador's fuel network faces a health check",
+                "desc": "Ecuador hires firm to review the national oil company's logistics and transport system.",
+                "image": "https://cdnimg.bnamericas.com/WfoUZOUsjsKSXykUNVcCVGwxpWqbbzZXDyoLnJzLcnzGbILWmyduujCoCuzufyvW.jpg",
+                "url": "https://www.bnamericas.com/en/news/from-quito-to-the-galapagos-petroecuadors-fuel-network-faces-a-health-check",
+                "source": "BNamericas",
+                "date": "2026-07-14T20:38:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "United's new seating option ditches the middle seat",
+                "desc": "United Airlines unveiled a new economy offering that keeps the middle seat vacant and instead features a table with cupholders that passengers in the aisle and window seats may use.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/united-airlines-airbus-a321-gate-passengers.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/uniteds-new-seating-option-ditches-middle-seat",
+                "source": "Fox Business",
+                "date": "2026-07-14T20:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Boston Dynamics Wants Its Robot Dog to Deliver Your Packages",
+                "desc": "Boston Dynamics envisions its four-legged 'Spot' robot helping human delivery workers, noting the company is already 'in talks with major logistics companies.'",
+                "image": "https://i.pcmag.com/imagery/articles/01lX9kybI2iBPYz3PTOuais-1.fit_lim.size_1200x630.v1784050770.jpg",
+                "url": "https://www.pcmag.com/news/boston-dynamics-wants-its-robot-dog-to-deliver-your-packages",
+                "source": "PCMag",
+                "date": "2026-07-14T20:33:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US says Nvidia’s H200 exports to China remain ‘trivial’ despite approvals",
+                "desc": "US commerce official Jeffrey Kessler says only a ‘very small quantity’ of AI chips have reached mainland China and Hong Kong so far.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/15/69e0789b-c783-4c8f-9648-cbebdb54c702_7c29fe8b.jpg?itok=851g8hxT&v=1784061188",
+                "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
+                "source": "South China Morning Post",
+                "date": "2026-07-14T20:33:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The U.S. Humanoid Robot Industry Is Falling Behind",
+                "desc": "The United States risks falling further behind China in humanoid robotics unless policymakers adopt a national strategy to strengthen domestic production, accelerate adoption, and scale the industry.",
+                "image": "https://cdn.sanity.io/images/03hnmfyj/production/efaf37b6f9b09ada00e64c2f11e6f1610a7ac7ea-1920x1080.jpg",
+                "url": "https://itif.org/publications/2026/07/14/the-u-s-humanoid-robot-industry-is-falling-behind/",
+                "source": "Information Technology and Innovation Foundation (ITIF)",
+                "date": "2026-07-14T20:32:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kalshi Wants to Predict the Future of Compute Availability",
+                "desc": "Process that.",
+                "image": "https://gizmodo.com/app/uploads/2025/10/data-center-1200x675.jpg",
+                "url": "https://gizmodo.com/kalshi-wants-to-predict-the-future-of-compute-availability-2000785534",
+                "source": "Gizmodo",
+                "date": "2026-07-14T20:30:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Chip Stock Behind Nvidia's AI Servers Just Landed on the Nasdaq",
+                "desc": "South Korean memory chip giant SK Hynix has finally begun trading on a U.S. exchange.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878402%2Ftechnician-holds-memory-chip-with-gloved-hand.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/14/the-chip-behind-nvidias-ai-servers-just-landed-on/",
+                "source": "The Motley Fool",
+                "date": "2026-07-14T20:24:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Ritz-Carlton Partners With Merit Beauty And Eberjey Pajamas",
+                "desc": "Fresh collaborations with cult brands are turning stays into serious style moments.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a56995b86ac0e0426758a45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/forbestravelguide/2026/07/14/the-ritz-carlton-partners-with-merit-beauty-and-eberjey-pajamas/",
+                "source": "Forbes",
+                "date": "2026-07-14T20:22:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada Post paid $30.8M in 2025 for bonuses: ‘We understand the optics’",
+                "desc": "The mail carrier reported in April that it lost a record-breaking $1.57 billion before tax in 2025, citing labour uncertainty and barriers to modernization.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/06/3c6051fc0da38162d678d16ae728668b442a0258ca0fd6f497e44b5913172c04_eebe1e.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11965606/canada-post-management-paid-record-losses-2025/",
+                "source": "Global News",
+                "date": "2026-07-14T20:21:12Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
                 "title": "Airengy, Nobian Study Danish Salt Cavern Energy Storage Plan",
                 "desc": "Airengy and Nobian are studying a Danish salt cavern for energy storage. The project could store 2.5 GWh and supply 3 MW to 10 MW over long periods when needed.",
                 "image": "https://alpha.creativecirclecdn.com/environment/original/20260714-103435-a0f-Dansk%20Salts%20fully%20electrified%20salt%20production%20facility%20in%20Marriager%2C%20Denmark.jpeg",
@@ -542,99 +632,99 @@
                 "source": "The Globe and Mail",
                 "date": "2026-07-14T16:58:53Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Inside tiny home village for seniors where semi",
-                "desc": "A TINY home village is providing \"stability\" for seniors who have been forced to move dozens of times in search of affordable living.\nTiny home...",
-                "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/07/ch-tiny-home-off-platform.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-                "url": "https://www.the-sun.com/money/16687737/shalom-small-homes-village-seniors-ontario-canada/",
-                "source": "the-sun.com",
-                "date": "2026-07-14T16:56:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inflation fell more than expected in June as gas prices eased",
-                "desc": "Gas prices dropped in response to negotiations between the U.S. and Iran.",
-                "image": "https://i.abcnewsfe.com/a/c6483279-577e-4195-8b22-ac196c523c85/gas-gty-jef-260714_1784031966714_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Business/inflation-fell-expected-june-gas-prices-eased/story?id=134740935",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-14T16:56:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pain at the pump, sticker shock forcing buyers into used car lots",
-                "desc": "AutoTrader's Q2 2026 price index reveals cash-strapped Canadians are ditching new vehicles for cheaper used models. Read more.",
-                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/06/96386157_25705765-e1780497346796.jpg",
-                "url": "https://torontosun.com/news/national/sticker-shock-forcing-buyers-used-car-lots",
-                "source": "Toronto Sun",
-                "date": "2026-07-14T16:56:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How integrated project insurance (IPI) is changing UK construction project risk",
-                "desc": "Find out how integrated project insurance is improving certainty related to costs and build times.",
-                "image": "https://www.marsh.com/content/dam/marsh/Imagery/marsh-2/thumbnail-768x768/female-worker-using-tape-measure-768x768.png",
-                "url": "https://www.marsh.com/en-gb/industries/construction/insights/how-ipi-changing-uk-construction-project-risk.html",
-                "source": "Marsh Risk",
-                "date": "2026-07-14T16:51:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A1 Digital bets on Spain, expand Exoscale cloud infrastructure into country",
-                "desc": "The Austrian company announces its entry into the Spanish market with Exoscale, its sovereign cloud platform.",
-                "image": "https://media.datacenterdynamics.com/media/images/A1_Next_Generation_Data_Center_en.d4a2d55d.fill-1200x630.jpg",
-                "url": "https://www.datacenterdynamics.com/en/news/a1-digital-chooses-spain-to-expand-its-cloud-infrastructure-in-europe/",
-                "source": "Data Center Dynamics",
-                "date": "2026-07-14T16:51:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Middle East conflict drives Singapore marine fuel sales higher",
-                "desc": "Sales of marine fuel in Singapore, the world's largest bunker hub for ships, rose in the first half of 2026 from the same period last year",
-                "image": "https://media.assettype.com/bairdmaritime%2F2025-03-26%2Fg9xq9qgf%2FPort%20of%20Singapore.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.bairdmaritime.com/shipping/ports/middle-east-conflict-drives-singapore-marine-fuel-sales-higher-in-h1-2026",
-                "source": "Baird Maritime",
-                "date": "2026-07-14T16:50:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commerce official says Nvidia H200 AI chips have been shipped to China",
-                "desc": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108201055-1758244301913-gettyimages-2224669736-20090101250716-99-470551.jpeg?v=1761746678&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
-                "source": "CNBC",
-                "date": "2026-07-14T16:50:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cooling inflation lowers estimate",
-                "desc": "New estimates show Social Security's annual cost-of-living adjustment for 2027 may be between 3.7% and 3.8%. Here's what to know.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108334308-1783972878483-gettyimages-2285918159-anotherday239785975_d8derouq.jpeg?v=1783972935&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/14/social-security-cola-in-2027-cooling-inflation-lowers-estimate.html",
-                "source": "CNBC",
-                "date": "2026-07-14T16:50:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will $RAIN Rally H...",
-                "desc": "RAIN just broke its downtrend and is holding near resistance. Read our Rain Protocol price prediction July 2026 with key levels and holder data.",
-                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/rain-protocol-price-prediction-july-2026-4505.jpg",
-                "url": "https://www.coingabbar.com/en/price-prediction/rain-protocol-price-prediction-july-2026",
-                "source": "Coin Gabbar",
-                "date": "2026-07-14T16:39:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Temperature record could be set",
-                "desc": "The scorching temperatures in Toronto today could set a new record today as the mercury rises to the high 30s, CP24 Weather Specialist Jess Smith says.",
-                "image": "https://www.cp24.com/resizer/v2/DSBWDFPZXNG53EGHENDAC62RGY.JPG?smart=true&auth=b718e404d382c10badcaa5357790d37327176345658f17e50238d4cbad87072f&width=1200&height=630",
-                "url": "https://www.cp24.com/weather/2026/07/14/toronto-could-break-a-temperature-record-on-tuesday-live-updates-here/",
-                "source": "CP24",
-                "date": "2026-07-14T16:38:02Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "KEF drops cryptic teaser for mysterious new speaker",
+                "desc": "Loudspeaker and audio product manufacturer KEF has released a teaser for a mysterious new speaker designed by Ross Lovegrove.",
+                "image": "https://www.soundguys.com/wp-content/uploads/2024/03/KEF-LSX-II-LT-one-speaker-front-scaled.jpg",
+                "url": "https://www.soundguys.com/new-kef-speaker-teaser-160084/",
+                "source": "SoundGuys",
+                "date": "2026-07-14T20:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Definitive Ranking Of FromSoftware Farming Locations I Like",
+                "desc": "Dark Souls, Demon's Souls, Elden Ring, Sekrio, Bloodborne, AC6 and more. I have been thinking about farming for weeks now.",
+                "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/IMG_6002.JPG",
+                "url": "https://aftermath.site/dark-souls-elden-ring-sekiro-ac6-souls-runes-farming/",
+                "source": "Aftermath",
+                "date": "2026-07-14T20:31:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Fraud in 2026: How Windows, iPhone and Android Are Working to Verify Digital Content",
+                "desc": "Apple and Android are taking a similar direction through Intelligence platforms and security architecture across iOS and macOS and OS.",
+                "image": "https://techeconomy.ng/wp-content/uploads/2026/07/Windows-Apple-and-Andriod-designed-by-Gemini-AI.png",
+                "url": "https://techeconomy.ng/ai-fraud-in-2026-how-windows-iphone-and-android-are-working-to-verify-digital-content/",
+                "source": "Techeconomy",
+                "date": "2026-07-14T20:29:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+                "desc": "Microsoft fixes a record 622 CVEs, including two exploited SharePoint and AD FS zero-days, while a Kerberos RC4 change could break service account log",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1700-e365/ms=patch.jpg",
+                "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+                "source": "The Hacker News",
+                "date": "2026-07-14T20:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Garmin Forerunner 170 Music Review: The Watch That Paced Me to 1:18 at My First HYROX",
+                "desc": "The Garmin Forerunner 170 Music tested through a 14-week HYROX build and a 1:18 race in Sydney. Spotify offline, pacing tools and the honest gaps.",
+                "image": "https://manofmany.com/wp-content/uploads/2026/07/hyrox-sydney-venue-selfie.jpg",
+                "url": "https://manofmany.com/watches/garmin-forerunner-170-music-review",
+                "source": "Man of Many",
+                "date": "2026-07-14T20:22:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DMC Deploys Two ‘Reverse Remote Production’ Trucks From Broadcast Solutions",
+                "desc": "Powering the software-defined OB trucks is Grass Valley AMPP software",
+                "image": "https://cdn.mos.cms.futurecdn.net/9qjTcbsZswEKRJh5ykQSCa-2560-75.jpg",
+                "url": "https://www.tvtechnology.com/production/live-production/dmc-deploy-two-reverse-remote-production-trucks-from-broadcast-solutions",
+                "source": "TVTechnology",
+                "date": "2026-07-14T20:21:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "XPG Unveils NIMBUS and NIMBUS PLUS Gaming Chairs",
+                "desc": "XPG, the gaming brand of ADATA Technology, today announced the launch of its latest ergonomic gaming chairs, the NIMBUS and NIMBUS PLUS. As remote work continues to shape modern lifestyles and dedicated gamers increasingly require robust support for extended sitting sessions, having a chair that...",
+                "image": "https://www.techpowerup.com/img/4BnIyJg0z25iJ4rG.jpg",
+                "url": "https://www.techpowerup.com/350762/xpg-unveils-nimbus-and-nimbus-plus-gaming-chairs",
+                "source": "TechPowerUp",
+                "date": "2026-07-14T20:19:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Need a New Android Phone? Pick Up the Google Pixel 10 Pro While It's $300 Off",
+                "desc": "This 30% off discount brings the phone to less than $20 more than it's record low price.",
+                "image": "https://www.cnet.com/a/img/resize/9aed9763a4460fd4b18ec82028bc19d3f524b8fd/hub/2026/07/13/07ec41f7-2a67-4d66-a32e-3d40d4a9def3/google-pixel-10-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/deals/google-pixel-10-pro-deal/",
+                "source": "CNET",
+                "date": "2026-07-14T20:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "T. rex 'Gus' sold at auction for record $50 million",
+                "desc": "A massive Tyrannosaurus rex sold for $50.1 million at Sotheby's in New York making it the most expensive dinosaur fossil sold at auction.",
+                "image": "https://cdnph.upi.com/sv/ph/og/upi/7651784059517/2026/1/1046727b84bfeec7e49879469314e368/v1.5/T-rex-Gus-sold-at-auction-for-record-50-million.jpg",
+                "url": "https://www.upi.com/Top_News/US/2026/07/14/tyrannosaurus-rex-gus-sold-sothebys/7651784059517/",
+                "source": "upi.com",
+                "date": "2026-07-14T20:16:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DuRoBo unveils Moodi Bluetooth page turner for its Krono e-reader",
+                "desc": "DuRoBo’s new Moodi Bluetooth 5.4 page turner adds customizable emoji button caps and multi‑mode controls for hands‑free operation of its Krono e‑ink reader. The compact accessory offers weeks‑long battery life and a $35.99 price point.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/DuRoBo-unveils-Moodi-Bluetooth-page-turner-for-its-Krono-e-reader.jpg",
+                "url": "https://www.notebookcheck.net/DuRoBo-unveils-Moodi-Bluetooth-page-turner-for-its-Krono-e-reader.1342872.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-14T20:16:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Potential sticker shock pushes smartphone buyers to last year's iPhone and Galaxy models",
                 "desc": "Expected price hikes for Apple and Samsung smartphones are driving shoppers toward older flagship models like the iPhone 17 and Galaxy S26. With modest upgrades and a chip shortage squeezing costs, new iPhone 18 and Galaxy foldables may face weaker demand.",
@@ -1174,99 +1264,99 @@
                 "source": "GSMArena.com",
                 "date": "2026-07-14T17:00:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Honor Robot Phone's key specifications leak",
-                "desc": "It is rumored to launch in August. Despite showcasing its Robot Phone at CES and MWC earlier this year, Honor has yet to reveal its hardware details. A new...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/honor-robot-phone-specs-leak/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/honor_robot_phones_key_specifications_leak-news-73710.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-14T17:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Forza Horizon 6 'Italian Passion Car Pack' Now Live, And It's Free For Premium Owners",
-                "desc": "Four cars including the 2025 Ferrari F80 - If you're a big fan of Forza Horizon 6, you may have noticed that Series 3 of the Festival Playlist began last nig...",
-                "image": "https://images.purexbox.com/08d38932ef9e6/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/07/forza-horizon-6-italian-passion-car-pack-now-live-and-its-free-for-premium-owners",
-                "source": "Pure Xbox",
-                "date": "2026-07-14T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony's FlexStrike PS5 Fight Stick Delayed Indefinitely, Now Launches After Marvel Tokon",
-                "desc": "Fight to make it right - FlexStrike, PlayStation's official fight stick peripheral, has been delayed indefinitely. In an update to a PS Blog post on the upc...",
-                "image": "https://images.pushsquare.com/10775121b32a5/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/sonys-flexstrike-ps5-fight-stick-delayed-indefinitely-now-launches-after-marvel-tokon",
-                "source": "Push Square",
-                "date": "2026-07-14T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Angry Aer Lingus Customers Say It's 'Laughably Difficult' To Redeem Free Flights Owed As Part Of Loyalty Scheme",
-                "desc": "Aer Lingus have received strong criticism from customers over the operation of their loyalty scheme.",
-                "image": "https://www.nova.ie/wp-content/uploads/2026/07/Angry-Aer-Lingus-Customers-Say-Its-Laughably-Difficult-To-Redeem-Free-Flights-Owed-As-Part-Of-Loyalty-Scheme.jpg",
-                "url": "https://www.nova.ie/angry-aer-lingus-customers-say-its-laughably-difficult-to-redeem-free-flights-owed-as-part-of-loyalty-scheme/",
-                "source": "Nova.ie",
-                "date": "2026-07-14T16:53:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I tried the Asus AR glasses with the OLED Ally - they felt extraneous.",
-                "desc": "[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-ally-x20-sean-hollister-1.jpg?quality=90&strip=all]\nI enjoy plugging Xreal glasses into handhelds for a huge virtual desktop — but that’s no reason to make us buy the priciest version with a 240Hz mode handhelds have trouble powering. Plus, 240Hz halves resolution from 1080p to 540p, which felt weird and blurry in person. (120Hz was fine.) Good thing Asus will now sell the OLED Ally separately!",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-ally-x20-sean-hollister-1.jpg?quality=90&strip=all&crop=5.4%2C25.010929162825%2C90.8%2C63.292058878428&w=1200",
-                "url": "https://www.theverge.com/games/965453/i-tried-the-asus-ar-glasses-with-the-oled-ally-they-felt-extraneous",
-                "source": "The Verge",
-                "date": "2026-07-14T16:51:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MSI Unveils the PRO MAX OLED 271UPJW12: The World's First 27-Inch 4K IJP OLED Monitor",
-                "desc": "MSI, a global leader in high-performance computing, has officially announced the PRO MAX OLED 271UPJW12, marking a new era in visual technology as the world's first 27-inch Inkjet-printed (IJP) OLED display. Designed as the ultimate display, it seamlessly bridges high-efficiency productivity and...",
-                "image": "https://www.techpowerup.com/img/ooqnktCAPneVUvmN.jpg",
-                "url": "https://www.techpowerup.com/350759/msi-unveils-the-pro-max-oled-271upjw12-the-worlds-first-27-inch-4k-ijp-oled-monitor",
-                "source": "TechPowerUp",
-                "date": "2026-07-14T16:46:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Assassin's Creed Black Flag Resynced's Controversial Day 1 DLC Earned $1 Million, Just on Steam",
-                "desc": "Assassin's Creed Black Flag Resynced's controversial $85 collection of day one DLC earned Ubisoft an extra $1 million on Steam, it's been reported.",
-                "image": "https://assets-prd.ignimgs.com/2026/06/12/assassins-creed-black-flag-resynced-new-content-1781287603015.png?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynceds-controversial-day-1-dlc-earned-1-million-just-on-steam",
-                "source": "IGN",
-                "date": "2026-07-14T16:41:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Your iPhone might miss out on these iOS 27 features",
-                "desc": "iOS 27 compatibility hasn't changed, but not every iPhone gets every feature. Here's which new features your iPhone supports.",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/14/ios-27-new-features-compatibility/",
-                "source": "9to5Mac",
-                "date": "2026-07-14T16:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Z Fold 8 could get an overdue wireless charging upgrade",
-                "desc": "Samsung’s Galaxy Unpacked launch event is just around the corner, but more details about wireless charging speed for the Galaxy...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-63.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/14/galaxy-z-fold-8-wireless-charging-leak/",
-                "source": "9to5Google",
-                "date": "2026-07-14T16:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bus Simulator 27: New Trailer Showcases Most Advanced Fleet in Bus Simulator History",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/pl/Bus-Simulator-27-New-Trailer-Showcases-Most-Advanced-Fleet-in-Bus-Simu",
-                "source": "Games Press",
-                "date": "2026-07-14T16:36:18Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Quebec reporting a rise in diarrhea-causing parasite cases",
+                "desc": "The situation is nowhere near the scale of the outbreak in Michigan, Quebec Health Ministry says.",
+                "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/07/slack-imgs.jpg",
+                "url": "https://montrealgazette.com/news/provincial-news/cyclosporiasis-quebec-cases-michigan-diarrhea/",
+                "source": "Montreal Gazette",
+                "date": "2026-07-14T20:37:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Supreme Court justices describe bulletproof vests and 'swatting' hoax",
+                "desc": "Two justices appeared before Congress to ask for $228m (£170.3m) in security funding as threats continue to rise - both in person and online.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c805/live/66054e10-7fc3-11f1-b890-9bba15144891.jpg",
+                "url": "https://www.bbc.com/news/articles/crkvkjddjd7o",
+                "source": "BBC",
+                "date": "2026-07-14T20:36:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Person fleeing ICE agents in Florida fatally struck by vehicle, highway patrol says",
+                "desc": "A person who ran away from federal immigration agents in St. Augustine, Florida, early Tuesday was struck and killed by a tractor trailer, according to the Florida Highway Patrol.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/746129668-27571566649119429-2457340434666450486-n.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/14/us/ice-agents-florida-death",
+                "source": "CNN",
+                "date": "2026-07-14T20:36:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump reinstates Strait of Hormuz blockade; 20 per cent cargo toll as US-Iran ceasefire collapses",
+                "desc": "US forces have carried out additional strikes on military targets in Iran to eliminate “emerging threats” ahead of a naval blockade on Iranian ports resuming. Follow live.",
+                "image": "https://static.ffx.io/images/$zoom_0.1582%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/bc4fc440988a0260098227beaa1d0fc00b3d75c5",
+                "url": "https://www.theage.com.au/world/middle-east/us-iran-war-live-updates-trump-reinstates-blockade-on-strait-of-hormuz-backs-away-from-20-per-cent-fee-as-us-launches-wave-of-new-attacks-on-iran-20260714-p60f8k.html",
+                "source": "The Age",
+                "date": "2026-07-14T20:35:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
+                "desc": "Mobilisation of fighters and attacks signal the collapse of Yemen’s fragile peace, with regional implications looming.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a569324e5d6-1784058660.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending",
+                "source": "Al Jazeera",
+                "date": "2026-07-14T20:30:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK police say former politician was killed in 'targeted attack'",
+                "desc": "Ann Widdecombe was killed in a “targeted attack”, though the motivation is still under investigation, British counterterror police said.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/ann-widdecombe-KKS6MILU6FC43ETNDQ3WPRRJP4.jpg?auth=f0e49a305afb8bf406df65e7b936bad377c54ac6f9e0257fb50a89c39bdc5c28&quality=70&width=600&height=315&focal=2867%2C1434",
+                "url": "https://www.1news.co.nz/2026/07/15/uk-police-say-former-politician-was-killed-in-targeted-attack/",
+                "source": "1News",
+                "date": "2026-07-14T20:29:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%",
+                "desc": "International Business News: US senators on Tuesday unveiled a revised version of a Russia sanctions bill that seeks to pressure Moscow and its major energy buyers, including Indi.",
+                "image": "https://static.toiimg.com/thumb/msid-132400877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/business/international-business/us-eases-russia-sanctions-bill-cuts-tariff-threat-on-india-and-china-from-500-to-100/articleshow/132400873.cms",
+                "source": "The Times of India",
+                "date": "2026-07-14T20:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Late-night TV hosts skewer Mitch McConnell's proof-of-life photo",
+                "desc": "A photo posted on U.S. Sen. Mitch McConnell's Facebook page may have done little to convince the internet that he's still alive, but it's working as a punchline for late-night television hosts in the U.S.",
+                "image": "https://i.cbc.ca/ais/091150f0-c0c8-4849-b0ae-0e0e695dd855,1784057039153/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/entertainment/late-night-mitch-mcconnell-proof-of-life-photo-9.7269952",
+                "source": "CBC",
+                "date": "2026-07-14T20:24:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PEN America president, defending Israel’s critics, resigns after report warns of threats to Jewish authors",
+                "desc": "Dinaw Mengestu criticized the literary free-speech group for failing to defend supporters of the boycott targeting Israel.",
+                "image": "https://static.timesofisrael.com/jewishchronicle/uploads/2026/07/7-13-26-Mengestu.jpg",
+                "url": "https://jewishchronicle.timesofisrael.com/pen-america-president-defending-israels-critics-resigns-after-report-warns-of-threats-to-jewish-authors/",
+                "source": "The Pittsburgh Jewish Chronicle",
+                "date": "2026-07-14T20:22:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US reimposes blockade, Trump threatens to strike Iran's infrastructure",
+                "desc": "Another wave of US strikes on Iran and Iranian attacks on shipping and American allies left an interim peace deal in tatters.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-strike-is-carried-out-by-us-forces-in-iran-QYIVOJYPVVAI5IIS4EWWDFVLWA.png?auth=92c609565ece4d22e30dd1af57100ecea82f66452e9e07718f76d4e5fecb2687&quality=70&width=600&height=315&focal=870%2C385",
+                "url": "https://www.1news.co.nz/2026/07/15/us-reimposes-blockade-trump-threatens-to-strike-irans-infrastructure/",
+                "source": "1News",
+                "date": "2026-07-14T20:22:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "England vs Argentina prediction: 13-1 Bet Builder tip, odds, team news | World Cup 2026",
                 "desc": "England vs Argentina in the semi-finals at the 2026 World Cup. Get match details, betting tips, predictions and TV info for the big game in Atlanta",
@@ -1806,98 +1896,8 @@
                 "source": "CNN",
                 "date": "2026-07-14T16:40:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Couple sues surrogate who refused to abort their baby over a minor birth defect",
-                "desc": "A Canadian same-sex couple is suing the woman who carried their now 2-year-old son because she refused their demand to abort the fetus because of a minor birth defect and a cleft lip.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134354179.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/14/world-news/couple-sues-surrogate-who-refused-to-abort-their-baby-over-a-minor-birth-defect/",
-                "source": "New York Post",
-                "date": "2026-07-14T16:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amidst disasters, ‘crisis communication gap’ threatens Indigenous peoples",
-                "desc": "From climate emergencies to earthquakes, frontline Indigenous communities are especially vulnerable — but too often left out of emergency decision-making.",
-                "image": "https://indiginews.com/wp-content/uploads/2026/07/emrip-2.webp",
-                "url": "https://indiginews.com/news/crisis-communication-gap-threatens-indigenous-peoples/",
-                "source": "Indiginews",
-                "date": "2026-07-14T16:38:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US military hits targets across Iran in hours leading up to resumption of naval blockade",
-                "desc": "U.S. Central Command said it completed a five-hour mission of strikes against Iranian targets as service members are gearing up to reimpose a naval blockade Tuesday.",
-                "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/07/40013115cb288268c9023694ae820145.jpg",
-                "url": "https://www.foxnews.com/live-news/iran-war-trump-israel-hormuz-july-14-2026",
-                "source": "Fox News",
-                "date": "2026-07-14T16:38:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ann Widdecombe was killed in a ‘targeted attack’, police investigating her death say",
-                "desc": "White British man (28) arrested in Yorkshire on suspicion of commission, preparation or instigation of acts of terrorism",
-                "image": "https://www.irishtimes.com/resizer/v2/7ZONRDRGE4IULQIQRMCS4UU4H4.jpg?smart=true&auth=82d39682dcb47a56493f7d65a866f0a917052f610550cca8d0be8a467523cd58&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/uk/2026/07/14/ann-widdecombe-was-killed-in-a-targeted-attack-police-investigating-death-say/",
-                "source": "The Irish Times",
-                "date": "2026-07-14T16:37:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-                "desc": "The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.",
-                "image": "https://static01.nyt.com/images/2026/07/09/multimedia/dc-trump-korea-1-pjzh/dc-trump-korea-1-pjzh-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
-                "source": "The New York Times",
-                "date": "2026-07-14T16:35:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-                "desc": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro",
-                "source": "BBC",
-                "date": "2026-07-14T16:34:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran strikes US bases as Trump vows to reinstate sea blockade",
-                "desc": "The U.S. launched strikes on Iran early Tuesday, hours after President Donald Trump vowed to reinstate an American blockade of Iranian ports and charge ships for safe passage through the Strait of Hormuz",
-                "image": "https://images.euronews.com/articles/stories/09/83/79/00/1024x538_cmsv2_740ff5f8-6077-5fbc-b834-acb557030541-9837900.jpg",
-                "url": "https://www.africanews.com/2026/07/14/iran-strikes-us-bases-as-trump-vows-to-reinstate-sea-blockade/",
-                "source": "africanews.com",
-                "date": "2026-07-14T16:32:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda: Museveni Receives Special Message From Angolan President Lourenco",
-                "desc": "President Museveni on Tuesday received a special message from his Angolan counterpart, João Lourenço, during a meeting with Angola's Minister of Foreign Affairs, Téte António, at the President's Kisozi Farm in Gomba District.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607140621.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-14T16:31:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda: Business Leaders to Explore Customer-Centric Growth At CEO Breakfast 2026",
-                "desc": "In an era where customers can switch brands with a single click or share poor experiences with thousands of people online, customer experience has become one of the biggest differentiators for businesses. Yet for many Ugandan organisations, excellent customer service remains more of an aspiration than a consistent reality.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607140620.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-14T16:31:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya Airways Boosts Dubai Service in Sep",
-                "desc": "Published at 0930PDT / 1630GMT 14JUL26 Kenya Airways from September 2026 plans to increase Nairobi – Dubai flights, where the carrier schedules 14 weekly service from 01SEP26, instead of 11 weekly. Boeing 737-800 aircraft oeprats this route. KQ310 NBO1710 – 2325DXB 73H D KQ304 NBO2220 – 0435+1D",
-                "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
-                "url": "https://www.aeroroutes.com/eng/260714-kqsep26dxb",
-                "source": "AeroRoutes",
-                "date": "2026-07-14T16:30:35Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T08:00:31.467670Z"
+    "lastGlobalSync": "2026-07-15T08:40:22.454546Z"
 }
