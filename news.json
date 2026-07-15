@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Airengy, Nobian Study Danish Salt Cavern Energy Storage Plan",
+                "desc": "Airengy and Nobian are studying a Danish salt cavern for energy storage. The project could store 2.5 GWh and supply 3 MW to 10 MW over long periods when needed.",
+                "image": "https://alpha.creativecirclecdn.com/environment/original/20260714-103435-a0f-Dansk%20Salts%20fully%20electrified%20salt%20production%20facility%20in%20Marriager%2C%20Denmark.jpeg",
+                "url": "https://www.environmentenergyleader.com/stories/airengy-nobian-study-danish-salt-cavern-energy-storage-plan,133302",
+                "source": "Environment+Energy Leader",
+                "date": "2026-07-14T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five First Nations sign $1-billion equity deal for LNG Canada’s planned storage tank",
+                "desc": "Transaction is contingent on co-owners making final investment decision later this year on plans to expand Kitimat terminal",
+                "image": "https://www.theglobeandmail.com/resizer/v2/VVNJTJIWTBDI5J4PRA2RGSP6XI.JPG?auth=b7cca302b08eb8250329454b85ca14ebb2337ea9a99519ffb22f2872e1f2de3f&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/article-first-nations-lng-canada-storage-tank-equity/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-14T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How do young people feel about AI? 7 teens weigh in",
+                "desc": "What's it like to grow up and learn in the age of AI? NPR put that question to seven teenagers across the country.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x4473+0+416/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Fc1%2Fec96f7ad4ffd8bfd73e3c73076f2%2Fgettyimages-2271215485.jpg",
+                "url": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school",
+                "source": "NPR",
+                "date": "2026-07-14T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lucid Motors Denies ‘Completely False’ Bankruptcy Rumors",
+                "desc": "The beleaguered electric vehicle manufacturer’s stock crashed on Tuesday after a report indicated it could be considering bankruptcy or going private.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a569447e3c371ba2a77ba9b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/14/lucid-motors-denies-bankruptcy-rumors-after-stocks-55-crash/",
+                "source": "Forbes",
+                "date": "2026-07-14T19:56:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man disqualified after no insurance detection in Letterkenny",
+                "desc": "A man has been put off the road after being caught driving without insurance in Donegal.The case of Isse Idow was before Letterkenny District Court.Idow, a 24-y...",
+                "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNVxcXC8xMFxcXC9Oby1pbnN1cmFuY2UtMTAyNHg1MzYucG5nXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wM1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZmNjYjIxMWQyNTYxMGZhNWJiNDEzNzlkZjAxYmNjOTI2NDk0MGEyZCJ9/man-disqualified-after-no-insurance-detection-in-letterkenny.png",
+                "url": "https://www.donegaldaily.com/news/man-disqualified-after-no-insurance-detection-in-letterkenny-641732",
+                "source": "Donegal Daily",
+                "date": "2026-07-14T19:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil prices are spiking again. Here's what it means for gas prices",
+                "desc": "Global oil prices have jumped more than 10% since last week.",
+                "image": "https://i.abcnewsfe.com/a/6324563e-c5a1-42e2-943d-98a3c234c6f8/hormuz-gty-jef-260714_1784036505344_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Business/oil-prices-spiking-means-gas-prices/story?id=134740938",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-14T19:54:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Social Security 2027 COLA may be 3.7% but still not offset Medicare",
+                "desc": "Social Security checks could rise by 3.7% next year, but Medicare costs will rise too, analysts said.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/13/USAT/90906782007-1346574948.jpg?crop=3839,2160,x0,y123&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/14/social-security-2027-cola-estimate-medicare/90906220007/",
+                "source": "USA Today",
+                "date": "2026-07-14T19:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangote refinery’s dollar pricing: What it means for fuel prices, naira",
+                "desc": "The decision by Dangote Petroleum Refinery to denominate the prices of Premium Motor Spirit (PMS), diesel and aviation fuel",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/04/Business-magnate-and-Chairman-of-the-Dangote-Group-Dr.-Aliko-Dangote-1536x864-1.webp",
+                "url": "https://guardian.ng/news/dangote-refinerys-dollar-pricing-what-it-means-for-fuel-prices-naira/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-14T19:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "20 years ago, China bet big on electric vehicles. Now Western carmakers are feeling the pain",
+                "desc": "China’s rise to EV dominance may seem sudden – but it’s the result of more than 20 years of state investment.",
+                "image": "https://images.theconversation.com/files/747662/original/file-20260714-57-y7qscg.jpg?ixlib=rb-4.1.0&rect=0%2C318%2C5272%2C2636&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/20-years-ago-china-bet-big-on-electric-vehicles-now-western-carmakers-are-feeling-the-pain-286851",
+                "source": "The Conversation",
+                "date": "2026-07-14T19:47:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Goldman Sachs and JPMorgan Chase are emerging as AI winners",
+                "desc": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334926-1784054864249-Solomon_Dimon.jpg?v=1784054958&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+                "source": "CNBC",
+                "date": "2026-07-14T19:47:39Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Israeli-designed Palace of Versailles extended reality installation will launch",
                 "desc": "The new \"Light of Liberty\" installation allows visitors to walk next to historical figures in a simulated eighteenth-century environment.",
                 "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729820",
@@ -542,99 +632,72 @@
                 "source": "CP24",
                 "date": "2026-07-14T16:38:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The AI Leadership Mandate",
-                "desc": "To thrive, organizations must become human centered.",
-                "image": "https://www.chicagobooth.edu/-/media/project/chicago-booth/chicago-booth-review/2026/july/chicago-booth-microchip-stairs.jpg?w=1920&h=800&hash=6899135033EE4902392B7E5F5312BE6D",
-                "url": "https://www.chicagobooth.edu/review/ai-leadership-mandate",
-                "source": "The University of Chicago Booth School of Business",
-                "date": "2026-07-14T16:35:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New national measures give HK’s financial prowess a powerful boost",
-                "desc": "Tu Haiming says initiatives address city’s economic needs and dynamics of evolving competition.",
-                "image": "https://www.chinadailyhk.com/upload/main/image/2024/06/06/062c4c22fe9b8f1998f15c66b487ccdc.jpg",
-                "url": "https://www.chinadailyasia.com/hk/article/636433",
-                "source": "chinadailyasia.com",
-                "date": "2026-07-14T16:32:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apartments, retail to revive ‘dead’ site",
-                "desc": "A planned apartment and retail project in central Dunedin will breathe new life into a ‘‘dead’’ building, its developer says. Osmax Ltd has been...",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/sam_cadden_140726.jpg?itok=TLCSJXib",
-                "url": "https://www.odt.co.nz/business/apartments-retail-revive-dead-site",
-                "source": "Otago Daily Times",
-                "date": "2026-07-14T16:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BofA says investors are too bullish, forget about summer market upside",
-                "desc": "Strategist Michael Hartnett worries the sheer level of optimism is a contrarian sell signal, saying investors should reduce their exposure to stocks.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108333448-1783696403691-Traders-Photo-20260710-KK-PRESS-006.jpg?v=1783696610&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/14/bofa-says-investors-are-too-bullish-forget-about-summer-market-upside.html",
-                "source": "CNBC",
-                "date": "2026-07-14T16:28:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices on the rise in wake of renewed Iran-US conflict",
-                "desc": "In Asian trading on Tuesday, Brent Crude has climbed a further another 1.5% to US$84.50 a barrel.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/anxious-eyes-back-on-fuel-pumps-as-iran-conflict-escalates-ZAGPFUZE2BH2TKYYM3GK367LOA.png?auth=4275e027e950ec94775bad82fec7dde2abe9fb0240cb2a1df6dfb26fe990ee9d&quality=70&width=600&height=315&focal=0%2C0",
-                "url": "https://www.1news.co.nz/2026/07/14/oil-prices-on-the-rise-in-wake-of-renewed-iran-us-conflict/",
-                "source": "1News",
-                "date": "2026-07-14T16:23:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NCC, UNESCO, others seek sustainable framework for free access to education platforms",
-                "desc": "The Nigerian Communications Commission (NCC), the United Nations Educational, Scientific and Cultural Organisation (UNESCO), Meta",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/02/Nigerian-Communications-Commission-NCC.webp",
-                "url": "https://guardian.ng/news/ncc-unesco-others-seek-sustainable-framework-for-free-access-to-education-platforms/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-14T16:22:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cypress Creek and Google Break Ground on America’s Largest Solar Project in Mississippi County",
-                "desc": "The groundbreaking event marked a major milestone for a project that will help meet growing electricity demand while showcasing Arkansas's role in strengthening America's energy and manufacturing supply chains.",
-                "image": "https://jonesbororightnow.com/wp-content/blogs.dir/286/files/2026/07/JRN-DAILY-7-Site-Featured-Image-16.jpg",
-                "url": "https://jonesbororightnow.com/news/268862-cypress-creek-and-google-break-ground-on-americas-largest-solar-project-in-mississippi-county/",
-                "source": "Jonesboro Right Now",
-                "date": "2026-07-14T16:18:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KBS Also Faces Crisis Following JTBC",
-                "desc": "Following JTBC, KBS has also taken steps to address its management crisis. KBS recorded a deficit of about ₩10.0 billion KRW (about $6.67 million USD) in the first half of…",
-                "image": "https://image.koreaboo.com/2026/07/KBS-FI.jpg",
-                "url": "https://www.koreaboo.com/news/kbs-crisis-following-jtbc/",
-                "source": "Koreaboo",
-                "date": "2026-07-14T16:16:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese EVs in Canada",
-                "desc": "Dongfeng Motor Corporation Ltd. is the latest Chinese automaker preparing to enter the Canadian market, and its planned entry likely represents a broader effort by Chinese automakers to establish a strong presence in North America, says one auto analyst.",
-                "image": "https://www.bnnbloomberg.ca/resizer/v2/H5V6ZA76Z32FQKKOXOFYW7XRCM.jpg?smart=true&auth=68d71c6fea6df3a98280a61e6587517fec4ba1f82ceb0871621c69a5e8914bbf&width=1200&height=630",
-                "url": "https://www.bnnbloomberg.ca/business/2026/07/14/its-going-to-be-rough-for-canadian-manufacturers-to-negotiate-analyst-on-new-chinese-evs/",
-                "source": "BNN Bloomberg",
-                "date": "2026-07-14T16:15:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As Artificial Intelligence Drives Health Innovations, UN Agencies Launch Joint Strategic Guidelines",
-                "desc": "True progress in artificial intelligence for health requires global guardrails, equitable data, and local capacity, according to a landmark framework launched by three United Nations agencies. Health leaders emphasise that true progress requires global guardrails, equitable data and local capacity, ensuring lower-income regions become co-creators of future innovations.",
-                "image": "https://i0.wp.com/healthpolicy-watch.news/wp-content/uploads/2026/07/8386440-e1783959305182.jpeg",
-                "url": "https://healthpolicy-watch.news/artificial-intelligence-health/",
-                "source": "Health Policy Watch",
-                "date": "2026-07-14T16:12:29Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Potential sticker shock pushes smartphone buyers to last year's iPhone and Galaxy models",
+                "desc": "Expected price hikes for Apple and Samsung smartphones are driving shoppers toward older flagship models like the iPhone 17 and Galaxy S26. With modest upgrades and a chip shortage squeezing costs, new iPhone 18 and Galaxy foldables may face weaker demand.",
+                "image": "https://image.koreajoongangdaily.com/12773540.jpg?imageId=12773540&x=0&y=7.1&cropw=100&croph=73.3&panox=0&panoy=7.1&panow=100&panoh=73.3&width=1200&height=683",
+                "url": "https://www.koreajoongangdaily.com/business/potential-sticker-shock-pushes-smartphone-buyers-to-last-years-iphone-and-galaxy-models/12773782",
+                "source": "Korea JoongAng Daily",
+                "date": "2026-07-14T20:00:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft To Make Passkeys The Default Authentication Method For Entra ID",
+                "desc": "Microsoft has announced one of the most significant changes to enterprise identity security in recent years, confirming that passkeys will become the default authentication experience for Microsoft Entra ID beginning September 1, 2026. The move marks a major step in the company's long-term effort to",
+                "image": "https://media.licdn.com/dms/image/v2/D4E12AQG2QoyTIp1RHQ/article-cover_image-shrink_720_1280/B4EZ9hs5JLJEAQ-/0/1784050593369?e=2147483647&v=beta&t=sdSC3O3XE9HMQCwNpO-OcMWijxh_ezsTy1Jq-avokRE",
+                "url": "https://www.linkedin.com/pulse/microsoft-make-passkeys-default-authentication-fhgue",
+                "source": "LinkedIn",
+                "date": "2026-07-14T20:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft Just Patched a Record 570 Flaws in Windows",
+                "desc": "Microsoft's Patch Tuesday update for July fixes a record 570 bugs, including three zero-days that have been actively exploited or publicly disclosed.",
+                "image": "https://lifehacker.com/imagery/articles/01KXH1WA1SK30052RTK6Q3K10H/hero-image.fill.size_1200x675.jpg",
+                "url": "https://lifehacker.com/tech/microsoft-just-patched-570-flaws-in-windows",
+                "source": "Lifehacker",
+                "date": "2026-07-14T19:59:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Gus' the T rex fetches record (US)$50.1 million at auction",
+                "desc": "A Tyrannosaurus rex skeleton nicknamed \"Gus\" sold for (US)$50.1 million at Sotheby's in New York, making it the most valuable dinosaur fossil bought at auction after a 10-minute battle between seven bidders.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--IDrJRVq9--/t_tohu-badge-facebook/f_auto/q_auto/4JLHPP6_AFP__20260701__B8YC29N__v1__HighRes__UsAuctionSothebysDinosaurFossil_jpg",
+                "url": "https://www.rnz.co.nz/news/world/721173/gus-the-t-rex-fetches-record-us-50-point-1-million-at-auction",
+                "source": "RNZ",
+                "date": "2026-07-14T19:50:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Open Your Ears to This Deal: Shokz Headphones for Under $100",
+                "desc": "The Shokz OpenRun open-ear headphones let you listen to your audio while simultaneously keeping aware of your surroundings, and now, they're $300 less with today from Amazon.",
+                "image": "https://i.pcmag.com/imagery/articles/04qYTdCORjN79s3WXW8x3aa-1.fit_lim.size_1200x630.v1784055169.png",
+                "url": "https://www.pcmag.com/deals/open-your-ears-to-this-deal-shokz-headphones-for-under-100-july-14",
+                "source": "PCMag",
+                "date": "2026-07-14T19:45:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I stopped using Google Maps in Android Auto and switched to an open-source navigator that respects my privacy",
+                "desc": "Google Maps collects 24 data categories from your phone.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/12/android-auto-offline-maps.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/i-stopped-using-google-maps-in-android-auto-and-switched-to-an-open-source-navigator-that-respects-my-privacy/",
+                "source": "How-To Geek",
+                "date": "2026-07-14T19:45:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+                "desc": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
+                "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+                "source": "TechCrunch",
+                "date": "2026-07-14T19:42:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "New cell imaging method shines a light on blind spots",
                 "desc": "Cells are crowded, dynamic places where thousands of molecules interact in tight quarters. Until now, scientists lacked a reliable way to see many of these molecular interactions as they happen. Researchers at the University of Illinois Chicago have now developed a new imaging method that allows scientists to see previously hidden enzyme activities in small regions across the whole cell. The findings, published in the Proceedings of the National Academy of Sciences, open new possibilities for understanding how cells process information.",
@@ -1201,72 +1264,81 @@
                 "source": "Games Press",
                 "date": "2026-07-14T16:36:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "based HyperOS 3 update starts rolling out",
-                "desc": "Xiaomi has started rolling out the stable Android 17-based HyperOS 3 update to the Xiaomi 17 Ultra in Europe, upgrading users from the May build to a new June 2026 security patch.",
-                "image": "https://tech-ish.com/wp-content/uploads/2026/07/Xiaomi-17-Ultra.jpg",
-                "url": "https://tech-ish.com/2026/07/14/xiaomi-17-hyperos-3-android-17-update/",
-                "source": "tech-ish.com",
-                "date": "2026-07-14T16:35:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Logitech G Pro X2 Superstrike 2 upgrades tipped, launching in just a couple months",
-                "desc": "A new leak has suggested that the successor to the Logitech G Pro X2 Superstrike is only a couple of months away. The Superstrike 2 will come with a few upgrades but exact details are unclear at this point.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-superstrike-2-leak.jpg",
-                "url": "https://www.notebookcheck.net/Logitech-G-Pro-X2-Superstrike-2-upgrades-tipped-launching-in-just-a-couple-months.1342837.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-14T16:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motor AWD Buggy It Debuted at Le Mans",
-                "desc": "The Genesis Box Buggy may look like a golf cart, but no golf cart we know of comes complete with individual steer-by-wire systems at each corner.",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/793d0c6f-8e83-49ed-9961-d336b8b8c01e.jpg?crop=0.644xw:0.573xh;0.277xw,0.356xh&resize=1200:*",
-                "url": "https://www.roadandtrack.com/news/a71932405/genesis-box-buggy-debuted-at-le-mans/",
-                "source": "Road & Track",
-                "date": "2026-07-14T16:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Images Marks Its 25 Birthday by Adding AI Image Generation",
-                "desc": "Google also adds a personalized gallery of images from around the web, with the option of saving them in Pinterest-like collections.",
-                "image": "https://i.pcmag.com/imagery/articles/07IZoLN1lr6PvqUH6yZbAsr-1.fit_lim.size_1200x630.v1784002653.png",
-                "url": "https://www.pcmag.com/news/google-images-marks-its-25-birthday-by-adding-ai-image-generation",
-                "source": "PCMag",
-                "date": "2026-07-14T16:31:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gaming expert highlights demerits of Sony’s proposed digital-only production",
-                "desc": "Sony said from January 2028, new games would be available on the PlayStation Store and at retailers in digital formats only.",
-                "image": "https://gazettengr.com/wp-content/uploads/30-days-after-teacher-lies-beheaded-Oyo-schoolchildren-languish-as-Tinubu-Makinde-chase-presidential-ambition-67.png",
-                "url": "https://gazettengr.com/gaming-expert-highlights-demerits-of-sonys-proposed-digital-only-production/",
-                "source": "Peoples Gazette Nigeria",
-                "date": "2026-07-14T16:31:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Images Marks Its 25 Birthday by Adding AI Image Generation",
-                "desc": "Google also adds a personalized gallery of images from around the web, with the option of saving them in Pinterest-like collections.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/g/google-ima/google-images-marks-its-25-birthday-by-adding-ai-image-gener_46ta.1200.jpg",
-                "url": "https://au.pcmag.com/ai/118758/google-images-marks-its-25-birthday-by-adding-ai-image-generation",
-                "source": "PCMag Australia",
-                "date": "2026-07-14T16:30:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-                "desc": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
-                "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-                "source": "Ars Technica",
-                "date": "2026-07-14T16:28:14Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "England vs Argentina prediction: 13-1 Bet Builder tip, odds, team news | World Cup 2026",
+                "desc": "England vs Argentina in the semi-finals at the 2026 World Cup. Get match details, betting tips, predictions and TV info for the big game in Atlanta",
+                "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/0eb6e9dd4d9f-england-argentina.jpg",
+                "url": "https://www.racingpost.com/sport/football-tips/world-cup-2026/england-vs-argentina-betting-tips-predictions-team-news-odds-bet-builder-preview-aq4d14z4Yr9X/",
+                "source": "Racing Post",
+                "date": "2026-07-14T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leste police in major scam center crackdown",
+                "desc": "More than 250 people have been apprehended in Timor-Leste following a sweep of raids on alleged scam centers. While details about what the alleged scams are is still unclear, these raids follow on from a major bust last year in the Timorese region of Oe-Cussee where authorities raided a hotel detaining 30 foreign nationals and seizing phones and starlink units.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/8816c9d004a39d72055000edb47e68cc?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/106899526",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-14T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Cup grudge match could get a little Messi",
+                "desc": "This semi-final will be, at its most fundamental, a game of football. But, based on the campaigns of both teams, the history and the countless storylines, this collision has everything else.",
+                "image": "https://static.ffx.io/images/$zoom_0.3965%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_655%2C$y_35/t_crop_custom/q_86%2Cf_auto/20495a6618c73273ff1c17a502330077b787c1df",
+                "url": "https://www.smh.com.au/sport/soccer/the-ultimate-world-cup-grudge-match-could-get-a-little-messi-20260714-p60f28.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-14T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mozambique: Gas revenues should go to diversifying economy - president",
+                "desc": "International, MNA | Mozambique's president said on Tuesday that the natural gas mega-projects in Cabo Delgado would have a transformative impact, with the revenue generated used",
+                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
+                "url": "https://macaubusiness.com/mozambique-gas-revenues-should-go-to-diversifying-economy-president/",
+                "source": "Macau Business",
+                "date": "2026-07-14T19:53:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. starts blockade on Iran as Hormuz Strait standoff escalates : NPR",
+                "desc": "The U.S. military says it's begun its blockade of ships entering or exiting Iran's ports, as Iran vows to assert its own control over the critical Strait of Hormuz.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F73%2F21aac05b433bad18a315f5a9b763%2Fgettyimages-2284845333.jpg",
+                "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+                "source": "NPR",
+                "date": "2026-07-14T19:50:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump teases ‘really big news’ about US elections in Thursday address: ‘Country has to shape up’",
+                "desc": "Trump reportedly plans to claim foreign countries intended to interfere in the 2020 election, which he lost to Joe Biden",
+                "image": "https://static.independent.co.uk/2026/07/14/18/2285448472..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-speech-thursday-election-address-b3014824.html",
+                "source": "The Independent",
+                "date": "2026-07-14T19:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pentagon nominee says Iran war cost $29b as of May, faces scrutiny",
+                "desc": "'It was $29b when I left office,' Jules Hurst tells Senate, repeating answer from earlier posture hearing",
+                "image": "https://i.tribune.com.pk/media/images/copy-of-untitled-261746093530-0/copy-of-untitled-261746093530-0-640x480.webp",
+                "url": "https://tribune.com.pk/story/2618254/pentagon-nominee-says-iran-war-cost-29b-as-of-may-faces-scrutiny",
+                "source": "The Express Tribune",
+                "date": "2026-07-14T19:45:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Counterterrorism police treating suspected murder of Ann Widdecombe as a targeted attack",
+                "desc": "After initially saying the alleged murder of British former politician Ann Widdecombe was not politically motivated, police now say they believe it was a targeted attack.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/d4a734d32d1f6e6c1aee05b7383d7ab7?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=157&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-15/police-treating-ann-widdecombe-murder-as-targeted-attack/106916102",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-14T19:41:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "What Zelensky wants from his next government",
                 "desc": "President Volodymyr Zelensky's decision on July 12 to reshuffle the government came as a surprise to many — both on the streets and in the halls of parliament.\nAccording to the Constitution, the president cannot single-handedly dismiss the prime minister. Yet lawmakers who spoke with the Kyiv Independent appeared largely unfazed by Zelensky's move to replace Prime Minister Yuliia Svyrydenko, which parliament rubber-stamped on July 14.\nThe reasons behind the reshuffle remain unclear. Many lawma",
@@ -1824,80 +1896,8 @@
                 "source": "AeroRoutes",
                 "date": "2026-07-14T16:30:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Big lessons in Big Apple",
-                "desc": "American businessman Mike Bloomberg greets Dunedin Mayor Sophie Barker in New York City earlier this week after she joined the Bloomberg Harvard...",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/barker_bloomberg_14072026.jpg?itok=Tr-jXhB1",
-                "url": "https://www.odt.co.nz/news/dunedin/dcc/big-lessons-big-apple",
-                "source": "Otago Daily Times",
-                "date": "2026-07-14T16:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7 oldest churches in Africa and where to find them",
-                "desc": "Discover the seven oldest churches in Africa, from Egypt's ancient Coptic landmarks to Ethiopia's rock-hewn sanctuaries. Read more.",
-                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/14072026/bcb8e566-aab2-483c-ae5c-3bac8d3393dc.jpg?operations=autocrop(1200:630)",
-                "url": "https://www.pulse.com.gh/story/oldest-churches-africa-2026071416190445097",
-                "source": "Pulse Ghana",
-                "date": "2026-07-14T16:29:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thailand Lists 3 African Countries Whose Citizens Can Get Visa on Arrival in 2026",
-                "desc": "Thailand has released its official list of African countries whose citizens are eligible for visa on arrival in 2026. The conditions and fees were also explained.",
-                "image": "https://cdn.legit.ng/images/1200x675/7e77bf590a16c395.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1719282-thailand-lists-3-african-countries-citizens-visa-arrival-2026/",
-                "source": "Legit.ng",
-                "date": "2026-07-14T16:28:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump backs down on 20 percent fee to guard Strait of Hormuz",
-                "desc": "United States President Donald Trump stepped back from a proposal to charge a 20 percent fee to guard the Strait of Hormuz as part of the conflict with Iran, saying he would instead seek investment deals with Gulf states.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--KyQmRKtq--/t_tohu-badge-facebook/f_auto/q_auto/4JM6OR2_AFP__20260629__2283902401__v1__MidRes__PresidentTrumpSignsExecutiveOrderInTheOvalOff_jpg",
-                "url": "https://www.rnz.co.nz/news/world/720193/donald-trump-backs-down-on-20-percent-fee-to-guard-strait-of-hormuz",
-                "source": "RNZ",
-                "date": "2026-07-14T16:27:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ann Widdecombe killed in ‘targeted attack’, UK counter-terror police say",
-                "desc": "Counter-terrorism police are now leading the investigation into the former Conservative minister’s death.",
-                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTQxNjU5MjFcXFwvMi43NjI5MTAwMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImVhZTljNjY0MDVlZTQ4ZWJlZjk0NzhiNjBjZTRlOWI1NjhkMDI0YTkifQ==/ann-widdecombe-killed-in-targeted-attack-uk-counter-terror-police-say.jpg",
-                "url": "https://www.breakingnews.ie/world/ann-widdecombe-killed-in-targeted-attack-counter-terror-police-say-1926817.html",
-                "source": "BreakingNews.ie",
-                "date": "2026-07-14T16:23:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burkina Faso cuts diplomatic ties with France as Sahel realignment with Russia deepens",
-                "desc": "France and Burkina Faso have severed diplomatic relations, marking the latest stage in the rapid collapse of Paris’ influence across the Sahel and underscoring the growing alignment of military-led governments in West Africa with Russia, Turkiye and China.",
-                "image": "https://prod.cdn-medias.theafricareport.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1215,height=810,fit=cover/https://prod.cdn-medias.theafricareport.com/medias/2026/07/14/jad20260709-match-barrot-jm-traore.jpg",
-                "url": "https://www.theafricareport.com/424965/burkina-faso-cuts-diplomatic-ties-with-france-as-sahel-realignment-with-russia-deepens/",
-                "source": "The Africa Report",
-                "date": "2026-07-14T16:00:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN upholds role of ICC in exacting accountability Helen",
-                "desc": "The United Nations has upheld the role of the International Criminal Court as a “critical cog” for exacting accountability for serious crimes, amid threats from the United States to have the ICC dismantled.",
-                "image": "https://media.philstar.com/photos/2026/07/14/icc_2026-07-14_23-05-25.jpg",
-                "url": "https://www.philstar.com/headlines/2026/07/15/2542244/un-upholds-role-icc-exacting-accountability-helen",
-                "source": "Philstar.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sorrow as Woman Dies after 6 Years in ICU, Hospital Grieves Her: \"She Was Like Family\"",
-                "desc": "Mbarara's Claire Kirabo, the longest ICU patient, passed away on 13 July 2026 after six years of exceptional care, leaving a profound legacy at the hospital.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/3c4e97859800f33e.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/people/family/632631-sorrow-woman-dies-6-years-icu-hospital-grieves-family/",
-                "source": "Tuko News",
-                "date": "2026-07-14T15:57:56Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T07:40:22.379949Z"
+    "lastGlobalSync": "2026-07-15T08:00:31.467670Z"
 }
