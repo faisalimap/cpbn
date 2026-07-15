@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Frontier Airlines to debut Wi-Fi in 2027 with SpaceX's Starlink",
+                "desc": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108077723-1734546997432-gettyimages-2185023724-economou-notitle241112_npv8v.jpeg?v=1734547126&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html",
+                "source": "CNBC",
+                "date": "2026-07-14T13:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX alumni who founded TerraFirma land $115M funding round",
+                "desc": "TerraFirma on Tuesday said it raised $115 to support new hires and the building of a new factory and mission control center.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334141-1783960014117-Still_2026-07-10_155949_116.jpg?v=1783960518&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
+                "source": "CNBC",
+                "date": "2026-07-14T13:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dispatch From The World's Factory To Watchmaking Culture: What I Saw At Shenzhen Watch Week",
+                "desc": "A report from the front lines of China's quickly evolving watch scene.",
+                "image": "https://hodinkee.imgix.net/uploads/images/c423bc9d-e2d7-47cc-840c-8d2d7ebb21e2/shenzhen-watch-week-2026-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+                "url": "https://www.hodinkee.com/articles/from-the-worlds-factory-to-a-watchmaking-culture-what-i-saw-at-shenzhen-watch-week",
+                "source": "Hodinkee",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. company interested in providing rail service between Squamish and 100 Mile House as CN pulls out",
+                "desc": "Washington-based Columbia Rail confirmed the company has been looking into the viability of the corridor between Squamish and 100 Mile House.",
+                "image": "https://i.cbc.ca/ais/d2bb3965-97a1-4086-8869-d2945f442965,1783984334851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1031%2C579%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/rail-line-100-mile-house-squamish-cn-rail-9.7268885",
+                "source": "CBC",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three cities where home prices are changing fast",
+                "desc": "Slowing immigration, increasing housing supply are affectng demand in Edmonton, Regina and Halifax",
+                "image": "https://www.theglobeandmail.com/resizer/v2/22U7TNY7NJGZPC4HTPGHR4K6YE.JPG?auth=634893893bb9a6abd82f36e928843e7fd402d043fd955031b0f977f54410ad26&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/personal-finance/article-three-cities-where-home-prices-are-changing-fast/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zoetis to acquire medical imaging company in latest push to build AI",
+                "desc": "VitalRADS’ database of more than 30 million images will help Zoetis create radiology AI models.",
+                "image": "https://img.semafor.com/2ce073e7e894c955a870a6082941a36c31a43563-3000x2400.jpg?rect=0,413,3000,1575&w=1200&h=630&q=75&auto=format",
+                "url": "https://www.semafor.com/article/07/13/2026/zoetis-acquires-medical-imaging-company-in-latest-push-to-build-ai",
+                "source": "Semafor",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Command Alkon's Command Cloud Earns Gold Globee® Award for SaaS Solution of the Year",
+                "desc": "Industry-Leading Platform Recognized for Advancing Connected Operations Across Heavy Building Materials",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/14/1136600.png",
+                "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/command-alkons-command-cloud-earns-gold-globee-award-for-saas-solution-of-the-year/2384162",
+                "source": "The Manila Times",
+                "date": "2026-07-14T12:57:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aerospace and Defense: Winning the Race to Scale",
+                "desc": "Increasing capacity across the supply chain is becoming a key source of competitive advantage.",
+                "image": "https://www.bain.com/contentassets/0b1ceef5116d4f658cb86faadaaecafd/45492-ad-scaling-1440x810-16_9.jpg",
+                "url": "https://www.bain.com/insights/aerospace-and-defense-winning-the-race-to-scale/",
+                "source": "Bain & Company",
+                "date": "2026-07-14T12:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
+                "desc": "This morning's report could go a long way toward determining whether the Federal Reserve raises interest rates at its late-July meeting.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ffb4429510db88f130062ef00b7bba274c9ad5f-1920x1060.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
+                "source": "CoinDesk",
+                "date": "2026-07-14T12:55:25Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Benchmark nearly doubles Hut 8 price target to $165 on Beacon Point AI data center deal",
+                "desc": "Mark Palmer said Hut 8's Beacon Point project transforms the company into an AI infrastructure platform with a long growth runway.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
+                "source": "CoinDesk",
+                "date": "2026-07-14T12:54:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Kotak Mahindra Bank's commercial banking head Manish Kothari likely to quit, marking second departure after Ashok Vaswani",
                 "desc": "Manish Kothari, who heads the commercial banking segment, is likely to leave soon; could start his own venture",
                 "image": "https://images.moneycontrol.com/static-mcnews/2025/07/20250726122210_kotakmahindrabankrtr1.png",
@@ -542,99 +632,99 @@
                 "source": "Autodesk News",
                 "date": "2026-07-13T23:49:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vietnam Draft Amended Criminal Code Targets IP Crime",
-                "desc": "Vietnam’s proposed reforms signal tougher approaches to piracy, counterfeiting and other technology-enabled IP crimes.",
-                "image": "https://www.bakermckenzie.com/en/-/media/images/aboutus/bm_open_graph_1200x675.jpg?rev=e4ed22a4a6b04ff2b969748c9c322fd3&sc_lang=en",
-                "url": "https://www.bakermckenzie.com/en/insight/publications/2026/07/vietnam-draft-amended-criminal-code-targets-ip-crime",
-                "source": "Baker McKenzie",
-                "date": "2026-07-13T23:42:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "StubHub, CEO hit with 'deceptive practices' class action over mass scalping",
-                "desc": "StubHub and its CEO, Eric Baker, have been hit with a proposed $5-million class-action lawsuit in the United States over the company's ties to large-scale scalpers — connections reported by CBC News last week.",
-                "image": "https://i.cbc.ca/ais/1828decc-4c1c-455f-a98d-79e258477071,1783985197122/full/max/0/default.jpg?im=Crop%2Crect%3D%28392%2C981%2C5169%2C2907%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
-                "source": "CBC",
-                "date": "2026-07-13T23:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-                "desc": "President Donald Trump said he planned to reinstate what he called a blockade on Iranian shipping, sending oil prices higher and stocks lower on Monday.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108327440-1782483970824-Traders-Photo-20260626-KK-PRESS-015.jpg?v=1782484337&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/13/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-                "source": "CNBC",
-                "date": "2026-07-13T23:36:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spatial AI startup Augmodo raises $21M to expand beyond retail stores",
-                "desc": "Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE",
-                "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-14-06-29-31.png",
-                "url": "https://siliconangle.com/2026/07/13/spatial-ai-startup-augmodo-raises-21m-expand-beyond-retail-stores/",
-                "source": "SiliconANGLE",
-                "date": "2026-07-13T23:34:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBN Buffer Boosts Confidence in Naira Stability",
-                "desc": "The CBN's massive liquidity buffer and strategic reforms are strengthening the naira, boosting confidence in its stability and attracting foreign investmen",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/CBN-headquarters.webp",
-                "url": "https://punchng.com/cbn-buffer-boosts-confidence-in-naira-stability/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-13T23:31:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hong Kong banks sweeten mortgage rebates as competition heats up amid property rebound",
-                "desc": "Mortgage battle intensifies as lenders raise cash rebates to lure buyers amid Fed rate uncertainty.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/13/45dd4235-7229-41ad-8daf-d80983dda777_1914c94c.jpg?itok=EIbyAJ1V&v=1783943812",
-                "url": "https://www.scmp.com/business/article/3360407/hong-kong-banks-sweeten-mortgage-rebates-competition-heats-amid-property-rebound",
-                "source": "South China Morning Post",
-                "date": "2026-07-13T23:30:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Major find in B40 health screening",
-                "desc": "PETALING JAYA: Three in every four people from low-income households who underwent free health screenings under a govern­ment scheme last year were found to have at least one major non-communicable disease (NCD), says the Health Ministry.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/14/4008992.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/07/14/major-find-in-b40-health-screening",
-                "source": "The Star",
-                "date": "2026-07-13T23:29:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Harith Aviation secures Competition Commission clearance to land FlySafair deal",
-                "desc": "The deal that is honestly not a BEE compliance issue is clearing its final hurdles — and SA’s most on-time airline will soon have new owners.",
-                "image": "https://cdn.dailymaverick.co.za/i/5zrG2KzL42T9u_aKJ0sdMuvaARQ=/800x0/smart/filters:strip_exif()/file/attachments/orphans/BMHarithSafairdealclosecopy_751753.jpg",
-                "url": "https://www.dailymaverick.co.za/article/2026-07-13-harith-aviation-secures-competition-commission-clearance-to-land-flysafair-deal/",
-                "source": "Daily Maverick",
-                "date": "2026-07-13T23:29:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU heat driving sales of China cooling appliances",
-                "desc": "BEIJING: As persistent heatwaves sweep across Europe, Chinese manufacturers are ramping up exports of cooling appliances, underscoring the country's ability to respond swiftly to shifting global demand through resilient supply chains, product innovation and flexible manufacturing.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/14/4008985.jpg",
-                "url": "https://www.thestar.com.my/business/business-news/2026/07/14/eu-heat-driving-sales-of-china-cooling-appliances",
-                "source": "The Star",
-                "date": "2026-07-13T23:23:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Liability': Angry customers complain about SolarZero contracts",
-                "desc": "Customers angry at being stuck in what they say are expensive SolarZero contracts are turning to disputes resolution services for help.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/solar-panels-on-home-generic-istock-TCZXB77N5VCKBLSKPSGBAHKRDQ.jpg?auth=37cab6f9974dd2d4322b23bfdfe59afeaee4a1b930fa45c9a2fdeedcd90b1040&quality=70&width=600&height=315&focal=627%2C352",
-                "url": "https://www.1news.co.nz/2026/07/14/liability-angry-customers-complain-about-solarzero-contracts/",
-                "source": "1News",
-                "date": "2026-07-13T23:21:26Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Enjoy PDF Tools for Only $24 Without Another Monthly Bill With This Code",
+                "desc": "AcePDF is a desktop tool for conversions, editing, and document management, all in one place, with no recurring fees. And right now, a lifetime license is 76% off with code EXTRA20.",
+                "image": "https://i.pcmag.com/imagery/articles/04JPzOjzrvcvQbwSPNnzzmk-1.fit_lim.size_1200x630.v1783693688.png",
+                "url": "https://www.pcmag.com/deals/enjoy-pdf-tools-for-only-24-without-another-monthly-bill-with-this-code",
+                "source": "PCMag",
+                "date": "2026-07-14T13:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iQOO 16's camera and battery details tipped, Z12 series and Neo12 to pack bigger batteries",
+                "desc": "The iQOO 16 is rumored to launch in September. The iQOO 16 is rumored to launch in September, and while iQOO hasn't divulged anything about it yet,...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-16-neo12-z12-series-battery-capacity-tipped/-952x498w6/gsmarena_001.jpg",
+                "url": "https://www.gsmarena.com/iqoo_16_neo12_z12_series_battery_capacity_tipped-news-73705.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-14T13:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "All for the sake of Gemini: Chrome on Android is set to get a redesign of its navigation bar",
+                "desc": "Google is redesigning the bottom navigation bar in Chrome for Android, and the main reason for the changes is a dedicated Gemini button, which will appear directly within the browser interface.",
+                "image": "https://img.mezha.ua/mezha/images/doc/b/4/317528/b47c34897976963378e10b1f8af74c2f.jpeg?w=1200&q=85&stamp=1784033677",
+                "url": "https://mezha.ua/en/news/vse-zaradi-gemini-chrome-na-android-otrimaye-redizayn-paneli-navigaciji-313229/",
+                "source": "Mezha",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EverQuest’s biggest fans are leading its revival",
+                "desc": "EverQuest Legends reimagines the original MMORPG as it existed in 1999, but without a lot of the old pain points. It launches on PC on July 28th.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/003.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "url": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+                "source": "The Verge",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Disable These Gboard Settings to Protect Your Privacy",
+                "desc": "There's a way to stop your Android keyboard from sharing your data with Google.",
+                "image": "https://sm.lifehacker.com/t/lifehacker_au/feature/d/disable-th/disable-these-gboard-settings-to-protect-your-privacy_2axm.1200.jpg",
+                "url": "https://au.lifehacker.com/android/119054/disable-these-gboard-settings-to-protect-your-privacy",
+                "source": "Lifehacker",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"It's already exceeding our expectations on Switch 2\" - Dragon's Dogma 2 Dark Arisen already running at '30fps and higher' on Nintendo handheld",
+                "desc": "Producer Naoto Oyama details the development process for Dragon's Dogma 2 on Switch 2.",
+                "image": "https://assetsio.gnwcdn.com/DD2-dark-arisen-switch.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/dragons-dogma-2-switch-2-development",
+                "source": "Eurogamer.net",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Refunds for Dying Light 2 PS4 Users as The Beast Is Cancelled for Last-Gen System",
+                "desc": "Was originally promised in Dying Light 2 season pass - Techland has shared it will be providing some form of refund to owners of the PS4 version of Dying Lig...",
+                "image": "https://images.pushsquare.com/fd3291115a7b1/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/refunds-for-dying-light-2-ps4-users-as-the-beast-is-cancelled-for-last-gen-system",
+                "source": "Push Square",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gears of War: E-Day Will Launch with NVIDIA DLSS 4.5 Dynamic Multi Frame Generation and Ray Tracing on PC",
+                "desc": "NVIDIA announced a partnership with The Coalition: Gears of War: E-Day will support DLSS 4.5 Dynamic Multi Frame Generation and ray tracing.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/gears-of-war-e-day_kv-HD-1920x1080.jpeg",
+                "url": "https://wccftech.com/gears-of-war-e-day-dlss-4-5-ray-tracing-pc/",
+                "source": "Wccftech",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spotify Now Lets You Ask AI Questions in Its Mobile App",
+                "desc": "Beta users can ask questions about Spotify content, including music, podcasts and audiobooks.",
+                "image": "https://www.cnet.com/a/img/resize/ff07a11947800326046d64f948daf381d84bc693/hub/2026/07/13/a372f6b3-ba67-4398-8677-28cf2d613f62/for-the-record-blog-header.png?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/services-and-software/spotify-now-lets-you-ask-ai-questions-in-mobile-app/",
+                "source": "CNET",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Surprise: Many People Prefer AI Audiobooks, New Study Finds",
+                "desc": "A new study commissioned by Spoken revealed that the company's AI multi-cast productions achieved a higher rating than a human-narrated production.",
+                "image": "https://variety.com/wp-content/uploads/2023/04/featured_AI_audio.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/digital/news/spoken-ai-audiobooks-preferencenew-edison-research-study-1236810295/",
+                "source": "Variety",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Highly filled liquid epoxy for smaller, more reliable chip packaging",
                 "desc": "As computer chips become more powerful and compact, the materials that protect them must perform better than ever. In advanced chip packaging, liquid epoxy is widely used because it can flow into tiny spaces before curing into a solid protective layer. To be effective, the material must be easy to process in its liquid state while becoming strong, stable and reliable after curing.",
@@ -1174,99 +1264,99 @@
                 "source": "Android Police",
                 "date": "2026-07-13T22:30:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Queensland Manufacturing Hub to host inaugural robotics and automation industry lunch in Toowoomba",
-                "desc": "Manufacturing Queensland has announced that the Queensland Manufacturing Hub in Toowoomba will host its inaugural Robotics and Automation Industry Lunch on 22 July, bringing together manufacturers and industry representatives to discuss the adoption of robotics and automation across the sector.",
-                "image": "https://www.australianmanufacturing.com.au/wp-content/uploads/2000/04/imgpsh_fullsize_anim-1.jpg",
-                "url": "https://www.australianmanufacturing.com.au/queensland-manufacturing-hub-to-host-inaugural-robotics-and-automation-industry-lunch-in-toowoomba/",
-                "source": "Australian Manufacturing",
-                "date": "2026-07-13T22:30:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EXCLUSIVE INTERVIEW: Former Sony Veteran On Digital vs. Disc Gaming and PlayStation Stars Failure",
-                "desc": "In this exclusive interview, we catch up with an 18-year SIE veteran about digital vs. disc gaming, and why PlayStation Stars failed.",
-                "image": "https://insider-gaming.com/wp-content/uploads/2026/07/playstation-disc-digital.png",
-                "url": "https://insider-gaming.com/exclusive-interview-sony-veteran-digital-disc-gaming-playstation-stars/",
-                "source": "Insider Gaming",
-                "date": "2026-07-13T22:30:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marvo gaming mouse clicks with value",
-                "desc": "The Niro 50 combines three connection options, long battery life and a clean design at an accessible price, writes ZIANDA GOLDSTUCK.",
-                "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/Screenshot-2026-07-13-100726.png?resize=962%2C600&ssl=1",
-                "url": "https://gadget.co.za/marvogamingmouse21t/",
-                "source": "gadget.co.za",
-                "date": "2026-07-13T22:22:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Dell laptop with 32GB of RAM and NVIDIA graphics is just $525",
-                "desc": "Save 72% on a refurbished Dell Precision workstation with 32GB of RAM, dedicated NVIDIA graphics, and Windows 11 Pro.",
-                "image": "https://helios-i.mashable.com/imagery/articles/05XTx6NzStH9z5ygMaeNpO5/hero-image.fill.size_1200x675.v1783587335.jpg",
-                "url": "https://mashable.com/tech/july-13-dell-precision-3561-2021-15-6-laptop-i7-11800h-32gb-ram-512gb-ssd",
-                "source": "Mashable",
-                "date": "2026-07-13T22:19:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gothic 3D Collectathon 'Bobo and the Chest of Nightmares' Officially Announced for Nintendo Switch",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/zh-CN/Gothic-3D-Collectathon-Bobo-and-the-Chest-of-Nightmares-Officially-Ann",
-                "source": "Games Press",
-                "date": "2026-07-13T22:18:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Best Cheap SSDs for 2026",
-                "desc": "Still booting from a hard drive? Storage prices may be rising, but these budget-minded solid-state drives will give your poky PC a big speed boost. We've tested dozens; these are the best.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/guide/t/the-best-c/the-best-cheap-ssds-for-2026_4fvd.1200.jpg",
-                "url": "https://au.pcmag.com/ssds/53359/the-best-cheap-ssds",
-                "source": "PCMag Australia",
-                "date": "2026-07-13T22:17:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Shuffles ChatGPT Apps, Kills Atlas Browser, Improves Voice",
-                "desc": "OpenAI has replaced its Mac apps with a confusing 1.45 GB amalgamation, killed its ChatGPT Atlas Web browser after less than a year, and boosted ChatGPT Voice by backing it with more capable models.",
-                "image": "https://tidbits.com/uploads/2026/07/ChatGPT-app-confusion.png",
-                "url": "https://tidbits.com/2026/07/13/openai-shuffles-chatgpt-apps-kills-atlas-browser-improves-voice/",
-                "source": "tidbits.com",
-                "date": "2026-07-13T22:15:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Health will delete your data without AI training consent",
-                "desc": "As its new redesign rolls out, Samsung Health is also forcing users into a choice – let their data be...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-watch-8-classic-20.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/13/samsung-health-ai-training-data-consent/",
-                "source": "9to5Google",
-                "date": "2026-07-13T22:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Acquires Observability Platform Developer SigScalr",
-                "desc": "Apple acquired certain assets of SigScalr and hired certain SigScalr employees, according to acquisitions from the European Commission.",
-                "image": "https://www.pymnts.com/wp-content/uploads/2023/09/Apple-1.jpg",
-                "url": "https://www.pymnts.com/apple/2026/apple-acquires-open-source-observability-platform-developer-sigscalr/",
-                "source": "PYMNTS.com",
-                "date": "2026-07-13T22:00:13Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Waze Gets a 'Less Chatty' Update, Personalized Routes",
-                "desc": "The update also expands Gemini-powered voice search and reporting -- though a new motorcycle mode skips the US for now.",
-                "image": "https://www.cnet.com/a/img/resize/16920489267d9f6b9fc3ab45954eb98486d488fd/hub/2020/08/13/dfd28e8d-ee92-47c7-91d3-34e66b149472/logolockup-02-04.png?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/roadshow/news/new-less-chatty-waze-update-personalized-routes-roll-out-globally/",
-                "source": "CNET",
-                "date": "2026-07-13T22:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "What People Hear When Mamdani Slams “Corporate Landlords”",
+                "desc": "Mayor Zohran Mamdani is rightfully outraged when demagogues portray Muslims as evil, but he does the same thing with landlords.",
+                "image": "https://static.therealdeal.com/wp-content/uploads/2026/07/What-People-Hear-When-Mamdani-Slams-Corporate-Landlords-.jpg",
+                "url": "https://therealdeal.com/new-york/2026/07/14/what-people-hear-when-mamdani-slams-corporate-landlords/",
+                "source": "The Real Deal",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police remain at the scene after three relatives found dead in family home in Ballymena",
+                "desc": "A murder investigation was launched following the discovery at a house in Ballymena on Monday.",
+                "image": "https://img2.thejournal.ie/article/7101305/river/?height=400&version=7101314",
+                "url": "https://www.thejournal.ie/ballymena-bodies-found-murder-police-antrim-7101305-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-14T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mexico Names Countries Whose Permanent Residents Are Eligible for Visa",
+                "desc": "Mexico allows permanent residents of Canada, the US, Japan, the UK, Schengen Area, and Pacific Alliance countries to enter without a visa if they valid documents",
+                "image": "https://cdn.yen.com.gh/images/1200x675/b7e9e49c7ad7931d.jpeg?v=1",
+                "url": "https://yen.com.gh/people/307868-mexico-names-countries-permanent-residents-eligible-visa-free-travel/",
+                "source": "Yen News",
+                "date": "2026-07-14T12:57:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bahamas Lists 19 African Countries Whose Citizens Can Enter Without a Visa in 2026",
+                "desc": "The Bahamas has published its official list of 19 African countries whose citizens can enter the country without a visa in 2026. See the full list here.",
+                "image": "https://cdn.legit.ng/images/1200x675/60221be1f02d8a20.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1719228-bahamas-lists-19-african-countries-citizens-enter-a-visa-2026/",
+                "source": "Legit.ng",
+                "date": "2026-07-14T12:56:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Projections suggest significant population shrinkage for Latvia over next 25 years",
+                "desc": "Latvia's population is set to shrink substantially over the next few decades, according to Eurostat regional data published on July 14th.",
+                "image": "https://static.lsm.lv/media/2018/07/large/1/9mq1.jpg",
+                "url": "https://eng.lsm.lv/article/society/society/14.07.2026-projections-suggest-significant-population-shrinkage-for-latvia-over-next-25-years.a654862/",
+                "source": "LSM",
+                "date": "2026-07-14T12:53:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bloomberg ordered to pay defamation damages to Singapore ministers",
+                "desc": "SINGAPORE: Singapore's High Court ordered the Bloomberg news agency on Tuesday (July 14) to pay S$230,000 (US$178,000) in damages each to two senior government ministers in a defamation case linked to a report on luxury property deals.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/14/4010553.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/14/bloomberg-ordered-to-pay-defamation-damages-to-singapore-ministers",
+                "source": "The Star",
+                "date": "2026-07-14T12:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Sudan: UNMISS strengthens social workers’ capacity to protect civilians through human rights reporting",
+                "desc": "South Sudan: UNMISS strengthens social workers’ capacity to protect civilians through human rights reporting",
+                "image": "https://www.zawya.com/favicon.ico",
+                "url": "https://www.zawya.com/en/press-release/africa-press-releases/south-sudan-unmiss-strengthens-social-workers-capacity-to-protect-civilians-through-human-rights-reporting-ebidloi8",
+                "source": "ZAWYA",
+                "date": "2026-07-14T12:46:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unisa's Vice-Chancellor joins global leaders at UN to advocate for sustainable urban development",
+                "desc": "As Unisa Vice-Chancellor Puleng LenkaBula gears up to address the UN on sustainable urban development, she champions the vital role of higher education in shaping equitable cities. Discover how her insights on local action could spark global change.",
+                "image": "https://iol-prod.appspot.com/image/d71757ea9b8fb523fe98ca881987c994ac4584a0/1000/jpeg",
+                "url": "https://independentonsaturday.co.za/news/2026-07-14-unisas-vice-chancellor-joins-global-leaders-at-un-to-advocate-for-sustainable-urban-development/",
+                "source": "independentonsaturday.co.za",
+                "date": "2026-07-14T12:46:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global Evangelical church to host youth conference in Ho",
+                "desc": "By Frank Kwame Abbor  Ho, July 14, GNA – The Global Evangelical Church (GEC), Victory Chapel, Ho Fiave, will host an International Youth Conference from July 15 to…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2026/07/Ho-Social-International-Youth-12502jpeg.jpeg",
+                "url": "https://gna.org.gh/2026/07/global-evangelical-church-to-host-youth-conference-in-ho/",
+                "source": "Ghana News Agency",
+                "date": "2026-07-14T12:45:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNIDO, Japan and Ukraine Strengthen Industrial Cooperation to Support Ukraine’s Recovery",
+                "desc": "The United Nations Industrial Development Organization (UNIDO), the Government of Japan, and the Government of Ukraine have reinforced their partnership to support Ukraine's industrial recovery during the second Tripartite Industrial Policy Dialogue, held online on 9 July 2026. The meeting brought together representatives from UNIDO, Japan's Ministry of Economy, Trade and Industry (METI), and Ukraine's",
+                "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+                "url": "https://news.fundsforngos.org/2026/07/14/unido-japan-and-ukraine-strengthen-industrial-cooperation-to-support-ukraines-recovery/",
+                "source": "fundsforNGOs News",
+                "date": "2026-07-14T12:44:56Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Blackburn College Hosts UK’s First NEET Conference",
                 "desc": "Blackburn College Hosts UK’s First NEET Conference | Read more on FE News!",
@@ -1806,98 +1896,8 @@
                 "source": "Global South Opportunities",
                 "date": "2026-07-13T21:55:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
-                "desc": "Russia has escalated attacks in recent weeks, taking advantage of Ukraine’s critical shortage of air defences.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a552cd995f2-1783966937.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles",
-                "source": "Al Jazeera",
-                "date": "2026-07-13T21:43:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bahamian music group \"still shocked\" after bandmates killed in small plane crash",
-                "desc": "Surviving members of the beloved Bahamian musical group Da Pond Band are speaking out about their friends who were killed when a small plane crashed in the Bahamas on Friday, killing 10 people.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/11/40dc52d2-8fa8-432e-9809-682954cf6d38/thumbnail/1200x630/d2d074019cf60da6ac4fb90ff3744e6d/bahamas-plane-crash.jpg",
-                "url": "https://www.cbsnews.com/news/da-pond-band-surviving-members-bahamas-plane-crash/",
-                "source": "CBS News",
-                "date": "2026-07-13T21:35:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump administration vows to ‘disable’ International Criminal Court",
-                "desc": "US State Department ups pressure campaign on international tribunal, threatening allies who support investigations.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3964387c6b-1782146104.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/13/trump-administration-vows-to-disable-international-criminal-court",
-                "source": "Al Jazeera",
-                "date": "2026-07-13T21:34:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US, Iran exchange attacks around Strait of Hormuz",
-                "desc": "This is a breaking news story.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-08T175151Z_376591435_RC2M9MAFHVM3_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-1-1783574958.jpg?resize=1200%2C630",
-                "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz",
-                "source": "Al Jazeera",
-                "date": "2026-07-13T21:26:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s Transnational Repression Is Being Met With a Deafening Silence",
-                "desc": "The detention of U.S. citizen Min Zin on dubious espionage charges is the latest evidence that Beijing’s campaign to silence dissidents and critics abroad is expanding in scope and audacity. Without a forceful U.S. response, China’s willingness to target academics, activists, and diaspora communities on foreign soil is likely to grow.",
-                "image": "https://res.cloudinary.com/dmovl8u5q/images/f_auto,q_auto/v1783977202/2026-05-12T125129Z_1758246200_RC2L7LA85X20_RTRMADP_3_CHINA-TAJIKISTAN/2026-05-12T125129Z_1758246200_RC2L7LA85X20_RTRMADP_3_CHINA-TAJIKISTAN.jpg?_i=AA",
-                "url": "https://www.cfr.org/articles/chinas-transnational-repression-is-being-met-with-a-deafening-silence-2",
-                "source": "Council on Foreign Relations",
-                "date": "2026-07-13T21:16:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US, Iran trade fire around Strait of Hormuz for third straight night",
-                "desc": "American strikes hit southern Iran and Gulf islands as Iranian missiles target tankers in Omani waters, killing one; Trump warns Tehran over Pickaxe Mountain, says a deal collapsed and insists he and Netanyahu 'get along great'",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/B1xQ7kQNfx/B1xQ7kQNfx_1_214_720_406_0_large.jpg",
-                "url": "https://www.ynetnews.com/article/rklcmrgeml",
-                "source": "Ynetnews",
-                "date": "2026-07-13T21:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lindsey Graham's sister appointed to fulfill remainder of his term in U.S. Senate",
-                "desc": "Lindsey Graham's sister, Darline Graham Nordone, has been named as her late brother's temporary replacement in the U.S. Senate after his unexpected death over the weekend.",
-                "image": "https://i.cbc.ca/ais/8435a572-0f89-4f40-a629-5f72f77bd117,1783974416469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C376%2C4709%2C2648%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/lindsey-graham-sister-appointed-senate-9.7268725",
-                "source": "CBC",
-                "date": "2026-07-13T21:13:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Volcanic activity worldwide 13 Jul 2026: Santiaguito volcano, Fuego, Popocatépetl, Krakatau, Semeru...",
-                "desc": "Volcanic activity world-wide",
-                "image": "https://volcanodiscovery.de/uploads/pics/2026/07/active-volcano-map2-2026-07-13.jpg",
-                "url": "https://www.volcanodiscovery.com/fr/volcano-activity/news/319759/Volcanic-activity-worldwide-13-Jul-2026-Santiaguito-volcano-Fuego-Popocatepetl-Krakatau-Semeru.html",
-                "source": "Volcano Discovery",
-                "date": "2026-07-13T21:12:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-                "desc": "Late US senator backed invasion of Iraq, war on Iran and approach of ‘more for Israel’ as he became a Trump confidant.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP25355650940757-1783971260.jpg?resize=1200%2C675",
-                "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter",
-                "source": "Al Jazeera",
-                "date": "2026-07-13T21:06:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "free Entry: Turkey Lists 21 Countries Whose Citizens Can Enter With National ID Only",
-                "desc": "Turkey has released the full list of countries whose citizens can gain entry with only their national ID card. Such countries do not need a visa to enter Turkey.",
-                "image": "https://cdn.legit.ng/images/1200x675/f04e2f5e432fe989.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1719129-turkey-lists-21-countries-citizens-enter-national-only/",
-                "source": "Legit.ng",
-                "date": "2026-07-13T21:04:42Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T00:40:22.551639Z"
+    "lastGlobalSync": "2026-07-15T01:00:20.926868Z"
 }
