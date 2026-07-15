@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Batteries 'cheaper' than gas plants as data centres fuel turbine costs",
+                "desc": "Falling battery costs and a data centre-fuelled dash for gas have overturned decades of accepted wisdom: gas is no longer the cheapest way to meet peak power demand.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/beb8ad9db6345c4a08b8fd34dd5049db?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-15/csiro-says-batteries-cheaper-than-gas-as-ai-drives-turbine-costs/106914550",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-14T18:40:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cyber stocks rally on AI spending change comments from IBM's Krishna",
+                "desc": "IBM CEO Arvind Krishna told CNBC's Sara Eisen that some major deals were put on hold toward the end of the quarter as businesses rethink spending.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334858-1784049472784-Okta_Crowdstrike.jpg?v=1784049568&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
+                "source": "CNBC",
+                "date": "2026-07-14T18:39:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google faces another AI training lawsuit from major publishers",
+                "desc": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+                "source": "TechCrunch",
+                "date": "2026-07-14T18:33:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Emma Lewisham luxury skincare brand gets Nobel scientist’s tick of approval",
+                "desc": "Emma Lewisham is packing her bags and joining the great Kiwi exodus to London. The luxury skincare founder isn’t giving up on New Zealand, she’s jetting...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/DV43ELNSH5GMZJ44LHY5GF5RYI.jpg?auth=6a05e033453c006ab75b34d05750c123a286c212880969bce717a7e83b970830&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/business/companies/retail/emma-lewisham-gets-tick-of-approval-from-nobel-scientist-for-her-luxury-skincare-brand/66BFMWUAY5F6HN4NC6BJ3OCNAE/",
+                "source": "NZ Herald",
+                "date": "2026-07-14T18:30:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thales Accelerates Drone Development with Exail Acquisition",
+                "desc": "The defense technology company says the deal will increase its presence in the underwater warfare market.",
+                "image": "https://opnmedia.blob.core.windows.net/$web/opn/media/images/homepage/industry/2026/0726/20260714/20260714_industry_icon.jpg?ext=.jpg",
+                "url": "https://www.optica-opn.org/home/industry/2026/july/thales_accelerates_drone_development_with_exail_acquisition/",
+                "source": "Optics & Photonics News",
+                "date": "2026-07-14T18:30:01Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Art class uses creativity to paint different picture of mental health",
+                "desc": "In regional NSW, one program shows that creativity may be the key to better mental health.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/e74ad2ffbfb00e4688eb79b41c415fbd?impolicy=wcms_watermark_news&cropH=2583&cropW=4592&xPos=0&yPos=730&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-15/newcastle-arts-in-recovery-therapy-workshop-mental-health/106893298",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-14T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PowerBall and PowerBall Xtra results: Tuesday, 14 July 2026 [WATCH]",
+                "desc": "R29 million in jackpots are up for grabs! Here are your PowerBall and PowerBall Xtra results for 14 July 2026.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/PowerBall-results-Tuesday-2026-1200x1000-1.png",
+                "url": "https://www.citizen.co.za/lotto/powerball-and-powerball-xtra-results-tuesday-14-july-2026-watch/",
+                "source": "The Citizen",
+                "date": "2026-07-14T18:27:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TikTok Targets AI-Generated Spam Accounts In High-Risk Topics",
+                "desc": "TikTok will test detection for accounts posting AI-generated spam in politics, financial advice, and medical content, and has joined C2PA's steering committee.",
+                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/1b69feb2-4177-49bc-8a23-14c1d498adab-144.jpeg",
+                "url": "https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/",
+                "source": "Search Engine Journal",
+                "date": "2026-07-14T18:26:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mizuno Launching New Neo Ace Tennis Shoe As Flagship Model",
+                "desc": "A fresh midsole approach with the brand's premier cushioning defines the Mizuno flagship tennis shoe, the Neo Ace",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a567e2aa2bdda2d5c4065b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/timnewcomb/2026/07/14/mizuno-launching-new-neo-ace-tennis-shoe-as-flagship-model/",
+                "source": "Forbes",
+                "date": "2026-07-14T18:25:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tony Alexander: What builders can realistically expect once the election dust settles",
+                "desc": "Construction sector recovery depends on global stability., All things property, under OneRoof",
+                "image": "https://s.oneroof.co.nz/image/da/4b/da4bcd760db898978c0624983da1654a.jpg?x-oss-process=image/quality,q_80",
+                "url": "https://www.oneroof.co.nz/news/tony-alexander-what-builders-can-realistically-expect-once-the-election-dust-settles-49869",
+                "source": "OneRoof",
+                "date": "2026-07-14T18:24:10Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Powering up economies, WVU with Pitt and Carnegie Mellon will recharge energy security and resilience with $320M for new technology, AI, infrastructure, and jobs",
                 "desc": "The Resilient Energy Technology and Infrastructure Consortium, led by West Virginia University in collaboration with the University of Pittsburgh, Carnegie Mellon University, and more than 60 regional partners, will use $321 million in public and private funding to develop the nation’s next leading industrial energy innovation hub in the heart of Appalachia.",
                 "image": "https://wvutoday.wvu.edu/files/d80c953e-47ca-4522-a9f0-24e0fed97695/1200x800?cb=b7e79d0cc27b7dfd49007cf0a38f22f5",
@@ -542,99 +632,99 @@
                 "source": "DESIblitz",
                 "date": "2026-07-14T15:27:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Court in Denmark finds airline KLM guilty of greenwashing over 'sustainable travel' ads",
-                "desc": "Sustainable Aviation Fuel only accounted for 1% of the airline's fuel mix.",
-                "image": "https://s.yimg.com/lo/mysterio/api/59f543f7d75220a443a4ddf59e2923dc81c7f771036687cf68279025183fb948/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F8d6750b18aebb5f26a70192846a85fbf",
-                "url": "https://www.yahoo.com/news/world/articles/court-denmark-finds-airline-klm-152600234.html",
-                "source": "Yahoo",
-                "date": "2026-07-14T15:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China used a giant net to land a reusable rocket. Does the idea have legs?",
-                "desc": "It’s an unconventional approach that has sparked debate over how it stacks up against America’s landing-leg system.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/14/67714d27-44ee-41ec-af18-a834c9efac6f_48178127.jpg?itok=YZ-4BRcn&v=1784031500",
-                "url": "https://www.scmp.com/news/china/science/article/3360553/china-used-giant-net-land-reusable-rocket-does-idea-have-legs",
-                "source": "South China Morning Post",
-                "date": "2026-07-14T15:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hamster Kombat Daily Combo Today 15 July 2026",
-                "desc": "Play Hamster Kombat Daily Combo for July 15, 2026, complete today's combo, and earn instant coins while maximizing your daily rewards fast",
-                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/hamster-kombat-daily-combo-15-july-2026-8963.webp",
-                "url": "https://www.coingabbar.com/en/crypto-currency-news/hamster-kombat-daily-combo-15-july-2026",
-                "source": "Coin Gabbar",
-                "date": "2026-07-14T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms",
-                "desc": "Anthropic launched Claude for Teachers, joining Google, OpenAI, and Khan Academy as tech companies compete to become the go-to classroom AI for educators.",
-                "image": "https://www.chalkbeat.org/resizer/v2/5ERMMCQGPBHD5JLFBVI5PZMI7U.jpg?smart=true&auth=97cb6b571522c2e85aa040f5de73abec8d2ba365fd99442d73ba4b11ed94e990&width=1200&height=630",
-                "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
-                "source": "Chalkbeat",
-                "date": "2026-07-14T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "28 quotes from next UK leader Andy Burnham on climate, net",
-                "desc": "Carbon Brief recounts 28 things that Andy Burnham has said about climate change, net-zero, fossil fuels, energy and transport.",
-                "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Andy_hero_5-2-scaled.jpg",
-                "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels/",
-                "source": "Carbon Brief",
-                "date": "2026-07-14T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Radiotherapy Dose Escalation With Intraoperative Radiotherapy vs Surgery Alone in Glioblastoma",
-                "desc": "In a phase III trial (INTRAGO-II) reported in The Lancet Oncology, Giordano et al found that the addition of intraoperative radiotherapy to surgery did not improve outcomes in patients with newly diag...",
-                "image": "https://ascopost.com/media/14025357/glioblastoma.jpeg",
-                "url": "https://ascopost.com/news/july-2026/radiotherapy-dose-escalation-with-intraoperative-radiotherapy-vs-surgery-alone-in-glioblastoma/",
-                "source": "The ASCO Post",
-                "date": "2026-07-14T14:58:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The textbook debate and the future of education reform",
-                "desc": "The Nation Newspaper The textbook debate and the future of education reform",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/07/14162408/nigerian-education.jpg",
-                "url": "https://thenationonlineng.net/the-textbook-debate-and-the-future-of-education-reform/",
-                "source": "The Nation Newspaper",
-                "date": "2026-07-14T14:56:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Data Readiness Should Come Before AI in Retail",
-                "desc": "Retail leaders say data readiness before AI is the foundation for better pricing, payments, inventory and customer decisions.",
-                "image": "https://techtrendske.co.ke/wp-content/uploads/2026/07/data-readiness-before-ai-retail-retrak-summit-2026-nairobi.jpg",
-                "url": "https://techtrendske.co.ke/2026/07/14/data-readiness-before-ai-retail/",
-                "source": "TechTrendsKE",
-                "date": "2026-07-14T14:55:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JLR Pushes Real-Time Charger Availability to Existing EVs via OTA Update",
-                "desc": "JLR EV charging navigation gets a real-time upgrade: HERE Technologies OTA software now brings live per-stall charger availability, connector-compatibility filtering, and predictive occupancy",
-                "image": "https://d.techtimes.com/en/full/468706/ev.jpg",
-                "url": "https://www.techtimes.com/articles/320428/20260714/jlr-pushes-real-time-charger-availability-existing-evs-via-ota-update.htm",
-                "source": "Tech Times",
-                "date": "2026-07-14T14:54:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stage III HER2-Negative Breast Cancer With HRD Standard Chemotherapy Plus Olaparib",
-                "desc": "In a European phase III trial (SUBITO) reported in The Lancet Oncology, Seefat et al found that intensified alkylating chemotherapy with autologous stem cell rescue provided no overall survival advant...",
-                "image": "https://ascopost.com/media/1176/breast-cancer_01.jpg",
-                "url": "https://ascopost.com/news/july-2026/stage-iii-her2-negative-breast-cancer-with-hrd-standard-chemotherapy-plus-olaparib/",
-                "source": "The ASCO Post",
-                "date": "2026-07-14T14:53:57Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The biggest change rumored for the Samsung Galaxy S27 Ultra may not be happening",
+                "desc": "Samsung is apparently still deciding what to do. Back in April a rumor from Korea claimed that Samsung was redesigning the rears of the entire Galaxy S27...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-s27-ultra-one-less-camera/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/the_biggest_change_rumored_for_the_samsung_galaxy_s27_ultra_may_not_be_happening-news-73722.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-14T18:40:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Battlefield 6 Season 4 Naval Official Gameplay Trailer",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/nl/Battlefield-6-Season-4-Naval-Official-Gameplay-Trailer",
+                "source": "Games Press",
+                "date": "2026-07-14T18:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Based RPG Shadow of the Road Shows off Richly Atmospheric World in New Environmental Trailer\"",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/nl/Turn-Based-RPG-Shadow-of-the-Road-Shows-off-Richly-Atmospheric-World-i",
+                "source": "Games Press",
+                "date": "2026-07-14T18:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SDA Deployments To Resume, Next SpaceX Launch Set For July 16",
+                "desc": "The Space Development Agency is set to restart deployments of its proliferated satellite constellation.",
+                "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
+                "url": "https://aviationweek.com/space/satellites/sda-deployments-resume-next-spacex-launch-set-july-16",
+                "source": "Aviation Week",
+                "date": "2026-07-14T18:33:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Level Up Your Headsets, Mice and More With Up to 50% Off Logitech Gaming Gear",
+                "desc": "There are tons of deals on gear for PC and console gamers, but some are already selling out, so act fast.",
+                "image": "https://www.cnet.com/a/img/resize/86bfcd5c4d5d1a4d545098214343897ba5186ffc/hub/2026/07/14/627ab523-8a61-4f50-bd3d-b372f1c73ec0/logitech-gaming-sale.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/deals/woot-logitech-gaming-sale-2026-07-14/",
+                "source": "CNET",
+                "date": "2026-07-14T18:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We're giving away a brand new HONOR CHOICE Watch 2i: Here's how to get it",
+                "desc": "Join the Techish Kenya Telegram channel for a chance to win a brand-new HONOR CHOICE Watch 2i. Giveaway details and entry instructions are coming soon.",
+                "image": "https://tech-ish.com/wp-content/uploads/2026/07/honor-choice-watch-2i.jpg",
+                "url": "https://tech-ish.com/2026/07/14/honor-choice-watch-2i-giveaway/",
+                "source": "tech-ish.com",
+                "date": "2026-07-14T18:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wearable microneedle patch tracks antibiotic levels in real time, preclinical tests show",
+                "desc": "Wearable devices have transformed how people track exercise, sleep, heart rate and other vital signs. Researchers at King Abdullah University of Science and Technology (KAUST) are now exploring whether similar technologies could one day help monitor medicines inside the body.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/kaust-researchers-deve-2.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-wearable-microneedle-patch-tracks-antibiotic.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-14T18:26:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mizuno Launching New Neo Ace Tennis Shoe As Flagship Model",
+                "desc": "A fresh midsole approach with the brand's premier cushioning defines the Mizuno flagship tennis shoe, the Neo Ace",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a567e2aa2bdda2d5c4065b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/timnewcomb/2026/07/14/mizuno-launching-new-neo-ace-tennis-shoe-as-flagship-model/",
+                "source": "Forbes",
+                "date": "2026-07-14T18:25:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Valve Silently Discontinues Steam Deck LCD Spares at iFixit",
+                "desc": "When Valve launched the Steam Deck back in 2022, it generated a lot of positive publicity by partnering with iFixit to sell OEM replacement parts, but it seems as though that may be coming to an end, at least for the Steam Deck LCD. A recent Reddit post in r/SteamDeck showed a support email from...",
+                "image": "https://www.techpowerup.com/img/IYB9TgMVK1itFwtA.jpg",
+                "url": "https://www.techpowerup.com/350758/valve-silently-discontinues-steam-deck-lcd-spares-at-ifixit",
+                "source": "TechPowerUp",
+                "date": "2026-07-14T18:24:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oversee a Bustling Kingdom in ‘The King is Watching,’ Coming to Consoles July 29",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2024/05/211755-568cd0d0/Key_Art_16x9_Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=1338ec53fca6ba8e67230de5471870f4dcce1a318d7b5369d40a91a80119f790",
+                "url": "https://www.gamespress.com/pl/Oversee-a-Bustling-Kingdom-in-The-King-is-Watching-Coming-to-Consoles-",
+                "source": "Games Press",
+                "date": "2026-07-14T18:22:30Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The Micro-Sized BOSGAME AMD Ryzen 5 Mini PC with 16GB of RAM and 512GB SSD Drops to $260",
                 "desc": "A versatile, fit-anywhere, and budget-friendly PC with productivity and gaming chops.",
@@ -1174,99 +1264,99 @@
                 "source": "Manila Bulletin",
                 "date": "2026-07-14T15:35:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Magnetic field topology and colliding discrete ejecta in the precessing jets of SS 433",
-                "desc": "The ejection of relativistic outflows is the most spectacular consequence of accretion onto compact objects. It is powered by the interplay of gravity, particles and magnetic fields. The microquasar SS 433, one of the most exotic binary systems in the Galaxy, has powerful precessing jets. In these outflows, radio polarization measurements unveil a complex magnetic field topology that becomes parallel to the bulk velocity direction. Although the physical origin of this field topology remains unclear, it has been suggested that it may be linked to the underlying jet morphology. Here we investigate this intriguing connection. Using state-of-the-art numerical simulations that model the evolution of the jet magnetic fields, we show that the observed field orientation could naturally arise from collisions between discrete ejecta propagating with slightly different velocities on subparsec scales. These prompt interactions also lead to the formation of elongated plasma bullets that are dynamically more stable and, therefore, will more probably propagate larger distances without disruption. Our results indicate that discrete, interacting ejecta provide a plausible and self-consistent explanation for the observed magnetic-field alignment in SS 433 and offer new insights into the jet-magnetic-field coupling on subparsec scales. Numerical simulations show that collisions between discrete jet ejecta in SS 433 naturally align magnetic fields and form stable plasma bullets, providing a self-consistent explanation for the microquasar’s unusual relativistic jets.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41550-026-02922-6/MediaObjects/41550_2026_2922_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41550-026-02922-6?error=cookies_not_supported&code=e34dba17-909a-4511-bbce-62ee72b7045a",
-                "source": "Nature",
-                "date": "2026-07-14T15:32:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LastPass, Bitwarden users targeted with fake security alerts",
-                "desc": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites.",
-                "image": "https://www.bleepstatic.com/content/hl-images/2026/06/23/lastpass.jpg",
-                "url": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-                "source": "BleepingComputer",
-                "date": "2026-07-14T15:31:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mega-viral horror co-op extraction builder ‘Grain Rot’ launching August 7 on PC",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-US/Mega-viral-horror-co-op-extraction-builder-Grain-Rot-launching-August-",
-                "source": "Games Press",
-                "date": "2026-07-14T15:31:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple 1TB M5 MacBook Pro Hits $1,849 Amid Retailer Price Battle",
-                "desc": "A price war has erupted between Amazon and B&H, resulting in Apple's current M5 MacBook Pro 14-inch falling to $1,849. Plus save up to $500 on a multitude of models.",
-                "image": "https://photos5.appleinsider.com/gallery/68244-143868-macbook-pro-1tb-1849-deal-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/14/apples-1tb-m5-macbook-pro-falls-to-1849-in-todays-price-war",
-                "source": "AppleInsider",
-                "date": "2026-07-14T15:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Game changer’ drug turns cancer’s defenses against itself",
-                "desc": "Doctors have been able to control the disease in two out of three mesothelioma patients using the \"game changer\" treatment.",
-                "image": "https://bloximages.chicago2.vip.townnews.com/hometownregister.com/content/tncms/assets/v3/editorial/2/83/283b862e-1981-5b1c-b70e-ff2006a3e76c/6a56599b45dc6.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-                "url": "https://www.hometownregister.com/lifestyles/health/game-changer-drug-turns-cancer-s-defenses-against-itself/article_a9a239ae-a743-5038-aecb-12e9d0c85d31.html",
-                "source": "HomeTown Register",
-                "date": "2026-07-14T15:26:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox drop hardware update that clears way for disc-to-digital Positron launch",
-                "desc": "Xbox Positron is rumoured to launch later this week",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltf66e2e670bf9becb/6a5610bdad2fb26d60272184/xboxseriesx-s.jpg",
-                "url": "https://www.gamingbible.com/news/platform/xbox/xbox-hardware-update-clears-way-positron-launch-306108-20260714",
-                "source": "GAMINGbible",
-                "date": "2026-07-14T15:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bus Simulator 27: New Trailer Showcases Most Advanced Fleet in Bus Simulator History",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Bus-Simulator-27-New-Trailer-Showcases-Most-Advanced-Fleet-in-Bus-Simu",
-                "source": "Games Press",
-                "date": "2026-07-14T14:56:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese DDR5 memory just hit 8000+ speeds on MSI Intel motherboards",
-                "desc": "MSI's Z890 motherboards now deliver stable DDR5-8000+ speeds with CXMT-based memory, expanding high-speed DDR5 support on Intel platforms.",
-                "image": "https://static.tweaktown.com/news/1/1/112614_1_msi-motherboards-deliver-ddr5-8000-support-for-cxmt-based-memory-on-intel-platform_full.png",
-                "url": "https://www.tweaktown.com/news/112614/chinese-ddr5-memory-just-hit-8000-plus-speeds-on-msi-intel-motherboards/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-14T14:56:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JOYROOM Brings New 240W PODIX Power Bank to Kickstarter, Reshaping the High",
-                "desc": "JOYROOM PODIX PR70: 240W 4-Port Power Bank with Upgraded Dual TFT Displays and Built-in Dual Cables (Flight-Ready 25K Battery Capacity) […]",
-                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
-                "url": "https://technode.global/prnasia/joyroom-brings-new-240w-podix-power-bank-to-kickstarter-reshaping-the-high-end-fast-charging-power-bank-segment/",
-                "source": "TNGlobal",
-                "date": "2026-07-14T14:55:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Clinical Trial Shows New Drug Controls Mesothelioma in 67% of Patients",
-                "desc": "Working with scientists from Massachusetts-based biopharmaceutical company RS Oncology, researchers from the University of Vermont (UVM) have published promising Phase I clinical trial results showing that a new drug controlled mesothelioma progression in 67% of patients. The drug, called RSO-021, targets a key vulnerability in how tumor cells protect themselves, turning the cancer’s own energy-producing defenses",
-                "image": "https://mesothelioma.net/wp-content/uploads/2026/07/clinical-trial.jpg",
-                "url": "https://mesothelioma.net/mesothelioma-news/clinical-trial-shows-new-drug-controls-mesothelioma-in-67-of-patients/",
-                "source": "Mesothelioma.net",
-                "date": "2026-07-14T14:55:41Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Washington Post intern gets to the bottom of Mitch McConnell’s ‘proof of life’ photo showing paper’s sports section",
+                "desc": "The 84-year-old senator has not been seen in public since June 14",
+                "image": "https://static.independent.co.uk/2026/07/13/15/2026-07-13T002708Z_371231048_RC2OCMAQ38T2_RTRMADP_3_USA-CONGRESS-MCCONNELL.JPG?trim=92,0,92,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/mitch-mcconnell-health-photo-ai-b3014840.html",
+                "source": "The Independent",
+                "date": "2026-07-14T18:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia seeks to expand partnership with Brazil",
+                "desc": "Somalia's new ambassador to Brazil, Omar Mohamed, said on Tuesday (14) that he intends to expand trade and cooperation with Brazil.",
+                "image": "https://anba.com.br/wp-content/uploads/2026/07/somalia.jpeg",
+                "url": "https://anba.com.br/en/somalia-seeks-to-expand-partnership-with-brazil/",
+                "source": "Agência de Notícias Brasil-Árabe - ANBA",
+                "date": "2026-07-14T18:38:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa Just Transition Network: No New Coal Campaign",
+                "desc": "Africa Just Transition Network (AJTN) officially launched the NO NEW COAL AFRICA campaign on the opening day of the Niger Delta Climate...",
+                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-14-1746510.jpg",
+                "url": "https://www.businessghana.com/site/news/general/352080/Africa-Just-Transition-Network-No-New-Coal-Campaign",
+                "source": "BusinessGhana",
+                "date": "2026-07-14T18:36:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strong Decrease in Incidents of Piracy and Armed Robbery of Ships in Asia",
+                "desc": "The first six months of 2026 saw an overall strong decline in the number of reported incidents of piracy and armed robbery against shipping in Asia, r...",
+                "image": "https://maritime-executive.com/media/images/article/Photos/Ports/anchorage-singapore-strait.jpg",
+                "url": "https://maritime-executive.com/article/strong-decrease-in-incidents-of-piracy-and-armed-robbery-of-ships-in-asia",
+                "source": "The Maritime Executive",
+                "date": "2026-07-14T18:36:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Full List of African Countries Whose Citizens Can Enter Thailand With Visa",
+                "desc": "Thailand updated its visa-on-arrival policy for 2024, allowing Seychelles, Namibia, and Ethiopia from Africa. Eligible travellers enjoy a 15-day stay for 2,000 Baht.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/c5e0dc4793035ed1.jpeg?v=1",
+                "url": "https://yen.com.gh/world/asia/307903-full-list-african-countries-citizens-enter-thailand-visa-2026/",
+                "source": "Yen News",
+                "date": "2026-07-14T18:33:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
+                "desc": "Donald Trump backs away from fee, says regional countries will instead invest in US in return for transit protection.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5674a98857-1784050857.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation",
+                "source": "Al Jazeera",
+                "date": "2026-07-14T18:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran’s Former Leader Denies Times Report",
+                "desc": "The Times reported that Israel had planned to reinstall Mahmoud Ahmadinejad as Iran’s leader after the war.",
+                "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-iran-denial-bmzk/14int-iran-denial-bmzk-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/14/world/middleeast/mahmoud-ahmadinejad-iran-israeli-asset.html",
+                "source": "The New York Times",
+                "date": "2026-07-14T18:30:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Lindsey Graham’s keen ability to read the moment propelled him to political relevance for 3 decades",
+                "desc": "Sen. Graham repeatedly moved in the direction South Carolina and Republican politics were headed rather than where they had been.",
+                "image": "https://images.theconversation.com/files/747814/original/file-20260714-85-m2klip.jpg?ixlib=rb-4.1.0&rect=0%2C233%2C3999%2C1999&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/how-lindsey-grahams-keen-ability-to-read-the-moment-propelled-him-to-political-relevance-for-3-decades-287471",
+                "source": "The Conversation",
+                "date": "2026-07-14T18:30:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Explosive diarrhea' outbreak source remains a mystery",
+                "desc": "Experts say there were likely multiple points of contamination in the US food supply - complicating investigations.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/630f/live/5d821940-7f04-11f1-bf9d-c5939b8ebb1d.jpg",
+                "url": "https://www.bbc.com/news/articles/cm2jl23k2l2o",
+                "source": "BBC",
+                "date": "2026-07-14T18:28:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Korean Peninsula Update, July 14, 2026",
+                "desc": "Ukrainian military intelligence confirmed North Korea’s role in providing Russia with artillery for the war in Ukraine.",
+                "image": "https://understandingwar.org/wp-content/uploads/2026/01/Website-Featured-Image-4-scaled.webp",
+                "url": "https://understandingwar.org/research/china-taiwan/korean-peninsula-update-july-14-2026/",
+                "source": "Institute for the Study of War",
+                "date": "2026-07-14T18:27:26Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "African Union Commission Chair begins official visit to Mali to strengthen dialogue with transitional authorities",
                 "desc": "Bamako – Mali’s Minister of Foreign Affairs and International Cooperation, Abdoulaye Diop, welcomed African Union Commission Chairman Moussa Faki Mahamat upon h",
@@ -1806,98 +1896,8 @@
                 "source": "The Independent",
                 "date": "2026-07-14T14:59:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Israel and Lebanon Meet to Advance Peace Talks, as Broader Truce Unravels",
-                "desc": "Expectations are low for the latest round of U.S.-mediated talks, aimed at ending months of war between Israel and t Hezbollah.",
-                "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14mideast-live-lebanon-israel-jfqp/14mideast-live-lebanon-israel-jfqp-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-lebanon-peace-talks.html",
-                "source": "The New York Times",
-                "date": "2026-07-14T14:55:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insiders Expose Trump ‘Crisis’ at the State Department",
-                "desc": "Veteran diplomats have sounded the alarm about the president’s overhaul.",
-                "image": "https://www.thedailybeast.com/resizer/v2/Y45KY6RXZJGCXAJGN4I3KKM5M4.JPG?smart=true&auth=e697834052968d2d72b043699464bd06a738669622c2deee6e61687b8bd08186&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/insiders-expose-trump-crisis-at-the-state-department/",
-                "source": "The Daily Beast",
-                "date": "2026-07-14T14:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lakes that ‘breathe’ ancient carbon: a surprising find in the Congo Basin",
-                "desc": "Ancient carbon is leaking from two lakes in the Congo Basin, revealing a previously unknown link between tropical peatlands and the atmosphere.",
-                "image": "https://images.theconversation.com/files/742401/original/file-20260617-57-pt41or.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C7994%2C3997&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/lakes-that-breathe-ancient-carbon-a-surprising-find-in-the-congo-basin-281762",
-                "source": "The Conversation",
-                "date": "2026-07-14T14:51:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanzania’s foreign policy has changed. How it’s being shaped by domestic power struggles",
-                "desc": "The Tanzanian case shows that foreign policy can also be a way of managing domestic coalitions.",
-                "image": "https://images.theconversation.com/files/743934/original/file-20260624-85-oc1c74.jpeg?ixlib=rb-4.1.0&rect=0%2C933%2C6537%2C3268&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/tanzanias-foreign-policy-has-changed-how-its-being-shaped-by-domestic-power-struggles-285835",
-                "source": "The Conversation",
-                "date": "2026-07-14T14:51:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Penny For Your Thoughts: Readers debate FIFA, justice, global distractions and South Africa’s challenges",
-                "desc": "Letters & WhatsApps to the Editor",
-                "image": "https://iol-prod.appspot.com/image/8b89b0d2023e4a5f3af48e3ecd40df5e8e3d07f1/1000/jpeg",
-                "url": "https://dailynews.co.za/news/2026-07-14-penny-for-your-thoughts-readers-debate-fifa-justice-global-distractions-and-south-africas-challenges/",
-                "source": "dailynews.co.za",
-                "date": "2026-07-14T14:49:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "An Irishman was convicted of murder in Budapest, but Hungarian media didn't name him. Why?",
-                "desc": "The Journal asked legal experts in Hungary why the press there has declined to name Lorcan Murphy when reporting on the case.",
-                "image": "https://img2.thejournal.ie/article/7100129/river/?height=400&version=7101427",
-                "url": "https://www.thejournal.ie/irish-man-murder-budapest-hungary-7100129-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-14T14:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa’s poorest countries are sending more money abroad than they receive to build their economies",
-                "desc": "Africa’s 38 low-income countries face a $120 billion financing gap while debt repayments exceed new external financing, highlighting a growing challenge to investment and industrialisation. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/txWktkqTURBXy80OTRkMjU1MjJhYzkxMjZkZGQ0ZWE2NjQ2NGU4ZWVlMi5qcGVnkpUDADDNA1bNAeCTBc0EsM0Cdg",
-                "url": "https://africa.businessinsider.com/local/leaders/africas-poorest-countries-are-sending-more-money-abroad-than-they-receive-to-build/xve07vr",
-                "source": "Business Insider Africa",
-                "date": "2026-07-14T14:37:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Justices Kagan and Barrett demand more Supreme Court security funding in rare appearance before Congress",
-                "desc": "Justice Amy Coney Barrett delivered an unusual and personal plea for additional security funding for the Supreme Court on Tuesday, using a rare hearing before Congress to address for the first time addressing personal threats that have been directed against her and her family.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26195516824478.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/14/politics/supreme-court-justices-kagan-barrett-testify-security",
-                "source": "CNN",
-                "date": "2026-07-14T14:33:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "End of AUSSOM is not end of Somalia",
-                "desc": "On July 1, when the United States informed the African Union it would no longer finance the United Nations Support Office in Somalia (UNSOS), the logistical backbone of the African Union Support and Stabilization Mission in Somalia (AUSSOM), beyond December 2026, the reaction was immediate. One prediction dominated: Somalia was about to become a crisis zone like Afghanistan. Others argued the opposite, that the Somali National Army (SNA) has matured enough to assume full responsibility for national security. Both arguments ask the wrong question.",
-                "image": "https://www.hiiraan.com/uploads/2026/07/1784039488450572.jpg",
-                "url": "https://www.hiiraan.com/op4/2026/Jul/205688/end_of_aussom_is_not_end_of_somalia.aspx",
-                "source": "Hiiraan Online",
-                "date": "2026-07-14T14:33:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "State Solution and Palestinian UN Membership",
-                "desc": "Brussels– India has reaffirmed its support for a two-state solution and Palestine’s membership in the United Nations during the Second Ministerial Meeting of the Palestine Donor Group in Brussels. Sripriya …",
-                "image": "https://indianewengland.com/wp-content/uploads/2026/07/Palestine.png",
-                "url": "https://indianewengland.com/india-reaffirms-support-for-two-state-solution-and-palestinian-un-membership/",
-                "source": "INDIA New England News",
-                "date": "2026-07-14T14:33:13Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T06:00:32.594762Z"
+    "lastGlobalSync": "2026-07-15T06:40:24.803006Z"
 }
