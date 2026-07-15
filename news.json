@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Dealer agrees to buy back car after odometer tampering conviction",
+                "desc": "The MBIE prosecution marked the first successful case against odometer fraud, with dealer ordered to pay reparation and company fined $5000.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/dashboard-odometer-speedometer-file-image-stock-generic-UTWA4MZCZZAFRMTAMGBC4VNZK4.jpg?auth=202f71a145566eafaeaa36db0efb5df65ee48dc854ed84e0722a7ebc2e2f9db9&quality=70&width=600&height=315&focal=1048%2C494",
+                "url": "https://www.1news.co.nz/2026/07/15/dealer-agrees-to-buy-back-car-after-odometer-tampering-conviction/",
+                "source": "1News",
+                "date": "2026-07-15T00:56:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shell gets $11.5/barrel tax credit for Bonga project",
+                "desc": "FG grants Shell a special $11.5/barrel tax credit for the Bonga Southwest Aparo project, aiming to unlock $20bn investment and boost oil production.",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/shell-nigeria-exploration-and-production-company-limited-snepco-2048x1152_1783035231-1200x630.webp",
+                "url": "https://punchng.com/fg-grants-shell-11-5-barrel-tax-credit-to-unlock-20bn-investment/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-15T00:54:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+                "desc": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+                "source": "CNBC",
+                "date": "2026-07-15T00:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China increases holdings of US Treasuries despite diversification trend",
+                "desc": "Overall foreign holdings climb to US$9.371 trillion in May, with China’s rising to US$659.3 billion after hitting an 18-year low in April.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/15/3074e201-c842-424f-808d-9076263fecaf_c4739346.jpg?itok=dyU9I4LD&v=1784076773",
+                "url": "https://www.scmp.com/economy/china-economy/article/3360591/china-increases-holdings-us-treasuries-despite-diversification-trend",
+                "source": "South China Morning Post",
+                "date": "2026-07-15T00:52:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan Aligns With Singapore, Thailand, Hong Kong and Philippines Enter a Historic Tourism Transformation as ANA Unleashes Discount Flight Deals to Open Northern Hokkaido’s Hidden Paradise, Connect Tra",
+                "desc": "Japan is opening a powerful new gateway to northern Hokkaido tourism as ANA introduces discounted flight deals that make Mombetsu’s unique winter landscapes, drift ice adventures, wildlife experiences and seafood culture more accessible to travellers from Singapore, Thailand, Hong Kong and the Philippines.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/high-level-description-a-side-vi-6.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/vhify52a4qtp/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-15T00:48:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Globacom Unveils Initiatives to Improve Customer Experience",
+                "desc": "Globacom is enhancing customer experience nationwide with new technical and marketing initiatives, including network upgrades and an AI-powered voice assis",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/Glo.webp",
+                "url": "https://punchng.com/globacom-unveils-initiatives-to-improve-customer-experience/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-15T00:48:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ANA pilot jailed in Japan for groping flight attendant after work",
+                "desc": "The airline had removed Ryota Mise from all flight duties since the case was reported in March.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/15/2dcc24ce-aea8-4603-90d2-2207cddef35e_3defc1ca.jpg?itok=SxAxdq_I&v=1784076353",
+                "url": "https://www.scmp.com/news/asia/east-asia/article/3360590/ana-pilot-jailed-japan-groping-flight-attendant-after-work",
+                "source": "South China Morning Post",
+                "date": "2026-07-15T00:45:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stock Gains Build on Tech-Led Rally, Brent Climbs: Markets Wrap",
+                "desc": "(Bloomberg) -- Asian shares rose as traders trimmed bets on Federal Reserve interest-rate hikes following cooler-than-expected US inflation data, while the artificial intelligence trade gathered fresh momentum. Oil rose.",
+                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1765874455",
+                "url": "https://www.swissinfo.ch/eng/stock-gains-build-on-tech-led-rally%2c-brent-climbs%3a-markets-wrap/91747079",
+                "source": "SWI swissinfo.ch",
+                "date": "2026-07-15T00:45:53Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "KnowBe4 inks AWS deal for digital workforce security",
+                "desc": "Customers can now buy KnowBe4's security tools through AWS Marketplace, speeding deployment as firms race to protect employees and AI agents.",
+                "image": "https://securitybrief.com.au/uploads/story/2026/07/15/compatible_Marco_Muto.jpg",
+                "url": "https://securitybrief.com.au/story/knowbe4-inks-aws-deal-for-digital-workforce-security",
+                "source": "SecurityBrief Australia",
+                "date": "2026-07-15T00:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flights bound for Adelaide diverted due to thick fog",
+                "desc": "A number of flights have been delayed for take-off at Adelaide Airport due to heavy fog while three others have been diverted to Melbourne.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/3aeeae69ca63ffda50ffd6dbd498a207?impolicy=wcms_watermark_news&cropH=1316&cropW=2340&xPos=0&yPos=763&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-15/flight-disruptions-due-to-heavy-fog-in-adelaide/106916726",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-15T00:43:23Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Meta Sued For Allegedly Using Discriminatory AI In Layoff Decisions",
                 "desc": "The company's AI systems targeted employees with disabilities or on medical or parental leave, the lawsuit claims.",
                 "image": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261799526-1200x675.jpg",
@@ -542,99 +632,54 @@
                 "source": "The Manila Times",
                 "date": "2026-07-14T21:48:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Markets live: ASX to follow Wall Street higher as US reimposes naval blockade on Iran",
-                "desc": "The Australian share market is likely to rise in morning trade after some weaker-than-expected US inflation figures boosted Wall Street and reduced the likelihood of the Federal Reserve lifting interest rates. Follow live.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/928ba52f1eeca86344bc81b803d0b819?impolicy=wcms_watermark_news&cropH=2612&cropW=4643&xPos=0&yPos=242&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-15/asx-markets-business-live-news/106916408",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-14T21:46:45Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Lawsuit claims AI-powered discrimination in recent Meta layoffs",
-                "desc": "A group of 26 recently laid off Meta workers accuse the giant of using AI software to target specific categories of employees.",
-                "image": "https://helios-i.mashable.com/imagery/articles/07EvK1RAWOFhDhjjAXgaA93/hero-image.fill.size_1200x675.v1784062219.jpg",
-                "url": "https://mashable.com/tech/meta-employee-lawsuit-claims-ai-discrimination",
-                "source": "Mashable",
-                "date": "2026-07-14T21:45:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PVH Names Sephora Executive Alexis Rollier CFO",
-                "desc": "PVH Corp. appoints Alexis Rollier, former Sephora COO and CFO, as its new chief financial officer to drive growth for Calvin Klein and Tommy Hilfiger.",
-                "image": "https://wwd.com/wp-content/uploads/2026/07/PVH_Alexis_Rollier.png?crop=0px%2C14px%2C640px%2C358px&resize=1000%2C563",
-                "url": "https://wwd.com/business-news/human-resources/pvh-names-alexis-rollier-cfo-sephora-exec-1239066212/",
-                "source": "WWD",
-                "date": "2026-07-14T21:38:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Layoff Watch '26: Big Cuts Are Coming at KPMG Australia",
-                "desc": "A source told AFR it could be 1,000 or more people.",
-                "image": "https://www.goingconcern.com/wp-content/uploads/2026/07/KPMG-Australia-layoffs-July-2026.jpg",
-                "url": "https://www.goingconcern.com/layoff-watch-26-big-cuts-are-coming-at-kpmg-australia/",
-                "source": "Going Concern",
-                "date": "2026-07-14T21:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Judge dismisses lawsuit against Apple over alleged child sexual abuse material on iCloud",
-                "desc": "Apple avoided responsibility for the alleged circulation of child sexual abuse material on iCloud after a judge dismissed a lawsuit against the company on Tuesday. The onus should be on lawmakers to protect children instead, the judge said.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273929904.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://edition.cnn.com/2026/07/14/tech/apple-lawsuit-dismissal-child-sexual-abuse-material-icloud",
-                "source": "CNN",
-                "date": "2026-07-14T21:27:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Coalition and One Nation’s plan to ditch net zero would not lower power prices, CSIRO report finds",
-                "desc": "GenCost report contradicts parties’ claims about abandoning emissions target, and finds nuclear would be most expensive way to generate power",
-                "image": "https://i.guim.co.uk/img/media/d205e5e1a10b7343912174e3f3f094f25069a9fa/632_0_6663_5333/master/6663.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fee79aa928e52bc81aac1cc2d5aacf7",
-                "url": "https://www.theguardian.com/australia-news/2026/jul/15/coalition-and-one-nations-plan-to-ditch-net-zero-would-not-lower-power-prices-csiro-report-finds",
-                "source": "The Guardian",
-                "date": "2026-07-14T21:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 things to watch on the ASX 200 on Wednesday",
-                "desc": "Nick Scali Limited (ASX: NCK) and Evolution Mining Ltd (ASX: EVN) shares will be on watch on the ASX 200 on Wednesday....",
-                "image": "https://www.fool.com.au/wp-content/uploads/2021/04/Young-Man-on-watch-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/15/5-things-to-watch-on-the-asx-200-on-wednesday-15-july-2026/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-14T21:16:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European Court: Apple Can Not Shirk Off its Interoperability Requirements",
-                "desc": "One of the best bulwarks against monopoly is interoperability—that is making a new product or service work with an existing product or service. Interoperability allows users, and not the manufacturers of their devices or largest player in a market, to decide what application best serves them....",
-                "image": "https://www.eff.org/files/banner_library/cjeu.png",
-                "url": "https://www.eff.org/deeplinks/2026/07/european-court-apple-can-not-shirk-its-interoperability-requirements",
-                "source": "Electronic Frontier Foundation",
-                "date": "2026-07-14T21:14:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First Commonwealth to Host Second Quarter 2026 Earnings Release Conference Call and Webcast on Wednesday, July 29, 2026",
-                "desc": "INDIANA, Pa., July 14, 2026 (GLOBE NEWSWIRE) -- First Commonwealth Financial Corporation (NYSE: FCF) announced today that it will host a conference call and webcast on Wednesday, July 29, 2026 at 2:00 p.m. Eastern Time to discuss financial results for the quarter ended June 30, 2026. The call will be hosted by T. Michael Price, President and Chief Executive Officer. He will be joined by James R. Reske, Executive Vice President and Chief Financial Officer, Mike McCuen, Executive Vice President and Chief Banking Officer and Brian J. Sohocki, Executive Vice President and Chief Credit Officer. First Commonwealth will issue a press release reporting its second quarter 2026 financial results after the market closes on Tuesday, July 28, 2026.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/15/1137323.jpg",
-                "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/globenewswire/first-commonwealth-to-host-second-quarter-2026-earnings-release-conference-call-and-webcast-on-wednesday-july-29-2026/2384595",
-                "source": "The Manila Times",
-                "date": "2026-07-14T21:07:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI's nothing statement on Apple's lawsuit says nothing",
-                "desc": "OpenAI's second official statement concerning Apple's trade secret lawsuit says nothing and is so generic that only an AI could have generated a statement so bland and empty.",
-                "image": "https://photos5.appleinsider.com/gallery/68249-143877-Apple-Intelligence-pin-iPhone-Air-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/14/openai-shrugs-denies-responsibility-for-trade-secret-theft-with-vague-statements",
-                "source": "AppleInsider",
-                "date": "2026-07-14T21:06:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The OLED ROG Xbox Ally X20 Handheld Will Be Sold Standalone After All",
+                "desc": "The OLED ROG Xbox Ally X20 Handheld Will Be Sold Standalone After All",
+                "image": "https://press-start.com.au/wp-content/uploads/2026/06/Xbox-Ally-XXX.jpg",
+                "url": "https://press-start.com.au/news/tech-news/2026/07/15/the-rog-xbox-ally-x20-will-be-sold-standalone-after-all/",
+                "source": "Press Start Australia",
+                "date": "2026-07-15T00:57:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Introduces Flex Titanium Technology for Next Gen Foldable Displays",
+                "desc": "Samsung Introduces Flex Titanium Technology for Next Generation Foldable Displays",
+                "image": "https://www.thefastmode.com/media/k2/items/src/e9edc3a7abd9de32ebcf0aef051cec97.jpg?t=20260715_012950",
+                "url": "https://www.thefastmode.com/smartphones/49609-samsung-introduces-flex-titanium-technology-for-next-gen-foldable-displays",
+                "source": "The Fast Mode",
+                "date": "2026-07-15T00:56:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google's Mueller On First Link Priority & Link Obfuscation",
+                "desc": "John Mueller responded to a plan to hide homepage links from Google in hopes only one internal anchor text would count, known as \"first-link priority.\"",
+                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/83521fc2-d0e7-46c6-bebb-e9c6a199753b-159.jpeg",
+                "url": "https://www.searchenginejournal.com/googles-mueller-on-first-link-priority-link-obfuscation/582316/",
+                "source": "Search Engine Journal",
+                "date": "2026-07-15T00:46:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ZOTAC RTX 5090 reportedly 'blew up' after playing Black Flag Resynced for five minutes",
+                "desc": "A ZOTAC RTX 5090 reportedly started crackling and emitting smoke minutes into Black Flag Resynced, and this time the power connector wasn't at fault.",
+                "image": "https://static.tweaktown.com/news/1/1/112626_1_zotac-rtx-5090-reportedly-blew-up-after-playing-black-flag-resynced-for-five-minutes_full.png",
+                "url": "https://www.tweaktown.com/news/112626/zotac-rtx-5090-reportedly-blew-up-after-playing-black-flag-resynced-for-five-minutes/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-15T00:45:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iOS 27: My favorite new iPhone features (other than AI)",
+                "desc": "The iOS 27 public beta is here, and the headlining changes are Siri AI and the array of new Apple...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/14/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+                "source": "9to5Mac",
+                "date": "2026-07-15T00:41:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Weekly Update 512: IoT Lockout Fail",
                 "desc": "\"Build a smart home\", they said. \"It'll make life so much better\", they said. Well, life wasn't very bloody good at 23:00 the other night after travelling 33 hours from Paris only to find the IoT doorlock batteries dead and the 9V \"jump start\" procedure completely failing!",
@@ -1219,54 +1264,54 @@
                 "source": "Business Insider",
                 "date": "2026-07-14T21:10:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Five Hacks Every Garmin Forerunner 165 User Should Know",
-                "desc": "Before upgrading to the 170, consider hacking the 165 you already have.",
-                "image": "https://sm.lifehacker.com/t/lifehacker_au/hack/f/five-hacks/five-hacks-every-garmin-forerunner-165-user-should-know_f7wf.1200.jpg",
-                "url": "https://au.lifehacker.com/fitness/119061/5-hacks-every-garmin-forerunner-165-user-should-know",
-                "source": "Lifehacker",
-                "date": "2026-07-14T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft Deletes User's 25-Year-Old Account With Thousands Spent on Games and His Son's Baby Pictures After It Was Hacked",
-                "desc": "25 years gone.",
-                "image": "https://sm.ign.com/t/ign_ap/news/m/microsoft-/microsoft-deletes-users-25-year-old-account-with-thousands-s_xzeh.1200.jpg",
-                "url": "https://sea.ign.com/xbox-series-x/245426/microsoft-deletes-users-25-year-old-account-with-thousands-spent-on-games-and-his-sons-baby-pictures",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-14T20:59:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task",
-                "desc": "Marktechpost scored Mistral Vibe for Code, Claude Code, Cursor, and OpenAI Codex on one real scaffold-to-pull-request engineering task",
-                "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-20-1024x731.png",
-                "url": "https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/",
-                "source": "MarkTechPost",
-                "date": "2026-07-14T20:52:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Minutes of Pure Surfing Style",
-                "desc": "In 'Aftersun,' a new film from Nobody Surf and Haydenshapes, Anderson embarks on a road trip featuring great waves, great surfing, and two Haydenshapes models.",
-                "image": "http://www.theinertia.com/wp-content/uploads/2026/07/craig.jpg",
-                "url": "https://www.theinertia.com/surf/craig-anderson-aftersun-surfing-style/",
-                "source": "The Inertia",
-                "date": "2026-07-14T20:51:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
-                "desc": "Remember when last month's 206 CVEs seemed eye-watering? Yeah, those were the days",
-                "image": "https://image.theregister.com/5271456.jpg?imageId=5271456&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/security/2026/07/14/patchpocalypse-now-microsoft-tops-last-months-record-with-622-patch-tuesday-cves/5271434",
-                "source": "The Register",
-                "date": "2026-07-14T20:49:40Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Trump threatens to hit Iran power plants, bridges next week if no deal",
+                "desc": "WASHINGTON: President Donald Trump told Fox News on Tuesday he would expand US strikes on Iran next week to target power plants and bridges if Tehran does not make a deal.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011198.jpg",
+                "url": "https://www.thestar.com.my/news/world/2026/07/15/trump-threatens-to-hit-iran-power-plants-bridges-next-week-if-no-deal",
+                "source": "The Star",
+                "date": "2026-07-15T00:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Baltimore firefighters battle third-floor blaze at vacant school; no injuries reported",
+                "desc": "A late-night fire broke out in a vacant multistory school building on Greenspring Avenue, according to the Baltimore City Fire Department.Shortly after 10 p.m.,",
+                "image": "https://foxbaltimore.com/resources/media2/16x9/946/1320/0x64/90/9bd8bfbd-8e1a-4ce4-bf26-41df91e5e3ac-Screenshot20250904095944.png",
+                "url": "https://foxbaltimore.com/news/local/baltimore-firefighters-battle-third-floor-blaze-at-vacant-school-no-injuries-reported",
+                "source": "WBFF",
+                "date": "2026-07-15T00:54:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Den of spies’: why has Japan been easy prey for Russian espionage, and what is Tokyo doing about it?",
+                "desc": "Postwar rules limit state collection of intelligence and prosecution of illegal operatives, but the government of Sanae Takaichi is beefing up its capabilities",
+                "image": "https://i.guim.co.uk/img/media/264bd703b494100aebed89dd8f028b00d7c3ccf8/0_0_3696_2958/master/3696.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c38fefd704688d5f10d2337d4537a367",
+                "url": "https://www.theguardian.com/world/2026/jul/15/japan-russian-den-of-spies-explainer",
+                "source": "The Guardian",
+                "date": "2026-07-15T00:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine war briefing: Spotlight on ‘hundreds’ of alleged PoW executions by Russia",
+                "desc": "Ukraine attacks deter Russian shipping in Sea of Azov; loudest cheers for Kyiv’s troops at Bastille Day parade in Paris. What we know on day 1,603",
+                "image": "https://i.guim.co.uk/img/media/d23af1d1fed4e933cd111c207127abe5d4d5271e/638_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b6ca6bc1daab793b30241a8d04dc812",
+                "url": "https://www.theguardian.com/world/2026/jul/15/ukraine-war-briefing-spotlight-on-hundreds-of-alleged-pow-executions-by-russia",
+                "source": "The Guardian",
+                "date": "2026-07-15T00:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India amends foreign trade policy, prohibits import of goods made using forced labour",
+                "desc": "Besides strengthening its trade policy framework, this further aligns domestic regulations with internationally recognised labour standards.",
+                "image": "https://asianews.network/wp-content/uploads/2026/07/AFP__20251106__836H6GF__v1__MidRes__IndiaAdaniEnergy.jpg",
+                "url": "https://asianews.network/india-amends-foreign-trade-policy-prohibits-import-of-goods-made-using-forced-labour/",
+                "source": "Asia News Network",
+                "date": "2026-07-15T00:49:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "US launches fresh Iran strikes, reimposes naval blockade",
                 "desc": "US forces have carried out strikes against Iran for a fourth day in a row and reimposed a naval blockade.",
@@ -1851,53 +1896,8 @@
                 "source": "Al Jazeera",
                 "date": "2026-07-14T21:15:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Scientists are deep-freezing koala eggs and sperm to protect the species from extinction",
-                "desc": "Researchers at the University of Queensland in Australia want to freeze koala sex cells in liquid nitrogen, which could preserve the DNA for decades until we need it, an expert said.",
-                "image": "https://cdn.mos.cms.futurecdn.net/gqDS8Jr2WFuprBdPM2Ku89-2121-80.jpg",
-                "url": "https://www.livescience.com/animals/land-mammals/scientists-are-deep-freezing-koala-eggs-and-sperm-to-protect-the-species-from-extinction",
-                "source": "Live Science",
-                "date": "2026-07-14T21:15:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "farm gap as AGRA marks 20 years of agricultural transformation",
-                "desc": "Uganda must accelerate the movement of agricultural innovations from research institutions to farmers, strengthen extension services and expand value addition if the country is to convert its agricultural potential into higher incomes, jobs and food security, leaders said at a national dialogue marking AGRA’s 20th anniversary. The AGRA@20 Uganda Country Celebration, held",
-                "image": "http://africasciencenews.org/wp-content/uploads/2026/07/AGRA-1-1.jpg",
-                "url": "http://africasciencenews.org/uganda-urged-to-close-research-to-farm-gap-as-agra-marks-20-years-of-agricultural-transformation/",
-                "source": "Africa Science News",
-                "date": "2026-07-14T21:12:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Could Geothermal Energy Rescue Germany's Fading Coal Towns?",
-                "desc": "New drilling data near a German coal plant set to close in 2029 suggests geothermal energy could help power a just transition in coal country.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-14_b8hmpfavf2.jpg",
-                "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Could-Geothermal-Energy-Rescue-Germanys-Fading-Coal-Towns.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-14T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Provo mayor selected to participate in Harvard city leadership course",
-                "desc": "Provo Mayor Marsha Judkins was selected as one of 46 mayors from 15 countries to participate in a Harvard-run city leadership course. She joins the 10th class of the Bloomberg Harvard City Leadership Initiative, a nine-month hybrid program taught by Harvard faculty that provides leadership training to mayors from across the globe. The class started […]",
-                "image": "https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2026/07/14133454/746385580_1451623366772545_3291819949612440485_n.jpg",
-                "url": "https://www.heraldextra.com/news/2026/jul/14/provo-mayor-selected-to-participate-in-harvard-city-leadership-course/",
-                "source": "heraldextra.com",
-                "date": "2026-07-14T20:55:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran declares regional oil export ban amid US strikes",
-                "desc": "The Iranian military has vowed to prevent crude products from being transported out of the Persian Gulf, citing the resumed airstrikes by American forces.",
-                "image": "https://dailypost.ng/wp-content/uploads/2026/04/Iran-3.jpg",
-                "url": "https://dailypost.ng/2026/07/14/iran-declares-regional-oil-export-ban-amid-us-strikes/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-14T20:53:17Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T12:40:22.662897Z"
+    "lastGlobalSync": "2026-07-15T12:58:42.599137Z"
 }
