@@ -636,6 +636,15 @@
         ],
         "technology": [
             {
+                "title": "Microsoft and Google push passkeys deeper into workplace authentication",
+                "desc": "Microsoft and Google accelerate passwordless workplace authentication with expanded passkey and FIDO2 security key support.",
+                "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg",
+                "url": "https://www.biometricupdate.com/202607/microsoft-and-google-push-passkeys-deeper-into-workplace-authentication",
+                "source": "Biometric Update",
+                "date": "2026-07-14T19:00:38Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "How to Join the Waitlist to Try the New Siri AI",
                 "desc": "If you're running the iOS 27 or macOS 27 betas on a compatible device, you can try Siri AI—at least, following a short waiting period.",
                 "image": "https://lifehacker.com/imagery/articles/01KXGWB9Y7HBJ6M1EJYWTZJ2A6/hero-image.fill.size_1200x675.jpg",
@@ -1253,15 +1262,6 @@
                 "image": "https://images.purexbox.com/7dd54e0a793c1/large.jpg",
                 "url": "https://www.purexbox.com/news/2026/07/most-technically-ambitious-gears-to-date-xbox-partners-with-nvidia-on-gears-of-war-e-day",
                 "source": "Pure Xbox",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One UI 9: All the features you need to know [Video]",
-                "desc": "One UI 9 is almost here, but what features do you need to know for Samsung's Andorid 17 build? We've got you covered here.",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/14/one-ui-9-all-the-features-you-need-to-know-video/",
-                "source": "9to5Google",
                 "date": "2026-07-14T16:00:00Z",
                 "priority": "STANDARD"
             }
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T07:00:32.151032Z"
+    "lastGlobalSync": "2026-07-15T07:00:58.881964Z"
 }
