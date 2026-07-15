@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "ANZ joins big four in floating rate hike",
+                "desc": "New Zealand's largest bank lifts floating and business rates as three rivals follow suit",
+                "image": "https://cdn-res.keymedia.com/cms/images/us/076/0311_639196056994189238.png",
+                "url": "https://www.mpamag.com/nz/specialty/residential/anz-joins-big-four-in-floating-rate-hike/582261",
+                "source": "mpamag.com",
+                "date": "2026-07-14T22:28:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blanket of fog delays, cancels flights at Auckland Airport",
+                "desc": "Flights were cancelled and delayed at Auckland Airport after a layer of fog blanketed the city this morning.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-control-tower-at-auckland-airport-WC2YJZXGEJCNJOKPBVK5HBO6FY.jpg?auth=bc29bed7da2158c69327088e054b7f35cedf94b49c096d1c6e4493405b86a9f2&quality=70&width=600&height=315&focal=3880%2C1265",
+                "url": "https://www.1news.co.nz/2026/07/15/blanket-of-fog-delays-cancels-flights-at-auckland-airport/",
+                "source": "1News",
+                "date": "2026-07-14T22:25:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI's first hardware device is reportedly a screenless speaker that can move",
+                "desc": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+                "source": "TechCrunch",
+                "date": "2026-07-14T22:22:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
+                "desc": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
+                "source": "CNBC",
+                "date": "2026-07-14T22:20:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil Climbs to a 1-Month High as the U.S. and Iran Trade Attacks in the Strait of Hormuz. Here's What it Means for Energy Investors.",
+                "desc": "It may not be the big windfall that you'd expect for oil stocks.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8ebe3cf1a1ea504a6c1f4e1f0293763d01335c79-1200x640.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/14/oil-climbs-to-a-1-month-high-as-the-u-s-and-iran-trade-attacks-in-the-strait-of-hormuz-here-s-what-it-means-for-energy-investors/",
+                "source": "The Motley Fool",
+                "date": "2026-07-14T22:20:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Will Launch A Speaker As First",
+                "desc": "The AI companion will mark OpenAI’s first physical device.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a56b33e28c462d8cda985ae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/14/openais-first-consumer-device-will-be-a-smart-speaker-report-says/",
+                "source": "Forbes",
+                "date": "2026-07-14T22:17:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bus passenger berates and films driver over speed, drawing some criticism",
+                "desc": "A bus passenger expressed frustration over the driver's speed after claiming that the journey took longer than expected, causing him to be late for class.Sharing his experience in a TikTok video on July 6, the man films and questions the driver about the pace of the journey.\"Driving at your own pace? We have our timing to meet,\" says the passenger....",
+                "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/bus_driver_tower_transit.jpg?itok=pqRAOMjE",
+                "url": "https://www.asiaone.com/singapore/bus-passenger-film-driver-tower-transit-too-slow",
+                "source": "AsiaOne",
+                "date": "2026-07-14T22:15:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NCC Holds Stakeholders’ Consultation To Develop Framework For Data-Free Access To Educational Platforms",
+                "desc": "ABUJA - The Nigerian Communications Commission (NCC), on Tuesday, convened a Stakeholders’ Consultation on the development of a Framework for Zero-Rated Access to Educational Platforms and Content in Nigeria. The consultation brought together Mobile Network Operators, ALTON, education regulators, development partners, and civil society organisations to review and provide input on the proposed Framework. Speaking at...",
+                "image": "https://independent.ng/wp-content/uploads/2026/07/Maida-NCC.jpg",
+                "url": "https://independent.ng/ncc-holds-stakeholders-consultation-to-develop-framework-for-data-free-access-to-educational-platforms/",
+                "source": "Independent Newspaper Nigeria",
+                "date": "2026-07-14T22:11:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Atlas One Capital Corporation Announces Letter of Intent for Qualifying Transaction with Ramsden Metals Inc.",
+                "desc": "Toronto, Ontario, July 14, 2026 (GLOBE NEWSWIRE) -- Atlas One Capital Corporation (TSXV: ACAP.P) (the 'Corporation” or 'Atlas One”), a capital pool company listed on the TSX Venture Exchange ('TSXV”), has entered into a binding letter of intent with Ramsden Metals Inc. ('Ramsden Metals”) dated July 12, 2026 (the 'Letter of Intent”) in respect of a proposed business combination transaction pursuant to which Atlas One will acquire all of the issued and outstanding securities of Ramsden Metals (the 'Proposed Transaction”).  It is anticipated that the Proposed Transaction will constitute the qualifying transaction of Atlas One in accordance with Policy 2.4 - Capital Pool Companies of the Corporate Finance Manual (the 'CPC Policy”) of the TSXV. The resulting company following the completion of the Proposed Transaction is referred to as the 'Resulting Issuer”. All currency references used in this news release are in Canadian currency unless otherwise noted.",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/globenewswire/atlas-one-capital-corporation-announces-letter-of-intent-for-qualifying-transaction-with-ramsden-metals-inc/2384616",
+                "source": "The Manila Times",
+                "date": "2026-07-14T22:08:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI pushes back on Apple trade secret lawsuit",
+                "desc": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+                "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181367.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+                "source": "TechCrunch",
+                "date": "2026-07-14T22:07:42Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
                 "desc": "Canada advances a new 1 million bpd West Coast oil pipeline, with Ottawa, Alberta, and major oil sands producers agreeing on a framework that ties the project to emissions reductions and expanded exports to Asian markets.",
                 "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-14_qtajkfeb0v.jpg",
@@ -542,99 +632,99 @@
                 "source": "AFR",
                 "date": "2026-07-14T19:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Uber stands by sacking of driver who refused guide dog",
-                "desc": "Uber is fighting what it says is a “test case” challenging the limits of anti-discrimination laws and gig economy worker protections.",
-                "image": "https://static.ffx.io/images/$zoom_0.1985%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/a563f86a639900b354fadaa9a0d8756d03bd73db",
-                "url": "https://www.smh.com.au/business/companies/uber-stands-by-sacking-of-driver-who-refused-guide-dog-20260713-p60erz.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-14T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How far property prices fell in the past – and how this year compares",
-                "desc": "There have been 10 property downturns in a little over four decades, and this one may have only just begun.",
-                "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/fcfad6e13cd471682bd8a4b558530578a09b99e9",
-                "url": "https://www.smh.com.au/property/news/how-far-property-prices-fell-in-the-past-and-how-this-year-compares-20260714-p60f2h.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-14T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cybersecurity stocks surge thanks to IBM, and Nvidia climbs on more good China news",
-                "desc": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108331511-1783437539031-gettyimages-2285064045-anotherday237785170_duaklbbg.jpeg?v=1783437559&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-surge-thanks-to-ibm-and-nvidia-climbs-on-more-good-china-news.html",
-                "source": "CNBC",
-                "date": "2026-07-14T18:49:06Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "EU exempts Apple Watch from battery rule",
-                "desc": "The EU has walked back its rules that would require certain devices to have \"easily removable and replaceable\" batteries. Amongst those exceptions are the Apple Watch, and AirPods.",
-                "image": "https://photos5.appleinsider.com/gallery/68247-143875-Apple-Watch-Ultra-lede-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law",
-                "source": "AppleInsider",
-                "date": "2026-07-14T18:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lucid Motors denies report it's considering bankruptcy",
-                "desc": "The company said the \"rumors are completely false\" after its stock sank more than 50% on a report that it was weighing the option.",
-                "image": "https://techcrunch.com/wp-content/uploads/2024/12/lucid-gravity-forest.jpg?resize=1200,711",
-                "url": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
-                "source": "TechCrunch",
-                "date": "2026-07-14T18:47:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Banks Had a Blockbuster Quarter, but CEOs Said It's Not the New Normal",
-                "desc": "Five of Wall Street's biggest banks reported knockout earnings, but executives said changes to AI financing and geopolitics could cool the momentum.",
-                "image": "https://i.insider.com/6a567d6e81137eabe596dc47?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/wall-street-earnings-jpm-citi-goldman-bofa-wells-markets-outlook-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-14T18:46:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Batteries 'cheaper' than gas plants as data centres fuel turbine costs",
-                "desc": "Falling battery costs and a data centre-fuelled dash for gas have overturned decades of accepted wisdom: gas is no longer the cheapest way to meet peak power demand.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/beb8ad9db6345c4a08b8fd34dd5049db?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-15/csiro-says-batteries-cheaper-than-gas-as-ai-drives-turbine-costs/106914550",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-14T18:40:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cyber stocks rally on AI spending change comments from IBM's Krishna",
-                "desc": "IBM CEO Arvind Krishna told CNBC's Sara Eisen that some major deals were put on hold toward the end of the quarter as businesses rethink spending.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108334858-1784049472784-Okta_Crowdstrike.jpg?v=1784049568&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
-                "source": "CNBC",
-                "date": "2026-07-14T18:39:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google faces another AI training lawsuit from major publishers",
-                "desc": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-                "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-                "source": "TechCrunch",
-                "date": "2026-07-14T18:33:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Emma Lewisham luxury skincare brand gets Nobel scientist’s tick of approval",
-                "desc": "Emma Lewisham is packing her bags and joining the great Kiwi exodus to London. The luxury skincare founder isn’t giving up on New Zealand, she’s jetting...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/DV43ELNSH5GMZJ44LHY5GF5RYI.jpg?auth=6a05e033453c006ab75b34d05750c123a286c212880969bce717a7e83b970830&width=1200&height=675&quality=70&smart=true",
-                "url": "https://www.nzherald.co.nz/business/companies/retail/emma-lewisham-gets-tick-of-approval-from-nobel-scientist-for-her-luxury-skincare-brand/66BFMWUAY5F6HN4NC6BJ3OCNAE/",
-                "source": "NZ Herald",
-                "date": "2026-07-14T18:30:30Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Google offers open Pixel Care+ enrollment for Pixel 9 and 10",
+                "desc": "Google today announced a limited-time Pixel Care+ open enrollment period for existing Pixel 9 and 10 owners.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-close-up-G-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/14/pixel-care-open-enrollment/",
+                "source": "9to5Google",
+                "date": "2026-07-14T22:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Architect’s Chair competition: 5th edition reveals winning designs",
+                "desc": "Bustler is all about architecture and architecture-related competitions and events.",
+                "image": "https://archinect.gumlet.io/uploads/r5/r5fg2173yoslzwkw.jpg?fit=crop&auto=compress%2Cformat&w=1200",
+                "url": "https://bustler.net/news/11074/the-architect-s-chair-competition-5th-edition-reveals-winning-designs",
+                "source": "Bustler: Architecture",
+                "date": "2026-07-14T22:35:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Android Studio Quail 2 is Now Available in Stable",
+                "desc": "Google announced today that the latest release of its Android developer IDE, Android Studio Quail 2, is now available.",
+                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/07/android-studio-quail-2.jpg",
+                "url": "https://www.thurrott.com/dev/338933/android-studio-quail-2-is-now-available-in-stable",
+                "source": "Thurrott.com",
+                "date": "2026-07-14T22:34:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dead Space Creator Glen Schofield Announces Retirement",
+                "desc": "Dead Space creator Glen Schofield has announced his retirement from the gaming industry.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/14/glen-schofield-1784067827673.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/dead-space-creator-glen-schofield-announces-retirement-from-gaming-industry",
+                "source": "IGN",
+                "date": "2026-07-14T22:31:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hands-on review: JBL LIVE 780Nc noise-cancelling headphones",
+                "desc": "Priced at NZD $299, the over-ear set promises 80 hours of battery life and clearer audio for listeners wanting a better upgrade.",
+                "image": "https://futurefive.com.au/uploads/story/2026/07/14/compatible_2644.jpg",
+                "url": "https://futurefive.com.au/story/hands-on-review-jbl-live-780nc-noise-cancelling-headphones",
+                "source": "futurefive.com.au",
+                "date": "2026-07-14T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Rust-based RAT named LabubaRAT impersonates NVIDIA software",
+                "desc": "LabubaRAT operates by impersonating NVIDIA's container runtime toolkit, using an executable named \"nvidia-sysruntime.exe.\"",
+                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2024/06/061224_malware.jpg",
+                "url": "https://www.scworld.com/brief/new-rust-based-rat-named-labubarat-impersonates-nvidia-software",
+                "source": "SC Media",
+                "date": "2026-07-14T22:23:14Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "OpenAI's first hardware device is reportedly a screenless speaker that can move",
+                "desc": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+                "source": "TechCrunch",
+                "date": "2026-07-14T22:22:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mystery buyer pays record price at T-rex auction",
+                "desc": "A T-rex skeleton nicknamed Gus has sold for a record amount through Sotheby’s at an auction in New York.",
+                "image": "https://static.ffx.io/images/$zoom_0.4238%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/4d9903ca42363429b56cb6dbbc9ce393dfdec6ba133b752227cec773dc599460",
+                "url": "https://www.nine.com.au/world-news/usa/t-rex-skeleton-gus-sells-for-record-amount-at-us-action-sothebys-20260715-p60fde.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-14T22:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+                "desc": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-1152x648.jpg",
+                "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+                "source": "Ars Technica",
+                "date": "2026-07-14T22:20:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bevel hits the Fitbit.",
+                "desc": "The “Whoop, but for the Apple Watch” app now integrates with Google Health. If you didn’t think the Fitbit Air was a Whoop competitor before, it sure might be now. Especially considering Whoop is suing them.\n[Media: https://youtu.be/IsAHL-cCysE?is=Krhf2V4uWRTxD4FD]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+                "url": "https://www.theverge.com/tech/965713/bevel-hits-the-fitbit",
+                "source": "The Verge",
+                "date": "2026-07-14T22:20:18Z",
+                "priority": "MAJOR_ALERT"
+            },
             {
                 "title": "AI Tackles Cocktail Party Problem in Hearing Aids",
                 "desc": "How do we recognize what one person is saying when others are speaking at the same time? This simple, yet peculiar question forms the basis of the",
@@ -1174,99 +1264,99 @@
                 "source": "PCMag Australia",
                 "date": "2026-07-14T18:54:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Back to School 2026 隨時開跑！免費 AirPods / Apple Pencil Pro + UNiDAYS 驗證 專家爆料本周一定有",
-                "desc": "Apple Back to School 2026（BTS）開學優惠預計本週正式上線。根據 Bloomberg 記者 Mark Gurman 於 7 月 12 日在 X 平台發帖確認，Apple 零售店已開始佈置 BTS 宣傳物料，並重組陳列專設教育桌展示 Mac 及 iPad 系列，顯示推廣活動即將啟動。今年活動延遲的背景是 Apple 於 6 月 25 日因 DRAM 記憶體短缺而上調全線 Mac 及 iPad 售價，幅度達 6% 至 13%，BTS 贈品優惠因此備受關注。合資格用戶包括香港認可大專院校學生、教職員及家長，購買指定 Mac 可免費獲贈 AirPods 4 / AirPods Pro 3，購買 iPad Pro / iPad Air 可獲贈 Apple Pencil Pro，堪稱一年之中入手 Apple 裝備的最佳時機。",
-                "image": "https://resource02.ulifestyle.com.hk/ulcms/content/article/ogimage/2026/07/20260715025022_6bb7b937658a7943bd64ad2ae0a0a71c66165175.jpg",
-                "url": "https://ezone.hk/article/20102378/apple-back-to-school-%E9%9A%A8%E6%99%82%E9%96%8B%E8%B7%91-%E5%85%8D%E8%B2%BB-airpods-apple-pencil-pro-unidays-%E9%A9%97%E8%AD%89-%E5%B0%88%E5%AE%B6%E7%88%86%E6%96%99%E6%9C%AC%E5%91%A8%E4%B8%80%E5%AE%9A%E6%9C%89",
-                "source": "ezone.hk",
-                "date": "2026-07-14T18:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jackery Red Cross collab: three HomePower models go on sale to the public in Sept.",
-                "desc": "The new Jackery American Red Cross collab has three options for portable power stations",
-                "image": "https://helios-i.mashable.com/imagery/articles/03HkVPxSdLfI4ydttZHinvL/hero-image.fill.size_1200x675.v1784042876.png",
-                "url": "https://mashable.com/tech/jackery-american-red-cross",
-                "source": "Mashable",
-                "date": "2026-07-14T18:50:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU exempts Apple Watch from battery rule",
-                "desc": "The EU has walked back its rules that would require certain devices to have \"easily removable and replaceable\" batteries. Amongst those exceptions are the Apple Watch, and AirPods.",
-                "image": "https://photos5.appleinsider.com/gallery/68247-143875-Apple-Watch-Ultra-lede-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law",
-                "source": "AppleInsider",
-                "date": "2026-07-14T18:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Acer releases new gaming laptop globally with 96 GB RAM and 4K Mini LED display",
-                "desc": "Acer has released a new gaming laptop globally. Equipped with an Intel Core Ultra 9 290HX Plus processor and an RTX 5090 GPU, the new Predator Helios 18 AI also boasts up to 96 GB of RAM from the factory and a 4K Mini LED display.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/acer-predator-helios-18-rtx-5090-release-kv.jpg",
-                "url": "https://www.notebookcheck.net/Acer-releases-new-gaming-laptop-globally-with-96-GB-RAM-and-4K-Mini-LED-display.1342481.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-14T18:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NVIDIA RTX 5000 GPUs get hotspot temperature readings in new version of HWMonitor to help diagnose cooling-related flaws",
-                "desc": "NVIDIA blocked access to hotspot readings when the Blackwell range emerged, but now these sensors can be accessed again - although it isn't yet clear why.",
-                "image": "https://static.tweaktown.com/news/1/1/112622_01_nvidia-rtx-50-hotspot-sensor-now-works-in-hwmonitor_full.jpg",
-                "url": "https://www.tweaktown.com/news/112622/nvidia-rtx-5000-gpus-get-hotspot-temperature-readings-in-new-version-of-hwmonitor-to-help-diagnose-cooling-related-flaws/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-14T18:45:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The biggest change rumored for the Samsung Galaxy S27 Ultra may not be happening",
-                "desc": "Samsung is apparently still deciding what to do. Back in April a rumor from Korea claimed that Samsung was redesigning the rears of the entire Galaxy S27...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-s27-ultra-one-less-camera/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/the_biggest_change_rumored_for_the_samsung_galaxy_s27_ultra_may_not_be_happening-news-73722.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-14T18:40:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Battlefield 6 Season 4 Naval Official Gameplay Trailer",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/nl/Battlefield-6-Season-4-Naval-Official-Gameplay-Trailer",
-                "source": "Games Press",
-                "date": "2026-07-14T18:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Based RPG Shadow of the Road Shows off Richly Atmospheric World in New Environmental Trailer\"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/nl/Turn-Based-RPG-Shadow-of-the-Road-Shows-off-Richly-Atmospheric-World-i",
-                "source": "Games Press",
-                "date": "2026-07-14T18:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SDA Deployments To Resume, Next SpaceX Launch Set For July 16",
-                "desc": "The Space Development Agency is set to restart deployments of its proliferated satellite constellation.",
-                "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
-                "url": "https://aviationweek.com/space/satellites/sda-deployments-resume-next-spacex-launch-set-july-16",
-                "source": "Aviation Week",
-                "date": "2026-07-14T18:33:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Level Up Your Headsets, Mice and More With Up to 50% Off Logitech Gaming Gear",
-                "desc": "There are tons of deals on gear for PC and console gamers, but some are already selling out, so act fast.",
-                "image": "https://www.cnet.com/a/img/resize/86bfcd5c4d5d1a4d545098214343897ba5186ffc/hub/2026/07/14/627ab523-8a61-4f50-bd3d-b372f1c73ec0/logitech-gaming-sale.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/woot-logitech-gaming-sale-2026-07-14/",
-                "source": "CNET",
-                "date": "2026-07-14T18:31:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Cops by day, criminals by night? 3 Malaysia policemen arrested for allegedly robbing foreigners",
+                "desc": "Seeing police officers ought to bring relief, but this was not the case in Kedah recently.State police chief Adzli Abu Shah informed local media on Tuesday (July 14) that three of his officers were among six people arrested for their alleged involvement in separate robberies on June 27 and July 1.The first incident happened at about 12.20am on June 27...",
+                "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/kedah-police-officers-robbed-foreign-nationals.png?itok=AbgRwk0B",
+                "url": "https://www.asiaone.com/malaysia/kedah-police-officers-rob-foreign-nationals",
+                "source": "AsiaOne",
+                "date": "2026-07-14T22:30:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Volcanic activity worldwide 14 Jul 2026: Santiaguito volcano, Fuego, Popocatépetl, Semeru, Sheveluc...",
+                "desc": "Volcanic activity world-wide",
+                "image": "https://volcanodiscovery.de/uploads/pics/2026/07/active-volcano-map2-2026-07-14.jpg",
+                "url": "https://www.volcanodiscovery.com/es/volcano-activity/news/319830/Volcanic-activity-worldwide-14-Jul-2026-Santiaguito-volcano-Fuego-Popocatepetl-Semeru-Sheveluc.html",
+                "source": "Volcano Discovery",
+                "date": "2026-07-14T22:29:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran appears to be preparing a major test of America’s blockade",
+                "desc": "Just before the United States reimposed its naval blockade of Iranian ports Tuesday afternoon, Iran appeared to be readying blockade-busting vessels in the Persian Gulf that could attempt to evade US military forces.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26194339749499-20260714201341306.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/14/business/iran-blockade-ships",
+                "source": "CNN",
+                "date": "2026-07-14T22:26:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US restores blockade on Iran, Trump drops 20% fee threat",
+                "desc": "Another wave of US strikes on Iran and Iranian attacks on shipping and American allies left an interim peace deal in tatters.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-strike-is-carried-out-by-us-forces-in-iran-QYIVOJYPVVAI5IIS4EWWDFVLWA.png?auth=92c609565ece4d22e30dd1af57100ecea82f66452e9e07718f76d4e5fecb2687&quality=70&width=600&height=315&focal=870%2C385",
+                "url": "https://www.1news.co.nz/2026/07/15/us-restores-blockade-on-iran-trump-drops-20-fee-threat/",
+                "source": "1News",
+                "date": "2026-07-14T22:23:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AOC calls out Susan Collins’ claims about ICE after deadly Maine shooting of innocent man: ‘Wrote the blank check’",
+                "desc": "The shooting in Maine has created a political firestorm in Maine for the sole Republican senator from New England",
+                "image": "https://static.independent.co.uk/2026/07/14/20/2026-07-14T000521Z_1286896967_RC2BDMAF0YDI_RTRMADP_3_USA-DAYLIGHT-CONGRESS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/aoc-susan-collins-ice-maine-b3014891.html",
+                "source": "The Independent",
+                "date": "2026-07-14T22:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Staines' killer Dara Singh to be released soon?",
+                "desc": "India News: BHUBANESWAR: Supreme Court on Tuesday gave Odisha govt until Aug 19 to decide on the remission plea of Dara Singh, jailed since 2000 for burning to de.",
+                "image": "https://static.toiimg.com/thumb/msid-132402875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/staines-killer-dara-singh-to-be-released-soon/articleshow/132402203.cms",
+                "source": "The Times of India",
+                "date": "2026-07-14T22:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From Wimbledon towels to Scotch: How India",
+                "desc": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b761/live/c7a2b980-7e80-11f1-926f-c90d1bcfbc84.jpg",
+                "url": "https://www.bbc.com/news/articles/c0kymrz0vkgo",
+                "source": "BBC",
+                "date": "2026-07-14T22:17:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Middle East allies rushing new pipelines, port to bypass Iran's grip on Strait of Hormuz",
+                "desc": "The conflict around the Strait of Hormuz has caused pipeline and port construction projects in the Gulf to accelerate, with some set to debut as soon as next year, minimizing Iran's leverage in the region.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/strait-hormuz-comp.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/14/world-news/middle-east-allies-rushing-new-pipelines-port-to-bypass-irans-grip-on-strait-of-hormuz/",
+                "source": "New York Post",
+                "date": "2026-07-14T22:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firm expands prosthetics training initiative to strengthen Africa's rehabilitation workforce",
+                "desc": "A prosthetics and orthotics company, IfeanHealth, has expanded its training initiative across Africa with the selection of scholars from Nigeria and Kenya for internship placements aimed at bridging the gap between academic learning and clinical practice.",
+                "image": "https://healthwise.punchng.com/wp-content/uploads/2026/07/Training.jpg",
+                "url": "https://healthwise.punchng.com/firm-expands-prosthetics-training-initiative-to-strengthen-africas-rehabilitation-workforce/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-14T22:11:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump retreat over Hormuz tolls suggests struggle to end Iran war",
+                "desc": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o",
+                "source": "BBC",
+                "date": "2026-07-14T22:09:37Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How Beijing’s islands of control are reshaping the South China Sea",
                 "desc": "Ten years after the Hague’s landmark tribunal ruling, Beijing’s island-building strategy has effectively eclipsed the 2016 decision, observers say.",
@@ -1806,98 +1896,8 @@
                 "source": "The Independent",
                 "date": "2026-07-14T18:40:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Somalia seeks to expand partnership with Brazil",
-                "desc": "Somalia's new ambassador to Brazil, Omar Mohamed, said on Tuesday (14) that he intends to expand trade and cooperation with Brazil.",
-                "image": "https://anba.com.br/wp-content/uploads/2026/07/somalia.jpeg",
-                "url": "https://anba.com.br/en/somalia-seeks-to-expand-partnership-with-brazil/",
-                "source": "Agência de Notícias Brasil-Árabe - ANBA",
-                "date": "2026-07-14T18:38:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa Just Transition Network: No New Coal Campaign",
-                "desc": "Africa Just Transition Network (AJTN) officially launched the NO NEW COAL AFRICA campaign on the opening day of the Niger Delta Climate...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-14-1746510.jpg",
-                "url": "https://www.businessghana.com/site/news/general/352080/Africa-Just-Transition-Network-No-New-Coal-Campaign",
-                "source": "BusinessGhana",
-                "date": "2026-07-14T18:36:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strong Decrease in Incidents of Piracy and Armed Robbery of Ships in Asia",
-                "desc": "The first six months of 2026 saw an overall strong decline in the number of reported incidents of piracy and armed robbery against shipping in Asia, r...",
-                "image": "https://maritime-executive.com/media/images/article/Photos/Ports/anchorage-singapore-strait.jpg",
-                "url": "https://maritime-executive.com/article/strong-decrease-in-incidents-of-piracy-and-armed-robbery-of-ships-in-asia",
-                "source": "The Maritime Executive",
-                "date": "2026-07-14T18:36:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Full List of African Countries Whose Citizens Can Enter Thailand With Visa",
-                "desc": "Thailand updated its visa-on-arrival policy for 2024, allowing Seychelles, Namibia, and Ethiopia from Africa. Eligible travellers enjoy a 15-day stay for 2,000 Baht.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/c5e0dc4793035ed1.jpeg?v=1",
-                "url": "https://yen.com.gh/world/asia/307903-full-list-african-countries-citizens-enter-thailand-visa-2026/",
-                "source": "Yen News",
-                "date": "2026-07-14T18:33:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-                "desc": "Donald Trump backs away from fee, says regional countries will instead invest in US in return for transit protection.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5674a98857-1784050857.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation",
-                "source": "Al Jazeera",
-                "date": "2026-07-14T18:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran’s Former Leader Denies Times Report",
-                "desc": "The Times reported that Israel had planned to reinstall Mahmoud Ahmadinejad as Iran’s leader after the war.",
-                "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-iran-denial-bmzk/14int-iran-denial-bmzk-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/14/world/middleeast/mahmoud-ahmadinejad-iran-israeli-asset.html",
-                "source": "The New York Times",
-                "date": "2026-07-14T18:30:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Lindsey Graham’s keen ability to read the moment propelled him to political relevance for 3 decades",
-                "desc": "Sen. Graham repeatedly moved in the direction South Carolina and Republican politics were headed rather than where they had been.",
-                "image": "https://images.theconversation.com/files/747814/original/file-20260714-85-m2klip.jpg?ixlib=rb-4.1.0&rect=0%2C233%2C3999%2C1999&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/how-lindsey-grahams-keen-ability-to-read-the-moment-propelled-him-to-political-relevance-for-3-decades-287471",
-                "source": "The Conversation",
-                "date": "2026-07-14T18:30:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Explosive diarrhea' outbreak source remains a mystery",
-                "desc": "Experts say there were likely multiple points of contamination in the US food supply - complicating investigations.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/630f/live/5d821940-7f04-11f1-bf9d-c5939b8ebb1d.jpg",
-                "url": "https://www.bbc.com/news/articles/cm2jl23k2l2o",
-                "source": "BBC",
-                "date": "2026-07-14T18:28:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Korean Peninsula Update, July 14, 2026",
-                "desc": "Ukrainian military intelligence confirmed North Korea’s role in providing Russia with artillery for the war in Ukraine.",
-                "image": "https://understandingwar.org/wp-content/uploads/2026/01/Website-Featured-Image-4-scaled.webp",
-                "url": "https://understandingwar.org/research/china-taiwan/korean-peninsula-update-july-14-2026/",
-                "source": "Institute for the Study of War",
-                "date": "2026-07-14T18:27:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African Union Commission Chair begins official visit to Mali to strengthen dialogue with transitional authorities",
-                "desc": "Bamako – Mali’s Minister of Foreign Affairs and International Cooperation, Abdoulaye Diop, welcomed African Union Commission Chairman Moussa Faki Mahamat upon h",
-                "image": "https://libyaupdate.com/wp-content/uploads/2026/07/361585-e1784051890695.jpg",
-                "url": "https://libyaupdate.com/african-union-commission-chair-begins-official-visit-to-mali-to-strengthen-dialogue-with-transitional-authorities/",
-                "source": "libyaupdate.com",
-                "date": "2026-07-14T17:58:30Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T10:00:26.092371Z"
+    "lastGlobalSync": "2026-07-15T10:40:20.065758Z"
 }
