@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "Frontier is ending one of its most unpopular onboard policies",
+                "desc": "Frontier Airlines will add high-speed Starlink Wi-Fi next year, marking a major shift for the ultra-low-cost carrier.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/03/USAT/90391117007-usatsi-27578396.jpg?crop=3318,1867,x0,y210&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/travel/airline-news/2026/07/14/frontier-airlines-wifi-starlink/90901503007/",
+                "source": "USA Today",
+                "date": "2026-07-14T13:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta's Noninvasive Brain-Computer Interface Brain2Qwerty Achieves 61% Accuracy",
+                "desc": "Meta recently open-sourced Brain2Qwerty v2, a noninvasive Brain–Computer Interface (BCI) that can decode sentences from thoughts using electroencephalography (EEG) or magnetoencephalography (MEG) sign",
+                "image": "https://res.infoq.com/news/2026/07/meta-brain-interface/en/headerimage/generatedHeaderImage-1783863685064.jpg",
+                "url": "https://www.infoq.com/news/2026/07/meta-brain-interface/",
+                "source": "infoq.com",
+                "date": "2026-07-14T13:00:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exploring Spotify's audience in Australia, Singapore, and Thailand",
+                "desc": "YouGov's Laura Robbie explores Spotify users in APAC following the brand's 20th anniversary.",
+                "image": "https://ygo-assets-websites-editorial-emea.yougov.net/original_images/spotify-cropped.jpg",
+                "url": "https://yougov.com/articles/55172-exploring-spotifys-audience-in-australia-singapore-and-thailand",
+                "source": "YouGov",
+                "date": "2026-07-14T13:00:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PHL stocks slip further on fresh Mideast concerns",
+                "desc": "PHILIPPINE SHARES slipped further on Tuesday as investor sentiment soured on worsening tensions in the Middle East, which have led to higher global oil prices. The Philippine Stock Exchange index (PSEi) fell by 0.15% or 9.70 points to close at 6,256.02, while the broader all shares index went down by 0.09% or 3.29 points to […]",
+                "image": "https://bworldonline.com/wp-content/uploads/2024/06/PSE-trading-floor.jpg",
+                "url": "https://bworldonline.com/editors-picks/2026/07/14/763361/phl-stocks-slip-further-on-fresh-mideast-concerns/",
+                "source": "BusinessWorld Online",
+                "date": "2026-07-14T13:00:36Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Frontier Airlines to debut Wi-Fi in 2027 with SpaceX's Starlink",
                 "desc": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108077723-1734546997432-gettyimages-2185023724-economou-notitle241112_npv8v.jpeg?v=1734547126&w=1920&h=1080",
@@ -596,45 +632,27 @@
                 "source": "The Conversation",
                 "date": "2026-07-14T00:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Albury Council: Councillors clash over massive debt exposure",
-                "desc": "Albury councillors fiercely debate the city's huge deficit, with warnings of \"hell to pay\" and service cuts amid a proposed special rates variation.",
-                "image": "https://www.bordermail.com.au/images/transform/v1/crop/frm/XJLgPnEdnKaFugZzKyL6Sw/c4e683fd-d074-4186-97ed-c32b4bfd917e.jpg/r0_245_4991_2865_w1200_h630_fmax.jpg",
-                "url": "https://www.bordermail.com.au/story/9309911/albury-council-councillors-clash-over-massive-debt-exposure/",
-                "source": "The Border Mail",
-                "date": "2026-07-13T23:57:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "e.l.f. Cosmetics & Viral Nation’s influencer marketing & brand lift",
-                "desc": "Google’s Official Digital Marketing Publication. Discover how e.l.f. Cosmetics & Viral Nation used influencer marketing and social strategy to drive brand lift.",
-                "image": "https://www.gstatic.com/marketing-cms/assets/images/ads/9f/7b/a69516964990a309713cbc80b4d4/twg-us-2805-how-e-l-f-beauty-turns-community-trust-into-real-growth-diseno-thumbnail-1600x900.webp=n-w1244-h700-fcrop64=1,00000000ffffffff-rw",
-                "url": "https://business.google.com/en-all/think/search-and-video/elf-cosmetics-influencer-marketing-brand-lift/",
-                "source": "Google Business Profile",
-                "date": "2026-07-13T23:51:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan National Council Chief Revises Draft of New Benefit Program",
-                "desc": "Tokyo, July 14 (Jiji Press)--The head of Japan's suprapartisan National Council on Social Security on Monday p…",
-                "image": "https://www.nippon.com/en/ncommon/contents/news/3038878/3038878.jpg",
-                "url": "https://www.nippon.com/en/news/yjj2026071300748/japan-national-council-chief-revises-draft-of-new-benefit-program.html",
-                "source": "nippon.com",
-                "date": "2026-07-13T23:49:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Autodesk 2026 AI Jobs Report: AI hiring in Design and Make more than doubles as students face a new skills gap",
-                "desc": "Autodesk's 2026 AI Jobs Report finds AI hiring rising while students and professionals report an AI confidence gap.",
-                "image": "https://adsknews.autodesk.com/app/uploads/2026/06/AI-Jobs-Report_Cover.png",
-                "url": "https://adsknews.autodesk.com/en/news/2026-ai-jobs-report/",
-                "source": "Autodesk News",
-                "date": "2026-07-13T23:49:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Spin the Wheel to Success: Roulette Dungeon Just Released on Steam Today!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Spin-the-Wheel-to-Success-Roulette-Dungeon-Just-Released-on-Steam-Toda",
+                "source": "Games Press",
+                "date": "2026-07-14T13:01:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Fellows' Ship - Expeditions: Samurai Trailer Reveals Companions and Release Date",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/141237-66196260/unnamed(22).jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=a0378ca6bb4cb4e72d77b8fba7403b2a0de355dd26e7269039983d3366df1c63",
+                "url": "https://www.gamespress.com/en-US/The-Fellows-Ship-Expeditions-Samurai-Trailer-Reveals-Companions-and-Re",
+                "source": "Games Press",
+                "date": "2026-07-14T13:01:37Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Enjoy PDF Tools for Only $24 Without Another Monthly Bill With This Code",
                 "desc": "AcePDF is a desktop tool for conversions, editing, and document management, all in one place, with no recurring fees. And right now, a lifetime license is 76% off with code EXTRA20.",
@@ -1245,24 +1263,6 @@
                 "url": "https://mashable.com/tech/apple-ios-ipados-watchos-macos-27-public-beta-how-to-download",
                 "source": "Mashable",
                 "date": "2026-07-13T22:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ThreatLocker CEO: AI vs. AI in cybersecurity is ‘complete garbage’",
-                "desc": "As outlined in CRN, ThreatLocker CEO Danny Jenkins has strongly refuted the notion that artificial intelligence (AI) can effectively defend against AI-powered cyberattacks, calling the concept \"complete garbage.\"",
-                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2026/06/AdobeStock_712166448-scaled.jpeg",
-                "url": "https://www.scworld.com/brief/threatlocker-ceo-ai-vs-ai-in-cybersecurity-is-complete-garbage",
-                "source": "SC Media",
-                "date": "2026-07-13T22:36:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy S26 Ultra users are seeing red over screen issue",
-                "desc": "Privacy Display might be to blame",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-finder-search.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-users-are-seeing-red-over-screen-issue/",
-                "source": "Android Police",
-                "date": "2026-07-13T22:30:28Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1899,5 +1899,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T01:00:20.926868Z"
+    "lastGlobalSync": "2026-07-15T01:01:47.212243Z"
 }
