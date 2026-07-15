@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Wife of man sucked out Ryanair window describes 'chaos'",
+                "desc": "The wife of a passenger who was seriously injured last Friday during a Ryanair flight has described how \"chaos broke out\" during the incident.",
+                "image": "https://www.rte.ie/images/0024ae3f-1600.jpg",
+                "url": "https://www.rte.ie/news/europe/2026/0714/1583341-ryanair-flight-incident/",
+                "source": "RTE.ie",
+                "date": "2026-07-14T14:38:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian Youth: \"Generation of Jokers, Not Builders\"",
+                "desc": "Flutterwave co-founder Iyinoluwa Aboyeji criticises Nigerian youth, calling them a \"generation of jokers\" focused on performance over building lasting inst",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/images-9_1784039668.webp",
+                "url": "https://punchng.com/video-were-a-generation-of-jokers-not-builders-flutterwave-co-founder/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-14T14:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Most B.C. residents have spent over half their paycheque before it arrives",
+                "desc": "New data suggests that most B.C. residents have already spent more than half of their paycheque before they get it.",
+                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/bc-paycheque.jpg?format=auto",
+                "url": "https://dailyhive.com/vancouver/bc-residents-paycheque",
+                "source": "Daily Hive",
+                "date": "2026-07-14T14:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hynix Isn't Selling Shares to Cash Out. It's Funding a $26.5 Billion Factory Bet.",
+                "desc": "The opportunity behind these recently raised funds is nothing less than amazing.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878409%2Fsemiconductor-manufacturing.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/14/hynix-selling-shares-cash-out-fund-factory/",
+                "source": "The Motley Fool",
+                "date": "2026-07-14T14:33:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CRA, CDP, Komeito Eye Labor-Centered Platform for Merger",
+                "desc": "Tokyo, July 14 (Jiji Press)--The Centrist Reform Alliance, the Constitutional Democratic Party of Japan, and K…",
+                "image": "https://www.nippon.com/en/ncommon/contents/news/3039412/3039412.jpg",
+                "url": "https://www.nippon.com/en/news/yjj2026071401022/",
+                "source": "nippon.com",
+                "date": "2026-07-14T14:33:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warsh says Fed policymakers have 'no tolerance' for elevated inflation",
+                "desc": "Federal Reserve Chair Kevin Warsh told House lawmakers that the central bank's policymakers have \"no tolerance\" for elevated inflation as consumer price growth remains stubbornly high.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/kevin-warsh-confirmation-hearing-01.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/economy/fed-chair-kevin-warsh-says-central-bank-has-no-tolerance-elevated-inflation",
+                "source": "Fox Business",
+                "date": "2026-07-14T14:31:51Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "BYD Cars Philippines Opens Reservations for New Atto 2 and Seal 5 Ahead of July 28 Launch",
+                "desc": "BYD Cars Philippines, a subsidiary of ACMobility, is set to welcome two exciting additions to its growing New…",
+                "image": "https://www.megabites.com.ph/wp-content/uploads/2026/07/DSCF7191.webp",
+                "url": "https://www.megabites.com.ph/byd-cars-philippines-opens-reservations-for-new-atto-2-and-seal-5-ahead-of-july-28-launch/",
+                "source": "megabites.com.ph",
+                "date": "2026-07-14T14:31:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "100,000 increase in withdrawn products - CCPC",
+                "desc": "More than 276,000 unsafe or non-compliant products were removed or prevented from reaching the Irish market in 2025 by the Competition and Consumer Protection Commission (CCPC).",
+                "image": "https://www.rte.ie/images/001fb7e3-1600.jpg",
+                "url": "https://www.rte.ie/news/business/2026/0714/1583340-ccpc-annual-report-2025/",
+                "source": "RTE.ie",
+                "date": "2026-07-14T14:31:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Breaking: Demis Hassabis endorses preflight safety testing for AI",
+                "desc": "Good news, for once.",
+                "image": "https://substackcdn.com/image/fetch/$s_!2Bgz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feeb2ccf4-f8f3-4737-b99c-b51e701730d7_1319x1314.png",
+                "url": "https://garymarcus.substack.com/p/breaking-demis-hassabis-endorses",
+                "source": "Marcus on AI | Substack",
+                "date": "2026-07-14T14:30:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX Starship Flight 13 launch updates: Super Heavy booster rolled back for final checkouts",
+                "desc": "SpaceX is targeting no earlier than July 16 for the next launch of its massive Starship rocket. Flight 13 will be the second launch of the vehicle's Version 3 configuration and will deploy the first e",
+                "image": "https://cdn.mos.cms.futurecdn.net/nuZjBPHeXgE9FxV5LBfDt5-1920-80.jpg",
+                "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-14-2026",
+                "source": "Space",
+                "date": "2026-07-14T14:30:17Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Louis Vuitton takes China’s trademark regulator to court as legal drive continues",
                 "desc": "The French luxury brand is suing the government body as it faces backlash over a trademark dispute with a Chinese milk tea chain.",
                 "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/14/a7bfe09e-91ae-41d1-a5b5-9db4c5d66ffb_fcf70128.jpg?itok=a1bLkoz0&v=1784042057",
@@ -542,99 +632,99 @@
                 "source": "ABC News & Headlines – Australian Broadcasting Corporation",
                 "date": "2026-07-14T01:29:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Low CO2 Levels Boost Biodegradable Plastic Output",
-                "desc": "In an innovative gas fermentation process, reducing the concentration of carbon dioxide was found to significantly improve microbial production of the",
-                "image": "https://www.isct.ac.jp/cms/contents/data/1/4352/component/file/62af33e849c3e431852cecbfe068ccf2.webp",
-                "url": "https://www.miragenews.com/low-co2-levels-boost-biodegradable-plastic-1709451/",
-                "source": "Mirage News",
-                "date": "2026-07-14T01:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Report finds gaps in Big Tech's measures to tackle online child abuse in Australia",
-                "desc": "MLex Summary: Significant gaps remain in how major online platforms, including Apple, Google, Meta Platforms, Snap, Discord, Microsoft and WhatsApp, are tackling child sexual exploitation and abuse, particularly sexual extortion, a report has found. In a statement on Tuesday, Australia's eSafety Commissioner said a new transparency report has found serious gaps in platforms’ use of available technologies such as language analysis that can identify well-known coercion scripts used by sexual-extortion offenders. The statement added that between July 1 and Dec. 31, 2025, the regulator received more than 2,000 complaints about sexual extortion, with young men aged 18 to 24 the most affected.",
-                "image": "https://www.mlex.com/images/.png",
-                "url": "https://www.mlex.com/mlex/articles/2500587/report-finds-gaps-in-big-tech-s-measures-to-tackle-online-child-abuse-in-australia",
-                "source": "MLex",
-                "date": "2026-07-14T01:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From overseas Filipinos to global enterprises, a legacy of connection",
-                "desc": "As Manuel V. Pangilinan turns 80, his vision continues to guide PLDT Global in connecting overseas Filipinos, empowering businesses, and strengthening the Philippines' digital future.",
-                "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Maricel_temp/advert/1-2026-July-13-PLDT%20Global/MVP%20630.jpg",
-                "url": "https://philstarlife.com/news-and-views/329507-overseas-filipinos-global-enterprises-legacy-connection",
-                "source": "Philstar Life",
-                "date": "2026-07-14T01:26:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firms quicker to raise prices than cut them during high inflation, RBNZ research finds",
-                "desc": "New Reserve Bank research shows Kiwi firms have become more likely to increase prices during periods of high inflation and are less likely to cut them when costs fall.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--JDXdtR3l--/t_tohu-badge-facebook/f_auto/q_auto/4L901LR_IMG_3452_png",
-                "url": "https://www.rnz.co.nz/news/business/716203/firms-quicker-to-raise-prices-than-cut-them-during-high-inflation-rbnz-research-finds",
-                "source": "RNZ",
-                "date": "2026-07-14T01:26:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India's trade deficit hits 5-month high as imports surge",
-                "desc": "India Business News: NEW DELHI: India's trade deficit widened to a five-month high of $30.4 billion as imports jumped 31% - the fastest pace of expansion in nearly four ye.",
-                "image": "https://static.toiimg.com/thumb/msid-132378676,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/business/india-business/indias-trade-deficit-hits-5-month-high-as-imports-surge/articleshow/132378672.cms",
-                "source": "The Times of India",
-                "date": "2026-07-14T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Acer as the Philippines' #1 laptop brand in 2026",
-                "desc": "Acer continues its two-decade streak as the Philippines' No. 1 laptop brand.",
-                "image": "https://cf-images.assettype.com/sunstar%2F2026-07-13%2F12huuoo5%2FAcer-Market-Leadership1.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.sunstar.com.ph/cebu/acer-extends-20-year-leadership-as-the-philippines-1-laptop-brand-in-2026",
-                "source": "SunStar Publishing Inc.",
-                "date": "2026-07-14T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI, once relegated to helping hackers with certain tasks, can now power every stage of a cyberattack",
-                "desc": "Researchers determined that AI was used in steps across entire cyber operations to identify security flaws, generate commands and carry out parts of int...",
-                "image": "https://cdn.nextgov.com/media/img/cd/2026/07/13/GettyImages_1599973349/open-graph.jpg",
-                "url": "https://www.nextgov.com/cybersecurity/2026/07/ai-once-relegated-helping-hackers-certain-tasks-can-now-power-every-stage-cyberattack/414744/",
-                "source": "Nextgov/FCW",
-                "date": "2026-07-14T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI, once relegated to helping hackers with certain tasks, can now power every stage of a cyberattack",
-                "desc": "Researchers determined that AI was used in steps across entire cyber operations to identify security flaws, generate commands and carry out parts of int...",
-                "image": "https://cdn.nextgov.com/media/img/cd/2026/07/13/GettyImages_1599973349/open-graph.jpg",
-                "url": "https://www.nextgov.com/cybersecurity/2026/07/ai-once-relegated-helping-hackers-certain-tasks-can-now-power-every-stage-cyberattack/414744/?oref=ng-homepage-river",
-                "source": "Nextgov/FCW",
-                "date": "2026-07-14T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EPFO wage ceiling hike to Rs 25,000 put on hold for now",
-                "desc": "A senior official said the government doesn’t want to put extra financial burden on companies right now and that the wage ceiling will be raised only after proper stakeholder consultation.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2023/02/EPFO.png",
-                "url": "https://www.moneycontrol.com/news/business/epfo-wage-ceiling-hike-to-rs-25-000-put-on-hold-for-now-13972988.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-14T00:56:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RBNZ will respond if inflation pressures from Middle East conflict prove ‘more persistent’",
-                "desc": "RBNZ chief economist Paul Conway says inflation expectations and price-setting behaviour are ‘critical’ in determining appropriate monetary policy stance",
-                "image": "https://www.interest.co.nz/sites/default/files/2026-02/Paul%20Conway_1.jpg",
-                "url": "https://www.interest.co.nz/economy/139376/rbnz-chief-economist-paul-conway-says-inflation-expectations-and-price-setting",
-                "source": "Interest.co.nz",
-                "date": "2026-07-14T00:56:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Apple Launches iOS 27 Public Beta. Every New iPhone Feature You Can Try, Plus How to Install It",
+                "desc": "Want to test out Apple's revamped Liquid Glass and Siri AI? Here's how to sign up for the iOS 27 public beta.",
+                "image": "https://i.pcmag.com/imagery/articles/00wntYLxwNKCZT0pZ0TUqh5-1.fit_lim.size_1200x630.v1783978233.jpg",
+                "url": "https://www.pcmag.com/news/apple-launches-ios-27-public-beta-how-to-install-try-new-iphone-features",
+                "source": "PCMag",
+                "date": "2026-07-14T14:40:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Pixel Watch 5 revealed in official press photos and four Pixel 11 colors",
+                "desc": "After all the color options for the Pixel 11 (Pro) and Pixel 11 Pro Fold were leaked in the last few hours thanks to an early Amazon leak, it's now the Pixel Watch 5's turn. Official render images show four of the new color options, which go quite well with the Pixel 11 colors.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Google-Pixel-Watch-5-zeigt-sich-in-offiziellen-Pressebildern-und-4-Pixel-11-Farben.jpg",
+                "url": "https://www.notebookcheck.net/Google-Pixel-Watch-5-revealed-in-official-press-photos-and-four-Pixel-11-colors.1342768.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-14T14:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy SmartTag 3 reportedly coming later this year",
+                "desc": "To the surprise of absolutely no one, it appears that Samsung is working on and set to release a SmartTag...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/samsung-galaxy-smarttag-2-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/14/samsung-galaxy-smarttag-3-reportedly-coming-later-this-year/",
+                "source": "9to5Google",
+                "date": "2026-07-14T14:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Gemini in Chrome is Now Available in the UK",
+                "desc": "The integration of Google’s Gemini chatbot into the company’s Chrome browser is available in the UK starting today.",
+                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/07/Google-Gemini-in-Chrome-UK.jpg",
+                "url": "https://www.thurrott.com/a-i/338884/google-gemini-in-chrome-is-now-available-in-the-uk",
+                "source": "Thurrott.com",
+                "date": "2026-07-14T14:39:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "High-Speed Ski Shooter DIEATHLON Revealed for PC",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/es/High-Speed-Ski-Shooter-DIEATHLON-Revealed-for-PC",
+                "source": "Games Press",
+                "date": "2026-07-14T14:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spin the Wheel to Success: Roulette Dungeon Just Released on Steam Today!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/es/Spin-the-Wheel-to-Success-Roulette-Dungeon-Just-Released-on-Steam-Toda",
+                "source": "Games Press",
+                "date": "2026-07-14T14:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Advancing Sensor Research with Lock-In Amplifiers",
+                "desc": "High-frequency lock-in amplifiers enable precise, low-noise measurements for sensor research.",
+                "image": "https://www.azosensors.com/images/Article_Images/ImageForArticle_3335_17840265502937604.jpg",
+                "url": "https://www.azosensors.com/article.aspx?ArticleID=3335",
+                "source": "AZoSensors",
+                "date": "2026-07-14T14:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Celestial Is Grounded in Dorthe Nors’ ‘Range’",
+                "desc": "Dorothe Nors' Range is a story of suspension between two realms, one on a granular day-to-day scale and one whose scale is incomprehensibly vast.",
+                "image": "https://www.popmatters.com/wp-content/uploads/2026/07/Dorothe-Nors-Range-fi.webp",
+                "url": "https://www.popmatters.com/dorthe-nors-range",
+                "source": "PopMatters",
+                "date": "2026-07-14T14:32:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Coolest Barkada Trend Yet? Matching Phones, Picture",
+                "desc": "Every barkada has that one thing they somehow end up matching. Sometimes it’s the same sneakers. Sometimes it’s…",
+                "image": "https://www.megabites.com.ph/wp-content/uploads/2026/07/1-2.webp",
+                "url": "https://www.megabites.com.ph/the-coolest-barkada-trend-yet-matching-phones-picture-perfect-moments/",
+                "source": "megabites.com.ph",
+                "date": "2026-07-14T14:31:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PS5 Emulator Can Now Boot Up GTA V's Menus & Some 3D Games",
+                "desc": "A few different PS5 emulator teams seem more motivated than ever",
+                "image": "https://kotaku.com/app/uploads/2026/07/gtaaa.jpg",
+                "url": "https://kotaku.com/ps5-emulator-making-big-progress-can-boot-up-gta-v-menus-and-play-some-3d-games-2000715799",
+                "source": "Kotaku",
+                "date": "2026-07-14T14:30:55Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "First diagnostic X-rays in space mark new era for astronaut health",
                 "desc": "A team of crew members aboard a commercial spaceflight acquired the first diagnostic X-rays during an orbital flight. Results of the mission were published today in Radiology.",
@@ -1174,99 +1264,99 @@
                 "source": "Android Police",
                 "date": "2026-07-14T00:04:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Six Pack, Toro, Diablo & Joystick",
-                "desc": "Exposure’s 2026 bike lights add USB-C, OLED screens and Reflex 2.0. We ride the Six Pack Mk15, Toro Mk16, Diablo Mk15 and Joystick Mk18.",
-                "image": "https://d36myxw5t262l6.cloudfront.net/wp-content/uploads/2026/07/11164146/Exposure-Toro_SixPack_Diablo_Joystick-04741.jpg",
-                "url": "https://flowmountainbike.com/fresh-produce/fresh-produce-exposure-six-pack-mk15-toro-mk16-diablo-mk15-and-joystick-mk18-lights/",
-                "source": "Flow Mountain Bike",
-                "date": "2026-07-14T00:03:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi releases new TV Stick globally with Google TV and Dolby Audio",
-                "desc": "Xiaomi has quietly released a new TV Stick globally. Running Google TV out of the box, the Xiaomi TV Stick HD (2nd Gen) is compact enough to slot in behind your TV without visible whatsoever. The new TV Stick supports Bluetooth 5.0 and dual-band Wi-Fi, too.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-tv-hd-2nd-gen-global-release-kv.jpg",
-                "url": "https://www.notebookcheck.net/Xiaomi-releases-new-TV-Stick-globally-with-Google-TV-and-Dolby-Audio.1341903.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-14T00:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "It's official: Super Nintendo World to open at Universal Studios Singapore by 2030",
-                "desc": "Confirmed under the Greater Sentosa Master Plan, the land is expected to include Mario Kart and Yoshi rides",
-                "image": "https://media.timeout.com/images/106426490/image.jpg",
-                "url": "https://www.timeout.com/singapore/news/its-official-super-nintendo-world-to-open-at-universal-studios-singapore-by-2030-071426",
-                "source": "Time Out Worldwide",
-                "date": "2026-07-14T00:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Great gaming at the gallery",
-                "desc": "By KATRINA BRANDON   BRINGING nostalgic fun to Morwell, Game Fest took place at Latrobe Regional Gallery, hosted by Latrobe [...]",
-                "image": "https://latrobevalleyexpress.com.au/wp-content/uploads/2026/07/1A2A0538_11054-1024x683.jpg",
-                "url": "https://latrobevalleyexpress.com.au/community/2026/07/14/great-gaming-at-the-gallery/",
-                "source": "Latrobe Valley Express",
-                "date": "2026-07-14T00:00:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This may be OnePlus' final week",
-                "desc": "After months of rumors, OnePlus may finally reach the end this week. The writing has been on the wall for months, but this week may finally bring the...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oneplus-could-die-this-week/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/this_may_be_oneplus_final_week-news-73701.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-14T00:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Major platforms have the tools to stop sexual extortion, but they’re not using them - new report",
-                "desc": "Sextortion is arguably the most predictable serious crime on the internet. It follows a script – and it can be stopped.",
-                "image": "https://images.theconversation.com/files/746018/original/file-20260706-57-rz9tjl.jpg?ixlib=rb-4.1.0&rect=0%2C230%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/major-platforms-have-the-tools-to-stop-sexual-extortion-but-theyre-not-using-them-new-report-286666",
-                "source": "The Conversation",
-                "date": "2026-07-14T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jamie Hearing on how Clear Angle is scanning the future of VFX",
-                "desc": "From LiDAR to Gaussian splats, Clear Angle is capturing the real world so the best VFX teams, in the world, can rebuild it: one scan, one face and one lava field at a time.",
-                "image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-clear_angle.jpg",
-                "url": "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/",
-                "source": "fxguide",
-                "date": "2026-07-13T23:52:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Supercars champion Brodie Kostecki reveals classic Ford project",
-                "desc": "Brodie Kostecki has joined his Lucky Dogs podcast co-host Will Brown in buying a classic car, with the project to be detailed on YouTube.",
-                "image": "https://storage.ghost.io/c/a9/b3/a9b3e204-3117-4792-9a32-46184029df44/content/images/2026/07/744535405_18472935955110215_4800620758516883651_n--1-.jpg",
-                "url": "https://torquecafe.com/supercars-champion-brodie-kostecki-reveals-classic-ford-project/",
-                "source": "Torquecafe",
-                "date": "2026-07-13T23:52:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Production 2027 Honda V3R 900 E-Compressor Revealed in Design Filing",
-                "desc": "Honda has filed to protect the design rights for what appears to be the production version of its V3R 900 E-Compressor.",
-                "image": "https://cdn-fastly.motorcycle.com/media/2026/07/13/19031/social-44668084.jpg?size=1200x628",
-                "url": "https://www.motorcycle.com/bikes/new-model-preview/production-2027-honda-v3r-900-e-compressor-revealed-in-design-filing-44668084",
-                "source": "Motorcycle.com",
-                "date": "2026-07-13T23:52:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Cairns Post",
-                "desc": "No Cookies | The Cairns Post",
-                "image": "https://www.cairnspost.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-cairnspost-169.svg",
-                "url": "https://www.cairnspost.com.au/nocookies?a=A.flavipes",
-                "source": "The Cairns Post",
-                "date": "2026-07-13T23:33:18Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "An Irishman was convicted of murder in Budapest, but Hungarian media didn't name him. Why?",
+                "desc": "The Journal asked legal experts in Hungary why the press there has declined to name Lorcan Murphy when reporting on the case.",
+                "image": "https://img2.thejournal.ie/article/7100129/river/?height=400&version=7101427",
+                "url": "https://www.thejournal.ie/irish-man-murder-budapest-hungary-7100129-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-14T14:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s poorest countries are sending more money abroad than they receive to build their economies",
+                "desc": "Africa’s 38 low-income countries face a $120 billion financing gap while debt repayments exceed new external financing, highlighting a growing challenge to investment and industrialisation. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/txWktkqTURBXy80OTRkMjU1MjJhYzkxMjZkZGQ0ZWE2NjQ2NGU4ZWVlMi5qcGVnkpUDADDNA1bNAeCTBc0EsM0Cdg",
+                "url": "https://africa.businessinsider.com/local/leaders/africas-poorest-countries-are-sending-more-money-abroad-than-they-receive-to-build/xve07vr",
+                "source": "Business Insider Africa",
+                "date": "2026-07-14T14:37:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Justices Kagan and Barrett demand more Supreme Court security funding in rare appearance before Congress",
+                "desc": "Justice Amy Coney Barrett delivered an unusual and personal plea for additional security funding for the Supreme Court on Tuesday, using a rare hearing before Congress to address for the first time addressing personal threats that have been directed against her and her family.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26195516824478.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/14/politics/supreme-court-justices-kagan-barrett-testify-security",
+                "source": "CNN",
+                "date": "2026-07-14T14:33:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "End of AUSSOM is not end of Somalia",
+                "desc": "On July 1, when the United States informed the African Union it would no longer finance the United Nations Support Office in Somalia (UNSOS), the logistical backbone of the African Union Support and Stabilization Mission in Somalia (AUSSOM), beyond December 2026, the reaction was immediate. One prediction dominated: Somalia was about to become a crisis zone like Afghanistan. Others argued the opposite, that the Somali National Army (SNA) has matured enough to assume full responsibility for national security. Both arguments ask the wrong question.",
+                "image": "https://www.hiiraan.com/uploads/2026/07/1784039488450572.jpg",
+                "url": "https://www.hiiraan.com/op4/2026/Jul/205688/end_of_aussom_is_not_end_of_somalia.aspx",
+                "source": "Hiiraan Online",
+                "date": "2026-07-14T14:33:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "State Solution and Palestinian UN Membership",
+                "desc": "Brussels– India has reaffirmed its support for a two-state solution and Palestine’s membership in the United Nations during the Second Ministerial Meeting of the Palestine Donor Group in Brussels. Sripriya …",
+                "image": "https://indianewengland.com/wp-content/uploads/2026/07/Palestine.png",
+                "url": "https://indianewengland.com/india-reaffirms-support-for-two-state-solution-and-palestinian-un-membership/",
+                "source": "INDIA New England News",
+                "date": "2026-07-14T14:33:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bahamas Lists 19 African Countries Whose Citizens Are Eligible for Visa",
+                "desc": "The Bahamas Ministry of Foreign Affairs has announced its official eVisa list for 2026. Only citizens from select African countries can enter without a visa.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/4a74c2ae2d7e715f.jpeg?v=1",
+                "url": "https://yen.com.gh/people/307884-bahamas-lists-19-african-countries-eligible-visa-free-entry-2026/",
+                "source": "Yen News",
+                "date": "2026-07-14T14:31:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Free Entry in 2026, With Only 2 From Africa",
+                "desc": "China expands visa-free entry for over 50 countries, allowing 30-day stays. However, Kenya and many African nations remain excluded from these programmes.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/9c396b3f4bcef165.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/business-economy/632614-china-lists-50-countries-allowed-visa-free-entry-business-tourist-visits-2026/",
+                "source": "Tuko News",
+                "date": "2026-07-14T14:30:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Heat deaths are a public health crisis rooted in housing inequality",
+                "desc": "This summer’s heat deaths weren’t random. Poor, badly insulated homes are a public health hazard in summer as well as winter.",
+                "image": "https://images.theconversation.com/files/747764/original/file-20260714-71-qmdr64.jpg?ixlib=rb-4.1.0&rect=0%2C260%2C3120%2C1560&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/heat-deaths-are-a-public-health-crisis-rooted-in-housing-inequality-287426",
+                "source": "The Conversation",
+                "date": "2026-07-14T14:26:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Traveler Who’s Seen The Entire World Says These 5 Places Left Him Genuinely Shake",
+                "desc": "Drew Binsky has been to every country on earth. He has navigated coups, military escorts and situations that would send most people straight back to the airport. And after a decade of doing exactly that, his list of the five places that genuinely unsettled him is a reminder that there are still corners of this planet that operate entirely outside the boundaries of what most of us would consider normal. The FCDO advises against all travel to every destination on this list. Drew went anyway, filmed it and came back wanting to return to some of them. Which is either incredibly brave or an extremely specific personality type. Probably both. Lifestyle, Travel",
+                "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/most-dangerous-countries-feeling-unsafe-fb.jpg",
+                "url": "https://www.boredpanda.com/most-dangerous-countries-feeling-unsafe/",
+                "source": "Bored Panda",
+                "date": "2026-07-14T14:25:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK to shut down cultural diplomacy offices in 3 African countries amid funding squeeze",
+                "desc": "The United Kingdom is scaling back one of its most influential international institutions, with the British Council set to close offices in Botswana, Mozambique and Tanzania as part of a wider restructuring driven by financial pressures and shrinking aid budgets. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/1DHktkpTURBXy83NWQzZTUxMGIwMmJmOGNiYTcxYTA3NDI0OTJhZTZjZC5qcGeSlQMAAM0CTs0BTJMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/lifestyle/uk-to-shut-down-cultural-diplomacy-offices-in-3-african-countries-amid-funding/mwsnyfe",
+                "source": "Business Insider Africa",
+                "date": "2026-07-14T14:23:56Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The Iran War Is Almost Over. The Iran War Will Never End",
                 "desc": "Donald Trump has plunged the United States into exactly the kind of \"forever war\" he campaigned against, as he continues attacking Iran.",
@@ -1806,98 +1896,8 @@
                 "source": "The Fast Mode",
                 "date": "2026-07-14T00:24:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sonatel Deploys 16 LEO Satellite Antennas with Eutelsat OneWeb Gateway",
-                "desc": "Sonatel Deploys 16 LEO Satellite Antennas with Eutelsat OneWeb Gateway",
-                "image": "https://www.thefastmode.com/media/k2/items/src/18ef35529862c284246ba3759689fdaa.jpg?t=20260714_004231",
-                "url": "https://www.thefastmode.com/technology-solutions/49587-sonatel-deploys-16-leo-satellite-antennas-with-eutelsat-oneweb-gateway",
-                "source": "The Fast Mode",
-                "date": "2026-07-14T00:22:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One Indian sailor killed, six wounded as Iranian missiles strike oil tankers in Strait of Hormuz",
-                "desc": "One Indian sailor was killed and six others wounded as Iranian missiles struck UAE oil tankers in the Strait of Hormuz.",
-                "image": "https://th-i.thgim.com/public/incoming/pwgc5l/article71219687.ece/alternates/LANDSCAPE_1200/2026-06-26T173231Z_824440093_RC2N1MATF9BS_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
-                "url": "https://www.thehindu.com/news/international/crew-killed-injured-indian-tanker-strait-of-hormuz-iran-strike-july-14/article71219676.ece",
-                "source": "The Hindu",
-                "date": "2026-07-14T00:15:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Red Sea: a hinge between West Asia and Horn of Africa",
-                "desc": "Explore how the Red Sea is transforming into a geopolitical nexus, intertwining conflicts and rivalries across West Asia and the Horn of Africa.",
-                "image": "https://th-i.thgim.com/public/incoming/ptylqr/article71218879.ece/alternates/LANDSCAPE_1200/AFP_B9VL8KE.jpg",
-                "url": "https://www.thehindu.com/news/international/red-sea-a-hinge-between-west-asia-and-horn-of-africa/article71217772.ece",
-                "source": "The Hindu",
-                "date": "2026-07-14T00:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Viral desert rain frog joins Red List after fame fueled its exploitation in the pet trade",
-                "desc": "Future development could take a large toll on the frog's range.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ca377c4a8e8fd775cace89a2621afa1d0264c687462bb4d47514567375f501ef/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F6332d56d756fcc02e8bbdbb6bc13f220",
-                "url": "https://www.yahoo.com/news/science/articles/viral-desert-rain-frog-joins-001500072.html",
-                "source": "Yahoo",
-                "date": "2026-07-14T00:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yemeni missiles and drones hit Abha Airport after Saudi assault on Sana’a international airport",
-                "desc": "The Yemeni Armed Forces have carried out a successful military operation targeting Saudi Arabias Abha International Airport with ballistic missiles and drones.",
-                "image": "https://cdn.presstv.ir/Photo/2026/7/13/079002ec-9894-4fbc-a840-dfbd68ca1e18.jpg",
-                "url": "https://www.presstv.ir/Detail/2026/07/13/772195/Yemeni-missiles-and-drones-hit-Abha-Airport-after-Saudi-assault-on-Sana%E2%80%99a-international-airport",
-                "source": "PressTV",
-                "date": "2026-07-14T00:03:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia news LIVE: US to ‘guard’ Strait of Hormuz as ceasefire with Iran collapses; PM to deliver major speech on AI",
-                "desc": "Follow along as we bring you the latest live news updates from Australia and beyond.",
-                "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0d4baaef99c182c7f7ec519681c4f8e2d1d0647a",
-                "url": "https://www.theage.com.au/national/australia-news-live-us-iran-ceasefire-crumbles-most-want-house-prices-to-drop-20260714-p60f0w.html",
-                "source": "The Age",
-                "date": "2026-07-14T00:03:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New US strikes on Iran as Trump says ships will be charged to transit Hormuz",
-                "desc": "Iran has insisted it controls the critical waterway, as another exchange of fire threatened a return to all-out war.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/three-boys-play-in-the-shallow-waters-of-the-strait-of-hormu-OU7RUSOMFFEA5DBWNGIQXXEWKI.jpg?auth=6372887a4f4257712176e1c390abb8079941c8f164d225d4767e2319708b7fce&quality=70&width=600&height=315&focal=3762%2C1953",
-                "url": "https://www.1news.co.nz/2026/07/14/new-us-strikes-on-iran-as-trump-says-ships-will-be-charged-to-transit-hormuz/",
-                "source": "1News",
-                "date": "2026-07-13T23:54:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global Food Supply Fragile, World Bank Warns Amid Rising Cos",
-                "desc": "The World Bank warns of a fragile global food supply due to surging costs, geopolitical friction, and climate threats. Learn how these factors impact food",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/world-bank_1782889613.webp",
-                "url": "https://punchng.com/world-bank-warns-of-fragile-global-food-supply/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-13T23:48:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Congo Along With Uganda, South Sudan, Rwanda, Burundi, and Others, Notifies Safety Alert for Travelers Due to the Sudden Ebola Flare",
-                "desc": "Massive 2026 Ebola travel alerts hit Central Africa. Read why Congo, Uganda, and others enforce strict new border health screenings.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/a-photojournalistic-image-of-health-expe_qstTjq8aX9mbVPqvWAvEVw_RLNN5tLgTEOvJzrhz090_g_cover.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/ujwtlzctnt0d/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-13T23:48:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump dramatically cuts size of two national monuments held sacred by tribes",
-                "desc": "Bears Ears and Grand Staircase-Escalante in Utah will lose ‘close to a million and a half acres each’ and open land to developers and oil industry",
-                "image": "https://i.guim.co.uk/img/media/fc622d93b26c90ea34ab5fd9baad19f0364ae64f/417_0_4167_3334/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98c8ff7ab4dc13ba416341f8fc84f82d",
-                "url": "https://www.theguardian.com/us-news/2026/jul/13/trump-cuts-national-monuments-utah",
-                "source": "The Guardian",
-                "date": "2026-07-13T23:46:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T02:00:22.981221Z"
+    "lastGlobalSync": "2026-07-15T02:40:25.970072Z"
 }
