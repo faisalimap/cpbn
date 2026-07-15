@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "300 jobs lost as Canfor closes Northwood Pulp Mill in Prince George",
+                "desc": "The company says it is facing \"unsustainable financial losses.\"",
+                "image": "https://i.cbc.ca/ais/1.6590130,1767710280073/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C276%2C5345%2C3006%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/canfor-mill-closes-9.7270420",
+                "source": "CBC",
+                "date": "2026-07-14T23:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
+                "desc": "Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffs",
+                "image": "https://i.guim.co.uk/img/media/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/864_0_4318_3455/master/4318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f043ce821719fbe8b9f4155a74b14ee",
+                "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
+                "source": "The Guardian",
+                "date": "2026-07-14T23:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seymour’s sensible-sounding supermarket fix leaves the real problem untouched - Sue Chetwin, Grocery Action Group chair",
+                "desc": "Sue Chetwin is the chair of the Grocery Action Group, which aims to lower grocery prices for all Kiwis by influencing government and regulators. Deputy PM...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/Y2U6PAVF3RAERBECR3QWD265WY.jpg?auth=f0c6d4d7e474bbc836fce1548418e5a00920d3f64e7d033684d0a9a4b0236579&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/nz/seymours-sensible-sounding-supermarket-fix-leaves-the-real-problem-untouched-sue-chetwin-grocery-action-group-chair/premium/LZGN5FISUBHIJOWJVMCHRSK7EE/",
+                "source": "NZ Herald",
+                "date": "2026-07-14T23:31:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hong Kong urged to pave path for Greater Bay Area firms going global",
+                "desc": "Standards alignment, supply-chain coordination and cross-border financing are areas where city’s expertise can be pivotal, summit speakers say.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/14/3d67f029-256f-4314-9a2c-6e059e216dd3_c2bb9b13.jpg?itok=aXuT7osd&v=1784020442",
+                "url": "https://www.scmp.com/business/china-business/article/3360524/hong-kong-urged-pave-path-greater-bay-area-firms-going-global",
+                "source": "South China Morning Post",
+                "date": "2026-07-14T23:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NCC Consults Stakeholders on Free Educational Internet Acces",
+                "desc": "The NCC is consulting stakeholders on a framework to provide Nigerian students with free educational internet access, aiming to reduce digital learning bar",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/Nigerian-Communications-Commission-NCC.webp",
+                "url": "https://punchng.com/ncc-consults-stakeholders-on-free-educational-internet-access/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-14T23:27:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Yorkers Are Choosing Vacations Based on Food",
+                "desc": "New OpenTable data shows restaurants are increasingly influencing where New Yorkers travel, stay and dine.",
+                "image": "https://media.timeout.com/images/105944115/image.jpg",
+                "url": "https://www.timeout.com/newyork/news/new-yorkers-are-apparently-choosing-vacations-based-on-where-they-can-eat-071426",
+                "source": "Time Out Worldwide",
+                "date": "2026-07-14T23:26:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NZ Muscle backlash: Dave Letele faces death threats, has address leaked after taking over troubled company",
+                "desc": "Dave Letele says he has received death threats and had his address leaked after it was announced that he would be taking over as chief executive of embattled...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/RWOTU6FMMJDTRKX7BNHY7W33AY.png?auth=c8db4cdb79a01a44b56a464695a5d51c76228f58d32aee414c279e0a72ceedf5&width=1200&height=675&quality=70&focal=237%2C228&smart=false",
+                "url": "https://www.nzherald.co.nz/nz/nz-muscle-backlash-dave-letele-faces-death-threats-has-address-leaked-after-taking-over-troubled-company/CUUUYJAS4BHJXF6A65VP6WDJMM/",
+                "source": "NZ Herald",
+                "date": "2026-07-14T23:23:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aerial cull prompts push from sporting shooters to target feral deer in WA national parks",
+                "desc": "After a second annual aerial cull sparked controversy in southern WA, hunters say targeting feral deer from the ground is a more humane option.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/74cc9e7d1f165a118dedf21f0b158e20?impolicy=wcms_watermark_news&cropH=440&cropW=783&xPos=7&yPos=211&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-15/air-cull-sparks-national-park-push-rec-shooters/106820574",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-14T23:22:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canfor announces permanent closure of Northwood Pulp Mill",
+                "desc": "PRINCE GEORGE, B.C. - Canfor Corporation has announced it will permanently close its Northwood pulp mill in Pr...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2312/files/2026/07/5128d4c7-3e68-407d-a372-7e22f4536d5f-1200x675.jpg",
+                "url": "https://ckpgtoday.ca/2026/07/14/canfor-announces-permanent-closure-of-northwood-pulp-mill/",
+                "source": "CKPG Today",
+                "date": "2026-07-14T23:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold climbs to near $4,050 on softer US CPI",
+                "desc": "Gold price (XAU/USD) rises to around $4,050 during the early Asian session on Wednesday. The precious metal rebounds as softer-than-expected US inflation data boosted hopes of the US  Federal ‌Reserve (Fed) adopting a less hawkish stance.",
+                "image": "https://editorial.fxsstatic.com/images/i/gold-03_Medium.jpg",
+                "url": "https://www.fxstreet.com/news/gold-climbs-to-near-4-050-on-softer-us-cpi-202607142316",
+                "source": "FXStreet",
+                "date": "2026-07-14T23:16:54Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
                 "title": "Regulator bans Eurowings and Qatar Airways ads over green claims",
                 "desc": "The airlines have today (15 July) been called out by the advertising watchdog over misleading environmental claims surrounding carbon offsetting.",
                 "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/AdobeStock_532227055_Editorial_Use_Only.jpeg",
@@ -542,99 +632,99 @@
                 "source": "Forbes",
                 "date": "2026-07-14T20:22:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Canada Post paid $30.8M in 2025 for bonuses: ‘We understand the optics’",
-                "desc": "The mail carrier reported in April that it lost a record-breaking $1.57 billion before tax in 2025, citing labour uncertainty and barriers to modernization.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/06/3c6051fc0da38162d678d16ae728668b442a0258ca0fd6f497e44b5913172c04_eebe1e.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11965606/canada-post-management-paid-record-losses-2025/",
-                "source": "Global News",
-                "date": "2026-07-14T20:21:12Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Airengy, Nobian Study Danish Salt Cavern Energy Storage Plan",
-                "desc": "Airengy and Nobian are studying a Danish salt cavern for energy storage. The project could store 2.5 GWh and supply 3 MW to 10 MW over long periods when needed.",
-                "image": "https://alpha.creativecirclecdn.com/environment/original/20260714-103435-a0f-Dansk%20Salts%20fully%20electrified%20salt%20production%20facility%20in%20Marriager%2C%20Denmark.jpeg",
-                "url": "https://www.environmentenergyleader.com/stories/airengy-nobian-study-danish-salt-cavern-energy-storage-plan,133302",
-                "source": "Environment+Energy Leader",
-                "date": "2026-07-14T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five First Nations sign $1-billion equity deal for LNG Canada’s planned storage tank",
-                "desc": "Transaction is contingent on co-owners making final investment decision later this year on plans to expand Kitimat terminal",
-                "image": "https://www.theglobeandmail.com/resizer/v2/VVNJTJIWTBDI5J4PRA2RGSP6XI.JPG?auth=b7cca302b08eb8250329454b85ca14ebb2337ea9a99519ffb22f2872e1f2de3f&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-first-nations-lng-canada-storage-tank-equity/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-14T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How do young people feel about AI? 7 teens weigh in",
-                "desc": "What's it like to grow up and learn in the age of AI? NPR put that question to seven teenagers across the country.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x4473+0+416/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Fc1%2Fec96f7ad4ffd8bfd73e3c73076f2%2Fgettyimages-2271215485.jpg",
-                "url": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school",
-                "source": "NPR",
-                "date": "2026-07-14T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lucid Motors Denies ‘Completely False’ Bankruptcy Rumors",
-                "desc": "The beleaguered electric vehicle manufacturer’s stock crashed on Tuesday after a report indicated it could be considering bankruptcy or going private.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a569447e3c371ba2a77ba9b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/14/lucid-motors-denies-bankruptcy-rumors-after-stocks-55-crash/",
-                "source": "Forbes",
-                "date": "2026-07-14T19:56:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man disqualified after no insurance detection in Letterkenny",
-                "desc": "A man has been put off the road after being caught driving without insurance in Donegal.The case of Isse Idow was before Letterkenny District Court.Idow, a 24-y...",
-                "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNVxcXC8xMFxcXC9Oby1pbnN1cmFuY2UtMTAyNHg1MzYucG5nXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wM1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZmNjYjIxMWQyNTYxMGZhNWJiNDEzNzlkZjAxYmNjOTI2NDk0MGEyZCJ9/man-disqualified-after-no-insurance-detection-in-letterkenny.png",
-                "url": "https://www.donegaldaily.com/news/man-disqualified-after-no-insurance-detection-in-letterkenny-641732",
-                "source": "Donegal Daily",
-                "date": "2026-07-14T19:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices are spiking again. Here's what it means for gas prices",
-                "desc": "Global oil prices have jumped more than 10% since last week.",
-                "image": "https://i.abcnewsfe.com/a/6324563e-c5a1-42e2-943d-98a3c234c6f8/hormuz-gty-jef-260714_1784036505344_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Business/oil-prices-spiking-means-gas-prices/story?id=134740938",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-14T19:54:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Social Security 2027 COLA may be 3.7% but still not offset Medicare",
-                "desc": "Social Security checks could rise by 3.7% next year, but Medicare costs will rise too, analysts said.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/13/USAT/90906782007-1346574948.jpg?crop=3839,2160,x0,y123&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/14/social-security-2027-cola-estimate-medicare/90906220007/",
-                "source": "USA Today",
-                "date": "2026-07-14T19:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dangote refinery’s dollar pricing: What it means for fuel prices, naira",
-                "desc": "The decision by Dangote Petroleum Refinery to denominate the prices of Premium Motor Spirit (PMS), diesel and aviation fuel",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/04/Business-magnate-and-Chairman-of-the-Dangote-Group-Dr.-Aliko-Dangote-1536x864-1.webp",
-                "url": "https://guardian.ng/news/dangote-refinerys-dollar-pricing-what-it-means-for-fuel-prices-naira/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-14T19:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "20 years ago, China bet big on electric vehicles. Now Western carmakers are feeling the pain",
-                "desc": "China’s rise to EV dominance may seem sudden – but it’s the result of more than 20 years of state investment.",
-                "image": "https://images.theconversation.com/files/747662/original/file-20260714-57-y7qscg.jpg?ixlib=rb-4.1.0&rect=0%2C318%2C5272%2C2636&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/20-years-ago-china-bet-big-on-electric-vehicles-now-western-carmakers-are-feeling-the-pain-286851",
-                "source": "The Conversation",
-                "date": "2026-07-14T19:47:52Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Michael Wretham-Brown Returns To Match & Wood As Chief Digital Officer",
+                "desc": "Wretham-Brown will remain in London for the role, however, noting that the weather is better there than in Melbourne.",
+                "image": "https://www.bandt.com.au/information/uploads/2026/07/Michael-Wretham-Brown.jpg",
+                "url": "https://www.bandt.com.au/michael-wretham-brown-returns-to-match-wood-as-chief-digital-officer/",
+                "source": "bandt.com.au",
+                "date": "2026-07-14T23:39:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Profiles RF Management to Conduct FreqCoord Training",
+                "desc": "Due to popular demand, Peter Twartz from Profiles RF Management (PRM) will be conducting online training sessions during August 2026 on the popular",
+                "image": "https://www.cxnetwork.com.au/wp-content/uploads/2026/07/Freqcoord.png",
+                "url": "https://www.cxnetwork.com.au/profiles-rf-management-to-conduct-freqcoord-training/",
+                "source": "CX Magazine",
+                "date": "2026-07-14T23:38:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Comox to host Island’s first EV-powered movie night",
+                "desc": "Comox is going to be the first community on Vancouver Island to host a fully electric vehicle-powered movie night.",
+                "image": "https://comoxvalleyrecord.com/wp-content/uploads/sites/13/2026/07/42791944_web1_260722-CVR-EV-Powered-Movie-EV_1.jpg?w=1024",
+                "url": "https://comoxvalleyrecord.com/2026/07/14/comox-to-host-islands-first-ev-powered-movie-night/",
+                "source": "Comox Valley Record",
+                "date": "2026-07-14T23:34:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A forgotten immune organ in your chest may predict how long you live, with AI scans linking healthier thymuses to lower death, heart disease and cancer risks",
+                "desc": "Science News: Do you also Google to know about your lifespan? If yes, you will be surprised to know that the answer actually lies within your body. For decades, sci.",
+                "image": "https://static.toiimg.com/thumb/msid-132391532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/science/a-forgotten-immune-organ-in-your-chest-may-predict-how-long-you-live-with-ai-scans-linking-healthier-thymuses-to-lower-death-heart-disease-and-cancer-risks/articleshow/132391486.cms",
+                "source": "The Times of India",
+                "date": "2026-07-14T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Faces at MadisonAV",
+                "desc": "MadisonAV welcomes Grant Embury and Mikael Sandstrom",
+                "image": "https://www.cxnetwork.com.au/wp-content/uploads/2026/07/MadisonAV.png",
+                "url": "https://www.cxnetwork.com.au/new-faces-at-madisonav/",
+                "source": "CX Magazine",
+                "date": "2026-07-14T23:28:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Com2uS Bets on MMORPG Comeback With 'Zeus'",
+                "desc": "Com2uS is accelerating the launch of Zeus: The God of Arrogance (Zeus), unveiling key game",
+                "image": "https://cdn.thelec.net/news/photo/202607/12235_12335_250.png",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=12235",
+                "source": "thelec.net",
+                "date": "2026-07-14T23:26:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung says Galaxy Z Fold 8 gets a 'Flex Titanium' display",
+                "desc": "The Galaxy Z Fold 8 series will get a new foldable display architecture, Samsung admits, which will improve the phone’s...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/14/samsung-galaxy-z-fold-8-flex-titanium-display/",
+                "source": "9to5Google",
+                "date": "2026-07-14T23:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Maku The Label calls out ASOS for allegedly copying design",
+                "desc": "Maku The Label has accused ASOS of copying one of its original t-shirt designs, with the product later removed from the retailer's website.",
+                "image": "https://assets.smartcompany.com.au/wp-content/uploads/sites/4/2026/07/Copy-of-SCM-ed-image-1920x1080-36.png?quality=70&w=1024",
+                "url": "https://www.smartcompany.com.au/retail/melbourne-maku-the-label-calls-out-asos-allegedly-copying-design/",
+                "source": "SmartCompany",
+                "date": "2026-07-14T23:24:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Surface for Business Lineup Goes Snapdragon X2",
+                "desc": "Surface for Business is getting refreshed with new Surface Pro for Business 13-inch and Surface Laptop for Business 13.8 and 15-inch models powered by Snapdragon X2 Series processors.",
+                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/07/surface-busines-x2.jpg",
+                "url": "https://www.thurrott.com/mobile/copilot-pc/338937/surface-for-business-lineup-goes-snapdragon-x2",
+                "source": "Thurrott.com",
+                "date": "2026-07-14T23:21:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI's first device will be movable, screenless speaker built as AI companion",
+                "desc": "The device represents a critical next step for OpenAI Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/4454484f28dde6c8e520abe304bd3b14a37efc663480990af7390896ad4da519?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openais-first-device-will-be-movable-screenless-speaker-built-ai-companion",
+                "source": "The Business Times",
+                "date": "2026-07-14T23:20:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Dave Darcy’s show-winning, LS-powered HJ Holden Premier",
                 "desc": "Dave Darcy earned Street Champion silverware at this year’s Street Machine Summernats with his stunning HJ Kingswood",
@@ -1174,99 +1264,72 @@
                 "source": "LinkedIn",
                 "date": "2026-07-14T20:00:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft Just Patched a Record 570 Flaws in Windows",
-                "desc": "Microsoft's Patch Tuesday update for July fixes a record 570 bugs, including three zero-days that have been actively exploited or publicly disclosed.",
-                "image": "https://lifehacker.com/imagery/articles/01KXH1WA1SK30052RTK6Q3K10H/hero-image.fill.size_1200x675.jpg",
-                "url": "https://lifehacker.com/tech/microsoft-just-patched-570-flaws-in-windows",
-                "source": "Lifehacker",
-                "date": "2026-07-14T19:59:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Gus' the T rex fetches record (US)$50.1 million at auction",
-                "desc": "A Tyrannosaurus rex skeleton nicknamed \"Gus\" sold for (US)$50.1 million at Sotheby's in New York, making it the most valuable dinosaur fossil bought at auction after a 10-minute battle between seven bidders.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--IDrJRVq9--/t_tohu-badge-facebook/f_auto/q_auto/4JLHPP6_AFP__20260701__B8YC29N__v1__HighRes__UsAuctionSothebysDinosaurFossil_jpg",
-                "url": "https://www.rnz.co.nz/news/world/721173/gus-the-t-rex-fetches-record-us-50-point-1-million-at-auction",
-                "source": "RNZ",
-                "date": "2026-07-14T19:50:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Open Your Ears to This Deal: Shokz Headphones for Under $100",
-                "desc": "The Shokz OpenRun open-ear headphones let you listen to your audio while simultaneously keeping aware of your surroundings, and now, they're $300 less with today from Amazon.",
-                "image": "https://i.pcmag.com/imagery/articles/04qYTdCORjN79s3WXW8x3aa-1.fit_lim.size_1200x630.v1784055169.png",
-                "url": "https://www.pcmag.com/deals/open-your-ears-to-this-deal-shokz-headphones-for-under-100-july-14",
-                "source": "PCMag",
-                "date": "2026-07-14T19:45:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I stopped using Google Maps in Android Auto and switched to an open-source navigator that respects my privacy",
-                "desc": "Google Maps collects 24 data categories from your phone.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/12/android-auto-offline-maps.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/i-stopped-using-google-maps-in-android-auto-and-switched-to-an-open-source-navigator-that-respects-my-privacy/",
-                "source": "How-To Geek",
-                "date": "2026-07-14T19:45:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-                "desc": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
-                "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-                "source": "TechCrunch",
-                "date": "2026-07-14T19:42:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New cell imaging method shines a light on blind spots",
-                "desc": "Cells are crowded, dynamic places where thousands of molecules interact in tight quarters. Until now, scientists lacked a reliable way to see many of these molecular interactions as they happen. Researchers at the University of Illinois Chicago have now developed a new imaging method that allows scientists to see previously hidden enzyme activities in small regions across the whole cell. The findings, published in the Proceedings of the National Academy of Sciences, open new possibilities for understanding how cells process information.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-cell-imaging-metho.jpg",
-                "url": "https://phys.org/news/2026-07-cell-imaging-method.html",
-                "source": "Phys.org",
-                "date": "2026-07-14T19:40:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-                "desc": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
-                "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-                "source": "TechCrunch",
-                "date": "2026-07-14T19:39:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Launches the Pura 90s Series Globally with Major Camera Upgrades",
-                "desc": "Huawei has launched the Pura 90s Pro and Pro Max globally, bringing 5G support, upgraded cameras, a 200MP telephoto sensor, and improved photography features.",
-                "image": "https://media.imaging-resource.com/2026/07/14192936/huawei-pura-90s-pro-max.jpg",
-                "url": "https://www.imaging-resource.com/news/huawei-launches-the-pura-90s-series-globally-with-major-camera-upgrades/",
-                "source": "Imaging Resource",
-                "date": "2026-07-14T19:37:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pixel 11 and Pixel Watch 5 Leaks Show New Colors and Prices",
-                "desc": "The rumors keep coming for Google's latest flagships.",
-                "image": "https://www.cnet.com/a/img/resize/f375313bf47799b2f7629333e34fca6611109d5a/hub/2025/08/20/18fb05e0-53f2-438f-94e5-7c1ff7ba4706/google-pixel-10-pro-xl-fold-review-cnet-lanxon-75.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/mobile/pixel-11-pixel-watch-5-leaks-new-colors-higher-prices/",
-                "source": "CNET",
-                "date": "2026-07-14T19:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Watch 9 and Ultra 2 specs leak with big battery upgrade",
-                "desc": "Ahead of their debut in just over a week, yet another leak details the full specs of Samsung’s Galaxy Watch...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-mint-leak-1_f20b01.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/",
-                "source": "9to5Google",
-                "date": "2026-07-14T19:35:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Shocking traveller conduct",
+                "desc": "A FOREIGN traveller shocked fellow passengers at a local airport by holding a child over a rubbish bin to defecate, China Press reported.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011147.jpg",
+                "url": "https://www.thestar.com.my/news/nation/2026/07/15/shocking-traveller-conduct",
+                "source": "The Star",
+                "date": "2026-07-14T23:35:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seven Britons among those killed in Spain wildfires",
+                "desc": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8fd9/live/190796e0-7fd7-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/cp8l87784ngo",
+                "source": "BBC",
+                "date": "2026-07-14T23:33:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump resumes Iran port blockade",
+                "desc": "US President Donald Trump reimposes a naval blockade of Iranian ports and threatens strikes on energy targets unless Tehran resumes negotiations. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f311c1eed864abe002092e3e69fcbe0fb9e4e50ba5eb571138d8fed4417116aa",
+                "url": "https://www.straitstimes.com/world/middle-east/trump-resumes-iran-port-blockade-and-threatens-strikes-on-energy-targets",
+                "source": "The Straits Times",
+                "date": "2026-07-14T23:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Writer E Jean Carroll collects $8m in Trump sex abuse and defamation case",
+                "desc": "Writer E Jean Carroll has collected nearly $US5.6 million ($8 million) from Donald Trump after a jury in 2023 found the US president liable for sexually abusing and defaming her, court records show.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/689c22ee7461ca6994866cf82a84269c?impolicy=wcms_watermark_news&cropH=2504&cropW=4451&xPos=0&yPos=92&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-15/e-jean-carroll-wins-8m-in-trump-sex-abuse-and-defamation-case/106916478",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-14T23:25:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine's parliament accepts PM Svyrydenko's resignation",
+                "desc": "With Ukraine \"changing its political strategy,\" President Volodymyr Zelenskyy is trying to remake the government,",
+                "image": "https://static.dw.com/image/77954981_6.jpg",
+                "url": "https://www.dw.com/en/ukraine-parliament-accepts-pm-svyrydenkos-resignation/a-77954364",
+                "source": "dw.com",
+                "date": "2026-07-14T23:24:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From doubt to durian delight",
+                "desc": "FEW things polarise opinions quite like Malaysia's King of Fruits.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4010676.JPG",
+                "url": "https://www.thestar.com.my/metro/metro-news/2026/07/15/from-doubt-to-durian-delight",
+                "source": "The Star",
+                "date": "2026-07-14T23:19:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The PFIPC scandal and the urgent reforms required",
+                "desc": "*Prince Adeniyi Adeyemi Matthew allegedly gamed the system. But systems are gamed because they are weak. The ‘Presidential Foreign Intervention Promotion Council’ scandal is a…",
+                "image": "https://consumerconnectng.com/wp-content/uploads/2026/07/ICPC-and-Adeyemi-Adeniyi-Matthew-cc.png",
+                "url": "https://consumerconnectng.com/?p=1998",
+                "source": "consumerconnectng.com",
+                "date": "2026-07-14T23:16:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Congress takes next step to make daylight saving time permanent",
                 "desc": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
@@ -1833,71 +1896,8 @@
                 "source": "The Independent",
                 "date": "2026-07-14T19:49:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Pentagon nominee says Iran war cost $29b as of May, faces scrutiny",
-                "desc": "'It was $29b when I left office,' Jules Hurst tells Senate, repeating answer from earlier posture hearing",
-                "image": "https://i.tribune.com.pk/media/images/copy-of-untitled-261746093530-0/copy-of-untitled-261746093530-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2618254/pentagon-nominee-says-iran-war-cost-29b-as-of-may-faces-scrutiny",
-                "source": "The Express Tribune",
-                "date": "2026-07-14T19:45:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Counterterrorism police treating suspected murder of Ann Widdecombe as a targeted attack",
-                "desc": "After initially saying the alleged murder of British former politician Ann Widdecombe was not politically motivated, police now say they believe it was a targeted attack.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/d4a734d32d1f6e6c1aee05b7383d7ab7?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=157&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-15/police-treating-ann-widdecombe-murder-as-targeted-attack/106916102",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-14T19:41:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Zelensky wants from his next government",
-                "desc": "President Volodymyr Zelensky's decision on July 12 to reshuffle the government came as a surprise to many — both on the streets and in the halls of parliament.\nAccording to the Constitution, the president cannot single-handedly dismiss the prime minister. Yet lawmakers who spoke with the Kyiv Independent appeared largely unfazed by Zelensky's move to replace Prime Minister Yuliia Svyrydenko, which parliament rubber-stamped on July 14.\nThe reasons behind the reshuffle remain unclear. Many lawma",
-                "image": "https://assets.kyivindependent.com/content/images/2026/07/GettyImages-2284475975_20260714-193051.jpg",
-                "url": "https://kyivindependent.com/whats-behind-zelenskys-surprise-government-reshuffle/",
-                "source": "The Kyiv Independent",
-                "date": "2026-07-14T19:38:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "West Africa and the Sahel: Terrorism is changing its face",
-                "desc": "Jihadist groups are no longer content with launching attacks in West Africa and the Sahel: they administer territories, control trade routes, exploit new technologies and are gradually pushing their influence all the way to the Gulf of Guinea.",
-                "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-08-2025-UNOCHA-Mali.jpg/image770x420cropped.jpg",
-                "url": "https://news.un.org/en/story/2026/07/1167940",
-                "source": "UN News",
-                "date": "2026-07-14T19:36:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ballymena deaths: Police treating incident as ‘double murder followed by a sudden death’",
-                "desc": "PSNI say deceased found in a family home include a girl (8), a woman (39) and a man (41)",
-                "image": "https://www.irishtimes.com/resizer/v2/W2UHX6XB6AUTB3RMTYVIES7A74.jpg?smart=true&auth=0103612ef3648157f75cadb95ce38644d36f52e6243ddbfdbe938b569006dd8d&width=1200&height=630",
-                "url": "https://www.irishtimes.com/crime-law/2026/07/14/police-remain-at-ballymena-scene-after-three-relatives-found-dead-in-family-home/",
-                "source": "The Irish Times",
-                "date": "2026-07-14T19:36:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shaping the Future of the IGF: Integration, Relevance and Impact in the Post",
-                "desc": "The Internet Governance Forum has secured its permanent place in the UN system. Its next challenge is to strengthen its relevance, deepen multistakeholder collaboration, and deliver greater impact across an increasingly complex and fragmented digital governance landscape.",
-                "image": "https://circleid.com/images/member_photos/photo_9490.jpg",
-                "url": "https://circleid.com/posts/shaping-the-future-of-the-igf-integration-relevance-and-impact-in-the-post-wsis20-era",
-                "source": "CircleID",
-                "date": "2026-07-14T19:34:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Bank Urges Cabo Verde to Improve Inter-Island Transport to Diversify Growth",
-                "desc": "The World Bank says unreliable inter-island transport has become one of Cabo Verde’s biggest barriers to diversified economic growth\nDespite strong",
-                "image": "https://www.ecofinagency.com/media/k2/items/cache/c9c154ca41558156f41b555e1e76ce5b_S.jpg",
-                "url": "https://www.ecofinagency.com/news-services/1407-57386-world-bank-urges-cabo-verde-to-improve-inter-island-transport-to-diversify-growth",
-                "source": "Ecofin Agency",
-                "date": "2026-07-14T19:29:09Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T11:15:56.407696Z"
+    "lastGlobalSync": "2026-07-15T11:40:27.622223Z"
 }
