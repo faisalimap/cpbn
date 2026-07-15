@@ -4,6 +4,15 @@
     "en": {
         "business": [
             {
+                "title": "PVH Names Sephora Executive Alexis Rollier CFO",
+                "desc": "PVH Corp. appoints Alexis Rollier, former Sephora COO and CFO, as its new chief financial officer to drive growth for Calvin Klein and Tommy Hilfiger.",
+                "image": "https://wwd.com/wp-content/uploads/2026/07/PVH_Alexis_Rollier.png?crop=0px%2C14px%2C640px%2C358px&resize=1000%2C563",
+                "url": "https://wwd.com/business-news/human-resources/pvh-names-alexis-rollier-cfo-sephora-exec-1239066212/",
+                "source": "WWD",
+                "date": "2026-07-14T21:38:37Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Layoff Watch '26: Big Cuts Are Coming at KPMG Australia",
                 "desc": "A source told AFR it could be 1,000 or more people.",
                 "image": "https://www.goingconcern.com/wp-content/uploads/2026/07/KPMG-Australia-layoffs-July-2026.jpg",
@@ -623,18 +632,36 @@
                 "source": "West Virginia University",
                 "date": "2026-07-14T17:55:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Pieces of Kentucky Fried Chicken history are headed to the auction block",
-                "desc": "The real estate and memorabilia of KFC founder Harland Sanders are going up for public auction. The home of Colonel Sanders, known as Blackwood Hall, and his wife’s restaurant, the Claudia Sanders Dinner House, both in Shelbyville, are for sale.",
-                "image": "https://npr.brightspotcdn.com/dims4/default/bb33c25/2147483647/strip/true/crop/982x516+0+402/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F79%2Ffde6e32e4f8b82f29979a851f238%2Fcol-sanders-stove.jpeg",
-                "url": "https://www.wkyufm.org/news/2026-07-14/pieces-of-kentucky-fried-chicken-history-are-headed-to-the-auction-block",
-                "source": "WKU Public Radio",
-                "date": "2026-07-14T17:50:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Pixel 11 starting price increase revealed by leaked Amazon listings",
+                "desc": "Ahead of August's Pixel 11 launch, Amazon may have accidentally spilled the beans on the whole lineup's price, colors, and specs.",
+                "image": "https://helios-i.mashable.com/imagery/articles/03Bf8VT9qlPN5dr0XuvKYas/hero-image.fill.size_1200x675.v1784047968.jpg",
+                "url": "https://mashable.com/tech/google-pixel-11-leak-price-colors",
+                "source": "Mashable",
+                "date": "2026-07-14T21:39:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
+                "desc": "OpenAI's first AI hardware product is a mobile smart speaker without a display, reports Bloomberg. The device is at the heart of a new legal dispute with Apple, with Apple accusing OpenAI of stealing trade secrets that have contributed to the development of the product. OpenAI's speaker-like product is designed to \"serve as a humanlike AI companion that lives in the home,\" according to Bloomberg.",
+                "image": "https://images.macrumors.com/t/_Zqp6utkD3f5AUEd2S6oIEW_7N8=/2000x/article-new/2025/11/openai-chatgpt-logo.jpg",
+                "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
+                "source": "MacRumors",
+                "date": "2026-07-14T21:37:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Glen Schofield Announces Retirement in Emotional Video: 'This is an Amazing Industry'",
+                "desc": "Glen Schofield has retired from making games after a whopping 35 years in the industry. He announced this with an emotional video.",
+                "image": "https://insider-gaming.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-223335-1024x569.png",
+                "url": "https://insider-gaming.com/glen-schofield-retirement-video-posted-online-emotional/",
+                "source": "Insider Gaming",
+                "date": "2026-07-14T21:35:10Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "OnePlus smartphones could leave U.S. and Europe this week",
                 "desc": "One of the best options for affordable flagship phones could stop selling its wares in the west as soon as this week.",
@@ -1237,36 +1264,27 @@
                 "source": "TechPowerUp",
                 "date": "2026-07-14T18:24:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Oversee a Bustling Kingdom in ‘The King is Watching,’ Coming to Consoles July 29",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2024/05/211755-568cd0d0/Key_Art_16x9_Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=1338ec53fca6ba8e67230de5471870f4dcce1a318d7b5369d40a91a80119f790",
-                "url": "https://www.gamespress.com/pl/Oversee-a-Bustling-Kingdom-in-The-King-is-Watching-Coming-to-Consoles-",
-                "source": "Games Press",
-                "date": "2026-07-14T18:22:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Micro-Sized BOSGAME AMD Ryzen 5 Mini PC with 16GB of RAM and 512GB SSD Drops to $260",
-                "desc": "A versatile, fit-anywhere, and budget-friendly PC with productivity and gaming chops.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/14/bosgame-1784051373223.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/bosgame-mini-pc-deal",
-                "source": "IGN",
-                "date": "2026-07-14T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU exempts smart glasses from removable battery rules",
-                "desc": "Brussels has carved wearables out of its battery law, clearing the way for Meta's glasses. Nintendo, meanwhile, is pulling the Switch from Europe.",
-                "image": "https://media.thenextweb.com/2026/07/eu-battery-rules-exemption-smart-glasses-meta.avif",
-                "url": "https://thenextweb.com/news/nintendo-is-pulling-a-console-from-europe-over-battery-rules-metas-glasses-just-got-exempted-from-them",
-                "source": "The Next Web",
-                "date": "2026-07-14T18:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "old dies after car crashes into him at Randallstown intersection",
+                "desc": "John Bates Sr. was struck by a 2025 Hyundai Elantra at the intersection of Liberty Road and Old Court Road around 4:45 a.m. Tuesday, according to the Baltimore County Police Department.",
+                "image": "https://www.thebanner.com/resizer/v2/EEYILWQWWFFJBO7J6MWX7HYIEA.jpg?auth=6272876ae89bdbf4663bdd13b2825cedb0accf60d8427fb55bf987c9fb5607b8&width=1280&height=720&smart=true&quality=85",
+                "url": "https://www.thebanner.com/community/local-news/fatal-crash-randallstown-OBQYML5ITVE2NFZA5JBCJ7NFEQ/",
+                "source": "The Baltimore Banner",
+                "date": "2026-07-14T21:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
+                "desc": "Midnight to 6am block on some apps is latest stage of Labour’s bid to protect young people from online harms",
+                "image": "https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3af564e7949de79200e52bb796db8a2",
+                "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
+                "source": "The Guardian",
+                "date": "2026-07-14T21:36:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Default social media curfews, autoplay curbs confirmed for older teens in UK",
                 "desc": "MLex Summary: Social media platforms in the UK will have to impose midnight-to-6am curfews by default for 16- and 17-year-olds, and must automatically disable autoplay and infinite-scroll feeds for these users, the UK government said in a statement on Tuesday. But over-16s should be able to disable the automatic protections, as the government said measures should “strike a balance between giving older teenagers greater safeguards online, while still allowing them to change their own settings if they wish.” Ministers also promised to bring forward a package of measures to help children use AI chatbots safely.",
@@ -1878,26 +1896,8 @@
                 "source": "ZAWYA",
                 "date": "2026-07-14T17:39:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Russian Crude Piles Up at Sea as Refinery Strikes Cripple Oil Flows",
-                "desc": "By July 12, Russian exports averaged 4.21M bpd. Refinery strikes left 135M barrels stuck at sea, cutting weekly revenue by $200M to $1.68B.",
-                "image": "https://storage.united24media.com/og/0/28/7d55bddb7ca6ecdd50a8e4c30ba22280.jpg",
-                "url": "https://united24media.com/world/russian-crude-piles-up-at-sea-as-refinery-strikes-cripple-oil-flows-20780",
-                "source": "UNITED24 Media",
-                "date": "2026-07-14T17:39:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Adeniyi Adeyemi arrested: Police arrest Prince Adeniyi Adeyemi, DG of fake Presidential Foreign Intervention Promotion Council",
-                "desc": "Abuja court don oder make dem arrest Adeniyi Adeyemi, wey present imsef as di Director-General of Presidential Foreign Intervention Promotion Council (PFIPC), e dey face criminal charges for di running di fake agency.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/d92d/live/2e378a10-7fa1-11f1-a5f4-433bb9aa2e5a.jpg",
-                "url": "https://www.bbc.com/pidgin/articles/c9d2dev4724o",
-                "source": "BBC",
-                "date": "2026-07-14T17:37:01Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T09:33:46.157536Z"
+    "lastGlobalSync": "2026-07-15T09:40:25.143078Z"
 }
