@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "China’s top lithium firms project up to 50-fold profit surge amid energy transition boom",
+                "desc": "Soaring profits at Tianqi and Ganfeng highlight how global demand for energy independence is powering China’s lithium edge.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/14/23e4dc94-9fb3-4441-867c-3bf374cc8557_26a81682.jpg?itok=feUstYh0&v=1784035970",
+                "url": "https://www.scmp.com/business/commodities/article/3360563/chinas-top-lithium-firms-project-50-fold-profit-surge-amid-energy-transition-boom",
+                "source": "South China Morning Post",
+                "date": "2026-07-15T00:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fairfax to acquire IDBI Bank stake in $5.5 billion deal, biggest foreign investment in Indian bank",
+                "desc": "Fairfax Holdings aims to secure a major stake in IDBI Bank through an improved offer. The collaboration with the government and LIC is set to yield about fifty-three thousand crore rupees from their combined stakes. This groundbreaking investment will set a new record as the largest foreign influx into an Indian bank.",
+                "image": "https://img.etimg.com/thumb/msid-132400462,width-1200,height-630,imgsize-57454,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fairfax-to-acquire-idbi-bank-stake-in-5-5-billion-deal-biggest-foreign-investment-in-indian-bank/articleshow/132400419.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-15T00:00:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "The Next Oil Rally May Depend On China, Not The Middle East",
+                "desc": "China drew heavily on crude inventories during the Iran conflict, slashing imports while maintaining refinery runs and easing pressure on global oil supplies.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-14_w0edqapjrd.jpg",
+                "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Rally-May-Depend-On-China-Not-The-Middle-East.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-15T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Photos: Air NZ reveals new cabin designs for long haul planes",
+                "desc": "Upgrades to the economy and business premier cabins are set to begin in March next year.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-upgraded-business-premier-cabin-layout-for-air-nzs-777-3-TNV23ELNP5GOFAWDT2VOPDGIH4.jpg?auth=a34d127a8dc889fa15f250ffaf313f618c8535f184785f1b527e5a8b5a4d3db5&quality=70&width=600&height=315&focal=848%2C1505",
+                "url": "https://www.1news.co.nz/2026/07/15/photos-air-nz-reveals-new-cabin-designs-for-long-haul-planes/",
+                "source": "1News",
+                "date": "2026-07-14T23:58:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Heat wave leads to significant delays on GO Transit network",
+                "desc": "Significant delays and even some cancellations left GO Transit riders waiting to get home Tuesday evening.",
+                "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/14/IMG_7524-scaled.jpeg",
+                "url": "https://toronto.citynews.ca/2026/07/14/heat-wave-leads-to-significant-delays-cancellations-on-go-transit-network/",
+                "source": "CityNews Toronto",
+                "date": "2026-07-14T23:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "She says her husband was sucked halfway out of a Ryanair plane",
+                "desc": "The wife of the Ryanair passenger who was partially sucked out of a plane's broken window speaks out on the incident.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/14/USAT/90918503007-20260711-t-133623-z-486644856-rc-2-sama-3-y-15-c-rtrmadp-3-ryanairgreeceemergency.JPG?crop=2295,1291,x0,y1394&width=2295&height=1291&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/travel/airline-news/2026/07/14/ryanair-passenger-sucked-out-of-window-wife-interview/90917305007/",
+                "source": "USA Today",
+                "date": "2026-07-14T23:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indian IT stocks Infosys, Wipro, TCS see modest losses after IBM's worst day since 1968",
+                "desc": "In response to IBM's fall, the US-listed shares of Indian IT services companies (ADRs), Infosys and Wipro, fell 4% and 3% respectively. Shares of other software-oriented companies, Accenture, Salesforce, Microsoft, Cognizant, Autodesk, also declined between 1.5% to 3%.",
+                "image": "https://images.cnbctv18.com/uploads/2026/07/chatgpt-image-jul-15-2026-05-18-55-am-1-2026-07-353f2330541d69b2619b0a815665dc35.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://www.cnbctv18.com/market/indian-it-stocks-infosys-tcs-wipro-hcltech-techm-persistent-share-price-ibm-worst-fall-1968-reaction-q2-19945614.htm",
+                "source": "CNBC TV18",
+                "date": "2026-07-14T23:51:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "707 Cayman Holdings Effects a Share Consolidation on July 14, 2026",
+                "desc": "HONG KONG, July 14, 2026 (GLOBE NEWSWIRE) -- 707 Cayman Holdings Limited ('707” or the 'Company”) (Nasdaq: JEM), a Hong Kong-based company that sells quality apparel products and provides supply chain management total solutions, today announced that the outstanding shares of the Company have been consolidated on a 12 for 1 ratio with the marketplace effective date of July 14, 2026.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/15/1137375.png",
+                "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/globenewswire/707-cayman-holdings-effects-a-share-consolidation-on-july-14-2026/2384631",
+                "source": "The Manila Times",
+                "date": "2026-07-14T23:49:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2 More Ex-Japan Post Workers Involved in Bidding Fraud",
+                "desc": "Tokyo, July 15 (Jiji Press)--Two more former Japan Post Co. workers were found to have been involved in biddin…",
+                "image": "https://www.nippon.com/en/ncommon/contents/news/3039517/3039517.jpg",
+                "url": "https://www.nippon.com/en/news/yjj2026071401018/",
+                "source": "nippon.com",
+                "date": "2026-07-14T23:48:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2 More Ex-Japan Post Workers Involved in Bidding Fraud",
+                "desc": "Tokyo, July 15 (Jiji Press)--Two more former Japan Post Co. workers were found to have been involved in biddin…",
+                "image": "https://www.nippon.com/en/ncommon/contents/news/3039517/3039517.jpg",
+                "url": "https://www.nippon.com/en/news/yjj2026071401018/2-more-ex-japan-post-workers-involved-in-bidding-fraud.html",
+                "source": "nippon.com",
+                "date": "2026-07-14T23:48:40Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "300 jobs lost as Canfor closes Northwood Pulp Mill in Prince George",
                 "desc": "The company says it is facing \"unsustainable financial losses.\"",
                 "image": "https://i.cbc.ca/ais/1.6590130,1767710280073/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C276%2C5345%2C3006%29%3BResize%3D620",
@@ -542,99 +632,72 @@
                 "source": "RNZ",
                 "date": "2026-07-14T20:45:58Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nueva Vizcaya residents want mining firm’s permit revoked",
-                "desc": "Residents affected by mining in two municipalities of Nueva Vizcaya demand the immediate revocation of NLMRC permit.",
-                "image": "https://newsinfo.inquirer.net/files/2026/07/Nueva-Vizcaya-Mining-15July2026.jpg",
-                "url": "https://newsinfo.inquirer.net/2263838/nueva-vizcaya-residents-want-mining-firms-permit-revoked",
-                "source": "Inquirer.net",
-                "date": "2026-07-14T20:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Arsat sticks with fiber, data and satellite bets in 2026",
-                "desc": "The Argentine state-owned company plans investments of US$20.6mn for 2026, focusing on fiber optics, data centers, and the Arsat-SG1 satellite mission, financed by IDB, Fonplata, CAF, and IBRD.",
-                "image": "https://cdnimg.bnamericas.com/mAMDrngZUSlmLgQOrcKGOedKHwiOyyklRmQysmprVaFIwIDTAMhtuFhRKzzjjUDT.jpg",
-                "url": "https://www.bnamericas.com/en/news/arsat-sticks-with-fiber-data-and-satellite-bets-in-2026",
-                "source": "BNamericas",
-                "date": "2026-07-14T20:38:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Quito to the Galápagos, Petroecuador's fuel network faces a health check",
-                "desc": "Ecuador hires firm to review the national oil company's logistics and transport system.",
-                "image": "https://cdnimg.bnamericas.com/WfoUZOUsjsKSXykUNVcCVGwxpWqbbzZXDyoLnJzLcnzGbILWmyduujCoCuzufyvW.jpg",
-                "url": "https://www.bnamericas.com/en/news/from-quito-to-the-galapagos-petroecuadors-fuel-network-faces-a-health-check",
-                "source": "BNamericas",
-                "date": "2026-07-14T20:38:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "United's new seating option ditches the middle seat",
-                "desc": "United Airlines unveiled a new economy offering that keeps the middle seat vacant and instead features a table with cupholders that passengers in the aisle and window seats may use.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/united-airlines-airbus-a321-gate-passengers.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/lifestyle/uniteds-new-seating-option-ditches-middle-seat",
-                "source": "Fox Business",
-                "date": "2026-07-14T20:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Boston Dynamics Wants Its Robot Dog to Deliver Your Packages",
-                "desc": "Boston Dynamics envisions its four-legged 'Spot' robot helping human delivery workers, noting the company is already 'in talks with major logistics companies.'",
-                "image": "https://i.pcmag.com/imagery/articles/01lX9kybI2iBPYz3PTOuais-1.fit_lim.size_1200x630.v1784050770.jpg",
-                "url": "https://www.pcmag.com/news/boston-dynamics-wants-its-robot-dog-to-deliver-your-packages",
-                "source": "PCMag",
-                "date": "2026-07-14T20:33:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US says Nvidia’s H200 exports to China remain ‘trivial’ despite approvals",
-                "desc": "US commerce official Jeffrey Kessler says only a ‘very small quantity’ of AI chips have reached mainland China and Hong Kong so far.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/15/69e0789b-c783-4c8f-9648-cbebdb54c702_7c29fe8b.jpg?itok=851g8hxT&v=1784061188",
-                "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
-                "source": "South China Morning Post",
-                "date": "2026-07-14T20:33:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The U.S. Humanoid Robot Industry Is Falling Behind",
-                "desc": "The United States risks falling further behind China in humanoid robotics unless policymakers adopt a national strategy to strengthen domestic production, accelerate adoption, and scale the industry.",
-                "image": "https://cdn.sanity.io/images/03hnmfyj/production/efaf37b6f9b09ada00e64c2f11e6f1610a7ac7ea-1920x1080.jpg",
-                "url": "https://itif.org/publications/2026/07/14/the-u-s-humanoid-robot-industry-is-falling-behind/",
-                "source": "Information Technology and Innovation Foundation (ITIF)",
-                "date": "2026-07-14T20:32:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kalshi Wants to Predict the Future of Compute Availability",
-                "desc": "Process that.",
-                "image": "https://gizmodo.com/app/uploads/2025/10/data-center-1200x675.jpg",
-                "url": "https://gizmodo.com/kalshi-wants-to-predict-the-future-of-compute-availability-2000785534",
-                "source": "Gizmodo",
-                "date": "2026-07-14T20:30:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Chip Stock Behind Nvidia's AI Servers Just Landed on the Nasdaq",
-                "desc": "South Korean memory chip giant SK Hynix has finally begun trading on a U.S. exchange.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878402%2Ftechnician-holds-memory-chip-with-gloved-hand.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/14/the-chip-behind-nvidias-ai-servers-just-landed-on/",
-                "source": "The Motley Fool",
-                "date": "2026-07-14T20:24:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Ritz-Carlton Partners With Merit Beauty And Eberjey Pajamas",
-                "desc": "Fresh collaborations with cult brands are turning stays into serious style moments.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a56995b86ac0e0426758a45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/forbestravelguide/2026/07/14/the-ritz-carlton-partners-with-merit-beauty-and-eberjey-pajamas/",
-                "source": "Forbes",
-                "date": "2026-07-14T20:22:40Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The man who tried 200 to-do apps has some advice about AI",
+                "desc": "The Verge's David Pierce kicks off our new series on staying productive in the AI era — starting with why you should stop trying to stay ahead",
+                "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/size/w1200/2024/01/1500x500-1.jpeg",
+                "url": "https://www.platformer.news/david-pierce-interview-productivity-podcast/",
+                "source": "Platformer",
+                "date": "2026-07-14T23:57:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft patches 622 flaws, including SharePoint bugs",
+                "desc": "Defenders face added pressure as the update covers two actively exploited flaws and a SharePoint bug that could enable remote code execution.",
+                "image": "https://securitybrief.com.au/uploads/story/2026/07/15/compatible_adam-barnett-and-stephen-fewer.jpg",
+                "url": "https://securitybrief.com.au/story/microsoft-patches-622-flaws-including-sharepoint-bugs",
+                "source": "SecurityBrief Australia",
+                "date": "2026-07-14T23:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Switch 2 'Choose Your Game' Bundle Gets A Discount Ahead Of System Price Revision (US)",
+                "desc": "A standalone system will cost $499.99 as of September - Nintendo is increasing the cost of the Switch 2 in North America this September, and just weeks out f...",
+                "image": "https://images.nintendolife.com/45bf721a25315/large.jpg",
+                "url": "https://www.nintendolife.com/news/2026/07/switch-2-choose-your-game-bundle-gets-a-discount-ahead-of-system-price-revision-us",
+                "source": "nintendolife.com",
+                "date": "2026-07-14T23:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Diamond Atelier's 205-HP ULTRON Hyperbike Glows Like It Rode Straight Out of TRON",
+                "desc": "Diamond Atelier's one-of-one DA#22 ULTRON hides 205 KTM-sourced horsepower underneath.",
+                "image": "https://cdn.hiconsumption.com/wp-content/uploads/2026/07/Diamond-Atelier-Ultron-0-Hero.jpg",
+                "url": "https://hiconsumption.com/motors/diamond-atelier-da22-ultron-hyperbike/",
+                "source": "HiConsumption",
+                "date": "2026-07-14T23:51:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Michael Wretham-Brown returns to Match & Wood in Chief Digital Officer role",
+                "desc": "Independent media agency Match & Wood has appointed Michael Wretham-Brown as Chief Digital Officer, marking the return of one of its original team members to lead the agency's digital and technical practice.",
+                "image": "https://wa.campaignbrief.com/wp-content/uploads/sites/3/2026/07/Michael-Wretham-Brown.jpg",
+                "url": "https://wa.campaignbrief.com/michael-wretham-brown-returns-to-match-wood-in-chief-digital-officer-role/",
+                "source": "Campaign Brief WA",
+                "date": "2026-07-14T23:50:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI's first hardware device will be a speaker, Bloomberg News reports",
+                "desc": "July 14 (Reuters) - OpenAI will ⁠launch a portable, screen-free smart speaker as its first consumer ⁠hardware product, Bloomberg News reported on Tuesday, days after Apple ‌sued the AI startup and two former employees of the iPhone maker for trade-secret theft.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011160.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/15/openai039s-first-hardware-device-will-be-a-speaker-bloomberg-news-reports",
+                "source": "The Star",
+                "date": "2026-07-14T23:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galway International Arts Festival 2026: Dressing Room",
+                "desc": "Dressing Room: Image, Emilija Jefremova**In Locations: The Landscapes of Fiction, literary critic Elizabeth Hardwick reveals how locations enrich our engagement with stories. The House of Usher. Uncle Tom’s Cabin. Wuthering Heights. Room. Places that become more than place names, often speaking to moral, social or cultural virtue signalling. In their evolving Rooms series, writer and director Enda Walsh and designer Paul Fahy aspire to sensoramic, immersive engagement with a different location e",
+                "image": "https://static.wixstatic.com/media/e10c48_22c36a4b8f64458ea9ef32ded5bf35b1~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/e10c48_22c36a4b8f64458ea9ef32ded5bf35b1~mv2.jpg",
+                "url": "https://www.theartsreview.com/single-post/galway-international-arts-festival-2026-dressing-room",
+                "source": "theartsreview.com",
+                "date": "2026-07-14T23:44:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Michael Wretham-Brown Returns To Match & Wood As Chief Digital Officer",
                 "desc": "Wretham-Brown will remain in London for the role, however, noting that the weather is better there than in Melbourne.",
@@ -1201,72 +1264,99 @@
                 "source": "Man of Many",
                 "date": "2026-07-14T20:22:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "DMC Deploys Two ‘Reverse Remote Production’ Trucks From Broadcast Solutions",
-                "desc": "Powering the software-defined OB trucks is Grass Valley AMPP software",
-                "image": "https://cdn.mos.cms.futurecdn.net/9qjTcbsZswEKRJh5ykQSCa-2560-75.jpg",
-                "url": "https://www.tvtechnology.com/production/live-production/dmc-deploy-two-reverse-remote-production-trucks-from-broadcast-solutions",
-                "source": "TVTechnology",
-                "date": "2026-07-14T20:21:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "XPG Unveils NIMBUS and NIMBUS PLUS Gaming Chairs",
-                "desc": "XPG, the gaming brand of ADATA Technology, today announced the launch of its latest ergonomic gaming chairs, the NIMBUS and NIMBUS PLUS. As remote work continues to shape modern lifestyles and dedicated gamers increasingly require robust support for extended sitting sessions, having a chair that...",
-                "image": "https://www.techpowerup.com/img/4BnIyJg0z25iJ4rG.jpg",
-                "url": "https://www.techpowerup.com/350762/xpg-unveils-nimbus-and-nimbus-plus-gaming-chairs",
-                "source": "TechPowerUp",
-                "date": "2026-07-14T20:19:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Need a New Android Phone? Pick Up the Google Pixel 10 Pro While It's $300 Off",
-                "desc": "This 30% off discount brings the phone to less than $20 more than it's record low price.",
-                "image": "https://www.cnet.com/a/img/resize/9aed9763a4460fd4b18ec82028bc19d3f524b8fd/hub/2026/07/13/07ec41f7-2a67-4d66-a32e-3d40d4a9def3/google-pixel-10-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/google-pixel-10-pro-deal/",
-                "source": "CNET",
-                "date": "2026-07-14T20:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "T. rex 'Gus' sold at auction for record $50 million",
-                "desc": "A massive Tyrannosaurus rex sold for $50.1 million at Sotheby's in New York making it the most expensive dinosaur fossil sold at auction.",
-                "image": "https://cdnph.upi.com/sv/ph/og/upi/7651784059517/2026/1/1046727b84bfeec7e49879469314e368/v1.5/T-rex-Gus-sold-at-auction-for-record-50-million.jpg",
-                "url": "https://www.upi.com/Top_News/US/2026/07/14/tyrannosaurus-rex-gus-sold-sothebys/7651784059517/",
-                "source": "upi.com",
-                "date": "2026-07-14T20:16:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DuRoBo unveils Moodi Bluetooth page turner for its Krono e-reader",
-                "desc": "DuRoBo’s new Moodi Bluetooth 5.4 page turner adds customizable emoji button caps and multi‑mode controls for hands‑free operation of its Krono e‑ink reader. The compact accessory offers weeks‑long battery life and a $35.99 price point.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/DuRoBo-unveils-Moodi-Bluetooth-page-turner-for-its-Krono-e-reader.jpg",
-                "url": "https://www.notebookcheck.net/DuRoBo-unveils-Moodi-Bluetooth-page-turner-for-its-Krono-e-reader.1342872.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-14T20:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Potential sticker shock pushes smartphone buyers to last year's iPhone and Galaxy models",
-                "desc": "Expected price hikes for Apple and Samsung smartphones are driving shoppers toward older flagship models like the iPhone 17 and Galaxy S26. With modest upgrades and a chip shortage squeezing costs, new iPhone 18 and Galaxy foldables may face weaker demand.",
-                "image": "https://image.koreajoongangdaily.com/12773540.jpg?imageId=12773540&x=0&y=7.1&cropw=100&croph=73.3&panox=0&panoy=7.1&panow=100&panoh=73.3&width=1200&height=683",
-                "url": "https://www.koreajoongangdaily.com/business/potential-sticker-shock-pushes-smartphone-buyers-to-last-years-iphone-and-galaxy-models/12773782",
-                "source": "Korea JoongAng Daily",
-                "date": "2026-07-14T20:00:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft To Make Passkeys The Default Authentication Method For Entra ID",
-                "desc": "Microsoft has announced one of the most significant changes to enterprise identity security in recent years, confirming that passkeys will become the default authentication experience for Microsoft Entra ID beginning September 1, 2026. The move marks a major step in the company's long-term effort to",
-                "image": "https://media.licdn.com/dms/image/v2/D4E12AQG2QoyTIp1RHQ/article-cover_image-shrink_720_1280/B4EZ9hs5JLJEAQ-/0/1784050593369?e=2147483647&v=beta&t=sdSC3O3XE9HMQCwNpO-OcMWijxh_ezsTy1Jq-avokRE",
-                "url": "https://www.linkedin.com/pulse/microsoft-make-passkeys-default-authentication-fhgue",
-                "source": "LinkedIn",
-                "date": "2026-07-14T20:00:07Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Malaysia’s US$500 million warship set for delivery, minus the missiles",
+                "desc": "The navy’s first littoral combat ship is arriving later this year without the anti-ship missiles meant to give it offensive teeth.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/14/0b1c2b46-6ca4-4701-a1ac-28f9f94d09d2_49b186ce.jpg?itok=Yk3WrAQ8&v=1784016502",
+                "url": "https://www.scmp.com/week-asia/politics/article/3360507/malaysias-new-warship-can-hunt-submarines-cannot-sink-foe",
+                "source": "South China Morning Post",
+                "date": "2026-07-15T00:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live Updates: Latest from Israel, Iran, and Middle East",
+                "desc": "US carries out fresh round of strikes in Iran • CENTCOM reinstates blockade in Strait of Hormuz • Trump requests Israel to pull out of Syria, Lebanon",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729941",
+                "url": "https://www.jpost.com/middle-east/iran-news/2026-07-15/live-updates-902540",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-15T00:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live Updates: Latest from Israel, Iran, and Middle East",
+                "desc": "US carries out fresh round of strikes in Iran • CENTCOM reinstates blockade in Strait of Hormuz • Trump requests Israel to pull out of Syria, Lebanon",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729941",
+                "url": "https://www.jpost.com/middle-east/iran-news/2026-07-14/live-updates-902426",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-15T00:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026/50 “The ASEAN-Russia Commemorative Summit: Symbolism, Aspirations and Niche Cooperation” by Ian Storey",
+                "desc": "Looking ahead, Russia will continue to leverage ASEAN-led mechanisms to diversify international partnerships and mitigate the effects of Western isolation, but its influence will remain constrained by its limited economic weight and the continuing repercussions of the war with Ukraine.",
+                "image": "https://iseas.edu.sg/wp-content/uploads/2026/07/AFP__20260618__B7HY3JP__v1__HighRes__RussiaAseanPoliticsDiplomacyEconomySummit-copy.jpeg",
+                "url": "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-50-the-asean-russia-commemorative-summit-symbolism-aspirations-and-niche-cooperation-by-ian-storey/",
+                "source": "ISEAS – Yusof Ishak Institute",
+                "date": "2026-07-15T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz",
+                "desc": "US president says he will knock out all Iran’s power plants and bridges next week in bid to force Tehran to agree to a deal",
+                "image": "https://i.guim.co.uk/img/media/f2a2f15e98b97639cff131c2203ee05b3e289cf0/0_616_5488_4393/master/5488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2a682beff7881fe3826766877a0b603",
+                "url": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
+                "source": "The Guardian",
+                "date": "2026-07-14T23:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade",
+                "desc": "(1st UPDATE) Analysts have said Iran has been signalling it may use its Houthi allies in Yemen to shut the Bab el-Mandeb gateway to the Red Sea, opening a new front against Washington and putting two of the world's most vital energy arteries at risk",
+                "image": "https://www.rappler.com/tachyon/2026/04/USA-TRUMP-2026-03-31-scaled.jpg",
+                "url": "https://www.rappler.com/world/middle-east/trump-resumes-iran-port-blockade-threatens-strikes-energy-targets-july-14-2026/",
+                "source": "Rappler",
+                "date": "2026-07-14T23:58:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump threatens to target Iran power plants, bridges next week: 'Major damage'",
+                "desc": "Donald Trump threatened to hit Iran 'very hard' with expanded military strikes, warning power plants and bridges are next unless Tehran comes to the negotiating table.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-iran.jpg",
+                "url": "https://www.foxnews.com/media/trump-threatens-expand-strikes-iran-says-power-plants-next-go-hit-them-hard",
+                "source": "Fox News",
+                "date": "2026-07-14T23:51:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tracing Typhoon Bavi's Cold Wake",
+                "desc": "Typhoon Bavi spent nine days in the Western Pacific and didn't leave without taking something.",
+                "image": "https://www.swellnet.com/themes/custom/swellnet/favicon.ico",
+                "url": "https://www.swellnet.com/news/swellnet-analysis/2026/07/14/tracing-typhoon-bavis-cold-wake",
+                "source": "Swellnet",
+                "date": "2026-07-14T23:50:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Electricity: Ethiopia Expands Power Exports to Kenya",
+                "desc": "Ethiopia and Kenya have taken a new step in strengthening their energy cooperation. The two countries have signed an agreement to increase electricity trade an...",
+                "image": "https://powersofafrica.com/pouvoirsafriqueen/uploads/images/2026/07/14/16206.png",
+                "url": "https://powersofafrica.com/article/4058/electricity-ethiopia-expands-power-exports-to-kenya",
+                "source": "Powers of Africa",
+                "date": "2026-07-14T23:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US-Iran conflict converges on Hormuz",
+                "desc": "The war between the United States and Iran is increasingly being fought over control of the Strait of Hormuz, with both sides using the strategic waterway as a source of military and political leverage.",
+                "image": "https://i.iranintl.com/images/rdk9umy0/production/3e4b37424ad09c63befa2c494901b4452ef93a98-800x450.jpg?rect=0,15,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+                "url": "https://www.iranintl.com/en/202607145677",
+                "source": "ایران اینترنشنال",
+                "date": "2026-07-14T23:46:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Shocking traveller conduct",
                 "desc": "A FOREIGN traveller shocked fellow passengers at a local airport by holding a child over a rubbish bin to defecate, China Press reported.",
@@ -1806,98 +1896,8 @@
                 "source": "1News",
                 "date": "2026-07-14T20:29:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%",
-                "desc": "International Business News: US senators on Tuesday unveiled a revised version of a Russia sanctions bill that seeks to pressure Moscow and its major energy buyers, including Indi.",
-                "image": "https://static.toiimg.com/thumb/msid-132400877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/business/international-business/us-eases-russia-sanctions-bill-cuts-tariff-threat-on-india-and-china-from-500-to-100/articleshow/132400873.cms",
-                "source": "The Times of India",
-                "date": "2026-07-14T20:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Late-night TV hosts skewer Mitch McConnell's proof-of-life photo",
-                "desc": "A photo posted on U.S. Sen. Mitch McConnell's Facebook page may have done little to convince the internet that he's still alive, but it's working as a punchline for late-night television hosts in the U.S.",
-                "image": "https://i.cbc.ca/ais/091150f0-c0c8-4849-b0ae-0e0e695dd855,1784057039153/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/entertainment/late-night-mitch-mcconnell-proof-of-life-photo-9.7269952",
-                "source": "CBC",
-                "date": "2026-07-14T20:24:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PEN America president, defending Israel’s critics, resigns after report warns of threats to Jewish authors",
-                "desc": "Dinaw Mengestu criticized the literary free-speech group for failing to defend supporters of the boycott targeting Israel.",
-                "image": "https://static.timesofisrael.com/jewishchronicle/uploads/2026/07/7-13-26-Mengestu.jpg",
-                "url": "https://jewishchronicle.timesofisrael.com/pen-america-president-defending-israels-critics-resigns-after-report-warns-of-threats-to-jewish-authors/",
-                "source": "The Pittsburgh Jewish Chronicle",
-                "date": "2026-07-14T20:22:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US reimposes blockade, Trump threatens to strike Iran's infrastructure",
-                "desc": "Another wave of US strikes on Iran and Iranian attacks on shipping and American allies left an interim peace deal in tatters.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-strike-is-carried-out-by-us-forces-in-iran-QYIVOJYPVVAI5IIS4EWWDFVLWA.png?auth=92c609565ece4d22e30dd1af57100ecea82f66452e9e07718f76d4e5fecb2687&quality=70&width=600&height=315&focal=870%2C385",
-                "url": "https://www.1news.co.nz/2026/07/15/us-reimposes-blockade-trump-threatens-to-strike-irans-infrastructure/",
-                "source": "1News",
-                "date": "2026-07-14T20:22:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "England vs Argentina prediction: 13-1 Bet Builder tip, odds, team news | World Cup 2026",
-                "desc": "England vs Argentina in the semi-finals at the 2026 World Cup. Get match details, betting tips, predictions and TV info for the big game in Atlanta",
-                "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/0eb6e9dd4d9f-england-argentina.jpg",
-                "url": "https://www.racingpost.com/sport/football-tips/world-cup-2026/england-vs-argentina-betting-tips-predictions-team-news-odds-bet-builder-preview-aq4d14z4Yr9X/",
-                "source": "Racing Post",
-                "date": "2026-07-14T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Leste police in major scam center crackdown",
-                "desc": "More than 250 people have been apprehended in Timor-Leste following a sweep of raids on alleged scam centers. While details about what the alleged scams are is still unclear, these raids follow on from a major bust last year in the Timorese region of Oe-Cussee where authorities raided a hotel detaining 30 foreign nationals and seizing phones and starlink units.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/8816c9d004a39d72055000edb47e68cc?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/106899526",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-14T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup grudge match could get a little Messi",
-                "desc": "This semi-final will be, at its most fundamental, a game of football. But, based on the campaigns of both teams, the history and the countless storylines, this collision has everything else.",
-                "image": "https://static.ffx.io/images/$zoom_0.3965%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_655%2C$y_35/t_crop_custom/q_86%2Cf_auto/20495a6618c73273ff1c17a502330077b787c1df",
-                "url": "https://www.smh.com.au/sport/soccer/the-ultimate-world-cup-grudge-match-could-get-a-little-messi-20260714-p60f28.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-14T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mozambique: Gas revenues should go to diversifying economy - president",
-                "desc": "International, MNA | Mozambique's president said on Tuesday that the natural gas mega-projects in Cabo Delgado would have a transformative impact, with the revenue generated used",
-                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
-                "url": "https://macaubusiness.com/mozambique-gas-revenues-should-go-to-diversifying-economy-president/",
-                "source": "Macau Business",
-                "date": "2026-07-14T19:53:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. starts blockade on Iran as Hormuz Strait standoff escalates : NPR",
-                "desc": "The U.S. military says it's begun its blockade of ships entering or exiting Iran's ports, as Iran vows to assert its own control over the critical Strait of Hormuz.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F73%2F21aac05b433bad18a315f5a9b763%2Fgettyimages-2284845333.jpg",
-                "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
-                "source": "NPR",
-                "date": "2026-07-14T19:50:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump teases ‘really big news’ about US elections in Thursday address: ‘Country has to shape up’",
-                "desc": "Trump reportedly plans to claim foreign countries intended to interfere in the 2020 election, which he lost to Joe Biden",
-                "image": "https://static.independent.co.uk/2026/07/14/18/2285448472..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-speech-thursday-election-address-b3014824.html",
-                "source": "The Independent",
-                "date": "2026-07-14T19:49:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T11:40:27.622223Z"
+    "lastGlobalSync": "2026-07-15T12:00:25.077233Z"
 }
