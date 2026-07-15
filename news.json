@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Israeli-designed Palace of Versailles extended reality installation will launch",
+                "desc": "The new \"Light of Liberty\" installation allows visitors to walk next to historical figures in a simulated eighteenth-century environment.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729820",
+                "url": "https://www.jpost.com/international/article-902457",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-14T19:40:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Buyers 'back in the driver's seat as property market slows in south",
+                "desc": "After a decades-long real estate boom, experts say the balance of power is finally shifting from sellers to buyers.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/ad9f7498907be3238ee18ac27ddab079?impolicy=wcms_watermark_news&cropH=3375&cropW=6000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-15/housing-market-brisbane-regional-queensland-budget-impact/106888686",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-14T19:39:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Commonwealth Bank Camden: ‘Ghost town’: Residents in Sydney suburb blindsided by decision to close bank branch Article intro...",
+                "desc": "Commonwealth Bank has informed customers that its branch on Argyle Street in Camden in Sydney’s south-west is permanently shutting its doors on August 21. Read more.",
+                "image": "https://static.ffx.io/images/$zoom_0.5448%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_44%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/7678191cf046374d82f06d2ced5a34c96fc211bbaaf33b0915991a8b566e623a",
+                "url": "https://www.nine.com.au/australia-news/nsw/camden-commonwealth-bank-branch-to-close-residents-blindsides-20260714-p60f89.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-14T19:38:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Latest improvement on inflation isn’t ‘mission accomplished,’ Warsh says",
+                "desc": "Federal Reserve Chairman Kevin Warsh told lawmakers he plans to rid America of inflation.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281465559.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/14/business/live-news/cpi-inflation-kevin-warsh-capitol-hill-testimony",
+                "source": "CNN",
+                "date": "2026-07-14T19:38:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "What are the rules around power banks on planes, and why?",
+                "desc": "Many travellers still aren’t aware of the rules – or the fire risk.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/power-bank-generic-NG3WKUPOBZC7ZPNXW6UORO474I.jpg?auth=0d7f6faccb673a7a1ea239f0606dcca15166922ca599ba500fbc86037f6f2338&quality=70&width=600&height=315&focal=1332%2C846",
+                "url": "https://www.1news.co.nz/2026/07/15/what-are-the-rules-around-power-banks-on-planes-and-why/",
+                "source": "1News",
+                "date": "2026-07-14T19:36:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woolworths reveals future of deli counters after shoppers notice sections vanishing",
+                "desc": "Woolworths insists its delis are not dying – but 30 permanent closures and a wave of renovations tell a different story for shoppers.",
+                "image": "https://www.realcommercial.com.au/news/wp-content/uploads/2026/07/capi_7bb974a9303a501975a51806a9b2829d_50fbeb20c889c188d0ca3b003bd0c881-768x576.jpeg",
+                "url": "https://www.realcommercial.com.au/news/woolworths-reveals-future-of-deli-counters-after-shoppers-notice-sections-vanishing",
+                "source": "realcommercial.com.au",
+                "date": "2026-07-14T19:35:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IBM shares plunge 25% as AI spending boom disrupts business",
+                "desc": "Shares in IBM plunged 25% on Tuesday local time after the United States tech giant released disappointing preliminary second-quarter results, blaming a shift...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/MNTSWNSHYZF5BONXAAAHATQ2GU.jpg?auth=e5c6963a149499be235d67b862e7bd65b4dfdbb08c4936ce3eb98498fa247ca1&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/business/ibm-shares-plunge-25-as-ai-spending-boom-disrupts-business/QZLS47LCQJHOBIIWZW2QLMACOY/",
+                "source": "NZ Herald",
+                "date": "2026-07-14T19:35:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Takeaways from Fed Chairman Kevin Warsh’s first congressional testimony",
+                "desc": "Federal Reserve Chairman Kevin Warsh on Tuesday offered his most detailed account yet of the sweeping changes he’s ushering in at America’s central bank and the philosophy behind them.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-14t141124z-508761531-rc2qdmay4ddn-rtrmadp-3-usa-fed-warsh-housefinancialservices.JPG?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/14/economy/takeaways-kevin-warsh-congressional-testimony",
+                "source": "CNN",
+                "date": "2026-07-14T19:35:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "West Kelowna issues water quality advisory after vehicle crash",
+                "desc": "A water quality advisory has been issued for parts of West Kelowna after an early morning crash damaged a water main.",
+                "image": "https://www.castanet.net/content/2026/7/large/screenshot_2026-07-14_at_12.32.26pm_p4293748.jpg",
+                "url": "https://www.castanet.net/news/West-Kelowna/624666/West-Kelowna-issues-water-quality-advisory-after-vehicle-crash",
+                "source": "Castanet",
+                "date": "2026-07-14T19:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Victorian Roscommon home retains many original features",
+                "desc": "The property dates back approximately 150 years",
+                "image": "https://www.roscommonherald.ie/cms_media/module_img/7718/3859201_10_articledetail_12_20Goff_20St_20Aerial_2001_20Edit.jpg",
+                "url": "https://www.roscommonherald.ie/news/victorian-roscommon-home-retains-many-original-features_arid-104974.html",
+                "source": "roscommonherald.ie",
+                "date": "2026-07-14T19:31:32Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Michael and Packie to feature at Donegal diaspora event in London",
                 "desc": "Michael Murphy and Packie Bonner will feature in a star-studded Fireside chat at a diaspora event in London, that takes place in September.",
                 "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNVxcXC8wNlxcXC9NaWNoYWVsLU11cnBoeS0xLWUxNzU4NzgzNTY1NjMzLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC9zdG9yYWdlLmRvbmVnYWxkYWlseS5jb21cXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImJiNWQ1MzY2ZmRjYWQzYWM5NDNmZWVjZDE5ZDNjYjFlMmZmZTMzYmYifQ==/michael-and-packie-to-feature-at-donegal-diaspora-event-in-london.jpg",
@@ -542,99 +632,99 @@
                 "source": "Health Policy Watch",
                 "date": "2026-07-14T16:12:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Buffett omits gift to Bill Gates' foundation after Microsoft cofounder's Epstein ties disclosed",
-                "desc": "Gates has denied any ties to Epstein’s crimes and has not been accused of any wrongdoing",
-                "image": "https://i.guim.co.uk/img/media/002b10323eb83712b379409c7c1326494796f80e/566_0_4439_3551/master/4439.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d39298984ebc7b4d12dc573911259473",
-                "url": "https://www.theguardian.com/business/2026/jul/14/bill-gates-warren-buffet-donation",
-                "source": "The Guardian",
-                "date": "2026-07-14T16:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cup Noodle unveils first-ever cold-water instant ramen in Japan",
-                "desc": "Iconic instant ramen brand now has a cold-water-only version designed to beat the heat.",
-                "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/07/Cold-Cup-noodle-instant-ramen-japan-new-chilled-summer-Nissin-pot-product-food-news-4.jpeg?w=580&h=305&crop=1",
-                "url": "https://soranews24.com/2026/07/15/cup-noodle-unveils-first-ever-cold-water-instant-ramen-in-japan/",
-                "source": "SoraNews24",
-                "date": "2026-07-14T16:00:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AboitizPower to develop P8.4 billion Ilocos wind farm",
-                "desc": "Aboitiz Power Corp., the country’s leading power producer, is spending roughly P8.4 billion to construct a massive wind project in Bangui, Ilocos Norte.",
-                "image": "https://media.philstar.com/photos/2026/07/14/82025-08-1723-19-07_2026-07-14_20-03-25.jpg",
-                "url": "https://www.philstar.com/business/2026/07/15/2542131/aboitizpower-develop-p84-billion-ilocos-wind-farm",
-                "source": "Philstar.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thrift banks sustain profit growth",
-                "desc": "Thrift banks remain stable and competitive as they expand their balance sheets while adapting to digital transformation, artificial intelligence and tougher cybersecurity demands, according to Chamber of Thrift Banks and Equicom Savings Bank president Jaime Valentin Araneta.",
-                "image": "https://media.philstar.com/photos/2026/07/14/a2025-03-2019-23-08_2026-07-14_19-34-08.jpg",
-                "url": "https://www.philstar.com/business/2026/07/15/2542126/thrift-banks-sustain-profit-growth",
-                "source": "Philstar.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil’s Oversupply Narrative Just Died",
-                "desc": "Renewed U.S.-Iran hostilities have pushed Brent above $85, ending the oversupply narrative and reviving fears of a global oil shortage.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-14_zm97qqyb4h.jpg",
-                "url": "https://oilprice.com/Energy/Crude-Oil/Oils-Oversupply-Narrative-Just-Died.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GT Capital secures investment grade rating from JCR",
-                "desc": "GT Capital Holdings Inc., the diversified conglomerate of the Ty family, has secured a foreign currency long-term issuer rating of A- with a stable outlook from the Japan Credit Rating Agency Ltd. (JCR), affirming the group’s strong credit profile.",
-                "image": "https://media.philstar.com/photos/2026/07/14/182024-06-2318-46-02_2026-07-14_19-59-10.jpg",
-                "url": "https://www.philstar.com/business/2026/07/15/2542130/gt-capital-secures-investment-grade-rating-jcr",
-                "source": "Philstar.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How MVP spent his P10K birthday gift",
-                "desc": "Even with a multibillion-dollar business empire to his name, tycoon Manuel V. Pangilinan still had one government benefit waiting for him: a P10,000 birthday cash gift.",
-                "image": "https://media.philstar.com/photos/2026/07/14/mvp2025-01-1618-54-37_2026-07-14_20-19-43.jpg",
-                "url": "https://www.philstar.com/business/2026/07/15/2542136/how-mvp-spent-his-p10k-birthday-gift",
-                "source": "Philstar.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The squeeze is back",
-                "desc": "We all knew it was a temporary ceasefire but the nearly month-long  relative calm from June 12 when the US-Iran memorandum of agreement was officially signed by both the US and Iran   admittedly lulled some of  us into hoping that some kind of modus vivendi could be reached to allow the world to “normalize.”",
-                "image": "https://media.philstar.com/photos/2026/07/14/afp2026030299j44dmv1midreslebanoniranisraelusconflict2026-03-0214-26-05_2026-07-14_19-54-35.jpg",
-                "url": "https://www.philstar.com/business/2026/07/15/2542129/squeeze-back",
-                "source": "Philstar.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beyond the numbers: Why investor relations matters more than ever",
-                "desc": "Trust is the foundation of every healthy capital market.",
-                "image": "https://media.philstar.com/photos/2026/07/14/12026-07-0318-41-58_2026-07-14_19-39-13.jpg",
-                "url": "https://www.philstar.com/business/2026/07/15/2542127/beyond-numbers-why-investor-relations-matters-more-ever",
-                "source": "Philstar.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lacson seeks probe into power bill hikes, ‘bill shock’",
-                "desc": "Sen. Panfilo Lacson has filed a resolution seeking a Senate investigation into rising electricity rates, “bill shock” complaints and system loss charges passed on to consumers.",
-                "image": "https://media.philstar.com/photos/2026/07/14/con_2026-07-14_22-39-32.jpg",
-                "url": "https://www.philstar.com/headlines/2026/07/15/2542217/lacson-seeks-probe-power-bill-hikes-bill-shock",
-                "source": "Philstar.com",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "New cell imaging method shines a light on blind spots",
+                "desc": "Cells are crowded, dynamic places where thousands of molecules interact in tight quarters. Until now, scientists lacked a reliable way to see many of these molecular interactions as they happen. Researchers at the University of Illinois Chicago have now developed a new imaging method that allows scientists to see previously hidden enzyme activities in small regions across the whole cell. The findings, published in the Proceedings of the National Academy of Sciences, open new possibilities for understanding how cells process information.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-cell-imaging-metho.jpg",
+                "url": "https://phys.org/news/2026-07-cell-imaging-method.html",
+                "source": "Phys.org",
+                "date": "2026-07-14T19:40:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+                "desc": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
+                "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+                "source": "TechCrunch",
+                "date": "2026-07-14T19:39:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Huawei Launches the Pura 90s Series Globally with Major Camera Upgrades",
+                "desc": "Huawei has launched the Pura 90s Pro and Pro Max globally, bringing 5G support, upgraded cameras, a 200MP telephoto sensor, and improved photography features.",
+                "image": "https://media.imaging-resource.com/2026/07/14192936/huawei-pura-90s-pro-max.jpg",
+                "url": "https://www.imaging-resource.com/news/huawei-launches-the-pura-90s-series-globally-with-major-camera-upgrades/",
+                "source": "Imaging Resource",
+                "date": "2026-07-14T19:37:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel 11 and Pixel Watch 5 Leaks Show New Colors and Prices",
+                "desc": "The rumors keep coming for Google's latest flagships.",
+                "image": "https://www.cnet.com/a/img/resize/f375313bf47799b2f7629333e34fca6611109d5a/hub/2025/08/20/18fb05e0-53f2-438f-94e5-7c1ff7ba4706/google-pixel-10-pro-xl-fold-review-cnet-lanxon-75.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/pixel-11-pixel-watch-5-leaks-new-colors-higher-prices/",
+                "source": "CNET",
+                "date": "2026-07-14T19:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galaxy Watch 9 and Ultra 2 specs leak with big battery upgrade",
+                "desc": "Ahead of their debut in just over a week, yet another leak details the full specs of Samsung’s Galaxy Watch...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-mint-leak-1_f20b01.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/",
+                "source": "9to5Google",
+                "date": "2026-07-14T19:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Young tech entrepreneur motivated to improve women's health",
+                "desc": "University of Wollongong student Keshika Jayakumar has channelled her own experiences into founding a health tech start-up and has already won awards.",
+                "image": "https://www.illawarramercury.com.au/images/transform/v1/crop/frm/gzajA9j5yvatvSgWamdNVy/d2cb1ae7-32f5-4f9f-8255-82774c741437.JPG/r0_167_5217_2906_w1200_h630_fmax.jpg",
+                "url": "https://www.illawarramercury.com.au/story/9310178/young-tech-entrepreneur-motivated-to-improve-womens-health/",
+                "source": "Illawarra Mercury",
+                "date": "2026-07-14T19:30:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New exemptions added to EU rules on removability of batteries",
+                "desc": "The Commission is exempting six additional product categories from EU requirements on removability and replaceability of portable batteries.",
+                "image": "https://www.eubusiness.com/wp-content/uploads/2026/07/watch-digital-watch-Image-by-LIN-LONG-from-Pixabay.jpg",
+                "url": "https://www.eubusiness.com/environment/new-exemptions-added-to-eu-rules-on-removability-of-batteries/",
+                "source": "EUbusiness.com",
+                "date": "2026-07-14T19:29:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Health won't delete your data if you opt out of AI training",
+                "desc": "Samsung has clarified that it'll only delete AI-specific data if you opt out of AI training in Samsung Health.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/samsung-health-app-redesign-enlarge-dashboard-widgets-1-e1781880947917.jpg",
+                "url": "https://www.androidauthority.com/samsung-health-ai-training-opt-out-3687480/",
+                "source": "Android Authority",
+                "date": "2026-07-14T19:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nintendo eyeing OLED Switch 2 with Samsung display: report",
+                "desc": "Samsung also provided the screens for the original OLED Switch.",
+                "image": "https://production-static.mobilesyrup.com/uploads/2025/06/switch-2-headers-scaled.jpg",
+                "url": "https://mobilesyrup.com/2026/07/14/nintendo-oled-switch-2-samsung-display-report/",
+                "source": "MobileSyrup",
+                "date": "2026-07-14T19:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Josh.ai Introduces Native Support for DMX and DALI Lighting Protocols",
+                "desc": "Josh.ai Introduces Native Support for DMX and DALI Lighting Protocols — All the latest news coverage of the AV industry from rAVe [PUBS]. From press releases to product announcements, get your news from rAVe [PUBS] first.",
+                "image": "https://ravepubs.com/wp-content/uploads/2026/07/Josh.ai-1-800x400.webp",
+                "url": "https://ravepubs.com/josh-ai-introduces-native-support-for-dmx-and-dali-lighting-protocols/",
+                "source": "rAVe [PUBS]",
+                "date": "2026-07-14T19:21:57Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Microsoft and Google push passkeys deeper into workplace authentication",
                 "desc": "Microsoft and Google accelerate passwordless workplace authentication with expanded passkey and FIDO2 security key support.",
@@ -1174,99 +1264,99 @@
                 "source": "Ars Technica",
                 "date": "2026-07-14T16:28:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The MVP of Deals: Save Over $300 With This Samsung Curved Gaming Monitor",
-                "desc": "Amazon's Deals of the Day always come in hot with some serious gaming discounts. Grab Asus gaming desktops at over $1,000 off, and Acer gaming laptops at 20% off right now.",
-                "image": "https://i.pcmag.com/imagery/articles/01SEm0lgwXBN70pVXhs3Ome-1.fit_lim.size_1200x630.v1784038765.png",
-                "url": "https://www.pcmag.com/deals/amazon-deals-of-the-day-samsung-curved-gaming-monitor-july-14",
-                "source": "PCMag",
-                "date": "2026-07-14T16:26:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ChatGPT Returns to WhatsApp in Europe After EU Orders Meta to Restore Rival AI Access",
-                "desc": "OpenAI re-enabled ChatGPT on WhatsApp across the European Economic Area on July 13, following European Commission interim measures issued June 9 that ordered M…",
-                "image": "https://mlq.ai/static/mlq/og-default.png",
-                "url": "https://mlq.ai/news/chatgpt-returns-to-whatsapp-in-europe-after-eu-orders-meta-to-restore-rival-ai-access/",
-                "source": "MLQ.ai",
-                "date": "2026-07-14T16:24:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-                "desc": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/07/adam-mosseri-GettyImages-2239561007.jpg?w=1024",
-                "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-                "source": "TechCrunch",
-                "date": "2026-07-14T16:22:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This capable mini-PC for both work and 1080p gaming with increasingly expensive RAM and storage is now on sale just for today",
-                "desc": "The Geekom A7 Max Mini-PC is a commendable desktop and its 16GB RAM, 1TB config is now on sale for a limited time at Best Buy",
-                "image": "https://cdn.mos.cms.futurecdn.net/KeCRvtbtnXpRXyysvwK8ZS-1600-80.jpg",
-                "url": "https://www.windowscentral.com/hardware/desktops/this-capable-mini-pc-for-both-work-and-1080p-gaming-with-increasingly-expensive-ram-and-storage-is-now-on-sale-just-for-today",
-                "source": "Windows Central",
-                "date": "2026-07-14T16:21:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gears of War: E-Day Gets DLSS 4.5 at Launch",
-                "desc": "With the October 6 launch of Gears of War: E-Day fast approaching, more and more details about the game are starting to appear online, whether via official channels or leaks. The latest news is that, in addition to the previously announced Ray Traced lighting, reflections, and shadows, Gears of...",
-                "image": "https://www.techpowerup.com/img/TBEpDTNyVPZhdSkW.jpg",
-                "url": "https://www.techpowerup.com/350756/gears-of-war-e-day-gets-dlss-4-5-at-launch",
-                "source": "TechPowerUp",
-                "date": "2026-07-14T16:21:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo Switch 2",
-                "desc": "Amazon just dropped a deal on the Nintendo Switch 2: Choose Your Own Game Bundle, offering the chance to save an extra $50 on the console ahead of its September price hike.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/14/switch-2-choose-game-bundle-1779198531109-1784043407547.png?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/nintendo-switch-2-choose-your-game-bundle-is-50-off-ahead-of-september-price-hike",
-                "source": "IGN",
-                "date": "2026-07-14T16:20:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I finally made my Windows desktop useful and it only took one tiny app",
-                "desc": "Your desktop could be doing so much more.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/desktop-monitor-photo-themia-widget-settings-panel-with-email-preview-and-folder-shortcuts.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/make-windows-desktop-useful-with-themia/",
-                "source": "MakeUseOf",
-                "date": "2026-07-14T16:00:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Channel Zero: No-End House’ Holds Up as a Liminal-Space Nightmare",
-                "desc": "The 2017 series based on a creepypasta tale is a perfect rewatch for fans of ‘Backrooms.’",
-                "image": "https://gizmodo.com/app/uploads/2026/07/Channel_Zero_Top_art-1200x675.jpg",
-                "url": "https://gizmodo.com/channel-zero-no-end-house-holds-up-as-a-liminal-space-nightmare-2000784418",
-                "source": "Gizmodo",
-                "date": "2026-07-14T16:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Concho AI turns enterprise codebases into a knowledge layer for AI agents",
-                "desc": "Concho AI turns enterprise codebases into a knowledge layer for AI agents - SiliconANGLE",
-                "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/programming-background-with-person-working-with-codes-computer.jpg",
-                "url": "https://siliconangle.com/2026/07/14/concho-ai-turns-enterprise-codebases-knowledge-layer-ai-agents/",
-                "source": "SiliconANGLE",
-                "date": "2026-07-14T16:00:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Most Technically Ambitious Gears To Date' - Xbox Partners With NVIDIA On Gears Of War: E-Day",
-                "desc": "The Coalition promises a \"first-class PC experience\" - For the past few weeks, I've been prepping myself for October's Gears of War: E-Day by plugging away a...",
-                "image": "https://images.purexbox.com/7dd54e0a793c1/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/07/most-technically-ambitious-gears-to-date-xbox-partners-with-nvidia-on-gears-of-war-e-day",
-                "source": "Pure Xbox",
-                "date": "2026-07-14T16:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "What Zelensky wants from his next government",
+                "desc": "President Volodymyr Zelensky's decision on July 12 to reshuffle the government came as a surprise to many — both on the streets and in the halls of parliament.\nAccording to the Constitution, the president cannot single-handedly dismiss the prime minister. Yet lawmakers who spoke with the Kyiv Independent appeared largely unfazed by Zelensky's move to replace Prime Minister Yuliia Svyrydenko, which parliament rubber-stamped on July 14.\nThe reasons behind the reshuffle remain unclear. Many lawma",
+                "image": "https://assets.kyivindependent.com/content/images/2026/07/GettyImages-2284475975_20260714-193051.jpg",
+                "url": "https://kyivindependent.com/whats-behind-zelenskys-surprise-government-reshuffle/",
+                "source": "The Kyiv Independent",
+                "date": "2026-07-14T19:38:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "West Africa and the Sahel: Terrorism is changing its face",
+                "desc": "Jihadist groups are no longer content with launching attacks in West Africa and the Sahel: they administer territories, control trade routes, exploit new technologies and are gradually pushing their influence all the way to the Gulf of Guinea.",
+                "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-08-2025-UNOCHA-Mali.jpg/image770x420cropped.jpg",
+                "url": "https://news.un.org/en/story/2026/07/1167940",
+                "source": "UN News",
+                "date": "2026-07-14T19:36:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ballymena deaths: Police treating incident as ‘double murder followed by a sudden death’",
+                "desc": "PSNI say deceased found in a family home include a girl (8), a woman (39) and a man (41)",
+                "image": "https://www.irishtimes.com/resizer/v2/W2UHX6XB6AUTB3RMTYVIES7A74.jpg?smart=true&auth=0103612ef3648157f75cadb95ce38644d36f52e6243ddbfdbe938b569006dd8d&width=1200&height=630",
+                "url": "https://www.irishtimes.com/crime-law/2026/07/14/police-remain-at-ballymena-scene-after-three-relatives-found-dead-in-family-home/",
+                "source": "The Irish Times",
+                "date": "2026-07-14T19:36:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shaping the Future of the IGF: Integration, Relevance and Impact in the Post",
+                "desc": "The Internet Governance Forum has secured its permanent place in the UN system. Its next challenge is to strengthen its relevance, deepen multistakeholder collaboration, and deliver greater impact across an increasingly complex and fragmented digital governance landscape.",
+                "image": "https://circleid.com/images/member_photos/photo_9490.jpg",
+                "url": "https://circleid.com/posts/shaping-the-future-of-the-igf-integration-relevance-and-impact-in-the-post-wsis20-era",
+                "source": "CircleID",
+                "date": "2026-07-14T19:34:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Bank Urges Cabo Verde to Improve Inter-Island Transport to Diversify Growth",
+                "desc": "The World Bank says unreliable inter-island transport has become one of Cabo Verde’s biggest barriers to diversified economic growth\nDespite strong",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/c9c154ca41558156f41b555e1e76ce5b_S.jpg",
+                "url": "https://www.ecofinagency.com/news-services/1407-57386-world-bank-urges-cabo-verde-to-improve-inter-island-transport-to-diversify-growth",
+                "source": "Ecofin Agency",
+                "date": "2026-07-14T19:29:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hamas Forces Interfered With Aid Distribution, U.N. Says",
+                "desc": "A raid by armed personnel led the World Food Program to suspend its operations in one part of Gaza, the U.N. said. Hamas disputed the accusations.",
+                "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13int-un-hamas01-photo-lfhz/13int-un-hamas01-photo-lfhz-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/13/world/middleeast/un-says-hamas-forces-interfered-with-aid-distribution-at-a-gaza-site.html",
+                "source": "The New York Times",
+                "date": "2026-07-14T19:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apostolic Nuncio in South Africa Urges “return of faith” to Safeguard Humanity’s Future",
+                "desc": "The Apostolic Nuncio in South Africa has called for the “return of faith to international affairs,” as the world seeks to restore moral authority in global leadership.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-14t172248_1784053011.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22941/apostolic-nuncio-in-south-africa-urges-return-of-faith-to-safeguard-humanitys-future",
+                "source": "ACI Africa",
+                "date": "2026-07-14T19:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMECEA Plenary Assembly Strengthens Kenya’s Position as Regional Hub for Dialogue: Government",
+                "desc": "Kenya's hosting of the 21st Plenary Assembly of the Association of Member Episcopal Conferences in Eastern Africa (AMECEA) will reinforce the country's standing as a regional hub for dialogue, diplomacy, and international conferences, Kenya’s Prime Cabinet Secretary, Wycliffe Musalia Mudavadi, has said.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-14t164305_1784053924.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22947/amecea-plenary-assembly-strengthens-kenyas-position-as-regional-hub-for-dialogue-government",
+                "source": "ACI Africa",
+                "date": "2026-07-14T19:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa On A Budget: Which Countries Offer The Most Value For Black American Travelers Right Now",
+                "desc": "When choosing the best African countries to visit, travelers should know the difference between what's \"cheapest\" and what offers the most \"value.\"",
+                "image": "https://cms.travelnoire.com/wp-content/uploads/2026/07/GettyImages-2271443254-1568x1045.jpg",
+                "url": "https://travelnoire.com/best-african-countries-to-visit-for-the-most-value",
+                "source": "Travel Noire",
+                "date": "2026-07-14T19:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya’s Catholic Journalists Urged to be “a little bit more artistic” in Coverage of 21st AMECEA Plenary Assembly",
+                "desc": "Catholic journalists in Kenya have been challenged to improve media excellence by being “a little bit more artistic” in their coverage of the 21st Plenary Assembly of the Association of Member Episcopal Conferences in Eastern Africa (AMECEA).",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-14t172201_1784054031.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22949/kenyas-catholic-journalists-urged-to-be-a-little-bit-more-artistic-in-coverage-of-21st-amecea-plenary-assembly",
+                "source": "ACI Africa",
+                "date": "2026-07-14T19:18:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The best food in the home of pizza surprised me",
                 "desc": "Sometimes you learn more about a city by eating on the street than by ticking off the top 10 sights.",
@@ -1806,98 +1896,8 @@
                 "source": "Tuko News",
                 "date": "2026-07-14T15:57:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
-                "desc": "The UN maritime agency, IMO, condemned overnight attacks on shipping in and around the Strait of Hormuz that killed at least two seafarers as fresh strikes were reported early Tuesday in the escalating US-Iran war.",
-                "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_AdobeStock_Oman.jpg/image770x420cropped.jpg",
-                "url": "https://news.un.org/en/story/2026/07/1167936",
-                "source": "UN News",
-                "date": "2026-07-14T15:56:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Almost 990 gardaí accompanied 277 returnees on 10 deportation flights since last February",
-                "desc": "New figures show that the cost of deporting the 377 returnees across 10 separate deportation operations to the likes of South Africa, Georgia, Nigeria, Pakistan, Romania, Poland and Lithuania totalled €3.9 million.",
-                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDJcXFwvMDkxMzE1MjZcXFwvZDIwZDYyMTItMzFkMC00YmZlLWI3NzktMjIzMTQzN2M1MWJmLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTg0YTg5YmI3ODVkMzMyYWRmNGVkYTg4ZDQxOGJmMzg0ZTJhMzEyZiJ9/almost-990-garda-accompanied-277-returnees-on-10-deportation-flights-since-last-february.jpg",
-                "url": "https://www.breakingnews.ie/ireland/almost-990-gardai-accompanied-277-returnees-on-10-deportation-flights-since-last-february-1926809.html",
-                "source": "BreakingNews.ie",
-                "date": "2026-07-14T15:56:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian-origin astronaut Anil Menon lifts-off to ISS: Inside Russia's eight-month mission",
-                "desc": "Science News: Indian-origin Nasa astronaut Anil Menon, along with his two Russian cosmonauts on Tuesday lifted off aboard the Roscosmos Soyuz MS-29 spacecraft for h.",
-                "image": "https://static.toiimg.com/thumb/msid-132395931,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/science/indian-origin-astronaut-anil-menon-lifts-off-to-iss-inside-russias-eight-month-mission/articleshow/132395420.cms",
-                "source": "The Times of India",
-                "date": "2026-07-14T15:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India Names Countries Whose Citizens Can Enter Without a Visa and Stay Indefinitely",
-                "desc": "The Indian government has confirmed that only two countries, Bhutan and Nepal, hold full visa exemption status for entry into the country in 2026.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/1ce77a3c31ec151d.jpeg?v=1",
-                "url": "https://yen.com.gh/people/307887-india-names-countries-citizens-enter-a-visa-stay-indefinitely/",
-                "source": "Yen News",
-                "date": "2026-07-14T15:53:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Several found dead in lift shaft after fire in central Brussels building",
-                "desc": "Several people have died in a fire at a building under construction in Brussels on Tuesday, local authorities have said.",
-                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_7534bcf969.jpg",
-                "url": "https://www.dailymirror.lk/breaking-news/Several-found-dead-in-lift-shaft-after-fire-in-central-Brussels-building/108-345630",
-                "source": "Daily Mirror - Sri Lanka",
-                "date": "2026-07-14T15:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lakes that ‘breathe’ ancient carbon: a surprising find in the Congo Basin",
-                "desc": "Ancient carbon is leaking from two lakes in the Congo Basin, revealing a previously unknown link between tropical peatlands and the atmosphere.",
-                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
-                "url": "https://www.modernghana.com/news/1510618/lakes-that-breathe-ancient-carbon-a-surprising.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-14T15:52:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Experts Warn Against Waste Incineration as False Solution Ahead of Africa Clean Air Forum",
-                "desc": "Pretoria mdash; Policymakers, scientists, civil society groups, development partners, and community leaders are converging in Pretoria this week for the 2026 Africa Clean Air Forum, running from July 13 to 16, under the theme ldquo;Investment Case for Clean Air and Healthy Cities. rdquo; The annual gathering has evolved from a conference into a continental platform where governments, researchers, and communities exchange evidence, build partnerships, and advance action on air",
-                "image": "https://cdn.modernghana.com/images/content/714202655034-qulxoba442-1002765623.jpg",
-                "url": "https://www.modernghana.com/news/1510622/experts-warn-against-waste-incineration-as-false.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-14T15:52:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Schismatic SSPX in Kenya insists on Catholic identity",
-                "desc": "The faithful must be \"properly informed so that they are not misled by the use of the name Catholic or by external forms of Catholic worship.\"",
-                "image": "https://www.osvnews.com/wp-content/uploads/2026/07/20260714T1048-KENYA-SSPX-ARGUMENT-1823406.jpg",
-                "url": "https://www.osvnews.com/after-vaticans-excommunication-sspx-in-kenya-insists-on-catholic-identity-fighting-archdiocese/",
-                "source": "OSV News",
-                "date": "2026-07-14T15:39:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "10 countries where university education is free or affordable in 2026",
-                "desc": "Discover the countries offering free or low-cost university education in 2026, including Germany, Norway, Finland and France, where students can access affordable higher education. Read more.",
-                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/14072026/73b64721-29c5-4c64-882d-2cdcb2a2eff3.jpg?operations=autocrop(1200:630)",
-                "url": "https://www.pulse.com.gh/story/10-countries-where-university-education-is-free-or-affordable-in-2026-2026071415282638254",
-                "source": "Pulse Ghana",
-                "date": "2026-07-14T15:39:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "E Jean Carroll receives $5.6m owed by Trump after court releases damages",
-                "desc": "Funds released from escrow account after Trump’s efforts to block sexual abuse and defamation award fail",
-                "image": "https://i.guim.co.uk/img/media/853f8104cf4b3d611f97f558bf8680675d58ec8a/287_0_2870_2296/master/2870.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77329c5e636e60fe9b80c02d41199699",
-                "url": "https://www.theguardian.com/us-news/2026/jul/14/e-jean-carroll-trump-payment",
-                "source": "The Guardian",
-                "date": "2026-07-14T15:39:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T07:00:58.881964Z"
+    "lastGlobalSync": "2026-07-15T07:40:22.379949Z"
 }
