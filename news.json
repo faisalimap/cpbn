@@ -4,6 +4,15 @@
     "en": {
         "business": [
             {
+                "title": "Qantas' Seasonal Perth-Rome Route Is Secretly A Project Sunrise Stress Test",
+                "desc": "Current routes are helping Qantas understand demand ahead of Project Sunrise.",
+                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/seasonal-perth-rome.jpg?w=1600&h=900&fit=crop",
+                "url": "https://simpleflying.com/qantas-seasonal-perth-rome-route-secretly-project-sunrise-stress-test/",
+                "source": "Simple Flying",
+                "date": "2026-07-15T01:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Dealer agrees to buy back car after odometer tampering conviction",
                 "desc": "The MBIE prosecution marked the first successful case against odometer fraud, with dealer ordered to pay reparation and company fined $5000.",
                 "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/dashboard-odometer-speedometer-file-image-stock-generic-UTWA4MZCZZAFRMTAMGBC4VNZK4.jpg?auth=202f71a145566eafaeaa36db0efb5df65ee48dc854ed84e0722a7ebc2e2f9db9&quality=70&width=600&height=315&focal=1048%2C494",
@@ -622,15 +631,6 @@
                 "url": "https://dailypost.ng/2026/07/14/uba-business-series-enlists-m-i-abaga-chowdeck-ceo-egunjobi-to-speak-on-innovation-african-startups/",
                 "source": "Daily Post Nigeria",
                 "date": "2026-07-14T21:48:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MyFlyYatra is expanding its business class flight to Australia, Africa, Japan, Europe, Dubai, Singapore, Bangkok, New Zealand by introducing enhanced coverage for global destinations as part of its on",
-                "desc": "MyFlyYatra announces expanded business class flight booking options from the United States to Australia, Africa, Japan, Europe, Singapore, Bangkok, New Zealand and Dubai.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/15/1137333.png",
-                "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/globenewswire/myflyyatra-is-expanding-its-business-class-flight-to-australia-africa-japan-europe-dubai-singapore-bangkok-new-zealand-by-introducing-enhanced-coverage-for-global-destinations-as-part-of-its-ongoing-growth-strategy/2384607",
-                "source": "The Manila Times",
-                "date": "2026-07-14T21:48:10Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1268,6 +1268,15 @@
         ],
         "world": [
             {
+                "title": "Taiwan’s opposition TPP launches historic first trip to mainland China",
+                "desc": "The party aims to build goodwill and promote dialogue while supporting cross-strait peace, delegation leader says.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/14/4fea08de-5a00-443b-a415-552ddf355900_7e41660f.jpg?itok=UIiHY-vS&v=1784030425",
+                "url": "https://www.scmp.com/news/china/politics/article/3360552/taiwans-opposition-tpp-launches-historic-first-trip-mainland-china",
+                "source": "South China Morning Post",
+                "date": "2026-07-15T01:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Trump threatens to hit Iran power plants, bridges next week if no deal",
                 "desc": "WASHINGTON: President Donald Trump told Fox News on Tuesday he would expand US strikes on Iran next week to target power plants and bridges if Tehran does not make a deal.",
                 "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011198.jpg",
@@ -1887,17 +1896,8 @@
                 "source": "CBS News",
                 "date": "2026-07-14T21:16:16Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup semifinal: Key players to watch in England vs Argentina clash",
-                "desc": "Lionel Messi, Jude Bellingham and Harry Kane will be among the stars on show during Wednesday’s match in Atlanta.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260707__B9JT6LP__v1__HighRes__FblWc2026Match95ArgEgy-1783463825.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-key-players-to-watch-as-england-and-argentina-clash-in-semifinal",
-                "source": "Al Jazeera",
-                "date": "2026-07-14T21:15:52Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T12:58:42.599137Z"
+    "lastGlobalSync": "2026-07-15T13:00:26.386709Z"
 }
