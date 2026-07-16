@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Councillor foresees RTO traffic 'hell' despite city transportation plan",
+                "desc": "City council has passed a $29 million transportation plan it hopes will get public servants to and from the office an extra day a week, some east-end city councillors says the new measures aren't enough to keep up with the pressure.",
+                "image": "https://i.cbc.ca/ais/1.6808169,1681824860000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C335%2C5472%2C3078%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/ottawa/councillor-foresees-rto-traffic-hell-despite-city-transportation-plan-9.7271858",
+                "source": "CBC",
+                "date": "2026-07-15T23:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rising beef prices spark rise of mixed mince",
+                "desc": "The mix of two minces is picking up in popularity as customers look for alternatives to pricey beef.",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/a_foodstuffs_spokesperson_said_pork_trim.jpg?itok=z5aEIDfI",
+                "url": "https://www.odt.co.nz/news/national/rising-beef-prices-spark-rise-mixed-mince-rnz",
+                "source": "Otago Daily Times",
+                "date": "2026-07-15T23:45:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oso Internet Solutions Selects Adtran's Scalable Broadband Technology",
+                "desc": "Oso Internet Solutions Expands Fiber Broadband Access Across Remote Navajo Community",
+                "image": "https://www.thefastmode.com/media/k2/items/src/30f169932651035b352d4911ac4c7bc6.jpg?t=20260715_233234",
+                "url": "https://www.thefastmode.com/technology-solutions/49615-oso-internet-solutions-selects-adtrans-scalable-broadband-technology",
+                "source": "The Fast Mode",
+                "date": "2026-07-15T23:43:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chalmers gives financial regulators fresh marching orders",
+                "desc": "The nation’s corporate and banking regulators are being told to give more attention to growing the economy under new directions issued today.",
+                "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/943c53585c1b2b9c47259d90d60372914af8dc38",
+                "url": "https://www.smh.com.au/politics/federal/chalmers-gives-financial-regulators-fresh-marching-orders-20260715-p60fn3.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-15T23:42:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philtrust Bank scraps InstaPay, PESONet transfer fees",
+                "desc": "Philtrust Bank, one of the oldest established commercial lenders in the country, has eliminated transaction fees for all online fund transfers made through...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/16/116440.webp",
+                "url": "https://mb.com.ph/2026/07/16/philtrust-bank-scraps-instapay-pesonet-transfer-fees",
+                "source": "Manila Bulletin",
+                "date": "2026-07-15T23:39:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+                "desc": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e360/live/a8a2b180-7628-11f1-ac11-19a4319081d7.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo",
+                "source": "BBC",
+                "date": "2026-07-15T23:35:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Discover the Crunch: New Magic Chips Thin & Crispy",
+                "desc": "In the middle of busy schedules and never-ending to-do lists, even the simplest break can become the highlight of the day. Whether you’re powering through work, studying for exams, or commuting between destinations, a quick snack can transform an ordinary pause into a well-deserved moment of enjoyment—especially when it comes with irresistible crunch and flavor. […]",
+                "image": "https://www.wazzup.ph/wp-content/uploads/2026/07/Discover-the-Crunch-New-Magic-Chips-Thin-Crispy.jpg",
+                "url": "https://www.wazzup.ph/discover-the-crunch-new-magic-chips-thin-crispy/",
+                "source": "Wazzup.PH",
+                "date": "2026-07-15T23:35:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria's Economy: Borrowing Costs Undermine Oil Gains",
+                "desc": "OPEC warns that Nigeria's economic growth faces headwinds from high borrowing costs and inflation, despite increased oil output and reforms. Learn more abo",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/AFP__20260705__B9AU4T4__v1__MidRes__FilesAustriaOpecEconomyPolitcsEnergyOilIncrease_1783253488-1200x630.webp",
+                "url": "https://punchng.com/borrowing-costs-undermine-gains-from-nigerias-higher-oil-output-opec/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-15T23:34:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MFs buy financials, IT, FMCG stocks as FIIs remain sellers in June",
+                "desc": "Domestic mutual funds increased exposure to financials, IT, FMCG and healthcare during June, offsetting heavy foreign selling in these sectors.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260627025033_stocks5.jpg",
+                "url": "https://www.moneycontrol.com/news/business/mutual-funds/mfs-buy-financials-it-fmcg-stocks-as-fiis-remain-sellers-in-june-13974711.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-15T23:30:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Would you pay $20 to skip the airport security line?",
+                "desc": "Although it can sometimes mark the official start of a holiday, an airport can be a stressful place. Now Sydney Airport is offering a $20 pass to skip the queue.",
+                "image": "https://static.ffx.io/images/$zoom_0.8449%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_90/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/e4579d716715f1c5ba957e6e273a74a64955070ec5cb88314c2852a330ccdbe7",
+                "url": "https://www.nine.com.au/travel/sydney-fast-track-security-pass-stressful-airports-20260715-p60fij.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-15T23:28:21Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Share crash wipes $1.7 trillion off SpaceX's value, hits thousands of Kiwis",
                 "desc": "SpaceX shares were trading 1.4% down to US$134.19 late in the Nasdaq session - falling below its IPO price and continuing a sustained dive that has wiped m",
                 "image": "https://www.newstalkzb.co.nz/media/rnoj1n5l/hv2xfr5agvfbpfes2roqthylqa.jpg?rmode=crop&v=1dd15078c00cd00&height=395&width=635&quality=95&scale=both",
@@ -542,99 +632,99 @@
                 "source": "SecurityBrief Australia",
                 "date": "2026-07-15T00:44:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Flights bound for Adelaide diverted due to thick fog",
-                "desc": "A number of flights have been delayed for take-off at Adelaide Airport due to heavy fog while three others have been diverted to Melbourne.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/3aeeae69ca63ffda50ffd6dbd498a207?impolicy=wcms_watermark_news&cropH=1316&cropW=2340&xPos=0&yPos=763&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-15/flight-disruptions-due-to-heavy-fog-in-adelaide/106916726",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-15T00:43:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Sued For Allegedly Using Discriminatory AI In Layoff Decisions",
-                "desc": "The company's AI systems targeted employees with disabilities or on medical or parental leave, the lawsuit claims.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261799526-1200x675.jpg",
-                "url": "https://gizmodo.com/meta-sued-for-allegedly-using-discriminatory-ai-in-layoff-decisions-2000785427",
-                "source": "Gizmodo",
-                "date": "2026-07-15T00:38:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PalmPay Appoints Former NIBSS Executive as COO",
-                "desc": "PalmPay strengthens operations by appointing Samuel Oluyemi, former NIBSS executive, as Chief Operating Officer for its Nigeria business.",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/pem.webp",
-                "url": "https://punchng.com/palmpay-appoints-former-nibss-executive-as-coo/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-15T00:38:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "bike scheme amid claims operator Lime was getting 'free ride'",
-                "desc": "Yarra Council says e-bike operator Lime refused to take responsibility for retrieving dumped bikes.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/946b2c608ca4853c90270109d4bbc3d3?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-15/yarra-council-cancels-lime-ebike-scheme/106916638",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-15T00:33:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The One Singapore REIT You Need to Own as a Dividend Investor",
-                "desc": "Looking for stable dividends? Discover why CapitaLand Integrated Commercial Trust (CICT) is the absolute must-own Singapore REIT for your portfolio.",
-                "image": "https://www.dividendtitan.com/wp-content/uploads/2026/07/reit-you-need-6.png",
-                "url": "https://www.dividendtitan.com/the-one-singapore-reit-you-need-to-own-as-a-dividend-investor/",
-                "source": "Dividend Titan",
-                "date": "2026-07-15T00:32:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As consumption worries persist, Hong Kong investors shun mainland Chinese F&B stocks",
-                "desc": "IPO lapses and sliding share prices underscore how weak consumption is dulling Hong Kong’s appetite for mainland China’s food sector.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/14/1f85b2a5-2128-4b7a-9846-fda7583faa5d_9eb68da2.jpg?itok=95fKBiWD&v=1784030167",
-                "url": "https://www.scmp.com/business/markets/article/3360550/consumption-worries-persist-hong-kong-investors-shun-mainland-chinese-fb-stocks",
-                "source": "South China Morning Post",
-                "date": "2026-07-15T00:30:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pilot for Japan airline ANA jailed 20 months for groping flight attendant",
-                "desc": "The 44-year-old abused his power to grope a female flight attendant after work. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cb6d43cdf3c538666f64185ad94af0333abb83d541fabcb54181fbf525a09930",
-                "url": "https://www.straitstimes.com/asia/east-asia/pilot-for-japan-airline-ana-jailed-20-months-for-groping-flight-attendant",
-                "source": "The Straits Times",
-                "date": "2026-07-15T00:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data Centers to Add Billions in Power Costs in 13 States",
-                "desc": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.",
-                "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14biz-pjm-rates-sub-vjgq/14biz-pjm-rates-sub-vjgq-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
-                "source": "The New York Times",
-                "date": "2026-07-15T00:25:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lynk Pharmaceuticals Announces Completion of Patient Enrollment in Phase III Clinical Trial of Zemprocitinib for Ankylosing Spondylitis",
-                "desc": "HANGZHOU, China and SHANGHAI and BOSTON, July 15, 2026 /PRNewswire/ -- Lynk Pharmaceuticals Co., Ltd. ('Lynk Pharmaceuticals'), a clinical-stage innovative drug development company focused on immune and inflammatory diseases, today announced that patient enrollment was completed on July 9 in the Phase III clinical trial evaluating its core product zemprocitinib capsules for the treatment of active ankylosing spondylitis (AS). The successful completion of enrollment marks an important milestone in the development of zemprocitinib for ankylosing spondylitis and brings the program one step closer to providing a new oral treatment option for patients with this chronic inflammatory disease.",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/pr-newswire/lynk-pharmaceuticals-announces-completion-of-patient-enrollment-in-phase-iii-clinical-trial-of-zemprocitinib-for-ankylosing-spondylitis/2384639",
-                "source": "The Manila Times",
-                "date": "2026-07-15T00:25:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Flat Amid Rising Oil Prices",
-                "desc": "Gold was steady in the early Asian trade. Broadly higher yields increase the opportunity-cost of holding non-interest-bearing assets like gold, said Swissquote.",
-                "image": "https://s.wsj.net/img/meta/wsj_favicon.svg",
-                "url": "https://www.wsj.com/finance/commodities-futures/gold-flat-amid-rising-oil-prices-8ceadd37",
-                "source": "WSJ",
-                "date": "2026-07-15T00:24:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Hydrofluoric Acid Prices Climb as AI Chip Demand Outpaces a Strained Semiconductor Materials Supply",
+                "desc": "Formosa Daikin dominates the market, and analysts warn packaging demand is adding fresh pressure through 2027.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/TSMC-2nm-wafer.jpg",
+                "url": "https://wccftech.com/hydrofluoric-acid-prices-climb-as-ai-chip-demand-outpaces-a-strained-semiconductor-materials-supply/",
+                "source": "Wccftech",
+                "date": "2026-07-15T23:43:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cambium Wi-Fi Delivers Space Connectivity for International Space Station Crew Operations",
+                "desc": "Cambium Networks Wi-Fi Delivers Space Connectivity for International Space Station Crew Operations",
+                "image": "https://www.thefastmode.com/media/k2/items/src/5ee4072979fb9de95671ce8e27083035.jpg?t=20260715_234633",
+                "url": "https://www.thefastmode.com/technology-solutions/49638-cambium-wi-fi-delivers-space-connectivity-for-international-space-station-crew-operations",
+                "source": "The Fast Mode",
+                "date": "2026-07-15T23:42:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Linus Torvalds says Linux is “not one of those anti-AI projects.”",
+                "desc": "“I realize that some people really dislike AI, but this is an area where I’m willing to absolutely put my foot down as the top-level maintainer,” Torvalds said this week in a message, as reported by The Register. If someone has issues with Linux not being anti-AI, “they can do the open-source thing and fork it.”\n[Link: Linus Torvalds tells AI haters to fork off | https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894 | The Register]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+                "url": "https://www.theverge.com/news/966374/linus-torvalds-says-linux-is-not-one-of-those-anti-ai-projects",
+                "source": "The Verge",
+                "date": "2026-07-15T23:42:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ZeniMax Online Studios leadership to exit as part of Xbox cuts",
+                "desc": "A rundown of 379 gaming roles eliminated in Maryland last week listed some surprisingly senior job titles",
+                "image": "https://substackcdn.com/image/fetch/$s_!L7ci!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76f46694-782d-4de8-8530-0ce59bcd5199_1920x1080.jpeg",
+                "url": "https://www.gamefile.news/p/zenimax-online-studio-head-out",
+                "source": "Game File | Stephen Totilo",
+                "date": "2026-07-15T23:41:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone Ultra Battery Leaked Smaller Than Anyone Expected",
+                "desc": "The iPhone Ultra battery leaks at just 4,883mAh — nearly 1,000mAh below earlier rumors. Here's why Apple's foldable might still outlast Samsung in 2026.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/07/iPhone-Ultras-Battery-Just-Leaked-—-And-Its-Smaller-Than-Anyone-Expected.jpg",
+                "url": "https://memeburn.com/iphone-ultra-battery-leak/",
+                "source": "Memeburn",
+                "date": "2026-07-15T23:38:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Doxa Machines Its Legendary SUB 300 Diver From Titanium, Right Down to the Dial",
+                "desc": "A 300-piece tribute to Clive Cussler, the novelist who put Doxa on the map.",
+                "image": "https://cdn.hiconsumption.com/wp-content/uploads/2026/07/Doxa-Sub-300-Ti5-Clive-Cussler-0-Hero.jpg",
+                "url": "https://hiconsumption.com/watches/doxa-sub-300-ti5-clive-cussler/",
+                "source": "HiConsumption",
+                "date": "2026-07-15T23:32:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "1 New PS Plus Extra Game Available to Download Now",
+                "desc": "For the US, UK, and Japan - Sony’s rejigged PS Plus Extra schedule means one of today’s newly announced games is available to download now – but only i...",
+                "image": "https://images.pushsquare.com/a775f831c531b/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/1-new-ps-plus-extra-game-available-to-download-now",
+                "source": "Push Square",
+                "date": "2026-07-15T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google opens the floodgates to third-party app stores on Android",
+                "desc": "The final sticking point in the long-running Google vs Epic Games lawsuit is coming to an end, as Google is...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/",
+                "source": "9to5Google",
+                "date": "2026-07-15T23:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto",
+                "desc": "Mac users should watch out for macOS malware called CrashStealer, according to Jamf Threat Labs. The malware impersonates Apple's crash reporting framework, and it's meant to steal all kinds of sensitive information. CrashStealer collects browser data, password manager data, cryptocurrency wallet extensions, and keychain data, and Jamf first noticed it circulating in a fake Apple-notarized app called Werkbit.",
+                "image": "https://images.macrumors.com/t/FWFeAmxnHKf7vkk_MCBh9TcNMVg=/1600x/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+                "url": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+                "source": "MacRumors",
+                "date": "2026-07-15T23:14:24Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Happy's Best New Audio Gear",
+                "desc": "Updated weekly by the fine folk at Happy, here is the best new audio gear that this week has to offer from Australia and around the world!",
+                "image": "https://happymag.tv/wp-content/uploads/2023/03/pro-audio-900px-featureimage.jpg",
+                "url": "https://happymag.tv/happys-best-new-audio-gear-2026/",
+                "source": "Happy Mag",
+                "date": "2026-07-15T23:09:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Google Brings Calendar To Personal Intelligence In AI Mode",
                 "desc": "Google is connecting Calendar to Personal Intelligence in AI Mode, allowing it to add events and factor your schedule into responses.",
@@ -1174,99 +1264,99 @@
                 "source": "Campaign Brief WA",
                 "date": "2026-07-14T23:50:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI's first hardware device will be a speaker, Bloomberg News reports",
-                "desc": "July 14 (Reuters) - OpenAI will ⁠launch a portable, screen-free smart speaker as its first consumer ⁠hardware product, Bloomberg News reported on Tuesday, days after Apple ‌sued the AI startup and two former employees of the iPhone maker for trade-secret theft.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011160.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/15/openai039s-first-hardware-device-will-be-a-speaker-bloomberg-news-reports",
-                "source": "The Star",
-                "date": "2026-07-14T23:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galway International Arts Festival 2026: Dressing Room",
-                "desc": "Dressing Room: Image, Emilija Jefremova**In Locations: The Landscapes of Fiction, literary critic Elizabeth Hardwick reveals how locations enrich our engagement with stories. The House of Usher. Uncle Tom’s Cabin. Wuthering Heights. Room. Places that become more than place names, often speaking to moral, social or cultural virtue signalling. In their evolving Rooms series, writer and director Enda Walsh and designer Paul Fahy aspire to sensoramic, immersive engagement with a different location e",
-                "image": "https://static.wixstatic.com/media/e10c48_22c36a4b8f64458ea9ef32ded5bf35b1~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/e10c48_22c36a4b8f64458ea9ef32ded5bf35b1~mv2.jpg",
-                "url": "https://www.theartsreview.com/single-post/galway-international-arts-festival-2026-dressing-room",
-                "source": "theartsreview.com",
-                "date": "2026-07-14T23:44:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Michael Wretham-Brown Returns To Match & Wood As Chief Digital Officer",
-                "desc": "Wretham-Brown will remain in London for the role, however, noting that the weather is better there than in Melbourne.",
-                "image": "https://www.bandt.com.au/information/uploads/2026/07/Michael-Wretham-Brown.jpg",
-                "url": "https://www.bandt.com.au/michael-wretham-brown-returns-to-match-wood-as-chief-digital-officer/",
-                "source": "bandt.com.au",
-                "date": "2026-07-14T23:39:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Profiles RF Management to Conduct FreqCoord Training",
-                "desc": "Due to popular demand, Peter Twartz from Profiles RF Management (PRM) will be conducting online training sessions during August 2026 on the popular",
-                "image": "https://www.cxnetwork.com.au/wp-content/uploads/2026/07/Freqcoord.png",
-                "url": "https://www.cxnetwork.com.au/profiles-rf-management-to-conduct-freqcoord-training/",
-                "source": "CX Magazine",
-                "date": "2026-07-14T23:38:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Comox to host Island’s first EV-powered movie night",
-                "desc": "Comox is going to be the first community on Vancouver Island to host a fully electric vehicle-powered movie night.",
-                "image": "https://comoxvalleyrecord.com/wp-content/uploads/sites/13/2026/07/42791944_web1_260722-CVR-EV-Powered-Movie-EV_1.jpg?w=1024",
-                "url": "https://comoxvalleyrecord.com/2026/07/14/comox-to-host-islands-first-ev-powered-movie-night/",
-                "source": "Comox Valley Record",
-                "date": "2026-07-14T23:34:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A forgotten immune organ in your chest may predict how long you live, with AI scans linking healthier thymuses to lower death, heart disease and cancer risks",
-                "desc": "Science News: Do you also Google to know about your lifespan? If yes, you will be surprised to know that the answer actually lies within your body. For decades, sci.",
-                "image": "https://static.toiimg.com/thumb/msid-132391532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/science/a-forgotten-immune-organ-in-your-chest-may-predict-how-long-you-live-with-ai-scans-linking-healthier-thymuses-to-lower-death-heart-disease-and-cancer-risks/articleshow/132391486.cms",
-                "source": "The Times of India",
-                "date": "2026-07-14T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Faces at MadisonAV",
-                "desc": "MadisonAV welcomes Grant Embury and Mikael Sandstrom",
-                "image": "https://www.cxnetwork.com.au/wp-content/uploads/2026/07/MadisonAV.png",
-                "url": "https://www.cxnetwork.com.au/new-faces-at-madisonav/",
-                "source": "CX Magazine",
-                "date": "2026-07-14T23:28:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Com2uS Bets on MMORPG Comeback With 'Zeus'",
-                "desc": "Com2uS is accelerating the launch of Zeus: The God of Arrogance (Zeus), unveiling key game",
-                "image": "https://cdn.thelec.net/news/photo/202607/12235_12335_250.png",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=12235",
-                "source": "thelec.net",
-                "date": "2026-07-14T23:26:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung says Galaxy Z Fold 8 gets a 'Flex Titanium' display",
-                "desc": "The Galaxy Z Fold 8 series will get a new foldable display architecture, Samsung admits, which will improve the phone’s...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/14/samsung-galaxy-z-fold-8-flex-titanium-display/",
-                "source": "9to5Google",
-                "date": "2026-07-14T23:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Maku The Label calls out ASOS for allegedly copying design",
-                "desc": "Maku The Label has accused ASOS of copying one of its original t-shirt designs, with the product later removed from the retailer's website.",
-                "image": "https://assets.smartcompany.com.au/wp-content/uploads/sites/4/2026/07/Copy-of-SCM-ed-image-1920x1080-36.png?quality=70&w=1024",
-                "url": "https://www.smartcompany.com.au/retail/melbourne-maku-the-label-calls-out-asos-allegedly-copying-design/",
-                "source": "SmartCompany",
-                "date": "2026-07-14T23:24:59Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "China and Xi Jinping seen more favourably than the US and Trump in poll of major countries",
+                "desc": "Global views appear to have flipped in Beijing’s favour, driven in part by tensions between the Trump administration and US allies, a new Pew survey shows",
+                "image": "https://i.guim.co.uk/img/media/a1af0cb2170dba261b81a8842b38a153347621de/330_0_4025_3219/master/4025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc13baf086f28c0eead97419335fa4bb",
+                "url": "https://www.theguardian.com/us-news/2026/jul/16/china-more-positive-view-us-pew-poll-survey",
+                "source": "The Guardian",
+                "date": "2026-07-15T23:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Black Sea conflict weighs on wheat after Sea of Azov attacks",
+                "desc": "Ukraine’s drone attacks on Russian ships disrupts grain exports through Sea of Azov, leading to rising wheat futures in Chicago, Kansas and Minneapolis.",
+                "image": "https://static.producer.com/wp-content/uploads/2026/07/15172602/347335_web1_International-News-2022-08-19T133443Z_1127712443_RC2OZV948P9W_RTRMADP_3_UKRAINE-CRISIS-GRAIN.jpg",
+                "url": "https://www.producer.com/news/wheat-markets-respond-to-sea-of-azov-attacks-ukraine-russia-war/",
+                "source": "The Western Producer",
+                "date": "2026-07-15T23:44:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Cup 2026: 'That's why he's the king'",
+                "desc": "BBC Sport looks at Lionel Messi's masterclass on the right wing to knock England out of the World Cup.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/48d0/live/8eb95380-80a7-11f1-a71d-c716243bdc80.jpg",
+                "url": "https://www.bbc.com/sport/football/articles/c8jnl9zdzn2o",
+                "source": "BBC",
+                "date": "2026-07-15T23:42:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘We screwed up the comms’: JD Vance admits errors over Epstein files release",
+                "desc": "Vice-president tells Joe Rogan administration botched handling and should have released all documents from start",
+                "image": "https://i.guim.co.uk/img/media/fec00d56fe6dfe8105a3b2f2e5d857b8a91e8707/341_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44a2116bf800ebb60ee0a3aa5149514f",
+                "url": "https://www.theguardian.com/us-news/2026/jul/15/jd-vance-joe-rogan-epstein-files",
+                "source": "The Guardian",
+                "date": "2026-07-15T23:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia news LIVE: US strikes Iran again as Tehran warns of ‘existential war’; One Nation senator criticised for antisemitic post",
+                "desc": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+                "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/5bdd0c9f6007a4eee1ccb46eaf32597b6b98cba4",
+                "url": "https://www.theage.com.au/national/australia-news-live-us-strikes-iran-again-optometrists-put-patients-before-sales-20260716-p60fp8.html",
+                "source": "The Age",
+                "date": "2026-07-15T23:39:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sky News Australia",
+                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+                "source": "Sky News Australia",
+                "date": "2026-07-15T23:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Argentina players brandish political Falklands flag after England match",
+                "desc": "The banner, held up by Lisandro Martinez and Giovani Lo Celso, goes against FIFA’s Stadium Code of Conduct.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a58094a1f53b-1784154442.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match",
+                "source": "Al Jazeera",
+                "date": "2026-07-15T23:36:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+                "desc": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e360/live/a8a2b180-7628-11f1-ac11-19a4319081d7.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo",
+                "source": "BBC",
+                "date": "2026-07-15T23:35:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU Commission takes action to ensure complete and timely transposition of directives",
+                "desc": "EU and global regulatory and policy monitoring, fact-checking, legal documents, policy positions, business, finance, digital transformation, security, sustainability.",
+                "image": "https://ieu-monitoring.com/wp-content/uploads//2023/11/ieu-logo-neu-150x150.png",
+                "url": "https://ieu-monitoring.com/editorial/eu-commission-takes-action-to-ensure-complete-and-timely-transposition-of-directives/1245795?utm_source=ieu-portal",
+                "source": "INSIGHT EU MONITORING",
+                "date": "2026-07-15T23:34:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EXCLUSIVE: Senate Dems’ Top Strategist Outlines His Path to the Majority",
+                "desc": "A good environment, the right candidates, and bit of luck might very well equal 51 members, even with Platner-esque speed bumps.",
+                "image": "https://substackcdn.com/image/fetch/$s_!bhrJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa807015d-66e1-4258-9f26-a0f3268dbe5b_3000x2000.jpeg",
+                "url": "https://www.thebulwark.com/p/exclusive-senate-dems-top-strategist-midterms-schumer-platner-michigan-iowa-south-carolina-graham",
+                "source": "The Bulwark",
+                "date": "2026-07-15T23:30:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "US reports ‘wave of strikes’ on Iran as Middle East war resumes",
                 "desc": "President Donald Trump threatens wider strikes next week targeting Iran's power plants and bridges unless Tehran returns to talks.",
@@ -1806,98 +1896,8 @@
                 "source": "ISEAS – Yusof Ishak Institute",
                 "date": "2026-07-15T00:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz",
-                "desc": "US president says he will knock out all Iran’s power plants and bridges next week in bid to force Tehran to agree to a deal",
-                "image": "https://i.guim.co.uk/img/media/f2a2f15e98b97639cff131c2203ee05b3e289cf0/0_616_5488_4393/master/5488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2a682beff7881fe3826766877a0b603",
-                "url": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
-                "source": "The Guardian",
-                "date": "2026-07-14T23:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade",
-                "desc": "(1st UPDATE) Analysts have said Iran has been signalling it may use its Houthi allies in Yemen to shut the Bab el-Mandeb gateway to the Red Sea, opening a new front against Washington and putting two of the world's most vital energy arteries at risk",
-                "image": "https://www.rappler.com/tachyon/2026/04/USA-TRUMP-2026-03-31-scaled.jpg",
-                "url": "https://www.rappler.com/world/middle-east/trump-resumes-iran-port-blockade-threatens-strikes-energy-targets-july-14-2026/",
-                "source": "Rappler",
-                "date": "2026-07-14T23:58:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump threatens to target Iran power plants, bridges next week: 'Major damage'",
-                "desc": "Donald Trump threatened to hit Iran 'very hard' with expanded military strikes, warning power plants and bridges are next unless Tehran comes to the negotiating table.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-iran.jpg",
-                "url": "https://www.foxnews.com/media/trump-threatens-expand-strikes-iran-says-power-plants-next-go-hit-them-hard",
-                "source": "Fox News",
-                "date": "2026-07-14T23:51:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tracing Typhoon Bavi's Cold Wake",
-                "desc": "Typhoon Bavi spent nine days in the Western Pacific and didn't leave without taking something.",
-                "image": "https://www.swellnet.com/themes/custom/swellnet/favicon.ico",
-                "url": "https://www.swellnet.com/news/swellnet-analysis/2026/07/14/tracing-typhoon-bavis-cold-wake",
-                "source": "Swellnet",
-                "date": "2026-07-14T23:50:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Electricity: Ethiopia Expands Power Exports to Kenya",
-                "desc": "Ethiopia and Kenya have taken a new step in strengthening their energy cooperation. The two countries have signed an agreement to increase electricity trade an...",
-                "image": "https://powersofafrica.com/pouvoirsafriqueen/uploads/images/2026/07/14/16206.png",
-                "url": "https://powersofafrica.com/article/4058/electricity-ethiopia-expands-power-exports-to-kenya",
-                "source": "Powers of Africa",
-                "date": "2026-07-14T23:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US-Iran conflict converges on Hormuz",
-                "desc": "The war between the United States and Iran is increasingly being fought over control of the Strait of Hormuz, with both sides using the strategic waterway as a source of military and political leverage.",
-                "image": "https://i.iranintl.com/images/rdk9umy0/production/3e4b37424ad09c63befa2c494901b4452ef93a98-800x450.jpg?rect=0,15,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-                "url": "https://www.iranintl.com/en/202607145677",
-                "source": "ایران اینترنشنال",
-                "date": "2026-07-14T23:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shocking traveller conduct",
-                "desc": "A FOREIGN traveller shocked fellow passengers at a local airport by holding a child over a rubbish bin to defecate, China Press reported.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011147.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/07/15/shocking-traveller-conduct",
-                "source": "The Star",
-                "date": "2026-07-14T23:35:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seven Britons among those killed in Spain wildfires",
-                "desc": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8fd9/live/190796e0-7fd7-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/cp8l87784ngo",
-                "source": "BBC",
-                "date": "2026-07-14T23:33:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump resumes Iran port blockade",
-                "desc": "US President Donald Trump reimposes a naval blockade of Iranian ports and threatens strikes on energy targets unless Tehran resumes negotiations. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f311c1eed864abe002092e3e69fcbe0fb9e4e50ba5eb571138d8fed4417116aa",
-                "url": "https://www.straitstimes.com/world/middle-east/trump-resumes-iran-port-blockade-and-threatens-strikes-on-energy-targets",
-                "source": "The Straits Times",
-                "date": "2026-07-14T23:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Writer E Jean Carroll collects $8m in Trump sex abuse and defamation case",
-                "desc": "Writer E Jean Carroll has collected nearly $US5.6 million ($8 million) from Donald Trump after a jury in 2023 found the US president liable for sexually abusing and defaming her, court records show.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/689c22ee7461ca6994866cf82a84269c?impolicy=wcms_watermark_news&cropH=2504&cropW=4451&xPos=0&yPos=92&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-15/e-jean-carroll-wins-8m-in-trump-sex-abuse-and-defamation-case/106916478",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-14T23:25:28Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-16T09:49:44.406071Z"
+    "lastGlobalSync": "2026-07-16T11:46:16.719055Z"
 }
