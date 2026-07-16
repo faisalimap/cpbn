@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Credit card outage hits convenience stores, other merchants across Japan",
+                "desc": "Major credit card companies are rushing to restore services. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/411495bf2ce54a8922e9f0e3b7560a818e122511547d3965c289c80f3b639349",
+                "url": "https://www.straitstimes.com/asia/east-asia/credit-card-outage-hits-convenience-stores-other-merchants-across-japan",
+                "source": "The Straits Times",
+                "date": "2026-07-16T05:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Middle East Airspace Disruption Triggers 265 Cancellations and Over 1100 Delays Across Dubai Doha and Saudi Aviation Hubs in July 2026",
+                "desc": "A wave of flight cancellations and delays impacts major Middle East transit hubs including Dubai, Doha, and Jeddah due to regional security escalations.",
+                "image": "https://images.nomadlawyer.org/images/blog/airline-news/2026/07/middle-east-airspace-disruptions-flight-cancellations-delays-2026.jpg",
+                "url": "https://www.nomadlawyer.org/middle-east-airspace-disruptions-flight-cancellations-delays-2026",
+                "source": "Nomad Lawyer",
+                "date": "2026-07-16T05:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia news live: Telstra CEO to front Senate inquiry; Victoria’s police chief arrests man in Melbourne CBD",
+                "desc": "Follow live",
+                "image": "https://i.guim.co.uk/img/media/96282c25f7d25917627717a2ea48d24baf2addfc/0_196_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e66961203677efcd33d0c59a926c3130",
+                "url": "https://www.theguardian.com/australia-news/live/2026/jul/16/divine-playhouse-josh-thomas-workplace-drug-survey-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+                "source": "The Guardian",
+                "date": "2026-07-16T05:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tech Manufacturing, and Clean Energy Electricity Demand, Reshaping Global Innovation, Business Travel, Technology Investment, and Industrial Connectivity in 2026",
+                "desc": "China's electricity consumption surged in the first half of 2026 as AI, data centers, EV charging, and advanced manufacturing accelerated industrial and business travel growth",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/China-Reinforces-United-States-Japan-and-South-Korea-Through.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/rb0e36apexok/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-16T05:51:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dominion Suisse Celebrates Continued Growth, Third Consecutive Wise Wealth Awards Nomination and European Expansion",
+                "desc": "ZURICH, July 16, 2026 (GLOBE NEWSWIRE) -- Dominion Suisse, the independent Swiss wealth management firm headquartered in Zurich, today announced another landmark year as it continues its sustained growth trajectory, highlighted by exceptional business performance over the past 12, 24 and 36 months, a third consecutive nomination for the 2026 Wise Wealth Awards, and the strategic incorporation of a new office in Luxembourg.",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/dominion-suisse-celebrates-continued-growth-third-consecutive-wise-wealth-awards-nomination-and-european-expansion/2385591",
+                "source": "The Manila Times",
+                "date": "2026-07-16T05:50:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jamie Dimon Said Companies Need to Use AI Like 'Any Other Resource'",
+                "desc": "Dimon said that the bank considers the value AI adds and negotiates with vendors \"all the time.\"",
+                "image": "https://i.insider.com/6a585f0554f9875261775a9b?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/jamie-dimon-companies-shoul-use-ai-like-any-other-resource-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-16T05:48:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria's Renewable Energy Industry Shifts Focus to Storage As Solar Costs Fall",
+                "desc": "Falling equipment costs, battery storage and smarter energy infrastructure dominated discussions at Solar & Storage Live Nigeria 2026, as industry leaders said Nigeria's renewable energy market is entering a new stage of development.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607160142.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-16T05:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria Risks Losing Global Capital Without Strong ESG Disclosures, SEC Warns",
+                "desc": "Nigeria and other African countries risk losing access to billions of dollars in global investment unless companies strengthen their Environmental, Social and Governance (ESG) disclosures, the Director-General of the Securities and Exchange Commission (SEC), Dr Emomotimi Agama, has warned.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607160146.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-16T05:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian patients’ medical records could be sold on dark web after clinics’ data breach",
+                "desc": "‘Malicious actor’ obtains sensitive data including Medicare numbers, treatment details and pathology results in cyber-attack on Partnered Health",
+                "image": "https://i.guim.co.uk/img/media/bfe01522be353aa84561e96379ae9715b03fc71c/257_0_2914_2332/master/2914.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=896cdf8b3715cf430080d8f8824298cf",
+                "url": "https://www.theguardian.com/australia-news/2026/jul/16/partnered-health-data-breach-medical-centres-cyber-attack",
+                "source": "The Guardian",
+                "date": "2026-07-16T05:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gov't eyes ₱30-billion privatization pipeline after ₱1-billion Atrium of Makati sale",
+                "desc": "More idle government assets valued at roughly ₱30 billion are expected to be disposed of through privatization as the government successfully completed the...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/16/116546.webp",
+                "url": "https://mb.com.ph/2026/07/16/govt-eyes-30-billion-privatization-pipeline-after-1-billion-atrium-of-makati-sale",
+                "source": "Manila Bulletin",
+                "date": "2026-07-16T05:44:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "2026 Kia Syros EV Unveiled: Design, Specifications, Features, Safety, Battery Options, Range, Colours, Launch Date, Expected Price And More",
                 "desc": "Range and space are two things you certainly won’t worry about with the Syros EV!",
                 "image": "https://stimg2.cardekho.com/images/carNewsimages/userimages/36328/1784174621779/GeneralNew.jpg",
@@ -542,99 +632,99 @@
                 "source": "Inside Global Tech",
                 "date": "2026-07-15T16:28:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "mobility manufacturing initiative",
-                "desc": "Edo State has secured a strategic partnership with United States-based investors to establish an electric mobility manufacturing and...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Hon.-Paul-Usenbor-1.png",
-                "url": "https://businessday.ng/news/article/us-investors-partner-edo-on-e-mobility-manufacturing-initiative/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-15T13:09:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5th Operationalise: Early Access Programmes Summit Europe",
-                "desc": "Early Access Programmes have evolved into a critical, but increasingly complex, part of drug development and launch strategy.",
-                "image": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-                "url": "https://www.news-medical.net/suppliers/5th-Operationalise-Early-Access-Programmes-Summit-Europe.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-15T13:07:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ben Yeo Shuts All 6 Tan Xiang Sliced Fish Soup Stalls After 5-Figure Loss, Opens Affordable Zi Char Spot 20 Dishes Only",
-                "desc": "The actor-host says he expanded the business too quickly, and is now betting on a smaller zi char concept in Yishun, where most dishes are priced below $10.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--apfVe-Cw--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/8days/image/2026/07/15/1_ben_yeo_shuts_fish_soup_zi_char_20_dishes.jpg?itok=9ftBoQaJ",
-                "url": "https://www.8days.sg/eatanddrink/celebfoodies/ben-yeo-shuts-fish-soup-stalls-zi-char-20-dishes-only-hawker-860761",
-                "source": "8days.sg",
-                "date": "2026-07-15T13:05:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The UK Plant Turning Polyester Waste Into New Yarn Is Now GRS-Certified",
-                "desc": "Project Re:claim, which is turning polyester-rich textile waste into new yarn, is now backed by Global Recycled Standard certification, strengthening its recycled content claims.",
-                "image": "https://wwd.com/wp-content/uploads/2026/07/projectreclaim.jpg?w=1000&h=563&crop=1",
-                "url": "https://wwd.com/sourcing-journal/sustainability/project-reclaim-recycled-polyester-grs-certification-1239066306/",
-                "source": "WWD",
-                "date": "2026-07-15T13:04:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 Hidden Traps of Team Dynamics",
-                "desc": "Many leaders believe that diverse teams naturally produce better ideas and decisions. But difference creates value only when leaders can navigate the friction that accompanies different perspectives. Four common leadership traps—certainty, inconsistency between words and actions, emotional reactivity, and self-justification—can quietly erode trust, collaboration, and performance. The authors explain why these patterns emerge and how they prevent teams from realizing the benefits of difference. They then offer six practical leadership actions to counter them: cultivate self-awareness, return to respect during conflict, communicate with candor, seek the full story before drawing conclusions, foster shared ownership, and consistently reinforce these behaviors through action. Leaders who develop these habits can transform disagreement from a source of tension into a catalyst for stronger relationships, better decisions, and sustained organizational performance.",
-                "image": "https://hbr.org/resources/images/article_assets/2026/07/Jul26_15_JasonFord.jpg",
-                "url": "https://hbr.org/2026/07/4-hidden-traps-of-team-dynamics",
-                "source": "Harvard Business Review",
-                "date": "2026-07-15T13:04:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore Airlines, Scoot cancel flights to Middle East as conflict escalates",
-                "desc": "SINGAPORE: Singapore Airlines (SIA) has extended the cancellation of its flights between Singapore and Dubai to Oct 24, while its budget arm Scoot has cancelled its flights between Singapore and Jeddah until July 27.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4012679.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/15/singapore-airlines-scoot-cancel-flights-to-middle-east-as-conflict-escalates",
-                "source": "The Star",
-                "date": "2026-07-15T13:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trapeze dresses are the cool, no-cling staple you need for the heat - and Next’s £42 citrus maxi is brilliant",
-                "desc": "Chic comfort starts here.",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/43251f01-e648-4eb0-8aa4-e43939cdc529.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-                "url": "https://www.goodhousekeeping.com/uk/fashion/style-advice/a71941509/next-trapeze-dress/",
-                "source": "Good Housekeeping",
-                "date": "2026-07-15T13:01:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why the US-China space race could come down to a thin metal cap",
-                "desc": "Propellant tank dome that is only millimetres thick must withstand extreme internal pressures and is very difficult to mass-produce.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/15/e7e67f01-74c2-4128-bf66-4e1e1e0abe3c_0f0f123b.jpg?itok=t3WMHEgP&v=1784112832",
-                "url": "https://www.scmp.com/news/china/science/article/3360682/why-us-china-space-race-could-come-down-thin-metal-cap",
-                "source": "South China Morning Post",
-                "date": "2026-07-15T13:00:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Women's Health Investment Is Still Underfunded After A Record Year",
-                "desc": "Women's health investment reached $1.55 billion in 2025, and a new report calls it \"the Era of Scale.\" The investors writing the checks see something more complicated.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a56bba6c9a5e5b97233d5e3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/geristengel/2026/07/15/2025-global-womens-health-investment-hit-a-record-us-investors-curb-their-enthusiasm/",
-                "source": "Forbes",
-                "date": "2026-07-15T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon could take more than 20% stake in Canadian lithium-ion battery maker Electrovaya",
-                "desc": "Mississauga company says it signed commercial agreement and warrants deal with U.S. tech giant",
-                "image": "https://www.theglobeandmail.com/resizer/v2/V6ZV2LWA5ZG7BK2GZ22THX7JYY.JPG?auth=b5643fc49e54e917283b28ea9ec3d4495211df801903625cdc353cb175463b17&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-amazon-could-take-more-than-20-per-cent-stake-in-canadian-lithium-ion/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-15T13:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Belkin's new 10,000mAh power bank also doubles as a motion-sensing night light",
+                "desc": "Belkin has released the BoostCharge Pro Power Bank 10K with Motion Sensing Light in China, listed on JD.com for 329 yuan, roughly $49. The 10,000mAh power bank includes a built-in braided USB-C cable, an additional 45W USB-C port, and a pop-out LED light with a motion sensor and touch controls for brightness and mode switching.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Belkin-10000mAh-45W-power-bank-1-1.jpg",
+                "url": "https://www.notebookcheck.net/Belkin-s-new-10-000mAh-power-bank-also-doubles-as-a-motion-sensing-night-light.1344185.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-16T05:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hexagon Purus ASA: Results for the second quarter 2026",
+                "desc": "Key developments in Q2 2026:",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/16/1139255.png",
+                "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/hexagon-purus-asa-results-for-the-second-quarter-2026/2385590",
+                "source": "The Manila Times",
+                "date": "2026-07-16T05:50:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+                "desc": "Google Images, the tech giant’s image search engine, is taking on Pinterest with its latest redesign that turns the site into a browsable,...",
+                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-15-1632485.jpg",
+                "url": "https://www.businessghana.com/site/news/Technology/352158/Google-Images-gets-a-Pinterest-like-redesign-focused-on-discovery",
+                "source": "BusinessGhana",
+                "date": "2026-07-16T05:48:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The hardcore BMW M2 CS is here to dominate Sepang - RM993k with extended warranty",
+                "desc": "The hardcore BMW M2 CS with 530 hp is launched in Malaysia, and it can be yours for RM993k, inclusive of the extended warranty package.",
+                "image": "https://assets.autobuzz.my/wp-content/uploads/2026/07/16121825/2026-BMW-M2-CS-Malaysia-11.jpg",
+                "url": "https://autobuzz.my/2026/07/16/the-hardcore-bmw-m2-cs-is-here-to-dominate-sepang-rm993k-with-extended-warranty/",
+                "source": "AutoBuzz.my",
+                "date": "2026-07-16T05:38:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EMS Synthi AKS reborn, now for pre-order",
+                "desc": "Behringer's AKS Mini, a compact analogue reworking of the EMS Synthi AKS with three oscillators and a joystick, is now open for pre-order.",
+                "image": "https://mixdownmag.com.au/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.19.11-pm.png",
+                "url": "https://mixdownmag.com.au/news/behringer-revives-the-ems-synthi-aks-in-the-pocket-sized-aks-mini/",
+                "source": "Mixdown Magazine",
+                "date": "2026-07-16T05:36:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation 6 will reportedly ditch the PS5's liquid metal cooling in favor of something else",
+                "desc": "Sony has a new patent that suggests that the PlayStation 6 will adopt a custom vaporization-based liquid cooling solution, and not liquid metal.",
+                "image": "https://static.tweaktown.com/news/1/1/112651_2_playstation-6-will-reportedly-ditch-the-ps5-liquid-metal-cooling-in-favor-of-something-else_full.jpg",
+                "url": "https://www.tweaktown.com/news/112651/playstation-6-will-reportedly-ditch-the-ps5s-liquid-metal-cooling-in-favor-of-something-else/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-16T05:33:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seiko launches new limited-edition diver watch collab, preorders now live",
+                "desc": "Seiko and RADIO EVA have opened pre-orders for the A347a EVA-02 Diver's Watch, limited to 400 pieces globally. The 45 mm automatic uses Seiko's 4R36 caliber, features a Spear of Longinus second hand, and is priced at ¥132,000, shipping in December 2026.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Seiko-Unit-02-collab.png",
+                "url": "https://www.notebookcheck.net/Seiko-launches-new-limited-edition-diver-watch-collab-preorders-now-live.1343680.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-16T05:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Another report confirms OnePlus' imminent demise, reveals it's going to exit India too",
+                "desc": "Realme will also be part of the incoming restructuring. A couple of days ago a usually reliable source of smartphone-related information claimed that...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/another-report-confirms-oneplus-exiting-us-europe/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/another_report_confirms_oneplus_imminent_withdrawal_from_the_us_and_europe-news-73739.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-16T05:15:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MiniTool Partition Wizard 13.9 Introduces New BitLocker Manager",
+                "desc": "VANCOUVER, BC, July 16, 2026 /PRNewswire/ -- MiniTool® Software Limited has announced the release of MiniTool Partition Wizard 13.9, a new version of its partition manager. It features the new BitLocker Manager, expanded support for BitLocker-protected partitions, optimized NTFS partition handling, and multiple usability improvements for a more efficient disk management experience.",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/pr-newswire/minitool-partition-wizard-139-introduces-new-bitlocker-manager/2385578",
+                "source": "The Manila Times",
+                "date": "2026-07-16T05:11:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Spinning Drone Hides In Plain Sight",
+                "desc": "By exploiting the quirks of human vision, Northwestern University engineers have designed a drone that nearly disappears right before the eyes.For",
+                "image": "https://common.northwestern.edu/v8/css/images/northwestern-thumb.jpg",
+                "url": "https://www.miragenews.com/new-spinning-drone-hides-in-plain-sight-1711137/",
+                "source": "Mirage News",
+                "date": "2026-07-16T05:11:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Google Pixel 11 teaser video confirms Pixel Glow feature, pre-order date",
                 "desc": "There's also a coupon code in it for you if you want to give Google your email address. Last week, Google announced that it will be unveiling the Pixel 11...",
@@ -1174,99 +1264,99 @@
                 "source": "Games Press",
                 "date": "2026-07-15T16:32:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Tapo 2K Wireless Smart Video Doorbell With Chime at a Record Low Is Now a Budget Alternative to Ring on Amazon",
-                "desc": "Never get up without needing to again with this deal.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/tapo-deal-1200x675.jpg",
-                "url": "https://gizmodo.com/tapo-2k-wireless-smart-video-doorbell-with-chime-at-a-record-low-is-now-a-budget-alternative-to-ring-on-amazon-2000785225",
-                "source": "Gizmodo",
-                "date": "2026-07-15T13:10:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation killing physical discs has inspired PS5 emulator devs to ramp up development",
-                "desc": "PS5 emulator devs seem to be reacting to Sony's bombshell announcement to stop producing physical PlayStation discs in January 2028.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/PlayStation-5-DualSense-controller-in-hand-with-PS5-and-TV-in-background.jpg",
-                "url": "https://www.pcguide.com/news/playstation-killing-physical-discs-has-inspired-ps5-emulator-devs-to-ramp-up-development/",
-                "source": "PC Guide",
-                "date": "2026-07-15T13:08:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ractigen Therapeutics Announces Landmark Publication in Nature Medicine Highlighting Unprecedented Preclinical Efficacy and Positive First-in-Human Clinical Data for RAG-17 in SOD1-ALS",
-                "desc": "- Peer-reviewed publication details RAG-17's robust translation from 'bench to bedside,' validating the proprietary SCAD™ delivery platform for CNS-targeted RNAi therapies -",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/15/1138331.jpg",
-                "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/pr-newswire/ractigen-therapeutics-announces-landmark-publication-in-nature-medicine-highlighting-unprecedented-preclinical-efficacy-and-positive-first-in-human-clinical-data-for-rag-17-in-sod1-als/2385088",
-                "source": "The Manila Times",
-                "date": "2026-07-15T13:08:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SIVGA Lyrebird Hybrid IEM Launches With Stunning Quad Drivers",
-                "desc": "SIVGA Lyrebird Quad-Driver Hybrid IEM debuts with four drivers, premium stabilized wood, detachable cable, and a $149 price tag.",
-                "image": "https://techgenyz.com/wp-content/uploads/2026/07/SIVGA-Lyrebird.webp",
-                "url": "https://techgenyz.com/sivga-lyrebird-quad-driver-hybrid-iem-launch/",
-                "source": "Techgenyz",
-                "date": "2026-07-15T13:07:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Funguys Swarm 1.0 is Officially Launching This Q3!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Funguys-Swarm-10-is-Officially-Launching-This-Q3",
-                "source": "Games Press",
-                "date": "2026-07-15T13:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone Air price drops to the lowest: Here is the deal",
-                "desc": "The iPhone Air just got cheaper, and here are the details.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/cropped-imageITG-1784120740418.png",
-                "url": "https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-to-the-lowest-here-is-the-deal-283324-15-07-2026",
-                "source": "India Today",
-                "date": "2026-07-15T13:06:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wevr reaches over 1 million visitors in year of global firsts",
-                "desc": "Wevr, a creative technology company focused on creating virtual worlds and immersive spatial experiences, is marking a landmark year, having produced five location-based experiences across Asia, Europe, and South America.",
-                "image": "https://blooloop.com/media-library/animated-figure-holds-glowing-orb-with-crane-standing-before-terracotta-warriors.jpg?id=61543997&width=1200&height=600&coordinates=0%2C24%2C0%2C24",
-                "url": "https://blooloop.com/wevr-five-new-immersive-experiences/",
-                "source": "blooloop",
-                "date": "2026-07-15T13:05:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Assassin's Creed Black Flag Resynced studio Ubisoft Barcelona goes on three-day strike in protest of layoffs",
-                "desc": "Assassin's Creed Black Flag Resynced's successful launch wasn't enough to save a number of Ubisoft teams from layoffs, and the Barcelona studio is now on strike",
-                "image": "https://assetsio.gnwcdn.com/ss_9553ccbfadad58974d31817949373ce1ac0d8fbf.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/ubisoft-barcelona-strike-july-2026",
-                "source": "Eurogamer.net",
-                "date": "2026-07-15T13:05:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How bpm Can Boost Your Workout",
-                "desc": "Learn how high-bpm music, prerun pump-up songs, and recovery playlists can change how hard a run feels, according to research.",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/1d849a6c-d163-4f90-a3db-46c072c80f99.jpeg?crop=1xw:0.75xh;0xw,0.239xh&resize=1200:*",
-                "url": "https://www.runnersworld.com/training/a71931487/running-music-workout-easier/",
-                "source": "Runner's World",
-                "date": "2026-07-15T13:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Leak: Samsung Galaxy Z Flip 8 will be 28% faster and more expensive, but hardly get any upgrades",
-                "desc": "The Samsung Galaxy Z Flip8 will be officially unveiled in a few days. As a leaked spec sheet shows, the specifications have hardly changed compared to the previous model – but customers will likely still have to pay more for the flip phone with the newer processor.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-Z-Flip831.jpg",
-                "url": "https://www.notebookcheck.net/Leak-Samsung-Galaxy-Z-Flip-8-will-be-28-faster-and-more-expensive-but-hardly-get-any-upgrades.1343681.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-15T13:04:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Trump’s Bizarre New Tangent Leaves Critics Dumbfounded",
+                "desc": "The president seems to think a common word is “fake.”",
+                "image": "https://img.huffingtonpost.com/asset/6a5869e81a00008735a7a209.jpeg?cache=LGzcNc4Zg6&ops=500_281%2Cscalefit_1200_630",
+                "url": "https://www.huffpost.com/entry/trump-affordability-dumb_n_6a585636e4b07a7875d19d34",
+                "source": "HuffPost",
+                "date": "2026-07-16T05:53:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uganda: Military Seizing Government Critics",
+                "desc": "Targeting Opposition Figures, Journalists; Violating Fundamental Rights",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607160147.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-16T05:47:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "High-Stakes Diplomacy: ASEAN Meetings in Manila",
+                "desc": "The Philippine foreign ministry reports that U.S. State Secretary Marco Rubio and Chinese counterpart Wang Yi will attend key ASEAN and related meetings in Manila next week. Spokesperson Dominic Xavier Imperial announced the high-level diplomatic engagements during a briefing.",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_31_1940386.jpg&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/politics/3951082-high-stakes-diplomacy-asean-meetings-in-manila",
+                "source": "Devdiscourse",
+                "date": "2026-07-16T05:47:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US airstrikes hit northern Iran as it disables ship trying to breach blockade",
+                "desc": "Tehran retaliated with missile and drone fire targeting Bahrain and Kuwait before dawn.",
+                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTYwNTE2NThcXFwvNzc3NThhNjBhNzRiNGU0N2E3OWUwOWJjMGFkOTdiYmMtMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImMzZWM5ZjllZWFkNjE1YTg1ZjA0ZTJkOTY1ODRkNDMyNDM3MjM0MWMifQ==/us-airstrikes-hit-northern-iran-as-it-disables-ship-trying-to-breach-blockade.jpg",
+                "url": "https://www.breakingnews.ie/world/us-airstrikes-hit-northern-iran-as-it-disables-ship-trying-to-breach-blockade-1927507.html",
+                "source": "BreakingNews.ie",
+                "date": "2026-07-16T05:46:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Senior Buddhist monk seeks to intervene in Suresh Salley’s writ petition",
+                "desc": "President of the Pasyodunrata Bauddha Sammelanaya and Principal of the historic Kande Vihara Maha Pirivena Ven. Rajakeeya Panditha Dapane Sri Mahinda Thero, has filed an application before the Court of Appeal seeking to be added as an intervening petitioner in the writ application filed by Major General (Rtd.) Suresh Sallay challenging the legality of his arrest and detention.",
+                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_6594cada9f.jpg",
+                "url": "https://www.dailymirror.lk/breaking-news/Senior-Buddhist-monk-seeks-to-intervene-in-Suresh-Salleys-writ-petition/108-345783",
+                "source": "Daily Mirror - Sri Lanka",
+                "date": "2026-07-16T05:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Bank Says 79% of Nigerians Remain Poor or Vulnerable",
+                "desc": "World Bank says 79% of Nigerians remain poor or vulnerable Tunji-Ojo reveals that minor offences have filled African prisons BBNaija Season 11 winner to",
+                "image": "https://ynaija.com/wp-content/uploads/2025/10/world.jpg",
+                "url": "https://ynaija.com/top-5-stories-of-the-day-world-bank-says-79-of-nigerians-remain-poor-or-vulnerable/",
+                "source": "YNaija",
+                "date": "2026-07-16T05:45:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former PM says Australia should assist in Gulf",
+                "desc": "As US bombing of Iran intensifies and a crisis redevelops in the Strait of Hormuz, the former prime minister said Australia should proactively make a contribution to protecting its national interests.",
+                "image": "https://static.ffx.io/images/$zoom_0.1724%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/50576397baeb8d52c0e6d50b1cb75ce651bd95ff",
+                "url": "https://www.theage.com.au/world/north-america/australia-should-send-military-assets-to-the-gulf-morrison-20260716-p60fu3.html",
+                "source": "The Age",
+                "date": "2026-07-16T05:44:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ramaphosa said he’d repair the criminal justice system - he failed",
+                "desc": "President Cyril Ramaphosa has always claimed that he wanted to rebuild the criminal justice system. The claims against Investigative Directorate Against Corruption head Andrea Johnson are […]",
+                "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-07.38.35.png",
+                "url": "https://www.namibian.com.na/ramaphosa-said-hed-repair-the-criminal-justice-system-he-failed/",
+                "source": "The Namibian -",
+                "date": "2026-07-16T05:41:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Messi turns tide as Argentina rally to reach World Cup final",
+                "desc": "Lionel Messi once again delivered when Argentina needed him most, producing two decisive late assists to inspire a dramatic 2-1 comeback victory over...",
+                "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/07/16/thumbs/1200x675/451026.jpg",
+                "url": "https://www.dailysabah.com/sports/football/messi-turns-tide-as-argentina-rally-to-reach-world-cup-final",
+                "source": "Daily Sabah",
+                "date": "2026-07-16T05:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thailand directs pressure on Myanmar, demanding direct envoy access to detained Aung San Suu Kyi",
+                "desc": "BANGKOK: Thailand is spearheading a diplomatic push within South-East Asia by demanding that the military regime in Myanmar grant the Asean Special Envoy direct, face-to-face access to the detained pro-democracy leader, Aung San Suu Kyi.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/16/4013500.png",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/16/thailand-directs-rressure-on-myanmar-demanding-direct-envoy-access-to-detained-aung-san-suu-kyi",
+                "source": "The Star",
+                "date": "2026-07-16T05:39:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "India at sea: The partner ASEAN can afford to trust",
                 "desc": "India offers ASEAN something the US and China cannot – maritime help without the demand for alignment.",
@@ -1806,98 +1896,8 @@
                 "source": "Daily Kos",
                 "date": "2026-07-15T16:31:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "99 Dumb American Posts That Might Leave Your Jaw On The Floor",
-                "desc": "The US is a big place, so non-Americans should be sometimes forgiven for having misconceptions about, say, which states have or don’t have a Cracker Barrel. But the world is a whole lot bigger, which often doesn’t stop some Americans from confidently making utterly incorrect claims. So we’ve gathered some of the best (or worst) things Americans have said online. Load up your hotdog with ketchup, mustard and relish, get comfortable, warm up your eyes because you are about to be rolling them, upvo",
-                "image": "https://s.yimg.com/lo/mysterio/api/5F6587720CECBDE6654AFE2F8EE4110566559FD99866831F80915B4067538D2D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_bored_panda_979%2Fdd71cb211f6ccf00165730b4f4b4830c",
-                "url": "https://www.aol.com/articles/american-99-screenshots-prove-people-030102386.html",
-                "source": "AOL.com",
-                "date": "2026-07-15T13:10:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa Clean Air Forum Banks On Continental Shift To Address Pollution",
-                "desc": "PRETORIA, South Africa – Participants from 47 African nations are meeting at the Africa Clean Air Forum this week as part of a continental drive to address",
-                "image": "https://i0.wp.com/healthpolicy-watch.news/wp-content/uploads/2026/07/Day-1-pix-IMG_5084-scaled.jpg",
-                "url": "https://healthpolicy-watch.news/africa-clean-air-forum-banks-on-continental-shift-to-address-pollution/",
-                "source": "Health Policy Watch",
-                "date": "2026-07-15T13:09:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’",
-                "desc": "Oil giant has denied involvement, but climate activists are closely watching court case against Israeli private investigator for answers",
-                "image": "https://i.guim.co.uk/img/media/a6853e014f17e18f749b77dbc42d8a03ad788323/306_0_2340_1872/master/2340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0f3d58476e129860678cf101bb483d5",
-                "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial",
-                "source": "The Guardian",
-                "date": "2026-07-15T13:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US launches new wave of strikes against Iran, says Centcom",
-                "desc": "ISTANBUL: The US launched a new wave of strikes against Iran on Wednesday, according to the US Central Command (Centcom), Anadolu Ajansi reported.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4012684.jpg",
-                "url": "https://www.thestar.com.my/news/world/2026/07/15/us-launches-new-wave-of-strikes-against-iran-says-centcom",
-                "source": "The Star",
-                "date": "2026-07-15T13:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beth Van Duyne moves to condemn Texas imam over Lindsey Graham remarks",
-                "desc": "Rep. Beth Van Duyne introduced a resolution condemning Imam Omar Suleiman for celebrating Sen. Lindsey Graham's death over his support for Israel.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Lindsey-Graham-February.jpg",
-                "url": "https://www.foxnews.com/politics/imam-who-prayed-before-congress-faces-censure-after-celebrating-grahams-death",
-                "source": "Fox News",
-                "date": "2026-07-15T13:08:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Yalla Intifada': Greta Thunberg Calls For Renewed Intifada Against Israel",
-                "desc": "The activist attended a protest against German arms manufacturer Rheinmetall wearing a shirt that read 'Yalla Intifada'",
-                "image": "https://cdn.i24news.tv/uploads/6d/2c/79/86/91/fb/58/db/2e/86/a3/c6/bf/48/80/26/6d2c798691fb58db2e86a3c6bf488026.jpg",
-                "url": "https://www.i24news.tv/en/news/international/europe/artc-yalla-intifada-greta-thunberg-calls-for-renewed-intifada-against-israel",
-                "source": "i24NEWS",
-                "date": "2026-07-15T13:07:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burkina Faso Secures $120M World Bank Package for Social Protection Expansion",
-                "desc": "Burkina Faso has secured a US$120 million financing package to expand social protection and economic inclusion programs for vulnerable",
-                "image": "https://www.ecofinagency.com/media/k2/items/cache/c62f669e525dd4740a91a5e04ad32592_S.jpg",
-                "url": "https://www.ecofinagency.com/news-services/1507-57413-burkina-faso-secures-120m-world-bank-package-for-social-protection-expansion",
-                "source": "Ecofin Agency",
-                "date": "2026-07-15T13:07:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Arrest of American who has given $1m in aid to Palestine prompts fears of ‘growing repression from Trump’",
-                "desc": "Extradition request for James ‘Fergie’ Chambers sparks concerns that US government is conflating humanitarian aid with terrorism",
-                "image": "https://i.guim.co.uk/img/media/2e9a6aa870190785fddccdd5a04afda48cecd31f/828_0_4531_3627/master/4531.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7694cf0c9efb6e8e6f4091fae7639aae",
-                "url": "https://www.theguardian.com/world/2026/jul/15/james-fergie-chambers-arrest-palestine-aid-trump",
-                "source": "The Guardian",
-                "date": "2026-07-15T13:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Balochistan Declared Independent Country: Republic Of Balochistan",
-                "desc": "Balochistan activists have shocked the Pakistani government. The activists, who have been fighting for separation from Pakistan for decades",
-                "image": "https://indtoday.com/wp-content/uploads/2026/07/Balochistan.gif",
-                "url": "https://indtoday.com/balochistan-declared-independent-country-republic-of-balochistan/",
-                "source": "INDToday",
-                "date": "2026-07-15T13:02:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rastafarians Lose Their 6-Year Cannabis Fight",
-                "desc": "Kenya's Rastafarian community just lost a six-year fight to be able to legally use cannabis as part of their worship. The High Court rejected a petition seeking a religious...",
-                "image": "https://cdn.newser.com/image/1698763-12-20260715082632.jpeg",
-                "url": "https://www.newser.com/story/392881/rastafarians-lose-their-bid-to-change-kenyas-drug-laws.html",
-                "source": "Newser",
-                "date": "2026-07-15T13:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-16T16:04:19.247050Z"
+    "lastGlobalSync": "2026-07-16T17:54:24.775162Z"
 }
