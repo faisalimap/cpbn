@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Stonegate pub and bar chain investigated over ‘unfair’ treatment of landlords",
+                "desc": "Pubs code adjudicator says it has reasonable grounds to believe group has breached industry regulations",
+                "image": "https://i.guim.co.uk/img/media/1f6f49f2a04b47a67ad4c34dfdcb508aa7b7b078/465_0_3763_3011/master/3763.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7ceb7eb6747e0f4742a934bdf068d3d",
+                "url": "https://www.theguardian.com/business/2026/jul/15/stonegate-pub-and-bar-chain-investigated-over-unfair-treatment-of-landlords",
+                "source": "The Guardian",
+                "date": "2026-07-15T16:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Michael Burry Says Watch These Earnings Reports After IBM's Stock Plunge",
+                "desc": "Michael Burry says coming tech earnings will reveal whether IBM's disastrous quarter is a company issue or a sector-wide problem.",
+                "image": "https://i.insider.com/6a57b693774464451bcda45b?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/michael-burry-ibm-stock-down-ai-software-stocks-msft-wipro-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-15T16:38:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Sues OpenAI, Here's What It Means for Oracle and Microsoft Investors",
+                "desc": "The AI industry was recently upended when Apple took legal action against one of the leading AI technology companies.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878755%2Fgettyimages-1176080337-1201x769-45ba444.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/15/apple-sues-openai-oracle-microsoft-invest/",
+                "source": "The Motley Fool",
+                "date": "2026-07-15T16:38:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "House prices rise at lowest annual level since early 2024",
+                "desc": "The annual rise in house prices has held steady at 6.2%.",
+                "image": "https://img2.thejournal.ie/article/7103025/river/?height=400&version=7103026",
+                "url": "https://www.thejournal.ie/house-prices-rise-at-lowest-annual-level-since-early-2024-7103025-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-15T16:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX shares fall below IPO price for first time as hype fades",
+                "desc": "The stock fell 2% to $133.34 on Wednesday, breaking below the $135 per share level that it sold them to investors at last month as part of a record $86 billion offering",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260616105955_spacex.jpg",
+                "url": "https://www.moneycontrol.com/news/business/markets/spacex-shares-fall-below-ipo-price-for-first-time-as-hype-fades-13974912.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-15T16:32:29Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Tata, Singapore’s Changi Airport to invest in Kerala, says Chief Minister Satheesan",
+                "desc": "Tata Group and Changi Airport plan significant investments in Kerala's shipbuilding and aviation sectors, announces Chief Minister Satheesan.",
+                "image": "https://www.thehindu.com/theme/images/og-image.png",
+                "url": "https://www.thehindu.com/news/national/kerala/tata-changi-airport-to-invest-in-kerala-says-chief-minister-satheesan/article71226626.ece",
+                "source": "The Hindu",
+                "date": "2026-07-15T16:30:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Price increases affecting sector",
+                "desc": "As residential construction costs continue to rise, conditions are becoming less favourable for both builders and households, an analytics company...",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/31_bayfield_rd_units_150726.jpg?itok=AOYUhXl4",
+                "url": "https://www.odt.co.nz/business/price-increases-affecting-sector",
+                "source": "Otago Daily Times",
+                "date": "2026-07-15T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Macao’s ‘1+4’ strategy is reshaping its future",
+                "desc": "Oriol Caudevilla says the city's long-term prosperity will depend on its ability to build upon existing strengths while embracing new opportunities.",
+                "image": "https://campus-cdhk.oss-cn-hongkong.aliyuncs.com/store_manager/photo_pre/13/232/12/3f65d0b0-6cb6-4f11-86a2-1018b09521f9/high_wm.jpg",
+                "url": "https://www.chinadailyasia.com/hk/article/636499",
+                "source": "chinadailyasia.com",
+                "date": "2026-07-15T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brochu Walker Unveils First International Store in Seoul",
+                "desc": "Brochu Walker has opened its first international flagship, a five-story store in Seoul, with Nashville and Austin locations coming next.",
+                "image": "https://wwd.com/wp-content/uploads/2026/07/Brochu-Walker-Maison-Flagship-Seoul-South-Korea.-Facade-Featuring-Custom-Stucco-Treatment.-Photo-by-Yoon-Taehoon.jpeg?w=1000&h=563&crop=1",
+                "url": "https://wwd.com/fashion-news/fashion-scoops/brochu-walker-seoul-store-opening-nashville-austin-1239066742/",
+                "source": "WWD",
+                "date": "2026-07-15T16:28:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Looking beyond the tech sovereignty package: how the EU is moving to ensure tech sector resilience",
+                "desc": "On 3 June 2026, the European Commission published several legislative and policy measures wrapped up in one “tech sovereignty” package (see our posts summarising the package as a whole here, and diving deeper into the Cloud and AI Development Act here). But the EU’s tech sovereignty drive has a long history, and is by no means limited to this package. In this post, we take a closer look at the current and forthcoming EU legislative measures aimed at increasing the resilience of services provided in the EU against external, malicious influence, a key aspect of tech sovereignty. Relevant legislation falls into two broad categories: (1) laws promoting cyber resilience generally, to prevent malicious actors from disrupting services and critical infrastructure; and (2) laws focused on building supply chain resilience and reducing dependencies on certain external actors by building European industrial capacity in key tech sectors.",
+                "image": "https://www.insideglobaltech.com/wp-content/uploads/sites/52/2024/08/Inside-Global-Tech_Social-Media-Preview-Asset.jpg",
+                "url": "https://www.insideglobaltech.com/2026/07/15/looking-beyond-the-tech-sovereignty-package-how-the-eu-is-moving-to-ensure-tech-sector-resilience/",
+                "source": "Inside Global Tech",
+                "date": "2026-07-15T16:28:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "mobility manufacturing initiative",
                 "desc": "Edo State has secured a strategic partnership with United States-based investors to establish an electric mobility manufacturing and...",
                 "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Hon.-Paul-Usenbor-1.png",
@@ -542,99 +632,99 @@
                 "source": "CKPG Today",
                 "date": "2026-07-14T23:21:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Gold climbs to near $4,050 on softer US CPI",
-                "desc": "Gold price (XAU/USD) rises to around $4,050 during the early Asian session on Wednesday. The precious metal rebounds as softer-than-expected US inflation data boosted hopes of the US  Federal ‌Reserve (Fed) adopting a less hawkish stance.",
-                "image": "https://editorial.fxsstatic.com/images/i/gold-03_Medium.jpg",
-                "url": "https://www.fxstreet.com/news/gold-climbs-to-near-4-050-on-softer-us-cpi-202607142316",
-                "source": "FXStreet",
-                "date": "2026-07-14T23:16:54Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Regulator bans Eurowings and Qatar Airways ads over green claims",
-                "desc": "The airlines have today (15 July) been called out by the advertising watchdog over misleading environmental claims surrounding carbon offsetting.",
-                "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/AdobeStock_532227055_Editorial_Use_Only.jpeg",
-                "url": "https://www.edie.net/regulator-bans-eurowings-and-qatar-airways-ads-over-green-claims/",
-                "source": "edie.net",
-                "date": "2026-07-14T23:15:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asian Stocks Rise After Soft US CPI, Kospi Rallies: Markets Wrap",
-                "desc": "(Bloomberg) -- Asian shares rose as cooler-than-expected US inflation data reduced expectations of Federal Reserve interest-rate hikes and the artificial intelligence trade gathered fresh momentum. Oil rose.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1765874455",
-                "url": "https://www.swissinfo.ch/eng/asian-stocks-rise-after-soft-us-cpi%2c-kospi-rallies%3a-markets-wrap/91747079",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-14T23:15:37Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-                "desc": "Stocks closed higher on Tuesday, helped by signs of easing inflation, which boosted investor hopes that the Federal Reserve can hold off on rate hikes for the moment.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108324283-17818184352026-06-18t212644z_311932191_rc2kwlaz3beo_rtrmadp_0_usa-stocks.jpeg?v=1781818551&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/14/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-                "source": "CNBC",
-                "date": "2026-07-14T23:12:08Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Wife of Ryanair passenger sucked out of window recalls incident",
-                "desc": "A wife recounts the harrowing experience of her husband being sucked out of a dislodged window on a Ryanair flight. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/84eb3e9a328a96b8fa47bd0e72c4b4f2615c462856ed8f7b13bd76bb8e8ed331",
-                "url": "https://www.straitstimes.com/world/europe/wife-of-ryanair-passenger-sucked-out-of-dislodged-window-recalls-incident",
-                "source": "The Straits Times",
-                "date": "2026-07-14T23:10:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bipartisan senators introduce legislation to avert looming Social Security shortfall",
-                "desc": "Lawmakers in the Senate have unveiled a bipartisan proposal to address Social Security's looming insolvency",
-                "image": "https://i.abcnewsfe.com/a/d42734ff-af04-465a-8d06-145936edcb96/wirestory_a53abd2cb93f4bd3c9f568f532af8b2e_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Business/wireStory/bipartisan-group-senators-introducing-legislation-avert-looming-social-134761012",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-14T23:08:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McDonald’s stings customers with surprise parking fees",
-                "desc": "Ordering a Big Mac now risks an unexpected sting, as McDonald’s enforces a controversial fee at locations across Australia.",
-                "image": "https://www.realcommercial.com.au/news/wp-content/uploads/2026/07/capi_650077f903971e4302693d56daa27ba4_ddd4d5c29171d18deb632d8e3a95f09f-768x432.jpeg",
-                "url": "https://www.realcommercial.com.au/news/mcdonalds-stings-customers-with-surprise-parking-fees",
-                "source": "realcommercial.com.au",
-                "date": "2026-07-14T23:06:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Life at Davis Station: 24 minutes of sun after six weeks of darkness",
-                "desc": "Researchers spending winter at Australia's southernmost Antarctic research station gathered to celebrate the return of the sun following weeks of darkness.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/b79e13130ad78530b5127997a6f77ecd?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-15/davis-antarctic-research-station-no-sun-for-six-weeks/106910010",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-14T23:05:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SoundHound AI Stock Is Down 37% in 2026. Is This the Ultimate Buying Opportunity, or Is More Downside Ahead?",
-                "desc": "SoundHound stock used to be quite expensive, but it's starting to look attractive.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878606%2Fthe-soundhound-ai-logo-on-a-purple-translucent-background.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/14/soundhound-ai-stock-down-37-in-2026-buying-downsid/",
-                "source": "The Motley Fool",
-                "date": "2026-07-14T23:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "On The Up: Northland hospitality leader Victoria Alexander wins top industry award",
-                "desc": "A Northland hospitality worker who travelled to New Zealand as a young backpacker recently scooped a top hospitality award. Victoria Alexander, the general...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/UCNBAKZGW5EPRN72FOYH65RROE.JPG?auth=87a091b995c9ea855bb2c53135757a47275bdbaaa8c6627ea0e7f06a12391016&width=1200&height=675&quality=70&focal=3002%2C941&smart=false",
-                "url": "https://www.nzherald.co.nz/northern-advocate/news/on-the-up-northland-hospitality-leader-victoria-alexander-wins-top-industry-award/VRBBD4UF6RFOXBWEAMWSIJNK6E/",
-                "source": "NZ Herald",
-                "date": "2026-07-14T23:04:53Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Dutch and Mexican lawyers retaliate against Sony's decision to end physical games",
+                "desc": "Sony’s plan to end physical PlayStation releases in 2028 faces legal challenges from Dutch consumer advocates and Mexican lawmakers over competition, pricing and ownership concerns. Critics argue the move would eliminate resale markets and give Sony monopolistic control over game sales.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sony-stiff-resistance.png",
+                "url": "https://www.notebookcheck.net/Dutch-and-Mexican-lawyers-retaliate-against-Sony-s-decision-to-end-physical-games.1341866.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-15T16:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony is being sued for €256 per Dutch gamer after digital-only push, as lawsuit argues physical games were their last real choice to avoid the 30% \"Sony tax\"",
+                "desc": "Sony faces a €435 million lawsuit in the Netherlands over claims that its digital-only strategy eliminates competition, resale options, and consumer ownership. Representing 1.7 million gamers, consumer group SM&C alleges Sony’s market dominance and 30% commission inflate digital game prices and leave buyers dependent on the PlayStation Store.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rare-PlayStation-Play-Has-No-Limits-10th-Anniversary-Chinese-Promotional-Disc-Box-with-NFC-Tag-Image-Source-rgamecollecting.jpg.jpeg",
+                "url": "https://www.notebookcheck.net/Sony-is-being-sued-for-EUR256-per-Dutch-gamer-after-digital-only-push-as-lawsuit-argues-physical-games-were-their-last-real-choice-to-avoid-the-30-Sony-tax.1343706.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-15T16:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EaseUS Releases the Summer Travel Data Protection Guide Featuring SSR and DVR Technologies for Multi",
+                "desc": "NEW YORK, July 16, 2026 /PRNewswire/ -- As the summer travel season reaches its peak, more travelers are using action cameras, drones, and mirrorless cameras to capture 4K/8K videos and RAW photos. Most memory card data loss incidents are caused not by physical damage, but by file system errors, accidental…",
+                "image": "https://i0.wp.com/mma.prnasia.com/media2/2602314/EaseUS_Logo_Logo.jpg?p=medium600&ssl=1",
+                "url": "https://www.thailand-business-news.com/pr-news/easeus-releases-the-summer-travel-data-protection-guide-featuring-ssr-and-dvr-technologies-for-multi-device-photo-and-video-recovery",
+                "source": "Thailand Business News",
+                "date": "2026-07-15T16:41:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What does 'infinite scrolling' on phones do to our brains?",
+                "desc": "We spoke to some experts who explained why this habit is so hard to break.",
+                "image": "https://www.rte.ie/images/002377d4-1600.jpg",
+                "url": "https://www.rte.ie/lifestyle/living/2026/0715/1583533-what-does-infinite-scrolling-on-phones-do-to-our-brains/",
+                "source": "RTE.ie",
+                "date": "2026-07-15T16:40:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI selling $230 Codex Micro hardware product",
+                "desc": "Last month, OpenAI teased Codex-branded hardware. Today, the company has released its collaboration with Work Louder: a $230 Codex Micro...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/codex-micro.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/15/openai-selling-230-codex-micro-hardware-product/",
+                "source": "9to5Mac",
+                "date": "2026-07-15T16:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bloomberg also says that OnePlus will bail on the US and Europe.",
+                "desc": "Earlier this week, WinFuture reported it, and today, Bloomberg is reporting it too, saying that the move “will happen as early as this week.” The change is apparently happening as part of a broader shifts at Oppo, OnePlus’ parent company.\n[Link: OnePlus, Once Popular with Tech Fans, to Pull Out of US and Europe | https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDEyOTQwNiwiZXhwIjoxNzg0NzM0MjA2LCJhcnRpY2xlSWQiOiJUSTdWQkNLSVVQUzcwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.nLDRSXHgqlPetEYHmhkG8H7TvCo-EI777cHbzLhoCsY | Bloomberg]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+                "url": "https://www.theverge.com/tech/966038/bloomberg-also-says-that-oneplus-will-bail-on-the-us-and-europe",
+                "source": "The Verge",
+                "date": "2026-07-15T16:33:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call of Duty: Modern Warfare 4 Multiplayer: Kill Block Intel",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Call-of-Duty-Modern-Warfare-4-Multiplayer-Kill-Block-Intel",
+                "source": "Games Press",
+                "date": "2026-07-15T16:32:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\" FATE: Reawakened ’s Prometheus DLC Launches on Mobile with Controller Support\"",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/de/FATE-Reawakened-s-Prometheus-DLC-Launches-on-Mobile-with-Controller-Su",
+                "source": "Games Press",
+                "date": "2026-07-15T16:32:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\" FATE: Reawakened ’s Prometheus DLC Launches on Mobile with Controller Support\"",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/tr/FATE-Reawakened-s-Prometheus-DLC-Launches-on-Mobile-with-Controller-Su",
+                "source": "Games Press",
+                "date": "2026-07-15T16:32:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\" FATE: Reawakened ’s Prometheus DLC Launches on Mobile with Controller Support\"",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/ko-KR/FATE-Reawakened-s-Prometheus-DLC-Launches-on-Mobile-with-Controller-Su",
+                "source": "Games Press",
+                "date": "2026-07-15T16:32:21Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tapo 2K Wireless Smart Video Doorbell With Chime at a Record Low Is Now a Budget Alternative to Ring on Amazon",
                 "desc": "Never get up without needing to again with this deal.",
@@ -1174,99 +1264,99 @@
                 "source": "TechCrunch",
                 "date": "2026-07-14T22:22:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Mystery buyer pays record price at T-rex auction",
-                "desc": "A T-rex skeleton nicknamed Gus has sold for a record amount through Sotheby’s at an auction in New York.",
-                "image": "https://static.ffx.io/images/$zoom_0.4238%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/4d9903ca42363429b56cb6dbbc9ce393dfdec6ba133b752227cec773dc599460",
-                "url": "https://www.nine.com.au/world-news/usa/t-rex-skeleton-gus-sells-for-record-amount-at-us-action-sothebys-20260715-p60fde.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-14T22:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-                "desc": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-1152x648.jpg",
-                "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-                "source": "Ars Technica",
-                "date": "2026-07-14T22:20:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bevel hits the Fitbit.",
-                "desc": "The “Whoop, but for the Apple Watch” app now integrates with Google Health. If you didn’t think the Fitbit Air was a Whoop competitor before, it sure might be now. Especially considering Whoop is suing them.\n[Media: https://youtu.be/IsAHL-cCysE?is=Krhf2V4uWRTxD4FD]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/tech/965713/bevel-hits-the-fitbit",
-                "source": "The Verge",
-                "date": "2026-07-14T22:20:18Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "AI Tackles Cocktail Party Problem in Hearing Aids",
-                "desc": "How do we recognize what one person is saying when others are speaking at the same time? This simple, yet peculiar question forms the basis of the",
-                "image": "https://assets.w3.tue.nl/w/fileadmin/_processed_/8/d/csm_Fiorio%20PhD%20thesis_d90b0fbdc5.jpg",
-                "url": "https://www.miragenews.com/ai-tackles-cocktail-party-problem-in-hearing-1710016/",
-                "source": "Mirage News",
-                "date": "2026-07-14T21:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vampire Hunter: Nightrise, a First-Person “Castlevania Meets Tunic,” Is Out Now on Steam",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Vampire-Hunter-Nightrise-a-First-Person-Castlevania-Meets-Tunic-Is-Out",
-                "source": "Games Press",
-                "date": "2026-07-14T21:51:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "T. rex nicknamed Gus sells at auction for record $50 million US",
-                "desc": "Sotheby's says 67-million-year-old Tyrannosaurus rex fossil, which includes 'exceptionally preserved' skull containing a gaping jaw of powerful teeth, is now the most expensive set of dinosaur bones ever auctioned.",
-                "image": "https://i.cbc.ca/ais/b178e3de-4f28-4f11-a724-fb5b712b10f5,1784065617001/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C6016%2C3384%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/t-rex-gus-sells-50-million-9.7270144",
-                "source": "CBC",
-                "date": "2026-07-14T21:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta’s AI can now dub your voice in more languages on Instagram and Facebook.",
-                "desc": "The AI translations are expanding to Japanese, Korean, French, German, and Italian on Instagram and Bahasa, Indonesian, Arabic, French, Vietnamese, and Thai on Facebook, according to Instagram boss Adam Mosseri.\n[Media: https://www.instagram.com/p/DaxpKQfRaSV/]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/tech/965660/metas-ai-can-now-dub-your-voice-in-more-languages-on-instagram-and-facebook",
-                "source": "The Verge",
-                "date": "2026-07-14T21:44:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pixel 11 starting price increase revealed by leaked Amazon listings",
-                "desc": "Ahead of August's Pixel 11 launch, Amazon may have accidentally spilled the beans on the whole lineup's price, colors, and specs.",
-                "image": "https://helios-i.mashable.com/imagery/articles/03Bf8VT9qlPN5dr0XuvKYas/hero-image.fill.size_1200x675.v1784047968.jpg",
-                "url": "https://mashable.com/tech/google-pixel-11-leak-price-colors",
-                "source": "Mashable",
-                "date": "2026-07-14T21:39:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
-                "desc": "OpenAI's first AI hardware product is a mobile smart speaker without a display, reports Bloomberg. The device is at the heart of a new legal dispute with Apple, with Apple accusing OpenAI of stealing trade secrets that have contributed to the development of the product. OpenAI's speaker-like product is designed to \"serve as a humanlike AI companion that lives in the home,\" according to Bloomberg.",
-                "image": "https://images.macrumors.com/t/_Zqp6utkD3f5AUEd2S6oIEW_7N8=/2000x/article-new/2025/11/openai-chatgpt-logo.jpg",
-                "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
-                "source": "MacRumors",
-                "date": "2026-07-14T21:37:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Glen Schofield Announces Retirement in Emotional Video: 'This is an Amazing Industry'",
-                "desc": "Glen Schofield has retired from making games after a whopping 35 years in the industry. He announced this with an emotional video.",
-                "image": "https://insider-gaming.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-223335-1024x569.png",
-                "url": "https://insider-gaming.com/glen-schofield-retirement-video-posted-online-emotional/",
-                "source": "Insider Gaming",
-                "date": "2026-07-14T21:35:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Live updates: Todd Blanche grilled in confirmation hearing",
+                "desc": "Trump’s pick for attorney general faces tough questions in a hearing with the Senate Judiciary Committee. Follow for live news updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285586652.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/15/politics/live-news/todd-blanche-confirmation-hearing",
+                "source": "CNN",
+                "date": "2026-07-15T16:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This week's Bangkok bar fire killed 4 of 6 core members of the Totsakan house band",
+                "desc": "A tragic flash fire at a Bangkok music bar has claimed at least 33 lives, including four members of the bar's band.",
+                "image": "https://dims.apnews.com/dims4/default/bef26b5/2147483647/strip/true/crop/7534x5020+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F41%2Ffe22c1118be754fcf34272253eab%2F644f6a7ef23e43e79115b1f60ff3131f",
+                "url": "https://apnews.com/article/thailand-bar-fire-bangkok-na-ladprao-06c4248d8b3ac86aa7891a05c869c10e",
+                "source": "AP News",
+                "date": "2026-07-15T16:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK withdraws millions in funding from world’s second",
+                "desc": "Informer East Africa News is a United Kingom (UK) news and media company specializing in East African, African and UK Diaspora News. Providing Daily news and exclusive news.",
+                "image": "https://informereastafrica.com/templates/it_365news/custom/images/headers/favicon.ico",
+                "url": "https://informereastafrica.com/index.php/east-africa/for-over-a-decade-i-have-worked-alongside-communities-impacted-by-oil-developments-in-uganda-i-have-heard-from-farmers-whose-farmland-has-been-acquired-women-whose-gardens-and-small-enterprises-have-been-disrupted-and-community-leaders-intimidated-simply-for-asking-how-oil-projects-would-affect-their-communities-lives-i-have-learned-that-the-cost-of-oil-development-falls-first-and-hardest-on-every",
+                "source": "Informer East Africa",
+                "date": "2026-07-15T16:40:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mace's new bill aims to 'slam the door' on immigrants from dozens of countries",
+                "desc": "Congresswoman Nancy Mace proposed a new legislation on Wednesday prohibiting third-world aliens from entering the United States.The Third World Immigration Mor",
+                "image": "https://abcnews4.com/resources/media2/16x9/4825/1320/0x252/90/837067c5-9038-4de4-b5e9-2f6b9fb38f23-GettyImages2264758142.jpg",
+                "url": "https://abcnews4.com/news/nation-world/maces-new-bill-aims-to-slam-the-door-on-immigrants-from-dozens-of-countries-local-politics-representative-nancy-mace-the-third-world-immigration-moratorium-act-foreign-policy",
+                "source": "WCIV",
+                "date": "2026-07-15T16:39:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Watch: Dramatic video shows freight train, crew caught in Canadian wildfires",
+                "desc": "Flames can be seen whipping against the windows of the train as two of the operators inside communicated over the radio for help.",
+                "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/07/1024/512/screenshot-2026-07-15-at-12.23.39-pm.png?ve=1&tl=1",
+                "url": "https://www.foxweather.com/weather-news/watch-canada-train-crew-caught-wildfire-july-2026",
+                "source": "FOX Weather",
+                "date": "2026-07-15T16:37:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Youth Skills Day: Young Africans cite inadequate training, lack of work experience as main barriers to youth employment",
+                "desc": "World Youth Skills Day: Young Africans cite inadequate training, lack of work experience as main barriers to youth employment",
+                "image": "https://www.zawya.com/favicon.ico",
+                "url": "https://www.zawya.com/en/press-release/africa-press-releases/world-youth-skills-day-young-africans-cite-inadequate-training-lack-of-work-experience-as-main-barriers-to-c9j3ovdy",
+                "source": "ZAWYA",
+                "date": "2026-07-15T16:34:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine Cripples Crimea’s Power Backbone, Striking One of Russia’s Largest Energy Hubs on the Peninsula",
+                "desc": "Ukrainian special forces attacked the Balaklava Thermal Power Plant, crippling nearly half of Crimea's electricity generation and impacting Russian military logistics.",
+                "image": "https://storage.united24media.com/og/8/b7/3fe41e239373c36c7f942376a97d4b78.png",
+                "url": "https://united24media.com/war-in-ukraine/ukraine-cripples-crimeas-power-backbone-striking-one-of-russias-largest-energy-hubs-on-the-peninsula-20812",
+                "source": "UNITED24 Media",
+                "date": "2026-07-15T16:33:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump official blasts ‘middle powers’ strategy, calls it a ‘distraction’",
+                "desc": "'Middle powers don’t have a coherent basis for alignment,' U.S. Undersecretary of Defence for Policy Elbridge Colby posted to X on Tuesday.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Elbridge-Colby-x-posts-e1784123011560.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11966503/trump-official-blasts-middle-powers-strategy/",
+                "source": "Global News",
+                "date": "2026-07-15T16:32:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Algeria Secures $878 Million to Extend Rail Access Across Its Southern Regions",
+                "desc": "AfDB financing will support a 230-kilometer section of the Laghouat-Ghardaïa-El Meniaa railway.\nThe line is designed to connect southern",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/1fe3d27e1b4e326002326725b8449033_S.jpg",
+                "url": "https://www.ecofinagency.com/news-infrastructures/1507-57424-algeria-secures-878-million-to-extend-rail-access-across-its-southern-regions",
+                "source": "Ecofin Agency",
+                "date": "2026-07-15T16:31:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russian stuff blowing up: Ukraine targets Russia’s Black Sea shipping",
+                "desc": "Ukraine expanded its sea campaign against Russian shipping to the Black Sea, hitting 20 ships. A Ukrainian drone took down a Russian Mi-28 attack helicopter…",
+                "image": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/07/1280px-2026-05-16_Moscow_motorcycle_parade_group_35.jpg",
+                "url": "https://www.dailykos.com/stories/2026/7/15/800070097/community/russian-stuff-blowing-up/",
+                "source": "Daily Kos",
+                "date": "2026-07-15T16:31:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "99 Dumb American Posts That Might Leave Your Jaw On The Floor",
                 "desc": "The US is a big place, so non-Americans should be sometimes forgiven for having misconceptions about, say, which states have or don’t have a Cracker Barrel. But the world is a whole lot bigger, which often doesn’t stop some Americans from confidently making utterly incorrect claims. So we’ve gathered some of the best (or worst) things Americans have said online. Load up your hotdog with ketchup, mustard and relish, get comfortable, warm up your eyes because you are about to be rolling them, upvo",
@@ -1806,98 +1896,8 @@
                 "source": "CNN",
                 "date": "2026-07-14T22:26:26Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US restores blockade on Iran, Trump drops 20% fee threat",
-                "desc": "Another wave of US strikes on Iran and Iranian attacks on shipping and American allies left an interim peace deal in tatters.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-strike-is-carried-out-by-us-forces-in-iran-QYIVOJYPVVAI5IIS4EWWDFVLWA.png?auth=92c609565ece4d22e30dd1af57100ecea82f66452e9e07718f76d4e5fecb2687&quality=70&width=600&height=315&focal=870%2C385",
-                "url": "https://www.1news.co.nz/2026/07/15/us-restores-blockade-on-iran-trump-drops-20-fee-threat/",
-                "source": "1News",
-                "date": "2026-07-14T22:23:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AOC calls out Susan Collins’ claims about ICE after deadly Maine shooting of innocent man: ‘Wrote the blank check’",
-                "desc": "The shooting in Maine has created a political firestorm in Maine for the sole Republican senator from New England",
-                "image": "https://static.independent.co.uk/2026/07/14/20/2026-07-14T000521Z_1286896967_RC2BDMAF0YDI_RTRMADP_3_USA-DAYLIGHT-CONGRESS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/aoc-susan-collins-ice-maine-b3014891.html",
-                "source": "The Independent",
-                "date": "2026-07-14T22:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Staines' killer Dara Singh to be released soon?",
-                "desc": "India News: BHUBANESWAR: Supreme Court on Tuesday gave Odisha govt until Aug 19 to decide on the remission plea of Dara Singh, jailed since 2000 for burning to de.",
-                "image": "https://static.toiimg.com/thumb/msid-132402875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/india/staines-killer-dara-singh-to-be-released-soon/articleshow/132402203.cms",
-                "source": "The Times of India",
-                "date": "2026-07-14T22:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Wimbledon towels to Scotch: How India",
-                "desc": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b761/live/c7a2b980-7e80-11f1-926f-c90d1bcfbc84.jpg",
-                "url": "https://www.bbc.com/news/articles/c0kymrz0vkgo",
-                "source": "BBC",
-                "date": "2026-07-14T22:17:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Middle East allies rushing new pipelines, port to bypass Iran's grip on Strait of Hormuz",
-                "desc": "The conflict around the Strait of Hormuz has caused pipeline and port construction projects in the Gulf to accelerate, with some set to debut as soon as next year, minimizing Iran's leverage in the region.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/strait-hormuz-comp.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/14/world-news/middle-east-allies-rushing-new-pipelines-port-to-bypass-irans-grip-on-strait-of-hormuz/",
-                "source": "New York Post",
-                "date": "2026-07-14T22:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firm expands prosthetics training initiative to strengthen Africa's rehabilitation workforce",
-                "desc": "A prosthetics and orthotics company, IfeanHealth, has expanded its training initiative across Africa with the selection of scholars from Nigeria and Kenya for internship placements aimed at bridging the gap between academic learning and clinical practice.",
-                "image": "https://healthwise.punchng.com/wp-content/uploads/2026/07/Training.jpg",
-                "url": "https://healthwise.punchng.com/firm-expands-prosthetics-training-initiative-to-strengthen-africas-rehabilitation-workforce/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-14T22:11:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump retreat over Hormuz tolls suggests struggle to end Iran war",
-                "desc": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o",
-                "source": "BBC",
-                "date": "2026-07-14T22:09:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Beijing’s islands of control are reshaping the South China Sea",
-                "desc": "Ten years after the Hague’s landmark tribunal ruling, Beijing’s island-building strategy has effectively eclipsed the 2016 decision, observers say.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/14/ae03097f-9a23-4ea9-85ea-3d3ab73a8007_59ee7e78.jpg?itok=hndCRueX&v=1784013828",
-                "url": "https://www.scmp.com/news/china/diplomacy/article/3360496/how-beijings-islands-control-are-reshaping-south-china-sea",
-                "source": "South China Morning Post",
-                "date": "2026-07-14T22:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'I can't believe it': Singer's shock after five members of band killed in plane crash",
-                "desc": "Five members of the beloved Caribbean band were killed in the plane crash in the Bahamas",
-                "image": "https://static.standard.co.uk/2026/07/14/8/38/da-pond-band.png?width=1200&auto=webp&quality=75",
-                "url": "https://www.standard.co.uk/showbiz/da-pond-band-plane-crash-bahamas-b1289908.html",
-                "source": "London Evening Standard",
-                "date": "2026-07-14T21:49:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FBI snares an American heir indicted for allegedly bankrolling anti-cop, pro-Hamas communist revolution",
-                "desc": "James 'Fergie' Cox Chambers Jr. was detained in Ibiza on an international arrest warrant alleging money laundering and providing support to Hamas, sources say.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/GettyImages-2214179267-scaled.jpg",
-                "url": "https://www.foxnews.com/world/fbi-snares-american-heir-indicted-bankrolling-anti-cop-pro-hamas-communist-revolution",
-                "source": "Fox News",
-                "date": "2026-07-14T21:49:03Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-16T01:11:34.969991Z"
+    "lastGlobalSync": "2026-07-16T04:44:26.687883Z"
 }
