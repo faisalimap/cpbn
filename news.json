@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Global Stocks Slump As Fears About AI Chips and Energy Grip Markets",
+                "desc": "Investors are fretting about tech valuations, the cost of the AI buildout, and the Middle Eastern conflict driving up energy prices.",
+                "image": "https://i.insider.com/6a59f773ce52cb26b8390675?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/nikkei-225-kospi-index-kioxia-tsmc-hynix-samsung-chip-selloff-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-17T07:20:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intel's AI-Driven Data Center Growth Set To Power Second Quarter Earnings",
+                "desc": "Intel Corp. is scheduled to report second quarter earnings on July 23, with Visible Alpha consensus pointing to revenue of $14.4 billion, up 12% from a year earlier. Read more here.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1421805110/image_1421805110.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4922864-intel-intc-ai-driven-data-center-growth-set-to-power-second-quarter-earnings",
+                "source": "Seeking Alpha",
+                "date": "2026-07-17T07:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IFC sees UnionBank sustainability bond boosting climate finance, MSME lending",
+                "desc": "International Finance Corp. (IFC) expects its investment in Aboitiz-led Union Bank of the Philippines’ (UnionBank) inaugural sustainability bond to broaden...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/17/116866.webp",
+                "url": "https://mb.com.ph/2026/07/17/ifc-sees-unionbank-sustainability-bond-boosting-climate-finance-msme-lending",
+                "source": "Manila Bulletin",
+                "date": "2026-07-17T07:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MegaETH Shuts Down Mega Mafia Accelerator After Startups Raise $80M",
+                "desc": "MegaETH is winding down its two-year Mega Mafia accelerator after concluding the program helped startups raise significant capital but failed to retain enough v",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.6.0/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/megaeth-shuts-down-mega-mafia-accelerator-after-startups-raise-80m",
+                "source": "KuCoin",
+                "date": "2026-07-17T07:16:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Buy now, pay later provider Zip withdraws from NZ market",
+                "desc": "Zip said in an email to customers that it would be ceasing to provide its Pay in 4 product, which offered short-term payment plans at point of purchase.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/an-advert-for-buy-now-pay-later-provider-zip-file-image-O7VPCEHWQ5F4BDA3LOYWDMZEDI.jpg?auth=b8353298f8c08e3d2d9e7a4b7163db6a0520d39886e22e8002c07f1f2410ace9&quality=70&width=600&height=315&focal=445%2C224",
+                "url": "https://www.1news.co.nz/2026/07/17/buy-now-pay-later-provider-zip-withdraws-from-nz-market/",
+                "source": "1News",
+                "date": "2026-07-17T07:15:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Moonshot Unveils World's Largest Open AI Model",
+                "desc": "The launch of Moonshot underscores how quickly China 's open AI ecosystem is narrowing the gap with the most advanced U.S. systems.",
+                "image": "https://stratnewsglobal.com/wp-content/uploads/2026/07/Strat-News-Global126.png",
+                "url": "https://stratnewsglobal.com/trade-tech/chinas-startup-moonshot-unveils-worlds-largest-open-ai-model/",
+                "source": "StratNews Global",
+                "date": "2026-07-17T07:15:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cape Town's iconic ice cream spot The Creamery will be closing its doors",
+                "desc": "All hope may not be lost. Following the announcement, several parties have expressed interest in ensuring The Creamery continues serving its signature scoops.",
+                "image": "https://media.timeout.com/images/106427856/image.jpg",
+                "url": "https://www.timeout.com/cape-town/news/cape-towns-iconic-ice-cream-spot-the-creamery-will-be-closing-its-doors-071726",
+                "source": "Time Out Worldwide",
+                "date": "2026-07-17T07:15:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘I don’t think I’ll ever retire’: the workers struggling to save for old age",
+                "desc": "Almost half of working-age adults in the UK do not save into a pension. Four readers explain why they fear for the future",
+                "image": "https://i.guim.co.uk/img/media/14a7590495a0f0b9c1a31dcd6bd0b59bfb02511d/861_0_3395_2718/master/3395.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d16fcd8d403b23179027a41fe047c5c",
+                "url": "https://www.theguardian.com/money/2026/jul/17/workers-pensions-retirement-savings-money",
+                "source": "The Guardian",
+                "date": "2026-07-17T07:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BoT gold reserves lift assets, economic stability",
+                "desc": "DAR ES SALAAM: THE Bank of Tanzania’s (BoT) gold bullion holdings increased last month, strengthening the central bank’s balance sheet as higher gold reserves offset declines in cash holdings and government securities. According to the BoT’s Statement of Financial Position released on Monday, the value of bullion holdings rose by 4.0 per cent to 6.07tri/- …",
+                "image": "https://dailynews.co.tz/wp-content/uploads/2025/01/GOLD.jpg",
+                "url": "https://dailynews.co.tz/bot-gold-reserves-lift-assets-economic-stability/",
+                "source": "dailynews.co.tz",
+                "date": "2026-07-17T07:12:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Burberry Sales Climb 5% in Q1, Fueled by Gen Z and Renewed Enthusiasm for Trench Coats",
+                "desc": "The Burberry Q1 2026-27 earnings are in: Burberry saw \"outsized growth\" in Gen Z customers in Greater China in the first quarter of fiscal 2026-27.",
+                "image": "https://wwd.com/wp-content/uploads/2026/03/Portraits-of-an-Icon-Courtesy-of-Burberry-2-16x9-1.jpg?crop=0px%2C0px%2C3542px%2C1982px&resize=1000%2C563",
+                "url": "https://wwd.com/business-news/financial/burberry-sales-climb-five-percent-q1-fueled-gen-z-china-1239073276/",
+                "source": "WWD",
+                "date": "2026-07-17T07:08:20Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Bank of Ghana recapitalisation: More than money",
                 "desc": "The government’s decision to raise GH¢5 billion to support the recapitalisation of the Bank of Ghana (BoG) is a timely and necessary intervention.",
                 "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo.jpg",
@@ -542,99 +632,99 @@
                 "source": "Crude Oil Prices Today | OilPrice.com",
                 "date": "2026-07-16T21:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Tesla driver whose car slammed into Texas home overrode driver assistance mode, NTSB says",
-                "desc": "Weeks after a 76-year-old woman was killed when a Tesla, operating on Full Self-Driving, crashed into her Texas home, the National Transportation Safety Board concluded that the car’s driver overrode the driver assistance mode and accelerated into the building.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260625-tesla-crash-ch-1307-8bb0bc.jpg",
-                "url": "https://www.nbcnews.com/news/us-news/tesla-driver-whose-car-slammed-texas-home-overrode-driver-assistance-rcna587823",
-                "source": "NBC News",
-                "date": "2026-07-16T19:16:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Gulf states are investing billions in Africa",
-                "desc": "Wealthy Gulf states are investing billions in African countries. But the nations involved all have different objectives. What's behind the investments and what's in it for African countries?",
-                "image": "https://static.dw.com/image/77091592_6.jpg",
-                "url": "https://www.dw.com/en/why-gulf-states-are-investing-billions-in-africa/a-77971459",
-                "source": "DW.com",
-                "date": "2026-07-16T19:10:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dangote: Nigerian filling stations increase fuel price",
-                "desc": "Nigerian filling stations increased their Premium Motor Spirit, PMS, pump prices on Thursday. A market survey by DAILY POST showed that AA Rano, Ranoil",
-                "image": "https://dailypost.ng/wp-content/uploads/2020/08/fuel.jpg",
-                "url": "https://dailypost.ng/2026/07/16/dangote-nigerian-filling-stations-increase-fuel-price/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-16T19:10:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Phones, plumbing, more: The unknown vital goods cut off by Iran war",
-                "desc": "Much more than just oil passes through one the Strait of Hormuz.",
-                "image": "https://static.ffx.io/images/$zoom_0.8727%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_144/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/5db1a437d56dd978f729e41fb3bc29ec38344b39",
-                "url": "https://www.nine.com.au/australia-news/strait-of-hormuz-everything-you-didn-t-realise-was-cut-off-by-iran-us-war-20260716-p60fth.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-16T19:09:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi EVs coming to Malaysia? Latest hiring move hints yes",
-                "desc": "Is Xiaomi Auto preparing a Malaysian market entry? A new job posting hints that Xiaomi EVs might finally be heading to Malaysia.",
-                "image": "https://soyacincau.com/wp-content/uploads/2026/07/xiaomi-su7-01.jpg",
-                "url": "https://soyacincau.com/2026/07/16/xiaomi-ev-malaysia-latest-hiring-move-hints-yes/",
-                "source": "SoyaCincau",
-                "date": "2026-07-16T19:07:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alphabet shares fall on report its Gemini 3.5 Pro AI model is delayed",
-                "desc": "Alphabet announced the Gemini 3.5 Pro AI in May, saying it was being used internally but wouldn't be ready for a broader rollout until the following month.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108309435-1779226823798-gettyimages-2276602257-GOOGLE_IO.jpeg?v=1779226907&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
-                "source": "CNBC",
-                "date": "2026-07-16T19:07:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Italian police conduct raids on several luxury brands in labour abuse probe",
-                "desc": "At issue is the near-ubiquitous practice of brands subcontracting work to suppliers that in turn contract to others, ending up with firms who employ Chinese workers in exploitative conditions.",
-                "image": "https://images.euronews.com/articles/stories/09/84/09/72/1200x675_cmsv2_1e6575df-e580-556f-ab15-93e91a4f344c-9840972.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/16/italian-police-conduct-raids-on-several-luxury-brands-in-labour-abuse-probe",
-                "source": "Euronews.com",
-                "date": "2026-07-16T19:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kalshi Is Letting People Bet On Clinical Trials And FDA Drug Decisions",
-                "desc": "Gamblers can now bet on how experimental drugs will perform in clinical trials—and if they’ll get FDA approval.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5928c0866143042d72c9eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/16/kalshi-opens-betting-market-for-pharmaceutical-trials-and-fda-decisions/",
-                "source": "Forbes",
-                "date": "2026-07-16T19:04:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eni CEO: Big Oil Bets on Southeast Asia and Latin America",
-                "desc": "The oil and gas industry is shifting its capital investments toward Southeast Asia and Latin America due to prolonged shipping disruptions in the Strait of Hormuz",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_5louc6xiog.jpg",
-                "url": "https://oilprice.com/Energy/Energy-General/Eni-CEO-Big-Oil-Bets-on-Southeast-Asia-and-Latin-America.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-16T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Ticks a lot of boxes for buyers’: The Melbourne suburb that soared",
-                "desc": "Sandy Kincaid is selling her home. She is part of a growing generational change that is bolstering local house prices even as the market softens.",
-                "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/6c2f6680fcf2109e1a4f6012464ff80e620f6bf2",
-                "url": "https://www.theage.com.au/property/news/ticks-a-lot-of-boxes-for-buyers-the-melbourne-suburb-that-soared-20260624-p609tv.html",
-                "source": "The Age",
-                "date": "2026-07-16T19:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Toogoolawah Sale: Market strong but a 'dark cloud' looms",
+                "desc": "Dick Boyd, 90, sold 300 Charolais-cross weaners at Toogoolawah's July 17 sale. Discover his unique approach to selling that prioritises time over market trends.",
+                "image": "https://www.queenslandcountrylife.com.au/images/transform/v1/crop/frm/260010176/61d00388-1f6d-4094-935d-ea6a798e5654.jpg/r0_374_5184_3096_w1200_h630_fmax.jpg",
+                "url": "https://www.queenslandcountrylife.com.au/story/9312811/toogoolawah-sale-market-strong-but-a-dark-cloud-looms/",
+                "source": "Queensland Country Life",
+                "date": "2026-07-17T07:18:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+                "desc": "OpenAI is officially entering the hardware market with the launch of a $230 light-up keyboard designed to pair with its AI coding assistant,...",
+                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-16-1704560004.jpg",
+                "url": "https://www.businessghana.com/site/news/technology/352245/Amid-hardware-legal-battle-OpenAI-releases-a-230-keyboard-for-Codex",
+                "source": "BusinessGhana",
+                "date": "2026-07-17T07:17:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Radiocentre welcomes UK government plans to extend support for radio to AI-powered smart speakers",
+                "desc": "The UK government has agreed that UK radio services should be supported across all the main voice assistants",
+                "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzUwIDEyMCAyNTAgMjUwJz48cGF0aCBmaWxsPScjZmZmJyBkPSdNMTMwIDI5N2g4MFYxNDdoLTgweicvPjxwYXRoIGZpbGw9JyNiMDEyMTInIGQ9J00xNjAgMzQ0YTEwIDEwIDAgMSAxIDAgMTkgMTAgMTAgMCAwIDEgMC0xOW01MC0xNDRjMCAzLTIgNS01IDVhNSA1IDAgMCAxLTUtNXYtMjBjMC0zIDItNSA1LTVzNSAyIDUgNXptLTM2LTcycy01OS0zLTU5IDYydjEwN2gyOXYtMTloLTZ2LTg4YTM4IDM4IDAgMCAxIDM2LTM4aDJjMTUgMCAyNyA4IDM0IDIwYTkgOSAwIDAgMC0xNCA4djIwYTkgOSAwIDAgMCAxNCA4IDM4IDM4IDAgMCAxLTUzIDE1djU1aC02djM0YTEwIDEwIDAgMCAwIDkgOWM1IDAgMTAtNCAxMC05di02YTcgNyAwIDAgMSA2LTcgNyA3IDAgMCAxIDcgN3YxN2MwIDMgMSA1IDMgNyAyIDEgNCAzIDcgMyA1LTEgOS01IDktMTB2LTE3YTcgNyAwIDAgMSA3LTdjMiAwIDUgMiA2IDRhNyA3IDAgMCAxIDAgM3Y0OGMwIDIgMSA1IDMgNiAyIDIgNCAzIDcgM2ExMCAxMCAwIDAgMCA5LTlWMTkzYzAtNjktNjAtNjUtNjAtNjUnLz48L3N2Zz4=",
+                "url": "https://podnews.net/press-release/radiocentre-smart-speakers",
+                "source": "Podnews",
+                "date": "2026-07-17T07:15:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iQOO confirms Z11 Lite's price segment while revealing more details about it",
+                "desc": "It's launching on July 24. iQOO will launch the Z11 Lite on July 24, and ahead of the launch, the brand has confirmed that the smartphone will be priced...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-z11-lite-price-segment/-952x498w6/gsmarena_001.jpg",
+                "url": "https://www.gsmarena.com/iqoo_z11_lite_price_segment-news-73764.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-17T07:15:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How period trackers share women's private details",
+                "desc": "Stardust is a period tracking app that combines users' menstrual cycles with astrology and horoscopes",
+                "image": "https://cdn.radioafrica.digital/image/2026/07/2a112357-13a7-4ceb-a615-647e3beda901.webp?1784288786635",
+                "url": "https://www.the-star.co.ke/news/2026-07-17-how-period-trackers-share-womens-private-details",
+                "source": "the-star.co.ke",
+                "date": "2026-07-17T07:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roborock's new lawn mower comes to the US with a huge discount",
+                "desc": "Roborock has launched its RockMow X120H LiDAR lawn mower in the US with a huge introductory discount of $700.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/roborock-rockmow-x120h-lawn-mower-hero-image.jpg",
+                "url": "https://www.androidauthority.com/roborock-rockmow-x120h-lidar-launch-3688530/",
+                "source": "Android Authority",
+                "date": "2026-07-17T07:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prosthetics developer Metacarpal seizes on reliability",
+                "desc": "Metacarpal developed what it says is the first multi-articulating, body-powered prosthetic hand, with no sensors, batteries or motors.",
+                "image": "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2026/07/Metacarpal-GEM-Pinch-Grip.jpg",
+                "url": "https://www.medicaldesignandoutsourcing.com/metacarpal-gem-prosthetic-hand-fergal-mackie/",
+                "source": "Medical Design & Outsourcing",
+                "date": "2026-07-17T07:05:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Audeze launches new premium Maxwell 2 ANC gaming headset",
+                "desc": "Audeze adds ANC and SLAM acoustic tech to their Maxwell 2 platform",
+                "image": "https://storage.ghost.io/c/50/c6/50c61f91-0165-4605-93bc-f8598149e466/content/images/size/w1200/2026/07/ADZ_Maxwell2-ANC_Lifestyle1.jpg",
+                "url": "https://gamingtrend.com/news/audeze-launches-new-premium-maxwell-2-anc-gaming-headset/",
+                "source": "GamingTrend",
+                "date": "2026-07-17T07:04:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+                "desc": "OpenAI is officially entering the hardware market with the launch of a $230 light-up keyboard designed to pair with its AI coding assistant,...",
+                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-16-1704560004.jpg",
+                "url": "https://www.businessghana.com/site/news/Technology/352245/Amid-hardware-legal-battle,-OpenAI-releases-a-$230-keyboard-for-Codex",
+                "source": "BusinessGhana",
+                "date": "2026-07-17T07:01:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GeForce RTX 50 Series owners are reporting GPU Hotspots of 100+ degrees now that monitoring is available",
+                "desc": "With new GPU hotspot temperature readings now available, unofficially, for GeForce RTX 50 Series GPUs, we're starting to see cases with alarming results.",
+                "image": "https://static.tweaktown.com/news/1/1/112664_1_geforce-rtx-50-series-owners-are-reporting-gpu-hotspots-of-100-degrees-now-that-monitoring-is-available_full.jpg",
+                "url": "https://www.tweaktown.com/news/112664/geforce-rtx-50-series-owners-are-reporting-gpu-hotspots-of-100-plus-degrees-now-that-monitoring-is-available/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-17T07:01:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "BMW Malaysia opens Clubhouse showcase with three debuts and rebates from RM12,000",
                 "desc": "BMW Clubhouse opens at Factory 19 PJ from 17 to 19 July 2026 with the new M2 CS, M3 Touring and 218 Gran Coupe, plus rebates and 0% financing offers.",
@@ -1174,99 +1264,99 @@
                 "source": "Decrypt",
                 "date": "2026-07-16T21:01:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "GameStop's Ryan Cohen calls physical game sales 'totally irrelevant' and pivots every question back to eBay",
-                "desc": "GameStop CEO Ryan Cohen dismissed physical game sales as irrelevant on Bloomberg TV as collectibles hit 41 percent of revenue and he pushes his eBay bid.",
-                "image": "https://media.thenextweb.com/2026/07/gamestop-cohen-physical-games-irrelevant-ebay.avif",
-                "url": "https://thenextweb.com/news/gamestop-cohen-physical-games-irrelevant-ebay",
-                "source": "The Next Web",
-                "date": "2026-07-16T19:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-                "desc": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-1152x648.jpg",
-                "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-                "source": "Ars Technica",
-                "date": "2026-07-16T19:18:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The unpredictable horizon of the Singularity",
-                "desc": "“The real problem is not whether machines think, but whether men do.” The reflection attributed to B. F. Skinner feels increasingly relevant as we approach what many describe as the technological frontier of our age: the Singularity. A moment, hypothetical yet increasingly plausible, when artificial intelligence surpasses human intelligence and begins to evolve beyond our",
-                "image": "https://www.arabnews.pk/sites/default/files/authors/4324491-a42fd94c-eea5-474e-87ee-fad8c5e5dd6e.png",
-                "url": "https://www.arabnews.pk/node/2651199",
-                "source": "Arab News PK",
-                "date": "2026-07-16T19:14:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Cairns Post",
-                "desc": "No Cookies | The Cairns Post",
-                "image": "https://www.cairnspost.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-cairnspost-169.svg",
-                "url": "https://www.cairnspost.com.au/nocookies?a=A.flavipes",
-                "source": "The Cairns Post",
-                "date": "2026-07-16T19:11:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-                "desc": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data.",
-                "image": "https://www.bleepstatic.com/content/hl-images/2026/07/16/okobot.jpg",
-                "url": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-                "source": "BleepingComputer",
-                "date": "2026-07-16T19:09:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "75% of PlayStation 3 games can now be fully completed on PC, per RPCS3",
-                "desc": "RPCS3 hits 75% PS3 game compatibility and is quietly working toward running games without Sony's original firmware installed at all.",
-                "image": "https://static.tweaktown.com/news/1/1/112655_1_75-of-playstation-3-games-can-now-be-fully-completed-on-pc-per-rpcs3_full.png",
-                "url": "https://www.tweaktown.com/news/112655/75-percent-of-playstation-3-games-can-now-be-fully-completed-on-pc-per-rpcs3/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-16T19:05:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GameStop CEO Says Games Are \"Irrelevant\" To Company",
-                "desc": "In a new interview, GameStop CEO Ryan Cohen says that games and software are \"irrelevant\" to the company's business.",
-                "image": "https://insider-gaming.com/wp-content/uploads/2024/09/gamestop-sales.jpg",
-                "url": "https://insider-gaming.com/gamestop-ceo-says-games-irrelevant/",
-                "source": "Insider Gaming",
-                "date": "2026-07-16T19:04:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Skullcandy Launches Crusher 720 Headphones With THX Spatial Audio",
-                "desc": "Leading headphone maker Skullcandy, and renowned audio pioneer THX Ltd., today announced an extension of their partnership to deliver the ultimate immersive entertainment audio when enjoying movies, music, or gaming on the go. The upcoming headphones are made for everyone and integrate THX...",
-                "image": "https://www.techpowerup.com/img/x6U5cysvUoeHe1a0.jpg",
-                "url": "https://www.techpowerup.com/350830/skullcandy-launches-crusher-720-headphones-with-thx-spatial-audio",
-                "source": "TechPowerUp",
-                "date": "2026-07-16T19:00:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AWS Continuum to Enable Agentic Code Security for Enterprises",
-                "desc": "Amazon Web Services has recently introduced AWS Continuum, a new integrated security platform to automate the discovery, enforcement, and remediation of security issues across codebases, dependencies,",
-                "image": "https://res.infoq.com/news/2026/07/aws-continuum-code-security/en/headerimage/generatedHeaderImage-1784225072280.jpg",
-                "url": "https://www.infoq.com/news/2026/07/aws-continuum-code-security/",
-                "source": "infoq.com",
-                "date": "2026-07-16T19:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scammers Are Using FaceTime to Pose As Apple Support Reps",
-                "desc": "Scammers are using FaceTime to trick users into handing over sensitive information and financial data. Don't fall for it.",
-                "image": "https://lifehacker.com/imagery/articles/01KXNZMFTW07ER1AMF016JS5JP/hero-image.fill.size_1200x675.jpg",
-                "url": "https://lifehacker.com/tech/watch-out-for-this-new-facetime-scam",
-                "source": "Lifehacker",
-                "date": "2026-07-16T19:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
+                "desc": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1581x889+0+82/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fe1%2F23c785da4f518241791d277ebfa4%2Fap26198084161653.jpg",
+                "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
+                "source": "NPR",
+                "date": "2026-07-17T07:17:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bahrain Expands Visa on Arrival Access to Travellers from the US, UK, Canada, EU, Australia, Japan and 60 More Countries: Who Can Stay Now for 14, 30 or 90 Days?",
+                "desc": "Bahrain offers Visa on Arrival to travellers from 69 countries, including the US, UK, Canada and EU nations. Check the complete country list, stay durations and entry rules.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/rnn.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/hea61nx7yl1n/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-17T07:16:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uganda drops case against women arrested for public kissing",
+                "desc": "Ugandan prosecutors drop case against two women arrested for kissing under the harsh anti-gay law, sparking calls for repeal.",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/sr-file-2025-12-08T115020.518_1784272262-1200x630.webp",
+                "url": "https://punchng.com/uganda-drops-case-against-women-arrested-for-kissing-in-public/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-17T07:14:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tipperary woman killed in hit-and-run in Belfast",
+                "desc": "The driver of the car \"fled the scene\", police said, but was later arrested.",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10319/5159845_4_org_9b5ef27d-a282-45ca-96a9-5162635ce980.jpg",
+                "url": "https://www.irishexaminer.com/news/arid-41881036.html",
+                "source": "Irish Examiner",
+                "date": "2026-07-17T07:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "connected Melbourne man for ‘all that he’s worth’, court hears",
+                "desc": "The man, who cannot be named, has pleaded not guilty to two counts of rape and one count of sexual assault in Victoria’s county court",
+                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+                "url": "https://www.aol.co.uk/articles/alleged-rape-victim-wanted-well-063225000.html",
+                "source": "AOL.co.uk",
+                "date": "2026-07-17T07:11:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Burkina Faso Secures $120 Million to Expand Social Protection and Economic Inclusion",
+                "desc": "The World Bank has announced a $120 million financing package to expand social protection and economic inclusion programmes for poor and vulnerable households in Burkina Faso. The package includes a $100 million credit from the International Development Association and a $20 million grant from the Sahel Adaptive Social Protection Programme. The initiative is expected to",
+                "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+                "url": "https://news.fundsforngos.org/2026/07/17/burkina-faso-secures-120-million-to-expand-social-protection-and-economic-inclusion/",
+                "source": "fundsforNGOs News",
+                "date": "2026-07-17T07:11:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "“It is not simply xenophobia,” South African Archbishop Says Migration Debate Requires More Than “single narrative”",
+                "desc": "Archbishop Dabula Anthony Mpako of Pretoria Catholic Archdiocese in South Africa has challenged prevailing portrayals of anti-migrant tensions in the country, saying the situation is far more complex than commonly presented and warned against reducing it to a single explanation.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-17t094957_1784271747.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22999/it-is-not-simply-xenophobia-south-african-archbishop-says-migration-debate-requires-more-than-single-narrative",
+                "source": "ACI Africa",
+                "date": "2026-07-17T07:07:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AfDB Approves $94 Million to Expand Irrigation in Northern Cameroon",
+                "desc": "The African Development Bank has approved an €81.2 million, or approximately $94 million, loan to expand irrigation infrastructure and strengthen climate-resilient agriculture in northern Cameroon. The financing will support the first phase of the Northern Agro-Industrial Development Programme. Together with an expected €7.54 million contribution from the Cameroonian government, the project will have a total",
+                "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+                "url": "https://news.fundsforngos.org/2026/07/17/afdb-approves-94-million-to-expand-irrigation-in-northern-cameroon/",
+                "source": "fundsforNGOs News",
+                "date": "2026-07-17T07:05:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Beyond borders: Rethinking Africa’s migration governance crisis",
+                "desc": "A meaningful response must begin with an acknowledgement of competing realities.",
+                "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/07/PcDStJ6xze5Ws6twawtSNnsIUZQ0lcr5UE6z8tDO.jpg",
+                "url": "https://www.newsday.co.zw/opinion-analysis/article/200058399/beyond-borders-rethinking-africas-migration-governance-crisis",
+                "source": "NewsDay Zimbabwe",
+                "date": "2026-07-17T07:02:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Announcement of the Arrival of the African Union Election Observation Mission for the Presidential Election of 19 July 2026 in the Democratic Republic of São Tomé and Príncipe",
+                "desc": "At the invitation of the Government of the Democratic Republic of São Tomé and Príncipe, the Chairperson of the African Union Commission (AUC), H.E. Mr Mahamoud Ali YOUSSOUF, deployed an African Union Election Observation Mission (AUEOM), upon the recommendation of the African Union Commissioner for Political Affairs, Peace and Security (PAPS), H.E. Ambassador Bankole ADEOYE, to assess and report on the conduct of the presidential election scheduled for 19 July 2026, in line with the democratic principles and commitments of the African Union.",
+                "image": "https://www.peaceau.org/images/logo-african-union-peace-and-security.gif",
+                "url": "https://www.peaceau.org/en/article/announcement-of-the-arrival-of-the-african-union-election-observation-mission-for-the-presidential-election-of-19-july-2026-in-the-democratic-republic-of-sao-tome-and-principe",
+                "source": "African Union,Peace and Security Department",
+                "date": "2026-07-17T07:01:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump ‘pissed off’ by Netanyahu’s criticism of proposed F-35 sale to Turkiye: report",
                 "desc": "Israeli premier has sought White House meeting for weeks as tensions deepen over Iran diplomacy",
@@ -1806,98 +1896,8 @@
                 "source": "standardmedia.co.ke",
                 "date": "2026-07-16T21:15:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Two Sudanese men jailed in UK for piloting migrant boats across English Channel",
-                "desc": "The court heard that the boat was designed for five people, but had six on board, and it was taking on water because it was sitting so low.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/05/eastleighvoice-co-ke-2026-may-17-155818.webp",
-                "url": "https://eastleighvoice.co.ke/sudan/379989/two-sudanese-men-jailed-in-uk-for-piloting-migrant-boats-across-english-channel",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-16T19:23:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Starlink's New Roam Rules Threaten to Price Out Digital Nomads at Sea",
-                "desc": "Some in the sailing community are urging subscribers to file support tickets with the satellite internet provider to reverse expensive changes to Starlink Roam and its travel capabilities.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/s/starlinks-/starlinks-new-roam-rules-threaten-to-price-out-digital-nomad_m1cw.1200.jpg",
-                "url": "https://au.pcmag.com/networking/118799/starlinks-new-roam-rules-threaten-to-price-out-digital-nomads-at-sea",
-                "source": "PCMag Australia",
-                "date": "2026-07-16T19:20:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"Victims will emerge\": new aggressive statements were made in Russia regarding the Baltic states",
-                "desc": "Commenting for the propaganda channel RT on the policy of the Baltic states towards the Russian language, Sergey Mironov stated that the actions of the authorities are allegedly \"cleansings\" of Russians. He claimed that such a policy could lead to",
-                "image": "https://news.inbox.eu/w/img/4d/ad/4dadcbabae868026cf.webp",
-                "url": "https://news.inbox.eu/150iji6-victims-will-emerge-new-aggressive-statements-were-made-in-russia-regarding-the-baltic-states?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-07-16T19:15:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pipelines around Hormuz won't end threat Iran poses to Middle East oil",
-                "desc": "Oil producers are building or contemplating new pipeline projects to bypass the Strait of Hormuz, but this infrastructure is still vulnerable, analysts said.",
-                "image": "https://image.cnbcfm.com/api/v1/image/107113754-1662372524421-gettyimages-1242722265-AFP_32H37XZ.jpeg?v=1784226228&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/16/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html",
-                "source": "CNBC",
-                "date": "2026-07-16T19:13:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Students sensitised on integrity, anti-corruption",
-                "desc": "By Albert Futukpor Tamale, July 16, GNA – Pupils of two Junior High Schools (JHS) in the Sagnarigu Municipality of the Northern Region have been sensitised on the…",
-                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
-                "url": "https://gna.org.gh/2026/07/students-sensitised-on-integrity-anti-corruption/",
-                "source": "Ghana News Agency",
-                "date": "2026-07-16T19:12:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Derry exit Europa League amid crowd trouble from CSKA",
-                "desc": "Players were taken off the pitch during Derry City's Europa League first round qualifier with CSKA Sofia after crowd trouble spilled onto the field.",
-                "image": "https://www.rte.ie/images/0024b568-1600.jpg",
-                "url": "https://www.rte.ie/sport/soccer/2026/0716/1583584-derry-and-cska-sofia-match-interrupted-by-crowd-trouble/",
-                "source": "RTE.ie",
-                "date": "2026-07-16T19:10:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria Urges African Countries To Speak With One Voice Ahead Of ITU Conference",
-                "desc": "Chibuzor Emejor The Federal Government of Nigeria has called on African countries to strengthen unity and advance a common position on global telecommunications and digital development at the forthcoming International Telecommunication Union (ITU) in Doha, Qatar. Mr. Ahmed Mohammed Alsukun, Director, Overseeing the Office of the Permanent Secretary, Federal Ministry of Communications, Innovation and Digital...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/IMG-20260716-WA01061.jpg",
-                "url": "https://independent.ng/nigeria-urges-african-countries-to-speak-with-one-voice-ahead-of-itu-conference/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-16T19:09:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three people fall to their deaths from popular 215ft observation tower",
-                "desc": "Harz Tower deaths: Three people fall to their deaths from popular 215ft observation tower",
-                "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_305449853-d78c_1784230206.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-                "url": "https://metro.co.uk/2026/07/16/three-people-fall-deaths-popular-215ft-observation-tower-29156866/",
-                "source": "Metro.co.uk",
-                "date": "2026-07-16T19:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former Somali security adviser warns against reliance on foreign troops",
-                "desc": "Mogadishu (HOL) — Former Somali National Security Adviser Hussein Moalim warned Wednesday that Somalia’s security future depends on the federal government’s ability to secure the country independently, saying Mogadishu cannot rely indefinitely on foreign forces.",
-                "image": "https://www.hiiraan.com/uploads/2026/07/17841847421784130738Xuseen-Macallin.jpg",
-                "url": "https://www.hiiraan.com/news4/2026/Jul/205701/former_somali_security_adviser_warns_against_reliance_on_foreign_troops.aspx",
-                "source": "Hiiraan Online",
-                "date": "2026-07-16T19:06:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia’s richest businessmen are moving billions abroad amid fears of asset seizures, Bloomberg reports",
-                "desc": "Several of Russia’s wealthiest businessmen have moved billions of dollars out of the country over the past year amid growing concern about the economy’s future and the federal budget, Bloomberg reported, citing six wealthy Russians and other people familiar with the thinking of several of the country’s billionaires.",
-                "image": "https://meduza.io/imgly/share/1784228577/en/news/2026/07/16/russia-s-richest-businessmen-are-moving-billions-abroad-amid-fears-of-asset-seizures-bloomberg-reports",
-                "url": "https://meduza.io/en/news/2026/07/16/russia-s-richest-businessmen-are-moving-billions-abroad-amid-fears-of-asset-seizures-bloomberg-reports",
-                "source": "Meduza",
-                "date": "2026-07-16T19:02:00Z",
-                "priority": "MAJOR_ALERT"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-17T17:48:03.241119Z"
+    "lastGlobalSync": "2026-07-17T19:21:13.029039Z"
 }
