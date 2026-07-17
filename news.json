@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Jim Cramer likes these 5 non-tech stocks Wall Street got wrong this earnings season",
+                "desc": "CNBC’s Jim Cramer said Wall Street unfairly punished several companies despite delivering strong earnings.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/16/jim-cramer-stocks-wall-street-got-wrong.html",
+                "source": "CNBC",
+                "date": "2026-07-16T23:02:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+                "desc": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-6.50.25-PM.png?resize=1200,943",
+                "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+                "source": "TechCrunch",
+                "date": "2026-07-16T23:01:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European data protection commissioners to meet in Dublin",
+                "desc": "Data Protection Commissioners from across Europe are meeting in Dublin this week, during an event hosted by the Irish Data Protection Commission.",
+                "image": "https://www.rte.ie/images/001ed5c4-1600.jpg",
+                "url": "https://www.rte.ie/news/business/2026/0717/1583751-data-protection-commissioners/",
+                "source": "RTE.ie",
+                "date": "2026-07-16T23:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How the Government’s global grocery search stalled with multiple firms declining contact",
+                "desc": "Roughly half of the efforts conducted by trade officials as part of the Government’s search for a new player in the supermarket industry either broke down or...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/OS3IUZZSRNBERFXANWDJLCMUDE.jpg?auth=ef960249217aac0d0858d33f067a27a656ec4938b6503ab6ecfdcfd71be166a5&width=1200&height=675&quality=70&focal=1533%2C378&smart=false",
+                "url": "https://www.nzherald.co.nz/business/companies/retail/how-the-governments-global-grocery-search-stalled-with-multiple-firms-declining-contact/premium/BZL7VRNYBFEBFAFME5OMF3MFMU/",
+                "source": "NZ Herald",
+                "date": "2026-07-16T23:00:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Race against Tesla: China EV maker Xpeng to launch viral humanoid globally in 2027",
+                "desc": "CEO He Xiaopeng projects the firm will sell 1 million robots by 2030 after ramping up mass production.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/16/9cff0236-7fd7-48d9-813b-f2efe9554531_c73fb51a.jpg?itok=j91x3Utd&v=1784197724",
+                "url": "https://www.scmp.com/business/china-business/article/3360814/race-against-tesla-china-ev-maker-xpeng-launch-viral-humanoid-globally-2027",
+                "source": "South China Morning Post",
+                "date": "2026-07-16T23:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cramer's lightning round: 'Vertiv is in speculative hands right now'",
+                "desc": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+                "image": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1697237650&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/16/cramers-lightning-round-vertiv-is-in-speculative-hands-right-now.html",
+                "source": "CNBC",
+                "date": "2026-07-16T22:55:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft CEO says Anthropic Fable request policy 'doesn't make sense'",
+                "desc": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108336282-1784236796440-gettyimages-2262969470-20090101260225-99-646957.jpeg?v=1784237080&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+                "source": "CNBC",
+                "date": "2026-07-16T22:51:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Has Nike lost its 'cool' factor? LeBron James weighs in",
+                "desc": "Nike's stock has slumped as the sportswear giant faces new competitors and waning influence. LeBron James has some advice on how to regain its 'cool' factor.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108336309-1784239258881-SRK10363_1.JPG?v=1784240261&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/16/nike-cool-factor-lebron-james.html",
+                "source": "CNBC",
+                "date": "2026-07-16T22:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla Malaysia raises prices - Model 3 from RM149k, Model Y from RM198k; up RM1,400 to RM3,000",
+                "desc": "Earlier this week, we reported that Tesla Malaysia would be raising prices range-wide as part of a global pricing adjustment exercise, and the new prices are now live on the Tesla Malaysia configurator. Every variant …",
+                "image": "https://paultan.org/image/2026/07/2105728E-933F-4AB7-80A6-2D8018DA1581-630x332.png",
+                "url": "https://paultan.org/2026/07/17/tesla-malaysia-raises-prices-model-3-from-rm149k-model-y-from-rm198k-up-rm1400-to-rm3000/",
+                "source": "Paul Tan",
+                "date": "2026-07-16T22:45:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World stocks drop on deepening semiconductor rout; oil set for weekly gain",
+                "desc": "Another brutal sell-off for chipmakers rippled through global stock markets on Friday, triggering a rout across Asia and a fall in European equity indices as investors abruptly reassessed the durability of the artificial intelligence (AI)-driven rally.",
+                "image": "https://assets.theedgemarkets.com/Global-Markets-1-APP_theedgemalaysia_24.png",
+                "url": "https://theedgemalaysia.com/node/811046",
+                "source": "The Edge Malaysia",
+                "date": "2026-07-16T22:45:35Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "State Street Corporation (STT) Q2 2026 Earnings Call Transcript",
                 "desc": "State Street Corporation (STT) Q2 2026 Earnings Call July 16, 2026 11:00 AM EDTCompany ParticipantsElizabeth Lynn - Executive VP & Global Head of...",
                 "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
@@ -542,99 +632,99 @@
                 "source": "SMH.com.au",
                 "date": "2026-07-16T09:34:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Swisslog Renames Monorail System \"FastMove\" in Strategic Repositioning",
-                "desc": "FastMove integrates into existing warehouse IT infrastructure through Swisslog’s SynQ software platform",
-                "image": "https://www.cbnme.com/wp-content/uploads/2026/07/Image-4-–-FastMove-integrates-with-SynQ-for-intelligent-material-flow-management-scaled-1024x576.jpg",
-                "url": "https://www.cbnme.com/logistics-news/swisslog-renames-monorail-system-fastmove-in-strategic-repositioning/",
-                "source": "Construction Business News Middle East",
-                "date": "2026-07-16T08:35:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japanese Cities Secure Top-Tier Depth in 2026 'Global Tourism City Attractiveness Index', Led by Osaka and Kyoto",
-                "desc": "SEOUL, South Korea, July 16, 2026 /PRNewswire/ -- Yanolja Research, a global research institute specializing in travel and tourism, today announced the 2026 results of the 'Yanolja Attractiveness Index', officially titled the 'Global Tourism City Attractiveness Index'. Developed jointly by Yanolja Research, Purdue University's CHRIBA Institute in the United States, and Kyung Hee University's H&T Analytics Center in Seoul, the index measures how major tourism cities capture global traveler attention and emotional appeal.",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/pr-newswire/japanese-cities-secure-top-tier-depth-in-2026-global-tourism-city-attractiveness-index-led-by-osaka-and-kyoto/2385662",
-                "source": "The Manila Times",
-                "date": "2026-07-16T08:32:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Housing Essay: Who pays for the pipes?",
-                "desc": "Before we get to building houses, we need to be very clear how the infrastructure for them gets funded in Ireland.",
-                "image": "https://img2.thejournal.ie/article/7102397/river/?height=400&version=7102889",
-                "url": "https://www.thejournal.ie/infrastructure-for-construction-who-pays-ireland-7102397-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-16T08:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Researchers say better cannabis education could reduce high-potency THC use",
-                "desc": "Researchers say better education on cannabis compounds could reduce consumers turning to high-potency tetrahydrocannabinol, commonly known as THC, which can lead to adverse health effects.",
-                "image": "https://i.cbc.ca/ais/13302804-63d1-406f-bcbf-e2fafe180225,1783430633915/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/high-potency-thc-9.7261079",
-                "source": "CBC",
-                "date": "2026-07-16T08:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SGX stock trading gets cheaper for retail investors",
-                "desc": "Discover how SGX's revised board lot framework makes trading higher-priced stocks and REITs more affordable for retail investors from October 5th. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/136f6956c2d17001a46bf3f1622a201f6adbc2991281f2bfcaf3da10e73370c8",
-                "url": "https://www.straitstimes.com/business/askst-trading-pricey-singapore-stocks-gets-cheaper-from-oct-5-here-is-what-to-know",
-                "source": "The Straits Times",
-                "date": "2026-07-16T08:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK investigation to determine if TikTok fails to protect children from harmful content",
-                "desc": "Ofcom concerned platform’s age verification is ineffective, leaving some at risk of seeing posts about self-harm and suicide",
-                "image": "https://i.guim.co.uk/img/media/7be389f39c0b867db9a13fbe8f10e9a4d8f47f29/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7424bd646737886c34185ce27f67632",
-                "url": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
-                "source": "The Guardian",
-                "date": "2026-07-16T08:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kingsbridge Private Hospital to receive €4.5m upgrade",
-                "desc": "It will include the installation of a new CT scanner.",
-                "image": "https://www.midwestradio.ie/wp-content/uploads/2025/01/hospital_ward.jpg",
-                "url": "https://www.midwestradio.ie/news/kingsbridge-private-hospital-to-receive-e4-5m-upgrade/",
-                "source": "Midwest Radio",
-                "date": "2026-07-16T08:29:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HBM pledges to create more jobs",
-                "desc": "The Nation Newspaper HBM pledges to create more jobs",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/07/16092504/HBM.jpg",
-                "url": "https://thenationonlineng.net/hbm-pledges-to-create-more-jobs/",
-                "source": "The Nation Newspaper",
-                "date": "2026-07-16T08:29:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IMF cuts euro area growth forecast on Middle East war",
-                "desc": "The International Monetary Fund (IMF) has cited the ongoing Middle East conflict as a key factor dragging down the euro area's growth prospects while addi",
-                "image": "https://admin.mettisglobal.news/socialmedia/IMF.jpg_20260410045223853_1023f1.jpeg",
-                "url": "https://mettisglobal.news/IMF-cuts-euro-area-growth-forecast-on-Middle-East-war-61893",
-                "source": "Mettis Global",
-                "date": "2026-07-16T08:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kudankulam Nuclear Power Plant data leak: What happened and what we know | Explained",
-                "desc": "Data breach at Kudankulam Nuclear Power Plant reveals operational files on dark web, sparking concerns but not affecting reactor safety.",
-                "image": "https://th-i.thgim.com/public/news/national/i6c82k/article38010078.ece/alternates/LANDSCAPE_1200/TH---STORY-PICTURE",
-                "url": "https://www.thehindu.com/news/national/kudankulam-nuclear-power-plant-data-leak-what-happened-and-what-we-know-explained/article71228955.ece",
-                "source": "The Hindu",
-                "date": "2026-07-16T08:24:18Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "GTA 6 Hacker Moved to Prison for Retrial Two Years After Indefinite Sentence to Secure Hospital",
+                "desc": "Busted.",
+                "image": "https://sm.ign.com/t/ign_ap/news/g/gta-6-hack/gta-6-hacker-moved-to-prison-for-retrial-two-years-after-ind_pemd.1200.jpg",
+                "url": "https://sea.ign.com/grand-theft-auto-vi-rumored-title/245543/gta-6-hacker-moved-to-prison-for-retrial-two-years-after-indefinite-sentence-to-secure-hospital",
+                "source": "IGN Southeast Asia",
+                "date": "2026-07-16T23:03:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Camosun College recognized for sustainability and Indigenous collaboration",
+                "desc": "Camosun Innovates won the Land Award",
+                "image": "https://vicnews.com/wp-content/uploads/sites/2/2026/07/42796771_web1_260715-SNE-CamosunInnovatesAward-_1.jpg?w=1024",
+                "url": "https://vicnews.com/2026/07/16/camosun-college-recognized-for-sustainability-and-indigenous-collaboration/",
+                "source": "Victoria News",
+                "date": "2026-07-16T23:03:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gadget of the Week: The gadget that doubles phone life",
+                "desc": "The least glamorous accessory in mobile technology is also one of the most valuable – and affordable – writes ARTHUR GOLDSTUCK.",
+                "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/Gemini_Generated_Image_ukq6xpukq6xpukq6.webp?resize=1000%2C600&ssl=1",
+                "url": "https://gadget.co.za/doublesphonelife96/",
+                "source": "gadget.co.za",
+                "date": "2026-07-16T23:02:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eriez B-HC Feeders Earn ETL Listing, Achieve CSA/UL Compliance and IP65 Rating",
+                "desc": "Eriez® announced today that its B-HC high-capacity line of electromagnetic vibratory feeders has earned ETL listing through Intertek for CSA and UL compliance and has also achieved an IP65 rati...",
+                "image": "https://hub-4.com/favicon.ico?1780917217",
+                "url": "https://hub-4.com/news/eriez-b-hc-feeders-earn-etl-listing-achieve-csa-ul-compliance-and-ip65-rating",
+                "source": "HUB-4.COM",
+                "date": "2026-07-16T23:00:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How a community helped Giggles smile again",
+                "desc": "After a devastating fire, customers and staff rallied behind this PJ restaurant-café, proving that the strongest foundations are built on kindness.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/65710716-coffee-giggles-lifestyle-emel-pic-160726-1.webp",
+                "url": "https://www.freemalaysiatoday.com/category/leisure/2026/07/17/how-a-community-helped-giggles-smile-again",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-16T23:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Hacker Moved to Prison for Retrial Two Years After Indefinite Sentence to Secure Hospital",
+                "desc": "Busted.",
+                "image": "https://sm.ign.com/t/ign_pk/news/g/gta-6-hack/gta-6-hacker-moved-to-prison-for-retrial-two-years-after-ind_u73c.1200.jpg",
+                "url": "https://pk.ign.com/grand-theft-auto-vi-rumored-title/257963/gta-6-hacker-moved-to-prison-for-retrial-two-years-after-indefinite-sentence-to-secure-hospital",
+                "source": "IGN Pakistan",
+                "date": "2026-07-16T22:58:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "1Password Brings Secure Credential Access to Claude",
+                "desc": "1Password has introduced a browser integration that lets Anthropic‘s Claude access stored credentials without sharing those credentials.",
+                "image": "https://www.pymnts.com/wp-content/uploads/2026/07/1Password-Anthropic-Claude.jpg",
+                "url": "https://www.pymnts.com/news/artificial-intelligence/2026/1password-and-anthropic-bring-secure-credential-access-to-claude/",
+                "source": "PYMNTS.com",
+                "date": "2026-07-16T22:47:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple TV for Android adds widgets, Music gets WhatsApp sharing",
+                "desc": "Apple TV and Apple Music for Android are rolling out sizable updates today, with homescreen widgets as the shared theme.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/apple-tv-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/16/apple-tv-widgets/",
+                "source": "9to5Google",
+                "date": "2026-07-16T22:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
+                "desc": "The European Commission today formally ordered Google to give third-party AI services the same access to Android device features that Gemini has. Europe's Digital Markets Act requires software makers like Apple and Google to grant equal interoperability to third-party apps and services, and the EC is enforcing it. DMA interoperability rules are why Siri AI won't be available in the European Union when iOS 27 launches.",
+                "image": "https://images.macrumors.com/t/pPDCn-hQtSI9kC8urpqYAeRxKF0=/2000x/article-new/2026/04/gemini-for-mac-app-google.jpg",
+                "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
+                "source": "MacRumors",
+                "date": "2026-07-16T22:45:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Lawsuit Filed Against Apple for 'Hide My Email' Privacy Vulnerability",
+                "desc": "A major flaw in Apple's Hide My Email feature exposes users' real email addresses to anyone who can look them up online.",
+                "image": "https://www.cnet.com/a/img/resize/038a765ce0fd6cf26d2a987cac66bbab4a75358f/hub/2026/07/16/113cd6bd-2dc7-4fd2-a844-5c2ec9090c7c/gettyimages-2044028530.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/services-and-software/new-lawsuit-filed-against-apple-hide-my-email-privacy-flaw/",
+                "source": "CNET",
+                "date": "2026-07-16T22:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Samsung is adding yet another preinstalled app to Galaxy phones, but there's a silver lining",
                 "desc": "You didn't ask for this, but there you go - Samsung and Amazon are making a big deal out of adding the Amazon Music app to the Galaxy Store.",
@@ -1174,99 +1264,99 @@
                 "source": "Mashable",
                 "date": "2026-07-16T09:42:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "HWiNFO now also supports hotspot readings on the RTX 50 series!",
-                "desc": "The HWiNFO monitoring software also follows in the footsteps of HWMonitor by allowing users to read the RTX 50's hotspot sensor!",
-                "image": "https://en.overclocking.com/wp-content/medias/sites/4/2024/02/hwinfo64-logo-actualite-software-information-overclocking.jpg",
-                "url": "https://en.overclocking.com/hwinfo-now-also-supports-hotspot-readings-on-the-rtx-50-series/",
-                "source": "Overclocking.com",
-                "date": "2026-07-16T08:32:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "generation Speedmax triathlon bike built around AeroID concept",
-                "desc": "German bicycle manufacturer Canyon has unveiled the latest generation of its Speedmax triathlon bike.",
-                "image": "https://endurance.biz/wp-content/uploads/2026/07/260716_Canyons-next-generation-Speedmax-triathlon-bike-built-around-AeroID-concept.jpeg",
-                "url": "https://endurance.biz/2026/industry-news/canyons-next-generation-speedmax-triathlon-bike-built-around-aeroid-concept/",
-                "source": "endurance.biz",
-                "date": "2026-07-16T08:31:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Denmark's concept of hygge has no exact English equivalent: it describes a quality of warmth, safety, and unhurried togetherness that is often credited with some of the highest reported life-satisfact",
-                "desc": "Hygge has become one of those foreign words English-speakers reach for when their own language feels thin. It names a quality of warmth, ease, and unhurried",
-                "image": "https://spacedaily.com/wp-content/uploads/2026/07/Posts-1600840-2026-07-16T111551.891.png",
-                "url": "https://spacedaily.com/d-denmarks-concept-of-hygge-has-no-exact-english-equivalent-it-describes-a-quality-of-warmth-safety-and-unhurried-togetherness-that-is-often-credited-with-some-of-the-highest-reported-life-satisfac/",
-                "source": "Space Daily",
-                "date": "2026-07-16T08:30:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Redmi 17 4G renders and specifications leak",
-                "desc": "It’s tipped to use a MediaTek Helio G91 Ultra SoC. Earlier this month, details about the global variant of the Redmi 17 5G surfaced online. Now, a fresh...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-17-4g-renders-specs-leak/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/redmi_17_4g_renders_and_specifications_leak-news-73742.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-16T08:30:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI is reshaping physics but raising new questions",
-                "desc": "Scientists say AI could transform physics research, but its findings must still be understood and verified.",
-                "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/07/17213335_rm373batch15-bg-05-2.jpg",
-                "url": "https://dig.watch/updates/ai-is-reshaping-physics-but-raising-new-questions",
-                "source": "Digital Watch Observatory",
-                "date": "2026-07-16T08:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
-                "desc": "Why to do it, and what to watch out for",
-                "image": "https://image.theregister.com/254231.jpg?imageId=254231&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/software/2026/07/16/how-to-teach-an-old-intel-mac-new-tricks-with-opencore-legacy-patcher/5271880",
-                "source": "The Register",
-                "date": "2026-07-16T08:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OnePlus Winds Down Operations in US and Europe",
-                "desc": "OnePlus is exiting the US and Europe markets as Oppo restructures its brands amid rising costs and weak overseas sales.",
-                "image": "https://techweez.com/wp-content/uploads/2024/04/cropped-favicons-32x32.png",
-                "url": "https://techweez.com/2026/07/16/oneplus-winds-down-operations-in-us-and-europe/",
-                "source": "Techweez",
-                "date": "2026-07-16T08:23:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Highvern promotes ten across Jersey and Cayman offices",
-                "desc": "Highvern has announced a series of mid-year promotions across its Jersey and Cayman offices. Recognising outstanding performance and contribution across",
-                "image": "https://channeleye.media/wp-content/uploads/2026/07/HIGHVERN-Promotions-JUNE-2026-for-PRESS-RELEASE.jpg",
-                "url": "https://channeleye.media/highvern-promotes-ten-across-jersey-and-cayman-offices/",
-                "source": "channeleye.media",
-                "date": "2026-07-16T08:20:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to level up your phone photography with the Samsung Galaxy S26 Ultra",
-                "desc": "6 tips to help you get the most from the flagship camera phone.",
-                "image": "https://cdn.mos.cms.futurecdn.net/yK8vNy6b5obhETLwNoDHEb-2560-80.jpg",
-                "url": "https://www.digitalcameraworld.com/tech/phones/how-to-level-up-your-phone-photography-with-the-samsung-galaxy-s26-ultra",
-                "source": "Digital Camera World",
-                "date": "2026-07-16T08:20:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's upcoming Galaxy Fold 8, Fold 8 Ultra detailed in extensive leaks",
-                "desc": "Samsung's upcoming Unpacked event next week will introduce the world to the Galaxy Fold 8 Ultra (plus the standard Fold 8, and maybe...",
-                "image": "https://stuff.co.za/wp-content/uploads/2026/03/Samsung-Fold-8-Wide.png",
-                "url": "https://stuff.co.za/2026/07/16/samsungs-upcoming-galaxy-fold-8-fold-8-ultra-detailed-in-extensive-leaks/",
-                "source": "Stuff South Africa",
-                "date": "2026-07-16T08:19:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Rubio calls for global crackdown on far-left extremism",
+                "desc": "Democrats said the focus on left-wing groups was \"politically partisan\" and could target political opponents.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3dd1/live/af6ad550-815a-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c39ek38le2lo",
+                "source": "BBC",
+                "date": "2026-07-16T23:08:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rubio calls for global crackdown on far-left extremism",
+                "desc": "Democrats said the focus on left-wing groups was \"politically partisan\" and could target political opponents.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3dd1/live/af6ad550-815a-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/c39ek38le2lo",
+                "source": "BBC",
+                "date": "2026-07-16T23:08:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s speech rumored to feature elections or Iran after president teases ‘really big news’ - live updates",
+                "desc": "Speculation surrounding tonight’s address has mounted since Trump promised big announcement without being specific",
+                "image": "https://i.guim.co.uk/img/media/e7350ac1e7bbd7d691cc3fb41e5b437d18b83566/690_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=800304f431007d494887635f26e69d1d",
+                "url": "https://www.theguardian.com/us-news/live/2026/jul/16/trump-speech-address-iran-election-latest-updates",
+                "source": "The Guardian",
+                "date": "2026-07-16T23:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Illegal shark fins flood Senegal port as Chinese vessels flout bans, conservationists alarmed",
+                "desc": "DAKAR, July 17 — In the high seas off west Africa, a fisherman on a Chinese longline tuna vessel cuts the fins off a live shark before throwing it back in the water to suffocate...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/16/352259.jpg",
+                "url": "https://www.malaymail.com/news/world/2026/07/17/illegal-shark-fins-flood-senegal-port-as-chinese-vessels-flout-bans-conservationists-alarmed/227870",
+                "source": "Malay Mail",
+                "date": "2026-07-16T23:01:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jamaica Lists 16 African Countries Whose Citizens Can Enter Visa",
+                "desc": "Jamaica has confirmed 16 African nations, including Ghana and South Africa, can enter without a visa in 2026. Discover the full list and entry requirements today.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/e0dc39be17e89410.jpeg?v=1",
+                "url": "https://yen.com.gh/world/africa/308090-jamaica-lists-16-african-countries-citizens-enter-visa-free-2026-leaves-nigeria/",
+                "source": "Yen News",
+                "date": "2026-07-16T22:48:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian redclaw crayfish could invade Botswana's Okavango Delta within 10 years",
+                "desc": "\"We were just picking up crayfish as we walked. It was insane.\"",
+                "image": "https://s.yimg.com/lo/mysterio/api/83461afaf0923f8f1360555733ee026eb400166c4348268736c5f1ddbce1128f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F05bf350b08de4362cae8c3c209a20816",
+                "url": "https://www.yahoo.com/news/world/articles/australian-redclaw-crayfish-could-invade-224200027.html",
+                "source": "Yahoo",
+                "date": "2026-07-16T22:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian redclaw crayfish could invade Botswana's Okavango Delta within 10 years",
+                "desc": "Botswana’s Okavango Delta may soon face pressure from redclaw crayfish, an invasive Australian species already spreading through rivers across southern Africa.",
+                "image": "https://www.thecooldown.com/wp-content/uploads/2026/07/redclaw-crayfish-invasion-Botswanaimage-recQk0wgdlWUfciPk-1.jpg",
+                "url": "https://www.thecooldown.com/green-tech/redclaw-crayfish-invasion-botswana-okavango-delta/",
+                "source": "The Cool Down",
+                "date": "2026-07-16T22:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICC staffer talks publicly about alleged sexual abuse by chief prosecutor Karim Khan",
+                "desc": "Female lawyer tells CNN’s Christiane Amanpour about alleged ‘escalation of attempts’ as second woman also speaks out",
+                "image": "https://i.guim.co.uk/img/media/081b502c3fe04506969fb3a5363b604ef7e51220/186_106_1661_1330/master/1661.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f02dde6b365b8fe85cc98f8fdd248f7",
+                "url": "https://www.theguardian.com/law/2026/jul/16/icc-staffer-talks-publicly-about-alleged-sexual-abuse-by-chief-prosecutor-karim-khan",
+                "source": "The Guardian",
+                "date": "2026-07-16T22:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Look at South Africa's Complex History",
+                "desc": "It was about two years ago that I discovered the name of one Gibson Makanda, apparently a historical figure of profound consequence the majority of South Africans do not know about.\nHe is, the stories go, the lookalike of Nelson Mandela who walked out of Victor Verster Prison hand in hand with Nomzamo Winnie, his wife and struggle hero in her own right.",
+                "image": "https://images.newsteam.io/image/400/GbSdY1y2zckLHXKDF5YwYX4FGTAmowFVREcravd8HP3CCoGaHJCM3MNyr34nK76o3nyeyPSpjJ8vpPWsLKmgPKRe1WvV5XNBsEvPrBcQ4RabTBWMreqJnedWKqWqQg5N6DKPDZyU8SGgaKPgJ9Wb1",
+                "url": "https://mg.co.za/thought-leader/2026-07-16-nelson-mandela-did-not-sell-out/",
+                "source": "Mail & Guardian",
+                "date": "2026-07-16T22:32:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hungary's PM says he must oust Orbán's 'puppet' president. Some say he's going too far",
+                "desc": "Hungary's new prime minister says he's enacting the will of the people by doing everything in his power to oust his predecessor's allies. But human rights advocates are cautioning him to slow down.",
+                "image": "https://i.cbc.ca/ais/2f1a6cb3-cdac-4835-b185-97b36f71a756,1784239729831/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2560%2C1440%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/radio/asithappens/hungary-president-17th-amendment-9.7273154",
+                "source": "CBC",
+                "date": "2026-07-16T22:27:06Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "World Cup 2026: New York issues air quality health alert days before World Cup final",
                 "desc": "Officials in New York and New Jersey issue an air quality health alert because of wildfire smoke just days before the World Cup final.",
@@ -1806,98 +1896,8 @@
                 "source": "allAfrica.com",
                 "date": "2026-07-16T09:27:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Just In: US Conditions 50% of Aid to Nigeria on Protection of Christians, \"Bold Actions\"",
-                "desc": "US authorities on Wednesday, July 15, announced fresh action against Nigeria following renewed allegations of Christian persecution in the African nation.",
-                "image": "https://cdn.legit.ng/images/1200x675/877871d5e0eb30ad.jpeg?v=1",
-                "url": "https://www.legit.ng/nigeria/1719606-breaking-congress-conditions-50-aid-nigeria-protection-christians-terrorists/",
-                "source": "Legit.ng",
-                "date": "2026-07-16T08:27:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria: Ex-Speaker Etteh, Abbas' Wife, Others Press Lawmakers to Pass Women's Representation Bill",
-                "desc": "The Constitution Alteration Bill proposes the creation of additional seats exclusively for women in the National Assembly and state Houses of Assembly as a temporary affirmative action measure.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607160163.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-16T08:26:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria: EFCC Seeks Stronger Partnership to Curb Terrorist Financing, Protect CSOs",
-                "desc": "The Economic and Financial Crimes Commission (EFCC) has called for stronger collaboration among governments, regulators and civil society organisations across Africa to combat terrorist financing while protecting legitimate charitable organisations from unnecessary regulatory restrictions.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607160166.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-16T08:26:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
-                "desc": "Strikes have hit closer to Tehran for the first time since the latest wave of attacks started.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-15T140247Z_1957995648_RC2EEMAK633W_RTRMADP_3_IRAN-CRISIS-CHABAHAR-1-1784180835.jpg?resize=1200%2C630",
-                "url": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest",
-                "source": "Al Jazeera",
-                "date": "2026-07-16T08:26:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The backlash against NU’s religious diplomacy",
-                "desc": "The organisation’s ties with neocons and illiberals abroad angers the grassroots",
-                "image": "https://www.newmandala.org/wp-content/uploads/2026/07/01_flag-handover_722x481.jpg",
-                "url": "https://www.newmandala.org/the-backlash-against-nus-religious-diplomacy/",
-                "source": "New Mandala",
-                "date": "2026-07-16T08:26:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A million young people out of work: What two government reports tell the tech sector",
-                "desc": "The UK now has more than a million young people not in education, employment or training, the first time the figure has passed one million since 2013. Two government reports published within days",
-                "image": "https://www.wired-gov.net/wg/news.nsf/channel-social/DNWA-9U5EA2/$file/TUK_social.gif",
-                "url": "https://www.wired-gov.net/wg/news.nsf/articles/A+million+young+people+out+of+work+What+two+government+reports+tell+the+tech+sector+16072026092500?open",
-                "source": "Wired-Gov",
-                "date": "2026-07-16T08:25:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Full List of African Countries Whose Citizens Can Enter the Philippines Without Visa in 2026",
-                "desc": "The Philippines has published the African countries whose citizens can enter without a visa under its current immigration policy. Check the official list here.",
-                "image": "https://cdn.legit.ng/images/1200x675/7acd1e23c55780aa.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1719602-full-list-african-countries-citizens-enter-philippines-visa-2026/",
-                "source": "Legit.ng",
-                "date": "2026-07-16T08:22:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Germany Connects With France, Spain, Ireland, Latvia and More as Europe Unveils Its Most Enchanting Fairytale Destinations for 2026, Bringing Medieval Wonders, UNESCO Treasures and Magical Travel Expe",
-                "desc": "Germany connects with France, Spain, Ireland, Latvia and more as Europe unveils its most enchanting fairytale destinations for 2026, with medieval wonders, UNESCO treasures and magical travel experiences gaining global attention through a new wave of heritage tourism.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/ZBfuj7KEXZCteiZ8Wg_j1Q2k.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/2fgemy2wgztv/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-16T08:21:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Government targets GBV hotspots in new 90-day anti-femicide drive",
-                "desc": "The initiative, which is being rolled out across all 47 counties, will focus on violence hotspots in Nairobi and the Central region through a coordinated multi-agency response.",
-                "image": "https://capitalfm.africa/wp-content/uploads/2026/07/e5de9586-281e-4f36-8306-ed17b3a83cec.png",
-                "url": "https://capitalfm.africa/government-targets-gbv-hotspots-in-new-90-day-anti-femicide-drive/",
-                "source": "Capitalfm.co.ke",
-                "date": "2026-07-16T08:20:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pete Hegseth says US military to start testosterone screening for over 30s",
-                "desc": "US Defense Secretary says plan is ‘about restoring and optimising … natural capabilities’ of troops.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a587e5df2d2-1784184414.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s",
-                "source": "Al Jazeera",
-                "date": "2026-07-16T08:19:59Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-17T09:30:32.408453Z"
+    "lastGlobalSync": "2026-07-17T11:09:48.033579Z"
 }
