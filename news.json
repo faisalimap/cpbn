@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "IRS CEO says Trump Accounts could reach all 70 million U.S. children",
+                "desc": "\"I think the objective is to have 70 million children under 18 to have a Trump Account,\" IRS CEO Frank Bigisnano said.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108186154-1755193500988-gettyimages-2230145209-ah807154_oyd7yrx1.jpeg?v=1755193559&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/16/bisignano-we-should-have-every-family-enrolled-in-a-trump-account.html",
+                "source": "CNBC",
+                "date": "2026-07-16T13:12:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold tests $4,000 as energy-driven inflation fears keep Fed rate hike bets in play",
+                "desc": "Gold (XAU/USD) edges lower on Thursday as traders look past back-to-back, softer-than-expected US inflation reports and remain focused on renewed Middle East tensions, which are fueling concerns that higher energy prices could reignite inflationary pressure.",
+                "image": "https://editorial.fxsstatic.com/images/i/Commodities_Gold-1_Medium.jpg",
+                "url": "https://www.fxstreet.com/news/gold-slips-as-energy-driven-inflation-fears-keep-fed-rate-hike-bets-in-play-202607161146",
+                "source": "FXStreet",
+                "date": "2026-07-16T13:09:31Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "B.C. Nurses' Union strike could be costly for B.C. taxpayers",
+                "desc": "Any change to the mandate could mean a windfall for public sector unions, but experts say costs may be worth it.",
+                "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/07/0716-strike-w.jpg",
+                "url": "https://vancouversun.com/news/b-c-government-may-have-no-choice-but-to-spend-more-to-settle-with-nurses-experts-say",
+                "source": "Vancouver Sun",
+                "date": "2026-07-16T13:06:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marketers Slash Cooking Gas Prices, Release New Rates",
+                "desc": "Nigerian marketers have reduced cooking gas depot prices, with PPMC cutting LPG to N1,010/kg, raising hopes of cheaper refills for households nationwide.",
+                "image": "https://cdn.legit.ng/images/1200x675/c0d862372cd6a65b.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/energy/1719683-marketers-slash-cooking-gas-prices-release-rates/",
+                "source": "Legit.ng",
+                "date": "2026-07-16T13:05:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Freelander 8 detailed further as first interior images emerge",
+                "desc": "With production soon to start, the joint venture between Chery and JLR has released first interior images of the new Freelander 8.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/f038f537gy1iewtsznaejj20v915okjl.jpg",
+                "url": "https://www.citizen.co.za/motoring/more-images-of-production-freelander-8-emerge/",
+                "source": "The Citizen",
+                "date": "2026-07-16T13:03:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jio Financial Q1 Results: Profit skyrockets 155% YoY to Rs 830 crore",
+                "desc": "Jio Financial on Thursday reported 155% year-on-year (YoY) growth in its consolidated net profit at Rs 830 crore in the first quarter. The same stood at Rs 325 crore in the same quarter last year.",
+                "image": "https://img.etimg.com/thumb/msid-132440184,width-1200,height-630,imgsize-19826,overlay-etmarkets/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-results-profit-skyrockets-156-yoy-to-rs-830-crore/articleshow/132440198.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-16T13:02:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ledger wants AI agents to manage crypto without holding your keys",
+                "desc": "AI agents can read wallet balances and analyze portfolios but requires every sensitive action to be approved on a Ledger hardware device before it can be executed.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/14457616350fd3b13d4c4075bbd999434c3633ce-1280x960.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
+                "source": "CoinDesk",
+                "date": "2026-07-16T13:01:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google ordered to open Android and Search to rivals in Europe",
+                "desc": "The EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+                "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+                "source": "The Verge",
+                "date": "2026-07-16T13:01:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mimic Robotics launches highly capable robotic hand that emulates human movements",
+                "desc": "Mimic Robotics launches highly capable robotic hand that emulates human movements - SiliconANGLE",
+                "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/mimic-robotics-robot-hands-image.png",
+                "url": "https://siliconangle.com/2026/07/16/mimic-robotics-launches-highly-capable-robotic-hand-emulates-human-movements/",
+                "source": "SiliconANGLE",
+                "date": "2026-07-16T13:00:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I’ve spent years studying economic data. These Americans taught me what ‘affordability’ really means",
+                "desc": "A Reporter’s Notebook from four cities, 5,000 miles, three dozen interviews and the people I can’t stop thinking about.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1268713514.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/16/business/people-economy-inflation-childcare-housing-jobs",
+                "source": "CNN",
+                "date": "2026-07-16T13:00:34Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "USA: BMW recalls nearly 30,000 US PHEVs over starter defect",
                 "desc": "BMW is recalling 29,119 plug-in hybrid vehicles in the United States due to a potential fire risk linked to the engine starter system. The affected models",
                 "image": "https://www.electrive.com/media/2018/11/bmw-330e-phev-2018-04.png",
@@ -542,99 +632,99 @@
                 "source": "The Nation Newspaper",
                 "date": "2026-07-16T03:56:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Caution: danger ahead",
-                "desc": "With rising discontentment at home leading to the spread of disaffection, the leadership is stuck in a quagmire.",
-                "image": "https://i.dawn.com/large/2026/07/160708321c56867.webp",
-                "url": "https://www.dawn.com/news/2015800/caution-danger-ahead",
-                "source": "Dawn",
-                "date": "2026-07-16T02:08:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BPI profit flatlines as bad debt cushion offsets soaring loan growth",
-                "desc": "Zobel-led Bank of the Philippine Islands (BPI) reported flat first-half earnings as an aggressive ramp-up in provisions for bad loans offset double-digit gains...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/16/116467.webp",
-                "url": "https://mb.com.ph/2026/07/16/bpi-profit-flatlines-as-bad-debt-cushion-offsets-soaring-loan-growth",
-                "source": "Manila Bulletin",
-                "date": "2026-07-16T02:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indigenous Operators Seek Fresh Investment for Ageing Oilfie",
-                "desc": "Nigerian indigenous oil producers are calling for fresh oilfield investment in drilling, infrastructure, and technology to revive ageing assets and boost c",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/Chief-Executive-Officer-of-Oando-Ainojie-Irune_1784161893.webp",
-                "url": "https://punchng.com/indigenous-operators-seek-fresh-investment-to-revive-ageing-oilfields/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-16T02:06:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Facial recognition gates introduced at Ikebukuro Station",
-                "desc": "Passengers can pass through the ticket gates hands-free if they register their facial data and commuter pass information in advance.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/16/551906.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/16/companies/japan-train-station-facial-recognition/",
-                "source": "The Japan Times",
-                "date": "2026-07-16T02:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ben Yeo shuts all 6 sliced fish soup stalls after 5-figure loss, opens affordable zi char spot in Yishun",
-                "desc": "The Mediacorp actor-host describes his latest venture, 20 Dishes Only, as an “old-school neighbourhood zi char” stall. It opened in a Yishun coffeeshop earlier this month.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--JTDg2cAd--/c_crop,h_348,w_620,x_0,y_381/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/ben_yeo_20_dishes_only.jpg?itok=Ed0fg_vX",
-                "url": "https://cnalifestyle.channelnewsasia.com/dining/ben-yeo-zi-char-outlet-yishun-20-dishes-only-586026",
-                "source": "CNA Lifestyle",
-                "date": "2026-07-16T02:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korea regulator to announce new measures on single-stock leveraged ETFs",
-                "desc": "SEOUL, July 16 : South Korea's top financial regulator will announce new measures on single-stock leveraged exchange-traded funds soon, its chief said on Thursday, amid worries about the effects of such instruments on financial market stability.The Financial Services Commission will \"closely inspect and revie",
-                "image": "https://dam.mediacorp.sg/image/upload/s--DBFP9tu4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-16T020144Z_2_LYNXMPEM6F02H_RTROPTP_3_FINTECH-CRYPTO-ETF.JPG?itok=48p2Q2U8",
-                "url": "https://www.channelnewsasia.com/business/south-korea-regulator-announce-new-measures-single-stock-leveraged-etfs-6257376",
-                "source": "CNA",
-                "date": "2026-07-16T02:01:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meet the men who wanted to build gyms but ended up creating software to run them",
-                "desc": "BrightCore targets the software gap at independent fitness businesses overlooked by larger providers",
-                "image": "https://www.irishtimes.com/resizer/v2/OVT5OWFYFZEGVINB5EW7BIMSLE.JPG?smart=true&auth=bbda6fc06d713aa6edbfa84797ebc8945625ccb125f62e2775a24943580b5834&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/innovation/2026/07/16/meet-the-men-who-wanted-to-build-gyms-but-ended-up-creating-software-to-run-them/",
-                "source": "The Irish Times",
-                "date": "2026-07-16T02:00:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s economic divide is widening in era of protectionism",
-                "desc": "Growth is faltering and exports are threatened by increased protectionism, so Beijing is finally looking to its massive pool of consumers to generate growth.",
-                "image": "https://static.ffx.io/images/$zoom_0.2048%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_67%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/40d17cc1a09bfcb0c29da8ebe72cb909f054b8f6",
-                "url": "https://www.theage.com.au/business/the-economy/china-s-economic-divide-is-widening-in-era-of-protectionism-20260716-p60fqx.html",
-                "source": "The Age",
-                "date": "2026-07-16T02:00:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Doomed tax initiative",
-                "desc": "THE FBR’s draft simplified tax regime for small shopkeepers is the latest in a long line of attempts to persuade...",
-                "image": "https://www.dawn.com/_img/social-default.jpg",
-                "url": "https://www.dawn.com/news/2015793",
-                "source": "Dawn",
-                "date": "2026-07-16T02:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philippines’ iconic jeepneys face rocky road to go electric",
-                "desc": "Observers point to the high costs of owning an e-jeepney and a lack of government support in enabling the electric shift.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/15/52582e61-c2a0-4113-81ae-ef18483b18d7_8a63a0fc.jpg?itok=nh5RptlW&v=1784129871",
-                "url": "https://www.scmp.com/week-asia/economics/article/3360719/philippines-iconic-jeepneys-face-rocky-road-go-electric",
-                "source": "South China Morning Post",
-                "date": "2026-07-16T02:00:10Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "OnePlus Exits the US and Europe, Promises Support for Existing Phones",
+                "desc": "Existing users will continue to receive software, security, and after-sales support.",
+                "image": "https://i.pcmag.com/imagery/articles/047XxzSodwddd2faGXaBLV2-1.fit_lim.size_1200x630.v1784205687.jpg",
+                "url": "https://www.pcmag.com/news/oneplus-exits-the-us-and-europe-promises-support-for-existing-phones",
+                "source": "PCMag",
+                "date": "2026-07-16T13:12:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"It's not that we don't care about PC\" - Former Rockstar developer suggests why GTA 6 is only coming to consoles at launch",
+                "desc": "John Ricchio - who worked on the likes of GTA 5 and Red Dead Redemption - has shed some light on GTA 6's console-first launch.",
+                "image": "https://assetsio.gnwcdn.com/gta-6-trailer-city.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/gta-6-rockstar-pc-consoles-release",
+                "source": "Eurogamer.net",
+                "date": "2026-07-16T13:11:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI found the bugs",
+                "desc": "Microsoft's July Patch Tuesday fixed a record 622 flaws, and it credits AI-powered discovery for the surge. Two zero-days were already being exploited.",
+                "image": "https://media.thenextweb.com/2024/12/microsoft-cloud-uk-fine.avif",
+                "url": "https://thenextweb.com/news/microsoft-patch-tuesday-record-ai-found-flaws",
+                "source": "The Next Web",
+                "date": "2026-07-16T13:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 has ‘the strongest pre-order campaign on record’, is on track to sell 37-51 million in week one, analytics firm says",
+                "desc": "Newzoo estimates around $260 million was spent during the first week of pre-orders…",
+                "image": "https://www.videogameschronicle.com/files/2025/05/Jason_Duval_06.jpg",
+                "url": "https://www.videogameschronicle.com/news/analytics-firm-says-gta-6-has-the-strongest-pre-order-campaign-on-record-is-on-track-to-sell-37-51-million-in-its-first-week/",
+                "source": "Video Games Chronicle",
+                "date": "2026-07-16T13:10:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Famitsu sales (7/6/26 - 7/12/26) - first week sales revealed for Digimon Story: Time Stranger, Granblue Fantasy on Nintendo Switch 2",
+                "desc": "The latest Japanese hardware sales from Famitsu are as follows: Switch 2 – 28,755 PS5 Digital Edition – 10,657 Switch OLED – 4,056 Switch Lite – 4,040 Switch – 616 PS5 Pro – 473 PS5 – 264 Xbox Series X Digital Edition – 109 Xbox Series S – 33 Xbox Series X – 15 For comparison’s sake, here are the...",
+                "image": "https://nintendoeverything.com/wp-content/uploads/Digimon-Story-Time-Stranger-trailer.jpg",
+                "url": "https://nintendoeverything.com/famitsu-sales-7-6-26-7-12-26-first-week-sales-revealed-for-digimon-story-time-stranger-granblue-fantasy-on-nintendo-switch-2/",
+                "source": "Nintendo Everything",
+                "date": "2026-07-16T13:07:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Huawei HarmonyOS 7 closed beta could debut next month",
+                "desc": "Huawei is developing the next software iteration - HarmonyOS 7.0, and it may release the first closed beta of this OS version by next month.",
+                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/HarmonyOS-7.0.jpg",
+                "url": "https://www.huaweicentral.com/huawei-harmonyos-7-closed-beta-could-debut-next-month/",
+                "source": "Huawei Central",
+                "date": "2026-07-16T13:06:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Realme C100x debuts in India",
+                "desc": "It packs an 8,000 mAh battery. The Realme C100x, unveiled about a couple of months ago, made its debut today in India.\nThe headline feature of the...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/realme-c100x-india-price-sale-date/-952x498w6/gsmarena_001.jpg",
+                "url": "https://www.gsmarena.com/realme_c100x_india_price_sale_date-news-73751.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-16T13:05:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EA: Console game makers should consider in",
+                "desc": "EA’s ad boss Alexander Dao joins us on today’s Show",
+                "image": "https://substackcdn.com/image/fetch/$s_!3XhF!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F207278571%2Fe336b362-350c-49d4-b218-b0f17dbd6314%2Ftranscoded-1784205558.png",
+                "url": "https://www.thegamebusiness.com/p/ea-console-game-makers-should-consider",
+                "source": "The Game Business",
+                "date": "2026-07-16T13:04:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KAWAII ASYMMETRIC TAG GAME RECEIVES GLOBAL LAUNCH DATE! CATCH ‘OBAKEIDORO 2: CHASE & SEEK’ ON AUGUST 6TH",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/KAWAII-ASYMMETRIC-TAG-GAME-RECEIVES-GLOBAL-LAUNCH-DATE-CATCH-OBAKEIDOR",
+                "source": "Games Press",
+                "date": "2026-07-16T13:03:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Real-Time Tactical Card Game Hard Edge \"War Zone\" Launches July 23rd on PC",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-US/Real-Time-Tactical-Card-Game-Hard-Edge-War-Zone-Launches-July-23rd-on-",
+                "source": "Games Press",
+                "date": "2026-07-16T13:03:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "AGON by AOC CU34G4CA and CU34G4ZCA Launched, Feature 90W USB-PD and KVM Switches",
                 "desc": "AGON by AOC, the world's leading gaming monitor brand, expands its 34-inch (86.36 cm) curved G4 ultrawide range with two new models: the AOC GAMING CU34G4CA at 180 Hz, and the AOC GAMING CU34G4ZCA at 240 Hz (overclockable to 250 Hz). Designed to transition seamlessly between gaming and work, both...",
@@ -1174,99 +1264,99 @@
                 "source": "AutoBuzz.my",
                 "date": "2026-07-16T03:48:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The race to reverse aging",
-                "desc": "Four Corners is the home of Australian investigative journalism.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/37ef0fc2c44e159a4fe15d071f466b04?impolicy=wcms_watermark_news&cropH=959&cropW=1705&xPos=28&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-16/the-race-to-reverse-aging/106922278",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-16T02:04:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hurdle hints and answers for July 16, 2026",
-                "desc": "Hints and answers to today's Hurdle all in one place.",
-                "image": "https://helios-i.mashable.com/imagery/articles/04hOpxIUTQ9iJaovOcHfA3l/hero-image.fill.size_1200x675.v1783959799.jpg",
-                "url": "https://mashable.com/entertainment/hurdle-hints-answers-july-16-2026",
-                "source": "Mashable",
-                "date": "2026-07-16T02:02:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Lenovo 5G tablet tipped with OLED display and up to 24GB RAM",
-                "desc": "The Lenovo Legion Y700 Infinite is an upcoming gaming tablet. It is confirmed to feature 5G connectivity and a flagship Snapdragon chipset. Ahead of its launch, a leak has revealed more details about the device.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lenovo-legion-y700-infinite-.png",
-                "url": "https://www.notebookcheck.net/New-Lenovo-5G-tablet-tipped-with-OLED-display-and-up-to-24GB-RAM.1343279.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-16T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pinch Puts An Arduino On A USB-C Connector",
-                "desc": "Compared to the Arduino Uno of old, modern microcontrollers are absolutely tiny -- especially for the amount of processing power and I/O you get. But if you need something really small, like fits-on-...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/pinch_feat.jpg",
-                "url": "https://hackaday.com/2026/07/15/pinch-puts-an-arduino-on-a-usb-c-connector/",
-                "source": "Hackaday",
-                "date": "2026-07-16T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indie Road Movie Where in the Hell Shot with Pocket Cinema Camera 4K",
-                "desc": "Colorist blends vintage film looks to shape the desert Western feel. Blackmagic Design have announced that the independent feature film Where in the Hell was shot using the Blackmagic Pocket Cinema Camera",
-                "image": "https://www.filmink.com.au/wp-content/uploads/2026/07/Where-in-the-Hell-1.jpg",
-                "url": "https://www.filmink.com.au/public-notice/indie-road-movie-where-in-the-hell-shot-with-pocket-cinema-camera-4k/",
-                "source": "FilmInk",
-                "date": "2026-07-16T01:42:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Power Zoom Lens for Fujifilm GFX ETERNA 55",
-                "desc": "FUJIFILM Australia has launched the FUJINON GF19-35mmT3.5 PZ OIS WR, a large format power zoom lens for GFX ETERNA filmmaking workflows.",
-                "image": "https://content-technology.com/wp-content/uploads/2026/07/DE-Florian-Berwanger-Broken-idols-BTS-DSCF1142_small.jpg",
-                "url": "https://content-technology.com/cameras-lighting/new-power-zoom-lens-for-fujifilm-gfx-eterna-55/",
-                "source": "Content + Technology",
-                "date": "2026-07-16T01:41:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aussies Can Now Order Super Mario Crocs Range",
-                "desc": "Aussies Can Now Order Super Mario Crocs Range",
-                "image": "https://press-start.com.au/wp-content/uploads/2026/07/Mario-CRocsss.jpg",
-                "url": "https://press-start.com.au/news/nintendo/2026/07/16/aussies-can-now-order-super-mario-crocs-range/",
-                "source": "Press Start Australia",
-                "date": "2026-07-16T01:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carrington Textiles Publishes Third Sustainability Report",
-                "desc": "Carrington Textiles Publishes Third Sustainability Report",
-                "image": "https://d3impqwjfkw0cn.cloudfront.net/img/opengraph-default-whattheythink.png",
-                "url": "https://whattheythink.com/news/130988-carrington-textiles-publishes-third-sustainability-report/",
-                "source": "WhatTheyThink",
-                "date": "2026-07-16T01:39:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel 11 Gets New Colors Leaked - 3 Bold New Shades",
-                "desc": "Leaked Amazon listings reveal the Google Pixel 11 in three new colors — Fuchsia, Moss, and Midnight. Here's what we know about specs, pricing, and the August 12 launch.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Google-Pixel-11-Gets-New-Colors-Leaked-—-3-Bold-New-Shades.jpg",
-                "url": "https://memeburn.com/google-pixel-11-colors-leak/",
-                "source": "Memeburn",
-                "date": "2026-07-16T01:38:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung introduces new 990 SSD",
-                "desc": "The Samsung 990 SSD delivers robust performance with a sequential read speed of up to 7,250 MB/s and 38% improved power efficiency over its predecessor.The 1TB...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/16/116460.webp",
-                "url": "https://mb.com.ph/2026/07/16/samsung-introduces-new-990-ssd",
-                "source": "Manila Bulletin",
-                "date": "2026-07-16T01:37:29Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Iran tells Houthis to close second crucial sea route if US hits power network",
+                "desc": "Tehran responds to US air strikes with missile and drone attacks Bahrain, Jordan and Kuwait",
+                "image": "https://www.irishtimes.com/resizer/v2/OCZNXRHOVCABFTJUMEDDGWHFSI.jpg?smart=true&auth=ab8c21f90bf58c89f9ea43df759dc770948e0b0bc6aa7da5b0a5e494ad3f16c0&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/middle-east/2026/07/16/us-air-strikes-hit-northern-iran-as-it-disables-ship-trying-to-breach-blockade/",
+                "source": "The Irish Times",
+                "date": "2026-07-16T13:11:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meloni clears first hurdle for controversial electoral reform",
+                "desc": "The government recovered from a surprise rebellion that sank a key amendment on the issue just two days earlier.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/16/GettyImages-2274361549.jpg",
+                "url": "https://www.politico.eu/article/giorgia-meloni-election-reform-italy/",
+                "source": "politico.eu",
+                "date": "2026-07-16T13:11:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Young Kenyans Invited to Apply for 2026 Commonwealth Fellowship Offering UK, Antigua Experience",
+                "desc": "Apply for the Commonwealth Young Leaders Fellowship 2026! This transformative three-month programme offers Kenyans and Commonwealth nationals unique training.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/692dc926706fec75.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/business-economy/633004-young-kenyans-apply-2026-commonwealth-fellowship-offering-uk-antigua-experience/",
+                "source": "Tuko News",
+                "date": "2026-07-16T13:08:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+                "desc": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/68be/live/0608caf0-8112-11f1-9ec3-fd524648df46.jpg",
+                "url": "https://www.bbc.com/news/articles/cp305dx493do",
+                "source": "BBC",
+                "date": "2026-07-16T13:08:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa Records Anti-Corruption Improvement-Report",
+                "desc": "Africa’s anti-corruption performance improved overall since 2020, although results vary sharply across countries, a new study has shown.",
+                "image": "https://leadership.ng/wp-content/uploads/2026/07/360_F_532649018_Wu3AhOXOnYfsuYe6JouhtSWiVCM63ClP-3.jpg",
+                "url": "https://leadership.ng/africa-records-anti-corruption-improvement-report/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-07-16T13:07:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ugandan MPs Push for Faster Delivery of Key Road Projects",
+                "desc": "Hon. Onesimus Twinamasiko, MP for Bugangaizi East County, said several strategic roads linked to Uganda's oil sector remain unfinished despite earlier commitments.",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/15_07_2026_18_40_52_2296549.jpg&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/law-order/3951365-ugandan-mps-push-for-faster-delivery-of-key-road-projects",
+                "source": "Devdiscourse",
+                "date": "2026-07-16T13:04:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Free Entry for All Africans Beginning Jan. 1, 2027",
+                "desc": "Visa-free policy places Chad among a growing number of African countries embracing open borders to advance continental integration under the African Union's Agenda 2063.",
+                "image": "https://bantugazette.com/wp-content/uploads/2026/07/Chad-scaled.jpg",
+                "url": "https://bantugazette.com/chad-announces-visa-free-entry-for-all-africans-beginning-jan-1-2027/",
+                "source": "Bantu Gazette",
+                "date": "2026-07-16T13:04:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tanzania holds preparatory talks heading to SADC Ministers' meeting today",
+                "desc": "SALIMA:  A Tanzania delegation has arrived in Malawi ahead of the SADC Ministerial Committee of the Organ on Politics, Defence and Security (MCO) meeting scheduled for July 16 and 17, 2026. The delegation, led by Deputy Minister for Foreign Affairs and East African Cooperation, James Millya, includes Deputy Minister for Home Affairs Ayoub Mohammed Mahmoud …",
+                "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/AYOUB-AWASILI-MALAWI-KUSHIRIKI-MKUTANO-WA-KAMATI-YA-MAWAZIRI-WA-ASASI-YA-SIASA-ULINZI-NA-USALA.webp",
+                "url": "https://dailynews.co.tz/tanzania-holds-preparatory-talks-heading-to-sadc-ministers-meeting-today/",
+                "source": "dailynews.co.tz",
+                "date": "2026-07-16T13:01:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+                "desc": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84eb/live/b075cfc0-8125-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o",
+                "source": "BBC",
+                "date": "2026-07-16T12:56:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nordic Counterpart Through Sanctum Retreat Private Cabins, Sauna Rituals, Corporate Escapes and Sustainable Architecture Near Vilnius",
+                "desc": "Lithuania’s Sanctum forest retreat near Vilnius blends wellness, timber design, private cabins and nature-led travel in a Baltic escape.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/high-level-description-an-editorial-trav_3GWF4SCFXFWXtOdgfK-udA_kaNpmBriQw-L9n4IihQdXg_cover_hd.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/kum0x3yiojot/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-16T12:56:42Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "US travel advisory: Full list of 23 kontris US warn dia citizens say make dem no visit",
                 "desc": "Ten of di kontris for di list na from di African region - dem include Burkina Faso, Uganda, Democratic Republic of Congo, Mali, Niger, Sudan, among odas.",
@@ -1806,98 +1896,8 @@
                 "source": "Sportsnet.ca",
                 "date": "2026-07-16T03:55:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vance tells Joe Rogan that some Israeli leaders want conflict with Iran to continue ‘indefinitely’",
-                "desc": "The comment marks the latest sign of tension between traditional allies America and Israel",
-                "image": "https://static.independent.co.uk/2026/06/23/00/2282227725.jpg.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/jd-vance-joe-rogan-israel-iran-war-b3015839.html",
-                "source": "The Independent",
-                "date": "2026-07-16T02:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US bid for Libya reunification a gamble, analysts say",
-                "desc": "US envoy Massad Boulos has spent the past year shuttling between Libya's rival leaders to bridge their political divide .",
-                "image": "https://cdn.modernghana.com/images/content/afp_us_president_donald_trump_flanked_by_us_senior_advisor_for_a.jpg",
-                "url": "https://www.modernghana.com/news/1511078/us-bid-for-libya-reunification-a-gamble-analysts.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-16T02:01:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In Senegal, a feverish ancestral hunt beckons the rain",
-                "desc": "Against a frenzy of drums, chanting and gunfire, a few hundred Serer men parade about in a trance-like state, brandishing the day's hunt -- jackals, monitor lizards, monkeys and birds -- in hopes of hastening Senegal's rainy season .",
-                "image": "https://cdn.modernghana.com/images/content/afp_a_man_shoots_down_a_bird_as_he_arrives_with_other_hunters_to.jpg",
-                "url": "https://www.modernghana.com/news/1511079/in-senegal-a-feverish-ancestral-hunt-beckons.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-16T02:01:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Coast mum cleared of two murders - still on fraud charges",
-                "desc": "Maree Mavis Crabtree, 59, was in May found not guilty of the murder and attempted murder of her 26‑year‑old son Jonathan in 2017.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/jonathan-crabtree-source-social-media-SGLFDBJFWVBFLOJTWF4YCSORM4.jpg?auth=ff7e19a83c3824d661545c7dd339e0706246d23a1470e00ebb414531250029e1&quality=70&width=600&height=315&focal=142%2C208",
-                "url": "https://www.1news.co.nz/2026/07/16/gold-coast-mum-cleared-of-two-murders-still-on-fraud-charges/",
-                "source": "1News",
-                "date": "2026-07-16T01:57:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Viet Nam, Philippines strengthen people-to-people friendship",
-                "desc": "Shirley Nuevo, Acting Consul General of the Philippines in Ho Chi Minh City, said the past 50 years have demonstrated how the two countries and their peoples have grown together as friends, trusted partners and close neighbours within the ASEAN family.",
-                "image": "https://en-cdn.nhandan.vn/images/3c6b1d7d6cd77f0dc549536a41e2cb9b45a71e1dbdb5406c25f1d8c9a6d0e61c614229235a65618e4656f46f68f98106b84823baf5f36c2facd7b35d3e0a4ddd/vn-phi2-150626.jpg.webp",
-                "url": "https://en.nhandan.vn/viet-nam-philippines-strengthen-people-to-people-friendship-post164423.html",
-                "source": "Nhan Dan Online",
-                "date": "2026-07-16T01:54:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US bid for Libya reunification a gamble, analysts say",
-                "desc": "US envoy Massad Boulos has spent the past year shuttling between Libya's rival leaders to bridge their political divide.Authorities in Tripoli and the UN mission in Libya, which has spent months leadi...",
-                "image": "https://s.yimg.com/lo/mysterio/api/63887914eef7f989ca636c1f650f6ecd6b6d9498f10d900dbaefffc4b04a6170/lightyear_networkapi/resizefill_w768_h512;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com.sg%2F8a5d62ca1a1e440e8081319e4b5acba2",
-                "url": "https://sg.news.yahoo.com/us-bid-libya-reunification-gamble-014746246.html",
-                "source": "Yahoo News Singapore",
-                "date": "2026-07-16T01:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Senior Chinese and North Korean officials hold talks in Pyongyang",
-                "desc": "SEOUL: China's fourth-highest-ranked official, Wang Huning, held talks in Pyongyang with a top official of North Korea's ruling Workers' Party, the state-run Korean Central News Agency (KCNA) reported on Thursday (Jul 16).The meeting is the latest in a series of high-level exchanges between Beijing and Pyongy",
-                "image": "https://dam.mediacorp.sg/image/upload/s--ytHY3ZS9--/c_crop,h_900,w_1600,x_0,y_107/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/china_north_korea_meeting.jpg?itok=3pu4Y2EK",
-                "url": "https://www.channelnewsasia.com/east-asia/china-north-korea-officials-meet-pyongyang-cooperation-6257081",
-                "source": "CNA",
-                "date": "2026-07-16T01:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New York Times moves to quash Trump administration subpoenas over Air Force One reporting",
-                "desc": "A New York Times lawyer says the newspaper is going to court to defend its 'journalists' rights to report freely' on President Donald Trump's administration after subpoenas were delivered last week.",
-                "image": "https://i.cbc.ca/ais/59ebeeee-2afa-4486-808b-1fd7de2ae06c,1784162831461/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C400%2C8256%2C4644%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/new-york-times-challenge-subpoenas-air-force-one-9.7271968",
-                "source": "CBC",
-                "date": "2026-07-16T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump said leaning toward expanding military offensive against Iran, saying it 'better behave'",
-                "desc": "US president announces Tehran has released an American citizen wrongfully detained since 2024, which he calls a 'gesture of goodwill' amid renewed fighting around Strait of Hormuz",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26196326080948.jpg",
-                "url": "https://www.timesofisrael.com/trump-said-leaning-toward-expanding-military-offensive-against-iran-which-he-warns-better-behave/",
-                "source": "The Times of Israel",
-                "date": "2026-07-16T01:26:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China as a Future Hegemon? Easier Said Than Done",
-                "desc": "China may yet reshape the Western Pacific – but matching the full hegemonic package the U.S. has built will take far more.\nDonald Trump’s communication style might not lend itself to the u",
-                "image": "https://assets.realclear.com/images/72/722167_6_.jpeg",
-                "url": "https://www.realcleardefense.com/articles/2026/07/16/china_as_a_future_hegemon_easier_said_than_done_1194764.html",
-                "source": "RealClearDefense",
-                "date": "2026-07-16T01:25:26Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-16T23:03:57.986828Z"
+    "lastGlobalSync": "2026-07-17T01:13:33.151390Z"
 }
