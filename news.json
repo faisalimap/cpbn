@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Taiwan's TSMC pledges another $100 billion to expand its US chipmaking capacity",
+                "desc": "Major Taiwan computer chipmaker TSMC says it plans to spend another $100 billion on expanding its manufacturing capacity in the United States.",
+                "image": "https://dims.apnews.com/dims4/default/c6d00c0/2147483647/strip/true/crop/6000x3998+0+69/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7c%2F1e%2F29e2bfe26286d8f5fdf7019b4acc%2Fd3e06ffeeceb45cd8df57c6aced2b133",
+                "url": "https://apnews.com/article/taiwan-tsmc-chipmaking-ai-arizona-fab-ba05b1b952257d371acb9d070e7914ff",
+                "source": "AP News",
+                "date": "2026-07-16T16:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Federal government refers Port of Vancouver strategy to Major Projects Office",
+                "desc": "Federal Transport Minister Steven MacKinnon makes a \"significant\" announcement about the Port of Vancouver Thursday morning.",
+                "image": "https://i.cbc.ca/ais/c8b6a576-68a4-4a31-8724-efce224a81bd,1784218614277/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/federal-announcement-port-of-vancouver-delta-bc-9.7272207",
+                "source": "CBC",
+                "date": "2026-07-16T16:44:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FAAN to Introduce facial recognition system for domestic passengers",
+                "desc": "The Federal Airports Authority of Nigeria (FAAN) has concluded plans to deploy a biometric identity",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/04/Federal-Airports-Authority-of-Nigeria-FAAN.webp",
+                "url": "https://guardian.ng/business-services/aviation-business/faan-to-introduce-facial-recognition-system-for-domestic-passengers/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-16T16:42:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mews gives hotels three new ways to capture revenue at every stage of the guest journey",
+                "desc": "Mews has launched Recurring Payments, Multicurrency expansion to the US and Canada, and Accounts Receivable to help hotels automate billing and capture more revenue across the guest journey.",
+                "image": "https://www.hospitalitynet.org/og/image?id=c428afbd-1310-4dac-9958-70918a6bd1c4&key=social",
+                "url": "https://www.hospitalitynet.org/news/4133533/mews-gives-hotels-three-new-ways-to-capture-revenue-at-every-stage-of-the-guest-journey",
+                "source": "Hospitality Net",
+                "date": "2026-07-16T16:41:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "stakes play to own the future of digital payments",
+                "desc": "If Stripe acquires PayPal, the real prize could consumer wallets, stablecoin issuance or the infrastructure powering the the next generation of digital payments.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2ea8698363f7756be05e66e75df8c002ceaa8e4-5460x3640.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
+                "source": "CoinDesk",
+                "date": "2026-07-16T16:38:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Always-on’ supply chains are becoming the norm, experts say",
+                "desc": "Manufacturers and retailers that moved early on their digital transformations and automation strategies are starting to reap the benefits, experts said at Supply Chain Dive’s outlook event.",
+                "image": "https://imgproxy.divecdn.com/34SDtpukvqixkpsIksXBFiDCQXSAoJfBRlijFVhYf4g/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS92aWRlb2ZyYW1lXzY2MDI1LnBuZw==.webp",
+                "url": "https://www.manufacturingdive.com/news/always-on-supply-chains-becoming-the-norm-experts-say-outlook/825413/",
+                "source": "Manufacturing Dive",
+                "date": "2026-07-16T16:38:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cell Therapy in Advanced Clear Cell Renal Cell Carcinoma",
+                "desc": "TRAVERSE: ALLO-316 CAR T-Cell Therapy in Advanced Clear Cell Renal Cell Carcinoma / cancer, cancer care, Cancer research, cancer treatment, CAR T-cell",
+                "image": "https://oncodaily.com/pub/uploads/2026/07/TRAVERSE.webp",
+                "url": "https://oncodaily.com/genitourinary-oncology/traverse",
+                "source": "Oncodaily",
+                "date": "2026-07-16T16:38:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "President signs law to lift Dublin Airport passenger cap",
+                "desc": "Minister for Transport Darragh O'Brien has moved to lift the cap on passenger numbers at Dublin Airport after President Catherine Connolly signed new legislation into law.",
+                "image": "https://www.rte.ie/images/0020a40e-1600.jpg",
+                "url": "https://www.rte.ie/news/business/2026/0716/1583718-airport-cap/",
+                "source": "RTE.ie",
+                "date": "2026-07-16T16:34:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "42% of adults rely on their parents for financial support-there are no 'bad guys' here, says financial therapist",
+                "desc": "Parents can maximize the impact of their support by ensuring their gifts alleviate financial stress or help their kids move closer to their long-term goals.",
+                "image": "https://image.cnbcfm.com/api/v1/image/106877435-1620063592262-gettyimages-1160943786-2018_09_17_best_ager_j13_1828.jpeg?v=1620063622&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+                "source": "CNBC",
+                "date": "2026-07-16T16:30:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Transplant recipient taking nothing for granted",
+                "desc": "Liam Manson openly admits: ‘‘I looked like death warmed up’’. Doctors had given the father of two less than three months to live and his only...",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/liam_manson_2_160726.jpg?itok=UIy9wFzx",
+                "url": "https://www.odt.co.nz/news/dunedin/transplant-recipient-taking-nothing-granted",
+                "source": "Otago Daily Times",
+                "date": "2026-07-16T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "IRS CEO says Trump Accounts could reach all 70 million U.S. children",
                 "desc": "\"I think the objective is to have 70 million children under 18 to have a Trump Account,\" IRS CEO Frank Bigisnano said.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108186154-1755193500988-gettyimages-2230145209-ah807154_oyd7yrx1.jpeg?v=1755193559&w=1920&h=1080",
@@ -542,99 +632,99 @@
                 "source": "Manila Bulletin",
                 "date": "2026-07-16T05:44:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "2026 Kia Syros EV Unveiled: Design, Specifications, Features, Safety, Battery Options, Range, Colours, Launch Date, Expected Price And More",
-                "desc": "Range and space are two things you certainly won’t worry about with the Syros EV!",
-                "image": "https://stimg2.cardekho.com/images/carNewsimages/userimages/36328/1784174621779/GeneralNew.jpg",
-                "url": "https://www.cardekho.com/india-car-news/2026-kia-syros-ev-unveiled-gets-two-battery-options-with-up-to-526-km-of-range-36329.htm",
-                "source": "CarDekho",
-                "date": "2026-07-16T04:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Functional Non-Alcoholic Beer",
-                "desc": "Hopkind, a new functional non-alcoholic beer from the creators of Symbiome combines traditional brewing with wellness-focused ingredients.",
-                "image": "https://wwd.com/wp-content/uploads/2026/07/20260429_HOPKIND_PDP_LAGER-IPA_PAIR_LEAN-FRONT-BACK_v3-F1EDE4.jpg?w=1000&h=563&crop=1",
-                "url": "https://wwd.com/beauty-industry-news/wellness/symbiome-team-launch-hopkind-functional-non-alcoholic-beer-1239067007/",
-                "source": "WWD",
-                "date": "2026-07-16T04:02:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five homes on view this week in Dublin and Kerry from €395,000",
-                "desc": "These houses are new to the market in Dalkey, Fenit, Walkinstown, Blackrock and Dublin 8",
-                "image": "https://www.irishtimes.com/resizer/v2/QJJAJCRZVBGCPK3T3TQZ352QVE.JPG?smart=true&auth=37e559f925348ee5dc34fcbbd737de4a48a69498b492b2f54f84869b46a1beac&width=1200&height=630",
-                "url": "https://www.irishtimes.com/property/residential/2026/07/16/five-homes-on-view-this-week-in-dublin-and-kerry-from-395000/",
-                "source": "The Irish Times",
-                "date": "2026-07-16T04:02:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘SEC reforms will stimulate inclusive market, deeper investor confidence’",
-                "desc": "The Director-General of the Securities and Exchange Commission (SEC), Dr Emomotimi Agama, has said the Commission’s ongoing reforms",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2025/12/imgg.jpg",
-                "url": "https://guardian.ng/news/sec-reforms-will-stimulate-inclusive-market-deeper-investor-confidence/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-16T04:01:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scotiabank Ireland pays $315m dividend to Canadian parent as profits soar",
-                "desc": "Longest-established Canadian bank in Ireland set up a post-Brexit hub in Dublin",
-                "image": "https://www.irishtimes.com/resizer/v2/PBFXSH5G24252LADIOM66KY5GE.jpg?smart=true&auth=d5a4d36ef337e29c6ca1016df94aed0af7a44eceabbe465dc289eaf0d99a3467&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/2026/07/16/scotiabank-ireland-pays-315m-dividend-to-canadian-parent-as-profits-soar/",
-                "source": "The Irish Times",
-                "date": "2026-07-16T04:00:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7-Eleven Japan releases new sandwich that technically contains fruit but isn’t a fruit sandwich",
-                "desc": "Japanese convenience store chain makes us rethink the fruit sando with a beautiful new release.",
-                "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/07/7-Eleven-Japan-fruit-sandwich-convenience-store-food-finds-sando-must-buy-avocado-news-2.jpg?w=1200&h=630&crop=1",
-                "url": "https://soranews24.com/2026/07/16/7-eleven-japan-releases-new-sandwich-that-technically-contains-fruit-but-isnt-a-fruit-sandwich/",
-                "source": "SoraNews24",
-                "date": "2026-07-16T04:00:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dover teenager travels 70 miles to confront eBay scammers in Essex and retrieve stolen Apple MacBook",
-                "desc": "A teenager travelled 70 miles to track down and confront eBay scammers who tricked him into sending them his £650 laptop.",
-                "image": "https://www.kentonline.co.uk/_media/img/SDKBTERWD3BVTAS4WG60.jpg",
-                "url": "https://www.kentonline.co.uk/dover/news/i-travelled-70-miles-to-confront-ebay-scammers-and-got-my-342771/",
-                "source": "Kent Online",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
-                "desc": "Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’",
-                "image": "https://i.guim.co.uk/img/media/635c60273de57e773426a5ed282d9a494af8d887/894_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22f061d143204f0f14c0cde9cf4c193c",
-                "url": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
-                "source": "The Guardian",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold struggles near daily low as Mideast tensions boost Fed bets",
-                "desc": "Gold (XAU/USD) sticks to modest intraday losses heading into the European session on Wednesday and currently trades near the lower end of its daily range, around the $4,025 region, down 0.85% for the day.",
-                "image": "https://editorial.fxsstatic.com/images/i/Commodities_Gold-2_Medium.jpg",
-                "url": "https://www.fxstreet.com/news/gold-declines-as-iran-tensions-fuel-inflation-risks-revive-fed-hike-bets-and-support-usd-202607160358",
-                "source": "FXStreet",
-                "date": "2026-07-16T03:58:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LASCOPA recovers over N260m, $10,000 for ‘cheated’ bank customers, air travellers, electricity consumers",
-                "desc": "The Nation Newspaper LASCOPA recovers over N260m, $10,000 for ‘cheated’ bank customers, air travellers, electricity consumers",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/07/16044639/LASCOPA.png",
-                "url": "https://thenationonlineng.net/lascopa-recovers-over-n260m-10000-for-cheated-bank-customers-air-travellers-electricity-consumers/",
-                "source": "The Nation Newspaper",
-                "date": "2026-07-16T03:56:06Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Google's New Magic Pointer Sends Screen Content To Gemini, Code Reveals",
+                "desc": "Google's new Magic Pointer uses Gemini to analyze screen content and suggest actions. An APK teardown also reveals the feature is powered largely by AI prompts.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a59093a138f91dd0cdfd614/0x0.png?format=png&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/paulmonckton/2026/07/16/google-magic-pointer-gemini-screen-content-code-reveals/",
+                "source": "Forbes",
+                "date": "2026-07-16T16:45:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Confirms Its New AI Cursor Sends Your Screen To Gemini",
+                "desc": "Google's Magic Pointer reveals how Gemini AI reads your screen to suggest actions on Googlebook laptops",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a59093a138f91dd0cdfd614/0x0.png?format=png&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/paulmonckton/2026/07/16/google-magic-pointer-gemini-screen/",
+                "source": "Forbes",
+                "date": "2026-07-16T16:45:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Garmin Cirqa Teased On Garmin’s Own Website Ahead Of Release",
+                "desc": "Once again the Garmin Cirqa wearable, expected to be a screen-free tracker, has appeared on the fitness tech expert's website.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a590741b2c484f1eab90b84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/andrewwilliams/2026/07/16/garmin-cirqa-teased-on-garmins-own-website-ahead-of-release/",
+                "source": "Forbes",
+                "date": "2026-07-16T16:38:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Suno AI music generator reportedly hacked, source code allegedly reveals data scraping",
+                "desc": "A hacker reportedly gained access to Suno's systems through a supply chain attack, compromising employee credentials.",
+                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2026/06/AdobeStock_2013746716-scaled.jpeg",
+                "url": "https://www.scworld.com/brief/suno-ai-music-generator-hacked-source-code-reveals-alleged-data-scraping",
+                "source": "SC Media",
+                "date": "2026-07-16T16:38:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Java Republic has a taste for McCabe’s specialty coffee",
+                "desc": "Power is knowing",
+                "image": "https://thecurrency.news/wp-content/uploads/2026/07/square_coffee_cup-scaled-1-e1784218084840.jpg",
+                "url": "https://thecurrency.news/articles/233630/java-republic-has-a-taste-for-mccabes-specialty-coffee/",
+                "source": "The Currency",
+                "date": "2026-07-16T16:36:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eriez feeders earn ETL listing, IP65 rating",
+                "desc": "Eriez, a company specializing in separation technology, announced that its B‑HC high‑capacity electromagnetic vibratory feeders have earned ETL listing for CSA and […]",
+                "image": "https://www.canadianminingjournal.com/wp-content/uploads/2026/07/eriez-b-hc-vibratory-feeder-sand-xl-1024x683.jpg",
+                "url": "https://www.canadianminingjournal.com/news/eriez-feeders-earn-etl-listing-ip65-rating/",
+                "source": "Canadian Mining Journal",
+                "date": "2026-07-16T16:34:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European Commission forces Google to open Android to third-party AI assistants, share search data",
+                "desc": "These decisions are legally binding, and Google has to comply with them. Today the European Commission (EC) has announced two legally binding Digital...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/ec-forces-google-to-open-up-android-to-third-party-ai-assistants/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/european_commission_forces_google_to_open_up_android_to_thirdparty_ai_assistants_share_search_data-news-73757.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-16T16:30:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roadmap paper shows how superconductors can decarbonize transport sector",
+                "desc": "Superconducting technologies have the potential to supercharge the decarbonization of transport, saving gigatonnes of emissions in the future, a landmark new paper suggests.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2019/superconduct.jpg",
+                "url": "https://phys.org/news/2026-07-roadmap-paper-superconductors-decarbonize-sector.html",
+                "source": "Phys.org",
+                "date": "2026-07-16T16:30:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What OnePlus Exiting the US Market Means for Current Users",
+                "desc": "OnePlus is leaving the U.S. market, which has consequences for current customers.",
+                "image": "https://lifehacker.com/imagery/articles/01KXNPX8PT98P46C6BYFD9TQS1/hero-image.fill.size_1200x675.jpg",
+                "url": "https://lifehacker.com/tech/oneplus-leaving-us-market",
+                "source": "Lifehacker",
+                "date": "2026-07-16T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
+                "desc": "OnePlus promises to continue supporting the phones it has already released.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-5-1152x648.jpg",
+                "url": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+                "source": "Ars Technica",
+                "date": "2026-07-16T16:29:46Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "OnePlus Exits the US and Europe, Promises Support for Existing Phones",
                 "desc": "Existing users will continue to receive software, security, and after-sales support.",
@@ -1174,99 +1264,99 @@
                 "source": "Mirage News",
                 "date": "2026-07-16T05:11:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel 11 teaser video confirms Pixel Glow feature, pre-order date",
-                "desc": "There's also a coupon code in it for you if you want to give Google your email address. Last week, Google announced that it will be unveiling the Pixel 11...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-video-teaser/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/google_pixel_11_teaser_video_confirms_pixel_glow_feature_preorder_date-news-73741.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-16T04:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Culdcept Begins review: Perfect intro",
-                "desc": "Can Buy -- Culdcept Begins is a great introduction to a unique turn-based strategy video game series described as Monopoly meets Magic: The Gathering.",
-                "image": "https://www.canbuyornot.com/wp-content/uploads/2026/07/Culdcept-Begins_1.jpg",
-                "url": "https://www.canbuyornot.com/reviews/games/culdcept-begins-review-price/",
-                "source": "Can Buy or Not",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OnePlus, once popular with tech fans, to pull out of US and Europe",
-                "desc": "OnePlus, a consumer electronics brand that gained a loyal following with its lineup of aggressively priced Android smartphones, will begin to cease operations in the US and Europe.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/16/4013248.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/16/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe",
-                "source": "The Star",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BMW M2 CS launched in Malaysia, priced from RM 950,800: the lightest and most powerful M2 yet",
-                "desc": "BMW Group Malaysia has launched the new BMW M2 CS. It arrives as the lightest and most powerful BMW M2 built to date, a limited-production model developed on the racetrack, priced from RM 950,800.",
-                "image": "https://imgcdnblog.carbay.com/wp-content/uploads/2026/07/16104504/Image-2026-07-16T090952.627-500x333.jpg",
-                "url": "https://www.zigwheels.my/car-news/bmw-m2-cs-launched-in-malaysia-priced-from-rm-950800-the-lightest-and-most-powerful-m2-yet",
-                "source": "Zigwheels",
-                "date": "2026-07-16T03:55:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Don't expect smartwatches and fitness bands with replaceable batteries anytime soon",
-                "desc": "Smartwatches and fitness bands just got an exemption from the EU's replaceable battery rule. Here's why regulators made this call.",
-                "image": "https://www.digitaltrends.com/tachyon/2026/05/galaxy-watch-6-classic-small.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/wearables/dont-expect-smartwatches-and-fitness-bands-with-replaceable-battery-anytime-soon/",
-                "source": "Digital Trends",
-                "date": "2026-07-16T03:55:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Mate XT 2 patent shows U-shaped tri-fold design",
-                "desc": "Huawei Mate XT 2 tri-fold is gaining attention well before launch due to design rumors, and new patent images show exactly what the company p",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/patent-img.jpg",
-                "url": "https://www.huaweicentral.com/huawei-mate-xt-2-patent-shows-u-shaped-tri-fold-design/",
-                "source": "Huawei Central",
-                "date": "2026-07-16T03:55:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Suno hack reveals YouTube Music, Deezer & Genius were scraped to train",
-                "desc": "Suno is facing fresh scrutiny after a newly reported hack revealed more details about how the AI music company gathered training data for its music...",
-                "image": "https://cdn.filestackcontent.com/crop=d:%5B0%2C40%2C1296%2C648%5D/resize=w:1920/pjpg=q:90/compress/cENKQPpBSBKhwMfLFNsb",
-                "url": "https://www.bandwagon.asia/articles/suno-hack-reveals-youtube-music-deezer-genius-were-scraped-to-train-ai-music-models",
-                "source": "bandwagon.asia",
-                "date": "2026-07-16T03:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iOS 27 public beta is out now - how to install it and whether you should update",
-                "desc": "You can now download the iOS 27 public beta. Here's how to install it and whether you should update before the official release.",
-                "image": "https://cdn.finder.com.au/finder-au/wp-uploads/2026/07/iOS27publicbeta_1800x1000.jpg",
-                "url": "https://www.finder.com.au/news/ios-27-public-beta-how-to-install-worth-it-or-not",
-                "source": "Finder.com.au",
-                "date": "2026-07-16T03:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chasing Kaleidorider Playtest is Officially Live!\"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/160435-59c45e0f/CBT3_KV1.jpeg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=34b4d1311ef3dd759b0affca73c1dfbf92230988302094fbdfc0b3bbf7d9a911",
-                "url": "https://www.gamespress.com/en-US/RIDER-Girl-Dokidoki-Romance-RPG---Chasing-Kaleidorider-Playtest-is-Off",
-                "source": "Games Press",
-                "date": "2026-07-16T03:48:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 BMW 218 Gran Coupe - now with M Sport treatment, from RM205k",
-                "desc": "2026 BMW 218 Gran Coupe M Sport launched in Malaysia from RM204,800, adding M styling, new interior upgrades, and adaptive dampers.",
-                "image": "https://assets.autobuzz.my/wp-content/uploads/2026/07/16113650/2026-BMW-218-Gran-Coupe-M-Sport-11.jpg",
-                "url": "https://autobuzz.my/2026/07/16/2026-bmw-218-gran-coupe-now-with-m-sport-treatment-from-rm205k/",
-                "source": "AutoBuzz.my",
-                "date": "2026-07-16T03:48:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Why Africa's Education Reforms Will Succeed or Fail in the Middle Tier",
+                "desc": "Leaders at the FLEX 2026 summit in Malawi warn that ending learning poverty by 2035 depends on strengthening the district officials and support officers who bridge policy and the c...",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgQHPCG3NRdbUrxq3Qtfi2wyhYNn47WFglH5Gu",
+                "url": "https://www.dawan.africa/news/why-africas-education-reforms-will-succeed-or-fail-in-the-middle-tier",
+                "source": "Dawan Africa",
+                "date": "2026-07-16T16:47:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "London pupil dies during school trip to Malawi",
+                "desc": "Malawi Police have said 17-year-old Eugene Enoch Kwon from Hampton School drowned while snorkelling.",
+                "image": "https://s.yimg.com/lo/mysterio/api/4bf970ac8f6f25040f501fae180709f979f7872d43dce01381a41b8ffd870601/lightyear_networkapi/resizefill_w1022_h574;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa977c3a028610fee65ab07016d088800",
+                "url": "https://www.yahoo.com/news/world/articles/london-pupil-dies-during-school-164621818.html",
+                "source": "Yahoo",
+                "date": "2026-07-16T16:46:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU notes ‘issues’ in Pakistan’s GSP+ compliance, urges Islamabad to address 'shortcomings'",
+                "desc": "Report acknowledges progress in strengthening of rights institutions, establishment of a minorities commission and reduced scope of death penalty.",
+                "image": "https://i.dawn.com/large/2026/07/16182052451b256.webp",
+                "url": "https://www.dawn.com/news/2015939",
+                "source": "Dawn",
+                "date": "2026-07-16T16:45:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration revives rule that could deny green cards to immigrants who use public benefits",
+                "desc": "Trump administration revives \"public charge\" rule, threatening green cards for immigrants using public benefits amid rising costs.",
+                "image": "https://th-i.thgim.com/public/incoming/4tdmrs/article71231198.ece/alternates/LANDSCAPE_1200/IMG_BL1702_Corp_KK_2_1_Q5E0E2CG.jpg",
+                "url": "https://www.thehindu.com/news/international/us-green-cards-could-be-denied-to-immigrants-who-use-public-benefits/article71231185.ece",
+                "source": "The Hindu",
+                "date": "2026-07-16T16:45:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ex-CEO of Italy highway operator convicted in bridge collapse",
+                "desc": "An Italian court has convicted the former CEO of Italy's main highway operator and 31 others in the Genoa Morandi bridge collapse in 2018.",
+                "image": "https://dims.apnews.com/dims4/default/6af57f7/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fb6%2F7de39da407724b7ad1370ef75acd%2Ff1c9f22a49d84925b395c267043aeaff",
+                "url": "https://apnews.com/article/italy-morandi-bridge-collapse-trial-victims-377f7cee85d2a3515c2b692109de8528",
+                "source": "AP News",
+                "date": "2026-07-16T16:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hampton pupil dies while snorkelling in Lake Malawi",
+                "desc": "Malawi Police have said 17-year-old Eugene Enoch Kwon from Hampton School drowned while snorkelling.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/81bf/live/bde0f0b0-8123-11f1-8a86-5bc10742beb3.jpg",
+                "url": "https://www.bbc.com/news/articles/c98049pp49wo",
+                "source": "BBC",
+                "date": "2026-07-16T16:41:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uganda: Food Cuts Linked to Rise in Suicides Among Men At Bidibidi Refugee Settlement",
+                "desc": "Leaders at Bidibidi Refugee Settlement have raised alarm over a reported rise in suicides among men, attributing the trend to prolonged reductions in food assistance that have left many refugee families struggling to survive.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607160665.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-16T16:41:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands forced to use one water source from Ebola treatment site in Democratic Republic of the Congo - Oxfam",
+                "desc": "NGO community-based outreach is at just 10% due to lack of funding.",
+                "image": "https://webassets.oxfamamerica.org/media/images/oxfam-america-image_nr63lYZ.width-1200.png",
+                "url": "https://www.oxfamamerica.org/press/thousands-forced-to-use-one-water-source-from-ebola-treatment-site-in-democratic-republic-of-the-congo-oxfam/",
+                "source": "Oxfam",
+                "date": "2026-07-16T16:39:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World's top cocoa producer clinches $80 billion in development pledges",
+                "desc": "Ivory Coast has secured more than $80 billion in funding commitments during a major donors roundtable held in Abidjan on July 8 and 9 to accelerate its national economic development. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/1xyktkpTURBXy8yYzEwMjc1ZDhmYjE4OWM4MjQwMGY1MmFkZjlmYzk1YS5qcGeSlQMAzKLNFEDNC2STBc0EsM0Cdg",
+                "url": "https://africa.businessinsider.com/local/markets/worlds-top-cocoa-producer-clinches-dollar80-billion-in-development-pledges/xvhte4h",
+                "source": "Business Insider Africa",
+                "date": "2026-07-16T16:35:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran warns Strait of Hormuz is an ‘unbreakable red line’ as US expands strikes",
+                "desc": "US strikes deep into Iran while Tehran carries out attacks on Gulf neighbors as the latest round of violence shows no sign of letup. Follow for live updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-15t130548z-2103525751-rc2demaz2lpw-rtrmadp-3-iran-crisis.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/16/world/live-news/iran-war-trump",
+                "source": "CNN",
+                "date": "2026-07-16T16:32:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Iran tells Houthis to close second crucial sea route if US hits power network",
                 "desc": "Tehran responds to US air strikes with missile and drone attacks Bahrain, Jordan and Kuwait",
@@ -1806,98 +1896,8 @@
                 "source": "The Star",
                 "date": "2026-07-16T05:39:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "India at sea: The partner ASEAN can afford to trust",
-                "desc": "India offers ASEAN something the US and China cannot – maritime help without the demand for alignment.",
-                "image": "https://cdn.sanity.io/images/5dcouzig/production/214e2e439a92797b56d3ab7fdc299ddeb097c27c-2048x1366.jpg?rect=0,146,2048,1075&w=1200&h=630&fm=webp&q=85&fit=crop",
-                "url": "https://www.lowyinstitute.org/the-interpreter/india-at-sea-the-partner-asean-can-afford-to-trust",
-                "source": "Lowy Institute",
-                "date": "2026-07-16T04:03:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Overnight News Digest: July 15, 2026",
-                "desc": "Space ……… Glaciers spotted flowing across the Himalayas from space | Space photo of the day for July 15, 2026. On this day in space! July 15, 1975: Astronauts…",
-                "image": "https://www.dailykos.com/wp-content/uploads/sites/2/images/222561/original/ond-pdx.png",
-                "url": "https://www.dailykos.com/stories/2026/7/15/800070360/community/overnight-news-digest-july-15-2026/",
-                "source": "Daily Kos",
-                "date": "2026-07-16T04:02:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia’s President Prabowo set for Iran visit as Jakarta accepts invitation",
-                "desc": "JAKARTA: Indonesia has accepted an invitation from the Iranian government for President Prabowo Subianto to visit Tehran. The Foreign Ministry confirmed on Tuesday, adding that preparations are underway despite lingering tensions between Iran and the United States",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/16/4013380.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/16/indonesias-president-prabowo-set-for-iran-visit-as-jakarta-accepts-invitation",
-                "source": "The Star",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stabbed because of religion: What we know about attack on Indian-origin man in US",
-                "desc": "US News: An Indian-origin Muslim man is fighting for his life after being repeatedly stabbed at a shopping mall in the US state of Utah in what investigators s.",
-                "image": "https://static.toiimg.com/thumb/msid-132429164,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/stabbed-because-of-religion-what-we-know-about-attack-on-indian-origin-man-in-us/articleshow/132429163.cms",
-                "source": "The Times of India",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Social media bans are likely to make things worse’: psychologist Candice Odgers on kids, tech and mental health",
-                "desc": "She has studied adolescent mental health for 25 years and fears the debate obscures some of the biggest issues facing teenagers – from the impact of Covid to the health of their adult caregivers",
-                "image": "https://i.guim.co.uk/img/media/ee8f6c4b36aff64ce63d74989a7ec20f4f94dfd7/3062_1006_2576_2061/master/2576.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4261e9c9811823053717346e97468529",
-                "url": "https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans",
-                "source": "The Guardian",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Dacre dynasty: how the Daily Mail’s fearsome former editor still shapes the British press",
-                "desc": "The long read: Paul Dacre broke new ground in selling readers an angry rightwing perspective. Today, most of Fleet Street is run by his disciples",
-                "image": "https://i.guim.co.uk/img/media/0006c82e8a298ef033fccce5ea476bfb032562d8/156_0_2982_2386/master/2982.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b848bc770bc907ec2b8e48cbdcbd2eb6",
-                "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/16/the-dacre-dynasty-how-the-daily-mails-fearsome-former-editor-still-shapes-the-british-press",
-                "source": "The Guardian",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda: Military Seizing Government Critics",
-                "desc": "Uganda’s military is arbitrarily seizing government critics, holding them incommunicado, then handing them over for bogus prosecutions.",
-                "image": "https://www.hrw.org/sites/default/files/favicon.ico",
-                "url": "https://www.hrw.org/news/2026/07/16/uganda-military-seizing-government-critics",
-                "source": "Human Rights Watch",
-                "date": "2026-07-16T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What happened Thursday",
-                "desc": "A review of things you need to know before you sign off on Thursday; asking prices retreat, risk-based insurance takes hold, trade minister in town; wildly popular NZGB syndication, swaps stable, NZX stable NZD firm, & more",
-                "image": "https://www.interest.co.nz/sites/default/files/feature_images/simple-clock-v2.gif",
-                "url": "https://www.interest.co.nz/economy/139409/review-things-you-need-know-you-sign-thursday-asking-prices-retreat-risk-based",
-                "source": "Interest.co.nz",
-                "date": "2026-07-16T03:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Russia sanctions bill: The proposed 100% tariff and what it could mean for India",
-                "desc": "A modified version of the Russia sanctions bill proposes tariffs on major buyers of Russian oil, raising concerns over India's energy security, crude imports and ongoing trade negotiations with Washington. Here is what to know",
-                "image": "https://images.indianexpress.com/2026/07/Russian-oil-sanctions.jpg",
-                "url": "https://indianexpress.com/article/explained/explained-economics/us-russia-sanctions-bill-india-russian-oil-tariffs-10787864/",
-                "source": "The Indian Express",
-                "date": "2026-07-16T03:56:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup Daily: Argentina digs deep again to reach final",
-                "desc": "Some more Messi magic combined with some questionable tactics from England's manager has Argentina back in the World Cup final.\nDevang Desai has the takeaways from yet another comeback win for Argentina.",
-                "image": "https://www.sportsnet.ca/wp-content/uploads/2026/07/argentina-1-1.jpg",
-                "url": "https://www.sportsnet.ca/fifa-world-cup/article/world-cup-daily-argentina-digs-deep-again-to-reach-final/",
-                "source": "Sportsnet.ca",
-                "date": "2026-07-16T03:55:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-17T01:13:33.151390Z"
+    "lastGlobalSync": "2026-07-17T04:47:47.422024Z"
 }
