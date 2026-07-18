@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "PowerBall and PowerBall Xtra results: Friday, 17 July 2026 [WATCH]",
+                "desc": "R36 million in jackpots are up for grabs! Here are your PowerBall and PowerBall Xtra results for 17 July 2026.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/Powerball-results-Friday-2026-3.jpg",
+                "url": "https://www.citizen.co.za/lotto/powerball-and-powerball-xtra-results-friday-17-july-2026-watch/",
+                "source": "The Citizen",
+                "date": "2026-07-17T18:32:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
+                "desc": "The Indian government has proposed stricter fuel efficiency regulations for passenger vehicles under the Corporate Average Fuel Efficiency (CAFE)-III norms",
+                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-17_0si5jte1mk.jpg",
+                "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-17T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Standard Chartered Bank Nigeria receives IFC EDGE green building certification for Lagos head office",
+                "desc": "Stay connected via Google News Standard Chartered Bank Nigeria Limited has been awarded the International Finance Corporation’s (IFC)…",
+                "image": "https://www.thecable.ng/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-6.16.58-PM-2026-07-17-525.jpeg",
+                "url": "https://www.thecable.ng/standard-chartered-bank-nigeria-receives-ifc-edge-green-building-certification-for-lagos-head-office/",
+                "source": "TheCable",
+                "date": "2026-07-17T18:21:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold climbs as Iran war premium revives Fed hike risk",
+                "desc": "Gold edges higher by some 0.92% on Friday as the US-Iran conflict boosted energy prices, which ultimately drive inflation higher, increasing expectations that the Federal Reserve (Fed) might need to raise interest rates.",
+                "image": "https://editorial.fxsstatic.com/images/i/gold-march-03_Medium.jpg",
+                "url": "https://www.fxstreet.com/news/gold-climbs-as-iran-war-premium-revives-fed-hike-risk-202607171819",
+                "source": "FXStreet",
+                "date": "2026-07-17T18:19:37Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Markets experience new DeepSeek shock after MoonShot AI releases Kimi K3",
+                "desc": "K3 might undermine the conventional wisdom that U.S. firms can maintain their extended lead by simply outspending Chinese competitors on computing power.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285809054.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/",
+                "source": "Fortune",
+                "date": "2026-07-17T18:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Semiconductor stocks trim losses as investors buy the dip",
+                "desc": "Chip stocks trimmed losses on Friday as investors bought the dip despite AI jitters.",
+                "image": "https://s.yimg.com/lo/mysterio/api/83D078549CD5CDCDAA3051966C09294FF7124C6CE4E056CD6B2C506AC39E0457/subgraphmysterio/resizefill_w1200_h804;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F51a369ed-6423-43a4-bc6b-37943249df1f",
+                "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-trim-losses-as-investors-buy-the-dip-130920103.html",
+                "source": "Yahoo Finance",
+                "date": "2026-07-17T18:13:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Watchdog Finds Serious Gaps In IRS Contractors' Taxpayer Data Security",
+                "desc": "The TIGTA findings include 1,375 unauthorized entries into restricted areas, unpatched system vulnerabilities, and failures to follow IRS security requirements.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5a6d99ee79ca3eb9f3f12a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/kellyphillipserb/2026/07/17/watchdog-finds-serious-gaps-in-irs-contractors-taxpayer-data-security/",
+                "source": "Forbes",
+                "date": "2026-07-17T18:11:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 Annual Report On The UK National Security And Investment Regime",
+                "desc": "On 14 July 2026, the UK Cabinet Office published the fifth Annual Report on the National Security and Investment Act 2021 (NSI Act) (the Report). The Report provides summary information and statistics relating to the review of transactions and investments on national security grounds in the UK during the period 1 April 2025 – 31 March 2026.",
+                "image": "http://www.mondaq.com/images/MondaqThumb.png",
+                "url": "https://www.mondaq.com/uk/terrorism-homeland-security-defence/1818894/2026-annual-report-on-the-uk-national-security-and-investment-regime",
+                "source": "Mondaq",
+                "date": "2026-07-17T18:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "England will ban selling energy drinks to under-16s next year - will Ireland follow suit?",
+                "desc": "The Department of Health said an evidence review on banning energy drinks for children is expected to be submitted “in the coming months”.",
+                "image": "https://img2.thejournal.ie/article/7105660/river/?height=400&version=7105703",
+                "url": "https://www.thejournal.ie/england-banning-sale-energy-drinks-under-16s-department-of-health-review-safefood-7105660-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-17T18:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The price of gold today, July 17, 2026 - and the best places to buy",
+                "desc": "Here's today's price of gold, plus three easy ways you can add the precious metal to your portfolio.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108275813-1773112343136-gettyimages-135929357-25fe3659-2928-40c9-9894-209f0202a474.jpeg?v=1774341769&w=1920&h=1080",
+                "url": "https://www.cnbc.com/select/the-price-of-gold-today-july-17-2026/",
+                "source": "CNBC",
+                "date": "2026-07-17T18:06:57Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "More data centres planned for South",
                 "desc": "Five high energy use data centres could be dotted across the South under plans supported by a government investment agency, the Otago Daily Times...",
                 "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/planned-ai-data-centres_0.jpg?itok=XN6n3lQ0",
@@ -542,99 +632,99 @@
                 "source": "Forbes",
                 "date": "2026-07-17T08:18:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Global Stocks Slump As Fears About AI Chips and Energy Grip Markets",
-                "desc": "Investors are fretting about tech valuations, the cost of the AI buildout, and the Middle Eastern conflict driving up energy prices.",
-                "image": "https://i.insider.com/6a59f773ce52cb26b8390675?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/nikkei-225-kospi-index-kioxia-tsmc-hynix-samsung-chip-selloff-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-17T07:20:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intel's AI-Driven Data Center Growth Set To Power Second Quarter Earnings",
-                "desc": "Intel Corp. is scheduled to report second quarter earnings on July 23, with Visible Alpha consensus pointing to revenue of $14.4 billion, up 12% from a year earlier. Read more here.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1421805110/image_1421805110.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4922864-intel-intc-ai-driven-data-center-growth-set-to-power-second-quarter-earnings",
-                "source": "Seeking Alpha",
-                "date": "2026-07-17T07:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IFC sees UnionBank sustainability bond boosting climate finance, MSME lending",
-                "desc": "International Finance Corp. (IFC) expects its investment in Aboitiz-led Union Bank of the Philippines’ (UnionBank) inaugural sustainability bond to broaden...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/17/116866.webp",
-                "url": "https://mb.com.ph/2026/07/17/ifc-sees-unionbank-sustainability-bond-boosting-climate-finance-msme-lending",
-                "source": "Manila Bulletin",
-                "date": "2026-07-17T07:18:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MegaETH Shuts Down Mega Mafia Accelerator After Startups Raise $80M",
-                "desc": "MegaETH is winding down its two-year Mega Mafia accelerator after concluding the program helped startups raise significant capital but failed to retain enough v",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.6.0/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/megaeth-shuts-down-mega-mafia-accelerator-after-startups-raise-80m",
-                "source": "KuCoin",
-                "date": "2026-07-17T07:16:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Buy now, pay later provider Zip withdraws from NZ market",
-                "desc": "Zip said in an email to customers that it would be ceasing to provide its Pay in 4 product, which offered short-term payment plans at point of purchase.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/an-advert-for-buy-now-pay-later-provider-zip-file-image-O7VPCEHWQ5F4BDA3LOYWDMZEDI.jpg?auth=b8353298f8c08e3d2d9e7a4b7163db6a0520d39886e22e8002c07f1f2410ace9&quality=70&width=600&height=315&focal=445%2C224",
-                "url": "https://www.1news.co.nz/2026/07/17/buy-now-pay-later-provider-zip-withdraws-from-nz-market/",
-                "source": "1News",
-                "date": "2026-07-17T07:15:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Moonshot Unveils World's Largest Open AI Model",
-                "desc": "The launch of Moonshot underscores how quickly China 's open AI ecosystem is narrowing the gap with the most advanced U.S. systems.",
-                "image": "https://stratnewsglobal.com/wp-content/uploads/2026/07/Strat-News-Global126.png",
-                "url": "https://stratnewsglobal.com/trade-tech/chinas-startup-moonshot-unveils-worlds-largest-open-ai-model/",
-                "source": "StratNews Global",
-                "date": "2026-07-17T07:15:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cape Town's iconic ice cream spot The Creamery will be closing its doors",
-                "desc": "All hope may not be lost. Following the announcement, several parties have expressed interest in ensuring The Creamery continues serving its signature scoops.",
-                "image": "https://media.timeout.com/images/106427856/image.jpg",
-                "url": "https://www.timeout.com/cape-town/news/cape-towns-iconic-ice-cream-spot-the-creamery-will-be-closing-its-doors-071726",
-                "source": "Time Out Worldwide",
-                "date": "2026-07-17T07:15:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘I don’t think I’ll ever retire’: the workers struggling to save for old age",
-                "desc": "Almost half of working-age adults in the UK do not save into a pension. Four readers explain why they fear for the future",
-                "image": "https://i.guim.co.uk/img/media/14a7590495a0f0b9c1a31dcd6bd0b59bfb02511d/861_0_3395_2718/master/3395.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d16fcd8d403b23179027a41fe047c5c",
-                "url": "https://www.theguardian.com/money/2026/jul/17/workers-pensions-retirement-savings-money",
-                "source": "The Guardian",
-                "date": "2026-07-17T07:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BoT gold reserves lift assets, economic stability",
-                "desc": "DAR ES SALAAM: THE Bank of Tanzania’s (BoT) gold bullion holdings increased last month, strengthening the central bank’s balance sheet as higher gold reserves offset declines in cash holdings and government securities. According to the BoT’s Statement of Financial Position released on Monday, the value of bullion holdings rose by 4.0 per cent to 6.07tri/- …",
-                "image": "https://dailynews.co.tz/wp-content/uploads/2025/01/GOLD.jpg",
-                "url": "https://dailynews.co.tz/bot-gold-reserves-lift-assets-economic-stability/",
-                "source": "dailynews.co.tz",
-                "date": "2026-07-17T07:12:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burberry Sales Climb 5% in Q1, Fueled by Gen Z and Renewed Enthusiasm for Trench Coats",
-                "desc": "The Burberry Q1 2026-27 earnings are in: Burberry saw \"outsized growth\" in Gen Z customers in Greater China in the first quarter of fiscal 2026-27.",
-                "image": "https://wwd.com/wp-content/uploads/2026/03/Portraits-of-an-Icon-Courtesy-of-Burberry-2-16x9-1.jpg?crop=0px%2C0px%2C3542px%2C1982px&resize=1000%2C563",
-                "url": "https://wwd.com/business-news/financial/burberry-sales-climb-five-percent-q1-fueled-gen-z-china-1239073276/",
-                "source": "WWD",
-                "date": "2026-07-17T07:08:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Post-apocalyptic strategy game Fogpiercer out now",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/06/160921-64d06bee/Fogpiercer_Key_Art.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=91f38f3c93d1048143469765dfe05f2a006cc91292982ed615238085439ad20c",
+                "url": "https://www.gamespress.com/en-US/fogpiercer-out-now",
+                "source": "Games Press",
+                "date": "2026-07-17T18:33:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Free Sony XM6 headphones Microsoft Surface deal 2026",
+                "desc": "Score a free pair of Sony WH-1000XM6 headphones (worth $459.99) when you buy an eligible Surface laptop or tablet before July 31.",
+                "image": "https://helios-i.mashable.com/imagery/articles/05hJQ6CDX1mt3GLYrc1oh9M/hero-image.fill.size_1200x675.v1784301819.png",
+                "url": "https://mashable.com/tech/july-17-surface-sony-headphone-deal",
+                "source": "Mashable",
+                "date": "2026-07-17T18:32:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Motorola issues official statement on the Edge 70 Max's software update policy",
+                "desc": "It's thankfully the best version of the two separate promises it made. Following up on our editorial regarding its incredibly confusing software support...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-clarifies-edge-70-max-update-policy/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/motorola_clarifies_the_edge_70_maxs_software_support-news-73776.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-17T18:30:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galaxy Z Fold 8 Ultra appears online with Messi's face and a $13,000 price tag",
+                "desc": "A week before its expected launch, a company called Caviar has listed the Galaxy Z Fold 8 Ultra for sale online, with a twist.",
+                "image": "https://helios-i.mashable.com/imagery/articles/03CTEV3HeYrvSdoRuZP9ppo/hero-image.fill.size_1200x675.v1784310912.png",
+                "url": "https://mashable.com/tech/galaxy-z-fold-8-ultra-caviar-lionel-messi-design",
+                "source": "Mashable",
+                "date": "2026-07-17T18:26:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roborock's Big LiDAR Robotic Lawnmower Needs No Satellites",
+                "desc": "The RockMow X120H can handle up to a half-acre lawn in just a day.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/RockMow-X120H-front-1200x675.jpg",
+                "url": "https://gizmodo.com/roborocks-big-lidar-robotic-lawnmower-needs-no-satellites-2000787080",
+                "source": "Gizmodo",
+                "date": "2026-07-17T18:25:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
+                "desc": "Apple today increased the price of Apple Music and some Apple One subscription bundles. An individual Apple Music subscription is now $1 more expensive in the United States, going from $10.99 to $11.99 per month. Pricing on the Apple Music Family plan increased by $3, increasing from $16.99 to $19.99. Student pricing is up $1, with the plan now priced at $6.99. The price of the individual Apple One plan hasn't changed, but the Family and Premier plans have gone up $2.",
+                "image": "https://images.macrumors.com/t/cBpeJ95wekMRm8-YbPPJQhJrDsY=/1920x/article-new/2024/08/apple-music.jpg",
+                "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
+                "source": "MacRumors",
+                "date": "2026-07-17T18:25:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marathon Game Director Leaves As Player Counts Dwindle",
+                "desc": "Joe Ziegler will depart as player counts crater",
+                "image": "https://kotaku.com/app/uploads/2026/04/Marathon_Vignette_Recon_07_1920x1080-1200x675.jpg",
+                "url": "https://kotaku.com/marathons-game-director-is-leaving-bungie-2000717221",
+                "source": "Kotaku",
+                "date": "2026-07-17T18:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy Z Fold 8 Ultra appears online with Messi's face and a $13,000 price tag",
+                "desc": "A company called Caviar is already listing the unconfirmed Galaxy Z Fold 8 Ultra for sale online — with a twist.",
+                "image": "https://sm.mashable.com/t/mashable_sea/article/s/samsung-ga/samsung-galaxy-z-fold-8-ultra-appears-online-with-messis-fac_82up.1200.jpg",
+                "url": "https://sea.mashable.com/mobile/52594/samsung-galaxy-z-fold-8-ultra-appears-online-with-messis-face-and-a-13000-price-tag",
+                "source": "Mashable SEA",
+                "date": "2026-07-17T18:22:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Sound Deal: Bring Home This Waterproof Bose Speaker for 20% Off Today",
+                "desc": "The IP67-rated waterproof Bose SoundLink Flex delivers 12 hours of portable, powerful sound to bring life to your next party, and it's $30 off right now!",
+                "image": "https://i.pcmag.com/imagery/articles/06r0rQmiELYFlketUHDkExc-1.fit_lim.size_1200x630.v1784303954.png",
+                "url": "https://www.pcmag.com/deals/sound-deal-waterproof-bose-speaker-20-off-july-17",
+                "source": "PCMag",
+                "date": "2026-07-17T18:22:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Survival Horror RPG GRAFT Debuts Story Trailer During Convergence Games Showcase 2026",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/171640-6453018e/GRAFT_key_art_plain.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=4486f3432a1e2cd926856429ad989ad4c7229986470c93fb3bb40672dbaf2a7b",
+                "url": "https://www.gamespress.com/pl/Survival-Horror-RPG-GRAFT-Debuts-Story-Trailer-During-Convergence-Game",
+                "source": "Games Press",
+                "date": "2026-07-17T18:22:01Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Public meeting to discuss future of Lough Ree Power Station next week",
                 "desc": "A public meeting will take place in Lanesboro on Monday to discuss the future of Lough Ree Power Station.",
@@ -1174,99 +1264,99 @@
                 "source": "Man of Many",
                 "date": "2026-07-17T08:17:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Toogoolawah Sale: Market strong but a 'dark cloud' looms",
-                "desc": "Dick Boyd, 90, sold 300 Charolais-cross weaners at Toogoolawah's July 17 sale. Discover his unique approach to selling that prioritises time over market trends.",
-                "image": "https://www.queenslandcountrylife.com.au/images/transform/v1/crop/frm/260010176/61d00388-1f6d-4094-935d-ea6a798e5654.jpg/r0_374_5184_3096_w1200_h630_fmax.jpg",
-                "url": "https://www.queenslandcountrylife.com.au/story/9312811/toogoolawah-sale-market-strong-but-a-dark-cloud-looms/",
-                "source": "Queensland Country Life",
-                "date": "2026-07-17T07:18:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-                "desc": "OpenAI is officially entering the hardware market with the launch of a $230 light-up keyboard designed to pair with its AI coding assistant,...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-16-1704560004.jpg",
-                "url": "https://www.businessghana.com/site/news/technology/352245/Amid-hardware-legal-battle-OpenAI-releases-a-230-keyboard-for-Codex",
-                "source": "BusinessGhana",
-                "date": "2026-07-17T07:17:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Radiocentre welcomes UK government plans to extend support for radio to AI-powered smart speakers",
-                "desc": "The UK government has agreed that UK radio services should be supported across all the main voice assistants",
-                "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzUwIDEyMCAyNTAgMjUwJz48cGF0aCBmaWxsPScjZmZmJyBkPSdNMTMwIDI5N2g4MFYxNDdoLTgweicvPjxwYXRoIGZpbGw9JyNiMDEyMTInIGQ9J00xNjAgMzQ0YTEwIDEwIDAgMSAxIDAgMTkgMTAgMTAgMCAwIDEgMC0xOW01MC0xNDRjMCAzLTIgNS01IDVhNSA1IDAgMCAxLTUtNXYtMjBjMC0zIDItNSA1LTVzNSAyIDUgNXptLTM2LTcycy01OS0zLTU5IDYydjEwN2gyOXYtMTloLTZ2LTg4YTM4IDM4IDAgMCAxIDM2LTM4aDJjMTUgMCAyNyA4IDM0IDIwYTkgOSAwIDAgMC0xNCA4djIwYTkgOSAwIDAgMCAxNCA4IDM4IDM4IDAgMCAxLTUzIDE1djU1aC02djM0YTEwIDEwIDAgMCAwIDkgOWM1IDAgMTAtNCAxMC05di02YTcgNyAwIDAgMSA2LTcgNyA3IDAgMCAxIDcgN3YxN2MwIDMgMSA1IDMgNyAyIDEgNCAzIDcgMyA1LTEgOS01IDktMTB2LTE3YTcgNyAwIDAgMSA3LTdjMiAwIDUgMiA2IDRhNyA3IDAgMCAxIDAgM3Y0OGMwIDIgMSA1IDMgNiAyIDIgNCAzIDcgM2ExMCAxMCAwIDAgMCA5LTlWMTkzYzAtNjktNjAtNjUtNjAtNjUnLz48L3N2Zz4=",
-                "url": "https://podnews.net/press-release/radiocentre-smart-speakers",
-                "source": "Podnews",
-                "date": "2026-07-17T07:15:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iQOO confirms Z11 Lite's price segment while revealing more details about it",
-                "desc": "It's launching on July 24. iQOO will launch the Z11 Lite on July 24, and ahead of the launch, the brand has confirmed that the smartphone will be priced...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-z11-lite-price-segment/-952x498w6/gsmarena_001.jpg",
-                "url": "https://www.gsmarena.com/iqoo_z11_lite_price_segment-news-73764.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-17T07:15:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How period trackers share women's private details",
-                "desc": "Stardust is a period tracking app that combines users' menstrual cycles with astrology and horoscopes",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/2a112357-13a7-4ceb-a615-647e3beda901.webp?1784288786635",
-                "url": "https://www.the-star.co.ke/news/2026-07-17-how-period-trackers-share-womens-private-details",
-                "source": "the-star.co.ke",
-                "date": "2026-07-17T07:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Roborock's new lawn mower comes to the US with a huge discount",
-                "desc": "Roborock has launched its RockMow X120H LiDAR lawn mower in the US with a huge introductory discount of $700.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/roborock-rockmow-x120h-lawn-mower-hero-image.jpg",
-                "url": "https://www.androidauthority.com/roborock-rockmow-x120h-lidar-launch-3688530/",
-                "source": "Android Authority",
-                "date": "2026-07-17T07:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prosthetics developer Metacarpal seizes on reliability",
-                "desc": "Metacarpal developed what it says is the first multi-articulating, body-powered prosthetic hand, with no sensors, batteries or motors.",
-                "image": "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2026/07/Metacarpal-GEM-Pinch-Grip.jpg",
-                "url": "https://www.medicaldesignandoutsourcing.com/metacarpal-gem-prosthetic-hand-fergal-mackie/",
-                "source": "Medical Design & Outsourcing",
-                "date": "2026-07-17T07:05:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Audeze launches new premium Maxwell 2 ANC gaming headset",
-                "desc": "Audeze adds ANC and SLAM acoustic tech to their Maxwell 2 platform",
-                "image": "https://storage.ghost.io/c/50/c6/50c61f91-0165-4605-93bc-f8598149e466/content/images/size/w1200/2026/07/ADZ_Maxwell2-ANC_Lifestyle1.jpg",
-                "url": "https://gamingtrend.com/news/audeze-launches-new-premium-maxwell-2-anc-gaming-headset/",
-                "source": "GamingTrend",
-                "date": "2026-07-17T07:04:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-                "desc": "OpenAI is officially entering the hardware market with the launch of a $230 light-up keyboard designed to pair with its AI coding assistant,...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-16-1704560004.jpg",
-                "url": "https://www.businessghana.com/site/news/Technology/352245/Amid-hardware-legal-battle,-OpenAI-releases-a-$230-keyboard-for-Codex",
-                "source": "BusinessGhana",
-                "date": "2026-07-17T07:01:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GeForce RTX 50 Series owners are reporting GPU Hotspots of 100+ degrees now that monitoring is available",
-                "desc": "With new GPU hotspot temperature readings now available, unofficially, for GeForce RTX 50 Series GPUs, we're starting to see cases with alarming results.",
-                "image": "https://static.tweaktown.com/news/1/1/112664_1_geforce-rtx-50-series-owners-are-reporting-gpu-hotspots-of-100-degrees-now-that-monitoring-is-available_full.jpg",
-                "url": "https://www.tweaktown.com/news/112664/geforce-rtx-50-series-owners-are-reporting-gpu-hotspots-of-100-plus-degrees-now-that-monitoring-is-available/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-17T07:01:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "UAE Summer Holiday Rush Grows as Flexible Travellers Turn to Affordable International Escapes",
+                "desc": "A new wave of summer holiday planning is emerging among UAE residents, with travellers increasingly choosing international destinations closer to their departure dates.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Wego-1-1536x864-1.webp",
+                "url": "https://www.travelandtourworld.com/news/article/03u39p56n2es/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-17T18:32:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Texas hit with devastating floods for 2nd year in a row, in photos",
+                "desc": "Catastrophic flooding has swept across parts of Texas following days of heavy rain, submerging homes and roads, prompting hundreds of rescues and leaving emergency responders working around the clock as floodwaters continue to threaten communities.",
+                "image": "https://i.cbc.ca/ais/7f717481-7ef5-4b99-9167-ecae2f7a68a3,1784290677691/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C145%2C1920%2C1080%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/texas-floods-9.7273734",
+                "source": "CBC",
+                "date": "2026-07-17T18:25:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two Nigerians, One Other Jailed In UK Over N7.4Billion Cryptocurrency Scam Using Fake Police Websites",
+                "desc": "The convicts were identified as Anthony Ikenwe, 29, Hamza Bashir, 23, and Kevin Nwamma, 25.",
+                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+                "url": "https://saharareporters.com/2026/07/17/two-nigerians-one-other-jailed-uk-over-n74billion-cryptocurrency-scam-using-fake-police",
+                "source": "Sahara Reporters",
+                "date": "2026-07-17T18:22:30Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Oil tankers face 'worst case scenario' in Hormuz, maritime risk CEO says",
+                "desc": "One seafarer was killed and three were injured in attack on the crude oil tanker Al Bahyah off Oman's coast on Tuesday.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108326813-17823953662026-06-25t134116z_656008457_rc2x0maenxm1_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1782395400&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
+                "source": "CNBC",
+                "date": "2026-07-17T18:20:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US weighs wider offensive against Iran, Trump seeks more refuelling jets in Israel",
+                "desc": "Washington has told Israel it will send dozens more refuelling aircraft as Donald Trump reviews broader military options against Iran. The move comes amid continued strikes around the Strait of Hormuz and political unease in Israel over using Ben Gurion airport.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/donald-trump-administration-has-formally-asked-israel-to-accommodate-the-additional-refuelling-aircr-171133680-16x9_0.jpg?VersionId=HBYekA7nw9Ov80c_Z9opZf_wPtsXPJ9e",
+                "url": "https://www.indiatoday.in/world/story/donald-trump-us-refuelling-planes-israel-wider-iran-strikes-middle-east-2950423-2026-07-17",
+                "source": "India Today",
+                "date": "2026-07-17T18:19:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+                "desc": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7777/live/efb32c20-81fa-11f1-a927-670d17f8e943.jpg",
+                "url": "https://www.bbc.com/news/articles/cwyjv3815yxo",
+                "source": "BBC",
+                "date": "2026-07-17T18:12:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5.6% increase in minimum wage to be recommended to Govt",
+                "desc": "The Low Pay Commission is to recommend to the Government that it increases the minimum wage by 5.6%.",
+                "image": "https://www.rte.ie/images/0023311b-1600.jpg",
+                "url": "https://www.rte.ie/news/ireland/2026/0717/1583924-minimum-wage-increase/",
+                "source": "RTE.ie",
+                "date": "2026-07-17T18:12:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Do declassified files support Trump's election security claims?",
+                "desc": "BBC Verify has reviewed these documents, although some of them have been heavily redacted.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1a8e/live/9e304680-8204-11f1-b976-0b9c15b0ccfc.png",
+                "url": "https://www.bbc.com/news/articles/cz64wx8yjjdo",
+                "source": "BBC",
+                "date": "2026-07-17T18:11:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Do declassified files support Trump's election security claims?",
+                "desc": "BBC Verify has reviewed these documents, although some of them have been heavily redacted.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a8e/live/9e304680-8204-11f1-b976-0b9c15b0ccfc.png",
+                "url": "https://www.bbc.co.uk/news/articles/cz64wx8yjjdo",
+                "source": "BBC",
+                "date": "2026-07-17T18:11:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Bill on Russian oil buyers: India closely follows proposed 100% tariffs",
+                "desc": "India said it is closely following a proposed US Bill targeting buyers of Russian crude. New Delhi said its oil purchases are guided by energy sourcing needs as Washington weighs wider pressure on Moscow.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/india-total-oil-reserve-170729583-16x9_0.jpg?VersionId=ZFNktO7_zAiqEhvUiNExdJWWFHsQzBwO",
+                "url": "https://www.indiatoday.in/india/story/india-us-bill-100-percent-tariffs-russian-oil-buyers-2950428-2026-07-17",
+                "source": "India Today",
+                "date": "2026-07-17T18:07:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Corruption Law Curriculum Set for Stakeholder Validation",
                 "desc": "Stakeholders in Nigeria’s legal education sector have begun concrete steps toward integrating anti-corruption studies into the country’s law",
@@ -1806,98 +1896,8 @@
                 "source": "Kyiv Post",
                 "date": "2026-07-17T08:27:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-                "desc": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1581x889+0+82/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fe1%2F23c785da4f518241791d277ebfa4%2Fap26198084161653.jpg",
-                "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
-                "source": "NPR",
-                "date": "2026-07-17T07:17:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bahrain Expands Visa on Arrival Access to Travellers from the US, UK, Canada, EU, Australia, Japan and 60 More Countries: Who Can Stay Now for 14, 30 or 90 Days?",
-                "desc": "Bahrain offers Visa on Arrival to travellers from 69 countries, including the US, UK, Canada and EU nations. Check the complete country list, stay durations and entry rules.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/rnn.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/hea61nx7yl1n/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-17T07:16:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda drops case against women arrested for public kissing",
-                "desc": "Ugandan prosecutors drop case against two women arrested for kissing under the harsh anti-gay law, sparking calls for repeal.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/sr-file-2025-12-08T115020.518_1784272262-1200x630.webp",
-                "url": "https://punchng.com/uganda-drops-case-against-women-arrested-for-kissing-in-public/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-17T07:14:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tipperary woman killed in hit-and-run in Belfast",
-                "desc": "The driver of the car \"fled the scene\", police said, but was later arrested.",
-                "image": "https://www.irishexaminer.com/cms_media/module_img/10319/5159845_4_org_9b5ef27d-a282-45ca-96a9-5162635ce980.jpg",
-                "url": "https://www.irishexaminer.com/news/arid-41881036.html",
-                "source": "Irish Examiner",
-                "date": "2026-07-17T07:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "connected Melbourne man for ‘all that he’s worth’, court hears",
-                "desc": "The man, who cannot be named, has pleaded not guilty to two counts of rape and one count of sexual assault in Victoria’s county court",
-                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-                "url": "https://www.aol.co.uk/articles/alleged-rape-victim-wanted-well-063225000.html",
-                "source": "AOL.co.uk",
-                "date": "2026-07-17T07:11:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burkina Faso Secures $120 Million to Expand Social Protection and Economic Inclusion",
-                "desc": "The World Bank has announced a $120 million financing package to expand social protection and economic inclusion programmes for poor and vulnerable households in Burkina Faso. The package includes a $100 million credit from the International Development Association and a $20 million grant from the Sahel Adaptive Social Protection Programme. The initiative is expected to",
-                "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
-                "url": "https://news.fundsforngos.org/2026/07/17/burkina-faso-secures-120-million-to-expand-social-protection-and-economic-inclusion/",
-                "source": "fundsforNGOs News",
-                "date": "2026-07-17T07:11:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“It is not simply xenophobia,” South African Archbishop Says Migration Debate Requires More Than “single narrative”",
-                "desc": "Archbishop Dabula Anthony Mpako of Pretoria Catholic Archdiocese in South Africa has challenged prevailing portrayals of anti-migrant tensions in the country, saying the situation is far more complex than commonly presented and warned against reducing it to a single explanation.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-17t094957_1784271747.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/22999/it-is-not-simply-xenophobia-south-african-archbishop-says-migration-debate-requires-more-than-single-narrative",
-                "source": "ACI Africa",
-                "date": "2026-07-17T07:07:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AfDB Approves $94 Million to Expand Irrigation in Northern Cameroon",
-                "desc": "The African Development Bank has approved an €81.2 million, or approximately $94 million, loan to expand irrigation infrastructure and strengthen climate-resilient agriculture in northern Cameroon. The financing will support the first phase of the Northern Agro-Industrial Development Programme. Together with an expected €7.54 million contribution from the Cameroonian government, the project will have a total",
-                "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
-                "url": "https://news.fundsforngos.org/2026/07/17/afdb-approves-94-million-to-expand-irrigation-in-northern-cameroon/",
-                "source": "fundsforNGOs News",
-                "date": "2026-07-17T07:05:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beyond borders: Rethinking Africa’s migration governance crisis",
-                "desc": "A meaningful response must begin with an acknowledgement of competing realities.",
-                "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/07/PcDStJ6xze5Ws6twawtSNnsIUZQ0lcr5UE6z8tDO.jpg",
-                "url": "https://www.newsday.co.zw/opinion-analysis/article/200058399/beyond-borders-rethinking-africas-migration-governance-crisis",
-                "source": "NewsDay Zimbabwe",
-                "date": "2026-07-17T07:02:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Announcement of the Arrival of the African Union Election Observation Mission for the Presidential Election of 19 July 2026 in the Democratic Republic of São Tomé and Príncipe",
-                "desc": "At the invitation of the Government of the Democratic Republic of São Tomé and Príncipe, the Chairperson of the African Union Commission (AUC), H.E. Mr Mahamoud Ali YOUSSOUF, deployed an African Union Election Observation Mission (AUEOM), upon the recommendation of the African Union Commissioner for Political Affairs, Peace and Security (PAPS), H.E. Ambassador Bankole ADEOYE, to assess and report on the conduct of the presidential election scheduled for 19 July 2026, in line with the democratic principles and commitments of the African Union.",
-                "image": "https://www.peaceau.org/images/logo-african-union-peace-and-security.gif",
-                "url": "https://www.peaceau.org/en/article/announcement-of-the-arrival-of-the-african-union-election-observation-mission-for-the-presidential-election-of-19-july-2026-in-the-democratic-republic-of-sao-tome-and-principe",
-                "source": "African Union,Peace and Security Department",
-                "date": "2026-07-17T07:01:03Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-18T04:32:42.072695Z"
+    "lastGlobalSync": "2026-07-18T06:33:44.368067Z"
 }
