@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "More data centres planned for South",
+                "desc": "Five high energy use data centres could be dotted across the South under plans supported by a government investment agency, the Otago Daily Times...",
+                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/planned-ai-data-centres_0.jpg?itok=XN6n3lQ0",
+                "url": "https://www.odt.co.nz/regions/more-data-centres-planned-south",
+                "source": "Otago Daily Times",
+                "date": "2026-07-17T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What a Delayed OpenAI IPO Would Tell Investors",
+                "desc": "If Anthropic goes public first, it could set the terms of the valuation debate for frontier labs.",
+                "image": "https://media.morningstar.com/resizer/v2/LJSFOV5AWBE3VITWWEPPMTIQX4.jpg?auth=d1248318e97035a7190a313263cce088c87dc2dcd9e2d45a5b591c197c7a23a1&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
+                "url": "https://www.morningstar.com/stocks/what-delayed-openai-ipo-would-tell-investors",
+                "source": "Morningstar",
+                "date": "2026-07-17T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jeff Currie: Illusion of Oil Abundance Is Gone",
+                "desc": "Carlyle Group Chief Strategy Officer, Jeff Currie, has declared that the global oil market's \"illusion of abundance\" has vanished, warning that the market has rapidly transitioned from a standard supply deficit into a structural energy shortage",
+                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-17_ho67ukb5k1.jpg",
+                "url": "https://oilprice.com/Latest-Energy-News/World-News/Jeff-Currie-Illusion-of-Oil-Abundance-Is-Gone.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-17T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fox News AI Newsletter: IBM's AI warning sends 'shockwave'",
+                "desc": "IBM shares dropped steeply amid AI spending concerns, while Jamie Dimon urges calm over artificial intelligence's impact on jobs and the workforce.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/ibm-computer-man-using-laptop.jpg",
+                "url": "https://www.foxnews.com/tech/ai-newsletter-ibm-ai-warning-sends-shockwave",
+                "source": "Fox News",
+                "date": "2026-07-17T16:28:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Should You Try Kimi K3? Here’s How AI Model Compares With ChatGPT And Claude",
+                "desc": "The Chinese startup called its AI model the “new frontier of intelligence.”",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5a577c5c31984c1d2a0ab8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/tylerroush/2026/07/17/chinese-ai-startup-moonshot-unveils-kimi-k3-model-will-it-challenge-openai-and-anthropic/",
+                "source": "Forbes",
+                "date": "2026-07-17T16:27:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BUA Promises Cheaper Food, Set to Become Nigeria's Biggest Food Company",
+                "desc": "BUA Group says its ongoing investments in flour, sugar, oil milling, feed and noodles production will help reduce food prices and improve food security in Nigeria.",
+                "image": "https://cdn.legit.ng/images/1200x675/5060c97dc32c0e10.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/economy/1719953-bua-promises-cheaper-food-set-nigerias-biggest-food-company/",
+                "source": "Legit.ng",
+                "date": "2026-07-17T16:21:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Construction resumes on McMurray Métis Cultural Centre after nearly four-year delay",
+                "desc": "What was once billed as a $22 million project will now cost up to $73 million to complete. Kelly Myers of McMurray Métis says projected costs hit between $115 million to $125 million when construction stopped in October 2022.",
+                "image": "https://i.cbc.ca/ais/621d1cbd-38eb-422b-85bf-7ef4d51947e8,1784233486600/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C211%2C4009%2C2255%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-metis-cultural-centre-fort-mcmurray-9.7273125",
+                "source": "CBC",
+                "date": "2026-07-17T16:18:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WTI Oil rallies above $81 as Iran threats intensify supply risks",
+                "desc": "West Texas Intermediate (WTI) trades around $81.10 at the time of writing on Friday, up 2.76% on the day, and is heading for a weekly gain of more than 13% as geopolitical tensions in the Middle East continue to escalate.",
+                "image": "https://editorial.fxsstatic.com/images/i/Commodities_Oil-2_Medium.jpg",
+                "url": "https://www.fxstreet.com/news/wti-oil-rallies-above-81-as-middle-east-tensions-threaten-global-oil-supplies-202607171617",
+                "source": "FXStreet",
+                "date": "2026-07-17T16:17:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+                "desc": "A deal would underline how scarce computing power is for artificial intelligence development, and could create a new business for Meta.",
+                "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17biz-meta-anthropic-qjkb/17biz-meta-anthropic-qjkb-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+                "source": "The New York Times",
+                "date": "2026-07-17T16:17:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FTSE 100 Live: London stocks flat as Wall Street lurches into the red",
+                "desc": "FTSE 100 up 28 points at 10,600 Burberry sinks 5.4% Tech stocks continue to sell off Brent crude eyes $85/bbl 5.15pm: In the green London stocks finished...",
+                "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA3XC9zaHV0dGVyc3RvY2stMTU2NTYyNDI3XzZhNWEyMGJkN2ZiM2EuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+                "url": "https://www.proactiveinvestors.co.uk/companies/news/1095604/ftse-100-live-london-stocks-flat-as-wall-street-lurches-into-the-red-1095604.html",
+                "source": "Proactive Investors",
+                "date": "2026-07-17T16:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Bond Investors Push Back As AI Debt Heads Toward $570 Billion",
                 "desc": "AI-related debt could reach $570 billion in 2026 as bond demand softens and more financing shifts into private credit and off-balance-sheet vehicles, shifting more risks.",
                 "image": "https://imageio.forbes.com/specials-images/imageserve/6a5a213b288f204535aec38a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
@@ -542,99 +632,99 @@
                 "source": "WWD",
                 "date": "2026-07-17T07:08:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bank of Ghana recapitalisation: More than money",
-                "desc": "The government’s decision to raise GH¢5 billion to support the recapitalisation of the Bank of Ghana (BoG) is a timely and necessary intervention.",
-                "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo.jpg",
-                "url": "https://ghanaiantimes.com.gh/bank-of-ghana-recapitalisation-more-than-money/",
-                "source": "Ghanaian Times",
-                "date": "2026-07-17T05:47:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China Ignites a Colossal Hong Kong Tourism Triumph as Asia’s Visitor Powerhouse Welcomes 26.7 Million Travellers in Six Months, Fuelled by Explosive Mainland Growth, Global Arrivals and a Red",
-                "desc": "Hong Kong welcomed 26.71 million visitors in the first half of 2026 as Mainland, long-haul and business travel demand drove tourism growth.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Hong-Kong-3.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/4nn74tap20h2/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-17T05:46:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Changan Automobile Inaugurates First Showroom in Ethiopia",
-                "desc": "Chinese EV manufacturer Changan Automobile opened its first showroom in Ethiopia, marking a key milestone in the brand's expansion in Africa.",
-                "image": "https://techtrendske.co.ke/wp-content/uploads/2026/07/The-showroom-opening-marks-a-step-forward-in-Changans-Vast-Ocean-Plan-2.059.png",
-                "url": "https://techtrendske.co.ke/2026/07/17/changan-automobile-inaugurates-first-showroom-in-ethiopia/",
-                "source": "TechTrendsKE",
-                "date": "2026-07-17T05:45:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
-                "desc": "Oil prices are on track for their biggest weekly gain since April as renewed military conflict around Iran disrupts Middle Eastern oil exports and raises fears of broader shipping disruptions.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-17_y75rhzbq12.jpg",
-                "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-17T05:41:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "John F Hunt bags £20m enabling works deal at giant data centre",
-                "desc": "Site preparation contract for 41 acre site which will house ten data halls",
-                "image": "https://www.constructionenquirer.com/wp-content/uploads/AP2201_Iver-Heath_Aerial_View_01_-HERO-1200x828.webp",
-                "url": "https://www.constructionenquirer.com/2026/07/17/john-f-hunt-bags-20m-enabling-works-deal-at-giant-data-centre/",
-                "source": "Construction Enquirer",
-                "date": "2026-07-17T05:41:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China ‘firmly opposes’ UK nationalisation of British Steel",
-                "desc": "The UK government announced on Thursday that it had passed legislation to nationalise British Steel, previously owned by China’s Jingye Group, to protect the country’s steelmaking capacity after Jingye moved to shut the company’s blast furnaces.",
-                "image": "https://images.euronews.com/articles/stories/09/84/12/10/1200x675_cmsv2_5aeb9226-e683-5412-a367-4743694bb647-9841210.jpg",
-                "url": "https://www.euronews.com/business/2026/07/17/china-firmly-opposes-uk-nationalisation-of-british-steel",
-                "source": "Euronews.com",
-                "date": "2026-07-17T05:37:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exclusive pics: Aston Martin's mad V12 4x4 makes real-world debut",
-                "desc": "New Dreadnought 4x4 melds V8 Vantage looks, V12 power and – hang on, is that an airstrike button...?",
-                "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/img_8169.jpg",
-                "url": "https://www.autocar.co.uk/car-news/new-cars/exclusive-pics-aston-martins-mad-v12-4x4-makes-real-world-debut",
-                "source": "Autocar",
-                "date": "2026-07-17T05:35:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese smartphone brands lose ground in India as June-quarter shipments post steepest fall in six years",
-                "desc": "Counterpoint said Chinese brands such as Oppo, Vivo, Xiaomi, Realme, OnePlus, iQoo and Poco, which derive a significant portion of their volumes from affordable smartphones, lost market share as consumers delayed purchases.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251014111208_smartphone-2454611_1280.jpg",
-                "url": "https://www.moneycontrol.com/technology/chinese-smartphone-brands-lose-ground-in-india-as-june-quarter-shipments-post-steepest-fall-in-six-years-article-13976487.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-17T05:34:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ongoing civil service pension fiasco 'hopeless'",
-                "desc": "Alison Williams says she still has not received her money as Capita misses a government deadline.",
-                "image": "https://s.yimg.com/lo/mysterio/api/95417f6b8543fbc116f248b07205a5a5b0ebe07e4eb98c2d96811a95665c1774/lightyear_networkapi/resizefill_w1061_h597;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1b21d42025947eea8bacdc1078a9e54f",
-                "url": "https://ca.news.yahoo.com/ongoing-civil-pension-fiasco-hopeless-053157272.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-07-17T05:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Street sweeper gets heartwarming birthday surprise from daughters",
-                "desc": "PETALING JAYA: Years of sacrifice melted into tears of joy for a street sweeper when her four daughters surprised her with a birthday celebration at her workplace, in a heartwarming moment that has since gone viral on social media.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/17/4015215.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/07/17/street-sweeper-gets-heartwarming-birthday-surprise-from-daughters",
-                "source": "The Star",
-                "date": "2026-07-17T05:27:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Public meeting to discuss future of Lough Ree Power Station next week",
+                "desc": "A public meeting will take place in Lanesboro on Monday to discuss the future of Lough Ree Power Station.",
+                "image": "https://img.resized.co/shannonside-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltZy5zaGFubm9uc2lkZS5pZVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvc2l0ZXNcXFwvMTFcXFwvTG91Z2gtUmVlLXBvd2VyLTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC9pbWFnZXMudW5zcGxhc2guY29tXFxcL3Bob3RvLTE1ODYzMzk5NDk5MTYtM2U5NDU3YmVmNmQzXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImYzMDM3OWFiZjlmZmQwYjdhN2RlNjc2Zjc4ODQwNzI3MWY2YmFlMTQifQ==/public-meeting-to-discuss-future-of-lough-ree-power-station-next-week.jpg",
+                "url": "https://www.shannonside.ie/news/public-meeting-to-discuss-future-of-lough-ree-power-station-next-week-293271",
+                "source": "Shannonside.ie",
+                "date": "2026-07-17T16:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Foldable Phones Still Haven't Gone Mainstream",
+                "desc": "Foldable phones still haven't gone mainstream due to the challenges limiting adoption, how brands like Samsung, Google, Huawei and Tecno are improving the technology",
+                "image": "https://techbuild.africa/wp-content/uploads/2026/07/Google-Pixel-Fold.jpg",
+                "url": "https://techbuild.africa/why-foldable-phones-still-havent-gone-mainstream/",
+                "source": "Tech Build Africa",
+                "date": "2026-07-17T16:26:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spell-crafting ARPG roguelite Echoes of Mystralia launches into Early Access on August 11, 202",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/161213-415cc9bb/EchoesOfMystralia_PressKit_LogoColor_DarkLetters.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=359662ccec8e7e65bf32f59bf01692698ef6d249f500facbe483d6383112f188",
+                "url": "https://www.gamespress.com/en-US/Spell-crafting-ARPG-roguelite-Echoes-of-Mystralia-launches-into-Early-",
+                "source": "Games Press",
+                "date": "2026-07-17T16:26:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iOS 27 Public Beta: It's... Fine I Guess?",
+                "desc": "Even if you don't use AI, I found some useful features in the iOS 27 beta. They're smaller, quality-of-life changes, but you won't want to skip them.",
+                "image": "https://www.cnet.com/a/img/resize/17374cb933e6eb7caf161dcb8019a8899d1853c8/hub/2026/07/15/90b05c3d-e49f-451e-a645-cd1388978dac/image-9.png?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/services-and-software/ios-27-public-beta-its-fine-i-guess/",
+                "source": "CNET",
+                "date": "2026-07-17T16:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Casio Brings Its Retro MTP-B146 Day-Date Watches To The US For Under $150",
+                "desc": "Three retro Casio MTP-B146 models just hit the US at $110 to $130, featuring a full day-name window at 12 o'clock and slim steel cases.",
+                "image": "https://twobrokewatchsnobs.com/wp-content/uploads/2026/07/Casio-MTP-B146-05-scaled.webp",
+                "url": "https://twobrokewatchsnobs.com/casio-mtp-b146-day-date-watches/",
+                "source": "Two Broke Watch Snobs",
+                "date": "2026-07-17T16:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can You See Who Views Your Instagram Profile?",
+                "desc": "Wondering how to know who stalks your Instagram? Learn what Instagram actually shows you about profile visitors and how anonymous viewing really works.",
+                "image": "https://pctechmag.com/wp-content/uploads/2026/07/unnamed-35.png",
+                "url": "https://pctechmag.com/2026/07/how-to-know-if-someone-is-watching-your-instagram-without-following-you/",
+                "source": "PC Tech Magazine",
+                "date": "2026-07-17T16:18:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Hybrid System Ensures Tracking Beyond GPS Limits",
+                "desc": "In a new study presented at the IEEE International Conference on Communications in Glasgow, researchers from Queen Mary University of London and",
+                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1532619675605-1ede6c2ed2b0%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
+                "url": "https://www.miragenews.com/new-hybrid-system-ensures-tracking-beyond-gps-1712208/",
+                "source": "Mirage News",
+                "date": "2026-07-17T16:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dell Latitude 5540 Buying Guide: Everything You Should Know Before You Purchase",
+                "desc": "Buying a business laptop is about much more than choosing the latest processor or the largest amount of storage. A laptop that looks impressive on paper may not necessarily provide the reliability, comfort, and long-term value needed for everyday professional work.",
+                "image": "https://pctechmag.com/wp-content/uploads/2026/07/pexels-silverkblack-36764844.jpg",
+                "url": "https://pctechmag.com/2026/07/dell-latitude-5540-buying-guide-everything-you-should-know-before-you-purchase/",
+                "source": "PC Tech Magazine",
+                "date": "2026-07-17T16:13:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Parents want safer phones for kids. These companies are answering the call.",
+                "desc": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+                "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+                "source": "TechCrunch",
+                "date": "2026-07-17T16:12:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Expands AI Mode With App Integrations, Allowing Users To Connect And Interact With Third",
+                "desc": "Google on Thursday expanded the capabilities of its AI-powered search experience by allowing users to connect and interact with third-party applications directly within AI Mode, marking another step in its effort to transform search from an information tool into an AI assistant capable of completing real-world tasks. The update, initially rolling out to users in […]",
+                "image": "https://www.tekedia.com/wp-content/uploads/2023/03/Google-Pichai.jpg",
+                "url": "https://www.tekedia.com/google-expands-ai-mode-with-app-integrations-allowing-users-to-connect-and-interact-with-third-party-apps/",
+                "source": "Tekedia",
+                "date": "2026-07-17T16:11:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Throwback 3D Platformer Teeto Is Out Now On PC & Consoles!",
                 "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
@@ -1174,99 +1264,99 @@
                 "source": "TweakTown",
                 "date": "2026-07-17T07:01:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "BMW Malaysia opens Clubhouse showcase with three debuts and rebates from RM12,000",
-                "desc": "BMW Clubhouse opens at Factory 19 PJ from 17 to 19 July 2026 with the new M2 CS, M3 Touring and 218 Gran Coupe, plus rebates and 0% financing offers.",
-                "image": "https://imgcdnblog.carbay.com/wp-content/uploads/2026/07/17123325/IMG_20260709_124601-1-26-500x333.jpg",
-                "url": "https://www.zigwheels.my/car-news/bmw-malaysia-opens-clubhouse-showcase-with-three-debuts-and-rebates-from-rm12000",
-                "source": "Zigwheels",
-                "date": "2026-07-17T05:46:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The delights of the official Honda museum",
-                "desc": "The official Honda museum in Motegi is a must for both automobile and motorcycle fans",
-                "image": "https://s.yimg.com/lo/mysterio/api/384050f7fc737221da7c6d82b3c5cf66fbb51e48b26d6e2588ee6a8ba50b4237/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fautocar_articles_778%2F24407784285e79ce81a2b128bbc490e9",
-                "url": "https://autos.yahoo.com/people-and-culture/articles/delights-official-honda-museum-054246079.html",
-                "source": "Yahoo Autos",
-                "date": "2026-07-17T05:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MacBook Neo: Apple Is Reportedly Cutting Production Significantly",
-                "desc": "Despite high demand, Apple is reportedly set to cut MacBook Neo production by up to 40 percent due to the DRAM crisis and a shortage of A18 Pro chips.",
-                "image": "https://basic-tutorials.de/wp-content/uploads/2026/03/Apple-MacBook-Neo-lifestyle-01-260304-scaled.jpg",
-                "url": "https://basic-tutorials.com/news/macbook-neo-apple-is-reportedly-cutting-production-significantly/",
-                "source": "Basic Tutorials",
-                "date": "2026-07-17T05:32:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These new itel Zeno power banks pack up to 20,000mAh capacity and 45W fast charging",
-                "desc": "itel has launched the Zeno power banks in India with 10,000mAh and 20,000mAh options, 45W fast charging, laptop support, and built-in Type-C cable.",
-                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/itel-zero-power-bank.jpg",
-                "url": "https://www.gizmochina.com/2026/07/17/itel-zeno-power-bank-india-launch-price-features/",
-                "source": "Gizmochina",
-                "date": "2026-07-17T05:31:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World’s first superconducting quantum heat engine opens the path to larger quantum computers",
-                "desc": "A newly-developed superconducting quantum heat engine not only advances our understanding of thermodynamics but also enables technologies needed",
-                "image": "https://www.technology.org/texorgwp/wp-content/uploads/2026/07/Heat_Engine_Square_Small.jpg",
-                "url": "https://www.technology.org/2026/07/17/worlds-first-superconducting-quantum-heat-engine-opens-the-path-to-larger-quantum-computers/",
-                "source": "Technology Org",
-                "date": "2026-07-17T05:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Auckland Uni engineering students take AI scents of memory concept global",
-                "desc": "A team of University of Auckland engineering students has explored the connection between smell and memory, developing Mémoire – a concept that uses artificial intelligence to transform meaningful memories into bespoke fragrances. Students Maadhav Arora, Nathaniel Brown and Mihir Ojas Rallapudi, known as Team MNM, took their idea from Auckland to Paris after winning the […]",
-                "image": "https://insidegovernment.co.nz/wp-content/uploads/2026/07/20260701192057091454-original.jpg",
-                "url": "https://insidegovernment.co.nz/auckland-uni-engineering-students-take-ai-scents-of-memory-concept-global/",
-                "source": "Inside Government NZ",
-                "date": "2026-07-17T05:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Newegg Launches Exclusive North America AMD Ryzen 7 7700X3D Gaming Processor",
-                "desc": "Newegg introduces Ryzen 7 7700X3D featuring AMD 3D V-Cache technology for cost-effective gaming PC performance and upgrades.",
-                "image": "https://worldbusinessoutlook.com/wp-content/uploads/2026/07/Newegg-Launches-Exclusive-North-America-AMD-Ryzen-7-7700X3D-Gaming-Processor-IM.png",
-                "url": "https://worldbusinessoutlook.com/newegg-launches-exclusive-north-america-amd-ryzen-7-7700x3d-gaming-processor/",
-                "source": "World Business Outlook",
-                "date": "2026-07-17T05:27:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OnePlus reveals more changes for US users after exit announcement",
-                "desc": "OnePlus has confirmed that its North American Community website will permanently shut down on August 16, 2026.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6.jpg",
-                "url": "https://www.androidauthority.com/oneplus-us-community-shutdown-software-plans-us-3688516/",
-                "source": "Android Authority",
-                "date": "2026-07-17T05:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lenovo's Legion R9000P laptop has the world's first Inkjet-printed OLED display from TCL",
-                "desc": "TCL CSOT has begun mass production of its game-changing Inkjet-printed OLED displays, and the Lenovo Legion R9000P is the first laptop to have one.",
-                "image": "https://static.tweaktown.com/news/1/1/112661_2_lenovos-legion-r9000p-has-the-worlds-first-inkjet-printed-oled-display-from-tcl_full.jpg",
-                "url": "https://www.tweaktown.com/news/112661/lenovos-legion-r9000p-laptop-has-the-worlds-first-inkjet-printed-oled-display-from-tcl/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-17T05:26:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Swatch presents a limited-edition MoonSwatch crafted from OMEGA’s 18K Moonshine Gold",
-                "desc": "There are moments in history that are so extraordinary that they continue to shine across generations, and one of these iconic achievements was the first moon landing in 1969.  To commemorate this defining moment in time, Swatch launches the MISSION TO THE MOON 1969, a limited edition timepiece featuring a dial, hands, crown, and pushers […]",
-                "image": "https://nylon.com.sg/wp-content/uploads/2026/07/swatch-1969-header.jpg",
-                "url": "https://nylon.com.sg/swatch-presents-a-limited-edition-moonswatch-crafted-from-omegas-18k-moonshine-gold/",
-                "source": "nylon.com.sg",
-                "date": "2026-07-17T05:25:28Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Corruption Law Curriculum Set for Stakeholder Validation",
+                "desc": "Stakeholders in Nigeria’s legal education sector have begun concrete steps toward integrating anti-corruption studies into the country’s law",
+                "image": "https://politicsdigest.ng/wp-content/uploads/2026/07/IMG_9568-scaled.jpeg",
+                "url": "https://politicsdigest.ng/draft-anti-corruption-law/",
+                "source": "Politics Digest",
+                "date": "2026-07-17T16:32:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Street Child, Society's Child",
+                "desc": "Victimised by circumstance and soaked in desolation, the street child is confronted with more problems than they can handle .",
+                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
+                "url": "https://www.modernghana.com/news/1511562/the-street-child-societys-child.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-17T16:31:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lyhanna rape case makes sexual abuse against minors a ‘priority’ in France",
+                "desc": "The Justice Minister asked for the review of around 70,000 archived complaints after detecting negligence in the rape and murder case of an 11-year-old schoolgirl",
+                "image": "https://imagenes.elpais.com/resizer/v2/3OSAJTSMZNIWPKZPD4VQ6RLKCM.jpg?auth=e55034fa89e70e5cdf8ba6d8321bb2297b7db5777b59e958a45b05c23ba581f7&width=1200",
+                "url": "https://english.elpais.com/international/2026-07-17/lyhanna-rape-case-makes-sexual-abuse-against-minors-a-priority-in-france.html",
+                "source": "EL PAÍS English",
+                "date": "2026-07-17T16:30:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+                "desc": "Eight killed and 20 injured in strike on funeral procession for Palestinian killed by Israel earlier in the day.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-17T152833Z_1056029610_RC2SEMA9SQGT_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1784303788.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral",
+                "source": "Al Jazeera",
+                "date": "2026-07-17T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US sends dozens of refueling planes to Israel ahead of possible escalation with Iran",
+                "desc": "Ten tankers will arrive Friday and Saturday and be stationed at air force bases rather than Ben Gurion after concerns over severe airport congestion",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/27/Bybjw1zyt11l/Bybjw1zyt11l_0_131_1279_721_0_large.jpg",
+                "url": "https://www.ynetnews.com/article/bjtwocd4mx",
+                "source": "Ynetnews",
+                "date": "2026-07-17T16:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Election as APRA Secretary General",
+                "desc": "Nigerian Institute of Public Relations (NIPR) has congratulated Dr. Omoniyi lbietan on his re-election as the Secretary General of the African Public Relations Association (APRA) for a second term in office, %",
+                "image": "https://prnigeria.com/wp-content/uploads/2026/07/IMG-20260717-WA0001.jpg",
+                "url": "https://prnigeria.com/2026/07/17/nipr-congratulates-omoniyi/",
+                "source": "PRNigeria News",
+                "date": "2026-07-17T16:28:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poland Alongside Germany, Belarus, Slovakia, Lithuania and More Transforms Central Europe Into a Rising Travel Powerhouse Through Tourism Growth, Economic Success and Cultural Heritage: Everything You",
+                "desc": "Poland, alongside Germany, Belarus, Slovakia, Lithuania and other Central European neighbours, is transforming the region into a rising travel powerhouse through a powerful combination of tourism growth, economic success and cultural heritage.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Poland-2.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/k22sy762h8fc/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-17T16:27:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa: Can Africa Reinvent Mediation Before Its Wars Outrun Diplomacy?",
+                "desc": "If the first challenge confronting African diplomacy is that peace negotiations are becoming increasingly transactional, and the second is that modern wars have outgrown traditional mediation, then the third and perhaps most difficult question is this: what should replace the old model?",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607170534.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-17T16:23:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Health experts urge caution over US military testosterone screenings",
+                "desc": "Medical professionals told the BBC the new policy could lead to an increase in incorrect diagnoses, as well as other issues.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/24a8/live/0c37e6f0-816b-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c5ye8v2w5wwo",
+                "source": "BBC",
+                "date": "2026-07-17T16:20:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Algeria orphanage fire: Air conditioner sparked deadly blaze",
+                "desc": "Eleven people, including children, died in the fire that also injured 19 others.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e69/live/819e1710-81f8-11f1-926f-c90d1bcfbc84.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o",
+                "source": "BBC",
+                "date": "2026-07-17T16:20:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Iran War Live Updates: U.S. Hits Bridges and a Port in Southern Iran as Airstrikes Expand",
                 "desc": "The U.S. military’s Central Command said the latest round of attacks had “hit dozens of Iranian military targets” but made no mention of civilian infrastructure.",
@@ -1806,98 +1896,8 @@
                 "source": "African Union,Peace and Security Department",
                 "date": "2026-07-17T07:01:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump ‘pissed off’ by Netanyahu’s criticism of proposed F-35 sale to Turkiye: report",
-                "desc": "Israeli premier has sought White House meeting for weeks as tensions deepen over Iran diplomacy",
-                "image": "https://i.tribune.com.pk/media/images/trump-netanyahu-aa1781793397-0/trump-netanyahu-aa1781793397-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2618735/trump-pissed-off-by-netanyahus-criticism-of-proposed-f-35-sale-to-turkiye-report",
-                "source": "The Express Tribune",
-                "date": "2026-07-17T05:47:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian activist on fast for 20 days refuses to end hunger strike",
-                "desc": "Sonam Wangchuk has urged people to join the protest march to parliament on 20 July.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9233/live/d81e50b0-819d-11f1-a603-673178e2b07e.jpg",
-                "url": "https://www.bbc.com/news/articles/c5yrpn4zgx3o",
-                "source": "BBC",
-                "date": "2026-07-17T05:46:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian activist on fast for 20 days refuses to end hunger strike",
-                "desc": "Sonam Wangchuk has urged people to join the protest march to parliament on 20 July.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9233/live/d81e50b0-819d-11f1-a603-673178e2b07e.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c5yrpn4zgx3o",
-                "source": "BBC",
-                "date": "2026-07-17T05:46:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump's failure to let go of 2020 an 'ominous sign' ahead of upcoming midterm elections",
-                "desc": "Using a prime-time address to the nation to repeat long-debunked claims about the 2020 election defeat is a desperate and unusual move. Analysts say it's an \"ominous sign\" of how Donald Trump may handle the upcoming midterms.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/0a9a79c43ea10acf14b5161593306c0a?impolicy=wcms_watermark_news&cropH=503&cropW=894&xPos=51&yPos=34&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-17/donald-trump-national-address-ominous-sign-for-midterm-elections/106928662",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-17T05:46:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China landslide today: Seven pulled from rubble after landslide strikes Chongqing, south-west China",
-                "desc": "Seven people have been rescued after a devastating landslide struck southwest China’s Chongqing Municipality this morning.\nThe landslide occurred at around 9:00am on Friday in Pengshui Miao and Tujia Autonomous County, affecting an area along a section of the Wujiang River.\nLocal authorities confirmed the initial rescues on Friday afternoon. However, the exact number of people still missing remains unconfirmed.",
-                "image": "https://static.ffx.io/images/$zoom_1.766%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/2632fe77fee0d8d3fa27f6b56838a306106728083c093182e1b6c1bdeab9ebe6",
-                "url": "https://www.nine.com.au/world-news/china-landslide-chonngqing-20260717-p60gam.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-17T05:46:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. hits bridges, energy sites in Iran as air strike campaign expands",
-                "desc": "Strikes also collapse tower at key Iranian port on the Gulf of Oman as standoff over Strait of Hormuz deepens",
-                "image": "https://www.theglobeandmail.com/resizer/v2/GAKBIR6XUNAABN4GGT3M6UVOQE.JPG?auth=58931c9fc89fde79b8dbc93f2d82c64bba81017a2390c90d263296ab7991c907&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-us-targets-more-bridges-as-its-iran-campaign-expands/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-17T05:45:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "True friendship shown as dolphins guide stranded whale out of WA estuary",
-                "desc": "A juvenile southern right whale has been saved by a pod of dolphins after it was stranded in an estuary in WA's south for two weeks.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/ce9b4dd17c7fd255f936d80a004cb733?impolicy=wcms_watermark_news&cropH=1036&cropW=1842&xPos=105&yPos=59&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-17/whale-saved-by-dolphins-in-estuary/106927030",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-17T05:42:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What went right this week: the good news that matters",
-                "desc": "Heath wins for El Salvador and Cambodia, a step forward for the global ocean treaty, and new monkey species discovered, plus more good news",
-                "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/07/iStock-1371435413.jpg",
-                "url": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/",
-                "source": "Positive News",
-                "date": "2026-07-17T05:41:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s Xi says AI ‘should not be a solo performance by a single country’",
-                "desc": "The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-17T024338Z_1723766953_RC2EFMARKKD3_RTRMADP_3_CHINA-AI-1784257144.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/17/ai-xi",
-                "source": "Al Jazeera",
-                "date": "2026-07-17T05:39:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Another African country joins visa-free movement push, becoming the eighth to scrap visas for Africans",
-                "desc": "Chad has become the latest African country to embrace visa-free travel for fellow Africans after President Mahamat Idriss Deby Itno announced that the country will abolish entry visa requirements for all African nationals from January 1, 2027. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/YxLktkpTURBXy82YzA4OGRhZWI0MjQwMmI3MzY2MTQyNWViZDJjNDM0ZC5qcGeSlQMAEs0CgM0BaJMFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/lifestyle/another-african-country-joins-visa-free-movement-push-becoming-the-eighth-to-scrap/4qqc5cq",
-                "source": "Business Insider Africa",
-                "date": "2026-07-17T05:39:22Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-18T01:07:02.441461Z"
+    "lastGlobalSync": "2026-07-18T04:32:42.072695Z"
 }
