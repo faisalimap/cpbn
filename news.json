@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Bond Investors Push Back As AI Debt Heads Toward $570 Billion",
+                "desc": "AI-related debt could reach $570 billion in 2026 as bond demand softens and more financing shifts into private credit and off-balance-sheet vehicles, shifting more risks.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5a213b288f204535aec38a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/robertszczerba/2026/07/17/bond-investors-push-back-as-ai-debt-heads-toward-570-billion/",
+                "source": "Forbes",
+                "date": "2026-07-17T13:05:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "London Overground’s Suffragette line to get four new railway bridges",
+                "desc": "Several 130 year old railway bridges supporting the London Overground are to be replaced this summer, Network Rail has announced.",
+                "image": "https://www.ianvisits.co.uk/wp-content/uploads/sites/2/social-cards/91191/facebook.jpg",
+                "url": "https://www.ianvisits.co.uk/articles/london-overgrounds-suffragette-line-to-get-four-new-railway-bridges-91191/",
+                "source": "ianVisits",
+                "date": "2026-07-17T13:02:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NGX ends in red as BUA Cement tumbles",
+                "desc": "The Nigerian equities market on July 16 ended in red for the week with sharp selloff in heavyweight industrial stocks, led by BUA Cement",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/02/Nigerian-Exchange-Limited-NGX.-Photo-FACEBOOK-ngxgroup.webp",
+                "url": "https://guardian.ng/business-services/stock-market/ngx-ends-in-red-as-bua-cement-tumbles/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-17T13:01:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Daily Post Nigeria",
+                "desc": "Popular television host, Rufai Oseni, on Friday became emotional while lamenting the state of Nigeria's economy. During the Arise TV Morning",
+                "image": "https://dailypost.ng/wp-content/uploads/2020/10/cropped-Daily-Post-Icon-512x512px-Customsize3-32x32.jpg",
+                "url": "https://dailypost.ng/2026/07/17/moment-arise-tvs-oseni-rufai-broke-down-wept-over-nigerias-economy-video/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-07-17T13:01:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore Airlines 1Q27 London Gatwick Service Reductions",
+                "desc": "Published at 0600PDT / 1300GMT 17JUL26 Singapore Airlines in recent schedule update further revised planned Singapore – London Gatwick service during the first quarter of 2027. Planned overall increase from 7 to 14 weekly from 25Oct26 remains unchanged, with latest changes focuses on the second",
+                "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
+                "url": "https://www.aeroroutes.com/eng/260717-sq1q27lgw",
+                "source": "AeroRoutes",
+                "date": "2026-07-17T13:00:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI & Entrepreneurship in South Korea’s Silicon Valley · Babson Thought & Action",
+                "desc": "John Yun of Woosong University, in Daejeon, South Korea, incorporates Babson’s ET&A in incorporating AI in entrepreneurship education.",
+                "image": "https://entrepreneurship.babson.edu/wp-content/uploads/2026/07/john-yun-woosong-1200.jpg",
+                "url": "https://entrepreneurship.babson.edu/babson-collaborative-john-yun/",
+                "source": "Babson College",
+                "date": "2026-07-17T13:00:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over N400m in Prizes: What to know sbout Guinness’ new consumer promotion in Nigeria",
+                "desc": "Stay connected via Google News Consumers are often told they could win prizes from promotional campaigns. What usually…",
+                "image": "https://www.thecable.ng/wp-content/uploads/2026/07/Screenshot_20260717_124553-2026-07-17-870.jpg",
+                "url": "https://www.thecable.ng/over-n400m-in-prizes-what-to-know-sbout-guinness-new-consumer-promotion-in-nigeria/",
+                "source": "TheCable",
+                "date": "2026-07-17T12:57:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South East Water warns over survival as funds dry up",
+                "desc": "Supplier to over 2.4m customers says it doesn’t have enough money to last beyond July 2027",
+                "image": "https://i.guim.co.uk/img/media/f45c594ffa9a23d2fbb58ce51349c58033d7998f/51_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1c3b6d4ae2eeed226e3875730959153",
+                "url": "https://www.theguardian.com/business/2026/jul/17/south-east-water-warns-over-survival-as-funds-dry-up",
+                "source": "The Guardian",
+                "date": "2026-07-17T12:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "COLA platform apology and service restoration announcement",
+                "desc": "Dear COLA users: We sincerely apologize for the losses and troubles caused to all users by the long-term shutdown of the platform! On October 25, 2024,",
+                "image": "https://dailypost.ng/wp-content/uploads/2026/07/1002712718.jpg",
+                "url": "https://dailypost.ng/2026/07/17/cola-platform-apology-and-service-restoration-announcement/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-07-17T12:55:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Spiciest Modern Decklists from Pro Tour Magic: The Gathering®",
+                "desc": "From Cat combos to tricky artifact loops, there's plenty of spice to be found in Modern. See what decks broke from the norm at the Pro Tour!",
+                "image": "https://images.ctfassets.net/ryplwhabvmmk/6hdCR1s7GeeL0XWkPEB88p/e71c9b11c404e7714a2b409ba2300900/MSH-Bruce-Banner-960x540.jpg",
+                "url": "https://magic.gg/news/the-spiciest-modern-decklists-from-pro-tour-marvel-super-heroes",
+                "source": "magic.gg",
+                "date": "2026-07-17T12:55:05Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout",
                 "desc": "If the S&P 500 is to make a new record, it may require the \"Magnificent Seven\" to get back into gear.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108225750-1763069160018-gettyimages-2245970413-CBOE_MARKETS.jpeg?v=1763069191&w=1920&h=1080",
@@ -542,99 +632,99 @@
                 "source": "The Star",
                 "date": "2026-07-17T05:27:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "More AI hype or better AI governance?",
-                "desc": "The Nation Newspaper More AI hype or better AI governance?",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/06/17144414/Artificial-Intelligence.png",
-                "url": "https://thenationonlineng.net/more-ai-hype-or-better-ai-governance/",
-                "source": "The Nation Newspaper",
-                "date": "2026-07-17T04:17:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold holds modest recovery near $4,000; Fed hike bets cap upside",
-                "desc": "Gold (XAU/USD) sticks to its modest recovery gains around the $4,000 psychological mark heading into the European session on Friday, though any meaningful appreciation seems elusive.",
-                "image": "https://editorial.fxsstatic.com/images/i/gold-march-04_Medium.jpg",
-                "url": "https://www.fxstreet.com/news/gold-recovers-from-monthly-low-hawkish-fed-outlook-and-firm-usd-to-limit-gains-202607170415",
-                "source": "FXStreet",
-                "date": "2026-07-17T04:15:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks Slide as Chip Selloff Deepens, Oil Climbs: Markets Wrap",
-                "desc": "(Bloomberg) -- Asian stocks fell alongside US equity-index futures as investors rotated out of technology shares, deepening a selloff in chipmakers after the sector’s blistering rally earlier this year. Oil climbed.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1765874455",
-                "url": "https://www.swissinfo.ch/eng/stocks-slide-as-chip-selloff-deepens%2C-oil-climbs%3A-markets-wrap/91759205",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-17T04:10:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sensex up 600 pts, Nifty tops 24,200; IT buying, Jio Financial earnings among key factors lifting indices today",
-                "desc": "Indian benchmark indices Sensex and Nifty jumped on Friday, defying weak global cues, as strong buying in IT stocks, upbeat Jio Financial earnings, optimism ahead of Reliance Industries' results, value buying and a technical breakout above the 24,200 level lifted sentiment.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260704033430_market_up_higher.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/sensex-jumps-500-points-nifty-up-over-0-5-it-stocks-reliance-among-key-factors-lifting-indian-markets-today-13976384.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-17T04:08:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paul Sigaloff Joins Quantcast as Vice President to Lead APAC Expansion",
-                "desc": "Quantcast has appointed former Yahoo and oOh!media executive Paul Sigaloff as Vice President of APAC to lead regional growth and the rollout of its Q+ advertising platform.",
-                "image": "https://www.brandinginasia.com/wp-content/uploads/2026/07/Paul-Sigaloff-.webp",
-                "url": "https://www.brandinginasia.com/paul-sigaloff-joins-quantcast-as-vice-president-to-lead-apac-expansion/",
-                "source": "Branding in Asia",
-                "date": "2026-07-17T04:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pesa Bring Football Fans Together As \"Game Iko On\" Campaign Culminates In Semi",
-                "desc": "Visa and M-Pesa brought together customers, partners and football enthusiasts for the \"Game Iko On\" Semi-Final Watch Party, celebrating their collaboration to",
-                "image": "https://newstrends.co.ke/wp-content/uploads/2026/07/Mpesa-and-Visa-1024x683.jpeg",
-                "url": "https://newstrends.co.ke/visa-and-m-pesa-bring-football-fans-together-as-game-iko-on-campaign-culminates-in-semi-final-watch-party/",
-                "source": "newstrends.co.ke",
-                "date": "2026-07-17T04:07:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold, silver prices today, 17 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-                "desc": "Gold and silver prices today, 17 July: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-                "image": "https://www.livemint.com/lm-img/img/2026/07/17/1600x900/logo/gold_1784257722856_1784257723027_ff6d3a27-99a5-4ae1-a6c8-5f68ae97178f.jpg",
-                "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-17-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11784257499946.html",
-                "source": "livemint.com",
-                "date": "2026-07-17T04:05:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jio Financial Services shares rally 6% after stellar Q1 results. Buy, sell or hold the stock?",
-                "desc": "Jio Financial Services shares surged 6% after the company posted a strong Q1FY27 performance. Consolidated net profit jumped 155% year-on-year to Rs 830 crore, while revenue from operations soared 227% to Rs 2,004 crore. Interest income, fee and commission income, and profit before tax also recorded robust growth, reflecting strong business momentum across its lending and financial services businesses.",
-                "image": "https://img.etimg.com/thumb/msid-132452108,width-1200,height-630,imgsize-31878,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-services-shares-rally-6-after-stellar-q1-results-buy-sell-or-hold-the-stock/articleshow/132452111.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-17T04:03:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia’s economy expands faster than expected at 5.8% in 2Q, flash estimates show",
-                "desc": "Malaysia’s economy accelerated faster than expected in the second quarter as manufacturing activities picked up and mining output rebounded, official first estimates showed.",
-                "image": "https://assets.theedgemarkets.com/20260319_PEO_RAYA_SHOPPING_HUMAN_INTEREST_26_LYY_20260717120759_theedgemalaysia.jpg",
-                "url": "https://theedgemalaysia.com/node/811077",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-17T04:02:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vietnam Tourism Boom Goes Global in 2026 as China’s 164% Travel Surge Joins India, South Korea, Russia and Southeast Asia’s Explosive Growth Wave, Driving Unprecedented International Visitor Demand an",
-                "desc": "Vietnam Tourism Revolution 2026 accelerates as China, India, South Korea, Russia and global markets drive record arrivals through visas and new flights",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/vietnam-16.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/wokh5tde18m2/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-17T04:01:52Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Throwback 3D Platformer Teeto Is Out Now On PC & Consoles!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Throwback-3D-Platformer-Teeto-Is-Out-Now-On-PC-Consoles",
+                "source": "Games Press",
+                "date": "2026-07-17T13:06:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Claims about GTA 6 pre-orders are incorrect and \"absurd\", analyst firm says, but it's still had the \"strongest pre-order campaign ever recorded\"",
+                "desc": "Estimates suggest GTA 6 made $260 million in pre-orders in its first week alone.",
+                "image": "https://assetsio.gnwcdn.com/gta-boxed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/gta-6-pre-order-numbers-record",
+                "source": "Eurogamer.net",
+                "date": "2026-07-17T13:06:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What IT leaders need to know about future-proofing with Dell Pro laptops",
+                "desc": "Choosing the right laptops in the right package can set your business up for success now and in the future",
+                "image": "https://cdn.mos.cms.futurecdn.net/bWcVqnqXJFJ9HhAVKFAq8d-1920-80.png",
+                "url": "https://www.itpro.com/hardware/laptops/what-it-leaders-need-to-know-about-future-proofing-with-dell-pro-laptops",
+                "source": "IT Pro",
+                "date": "2026-07-17T13:05:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vital Signals’ New Ring Brings Blood Pressure Monitoring to Your Finger",
+                "desc": "The startup believes its $399 wearable could revolutionize the lives of people with hypertension.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/vital-signals-1200x675.jpg",
+                "url": "https://gizmodo.com/vital-signals-new-ring-brings-blood-pressure-monitoring-to-your-finger-2000786996",
+                "source": "Gizmodo",
+                "date": "2026-07-17T13:05:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zenless Zone Zero Celebrates Its 2nd Anniversary: All-New Lumiflux Attribute Debuts, First-Generation Void Hunter Remielle Dan Makes a Dazzling Entrance as an S-Rank Agent",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/171204-51e9b713/EN.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=dd78b1f5f30624525dd42b147b5b910f74f62e2cbd2e6aa1f5d2921ca55a6dc9",
+                "url": "https://www.gamespress.com/en-US/Zenless-Zone-Zero-Celebrates-Its-2nd-Anniversary-All-New-Lumiflux-Attr",
+                "source": "Games Press",
+                "date": "2026-07-17T13:02:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zenless Zone Zero Celebrates Its 2nd Anniversary: All-New Lumiflux Attribute Debuts, First-Generation Void Hunter Remielle Dan Makes a Dazzling Entrance as an S-Rank Agent",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/171204-51e9b713/EN.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=dd78b1f5f30624525dd42b147b5b910f74f62e2cbd2e6aa1f5d2921ca55a6dc9",
+                "url": "https://www.gamespress.com/Zenless-Zone-Zero-Celebrates-Its-2nd-Anniversary-All-New-Lumiflux-Attr",
+                "source": "Games Press",
+                "date": "2026-07-17T13:01:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Arknights 6.5th Anniversary Special Program: Witness the Splendor of \"First of A Thousand Autumns\"!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/150831-f0785a51/00-Available_Now.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=54b2b0703fbf7ad25d3d5ce948abc99233445daa2275f080b8aefef73d37ea2c",
+                "url": "https://www.gamespress.com/en-US/Arknights-65th-Anniversary-Special-Program-Witness-the-Splendor-of-Fir",
+                "source": "Games Press",
+                "date": "2026-07-17T13:01:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mistfall Hunter Launches July 29 After a Breakout Open Beta - Standard Edition $24.99, Deluxe Edition $39.99",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/151858-69b67f0c/Mistfall_Hunter_EN_KV.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=fa23eb4807d0742ca5e54a2d70cbe12a9c6a8d8a72dce0e8107ba4da8d22e904",
+                "url": "https://www.gamespress.com/en-US/Mistfall-Hunter-Launches-July-29-After-a-Breakout-Open-Beta-Standard-E",
+                "source": "Games Press",
+                "date": "2026-07-17T13:01:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cathedral: Crow’s Curse unveils new trailer at Convergence Showcase",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/07/031507-8c6a93e2/crows-curse.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=ca54c25adcbe359c54954bd8fda15a61295c7d4a943fdeac5d80456ef9cb7471",
+                "url": "https://www.gamespress.com/en-GB/Cathedral-Crows-Curse-unveils-new-trailer-at-Convergence-Showcase",
+                "source": "Games Press",
+                "date": "2026-07-17T13:01:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The TAG Heuer Carrera Chronograph Glassbox Sand, A Softer Take on the Racing Chronograph",
+                "desc": "The softer colours of the Carrera Chronograph Glassbox Sand transform the mood, less motorsport-focused, more effortlessly elegant.",
+                "image": "https://monochrome-watches.com/app/uploads/2026/07/TAG-Heuer-Carrera-Chronograph-Glassbox-Sand-Coloured-Dial-Limited-Edition-review-8.jpg",
+                "url": "https://monochrome-watches.com/tag-heuer-carrera-chronograph-glassbox-sand-limited-europe-cbs221h-fc8366-review-price/",
+                "source": "Monochrome Watches",
+                "date": "2026-07-17T13:00:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "A meteor shower named for a dragon once produced several thousand shooting stars an hour in 1946 — and its parent comet is nearing the sun again in 2026, though nowhere near as close to Earth as it's",
                 "desc": "On the night of 9 October 1946, observers across parts of Europe and North America watched the sky above the constellation Draco erupt. The Draconid meteor",
@@ -1174,99 +1264,99 @@
                 "source": "nylon.com.sg",
                 "date": "2026-07-17T05:25:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Precision interface chemistry pushes perovskite solar cells beyond 26% efficiency",
-                "desc": "An international research collaboration has developed a new molecular strategy for controlling one of the most critical interfaces in perovskite solar cells. The resulting solar cells reached a po ...",
-                "image": "https://img.chemie.de/Portal/News/6a58c55768d30_IEUKE10g7z.jpg?tr=w-3807,h-2855,cm-extract,x-225,y-317:n-xzoom",
-                "url": "https://www.chemeurope.com/en/news/1189290/precision-interface-chemistry-pushes-perovskite-solar-cells-beyond-26-efficiency.html",
-                "source": "chemeurope.com",
-                "date": "2026-07-17T04:18:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fresh Produce | RideWrap Wheel Protection",
-                "desc": "RideWrap offers its Lotus 10 film cut specifically to protect your fancy carbon wheels. How hard is it to install, and is it worth it?",
-                "image": "https://d36myxw5t262l6.cloudfront.net/wp-content/uploads/2026/07/15142105/FlowMTB-3296-RideWrap.jpg",
-                "url": "https://flowmountainbike.com/fresh-produce/ridewrap-wheel-protection/",
-                "source": "Flow Mountain Bike",
-                "date": "2026-07-17T04:16:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Infinix unveils HOT 70 Pro 5G with AI features, military-grade durability",
-                "desc": "Infinix has expanded its HOT Series lineup with the introduction of the HOT 70 Pro 5G, a smartphone that combines AI-powered features, a customizable design,",
-                "image": "https://walastech.com/wp-content/uploads/2026/07/infinix-hot-70-pro-philippines-2.jpg",
-                "url": "https://walastech.com/news/infinix-unveils-hot-70-pro-5g-with-ai-features-military-grade-durability/",
-                "source": "WalasTech",
-                "date": "2026-07-17T04:14:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Infinix unveils HOT 70 Pro 5G smartphone",
-                "desc": "Infinix unveiled the HOT 70 Pro 5G, expanding its HOT 70 series with a step-up device built for young users following the launch of the standard HOT 70 model.",
-                "image": "https://vir.com.vn/stores/news_dataimages/2026/072026/17/11/in_social/infinix-unveils-hot-70-pro-5g-smartphone-20260717110400.jpg?randTime=1784281348",
-                "url": "https://vir.com.vn/infinix-unveils-hot-70-pro-5g-smartphone-156914.html",
-                "source": "Vietnam Investment Review - VIR",
-                "date": "2026-07-17T04:13:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Nintendo patent describes a universal dock that works with both the Switch and Switch 2",
-                "desc": "The patent was filed six months before Switch 2 launched, though there is no indication Nintendo is currently preparing it for production.",
-                "image": "https://static.tweaktown.com/news/1/1/112667_1_nintendo-patent-describes-universal-dock-that-works-with-both-the-switch-and-2_full.png",
-                "url": "https://www.tweaktown.com/news/112667/a-nintendo-patent-describes-a-universal-dock-that-works-with-both-the-switch-and-switch-2/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-17T04:09:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Silver Palace Showcases at Global Expos, Bringing Hands-On Experiences to Players Worldwide",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/170508-197dc304/JX03.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=19ada5c6b8f2c7a0fd15821825ce499ac3fad8fd3e0c0dedfb80db36558f4e25",
-                "url": "https://www.gamespress.com/zh-CN/Silver-Palace-Showcases-at-Global-Expos-Bringing-Hands-On-Experiences-",
-                "source": "Games Press",
-                "date": "2026-07-17T04:06:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Silver Palace Showcases at Global Expos, Bringing Hands-On Experiences to Players Worldwide",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/170508-197dc304/JX03.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=19ada5c6b8f2c7a0fd15821825ce499ac3fad8fd3e0c0dedfb80db36558f4e25",
-                "url": "https://www.gamespress.com/en-US/Silver-Palace-Showcases-at-Global-Expos-Bringing-Hands-On-Experiences-",
-                "source": "Games Press",
-                "date": "2026-07-17T04:06:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Leaked Huawei Mate XT 2 patent hints at a new design and folding mechanism",
-                "desc": "It is rumored to come with a Kirin 9050 Pro chipset. Back in April, a rumor claimed that Huawei would unveil the Mate XT2 in October. Now, a newly surfaced...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/huawei-mate-xt2-patent-leak/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/leaked_huawei_mate_xt_2_patent_hints_at_a_new_design_and_folding_mechanism-news-73762.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-17T04:01:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strands NYT Hints, Spangram, and Answer for Today, July 17, 2026",
-                "desc": "If you’re looking for hints and answers for Friday, July 17, 2026 with the theme “Categorically speaking,” read on.",
-                "image": "https://lifehacker.com/imagery/articles/01KXKE098GPB04JS3ZVQHMA2KM/hero-image.fill.size_1200x675.jpg",
-                "url": "https://lifehacker.com/entertainment/strands-nyt-hint-today-categorically-speaking-july-17-2026",
-                "source": "Lifehacker",
-                "date": "2026-07-17T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hurdle hints and answers for July 17, 2026",
-                "desc": "Hints and answers to today's Hurdle all in one place.",
-                "image": "https://helios-i.mashable.com/imagery/articles/060zmPkWFKZNgJD77YeTHOn/hero-image.fill.size_1200x675.v1784155264.jpg",
-                "url": "https://mashable.com/entertainment/hurdle-hints-answers-july-17-2026",
-                "source": "Mashable",
-                "date": "2026-07-17T04:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Iran War Live Updates: U.S. Hits Bridges and a Port in Southern Iran as Airstrikes Expand",
+                "desc": "The U.S. military’s Central Command said the latest round of attacks had “hit dozens of Iranian military targets” but made no mention of civilian infrastructure.",
+                "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17mideast-promo-placeholder-tjdy/17mideast-header-placeholder-tjcb-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+                "source": "The New York Times",
+                "date": "2026-07-17T13:06:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Who is D nexT': Iran billboard targets Trump after Graham's death",
+                "desc": "Middle East News: Visuals of a new billboard in Tehran's Vali-e-Asr Square have escalated Iran's public campaign of threats. The billboard features the name of recently.",
+                "image": "https://static.toiimg.com/thumb/msid-132462211,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/middle-east/who-is-d-next-iran-billboard-targets-trump-after-grahams-death/articleshow/132462084.cms",
+                "source": "The Times of India",
+                "date": "2026-07-17T13:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Only about 354 West African leopards remain. Their numbers are finally rising in one park, but scientists found a worrying gap",
+                "desc": "Animals & Pets News: In the far north of Benin, inside Pendjari National Park, a quiet story of resilience is unfolding. It’s not just about wildlife or data points—it’s a.",
+                "image": "https://static.toiimg.com/thumb/msid-132454886,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/etimes/animals/only-about-354-west-african-leopards-remain-their-numbers-are-finally-rising-in-one-park-but-scientists-found-a-worrying-gap/articleshow/132454858.cms",
+                "source": "The Times of India",
+                "date": "2026-07-17T13:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Latvia Sues Key Belarusians for the First Time",
+                "desc": "Currently, a criminal process has been initiated based on facts rather than against specific officials, and the investigation will be conducted by the Department of State Security Protection of the Prosecutor General's Office. This is the first case",
+                "image": "https://news.inbox.eu/w/img/7b/49/7b4977e0b1c8a019fe.webp",
+                "url": "https://news.inbox.eu/150inh0-latvia-sues-key-belarusians-for-the-first-time?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-07-17T13:05:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Codar Secures $1.5 Million Funding",
+                "desc": "Codar Tech Africa, one of Africa's fastest-growing edtech companies, has announced the successful close of a $1.5 million funding round",
+                "image": "https://techtrendske.co.ke/wp-content/uploads/2026/07/PHOTO-2026-07-17-11-43-42.jpg",
+                "url": "https://techtrendske.co.ke/2026/07/17/codar-tech-africa-secures-1-5-million-funding/",
+                "source": "TechTrendsKE",
+                "date": "2026-07-17T13:02:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ghana: President Mahama’s Reset Agenda revives University of Health and Allied Sciences (UHAS) mega-lab to drive regional growth",
+                "desc": "Ghana: President Mahama’s Reset Agenda revives University of Health and Allied Sciences (UHAS) mega-lab to drive regional growth",
+                "image": "https://www.zawya.com/favicon.ico",
+                "url": "https://www.zawya.com/en/press-release/africa-press-releases/ghana-president-mahamas-reset-agenda-revives-university-of-health-and-allied-sciences-uhas-mega-lab-to-drive-nh1au48a",
+                "source": "ZAWYA",
+                "date": "2026-07-17T13:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Experts predict massive growth for citizenship by investment over the next decade",
+                "desc": "The future of Citizenship by Investment (CBI) has become the subject of increasing debate in recent months as commentators question the industry's ability to",
+                "image": "https://egyptian-gazette.com/wp-content/uploads/2026/07/Experts-Predict-Massive-Growth-for-Citizenship-by-Investment-Over-the-Next-Decade.webp",
+                "url": "https://egyptian-gazette.com/business/experts-predict-massive-growth-for-citizenship-by-investment-over-the-next-decade/",
+                "source": "Egyptian Gazette",
+                "date": "2026-07-17T13:00:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'NonnaMaxxing': Tourists are paying to travel like grandmothers",
+                "desc": "Whether it's making pasta with an Italian nonna or sightseeing with a gran in Japan, Gen-Zers and millennials are increasingly seeking out granny-led travel experiences.",
+                "image": "https://ychef.files.bbci.co.uk/624x351/p0nyy376.jpg",
+                "url": "https://www.bbc.com/travel/article/20260714-nonnamaxxing-tourists-are-paying-to-travel-like-grandmothers",
+                "source": "BBC",
+                "date": "2026-07-17T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andy Burnham elected new Labour leader, to succeed Starmer as UK PM",
+                "desc": "Andy Burnham will become the United Kingdom's next prime minister after he was elected leader of the Labour Party, succeeding Keir Starmer...",
+                "image": "https://www.thecable.ng/wp-content/uploads/2026/07/IMG_1484-2026-07-17-102.jpeg",
+                "url": "https://www.thecable.ng/andy-burnham-elected-new-labour-leader-to-succeed-starmer-as-uk-pm/",
+                "source": "TheCable",
+                "date": "2026-07-17T12:57:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lithuanian mobile medical team returns from Venezuela earthquake mission",
+                "desc": "VILNIUS - A Lithuanian mobile emergency medical team returned home on Friday after a 12-day humanitarian mission in Venezuela following a devast...",
+                "image": "https://media.baltictimes.com/media/photos/167839_4852527096a34128d94979_big.jpg",
+                "url": "https://www.baltictimes.com/lithuanian_mobile_medical_team_returns_from_venezuela_earthquake_mission/",
+                "source": "The Baltic Times",
+                "date": "2026-07-17T12:56:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Andy Burnham confirmed as new Labour leader, U.K. PM-designate",
                 "desc": "Andy Burnham is confirmed as Labour leader and U.K. Prime Minister-designate, set to form a new government next week.",
@@ -1806,98 +1896,8 @@
                 "source": "Business Insider Africa",
                 "date": "2026-07-17T05:39:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US veterans to replace ‘illegal alien’ truckers: Why Trump's move will affect Indians",
-                "desc": "This comes nearly two weeks after a Pennsylvania State Police Trooper, Michael E. Pahira Jr, was hit and killed by a commercial vehicle on July 1. | World News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/17/550x309/Trump-Speech-38_1784259058948_1784259071845_253f1a9e-5834-4db9-944c-ed000705fb5b.jpg",
-                "url": "https://www.hindustantimes.com/world-news/us-veterans-to-replace-illegal-alien-truckers-why-trumps-move-will-affect-indians-101784257352909.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-17T04:17:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran launches fresh attacks after sixth day of US strikes",
-                "desc": "Iran said it launched fresh attacks on US facilities in the Gulf after a sixth consecutive night of ⁠US strikes on Iranian military facilities, as last month's truce descended into daily attacks and counterattacks.",
-                "image": "https://www.rte.ie/images/0024af29-1600.jpg",
-                "url": "https://www.rte.ie/news/2026/0717/1583774-middle-east/",
-                "source": "RTE.ie",
-                "date": "2026-07-17T04:15:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "60 US Senators back new bill proposing 100% tariffs on India, others for buying Russian oil",
-                "desc": "US Senators clarified earlier this week that the tariffs will target China, India, Slovakia, Hungary and Azerbaijan for purchasing Russian oil | India News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/17/550x309/The-bill-s-text-also-includes-an-exemption-for-Ame_1784261540134.jpg",
-                "url": "https://www.hindustantimes.com/india-news/60-us-senators-back-new-bill-proposing-100-tariffs-on-india-for-buying-russian-oil-101784261547349.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-17T04:12:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-                "desc": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d581/live/e4364610-818d-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo",
-                "source": "BBC",
-                "date": "2026-07-17T04:08:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia Emerges as Southeast Asia’s Ultimate Food Tourism Destination With Penang, Malacca, Negeri Sembilan, Kuala Lumpur and Beyond Showcasing Legendary Hawker Culture, Coastal Seafood, Traditional",
-                "desc": "Malaysia rises as Southeast Asia’s top Food Tourism destination with Penang, Malacca, Negeri Sembilan and Kuala Lumpur offering seafood, street food and farm experiences.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Food-Tourism.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/l34l9zfpcatk/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-17T04:01:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
-                "desc": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”",
-                "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17int-russia-election-repression01-photo-pqwb/17int-russia-election-repression01-photo-pqwb-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html",
-                "source": "The New York Times",
-                "date": "2026-07-17T04:01:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Andy Burnham Becomes Britain’s New Prime Minister",
-                "desc": "Andy Burnham is set to officially become the next prime minister on Monday, but a number of things have to happen before then. Here’s how everything is expected to play out.",
-                "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17uk-burnham-explainer-qmlv/17uk-burnham-explainer-qmlv-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html",
-                "source": "The New York Times",
-                "date": "2026-07-17T04:01:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
-                "desc": "Conversations with economists, and people around him, shed light on how Andy Burnham might tackle entrenched challenges.",
-                "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17Biz-UK-Econ-jlfv/17Biz-UK-Econ-jlfv-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html",
-                "source": "The New York Times",
-                "date": "2026-07-17T04:00:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In casually threatening US military might against Iran, Trump may have got his own forever war",
-                "desc": "It is the ultimate sanction. But somehow for President Trump – who once sought a Nobel Peace Prize for ending wars – military force has become a casual measure, a kind of background effect used to cajole Iran into diplomacy.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285445585.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/17/world/us-military-trump-forever-war-intl",
-                "source": "CNN",
-                "date": "2026-07-17T04:00:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Guangdong strengthens links with ASEAN",
-                "desc": "Guangdong province is accelerating its development of a modern industrial system underpinned by advanced manufacturing to serve as a base, platform, corridor and hub to facilitate domestic and international dual economic circulation.",
-                "image": "https://nfassetoss-eo.southcn.com/__asset/3e8d3ec106/588ff04f80.jpg",
-                "url": "https://www.newsgd.com/node_5c070fdd03/f7735b188e.shtml",
-                "source": "Guangdong News",
-                "date": "2026-07-17T04:00:07Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-17T23:36:57.325617Z"
+    "lastGlobalSync": "2026-07-18T01:07:02.441461Z"
 }
