@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Waymo says San Francisco service has resumed after one-hour pause",
+                "desc": "This isn’t the first time power outages have caused issues for Waymo.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+                "source": "TechCrunch",
+                "date": "2026-07-18T19:30:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cattle farmers plant trees for sustainable aviation fuel",
+                "desc": "A north Queensland farming family is trialling planting biofuel-producing trees alongside their cattle.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/99db736ffe69aa509fdfaa4a236921be?impolicy=wcms_watermark_news&cropH=2385&cropW=4240&xPos=0&yPos=224&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-19/pongamia-tree-aviation-fuel/106893544",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-18T19:29:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five people taken to hospital after crash near McDonald's",
+                "desc": "Police say there is \"no risk\" to the public, after a crash on Mostyn Champneys Retail Park.",
+                "image": "https://s.yimg.com/lo/mysterio/api/cbae8d0ce3e6591f2733d082009016e3bfdbfc967a91016ec229dcdb2fc04d3f/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba",
+                "url": "https://nz.news.yahoo.com/five-people-taken-hospital-crash-192119989.html",
+                "source": "Yahoo News New Zealand",
+                "date": "2026-07-18T19:21:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crash near Llandudno McDonald's sees five people taken to hospital",
+                "desc": "Police say there is \"no risk\" to the public, after a crash on Mostyn Champneys Retail Park.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8070/live/c79ce1d0-82cd-11f1-adf9-c14531781464.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/ce8515085q6o",
+                "source": "BBC",
+                "date": "2026-07-18T19:21:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4DMT Announces Positive 2-Year Data from PRISM Phase 2b Clinical Trial in a Broad Wet AMD Population",
+                "desc": "After a single intravitreal dose of 4D-150, visual acuity and anatomic control was maintained with consistent and durable treatment burden reduction through 2 years 4D-150 continues to be well tolerated with no new safety or intraocular inflammation findings EMERYVILLE, Calif., July 18, 2026 (GLOBE NEWSWIRE) -- 4D Molecular Therapeutics (Nasdaq: FDMT, 4DMT or the Company), a leading late-stage biotechnology company advancing durable and disease-targeted therapeutics with potential to transform treatment paradigms and provide unprecedented benefits to patients, today announced positive 2-year data from the PRISM Phase 2b clinical trial evaluating 4D-150 in a broad wet age-related macular degeneration (wet AMD) population. The data were presented by Carl Awh, M.D., FASRS, Tennessee Retina, in an oral presentation titled '2-Year Follow Up: PRISM Phase 2b Clinical Trial Evaluating Investigational 4D-150, an Intravitreal Gene Therapy, in a Broad Neovascular AMD Population” at the 44th Annual Scientific Meeting of the American Society of Retina Specialists (ASRS).",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/19/1142198.png",
+                "url": "https://www.manilatimes.net/2026/07/19/tmt-newswire/globenewswire/4dmt-announces-positive-2-year-data-from-prism-phase-2b-clinical-trial-in-a-broad-wet-amd-population/2387031",
+                "source": "The Manila Times",
+                "date": "2026-07-18T19:21:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
+                "desc": "That's great news for investors.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879205%2Fjamie-dimon_jpmorgan-chase_jpm_chairman-ceo_imagesource_jpmorgan-chase-co.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/18/jpm-ceo-jamie-dimon-ai-spending-reach-trillion/",
+                "source": "The Motley Fool",
+                "date": "2026-07-18T19:14:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Someone Paid Almost $1 Million For Jensen Huang’s Leather Jacket, Should Be Executed by Swirlie",
+                "desc": "No, I don’t mean they should literally die.",
+                "image": "https://gizmodo.com/app/uploads/2026/04/Nvidia-Jensen-Huang-Project-Digits-and-Laptop-1200x675.jpg",
+                "url": "https://gizmodo.com/someone-paid-almost-1-million-for-jensen-huangs-leather-jacket-and-should-be-executed-by-swirlie-2000787434",
+                "source": "Gizmodo",
+                "date": "2026-07-18T19:03:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Should we delay our retirement to help pay our daughter’s uni fees?",
+                "desc": "Of the various levers we can pull to impact long term financial security, working longer typically has the largest impact.",
+                "image": "https://static.ffx.io/images/$zoom_0.7852%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_97/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/63bdee9f4a85a6ab79437894dc4daeec12ddecbd",
+                "url": "https://www.theage.com.au/money/super-and-retirement/should-we-delay-our-retirement-to-help-pay-our-daughter-s-uni-fees-20260717-p60g4a.html",
+                "source": "The Age",
+                "date": "2026-07-18T19:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forget the $1 million myth. You need a new magic retirement number",
+                "desc": "Putting essential questions about things like the roof over your head or how you’ll pay for your healthcare in the “too hard basket” is not a solution.",
+                "image": "https://static.ffx.io/images/$zoom_0.6652%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_52%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/5c27c09c354f973ec8adf0cc981694b3df73ad9d",
+                "url": "https://www.theage.com.au/money/super-and-retirement/forget-the-1-million-myth-you-need-a-new-magic-retirement-number-20260717-p60g5c.html",
+                "source": "The Age",
+                "date": "2026-07-18T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pearl by P&D in Dandenong South serves kotthu plates, $19 curry lunches, Ceylon-style calamari and more",
+                "desc": "Pearl by P&D feels like a moody undersea clamshell-accented ballroom hidden in an industrial estate, reviews Sanka Amadoru for Good Food.",
+                "image": "https://static.ffx.io/images/$zoom_0.3366%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_50%2C$y_111/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/c467a1bc240c6648cb01dce719d44dd39625b7a8",
+                "url": "https://www.theage.com.au/goodfood/melbourne-eating-out/a-hidden-pearl-in-an-industrial-estate-serves-elevated-sri-lankan-classics-and-19-lunches-20260715-p60fmu.html",
+                "source": "The Age",
+                "date": "2026-07-18T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "World PR Day: In the age of AI, trust is still our greatest asset",
                 "desc": "Every World PR Day offers an opportunity to reflect on the changing nature of our profession. This year, that reflection",
                 "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Screenshot_20260718-1748002.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Citizen",
                 "date": "2026-07-18T07:33:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Axis Bank Q1 profit rises 23% to Rs 7,114 crore; NII grows 8%, asset quality improves",
-                "desc": "Axis Bank Q1 FY27 Results: Axis Bank reported a 23 percent year-on-year increase in June quarter net profit to Rs 7,114 crore, as net interest income grew 8 percent and asset quality improved. Gross NPA declined to 1.28 percent.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2023/12/Axis-Bank-1.jpg",
-                "url": "https://www.moneycontrol.com/news/business/earnings/axis-bank-q1-profit-rises-23-to-rs-7-114-crore-nii-grows-8-asset-quality-improves-13977302.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-18T06:30:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bajaj Adventure Bike To Rival Hero Xpulse 210, Launch Likely in Q1 2027",
-                "desc": "Upcoming Bajaj adventure bike will be at loggerheads with Hero Xpulse 210 as it debuts in the first quarter of 2027 in the Indian market",
-                "image": "https://bikeadvice.in/wp-content/uploads/2026/06/Upcoming-Bajaj-Adventure-Bike-2.jpg",
-                "url": "https://bikeadvice.in/bajaj-adventure-bike-to-rival-hero-xpulse-210-launch-likely-in-q1-2027/",
-                "source": "BikeAdvice",
-                "date": "2026-07-18T06:30:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fans 'more common' as farmers try to keep cows cool",
-                "desc": "They say \"excessive heat\" is proving a challenge as they try to reduce temperatures for cows.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31ad/live/e4d02120-8045-11f1-8a74-43d9da26a654.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cz6v6ql7q61o",
-                "source": "BBC",
-                "date": "2026-07-18T06:20:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Axis Bank Q1 Results: Net profit jumps 23% YoY to Rs 7,114 crore; NII up 8%",
-                "desc": "Axis Bank Q1 Results: Axis Bank reported a 22.5% YoY rise in Q1 FY27 standalone net profit to Rs 7,114 crore, while net interest income increased over 8% to Rs 14,646 crore, beating estimates. Asset quality remained stable, with the lender reporting strong balance sheet growth, robust deposit mobilisation and healthy loan expansion.",
-                "image": "https://img.etimg.com/thumb/msid-132474825,width-1200,height-630,imgsize-72396,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q1-results-net-profit-rises-23-yoy-to-rs-7114-crore-nii-up-8/articleshow/132474844.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-18T06:20:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ECB Official: Stablecoins May Erode Bank Deposits; Digital Euro as Long-Term Solution",
-                "desc": "Huoxing Finance reports that on July 18, Piero Cipollone, a member of the Executive Board of the European Central Bank (ECB), stated that as stablecoins gain po",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.6.0/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/ecb-official-stablecoins-may-erode-bank-deposits-digital-euro-as-long-term-solution",
-                "source": "KuCoin",
-                "date": "2026-07-18T06:18:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Auto Market Also Has \"Crazy Thursday\": 8 Press Conferences and 7 New Models on the Same Day",
-                "desc": "body { font-size: 16px; line-height: 34px; ...",
-                "image": "https://gascloud.gasgoo.com/production/2026/07/34a3e1c7-b410-471c-8fce-48a8babc988f-1784383694.png",
-                "url": "https://autonews.gasgoo.com/articles/news/auto-market-also-has-crazy-thursday-8-press-conferences-and-7-new-models-on-the-same-day-2078361541857484801",
-                "source": "Gasgoo",
-                "date": "2026-07-18T06:11:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "West Midlands households welcome heating oil protection plan",
-                "desc": "Households reliant on heating oil as a fuel source say better regulation of pricing is needed.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51ca/live/19bc1fb0-811d-11f1-96bf-6155b9f8d82a.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/clyry0ky6vno",
-                "source": "BBC",
-                "date": "2026-07-18T06:10:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "West Midlands households welcome heating oil protection plan",
-                "desc": "Households reliant on heating oil as a fuel source say better regulation of pricing is needed.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/51ca/live/19bc1fb0-811d-11f1-96bf-6155b9f8d82a.jpg",
-                "url": "https://www.bbc.com/news/articles/clyry0ky6vno",
-                "source": "BBC",
-                "date": "2026-07-18T06:10:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fiji Airways responds to concerns over in-flight food changes",
-                "desc": "Fiji Airways responds to concerns over in-flight food changes",
-                "image": "https://www.fijivillage.com/news_images/20260718180951_media_6a59bc66ef2e21_59964597.jpg",
-                "url": "https://www.fijivillage.com/news/fiji-airways-responds-to-concerns-over-in-flight-food-changes-c43413/",
-                "source": "Fijivillage",
-                "date": "2026-07-18T06:09:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fiji Airways responds to concerns over in-flight food changes",
-                "desc": "Fiji Airways responds to concerns over in-flight food changes",
-                "image": "https://www.fijivillage.com/news_images/20260718180951_media_6a59bc66ef2e21_59964597.jpg",
-                "url": "https://www.fijivillage.com/u/fiji-airways-responds-to-concerns-over-in-flight-food-changes-c43413/",
-                "source": "Fijivillage",
-                "date": "2026-07-18T06:09:39Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Millions More Galaxy Phones Just Joined Samsung's Free Upgrade List",
+                "desc": "Samsung's One UI 9 rollout just hit a major milestone, with the first stable build spotted and testing now underway on even more Galaxy phones.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5b55b06c38cb8fe5c52f54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/jaymcgregor/2026/07/18/samsung-one-ui-9-release-date-galaxy-s25-galaxy-s26-free-upgrade/",
+                "source": "Forbes",
+                "date": "2026-07-18T19:31:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Health news from the Illawarra in July: Research, medication fear",
+                "desc": "Health stories from the Illawarra Mercury in July 2026, including the ISLHD chief's new role, UOW research, and fears for MS medications allayed.",
+                "image": "https://www.illawarramercury.com.au/images/transform/v1/crop/frm/gzajA9j5yvatvSgWamdNVy/d3fdd909-bb31-4bc9-be92-4e7fe7f056b3.png/r0_30_1600_870_w1200_h630_fmax.jpg",
+                "url": "https://www.illawarramercury.com.au/story/9312651/health-news-from-the-illawarra-in-july-research-medication-fear/",
+                "source": "Illawarra Mercury",
+                "date": "2026-07-18T19:30:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Linux finally does HDR gaming right - here's the exact setup",
+                "desc": "Easy, but with a few asterisks.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/marvel-s-spider-man-2-hdr-5.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/linux-finally-does-hdr-gaming-right-heres-the-exact-setup/",
+                "source": "MakeUseOf",
+                "date": "2026-07-18T19:30:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rated positively by 78% of players, this city builder is now 60% off on Steam",
+                "desc": "Tropico 5 is a city builder and management game in which you’ll progress through different eras while completing various missions. However, you’ll need to build your legacy while acquiring enough resources to achieve your goals.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Tropico-5-Steam-deal.jpg",
+                "url": "https://www.notebookcheck.net/Rated-positively-by-78-of-players-this-city-builder-is-now-60-off-on-Steam.1346039.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-18T19:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung's Freestyle+ AI Smart Projector turns any wall into your next movie screen",
+                "desc": "Priced at $1,200, Samsung's new portable projector automatically corrects distortion, focuses in real time, and avoids obstacles blocking the picture.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/07/samsung-Freestyle-AI-Smart-Projector.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/home-theater/samsungs-freestyle-ai-smart-projector-turns-any-wall-into-your-next-movie-screen/",
+                "source": "Digital Trends",
+                "date": "2026-07-18T19:19:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
+                "desc": "NVIDIA DeepStream 9.1 adds 13 agentic skills, Multi-View 3D Tracking, and AutoMagicCalib for natural-language multi-camera vision AI",
+                "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-32-1024x731.png",
+                "url": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
+                "source": "MarkTechPost",
+                "date": "2026-07-18T19:16:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenSSL Fixes HollowByte Memory Exhaustion Bug",
+                "desc": "Okta disclosed HollowByte, an 11-byte OpenSSL flaw that lets remote attackers exhaust server memory and trigger denial-of-service attacks.",
+                "image": "https://securityaffairs.com/wp-content/uploads/2015/03/openssl.png",
+                "url": "https://securityaffairs.com/195588/hacking/openssl-fixes-hollowbyte-memory-exhaustion-bug.html",
+                "source": "Security Affairs",
+                "date": "2026-07-18T19:15:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cloud Gaming Is Moving Into the Mainstream - But Players Pay With Control",
+                "desc": "Cloud gaming moves mainstream as Xbox usage rises 45%, cutting hardware costs while giving tech giants more control over access and ownership",
+                "image": "https://www.techbusinessnews.com.au/wp-content/uploads/2026/07/cloud-gaming.jpg",
+                "url": "https://www.techbusinessnews.com.au/news/cloud-gaming-is-moving-into-the-mainstream-but-players-may-pay-with-control/",
+                "source": "techbusinessnews.com.au",
+                "date": "2026-07-18T19:15:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Freshen Up Your Gaming Setup With a New Samsung Monitor for As Little As $90 With These B&H Deals",
+                "desc": "Plenty of options are discounted, from budget-friendly screens to high-end, premium gaming monitors.",
+                "image": "https://www.cnet.com/a/img/resize/4c64a3258eb2e9d25f9ea659cce43dd5a49ffd36/hub/2026/07/18/3eee56b2-a868-4566-80bd-b146983bb91e/samsung-monitor.png?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/deals/samsung-monitor-deals-bh/",
+                "source": "CNET",
+                "date": "2026-07-18T19:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "All Android backup data counts towards Google Account storage",
+                "desc": "Google is making a policy change to Android backups that adjusts what counts towards your Google Account storage.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-Settings-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/18/android-backup-data-update/",
+                "source": "9to5Google",
+                "date": "2026-07-18T19:05:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "5 Useful Accessories Every iPad Mini Owner Needs",
                 "desc": "Your iPad Mini can become a more capable everyday device with accessories that suit its size and support how you actually use it.",
@@ -1174,99 +1264,99 @@
                 "source": "gHacks",
                 "date": "2026-07-18T07:14:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "2 images, probably genuine",
-                "desc": "Garmin CIRQA ImagesTwo leaked images of the Garmin CIRQA, a screenless budget fitness band, have appeared in the Garmin app. A close technical check finds no sign of fakery.",
-                "image": "https://the5krunner.com/wp-content/uploads/2026/07/garmin-cirqa-detail.png?wsr",
-                "url": "https://the5krunner.com/2026/07/18/2-garmin-cirqa-images-leaked/",
-                "source": "the5krunner",
-                "date": "2026-07-18T06:15:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Most of Flathub's AI-generated apps were abandoned within months",
-                "desc": "Some were deleted entirely.",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4838.png?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/most-of-flathubs-ai-generated-apps-were-abandoned-within-months-study-finds/",
-                "source": "XDA",
-                "date": "2026-07-18T06:13:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European Commission orders Google to open Android and Search under DMA",
-                "desc": "New Commission measures combine digital competition requirements with privacy and security safeguards.",
-                "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/04/EU-DMA.jpg",
-                "url": "https://dig.watch/updates/eu-commission-google-android-search-under-dma",
-                "source": "Digital Watch Observatory",
-                "date": "2026-07-18T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 release plan attracts buzz and barbs",
-                "desc": "The most anticipated game of all time finally has a release date, but Grand Theft Auto 6 is proving controversial – and this time it has nothing to do with its violence, writes Adam Maguire.",
-                "image": "https://www.rte.ie/images/0023b4aa-1600.jpg",
-                "url": "https://www.rte.ie/news/business/2026/0718/1582834-gta-gaming-ps5/",
-                "source": "RTE.ie",
-                "date": "2026-07-18T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Quick Answer: Steam vs Xbox vs PlayStation Family Tools at a Glance",
-                "desc": "A ten-year-old asking to buy a $70 game on a Saturday morning is not a hypothetical for most households running a PS5, an Xbox, or a gaming PC in 2026. It's a",
-                "image": "https://tech-insider.org/wp-content/uploads/2026/07/the-quick-answer-steam-vs-xbox-vs-playstation-family-tools-a.webp",
-                "url": "https://tech-insider.org/the-quick-answer-steam-vs-xbox-vs-playstation-family-tools-at-a-glance/",
-                "source": "tech-insider.org",
-                "date": "2026-07-18T05:55:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel 11 vs Galaxy S26 Ultra: Tech giant overhauls two rear cameras to challenge Samsung's authority; check battery, pricing and other details",
-                "desc": "With Samsung's Galaxy S26 Ultra already on shelves and Google's Pixel 11 Pro XL expected on 12 August, here's how the two flagships compare across display, cameras, performance, battery and price based on confirmed specifications and detailed leaks.",
-                "image": "https://images.etnownews.com/thumb/msid-155128394,updatedat-1784355876574,width-1280,height-720,resizemode-75/155128394.jpg",
-                "url": "https://www.etnownews.com/technology/google-pixel-11-vs-galaxy-s26-ultra-tech-giant-overhauls-two-rear-cameras-to-challenge-samsungs-authority-check-battery-pricing-and-other-details-article-155128394",
-                "source": "ET Now",
-                "date": "2026-07-18T05:49:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garmin CIRQA appears early in official app: First look at the screenless tracker",
-                "desc": "The Garmin CIRQA has surfaced for the first time—directly within the Garmin Connect app. The appearance offers an early look at Garmin’s potential Whoop competitor, giving a clearer idea of its design and concept.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/garmincirqua.jpg",
-                "url": "https://www.notebookcheck.net/Garmin-CIRQA-appears-early-in-official-app-First-look-at-the-screenless-tracker.1345941.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-18T05:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asus Pad unveiled in India with 12.2-inch OLED display, MediaTek Dimensity 8300; launches on August 6",
-                "desc": "Asus has unveiled the Asus Pad in India with a 12.2-inch OLED display, MediaTek Dimensity 8300 processor, Android 16, and a 9,000mAh battery ahead of its August 6 launch.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260718053022_Asus-Tab.png",
-                "url": "https://www.moneycontrol.com/technology/asus-pad-unveiled-in-india-with-12-2-inch-oled-display-mediatek-dimensity-8300-launches-on-august-6-article-13977265.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-18T05:30:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New: Rado True Round Open Heart Limited Edition",
-                "desc": "High-tech ceramic was first introduced by Rado in 1986. The process begins with zirconium oxide powders injected into precision moulds at pressures of around 1,000 bar, then sintered at 1,450°C. The result is a material rated at 1,250 on the Vickers hardness scale, finished using diamond tools.",
-                "image": "https://deployant.com/wp-content/uploads/2026/07/True_Round_Open_Heart_R27183012_PR_a-1200x800.jpg",
-                "url": "https://deployant.com/new-rado-true-round-open-heart-limited-edition/",
-                "source": "Deployant :",
-                "date": "2026-07-18T05:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Revealed: Ireland's must-see art exhibitions this summer",
-                "desc": "Des O'Sullivan beats the heat by escaping into the vibrant venues showcasing the coolest art displays of the season",
-                "image": "https://www.irishexaminer.com/cms_media/module_img/10309/5154737_12_org_infinity_2bloops.jpeg.jpg",
-                "url": "https://www.irishexaminer.com/property/homeandgardens/arid-41878874.html",
-                "source": "Irish Examiner",
-                "date": "2026-07-18T05:21:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Norway: Huge fire destroys 100 homes, sparks evacuations",
+                "desc": "Firefighters from other areas of Norway were drafted in to help tackle the blaze in the southern city of Drammen.",
+                "image": "https://static.dw.com/image/78019164_6.jpg",
+                "url": "https://www.dw.com/en/norway-huge-fire-destroys-100-homes-sparks-evacuations/a-78019089",
+                "source": "DW.com",
+                "date": "2026-07-18T19:30:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Goose flock behind crash of Siemens CEO's family in New York",
+                "desc": "For the Siemens CEO from Barcelona and his family of five, it was meant to be an unforgettable helicopter tour over New York. Instead, the flight ended in tragedy: the aircraft crashed into the Hudson River. Investigators now know why.",
+                "image": "https://images.euronews.com/articles/stories/09/84/27/30/1200x675_cmsv2_0286a36e-634a-5388-bfd7-d0cad4b14a6f-9842730.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/07/18/goose-flock-behind-crash-of-siemens-ceos-family-in-new-york",
+                "source": "Euronews.com",
+                "date": "2026-07-18T19:28:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two US service members 'killed in action' in Jordan, one missing",
+                "desc": "The US and Iran have intensified attacks since an interim ceasefire deal signed a month ago fell apart, raising the possibility of a return to all-out war.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/e6a0a5e485b4ee14a54a5842c1ce877e?impolicy=wcms_watermark_news&cropH=2557&cropW=4546&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-19/us-says-two-military-personnel-killed-in-jordan/106932528",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-18T19:27:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US warns citizens against travel to 23 countries, lists parts of Nigeria as no",
+                "desc": "United States Department of State has updated its global travel advisory, placing 23 countries under its highest warning level and urging...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2024/11/Countries-where-citizens-are-not-allowed-to-travel-freely-1.png",
+                "url": "https://businessday.ng/news/article/us-warns-citizens-against-travel-to-23-countries-lists-parts-of-nigeria-as-no-go-areas/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-18T19:27:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "West Africa's displacement crisis deepens as insecurity spreads toward the coast",
+                "desc": "A region emptying out under pressure Across West and Central Africa, the number of people forced from their homes keeps climbing, and the pace of that climb has become the story in itself .",
+                "image": "https://cdn.modernghana.com/images/content/7182026121832-g30n1r5edx-screenshot20260718-0829191.png",
+                "url": "https://www.modernghana.com/news/1511686/west-africas-displacement-crisis-deepens-as-insec.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-18T19:20:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two years after Supreme Court ruling, local government funds still trapped between the well and the bucket",
+                "desc": "A judgment without teeth Two years after Nigeria 39;s Supreme Court ordered that federal allocations be paid directly into local government accounts, the implementation of that landmark ruling remains stalled, even as more than N10 .",
+                "image": "https://cdn.modernghana.com/images/content/7182026121231-i4dp276gfa-screenshot20260718-0834181.png",
+                "url": "https://www.modernghana.com/news/1511683/two-years-after-supreme-court-ruling-local-govern.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-18T19:20:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shaquille O'Neal Helps 7-Foot-3 Aspiring Officer Achieve Lifelong Dream",
+                "desc": "The aspiring police officer recently became the tallest recruit in his police academy after passing his entrance examination on a second attempt, thanks to",
+                "image": "https://leadership.ng/wp-content/uploads/2026/07/Tall-police.jpg",
+                "url": "https://leadership.ng/shaquille-oneal-helps-7-foot-3-aspiring-officer-achieve-lifelong-dream/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-07-18T19:17:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US launches new airstrikes to ‘punish’ Iran after two troops killed",
+                "desc": "2 US service members were killed in Jordan on July 17, bringing to 16 the confirmed US military deaths since the conflict began on Feb 28. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/768f65f57cd9f119316d5d540c5284173103d2e0a9da85a706a8d82ea6a8a5ad",
+                "url": "https://www.straitstimes.com/world/middle-east/iran-threatens-unforgettable-lessons-as-two-us-troops-killed-in-strikes-on-jordan",
+                "source": "The Straits Times",
+                "date": "2026-07-18T19:13:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two US service members killed, another missing after Iranian attack in Jordan: CENTCOM",
+                "desc": "The deaths mark the first confirmed U.S. combat fatalities since the current conflict resumed as American forces press their military campaign against Iran.",
+                "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/07/ab2d0963ed08627ce0bd545a8631526b.jpg",
+                "url": "https://www.foxnews.com/live-news/iran-war-trump-israel-hormuz-oil-july-18-2026",
+                "source": "Fox News",
+                "date": "2026-07-18T19:11:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+                "desc": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms",
+                "image": "https://i.guim.co.uk/img/media/ae0f77f98b146bb5c9fd62de529f6cc494c91b5f/811_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77b07a0926468383ce58fa0629a4393e",
+                "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+                "source": "The Guardian",
+                "date": "2026-07-18T19:11:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Josh Kerr makes athletics history by shattering one-mile world record in London",
                 "desc": "Scot breaks Hicham El Guerrouj’s previous record of three minutes 43.13 seconds had stood for 27 years",
@@ -1806,98 +1896,8 @@
                 "source": "Mehr News Agency",
                 "date": "2026-07-18T07:41:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Visa Rules for Global Travellers as Tourism Booms: Could These Easier Entry Policies Now Make Your Next Holiday Simpler?",
-                "desc": "Morocco has expanded its visa and e-Visa framework, offering visa-free access for many travellers and streamlined online applications for eligible visitors.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/crc.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/6pihnsb62k4o/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-18T06:37:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US concludes seventh night of strikes against Iran",
-                "desc": "According to CENTCOM, US forces struck Iranian surveillance sites, military logistics infrastructure, underground weapons storage, and naval capabilities using fighter jets, drones, and warships.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730331",
-                "url": "https://www.jpost.com/middle-east/iran-news/article-902845",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-18T06:36:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rabat Aligns with Tangier, Ouarzazate and Errachidia in Record Surging Hotel Stays: Is Morocco’s New Travel Strategy Transforming Visitor Trends?",
-                "desc": "Morocco's tourism growth is expanding beyond Marrakech and Casablanca as Rabat, Tangier, Ouarzazate and Errachidia attract more premium travellers.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/abl.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/m4fr73oxr6jb/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-18T06:33:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Decade After the Arbitral Award: Defending the West Philippine Sea",
-                "desc": "Ten years after the South China Sea Arbitral Award, examine China's actions, the Philippines' response, and the future of regional maritime security.",
-                "image": "https://www.orfonline.org/public/uploads/seo/20260718115857.jpg",
-                "url": "https://www.orfonline.org/expert-speak/a-decade-after-the-arbitral-award-defending-the-west-philippine-sea",
-                "source": "orfonline.org",
-                "date": "2026-07-18T06:33:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The male midlife crisis is laughable, until it’s no laughing matter",
-                "desc": "Who cares if we don’t act our age? I, for one, intend to grow old disgracefully. It may just keep me alive.",
-                "image": "https://static.ffx.io/images/$zoom_0.2028%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/1fa702e6675bad95f63a4e451d9cfeafea9c299e",
-                "url": "https://www.theage.com.au/national/the-male-midlife-crisis-is-laughable-until-it-s-no-laughing-matter-20260514-p5zx01.html",
-                "source": "The Age",
-                "date": "2026-07-18T06:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DND to sustain nonstop deployment of assets in West Philippine Sea",
-                "desc": "The Department of National Defense (DND) on Saturday, July 18, said it will sustain the continuous deployment of military assets in the West Philippine Sea...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/18/117088.webp",
-                "url": "https://mb.com.ph/2026/07/18/dnd-to-sustain-nonstop-deployment-of-assets-in-west-philippine-sea",
-                "source": "Manila Bulletin",
-                "date": "2026-07-18T06:23:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Participants at AMECEA Plenary Side Workshop Urge the Church to Amplify Call for Climate Justice",
-                "desc": "Participants at a workshop organised ahead of the 21st Plenary Assembly of the Association of Member Episcopal Conferences in Eastern Africa (AMECEA) are urging the Church to speak out more broadly on the issue of climate justice.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-18t090959_1784355012.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/23023/participants-at-amecea-plenary-side-workshop-urge-the-church-to-amplify-call-for-climate-justice",
-                "source": "ACI Africa",
-                "date": "2026-07-18T06:13:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Maldives Aligns With Seychelles, Mauritius and Madagascar to Ignite a New Indian Ocean Luxury Travel Revolution in 2026 as Spectacular Resorts, Ultra",
-                "desc": "Maldives, Seychelles, Mauritius and Madagascar redefine Indian Ocean luxury travel in 2026 with new resorts, villas, spas and exclusive escapes.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/high-level-description-an-aerial-11.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/qjkmh165nwk2/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-18T06:13:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa Cites Ruto’s State Visit as It Battles Xenophobia Claims",
-                "desc": "The latest development comes days after over 400 Kenyans were repatriated from South Africa following anti-immigrant protests and fears of xenophobic violence.",
-                "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/ruto-and-ramaphosa-of-south-africa.jpg.webp?itok=KYjPi70s",
-                "url": "https://www.kenyans.co.ke/news/125380-south-africa-cites-rutos-state-visit-it-battles-xenophobia-claims",
-                "source": "Kenyans.co.ke",
-                "date": "2026-07-18T06:11:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "21st AMECEA Assembly: Catholic Bishops Urged to Continue Advocating for Climate Justice",
-                "desc": "The Vice President of the Association of Member Episcopal Conferences in Eastern Africa (AMECEA) has encouraged the Bishops within the region to continue supporting renewable energy efforts ahead of their forthcoming 21st Plenary Assembly.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-18t090504_1784354794.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/23021/21st-amecea-assembly-catholic-bishops-urged-to-continue-advocating-for-climate-justice",
-                "source": "ACI Africa",
-                "date": "2026-07-18T06:08:37Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-19T04:55:24.562678Z"
+    "lastGlobalSync": "2026-07-19T07:31:37.583168Z"
 }
