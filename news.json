@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "South Korea's Kospi emerges as a global AI market barometer as Samsung, SK Hynix drive chip stocks",
+                "desc": "The Kospi has become one of the world’s most volatile major benchmarks, with leveraged trading amplifying swings. SK Hynix’s recent US listing has extended Korea’s influence into Wall Street.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260507020740_Kospi-South-Korea-stock-market-.jpg",
+                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/south-korea-s-kospi-emerges-as-a-global-ai-market-barometer-as-samsung-sk-hynix-drive-chip-stocks-13977601.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-19T02:07:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airline Backtracks on ‘Trump Airport’ Rerouting Memo",
+                "desc": "Some passengers aren’t excited about landing or taking off at the newly renamed Palm Beach airport.",
+                "image": "https://www.thedailybeast.com/resizer/v2/X2XRTK7YMNHKDGD7BLVWIM5XSA.JPG?smart=true&auth=44397459f3cffd097270e1633f9b1fee0cceff9ae6f4ff7388f2929c2aa8ea95&width=1200&height=630",
+                "url": "https://www.thedailybeast.com/united-airlines-backtracks-on-trump-airport-rerouting-memo/",
+                "source": "The Daily Beast",
+                "date": "2026-07-19T02:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LLVision Showcases End-to-End AR+AI Deployment Capabilities at WAIC as AI Moves into Real-World Business",
+                "desc": "As artificial intelligence shifts from competing on model capabilities to delivering real-world business value, AR+AI is emerging as a key interface connecting digital intelligence with physical environments.",
+                "image": "https://diting-hetu-en.iyiou.com/17844266745001.jpeg?imageView2/1/w/900/h/600/format/jpg",
+                "url": "https://equalocean.com/news/2026071922040-llvision-showcases-end-end-ar-ai-deployment-capabilities-waic-as-ai-moves-into",
+                "source": "EqualOcean",
+                "date": "2026-07-19T02:05:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s firm offers big business speedy access to his posts for $100,000 fee",
+                "desc": "The new product will provide round-the-clock coverage of influential posts and include an archive of posts dating back to 2022.",
+                "image": "https://i.dawn.com/large/2026/07/190934134b74072.webp",
+                "url": "https://www.dawn.com/news/2016595",
+                "source": "Dawn",
+                "date": "2026-07-19T02:02:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s firm offers big business speedy access to his posts for $100,000 fee",
+                "desc": "NEW YORK: Donald Trump’s social media company has discussed charging Wall Street traders and investment firms as...",
+                "image": "https://www.dawn.com/_img/social-default.jpg",
+                "url": "https://www.dawn.com/news/2016595/trumps-firm-offers-big-business-speedy-access-to-his-posts-for-100000-fee",
+                "source": "Dawn",
+                "date": "2026-07-19T02:02:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "For every dollar invested, we bring in more than 8, Hong Kong investment chief says",
+                "desc": "Hong Kong Investment Corporation head Clara Chan explains her strategies at Nusa Dua Forum organised by SCMP and Indonesia’s sovereign wealth fund Danantara.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/18/228407e8-d727-468d-b29b-f70420e2490e_f8536ae9.jpg?itok=XQ148CgP&v=1784386909",
+                "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361063/every-dollar-invested-we-bring-more-8-hong-kong-investment-chief-says",
+                "source": "South China Morning Post",
+                "date": "2026-07-19T02:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China team cuts 3D optical chip production time from hours to seconds",
+                "desc": "New fabrication method speeds up production time for photonic chips via parallel processing technology.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/17/05d2445d-ba05-4b30-9b68-57a37e79efe4_19bd9bec.jpg?itok=2G9jDLi6&v=1784250694",
+                "url": "https://www.scmp.com/news/china/science/article/3360856/china-team-cuts-3d-optical-chip-production-time-hours-seconds",
+                "source": "South China Morning Post",
+                "date": "2026-07-19T02:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Healthcare costs associated with aging out of reach for many Americans",
+                "desc": "One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/19/b5f03042-d959-4501-9be7-23f7d4fce61b/thumbnail/1200x630/53f8c446482774fbb69e126cceb4b5fd/1784425562908.png",
+                "url": "https://www.cbsnews.com/news/healthcare-costs-associated-with-aging-out-of-reach-for-many-americans/",
+                "source": "CBS News",
+                "date": "2026-07-19T01:59:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sky News Australia",
+                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+                "source": "Sky News Australia",
+                "date": "2026-07-19T01:39:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After a decade of falling behind, UTI AMC begins its turnaround under a new chief",
+                "desc": "Subramaniam, who took charge in February ahead of the annual planning cycle, likens his career to football—having progressed from team captain as head of equities to manager as chief investment officer, and now to running the club as chief executive.",
+                "image": "https://www.livemint.com/lm-img/img/2026/07/16/1600x900/logo/Vetri_Subramaniam__1711267964335_1784196776873_9f07e352-3f0f-4024-8182-9434a7e25abe.JPG",
+                "url": "https://www.livemint.com/companies/uti-amc-turnaround-strategy-vetri-subramaniam-growth-plan-mfs-funds-11784186187143.html",
+                "source": "livemint.com",
+                "date": "2026-07-19T01:30:09Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Want a rock solid income EVERY month from your investments? These are my 12 must-have funds with an amazing track-record, says our wealth guru JEFF PRESTRIDGE",
                 "desc": "Investing for income has been somewhat sidelined in recent years as many have been drawn to the potential gains from global tech stocks. Yet I believe it still makes great sense.",
                 "image": "https://i.dailymail.com/1s/2026/07/17/15/110085537-0-image-m-27_1784298706286.jpg",
@@ -542,99 +632,99 @@
                 "source": "Interesting Engineering",
                 "date": "2026-07-18T13:03:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Amid Growing Data Center Backlash, Nvidia Could Have the Answer",
-                "desc": "Nvidia's self-cooling technology could partially solve a contentious issue.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878971%2Fnvidia-logo.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/18/growing-data-center-backlash-nvidia-answer/",
-                "source": "The Motley Fool",
-                "date": "2026-07-18T11:32:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 Jaecoo J5 EV now open for booking in Malaysia",
-                "desc": "The Jaecoo J5 EV inches closer to being launched with Omoda | Jaecoo Malaysia today announcing that bookings for the electric SUV are now open, with estimated pricing at RM125,000. This comes on the day …",
-                "image": "https://paultan.org/image/2026/07/2026-Jaecoo-J5-EV-bookings-open-Malaysia-1-1200x750.jpg",
-                "url": "https://paultan.org/2026/07/18/2026-jaecoo-j5-ev-now-open-for-booking-in-malaysia/",
-                "source": "Paul Tan",
-                "date": "2026-07-18T11:31:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rhenus expands warehousing operations in the Philippines",
-                "desc": "Rhenus is expanding its warehousing operations in the Philippines as it responds to growing demand for modern logistics services.",
-                "image": "https://container-news.com/wp-content/uploads/2026/07/260716_01_Rhenus-x-Bosch.webp",
-                "url": "https://container-news.com/rhenus-expands-warehousing-operations-in-the-philippines/",
-                "source": "Container News",
-                "date": "2026-07-18T11:30:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project",
-                "desc": "Top developer clears all units in weekend launch after offering a maximum 16 per cent discount.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/18/15ce0d7e-6022-44b4-89cb-b1d870de6fea_77c7f21e.jpg?itok=FMc7lSul&v=1784374230",
-                "url": "https://www.scmp.com/business/article/3361052/hong-kong-homebuyers-snap-138-garden-regency-flats-new-territories-project",
-                "source": "South China Morning Post",
-                "date": "2026-07-18T11:30:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The World’s Top Flavored Gin, According To The Global Spirits Masters",
-                "desc": "Four exceptional flavored gins earned Master medals at the Global Spirits Masters, proving fruit and spice can enhance, not overshadow, great gin.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5a9ad3fbb37f6818852369/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/joemicallef/2026/07/18/the-worlds-top-flavored-gin-according-to-the-global-spirits-masters/",
-                "source": "Forbes",
-                "date": "2026-07-18T11:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NUPRC to licence holders: Focus on developing oil fields",
-                "desc": "The Nation Newspaper NUPRC to licence holders: Focus on developing oil fields",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/01/20183000/NUPRC.jpg",
-                "url": "https://thenationonlineng.net/nuprc-to-licence-holders-focus-on-developing-oil-fields/",
-                "source": "The Nation Newspaper",
-                "date": "2026-07-18T11:28:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UAE to Kuwait Flights Cancelled: Emirates, Etihad, Air Arabia Updates Amid Iran",
-                "desc": "UAE-Kuwait flights disrupted as Emirates, Etihad and Air Arabia cancel or delay services amid Iran-US tensions. Check latest airline updates before travelling.",
-                "image": "https://media.assettype.com/gulfnews%2F2025-11-06%2Fc34vwzcs%2Fgulfnews2024-11-274ipg9w3jApersontalksonamobilephonebyavideoboardshowingflightdelaysandcancellationsatRonald.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://gulfnews.com/business/aviation/uae-kuwait-flights-cancelled-emirates-etihad-and-air-arabia-updates-amid-iran-us-tensions-1.500612291",
-                "source": "Gulf News",
-                "date": "2026-07-18T11:26:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five taken to hospital after major Llandudno incident",
-                "desc": "The Welsh Ambulance Service has confirmed that a number of people have been taken to hospital following an incident at Mostyn Champneys retail park",
-                "image": "https://i2-prod.dailypost.co.uk/article34312658.ece/ALTERNATES/s1200d/0_AHR_dpw_180726pmLlandudnocrashMaccies2.jpg",
-                "url": "https://www.dailypost.co.uk/news/north-wales-news/llandudno-mcdonalds-live-police-crash-34312654",
-                "source": "North Wales Live",
-                "date": "2026-07-18T11:22:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX's Unlucky Flight 13 Fails to Launch Starship. Can the Stock Survive Yet Another Delay?",
-                "desc": "A looming NASA deadline and anxious investors put Elon Musk between a space rock and a hard place.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7e34e4eefa090f6644eeb52159cc3987b4ed7e2c-1200x800.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/18/spacex-s-unlucky-flight-13-fails-to-launch-starship-can-the-stock-survive-yet-another-delay/",
-                "source": "The Motley Fool",
-                "date": "2026-07-18T11:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Big Car Launches In Next 10 Days - New Brezza, Honda ZR-V & Toyota Hilux",
-                "desc": "Honda Cars India will announce the prices of its first hybrid SUV, the ZR-V, on July 20, while the next-gen Toyota Hilux will go on sale on July 28, 2026.",
-                "image": "https://content.carlelo.com/media/brands/news/cover/2026ToyotaHiluxTravoRevealed.webp",
-                "url": "https://www.carlelo.com/news/3-big-car-launches-in-next-10-days",
-                "source": "CarLelo",
-                "date": "2026-07-18T11:19:26Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "like AI music assistant for Premium users",
+                "desc": "Spotify is rolling out a ChatGPT-like AI assistant that lets Premium users talk to the app to discover music, podcasts and audiobooks.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/07/Spotify-launches-ChatGPT-like-AI-music-assistant-for-Premium-users.jpg",
+                "url": "https://memeburn.com/spotify-launches-chatgpt-like-ai-music-assistant-for-premium-users/",
+                "source": "Memeburn",
+                "date": "2026-07-19T02:06:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fan Gifts Inde Navarrette a Sealed ‘Modern Warfare 2’ Copy Worth $1,000",
+                "desc": "Inde Navarrette, known as the actress who played Nikki in Obsession, was presented with an extremely rare sealed version of the 2009 video game Call of Duty: Modern Warfare 2… The post Fan Gifts Inde ...",
+                "image": "https://s.yimg.com/lo/mysterio/api/94f773434d242d362f23acc71da527379d644608cb5e67be8d0ef87a939801fa/lightyear_networkapi/resizefill_w1024_h614;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwhere_is_the_buzz_814%2Fd86e5a1b8d1a1df037d9382b5c653749",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/fan-gifts-inde-navarrette-sealed-020145812.html",
+                "source": "Yahoo",
+                "date": "2026-07-19T02:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Finest World Time Watches For International Travel And A Global Lifestyle",
+                "desc": "Whether you're flying for meetings or managing teams across continents, these world time watches will help you track time effortlessly.",
+                "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2026/07/06164153/omega-1600x900.jpeg",
+                "url": "https://www.travelandleisureasia.com/sea/travel-tips/accessories/world-time-watches-for-global-travellers-business-professionals/",
+                "source": "Travel and Leisure Asia",
+                "date": "2026-07-19T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "18 horror games coming in 2026 and beyond that we already can't wait to play",
+                "desc": "We're getting loads of horror goodness in 2026 and 2027",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt1030838c35b5f9f2/6a5a5ecda4412a522d299c29/best-horror-games-in-2026-and-2027.jpg",
+                "url": "https://www.gamingbible.com/news/best-new-horror-games-996467-20260717",
+                "source": "GAMINGbible",
+                "date": "2026-07-19T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Insider Clarifies Elder Scrolls 6 Timeline After Bethesda Layoffs",
+                "desc": "An established Xbox insider clarifies how recent layoffs at Bethesda affect the development timeline for The Elder Scrolls 6.",
+                "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/the-elder-scrolls-6-dev-laid-off-illustration-tes-6-custom-logo-with-layoffs-orange-and-blue-color-palette-composite.jpg?w=1600&h=900&fit=crop",
+                "url": "https://gamerant.com/elder-scrolls-6-timeline-development-bethesda-layoffs-tes6-impact/",
+                "source": "GameRant",
+                "date": "2026-07-19T01:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gooding Christie's to Auction 1968 Porsche 907 Langheck",
+                "desc": "The 907 Langheck that led Porsche to a historic 1-2-3 finish at the 1968 24 Hours of Daytona headlines a broad Porsche consignment at Gooding Christie's annual Pebble Beach sale in August.",
+                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/gooding-company-4d2c99726f.webp",
+                "url": "https://www.tarmaclife.co.nz/news/gooding-christies-to-auction-1968-porsche-907-langheck/",
+                "source": "Tarmac Life",
+                "date": "2026-07-19T01:52:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Do Samsung Phones Depreciate Faster Than iPhones?",
+                "desc": "Samsung and iPhone often run neck-and-neck in terms of features and usability, but there's a pretty big difference when it comes to resale value over time.",
+                "image": "https://www.bgr.com/img/gallery/do-samsung-phones-depreciate-faster-than-iphones/l-intro-1784072675.jpg",
+                "url": "https://www.bgr.com/2215334/do-samsung-depreciate-faster-iphone/",
+                "source": "bgr.com",
+                "date": "2026-07-19T01:50:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Emdoor Launches \"Ailyn\" AI Hub at WAIC 2026: Unifying Intelligence Across Every Device",
+                "desc": "SHANGHAI, July 19, 2026 /PRNewswire/ -- Emdoor, a leading provider of intelligent computing devices, unveiled its latest innovation - Ailyn, an integrated software-hardware AI hub - at the World Artificial Intelligence Conference (WAIC) 2026. Under the theme 'Intelligence in All Things, Boundless Edge Intelligence', Emdoor's Booth X1B-804 showcases four immersive scenarios spanning personal, home, enterprise, and industrial use cases, demonstrating how AI can flow seamlessly across devices.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/19/1142314.jpg",
+                "url": "https://www.manilatimes.net/2026/07/19/tmt-newswire/pr-newswire/emdoor-launches-ailyn-ai-hub-at-waic-2026-unifying-intelligence-across-every-device/2387053",
+                "source": "The Manila Times",
+                "date": "2026-07-19T01:44:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "my son Harri's verdict after weeks of non-stop gaming",
+                "desc": "Turtle Beach's Stealth Pro II headset has been on my 14 year old son's head for weeks. Here's his verdict on the sound, mic and battery life.",
+                "image": "https://eftm.com/wp-content/uploads/2026/07/Turtle-Beach-Stealth-42-scaled.jpg",
+                "url": "https://eftm.com/2026/07/turtle-beach-stealth-pro-ii-review-278382",
+                "source": "EFTM",
+                "date": "2026-07-19T01:40:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "dual functional microwave sensor with high-gain array antenna using loaded U-resonator and asymmetric T-junction",
+                "desc": "This paper proposes the dual functional microwave sensor with high gain array antenna using loaded U-resonator and asymmetric T-junction. The microwave sensor is designed to operate at fr = 2.11 GHz while the array antenna operates at fr = 2.84 GHz which is integrated using asymmetric T-junction based on microstrip line. The performance of the sensor is observed based on the frequency shift of S21 for solid material characterization with a permittivity range of 1–9.8 while for the antenna is observed based on the parameters S11, bandwidth, gain and radiation pattern. From the measurement results, the antenna and sensor have high performance and have independent characteristics with high isolation of ≤ -40 dB to work concurrently. Moreover, the antenna has performance of S11 ≤ -10 dB, Fractional Bandwidth (FBW) 2.11% and gain of 6.03 dBi at fr = 2.84 GHz. The sensors operating at fr = 2.11 GHz has a performance of ∆F of 0.4 GHz, FDR of 0.061 GHz / ∆εr, normalized sensitivity (NS) of 2.21% and accuracy of 99.38%. Therefore, this work can be recommended for application in industries such as material quality control, pharmaceuticals and biomedical as a solution for real-time measurement processes integrated with wireless communications.",
+                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-62448-9?error=cookies_not_supported&code=ba04ab3b-ee67-4562-b800-e6079e6d4aa1",
+                "source": "Nature",
+                "date": "2026-07-19T01:27:46Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Manuka honey: Kourtney Kardashian’s favourite wellness and skincare elixir",
                 "desc": "Discover the benefits of New Zealand’s gold-standard honey, renowned for its antibacterial properties and gut health benefits.",
@@ -1174,99 +1264,99 @@
                 "source": "The Verge",
                 "date": "2026-07-18T12:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Regretting iOS 27 Public Beta? How To Downgrade Your iPhone To iOS 26 Right Now",
-                "desc": "If you’ve put the iOS 27 public beta on your iPhone and you’re having second thoughts, don’t worry, you can go back to iOS 26. Here’s how.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5b635d71e49033e46f88b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/davidphelan/2026/07/18/regretting-ios-27-public-beta-how-to-downgrade-your-iphone-to-ios-26-right-now/",
-                "source": "Forbes",
-                "date": "2026-07-18T11:30:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Run 'Utopias,' Moss In 2D And Other New Indie Games Worth Checking Out",
-                "desc": "Enjoy our weekend guide to the best indie games worth checking out.",
-                "image": "https://www.engadget.com/img/gallery/ai-run-utopias-moss-in-2d-and-other-new-indie-games-worth-checking-out/l-intro-1784318851.jpg",
-                "url": "https://www.engadget.com/2217879/ai-run-utopias-moss-in-2d-and-other-new-indie-games-worth-checking-out/",
-                "source": "Engadget",
-                "date": "2026-07-18T11:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These 7 Android shortcuts changed how I use my phone every single day",
-                "desc": "Make every tap count",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/android-phone-with-shortcut-icons-for-camera-access-long-press-actions-and-split-screen.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/these-hidden-android-shortcuts-cut-my-daily-taps-in-half/",
-                "source": "Android Police",
-                "date": "2026-07-18T11:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I taught Claude to talk like a \"caveman\" and ended up saving 70% of my output tokens",
-                "desc": "Claude give short answers. Claude save tokens.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/image-1784255174997.png?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/taught-claude-talk-like-caveman-ended-saving-my-tokens/",
-                "source": "MakeUseOf",
-                "date": "2026-07-18T11:00:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alibaba targets Nvidia’s dominant software ecosystem with open-source AI stack",
-                "desc": "The firm’s chip unit T-Head aims to lower migration barriers to Zhenwu AI computing architectures, following similar initiatives by Huawei and Moore Threads.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/18/e917de65-efec-43cd-a644-9627269e0932_c97bb953.jpg?itok=nXIEj7yR&v=1784370787",
-                "url": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack",
-                "source": "South China Morning Post",
-                "date": "2026-07-18T11:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Access ChatGPT, Gemini, Claude, and More AI Models for Life for Only $60",
-                "desc": "ChatPlayground AI lets you compare all your favorite AI models side-by-side in one platform for one up-front cost. And right now, that price is 90% off!",
-                "image": "https://i.pcmag.com/imagery/articles/01Uq81nCrwCPt8qgeaOQNBk-2.fit_lim.size_1200x630.v1784045256.png",
-                "url": "https://www.pcmag.com/deals/access-chatgpt-gemini-claude-and-more-ai-models-for-life-for-only-60",
-                "source": "PCMag",
-                "date": "2026-07-18T11:00:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spidery Drone Goes Near-invisible By Spinning Really, Really Fast",
-                "desc": "Researchers demonstrate that something interesting happens when a small drone with a spindly airframe spins at a high speed: it very nearly turns invisible. The spidery device is shown mounted in its ...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/invisible-spinning-drone-1-banner.png",
-                "url": "https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/",
-                "source": "Hackaday",
-                "date": "2026-07-18T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These 20+ PS5 and PS Plus Games Are Coming Out Next Week (20th-26th July)",
-                "desc": "Avatar Legends! Disgaea Mayhem! So much more! - Next week is huge for PS Plus Extra subscribers, as there's really a ton of great games to download. But eve...",
-                "image": "https://images.pushsquare.com/90b1ea6c8145c/large.jpg",
-                "url": "https://www.pushsquare.com/guides/these-20plus-ps5-and-ps-plus-games-are-coming-out-next-week-20th-26th-july",
-                "source": "Push Square",
-                "date": "2026-07-18T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google is letting terrible ads ruin Android's free app ecosystem",
-                "desc": "Free apps are the lifeblood of Android. Unfortunately, unruly advertising is ruining them — and Google isn't helping at all.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Google-logo-on-smartphone-stock-photo-1.jpg",
-                "url": "https://www.androidauthority.com/terrible-ads-ruining-android-apps-google-doing-nothing-3687904/",
-                "source": "Android Authority",
-                "date": "2026-07-18T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fallout 5 gets official update following TV show success - but it's still \"years away\"",
-                "desc": "Fallout 5 gets official update following TV show success – but it's still \"years away\".",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/ella-purnell-fallout-season-2-694180de8ceef.jpg?crop=0.837xw:1.00xh;0.133xw,0&resize=1200:*",
-                "url": "https://www.digitalspy.com/tv/ustv/a73175323/fallout-5-update/",
-                "source": "Digital Spy",
-                "date": "2026-07-18T10:59:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
+                "desc": "Andrew and his brother Tristan were arrested in the US on Saturday, and the UK is seeking their extradition.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a5c17d44e-1784420308.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges",
+                "source": "Al Jazeera",
+                "date": "2026-07-19T02:08:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tate brothers arrested in US in relation to UK inquiry",
+                "desc": "Andrew Tate and his brother Tristan have been arrested in the United States in connection with a UK police investigation into a number of alleged sexual offences, Bedfordshire Police has said.",
+                "image": "https://www.rte.ie/images/0024b801-1600.jpg",
+                "url": "https://www.rte.ie/news/world/2026/0719/1584039-andrew-tristan-tate-uk/",
+                "source": "RTE.ie",
+                "date": "2026-07-19T02:06:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Soccer-Tuchel hopes England players will look back on World Cup with pride",
+                "desc": "MIAMI, July 18 (Reuters) - England manager Thomas Tuchel ⁠said he hoped his players would one day look back on finishing third at the ⁠World Cup with some pride, despite falling short of their goal of winning the tournament.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/19/4017530.jpg",
+                "url": "https://www.thestar.com.my/sport/football/2026/07/19/soccer-tuchel-hopes-england-players-will-look-back-on-world-cup-with-pride",
+                "source": "The Star",
+                "date": "2026-07-19T02:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Germany Fully Funded Scholarship 2027: Rosa Luxemburg Foundation Opens Applications for International Master's and PhD Students",
+                "desc": "International students looking to pursue postgraduate studies in Germany can now prepare for the Rosa Luxemburg Foundation Scholarship 2027, a fully funded",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/1750409621859_opp_4173.webp",
+                "url": "https://www.globalsouthopportunities.com/2026/07/19/scholarship-79/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-19T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Honours system is changing to recognise more working class heroes",
+                "desc": "Record numbers of people from poorer backgrounds are now receiving awards.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1381/live/4ac9bf80-81dc-11f1-a290-5dcfa2e128f8.jpg",
+                "url": "https://www.bbc.com/news/articles/cpd3dd3vv65o",
+                "source": "BBC",
+                "date": "2026-07-19T01:56:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ADHERE: What Africa can learn from China’s 105-year journey of transformation",
+                "desc": "The answer lies in a disciplined reimagining of our political parties as catalysts for national change.",
+                "image": "https://cdn.radioafrica.digital/image/2026/05/f00fa2bf-73b3-47ff-bc0b-1dea0b3079cd.png?1784463521274",
+                "url": "https://www.the-star.co.ke/siasa/2026-07-19-adhere-africa-must-think-beyond-five-year-election-cycles",
+                "source": "the-star.co.ke",
+                "date": "2026-07-19T01:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ADHERE: What Africa can learn from China’s 105-year journey of transformation",
+                "desc": "The answer lies in a disciplined reimagining of our political parties as catalysts for national change.",
+                "image": "https://cdn.radioafrica.digital/image/2026/05/f00fa2bf-73b3-47ff-bc0b-1dea0b3079cd.png?1784437497365",
+                "url": "https://www.the-star.co.ke/news/2026-07-19-adhere-africa-must-think-beyond-five-year-election-cycles",
+                "source": "the-star.co.ke",
+                "date": "2026-07-19T01:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tuchel hopes England players will look back on World Cup with pride",
+                "desc": "MIAMI: England manager Thomas Tuchel said he hoped his players would one day look back on finishing third at the World Cup with some pride, despite falling short of their goal of winning the tournament.A 6-4 win over France in a frenetic third-place playoff at Miami Stadium on Saturday (Jul 18) gave England t",
+                "image": "https://dam.mediacorp.sg/image/upload/s--pBGcqp6r--/c_crop,h_562,w_1000,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/APTOPIX_Argentina_England_WCup_Soccer_576_2.jpg?itok=4Jc2ar9l",
+                "url": "https://www.channelnewsasia.com/sport/tuchel-hopes-england-players-will-look-back-world-cup-pride-6263416",
+                "source": "CNA",
+                "date": "2026-07-19T01:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New EU system tripling time to get through border, airport boss says",
+                "desc": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg",
+                "url": "https://www.bbc.com/news/articles/ckg5gg6n9x3o",
+                "source": "BBC",
+                "date": "2026-07-19T01:47:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Six-goal Lions cling on, can Tuchel?",
+                "desc": "A sensational game of two halves and 10 goals saw England almost squander a 4-0 lead before edging France for third place, but questions linger about Thomas Tuchel.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/c8bf83bd-saka-goals-epa-images-pic-190726-1.webp",
+                "url": "https://www.freemalaysiatoday.com/category/highlight/2026/07/19/six-goal-lions-cling-on-can-tuchel",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-19T01:45:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The hidden cost of the night shift and how to sleep it off",
                 "desc": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
@@ -1806,98 +1896,8 @@
                 "source": "Dawan Africa",
                 "date": "2026-07-18T12:42:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US and Iran exchange strikes as they struggle over Strait of Hormuz",
-                "desc": "The region has endured days of back-and-forth attacks in a conflict increasingly focused on control of the strait.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/two-men-wade-in-the-waters-of-the-strait-of-hormuz-with-vess-YNYCGCPO6NH6RDC4V2GR63FH4A.jpg?auth=73e0cc90b4c85209a2e79a5ef3771508160ec3e6af5071892a17bae382ad9061&quality=70&width=600&height=315&focal=3000%2C2000",
-                "url": "https://www.1news.co.nz/2026/07/18/us-and-iran-exchange-strikes-as-they-struggle-over-strait-of-hormuz/",
-                "source": "1News",
-                "date": "2026-07-18T11:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Endemic Corruption Fuelling Insecurity In Nigeria, Varsity Don",
-                "desc": "A Professor of Criminology at the University of Uyo (UNIUYO), Ebere James Okorie, has identified endemic corruption in the Nigerian system as one of the major",
-                "image": "https://leadership.ng/wp-content/uploads/2026/07/images-2026-07-18T123608.088.jpg",
-                "url": "https://leadership.ng/endemic-corruption-fuelling-insecurity-in-nigeria-varsity-don/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-07-18T11:36:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russian Forces Shift to Low-Altitude, Manually Controlled Drone Strikes to Evade Air Defenses",
-                "desc": "Russian forces are increasingly using manually controlled drones flying as low as 22 meters to bypass Ukrainian radar and interceptors.",
-                "image": "https://static.kyivpost.com/storage/2026/05/10/3f19b8eca65ba8576151d2d40ccd39b6.jpg?w=1200&q=90&f=jpg",
-                "url": "https://www.kyivpost.com/post/80582",
-                "source": "Kyiv Post",
-                "date": "2026-07-18T11:27:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Security guard, 26, falls from 75mph train after being ‘brutally attacked and pushed against doors which flew open’",
-                "desc": "A RAILWAY security guard has suffered life-threatening injuries after he fell from a moving train after an alleged violent attack by a...",
-                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/deutschland-baden-wuerttemberg-goeppingen-11-1096105933.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-                "url": "https://www.thesun.co.uk/news/39797093/guard-falls-from-train-after-attack/",
-                "source": "The Sun",
-                "date": "2026-07-18T11:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran-US war latest: Iran strikes US ally Kuwait after Trump launches fresh bombing assault",
-                "desc": "A fire broke out at ⁠a power generation and water desalination ⁠plant ​in Kuwait ⁠after an ⁠Iranian attack, authorities said",
-                "image": "https://static.independent.co.uk/2026/07/18/08/2026-07-18T024452Z_884688071_RC22GMAZW92B_RTRMADP_3_IRAN-CRISIS.JPG?trim=0,533,444,533&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-strikes-airport-water-b3017324.html",
-                "source": "The Independent",
-                "date": "2026-07-18T11:23:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-                "desc": "Russian officials say strikes on retailer’s warehouses caused civilian casualties; Kyiv says sites used to make drones.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-18T094243Z_508980871_RC29GMASUKSP_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-ATTACKS-1784370955.jpg?resize=1200%2C630",
-                "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens",
-                "source": "Al Jazeera",
-                "date": "2026-07-18T11:21:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine's Elite Operators Change How They Fight Drones, Clear Trenches",
-                "desc": "The continuous rise of drones on the battlefield has forced soldiers to adopt new training and tactics. They need to keep an eye on the sky.",
-                "image": "https://i.insider.com/6a5a3ebbce52cb26b839093a?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/ukraine-elite-operators-change-how-they-fight-drones-clear-trenches-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-18T11:18:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Estonia urges EU visa ban for Russians who fought against Ukraine",
-                "desc": "Estonia urges EU visa ban for Russians who fought against Ukraine",
-                "image": "https://static.nv.ua/shared/system/Article/posters/003/328/562/original/8aefca5f77aaa3c20dc8e1219a183e1f.png?q=85&stamp=20260718112854&f=webp",
-                "url": "https://english.nv.ua/russian-war/estonia-urges-eu-visa-ban-for-russians-who-fought-against-ukraine-50625363.html",
-                "source": "The New Voice of Ukraine",
-                "date": "2026-07-18T11:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Water infrastructure hit in Iran, Kuwait amid latest Gulf war flare-up",
-                "desc": "Tehran attacked Washington’s Gulf allies after another night of U.S. strikes.",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/18/GettyImages-2284612685-scaled.jpg",
-                "url": "https://www.politico.eu/article/water-infrastructure-hit-in-iran-kuwait-amid-latest-gulf-war-flare-up/",
-                "source": "politico.eu",
-                "date": "2026-07-18T11:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The fragility of the throne",
-                "desc": "?In his incisive critique, Governor Adeleke and a Tale of Three Ataojas, Tunde Odesola contrasts the storied legacy of the Osogbo throne with the controversial conduct of the incumbent, Oba Jimoh Olanipekun .",
-                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
-                "url": "https://www.modernghana.com/news/1511712/the-fragility-of-the-throne.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-18T11:10:38Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-19T12:04:41.692640Z"
+    "lastGlobalSync": "2026-07-19T14:14:24.070417Z"
 }
