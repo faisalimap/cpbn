@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Facebook down for users worldwide as accounts given same message",
+                "desc": "Millions have been hit with the same message",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc2c25e711ee34ed9/6a5c8bb89414266a22a43a90/facebook-down-latest.jpg",
+                "url": "https://www.ladbible.com/technology/facebook-down-why-technology-message-social-media-036331-20260719",
+                "source": "LADbible",
+                "date": "2026-07-19T09:02:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "If You’re a Federal Employee, You May Now Install TikTok on Your Work Phone Even Though It's Illegal",
+                "desc": "Did you even remember there was a ban?",
+                "image": "https://gizmodo.com/app/uploads/2025/05/TikTok-Bans-and-Restrictions-e1766157892387-1200x675.jpg",
+                "url": "https://gizmodo.com/if-youre-a-federal-employee-you-may-now-install-tiktok-on-your-work-phone-even-though-its-illegal-2000787440",
+                "source": "Gizmodo",
+                "date": "2026-07-19T09:00:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
+                "desc": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
+                "image": "https://static01.nyt.com/images/2026/07/19/business/19Polymarket-cover-illo/19Polymarket-cover-illo-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
+                "source": "The New York Times",
+                "date": "2026-07-19T09:00:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "America’s Lakes Are Shrinking. Data Centers Are Being Built Nearby",
+                "desc": "America's shrinking Western lakes are colliding with an AI data-center boom, fueling new concerns over water scarcity.",
+                "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/Copy-of-32-Split-Screen-45.png?w=1200&crop=1",
+                "url": "https://www.newsweek.com/america-lakes-shrinking-data-centers-being-built-nearby-12204092",
+                "source": "Newsweek",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This iPhone Trick Can Eliminate Spam Calls for Good",
+                "desc": "You don't have to put up with spam calls any longer.",
+                "image": "https://www.cnet.com/a/img/resize/b5bbf0985ed8e0d93e1b0f4ee4267d1f2083e9d1/hub/2025/10/01/bcd63b14-c50d-409f-a02c-7b25af9863e6/ios-26-cnet-2.png?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/services-and-software/this-iphone-trick-can-eliminate-spam-calls-for-good/",
+                "source": "CNET",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How much liability coverage do I really need for my car?",
+                "desc": "While the minimum in Ontario is $200,000, experts say the minimum of liability coverage they recommend is $2-million",
+                "image": "https://www.theglobeandmail.com/resizer/v2/EHUR36JGL5GDFLCTVL2LL4LU3A.jpg?auth=2f4c728d2a84c9f9d4e90ad391c012e17f91f5127d05036504bc100e15c558be&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/drive/culture/article-how-much-liability-coverage-do-i-really-need-for-my-car/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alcohol costs P.E.I. more than it brings in, new provincial strategy says",
+                "desc": "Prince Edward Island has released a new provincial alcohol strategy aimed at reducing illness and harms linked to drinking, and experts say it puts the province ahead of much of the country.",
+                "image": "https://i.cbc.ca/ais/6f741247-38c4-4420-ab4e-6205c5b85ab4,1753142325402/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7680%2C4320%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-new-alcohol-strategy-9.7270925",
+                "source": "CBC",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fix AI Mode or get Google out of classrooms, advocates say",
+                "desc": "A recent report claiming Google AI-powered Search is unsafe for children has led advocates to question the EdTech giant's place in schools.",
+                "image": "https://helios-i.mashable.com/imagery/articles/051q1Nkl99Vt1im5C2xn6J7/hero-image.fill.size_1200x675.v1784225228.jpg",
+                "url": "https://mashable.com/tech/is-google-search-ai-mode-safe-for-students",
+                "source": "Mashable",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can Australia dodge the next Iran oil shock?",
+                "desc": "Energy companies and governments are racing to find new oil supply routes. Others argue the real solution is to reduce the need for oil in the first place.",
+                "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/38ea08a8aadf4ad42de7840df22c917da498005a",
+                "url": "https://www.smh.com.au/business/the-economy/can-australia-dodge-the-next-iran-oil-shock-20260717-p60g4x.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bill Ackman Runs a $14 Billion Fund on Just 11 Stocks. These Are His 3 Biggest Bets Right Now.",
+                "desc": "The billionaire investor's three largest positions add up to about half of his entire portfolio.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879283%2Fbill-ackman_pershing-square-capital-management_ceo_imagesource_getty-images.jpeg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/19/bill-ackman-runs-a-14-billion-fund-on-just-11-stoc/",
+                "source": "The Motley Fool",
+                "date": "2026-07-19T08:59:43Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
                 "title": "Earnings Beat: Micro Systemation AB (publ) Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
                 "desc": "Investors in Micro Systemation AB (publ) ( STO:MSAB B ) had a good week, as its shares rose 2.2% to close at kr84.00...",
                 "image": "https://images.simplywall.st/asset/industry/8042000-choice1-main-header/1585186669041",
@@ -542,99 +632,99 @@
                 "source": "livemint.com",
                 "date": "2026-07-19T01:30:09Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Want a rock solid income EVERY month from your investments? These are my 12 must-have funds with an amazing track-record, says our wealth guru JEFF PRESTRIDGE",
-                "desc": "Investing for income has been somewhat sidelined in recent years as many have been drawn to the potential gains from global tech stocks. Yet I believe it still makes great sense.",
-                "image": "https://i.dailymail.com/1s/2026/07/17/15/110085537-0-image-m-27_1784298706286.jpg",
-                "url": "https://www.thisismoney.co.uk/money/article-15985145/rock-solid-income-month-investments-12-funds-amazing-track-record-JEFF-PRESTRIDGE.html",
-                "source": "This is Money",
-                "date": "2026-07-18T23:59:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After Australia's battery boom, hot water is emerging as the next money-saving grid tool",
-                "desc": "In some homes, pairing electric hot water with rooftop solar can push that expense close to zero.",
-                "image": "https://s.yimg.com/lo/mysterio/api/883be55c16335f1f385158a0345cbc969802b0ea5c11741415a00f4759be5226/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F6b57b08f824d1a9275ca3e6461e4c06e",
-                "url": "https://www.yahoo.com/news/science/articles/australias-battery-boom-hot-water-235200090.html",
-                "source": "Yahoo",
-                "date": "2026-07-18T23:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Petrol imports jump 207% as domestic supply weakens",
-                "desc": "Nigeria's petrol imports surged by 207% in June 2026, while domestic supply fell. Discover the impact of increased petrol imports on the Nigerian market.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/FUEL-PUMP_1783965578.webp",
-                "url": "https://punchng.com/petrol-imports-jump-207-as-domestic-supply-weakens/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-18T23:48:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "General Mills recalls Pillsbury rolls for possible glass risk",
-                "desc": "General Mills recalled 4,340 cases of Pillsbury dough for possible glass. The more than 730,000 rolls were to be baked and sold at Walmart bakeries.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/18/USAT/90968529007-usatsi-22087565.jpg?crop=2923,1646,x0,y149&width=2923&height=1646&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/2026/07/18/general-mills-recall-pillsbury-rolls-walmart-glass/90967806007/",
-                "source": "USA Today",
-                "date": "2026-07-18T23:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "61% of Nigerians demand interest rate cut ahead MPC",
-                "desc": "61% of Nigerians want the CBN to reduce interest rates, according to a new report. Businesses are particularly keen on an interest rate cut to ease borrowi",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/CBN-headquarters.webp",
-                "url": "https://punchng.com/61-of-nigerians-demand-interest-rate-cut-ahead-mpc/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-18T23:43:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alert MFB Assets Hit N50bn Amid Rising Credit Demand",
-                "desc": "Alert Microfinance Bank's assets soar to N50bn, demonstrating growth despite Nigeria's tough economy and rising credit demand.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/Alert-MFB_1784417882.webp",
-                "url": "https://punchng.com/alert-mfb-assets-hit-n50bn-amid-rising-credit-demand/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-18T23:40:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Which \"Magnificent Seven\" Stock Has the Best Risk/Reward Right Now?",
-                "desc": "The answer may surprise you.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877196%2Fgettyimages-1254581610-1200x800-5b2df79.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/18/which-magnificent-seven-stock-has-the-best-riskrew/",
-                "source": "The Motley Fool",
-                "date": "2026-07-18T23:39:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NVIDIA Vera Rubin Cuts Post-Training Token Costs With Seven-Chip Codesign",
-                "desc": "NVIDIA Vera Rubin platform targets post-training AI costs with a seven-chip codesign architecture delivering 22 TB/s of HBM4 bandwidth per GPU, double the NVLink 6 speed of Blackwell, and claimed 10x",
-                "image": "https://d.techtimes.com/en/full/469176/nvidia-co-packaged-optics-based-switches.png",
-                "url": "https://www.techtimes.com/articles/320933/20260718/nvidia-vera-rubin-cuts-post-training-token-costs-seven-chip-codesign.htm",
-                "source": "Tech Times",
-                "date": "2026-07-18T23:31:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Novanta (NOVT) Is Down 5.1% After Softer Sales And Earnings Momentum Raises Durability Questions",
-                "desc": "In recent commentary, Novanta Inc. was flagged for below-average sales growth over the past two years and an outlook that points to uncertain demand ahead.\nAn important concern is that the company’s earnings growth has lagged peers, raising fresh questions about how durable its business performance really is.\nWe’ll now explore how these concerns about weaker sales and earnings momentum may reshape Novanta’s previously optimistic investment narrative.\nThe latest GPUs need a type of rare...",
-                "image": "https://images.simplywall.st/asset/industry/8131000-choice1-main-header/1585186656975",
-                "url": "https://simplywall.st/stocks/us/tech/nasdaq-novt/novanta/news/novanta-novt-is-down-51-after-softer-sales-and-earnings-mome",
-                "source": "simplywall.st",
-                "date": "2026-07-18T23:30:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Foreign Investors Sell $8.1 Billion in Korean Stocks, Yet Net Buy $403 Million in ETFs",
-                "desc": "Foreign investors have displayed a striking divergence in their South Korean market activity this month, offloading more than 12 trillion won…",
-                "image": "https://img.biggo.com/54sWammOePIb1y09z1EyYisNNSU7791AASlyNcCZJNE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzRiM2FjNzQxLTZjMmItNGMyZS04M2IwLTRiZjcyMzA1ODdjZl8xNzg0NDE2NTEzX2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/4b3ac741-6c2b-4c2e-83b0-4bf7230587cf",
-                "source": "finance.biggo.com",
-                "date": "2026-07-18T23:05:00Z",
-                "priority": "MAJOR_ALERT"
             }
         ],
         "technology": [
+            {
+                "title": "5 ways to use Secure Folder that have completely changed my Galaxy phone",
+                "desc": "I've been using Samsung's Secure Folder wrong for years. Here's what it actually looks like when you use it right.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung_Secure_Folder_hero_image.jpg",
+                "url": "https://www.androidauthority.com/samsung-secure-folder-overlooked-features-3686133/",
+                "source": "Android Authority",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This lifetime cloud storage deal gives you 6TB for life for just $250",
+                "desc": "Own your cloud storage outright with this 6TB lifetime subscription to Drime Secure Cloud Storage.",
+                "image": "https://helios-i.mashable.com/imagery/articles/07qKQnV0r5zJLkUpqheRe89/hero-image.fill.size_1200x675.v1784136349.jpg",
+                "url": "https://mashable.com/tech/july-19-drime-secure-cloud-storage-lifetime-subscription-6tb",
+                "source": "Mashable",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This AI dashboard gives you ChatGPT, Claude, Gemini, and more - for a flat $60",
+                "desc": "Pay $59.97 instead of $619 today only and save $559.03 on a lifetime ChatPlayground AI Unlimited subscription with access to 20+ AI models.",
+                "image": "https://helios-i.mashable.com/imagery/articles/05OIsafjFXEadWKlVzkJ5nJ/hero-image.fill.size_1200x675.v1784199008.jpg",
+                "url": "https://mashable.com/tech/july-19-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+                "source": "Mashable",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adorable indie is Stardew Valley meets Pokémon Gen 4 and it's free-to-try now",
+                "desc": "Glintseeker Island is an adorable Steam indie game that's inspired by Stardew Valley and Pokemon Gen 4, already releasing with a demo on Steam.",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt6c07ebec03fd247c/6a5a2cea94e744fb8e961a00/Glintseeker-Island.jpg",
+                "url": "https://www.gamingbible.com/news/platform/steam/glintseeker-island-pokemon-gen-4-stardew-valley-crossover-019611-20260717",
+                "source": "GAMINGbible",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google's AI Search is a minefield for schools",
+                "desc": "Education advocates urge schools to cut ties with Google over AI Search.",
+                "image": "https://sm.mashable.com/t/mashable_sea/article/g/googles-ai/googles-ai-search-is-a-minefield-for-schools_7ywr.1200.jpg",
+                "url": "https://sea.mashable.com/tech/52621/googles-ai-search-is-a-minefield-for-schools",
+                "source": "Mashable SEA",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Where do the world’s biggest diamonds come from? Geology now has answers",
+                "desc": "Studying the mineral olivine in kimberlite sheds some light on diamond origins.",
+                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
+                "url": "https://www.modernghana.com/news/1511836/where-do-the-worlds-biggest-diamonds-come-from.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-19T08:52:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pocket-size AI: Powerful phones star at China show",
+                "desc": "Tech firms are racing to roll out advanced smartphones that use artificial intelligence to do everything from ordering food to composing messages with a simple voice command.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/chinese-firms-showed-o.jpg",
+                "url": "https://techxplore.com/news/2026-07-pocket-size-ai-powerful-star.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-19T08:50:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I'm a mom of 2 kids. Sending voice memos to Claude helps me organize my life.",
+                "desc": "This as-told-to essay is based on a conversation with Erin Kee, the 38-year-old founder of Kee To Wellness and writer of The Mental Load Memo. She also works in tech sales and lives in Austin. Its been edited for length and clarity. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/cGIktkuTURBXy81YWQyNjkwZS02MDE5LTQ0YTMtYmFjOC05M2MxYmVkMmFmMjguanBlZ5GTBc0EsM0Cdg",
+                "url": "https://africa.businessinsider.com/news/im-a-mom-of-2-kids-sending-voice-memos-to-claude-helps-me-organize-my-life/n56rrrh",
+                "source": "Business Insider Africa",
+                "date": "2026-07-19T08:47:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NIST Expands Its Library of ‘Chemical Fingerprints’ to Identify Unknown Substances",
+                "desc": "Whether you’re a researcher stumped by a mystery compound or a manufacturer perplexed by an unknown substance, there’s",
+                "image": "https://www.technology.org/texorgwp/wp-content/uploads/2026/06/1-23.jpg",
+                "url": "https://www.technology.org/2026/07/19/nist-expands-chemical-fingerprints-identify-unknown-substances/",
+                "source": "Technology Org",
+                "date": "2026-07-19T08:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Classic Car Auctions",
+                "desc": "A 1963 Ferrari 250 P and other competition Ferraris were announced for the Gooding Pebble Beach 2026 classic car auction.",
+                "image": "https://www.classic-car-auctions.info/wp-content/uploads/2026/07/1963-Ferrari-250-P.jpg",
+                "url": "https://www.classic-car-auctions.info/usa/california/monterey-rm/2026-gooding-christies-pebble-beach-sale-top-competition-ferrari-cars-preview/",
+                "source": "classic-car-auctions.info",
+                "date": "2026-07-19T08:42:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "🛰️ A satellite read its own images, could keep watch on Earth in real time",
                 "desc": "A satellite identified what it was looking for on its own, without analysts on the ground.\nIt was the first time an AI that both understands language and reads images was used in space.\nThe technology can reduce the amount of raw data that analysts have to sift through today.",
@@ -1174,99 +1264,99 @@
                 "source": "South China Morning Post",
                 "date": "2026-07-19T00:00:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Boy band BTS' J-Hope teases the Samsung Galaxy Z Fold8 ahead of launch",
-                "desc": "It's expected to go official on July 22. Samsung is hosting a Galaxy Unpacked event on July 22 in London, where it's expected to unveil its new folding...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-bts-teaser/-952x498w6/gsmarena_002.jpg",
-                "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_bts_teaser-news-73786.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-19T00:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Serious WordPress Vulnerability Allows Remote Code Execution",
-                "desc": "Critical WordPress vulnerability exposed: anonymous hackers can execute remote code, putting millions of sites at risk. Learn how to protect your site now.",
-                "image": "https://cdn.rswebsols.com/wp-content/uploads/2022/03/hacker-anonymous-cybersecurity-criminal-illegal-data-password-protection.jpg",
-                "url": "https://www.rswebsols.com/news/serious-vulnerability-in-wordpress-core-allows-anonymous-hackers-to-achieve-remote-code-execution/",
-                "source": "RS Web Solutions",
-                "date": "2026-07-19T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I've used foldable phones for years - here's how the Galaxy Z Fold 8 and iPhone Ultra are fixing the form factor in 2026",
-                "desc": "From book to passport",
-                "image": "https://cdn.mos.cms.futurecdn.net/Cn3UtGctkgfw3zYAqgu7Rh-1920-80.jpg",
-                "url": "https://www.techradar.com/phones/ive-used-foldable-phones-for-years-heres-how-the-galaxy-z-fold-8-and-iphone-ultra-are-fixing-the-form-factor-in-2026",
-                "source": "TechRadar",
-                "date": "2026-07-19T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I've been a Google phone diehard for 10 years - here's my 5-part wishlist for Pixel 11",
-                "desc": "I'm loyal to Google phones, but some changes need to be made.",
-                "image": "https://www.zdnet.com/a/img/resize/62a4f0e53ace26866beb625b76ca1d1823d24ad2/2026/02/16/82c83abe-dddf-4f5b-b490-44ef6795201e/dsc09323.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/five-improvements-google-needs-to-deliver-at-next-months-pixel-11-event/",
-                "source": "ZDNET",
-                "date": "2026-07-19T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Linux community's next big fight isn't about Wayland anymore; it's about whether AI belongs in your distro",
-                "desc": "Where do you stand?",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/linux-battery.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/the-next-big-linux-fight-ai/",
-                "source": "XDA",
-                "date": "2026-07-19T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Risks That Come With Using Location Sharing",
-                "desc": "Location sharing is convenient, but careless settings can expose sensitive information and create risks that aren't immediately obvious.",
-                "image": "https://www.bgr.com/img/gallery/5-risks-that-come-with-using-location-sharing/l-intro-1784050849.jpg",
-                "url": "https://www.bgr.com/2214949/risks-using-location-sharing/",
-                "source": "bgr.com",
-                "date": "2026-07-18T23:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Assassin's Creed Black Flag Resynced sells over 3 million copies, New Game+ is coming",
-                "desc": "Assassin's Creed Black Flag Resynced seems to be a much-needed Ubisoft hit as it sails past 3 million copies sold in its first week.",
-                "image": "https://static.tweaktown.com/news/1/1/112684_1_assassins-creed-black-flag-resynced-sells-over-3-million-copies-new-game-is-coming_full.jpg",
-                "url": "https://www.tweaktown.com/news/112684/assassins-creed-black-flag-resynced-sells-over-3-million-copies-new-game-plus-is-coming/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-18T23:10:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox execs say the console exclusives comeback is just getting started",
-                "desc": "Xbox executives have confirmed the company's return to console exclusives is only getting started, with more titles already in the works.",
-                "image": "https://www.digitaltrends.com/tachyon/2026/06/Xbox-logo.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/gaming/xbox-execs-say-the-console-exclusives-comeback-is-just-getting-started/",
-                "source": "Digital Trends",
-                "date": "2026-07-18T23:08:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asus’ powerful new gaming laptop with a 240Hz Mini LED display makes its global debut",
-                "desc": "The 2026 ROG Strix G18 is now available globally with up to RTX 5080 graphics and a 240Hz Mini LED display.",
-                "image": "https://www.digitaltrends.com/tachyon/2026/07/ASUS-ROG-Strix_G18.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/computing/asus-powerful-new-gaming-laptop-with-a-240hz-mini-led-display-is-now-on-sale/",
-                "source": "Digital Trends",
-                "date": "2026-07-18T23:07:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Modder plays GTA Vice City and GTA III on a TV inside GTA San Andreas",
-                "desc": "A modder demonstrates GTA III running live inside a TV texture inside GTA San Andreas, sharing the same rendering device, which is definitely a first.",
-                "image": "https://static.tweaktown.com/news/1/1/112685_4_modder-plays-gta-vice-city-and-iii-on-tv-inside-san-andreas_full.jpg",
-                "url": "https://www.tweaktown.com/news/112685/modder-plays-gta-vice-city-and-gta-iii-on-a-tv-inside-gta-san-andreas/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-18T22:30:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "This tiny missile could solve Europe’s defence crisis",
+                "desc": "At a secret location in rural Sweden, The Telegraph is about to witness the launch of a low-cost missile that might solve Europe’s drone-defence crisis.",
+                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+                "url": "https://www.aol.com/articles/europe-silver-bullet-russian-drone-090000000.html",
+                "source": "AOL.com",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada may feel its affects, experts say",
+                "desc": "Every few years, the weather phenomenon known as “El Nino” starts to be felt in different parts of the world. This year however, a “super El Nino” is expected.",
+                "image": "https://www.cp24.com/resizer/v2/NJU6XEEN3NELJAXL3VOXMHU5RE.jpeg?smart=true&auth=8032b5b4a4668a3c323e2c04fcff19c691efa86594d013016053cb8f669121af&width=1200&height=630",
+                "url": "https://www.cp24.com/weather/2026/07/19/what-to-know-about-super-el-nino-and-its-impact-on-canadian-weather/",
+                "source": "CP24",
+                "date": "2026-07-19T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tanzanian-flagged tanker from Yemen hijacked by suspected Somali pirates",
+                "desc": "A Tanzanian-flagged tanker was hijacked by suspected Somali pirates off Yemen’s coast, security sources and local officials familiar with the incident said. The commercial tanker has since been...",
+                "image": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
+                "url": "https://www.seattlepi.com/news/world/tanzanian-flagged-tanker-from-yemen-hijacked-by-a22351152",
+                "source": "Seattlepi.com",
+                "date": "2026-07-19T08:58:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report: Al-Shabaab Has Shifted From Holding Territory to Long-War Strategy, Study Finds",
+                "desc": "The study assesses Al-Shabaab’s strategic, operational and governance transformation and the factors driving its evolution.",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgQ2dcbfNRdbUrxq3Qtfi2wyhYNn47WFglH5Gu",
+                "url": "https://www.dawan.africa/news/report-al-shabaab-has-shifted-from-holding-territory-to-long-war-strategy-study-finds",
+                "source": "Dawan Africa",
+                "date": "2026-07-19T08:57:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Launches Strikes To ‘Punish’ Iran After Troops Killed",
+                "desc": "US Launches Strikes To ‘Punish’ Iran After Troops Killed",
+                "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Iran-2.jpg",
+                "url": "https://www.channelstv.com/2026/07/19/us-launches-strikes-to-punish-iran-after-troops-killed/",
+                "source": "Channels Television",
+                "date": "2026-07-19T08:55:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tanzanian-flagged tanker from Yemen hijacked by suspected Somali pirates",
+                "desc": "A Tanzanian-flagged tanker was hijacked by suspected Somali pirates off Yemen’s coast, security sources and local officials familiar with the incident said.",
+                "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+                "url": "https://apnews.com/article/somalia-pirates-yemen-tanker-827efb5b74d4aad62b4ff063420327e3",
+                "source": "AP News",
+                "date": "2026-07-19T08:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "French journalist warns of press freedom crackdown as court revives source hunt",
+                "desc": "The publication of the Egypt Papers investigation by French non-profit investigative journalism site Disclose in 2021 prompted France's defence ministry to file a legal complaint against its co-author, journalist Ariane Lavrilleux, for allegedly disclosing classified information. In 2025, following three years of judicial proceedings, anti-terrorism judges ruled there were no grounds to prose",
+                "image": "https://cdn.modernghana.com/images/content/7192026103613-1i841p5cbv-00036ud2wy.jpg",
+                "url": "https://www.modernghana.com/news/1511848/french-journalist-warns-of-press-freedom-crackdown.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-19T08:53:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+                "desc": "US strikes target Iran’s IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5c7f28d73c-1784446760.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest",
+                "source": "Al Jazeera",
+                "date": "2026-07-19T08:52:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Where do the world’s biggest diamonds come from? Geology now has answers",
+                "desc": "Studying the mineral olivine in kimberlite sheds some light on diamond origins.",
+                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
+                "url": "https://www.modernghana.com/news/1511836/where-do-the-worlds-biggest-diamonds-come-from.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-19T08:52:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alcohol, sex and violence: a dangerous cocktail that makes young women vulnerable to HIV",
+                "desc": "Alcohol use among adolescent girls and young women cannot be separated from transactional sex, coercion and violence in high HIV-burden settings.",
+                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
+                "url": "https://www.modernghana.com/news/1511837/alcohol-sex-and-violence-a-dangerous-cocktail.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-19T08:52:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Waiting times at passport control 'being tripled by new EU border system'",
                 "desc": "Travellers have been hit with severe delays across Europe due to the Entry Exit System (EES) this summer",
@@ -1806,98 +1896,8 @@
                 "source": "Free Malaysia Today",
                 "date": "2026-07-19T01:45:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The hidden cost of the night shift and how to sleep it off",
-                "desc": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1b5c/live/1c3f9550-8064-11f1-926f-c90d1bcfbc84.jpg",
-                "url": "https://www.bbc.com/news/articles/cp9errxl97go",
-                "source": "BBC",
-                "date": "2026-07-19T00:01:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The hidden cost of the night shift and how to sleep it off",
-                "desc": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b5c/live/1c3f9550-8064-11f1-926f-c90d1bcfbc84.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go",
-                "source": "BBC",
-                "date": "2026-07-19T00:01:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine's SSU Alpha Unit Reports More Than 50,000 russian Troops Neutralized Since Start of 2026",
-                "desc": "The Alpha Special Operations Center of the Security Service of Ukraine says it has neutralized more than 50,000 russian troops during the first half of 2026, with nearly 1,300 additional casualties inflicted over the past week alone",
-                "image": "https://en.defence-ua.com/media/illustration/articles/86b6a5b87808de70.jpg",
-                "url": "https://en.defence-ua.com/news/ukraines_ssu_alpha_unit_reports_more_than_50000_russian_troops_neutralized_since_the_start_of_2026-19177.html",
-                "source": "Defense Express",
-                "date": "2026-07-19T00:01:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-                "desc": "IDF unit shares process of dismantling Hezbollah's 'crazy, Iranian' terror tunnels • Report: US warplanes strike in southern Iran • IRGC claims two vessels in Hormuz had 'accident' amid US strikes",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729594",
-                "url": "https://www.jpost.com/middle-east/iran-news/2026-07-19/live-updates-902897",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-19T00:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-                "desc": "IDF strikes Hezbollah drone • Khamenei reportedly warns of additional full-scale retaliation if US strikes continue • Iran attacks US bases in Saudi Arabia",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730387",
-                "url": "https://www.jpost.com/middle-east/iran-news/2026-07-18/live-updates-902864",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-19T00:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russians turn to cash putting more strain on slowing wartime economy",
-                "desc": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko",
-                "source": "BBC",
-                "date": "2026-07-18T23:59:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russians turn to cash putting more strain on slowing wartime economy",
-                "desc": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg",
-                "url": "https://www.bbc.com/news/articles/cglj255jk8ko",
-                "source": "BBC",
-                "date": "2026-07-18T23:59:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andrew and Tristan Tate arrested in Miami on charges of rape and sex trafficking",
-                "desc": "UK to seek extradition over sexual exploitation, ‘extreme pornography’ and assault and indecent images of a child",
-                "image": "https://i.guim.co.uk/img/media/5bc43ac38509c467eaf9f4acd704430f22967dcc/324_0_3288_2632/master/3288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c65a7017e3d737165516f12c5dcd54a4",
-                "url": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami",
-                "source": "The Guardian",
-                "date": "2026-07-18T23:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran Update Special Report, July 18, 2026",
-                "desc": "Iran is adapting to US defenses by firing high-speed, maneuverable missiles at US bases in the region.",
-                "image": "https://understandingwar.org/wp-content/uploads/2025/10/Website-Featured-Image-1-scaled.webp",
-                "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-july-18-2026/",
-                "source": "Institute for the Study of War",
-                "date": "2026-07-18T23:56:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Slovakia Opens €15,000 Scholarships for International Students: Applications for 2026/27 Close on 31 July",
-                "desc": "International students looking to study in Europe have a new opportunity as Slovakia opens applications for its 2026/27 Scholarships for Talented Students",
-                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/Screenshot-2026-07-19-000501.png",
-                "url": "https://www.globalsouthopportunities.com/2026/07/18/slovakia/",
-                "source": "Global South Opportunities",
-                "date": "2026-07-18T23:55:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-19T19:57:38.388459Z"
+    "lastGlobalSync": "2026-07-19T21:02:39.415778Z"
 }
