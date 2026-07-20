@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "What the Typical 40-Year-Old Canadian Has in Their TFSA and RRSP",
+                "desc": "Many 40-somethings feel behind, but the median TFSA and retirement balances show most Canadians are still building.",
+                "image": "https://www.fool.ca/wp-content/uploads/2024/10/GettyImages-1404485065-1200x800.jpg",
+                "url": "https://www.fool.ca/2026/07/19/what-the-typical-40-year-old-canadian-has-in-their-tfsa-and-rrsp-3/",
+                "source": "The Motley Fool Canada",
+                "date": "2026-07-19T13:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "America's math and reading scores collapsed when schools went digital. AI may be a greater threat",
+                "desc": "A major Brookings Institute study of more than 500 students and educators across 50 countries found the risks of AI in the classroom “overshadow its benefits.”",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1129802150.jpg?resize=1200,600",
+                "url": "https://fortune.com/article/how-can-ai-make-brain-rot-worst-america-math-and-reading-scores-tanked-edtech/",
+                "source": "Fortune",
+                "date": "2026-07-19T13:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ghana's silent mast crisis: the health fears no one is measuring",
+                "desc": "A debate that refuses to die For close to two decades, Ghanaians living beside telecom masts have complained of headaches, sleeplessness, and a nagging fear that the steel towers rising over their rooftops are silently damaging their health. The debate over radio frequency radiation from telecom towers has played out in Parliament, in the media, and in ordinary households, alongside grievances about noise, vibration, and fumes from generators at base stations, towers interfering with air",
+                "image": "https://cdn.modernghana.com/images/content/719202621631-typbsfer6l-screenshot20260719-1158421.png",
+                "url": "https://www.modernghana.com/news/1511882/ghanas-silent-mast-crisis-the-health-fears-no.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-19T13:14:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aldi's new £17 portable gadget is 'perfect for cleaning homes and cars'",
+                "desc": "The popular supermarket chain has launched a new cleaning range in stores",
+                "image": "https://i2-prod.liverpoolecho.co.uk/article34316081.ece/ALTERNATES/s1200d/0_GettyImages-2254933785.jpg",
+                "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/aldis-new-17-portable-gadget-34315771",
+                "source": "Liverpool Echo",
+                "date": "2026-07-19T13:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Twilio (TWLO) Beats Q1 Expectations, Is The Stock Still Fully Valued?",
+                "desc": "Twilio Q1 beat puts recent share gains in focus\nTwilio (TWLO) drew fresh investor attention after reporting Q1 revenue growth of 20% year on year, a 4.7% beat versus analyst expectations, alongside stronger net revenue retention and billings estimates.\nSee our latest analysis for Twilio.\nTwilio's strong Q1 has come on top of a sharp share price re-rating, with the stock up 42.0% over 90 days and a 1 year total shareholder return of 57.85%, although the 5 year total shareholder return is down...",
+                "image": "https://images.simplywall.st/asset/industry/8030001-choice2-main-header/1585186766184",
+                "url": "https://simplywall.st/stocks/us/software/nyse-twlo/twilio/news/twilio-twlo-beats-q1-expectations-is-the-stock-still-fully-v",
+                "source": "simplywall.st",
+                "date": "2026-07-19T13:05:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla (TSLA) Must Recall Nearly 20,000 Vehicles After NHTSA Rejects Headlight Request",
+                "desc": "NHTSA denied Tesla's request to avoid recalling nearly 20,000 Model 3 and Model Y vehicles over headlight compliance issues.\nThe decision requires Tesla, NasdaqGS:TSLA, to proceed with a recall to address potential safety risks.\nThe affected vehicles are tied to concerns around headlight performance under U.S. safety regulations.\nTesla, NasdaqGS:TSLA, is a major electric vehicle and clean energy company, so any safety related ruling tends to draw attention from both drivers and investors...",
+                "image": "https://images.simplywall.st/asset/company-cover/27444752-main-header/1756195747085",
+                "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/tesla-tsla-must-recall-nearly-20000-vehicles-after-nhtsa-rej",
+                "source": "simplywall.st",
+                "date": "2026-07-19T13:04:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent",
+                "desc": "Automate self-healing GPU nodes in Kubernetes. Explore 6 critical architecture lessons from building the AWS EKS Node Monitoring Agent.",
+                "image": "https://cdn.thenewstack.io/media/2026/07/518f31d7-getty-images-zxt5l60ulcq-unsplash.jpg",
+                "url": "https://thenewstack.io/self-healing-gpu-nodes/",
+                "source": "The New Stack",
+                "date": "2026-07-19T13:03:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GEnx-1B Engines Surpass 50 Million Flight Hours",
+                "desc": "Milestone is the fastest ever for a GE Aerospace widebody engine model",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/19/1142561.png",
+                "url": "https://www.manilatimes.net/2026/07/19/tmt-newswire/globenewswire/genx-1b-engines-surpass-50-million-flight-hours/2387142",
+                "source": "The Manila Times",
+                "date": "2026-07-19T13:02:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU ban on destroying unsold clothes takes effect",
+                "desc": "Under new rules to reduce waste, large companies across the European Union can no longer dispose of unsold clothes, accessories and footwear.",
+                "image": "https://static.dw.com/image/78025968_6.jpg",
+                "url": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888",
+                "source": "dw.com",
+                "date": "2026-07-19T13:02:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ActionAid wants FG, NASS to review tax impact on small businesses, others",
+                "desc": "ActionAid Nigeria's General Assembly and Board of Directors has called on the federal government and National Assembly to review the tax's impact on small",
+                "image": "https://blueprint.ng/wp-content/uploads/2026/07/IMG-20260719-WA0010.jpg",
+                "url": "https://blueprint.ng/actionaid-wants-fg-nass-to-review-tax-impact-on-small-businesses-others/",
+                "source": "Blueprint Newspapers",
+                "date": "2026-07-19T13:01:15Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "The First Lady's N50,000 grants: Reimagining sustainable empowerment",
                 "desc": "The National Bureau of Statistics (NBS) and the Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)...",
                 "image": "https://cdn.businessday.ng/wp-content/uploads/2024/10/Smedan.jpeg",
@@ -542,99 +632,99 @@
                 "source": "BusinessLine",
                 "date": "2026-07-19T05:25:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AZZ (AZZ) Stock Could Be 25% Overvalued Despite Raised 2027 Guidance",
-                "desc": "After a powerful 3 year run, AZZ stock is now facing a clear valuation tension. The Discounted Cash Flow (DCF) based intrinsic value suggests the shares trade at a premium, while market based checks point to something closer to a fair price. That mix sits alongside a low overall value score, which signals AZZ may not screen as a straightforward bargain despite its strong share price performance.\nAZZ has delivered a very large 3 year return of about 247%, which puts extra focus on whether the...",
-                "image": "https://images.simplywall.st/asset/industry/3052000-choice2-main-header/1585186800829",
-                "url": "https://simplywall.st/stocks/us/capital-goods/nyse-azz/azz/news/azz-azz-stock-could-be-25-overvalued-despite-raised-2027-gui",
-                "source": "simplywall.st",
-                "date": "2026-07-19T04:37:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exclusive-Samsung cuts US jobs, offers relocations ahead of HQ move",
-                "desc": "SEOUL, July 19 (Reuters) - Samsung Electronics has cut jobs at ⁠its U.S. display, phone and other consumer electronics operations — affecting workers mainly in New Jersey and Texas, according to documents and two people familiar with the ⁠matter.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/19/4017697.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/19/exclusive-samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move",
-                "source": "The Star",
-                "date": "2026-07-19T04:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 Reasons to Buy Netflix Stock on the Dip",
-                "desc": "The stock can reward patient investors in the long run.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879637%2Fnetflix-logo.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/19/2-reasons-to-buy-netflix-stock-on-the-dip/",
-                "source": "The Motley Fool",
-                "date": "2026-07-19T04:33:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 New Toyota SUVs Coming To India By 2027",
-                "desc": "Here are 5 upcoming Toyota SUVs tha you should wait for. Pricing, features and other key details you should know.",
-                "image": "https://motoroctane.com/wp-content/uploads/2026/07/Upcoming-toyota.jpg",
-                "url": "https://motoroctane.com/news/317991-5-new-toyota-suvs-coming-to-india-by-2027",
-                "source": "MotorOctane",
-                "date": "2026-07-19T04:30:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Q1 earnings this week: Infosys, Eternal, Bajaj Auto among 256 companies set to announce June quarter results",
-                "desc": "The Q1 FY27 earnings season gathers momentum this week, with 256 companies scheduled to announce their April-June quarter results. Key names include Infosys, Eternal, Bajaj Auto, UltraTech Cement, Nestlé India, Adani Power, Paytm and TVS Motor. Investors will closely track corporate earnings and management commentary for cues on business performance, demand trends and the broader market outlook.",
-                "image": "https://img.etimg.com/thumb/msid-132489828,width-1200,height-630,imgsize-33758,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-this-week-infosys-eternal-bajaj-auto-among-256-companies-set-to-announce-june-quarter-results/articleshow/132489828.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-19T04:24:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China's Jingye Steel urges UK to compensate its investment losses",
-                "desc": "BEIJING, July 19 (Reuters) - China's Jingye Steel has urged Britain to immediately stop \"trampling on international investment rules\" and to promptly, fully and effectively compensate the company for",
-                "image": "https://s.yimg.com/lo/mysterio/api/26085E0D977A33E6A1849346CB0E825789E4A7BFE49B89B9056F97993B321CF4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F06e4d2781ec4310c7c010309f605b401",
-                "url": "https://uk.finance.yahoo.com/news/chinas-jingye-steel-urges-uk-042213346.html",
-                "source": "Yahoo Finance UK",
-                "date": "2026-07-19T04:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Delhi dosa seller reveals business once touched Rs 12 lakh a month, explains why profits fell",
-                "desc": "A conversation between a food vlogger and a Delhi-based dosa shop owner has gone viral after the businessman claimed his outlet once generated ₹12–13 lakh in monthly revenue and shared why profits and customer footfall have since declined.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251127080737_dosa.jpg",
-                "url": "https://www.moneycontrol.com/news/trends/delhi-dosa-seller-reveals-business-once-touched-rs-12-lakh-a-month-explains-why-profits-fell-13977634.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-19T04:19:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "F&O Talk: Nifty IT gaining strong momentum, says Sudeep Shah; outlines HDFC Bank, ICICI Bank strategy after Q1",
-                "desc": "The Nifty IT index has rebounded nearly 13.5% from its July 1 low and gained around 5% this week, signalling improving momentum. Technical indicators, including the RSI, MACD and Relative Rotation Graph (RRG), point to strengthening bullish sentiment. The 29,600–29,650 zone is the key resistance, while 28,500–28,550 is expected to act as immediate support.",
-                "image": "https://img.etimg.com/thumb/msid-132489793,width-1200,height-630,imgsize-324932,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-it-gaining-strong-momentum-says-sudeep-shah-outlines-hdfc-bank-icici-bank-strategy-after-q1/articleshow/132489745.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-19T04:12:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marvel Super Heroes Top 8 Players and Modern Decks",
-                "desc": "From expert drafters to crafty Modern deck-builders, these players represent the pinnacle of the Pro Tour field. Join us on Sunday to see which of them becomes our newest champion!",
-                "image": "https://images.ctfassets.net/ryplwhabvmmk/7pjlofeX7eOzBtlCs3OArl/e10678cb77c9c1d27ca43e4133d80453/PT-MSH-Top-8-1920x1080.jpg",
-                "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-top-8-players-and-modern-decks",
-                "source": "magic.gg",
-                "date": "2026-07-19T04:10:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
-                "desc": "Dalal Street ended the week on a strong note, with the Sensex and Nifty gaining over 1% on Friday. Investors will track six key market triggers this week, including the peak of the Q1 earnings season, the escalating Iran-US conflict, surging crude oil prices, the global tech selloff, rupee movement and FII flows. Analysts remain cautiously optimistic on market sentiment.",
-                "image": "https://img.etimg.com/thumb/msid-132489722,width-1200,height-630,imgsize-168352,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-19T04:07:40Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "A chip that creates and senses terahertz waves could shrink future networks",
+                "desc": "A long-overlooked semiconductor structure turned out to be fast enough to power compact terahertz technologies.",
+                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/terahertz-system.jpg",
+                "url": "https://interestingengineering.com/science/us-scientists-shrink-terahertz-lab-chip",
+                "source": "Interesting Engineering",
+                "date": "2026-07-19T13:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Game Pass Is Getting Worse on July 31, and Subscribers Are Ready to Cancel",
+                "desc": "Xbox Game Pass and PC Game Pass are getting much worse on August 1, and some subscribers are ready to cancel.",
+                "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/07/x-b-o-x-g-a-m-e-p-a-s-s_0d8ed3.png?resize=2000,1125",
+                "url": "https://comicbook.com/gaming/news/xbox-game-pass-ultimate-pc-gamepass-july-31/",
+                "source": "ComicBook.com",
+                "date": "2026-07-19T13:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Windows 11's slowest feature is about to get dramatic speed improvements, and its File Explorer's This PC search",
+                "desc": "Marcus Ash confirms Windows 11 File Explorer search is getting the same speed and relevance fixes as Windows Search, starting with This PC",
+                "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Windows-11-File-Explorer-search-across-This-PC-is-getting-the-same-speed-and-relevance-fixes-as-the-new-Windows-Search.jpg",
+                "url": "https://www.windowslatest.com/2026/07/19/windows-11s-slowest-feature-is-about-to-get-dramatic-speed-improvements-and-its-file-explorer-search/",
+                "source": "Windows Latest",
+                "date": "2026-07-19T13:08:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Halo: Campaign Evolved Release Date, Release Times & Early Access Details For Xbox & PC",
+                "desc": "It's almost time for another massive first-party release! - We're finally approaching the release of Xbox's next major first-party title for 2026 in the form...",
+                "image": "https://images.purexbox.com/c93a34b643a8a/large.jpg",
+                "url": "https://www.purexbox.com/guides/halo-campaign-evolved-release-date-release-times-and-early-access-details-for-xbox-and-pc",
+                "source": "Pure Xbox",
+                "date": "2026-07-19T13:03:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 18 Pro leaks suggest Dark Cherry colour, bigger battery, A20 Pro chip",
+                "desc": "Leaks suggest Apple's iPhone 18 Pro could introduce a Dark Cherry colour, retain its familiar design, and bring upgrades to battery capacity, camera hardware and the A20 Pro chip ahead of its expected September unveiling.",
+                "image": "https://images.storyboard18.com/storyboard18/2026/07/Visuals-Page-2026-07-19T134844.906-2026-07-7df0cbf74eb8c827b14700ae416a1739-1019x573.jpg",
+                "url": "https://www.storyboard18.com/brand-marketing/iphone-18-pro-leaks-suggest-dark-cherry-colour-bigger-battery-a20-pro-chip-104814.htm",
+                "source": "Storyboard18",
+                "date": "2026-07-19T13:01:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Proton got so good I keep forgetting which of my games were even built for Windows",
+                "desc": "Most PC games are still made for Windows only, but Proton makes me completely forget about it when i play on Linux.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/steam-gaming-mode-featured.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/proton-got-so-good-keep-forgetting-which-games-built-windows/",
+                "source": "XDA",
+                "date": "2026-07-19T13:00:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mailbox: The Future Of Smash, Mouse Mode Upgrades, Revolutions - Nintendo Life Letters",
+                "desc": "Issue #38 - July 2026 - Welcome back to another look through the Nintendo Life Mailbox. Well done, you made it. It's been a fairly quiet time for Nintendo i...",
+                "image": "https://images.nintendolife.com/a2c9b22c2335c/large.jpg",
+                "url": "https://www.nintendolife.com/news/2026/07/mailbox-the-future-of-smash-mouse-mode-upgrades-revolutions-nintendo-life-letters",
+                "source": "nintendolife.com",
+                "date": "2026-07-19T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'It Isn't Something Carved in Stone': Xbox Still Unclear on Future PS5 Ports",
+                "desc": "Single player games could still come to Sony's console",
+                "image": "https://images.pushsquare.com/207e2dd7768ea/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/it-isnt-something-carved-in-stone-xbox-still-unclear-on-future-ps5-ports",
+                "source": "Push Square",
+                "date": "2026-07-19T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Windows 11 trades noisy Bing ads for the clean search experience it always needed - plus other updates you should know about this week",
+                "desc": "It took years of relentless user pushback, but Microsoft is finally rescuing Windows Search from ads and clutter.",
+                "image": "https://cdn.mos.cms.futurecdn.net/B9MdMHYCkMLY9iP2xSCpyE-2560-80.jpg",
+                "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-trades-noisy-bing-ads-for-the-clean-search-experience-it-always-needed",
+                "source": "Windows Central",
+                "date": "2026-07-19T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OnePlus died with a whimper, not a bang",
+                "desc": "OnePlus is dead – actually for real this time. It’s got me looking back on my experiences with the brand’s...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/oneplus-open-and-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/19/oneplus-died-with-a-whimper-not-a-bang/",
+                "source": "9to5Google",
+                "date": "2026-07-19T13:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "EU: No, Your New Smartwatch Isn't Getting a Replaceable Battery",
                 "desc": "Earlier this week, the European Commission adopted a new act which exempts several new product categories from legally requiring replaceable batteries, including smartwatches, fitness trackers, electric toys, and smart glasses.",
@@ -1174,99 +1264,99 @@
                 "source": "ManilaShaker Philippines",
                 "date": "2026-07-19T04:18:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Waze rolls out Motorcycle Mode, Philippines among first markets to get it",
-                "desc": "Waze has announced a new Motorcycle Mode designed specifically for riders, with the Philippines included among the first countries to...",
-                "image": "https://www.yugatech.com/wp-content/uploads/2026/07/260719-ygt-waze-motorcycle-mode-philippines-among-upload.webp",
-                "url": "https://www.yugatech.com/news/waze-motorcycle-mode-philippines/",
-                "source": "YugaTech",
-                "date": "2026-07-19T04:18:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How period trackers share your private details",
-                "desc": "New research uncovers which apps lock down your privacy, and which don't.",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/ea103350-7b3c-4d80-8272-82a008a98e44.webp?1784437207548",
-                "url": "https://www.the-star.co.ke/news/world/2026-07-19-how-period-trackers-share-your-private-details",
-                "source": "the-star.co.ke",
-                "date": "2026-07-19T04:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI's Device Signals a New Era of Always",
-                "desc": "The new OpenAI device is reportedly a screenless AI speaker built to live with you, not just answer you. Here's what that means for prompting.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/OpenAIs-Device-Signals-a-New-Era-of-Always-Present-AI.jpeg",
-                "url": "https://memeburn.com/openais-device-signals-a-new-era-of-always-present-ai/",
-                "source": "Memeburn",
-                "date": "2026-07-19T04:10:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tales of Eternia Remastered gets huge list of new features and improvements",
-                "desc": "Bandai Namco released a big list of all of the new features and improvements it has in the works for Tales of Eternia Remastered. There are a bunch of things here, ranging from optional field and battle speed increases to autosaves. The team is also including extra features like a skit player and a sound player. We’ve also bring up...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Tales-of-Eternia-Remastered-new-features-improvements.jpg",
-                "url": "https://nintendoeverything.com/tales-of-eternia-remastered-gets-huge-list-of-new-features-and-improvements/",
-                "source": "Nintendo Everything",
-                "date": "2026-07-19T04:05:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 phone settings to improve battery life and make it last longer",
-                "desc": "Mobile experts reveal four simple phone settings that can make your battery last longer as research shows millions worry about running low on power",
-                "image": "https://www.bournemouthecho.co.uk/resources/images/21199893.jpg?type=og-image",
-                "url": "https://www.bournemouthecho.co.uk/news/26290124.4-phone-settings-improve-battery-life-make-last-longer/",
-                "source": "Bournemouth Echo",
-                "date": "2026-07-19T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bethesda announces new ‘Fallout’ roadmap following Xbox reset",
-                "desc": "Microsoft Corp's Bethesda Game Studios announced a slew of new Fallout projects on July 17, less than two weeks after parent company Xbox said it would cut thousands of jobs and double down on its biggest franchises, including the post-apocalyptic roleplaying game series.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/18/4016976.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/19/bethesda-announces-new-fallout-roadmapfollowing-xbox-reset",
-                "source": "The Star",
-                "date": "2026-07-19T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Today's Hurdle hints and answers for July 19,, 2026",
-                "desc": "Hints and answers to today's Hurdle all in one place.",
-                "image": "https://helios-i.mashable.com/imagery/articles/03t458kBieuq6oowmNtygXR/hero-image.fill.size_1200x675.v1784300329.jpg",
-                "url": "https://mashable.com/entertainment/hurdle-hints-answers-july-19-2026",
-                "source": "Mashable",
-                "date": "2026-07-19T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exclusive: Snapdragon 4 Gen 6 data sheet reveals a new Adreno GPU and TSMC 4 nm process",
-                "desc": "A leaked Qualcomm data sheet details the unreleased SM4875 “Poros,” a next-generation Snapdragon 4-series chip, tentatively named 4 Gen 6, featuring an Adreno 6-series GPU, LPDDR5 support, optional Wi-Fi 6 and Bluetooth 6.0, and TSMC’s 4 nm process. While its Kryo CPU configuration remains unchanged, upgraded connectivity, security hardware, and I/O suggest a substantial platform refresh ahead of a possible 2027 launch.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Snapdragon-4-Gen-6-promotional-image-qualcomm-1784432629.jpg",
-                "url": "https://www.notebookcheck.net/Exclusive-Snapdragon-4-Gen-6-data-sheet-reveals-a-new-Adreno-GPU-and-TSMC-4-nm-process.1346519.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-19T03:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exclusive: Next-gen Snapdragon 4-series data sheet reveals a new Adreno GPU and TSMC 4 nm process",
-                "desc": "News, Reviews and other Informations about Laptops",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Snapdragon-4-Gen-6-promotional-image-qualcomm-1784432629.jpg",
-                "url": "https://www.notebookcheck.net/Exclusive-Next-gen-Snapdragon-4-series-data-sheet-reveals-a-new-Adreno-GPU-and-TSMC-4-nm-process.1346519.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-19T03:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft tests cloud recovery feature for Windows 11 repairs",
-                "desc": "Microsoft is testing a new Windows 11 feature called \"Cloud rebuild\" designed to salvage systems that fail to boot or reset, allowing users to reinstall the operating system directly from the cloud via the recovery screen without the need for a flash drive or ISO file.",
-                "image": "https://static.bangkokpost.com/media/content/20260719/c2_3288292.jpg",
-                "url": "https://www.bangkokpost.com/life/tech/3288292/microsoft-tests-cloud-recovery-feature-for-windows-11-repairs",
-                "source": "Bangkok Post",
-                "date": "2026-07-19T03:38:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "U.S. launches more air strikes as Iran targets Jordan in latest exchange of fire",
+                "desc": "Iran, U.S. inch closer to all-out war as interim deal crumbles and traffic in Strait of Hormuz stalls",
+                "image": "https://www.theglobeandmail.com/resizer/v2/V3BA2Z2A2FBDNMVTV7MXO6FQAM.jpg?auth=bb9a6e113190752beb2bd91b2e0eed58a36b5136e5495a1f6a69ac02e0a76a6b&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/world/article-iran-strikes-us-allies-in-latest-exchange-of-fire/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-19T13:15:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Air Cambodia buys 20 Chinese-built C909 regional jets; first foreign carrier to place bulk order",
+                "desc": "Air Cambodia, the country's national flag carrier, has signed an agreement with the Commercial Aircraft Corporation of China, Ltd. (COMAC) to purchase 20 C909 regional jets",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/19/4018349.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/19/air-cambodia-buys-20-chinese-built-c909-regional-jets-first-foreign-carrier-to-place-bulk-order",
+                "source": "The Star",
+                "date": "2026-07-19T13:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US hits Iran's Revolutionary Guard as Israel warns of spillover",
+                "desc": "The United States has launched airstrikes in Iran, targeting the Revolutionary Guard in response to the killing of American troops in Jordan.",
+                "image": "https://dims.apnews.com/dims4/default/fdd8dc6/2147483647/strip/true/crop/3434x2288+323+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2Fbe%2F47cb2a13d407e1a3ffb3f131f355%2F40c511a50b5940ac8511b832e5aecf5d",
+                "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8",
+                "source": "AP News",
+                "date": "2026-07-19T13:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US attacks Iran’s Revolutionary Guard over troops killed in Jordan",
+                "desc": "The strikes on Sunday come as an interim deal seeking to find an end to the Iran war has collapsed.",
+                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTkwNjM4MTdcXFwvNjg5NzdhZjRiYzlhNDlhNzlhZDkyODM2NDI2NWU5MjUtMi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImRhYWM4ODQ0YmVlNmViM2U1YTlhNGUwY2ZkMmFjMzdhNGI0MGM1ZjcifQ==/us-attacks-iran-s-revolutionary-guard-over-troops-killed-in-jordan.jpg",
+                "url": "https://www.breakingnews.ie/world/us-attacks-irans-revolutionary-guard-over-troops-killed-in-jordan-1928903.html",
+                "source": "BreakingNews.ie",
+                "date": "2026-07-19T13:03:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An epic Dubrovnik journey that ditches the crowds",
+                "desc": "Dubrovnik has long been one of Europe's most over-touristed destinations. Now, a new Camino footpath is revealing a different side of the city beyond its medieval walls.",
+                "image": "https://ychef.files.bbci.co.uk/624x351/p0ny3w4r.jpg",
+                "url": "https://www.bbc.com/travel/article/20260717-a-new-way-to-see-the-worlds-most-overcrowded-city",
+                "source": "BBC",
+                "date": "2026-07-19T13:01:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hiding and confusing the trail: Sun Russia will soon receive improved missiles for Iskander",
+                "desc": "EADaily, July 19th, 2026. In the near future, the Russian army may receive additional upgraded ballistic missiles with a range of up to 480 km. This is reported by the publication \"Strana\" with reference to the Ukrainian monitoring public.",
+                "image": "https://img3.eadaily.com/r650x400/o/a0a/61e4ea80bd8f30f2abcd60a417716.jpeg",
+                "url": "https://eadaily.com/en/news/2026/07/19/hiding-and-confusing-the-trail-sun-russia-will-soon-receive-improved-missiles-for-iskander",
+                "source": "EADaily",
+                "date": "2026-07-19T12:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Satellite Images Show Impact of Ukrainian Strikes on Russia’s Engels Air Base. Here’s What We Know",
+                "desc": "Satellite images confirm a Russian Tu-95MS bomber was destroyed by a Ukrainian drone strike at Engels-2 air base, suffering catastrophic tail damage.",
+                "image": "https://storage.united24media.com/og/1/3e/2c9a4f70822f57c8362f3b7cf6ae63e1.jpg",
+                "url": "https://united24media.com/war-in-ukraine/new-satellite-images-show-impact-of-ukrainian-strikes-on-russias-engels-air-base-heres-what-we-know-20886",
+                "source": "UNITED24 Media",
+                "date": "2026-07-19T12:58:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK Confirms Visa Requirement For Over 100 Countries Visiting Under 6 Months",
+                "desc": "The United Kingdom has updated its Immigration Rules Appendix Visitor, reaffirming the list of countries and categories of travellers required to obtain a",
+                "image": "https://leadership.ng/wp-content/uploads/2026/07/IMG_7224.jpeg",
+                "url": "https://leadership.ng/full-list-uk-confirms-countries-that-require-visas-for-under-6-months-stay/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-07-19T12:57:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why have India’s Gen Z protesters called for a march to parliament?",
+                "desc": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-18T091855Z_822911136_RC26GMA8KB32_RTRMADP_3_INDIA-GEN-Z-ACTIVIST-1784450624.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament",
+                "source": "Al Jazeera",
+                "date": "2026-07-19T12:57:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jihadists Continue to Degrade Mali’s Air Capabilities * Military Africa",
+                "desc": "On 5 July 2026, the Azawad Liberation Front (FLA) downed a Russian-operated Mil Mi-24P attack helicopter during a joint FLA-Jamaa’at Nusrat al-Islam wal Muslimeen (JNIM) siege on Anefis in northern […]",
+                "image": "https://www.military.africa/wp-content/uploads/2026/07/tuareg-rebels-down-two-russian-africa-corps-aircraft-mali-scaled.webp",
+                "url": "https://www.military.africa/2026/07/tuareg-rebels-and-salafi-jihadists-continue-to-degrade-malis-air-capabilities/",
+                "source": "Military Africa",
+                "date": "2026-07-19T12:56:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "China Still Fiercely Opposes Tokyo-Manila Maritime Talks",
                 "desc": "Beijing, July 19 (Jiji Press)--China has maintained its fierce opposition to an agreement between Tokyo and Ma…",
@@ -1806,98 +1896,8 @@
                 "source": "Ynetnews",
                 "date": "2026-07-19T05:24:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese President Xi Jinping sends a strong message to American technology companies on AI; says: China is ready to…",
-                "desc": "Tech News News: Chinese President Xi Jinping used China’s biggest tech stage to draw a sharp line between how Beijing and Washington think about artificial intelligen.",
-                "image": "https://static.toiimg.com/thumb/msid-132489961,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/chinese-president-xi-jinping-sends-a-strong-message-to-american-technology-companies-on-ai-says-china-is-ready-to/articleshow/132489964.cms",
-                "source": "The Times of India",
-                "date": "2026-07-19T04:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why new divorce figures show ‘unreasonable behaviour’ is Singapore’s biggest marriage breaker",
-                "desc": "SINGAPORE, July 19 — Almost half of all civil divorces in Singapore last year were filed on the grounds of “unreasonable behaviour”, while adultery accounted for fewer than...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/19/352705.jpg",
-                "url": "https://www.malaymail.com/news/singapore/2026/07/19/why-new-divorce-figures-show-unreasonable-behaviour-is-singapores-biggest-marriage-breaker/228185",
-                "source": "Malay Mail",
-                "date": "2026-07-19T04:29:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Passenger blasts Singapore bus captain for driving ‘too slowly’ - now the driver has gone to police",
-                "desc": "SINGAPORE, July 19 — A Singapore bus captain who was berated by a passenger for allegedly driving too slowly has filed a police report after the viral confrontation prompted an...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/19/352703.jpg",
-                "url": "https://www.malaymail.com/news/singapore/2026/07/19/passenger-blasts-singapore-bus-captain-for-driving-too-slowly-now-the-driver-has-gone-to-police/228183",
-                "source": "Malay Mail",
-                "date": "2026-07-19T04:29:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'He's a war criminal': Mayor Zohran Mamdani mulls Israeli PM Netanyahu's arrest during UNGA in New York",
-                "desc": "Zohran Mamdani admitted he is unsure if he has the authority to order the New York Police Department (NYPD) to detain a foreign leader. | World News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/19/550x309/USA-250-NEWYORK-MAMDANI-17_1784433228239_1784433247805_96c413f2-49c8-4181-ac6d-e029d4dd46f5.JPG",
-                "url": "https://www.hindustantimes.com/world-news/hes-a-war-criminal-mayor-zohran-mamdani-mulls-israeli-pm-netanyahu-arrest-during-unga-in-new-york-101784432920819.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-19T04:29:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "July 18, 2026 - US-Iran war news",
-                "desc": "There’s no sign that renewed fighting between the US and Iran will end soon. A week of intensified strikes has left the ceasefire in tatters.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/nic-r-jlem-2p.png?c=16x9&q=w_800,c_fill",
-                "url": "https://edition.cnn.com/2026/07/18/world/live-news/iran-war-trump",
-                "source": "CNN",
-                "date": "2026-07-19T04:29:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The making of Jaswant Singh Khalra: 3 generations of resistance",
-                "desc": "What is his family’s connection with Banda Singh Bahadur, the Ghadar movement.",
-                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY5MmU4YTkwLTgzMzEtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5wbmc=",
-                "url": "https://www.tribuneindia.com/news/punjab/the-making-of-jaswant-singh-khalra-3-generations-of-resistance/",
-                "source": "The Tribune",
-                "date": "2026-07-19T04:22:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US completes eighth night of strikes on Iran, targets IRGC forces over Jordan attack | Watch",
-                "desc": "The US military said it completed its eighth consecutive night of strikes on Iran, targeting IRGC forces linked to the deadly Jordan attack and key Iranian military facilities.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260719042106_centcom-us-iran.png",
-                "url": "https://www.moneycontrol.com/world/us-completes-eighth-night-of-strikes-on-iran-targets-irgc-forces-over-jordan-attack-watch-article-13977630.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-19T04:21:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US strikes Iran's Revolutionary Guard over attack that killed troops in Jordan",
-                "desc": "The strikes, now part of a weeklong campaign that has seen Iran strike U.S.-allied countries across the Middle East, comes as an interim deal seeking to find an end to the Iran war has collapsed.",
-                "image": "https://www.castanet.net/content/2026/7/a649dce7b06809700f7a5c95db790a4738bb10803edffb5673831cde7f96974b.jpg",
-                "url": "https://www.castanet.net/news/World/625281/US-strikes-Iran-s-Revolutionary-Guard-over-attack-that-killed-troops-in-Jordan",
-                "source": "Castanet",
-                "date": "2026-07-19T04:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
-                "desc": "Sirik and Hajiabad areas in Iran’s Hormozgan province targeted as US says revenge for killing of two soldiers.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-18T144008Z_1773237900_RC2EGMA4IJ4T_RTRMADP_3_IRAN-CRISIS-KUWAIT-OIL-1784426245.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran",
-                "source": "Al Jazeera",
-                "date": "2026-07-19T04:18:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Corrupt officials blamed for businesses illegally run by foreigners",
-                "desc": "Corrupt government officials were viewed as the main factor allowing foreigners to illegally operate businesses in Thailand, a Nida poll showed on Sunday.",
-                "image": "https://static.bangkokpost.com/media/content/20260719/c1_3288327_700.jpg",
-                "url": "https://www.bangkokpost.com/thailand/general/3288327/corrupt-officials-blamed-for-businesses-illegally-run-by-foreigners",
-                "source": "Bangkok Post",
-                "date": "2026-07-19T04:18:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-19T23:41:12.529638Z"
+    "lastGlobalSync": "2026-07-20T01:15:29.672746Z"
 }
