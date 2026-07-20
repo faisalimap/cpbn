@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "DBS named Asia's Best Digital Bank by Euromoney, recognised for its AI leadership and responsible innovation",
+                "desc": "DBS generated ~SGD 1 billion in economic value from data analytics and AI/ML initiatives in 2025,",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/pr-newswire/dbs-named-asias-best-digital-bank-by-euromoney-recognised-for-its-ai-leadership-and-responsible-innovation/2387232",
+                "source": "The Manila Times",
+                "date": "2026-07-20T01:28:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TSMC’s $265 billion U.S. spend driven by demand and rivals, CFO says",
+                "desc": "The company, fresh off reporting expectation-beating sales and profit and increasing its growth forecasts, still sees challenges in fulfilling all customer orders.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/20/552535.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/20/tech/tsmc-cfo-265-billion-us/",
+                "source": "The Japan Times",
+                "date": "2026-07-20T01:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sophos Report: Identity-based attacks overtake software flaws as leading ransomware entry point",
+                "desc": "Cybercriminals are increasingly targeting user identities rather than software vulnerabilities to launch ransomware attacks, according to Sophos' latest State...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/20/117300.webp",
+                "url": "https://mb.com.ph/2026/07/20/sophos-report-identity-based-attacks-overtake-software-flaws-as-leading-ransomware-entry-point",
+                "source": "Manila Bulletin",
+                "date": "2026-07-20T01:27:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airlines take defensive stance as fuel and FX risks loom",
+                "desc": "Despite robust growth in passenger demand, local airlines are entering the second half of 2026 with cautious business plans, prioritising financial resilience as fuel costs, exchange rate risks and intensifying competition continue to squeeze profitability.",
+                "image": "https://vir.com.vn/stores/news_dataimages/2026/072026/17/15/in_social/airlines-take-defensive-stance-for-h2-2026-as-fuel-and-fx-risks-loom-20260717152116.jpg?randTime=1784511459",
+                "url": "https://vir.com.vn/airlines-take-defensive-stance-as-fuel-and-fx-risks-loom-156943.html",
+                "source": "Vietnam Investment Review - VIR",
+                "date": "2026-07-20T01:27:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Zealand Dollar remains subdued following PBoC policy decision",
+                "desc": "NZD/USD remains in negative territory for the third consecutive day, trading around 0.5840 during the Asian hours on Monday.",
+                "image": "https://editorial.fxsstatic.com/images/i/NZDUSD-bearish-line_Medium.png",
+                "url": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-following-pboc-policy-decision-202607200127",
+                "source": "FXStreet",
+                "date": "2026-07-20T01:27:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’t",
+                "desc": "The crisis revealed the flexibility of global energy markets, with refiners, traders, governments, and consumers rapidly adjusting production, trade routes, inventories, and demand in response",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-19_k3idoufh5d.jpg",
+                "url": "https://oilprice.com/Energy/Energy-General/Europe-Was-Supposed-to-Run-Out-of-Jet-Fuel-by-June-It-Didnt.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-20T01:26:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet Luca Lavigne, the 28-year-old boss of Mamamia",
+                "desc": "When Mumbrella sat down with the outgoing and incoming bosses of women’s media network Mamamia — Nat Harvey and Luca Lavigne, respectively — we were relishing asking the obvious question: how is a 28-year-old qualified to run a business?It turns out 28-year-olds, like all people, come in different configurations.As he explained in the interview — […]",
+                "image": "https://mumbrella.com.au/wp-content/uploads/2026/07/Luca-Lavigne-Nat-Harvey.jpg",
+                "url": "https://mumbrella.com.au/meet-luca-lavigne-the-28-year-old-boss-of-mamamia-930110",
+                "source": "Mumbrella",
+                "date": "2026-07-20T01:26:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Businesses face challenges in greenhouse gas inventories",
+                "desc": "Enterprises, particularly in the thermal power, cement, and iron and steel sectors, face major challenges in compiling greenhouse gas inventories due to fragmented data systems, inconsistent activity data, and a lack of dedicated personnel.",
+                "image": "https://vir.com.vn/stores/news_dataimages/2026/072026/17/15/in_social/businesses-face-challenges-in-greenhouse-gas-inventories-20260717152721.png?randTime=1784515213",
+                "url": "https://vir.com.vn/businesses-face-challenges-in-greenhouse-gas-inventories-156945-156945.html&link=autochanger",
+                "source": "Vietnam Investment Review - VIR",
+                "date": "2026-07-20T01:26:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Foodies Choice Awards opens nominations across 5 African countries",
+                "desc": "Public nominations have opened for the maiden edition of the Foodies Choice Awards across Nigeria, Ghana, Kenya, Tanzania and Rwanda, as organisers seek to recognise outstanding contributions to Africa’s food and agriculture sector.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/Oluwafemi-Ogundoro.jpeg",
+                "url": "https://thesun.ng/foodies-choice-awards-opens-nominations-across-5-african-countries/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-20T01:21:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iDICE opens growth lab, targets Nigerian startups with $350,000 funding",
+                "desc": "The federal government’s Investment in Digital and Creative Enterprises (iDICE) Programme has opened applications for Growth Lab, a 12-week accelerator designed to help high-potential Nigerian startups scale their businesses through mentorship, investment readiness training and funding opportunities of up to $350,000.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/iDICE.webp",
+                "url": "https://thesun.ng/idice-opens-growth-lab-targets-nigerian-startups-with-350000-funding/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-20T01:21:09Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Neuronata-R retains conditional approval in South Korea",
                 "desc": "South Korea's Ministry of Food and Drug Safety (MFDS) updates the stem cell therapy's approval in May 2026 - as the developer works to resume supply and build a U.S. research base",
                 "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
@@ -542,99 +632,99 @@
                 "source": "RNZ",
                 "date": "2026-07-19T10:28:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Facebook down for users worldwide as accounts given same message",
-                "desc": "Millions have been hit with the same message",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc2c25e711ee34ed9/6a5c8bb89414266a22a43a90/facebook-down-latest.jpg",
-                "url": "https://www.ladbible.com/technology/facebook-down-why-technology-message-social-media-036331-20260719",
-                "source": "LADbible",
-                "date": "2026-07-19T09:02:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If You’re a Federal Employee, You May Now Install TikTok on Your Work Phone Even Though It's Illegal",
-                "desc": "Did you even remember there was a ban?",
-                "image": "https://gizmodo.com/app/uploads/2025/05/TikTok-Bans-and-Restrictions-e1766157892387-1200x675.jpg",
-                "url": "https://gizmodo.com/if-youre-a-federal-employee-you-may-now-install-tiktok-on-your-work-phone-even-though-its-illegal-2000787440",
-                "source": "Gizmodo",
-                "date": "2026-07-19T09:00:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
-                "desc": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
-                "image": "https://static01.nyt.com/images/2026/07/19/business/19Polymarket-cover-illo/19Polymarket-cover-illo-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
-                "source": "The New York Times",
-                "date": "2026-07-19T09:00:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "America’s Lakes Are Shrinking. Data Centers Are Being Built Nearby",
-                "desc": "America's shrinking Western lakes are colliding with an AI data-center boom, fueling new concerns over water scarcity.",
-                "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/Copy-of-32-Split-Screen-45.png?w=1200&crop=1",
-                "url": "https://www.newsweek.com/america-lakes-shrinking-data-centers-being-built-nearby-12204092",
-                "source": "Newsweek",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This iPhone Trick Can Eliminate Spam Calls for Good",
-                "desc": "You don't have to put up with spam calls any longer.",
-                "image": "https://www.cnet.com/a/img/resize/b5bbf0985ed8e0d93e1b0f4ee4267d1f2083e9d1/hub/2025/10/01/bcd63b14-c50d-409f-a02c-7b25af9863e6/ios-26-cnet-2.png?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/services-and-software/this-iphone-trick-can-eliminate-spam-calls-for-good/",
-                "source": "CNET",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How much liability coverage do I really need for my car?",
-                "desc": "While the minimum in Ontario is $200,000, experts say the minimum of liability coverage they recommend is $2-million",
-                "image": "https://www.theglobeandmail.com/resizer/v2/EHUR36JGL5GDFLCTVL2LL4LU3A.jpg?auth=2f4c728d2a84c9f9d4e90ad391c012e17f91f5127d05036504bc100e15c558be&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/drive/culture/article-how-much-liability-coverage-do-i-really-need-for-my-car/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alcohol costs P.E.I. more than it brings in, new provincial strategy says",
-                "desc": "Prince Edward Island has released a new provincial alcohol strategy aimed at reducing illness and harms linked to drinking, and experts say it puts the province ahead of much of the country.",
-                "image": "https://i.cbc.ca/ais/6f741247-38c4-4420-ab4e-6205c5b85ab4,1753142325402/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7680%2C4320%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-new-alcohol-strategy-9.7270925",
-                "source": "CBC",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fix AI Mode or get Google out of classrooms, advocates say",
-                "desc": "A recent report claiming Google AI-powered Search is unsafe for children has led advocates to question the EdTech giant's place in schools.",
-                "image": "https://helios-i.mashable.com/imagery/articles/051q1Nkl99Vt1im5C2xn6J7/hero-image.fill.size_1200x675.v1784225228.jpg",
-                "url": "https://mashable.com/tech/is-google-search-ai-mode-safe-for-students",
-                "source": "Mashable",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Can Australia dodge the next Iran oil shock?",
-                "desc": "Energy companies and governments are racing to find new oil supply routes. Others argue the real solution is to reduce the need for oil in the first place.",
-                "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/38ea08a8aadf4ad42de7840df22c917da498005a",
-                "url": "https://www.smh.com.au/business/the-economy/can-australia-dodge-the-next-iran-oil-shock-20260717-p60g4x.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bill Ackman Runs a $14 Billion Fund on Just 11 Stocks. These Are His 3 Biggest Bets Right Now.",
-                "desc": "The billionaire investor's three largest positions add up to about half of his entire portfolio.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879283%2Fbill-ackman_pershing-square-capital-management_ceo_imagesource_getty-images.jpeg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/19/bill-ackman-runs-a-14-billion-fund-on-just-11-stoc/",
-                "source": "The Motley Fool",
-                "date": "2026-07-19T08:59:43Z",
-                "priority": "MAJOR_ALERT"
             }
         ],
         "technology": [
+            {
+                "title": "Need for Speed franchise unlikely to be revived",
+                "desc": "It appears it’s the end of the road for the long-running Need for Speed video game franchise, with its developers now solely focused on first-person shooters.",
+                "image": "https://storage.ghost.io/c/a9/b3/a9b3e204-3117-4792-9a32-46184029df44/content/images/size/w1200/2026/07/need-for-speed-unbound.jpg",
+                "url": "https://torquecafe.com/need-for-speed-franchise-unlikely-to-be-revived/",
+                "source": "Torquecafe",
+                "date": "2026-07-20T01:20:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reolink Video Doorbell 2nd Gen launches in Australia with up to 10 months' battery life and AI package detection",
+                "desc": "The Reolink Video Doorbell 2nd Gen is now available in Australia with up to 10 months' battery life, local AI detection, flexible power options and no subscription.",
+                "image": "https://i0.wp.com/www.digitalreviews.net/wp-content/uploads/2026/07/Reolink_Video_Doorbell_2nd_gen_feat.jpg?fit=1200%2C628&ssl=1",
+                "url": "https://www.digitalreviews.net/news/pressers/reolink-video-doorbell-2nd-gen-australia/",
+                "source": "Digital Reviews Network",
+                "date": "2026-07-20T01:19:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Valve warns that memory prices continue to rise and that the situation is getting worse",
+                "desc": "If you think Steam Machines are too expensive and plan to wait until the price drops, we have some really bad news.",
+                "image": "https://www.gamereactor.eu/media/24/_4932403b.jpg",
+                "url": "https://www.gamereactor.eu/valve-warns-that-memory-prices-continue-to-rise-and-that-the-situation-is-getting-worse-1749343/",
+                "source": "Gamereactor UK",
+                "date": "2026-07-20T01:18:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Outdoor movie magic meets clean energy in Comox",
+                "desc": "Enjoy a free July 24 screening at Marina Park There’s something special about watching a movie under the stars – and this summer, Comox Valley residents can",
+                "image": "https://sponsored.carpentermediagroup.com/wp-content/uploads/sites/57/2026/07/July-20-FreshAirCinema-COMOX.jpg?w=1024",
+                "url": "https://comoxvalleyrecord.com/sponsored-content/outdoor-movie-magic-meets-clean-energy-in-comox",
+                "source": "Comox Valley Record",
+                "date": "2026-07-20T01:14:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Games Inbox: What new Fallout game will be the best?",
+                "desc": "Monday’s Inbox tries to make sense of the recent Fallout announcements, as a reader hopes EA Sports FC 27 will be a special sequel.",
+                "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_304612207-6109_1784509617.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+                "url": "https://metro.co.uk/2026/07/20/games-inbox-new-fallout-game-will-best-29178407/",
+                "source": "Metro.co.uk",
+                "date": "2026-07-20T01:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft restores access to 25-year-old Xbox account worth thousands of dollars, exposes pitfalls of digital gaming",
+                "desc": "A positive turnaround to a disastrous loss of content has shone a spotlight on the pitfalls of digital gaming, as users can lose access at any time.",
+                "image": "https://static.tweaktown.com/news/1/1/112671_1_microsoft-restores-access-to-25-year-old-xbox-account-worth-thousands-of-dollars-exposes-pitfalls-digital-gaming_full.png",
+                "url": "https://www.tweaktown.com/news/112671/microsoft-restores-access-to-25-year-old-xbox-account-worth-thousands-of-dollars-exposes-pitfalls-of-digital-gaming/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-20T01:08:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BCEC Elevates Event Experiences with Landmark 24",
+                "desc": "A new 96-square-metre LED canvas at The Plaza Ballroom at BCEC has a resolution of 8064 x 1344, showing more than 10.8 million pixels.",
+                "image": "https://www.cxnetwork.com.au/wp-content/uploads/2026/07/20260215BCEC-22.jpg",
+                "url": "https://www.cxnetwork.com.au/bcec-elevates-event-experiences-with-landmark-24-metre-led-canvas-in-plaza-ballroom/",
+                "source": "CX Magazine",
+                "date": "2026-07-20T01:02:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft’s Xbox to shift Obsidian studio to new ‘Fallout’ video game",
+                "desc": "Obsidian Entertainment, a subsidiary of Microsoft Corp's Xbox, has cancelled multiple projects and will begin working on a new game in the popular Fallout franchise as part of the division's broader restructuring, according to people familiar with the matter.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/20/4018801.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/20/microsofts-xbox-to-shift-obsidian-studio-to-new-fallout-video-game",
+                "source": "The Star",
+                "date": "2026-07-20T01:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fortnite Welcomes David Beckham; 'Hot Bat Summer' Mini-Season Begins",
+                "desc": "Source: Epic Games ©EPIC GAMESEpic Games announced that global soccer star and fashion icon David Beckham has joined the Fortnite Icon Series.David Beckham-themed items are now available in the Fortnite Item Shop.",
+                "image": "https://static.invenglobal.com/upload/image/2026/07/20/i1784508919433722.jpeg",
+                "url": "https://www.invenglobal.com/articles/23933/fortnite-welcomes-david-beckham-hot-bat-summer-mini-season-begins",
+                "source": "Inven Global",
+                "date": "2026-07-20T00:59:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pearl Abyss Adds 'Cross-Save' Feature to Crimson Desert",
+                "desc": "Source: Pearl Abyss ©Pearl Abyss Pearl Abyss has added a 'cross-save' feature to its open-world action-adventure game 'Crimson Desert,' allowing players to continue their game...",
+                "image": "https://static.invenglobal.com/upload/image/2026/07/20/i1784508737798648.jpeg",
+                "url": "https://www.invenglobal.com/articles/23932/pearl-abyss-adds-cross-save-feature-to-crimson-desert",
+                "source": "Inven Global",
+                "date": "2026-07-20T00:56:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The New Wave ~ Oblong Creative",
                 "desc": "The New Wave is Campaign Brief's Q&A series spotlighting the next generation of independent creative companies and exploring how the indie model is evolving. From structure and speed to culture and capability, we unpack where these businesses are finding their edge and what's driving client deci",
@@ -1174,99 +1264,99 @@
                 "source": "Android Police",
                 "date": "2026-07-19T10:00:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "5 ways to use Secure Folder that have completely changed my Galaxy phone",
-                "desc": "I've been using Samsung's Secure Folder wrong for years. Here's what it actually looks like when you use it right.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung_Secure_Folder_hero_image.jpg",
-                "url": "https://www.androidauthority.com/samsung-secure-folder-overlooked-features-3686133/",
-                "source": "Android Authority",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This lifetime cloud storage deal gives you 6TB for life for just $250",
-                "desc": "Own your cloud storage outright with this 6TB lifetime subscription to Drime Secure Cloud Storage.",
-                "image": "https://helios-i.mashable.com/imagery/articles/07qKQnV0r5zJLkUpqheRe89/hero-image.fill.size_1200x675.v1784136349.jpg",
-                "url": "https://mashable.com/tech/july-19-drime-secure-cloud-storage-lifetime-subscription-6tb",
-                "source": "Mashable",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This AI dashboard gives you ChatGPT, Claude, Gemini, and more - for a flat $60",
-                "desc": "Pay $59.97 instead of $619 today only and save $559.03 on a lifetime ChatPlayground AI Unlimited subscription with access to 20+ AI models.",
-                "image": "https://helios-i.mashable.com/imagery/articles/05OIsafjFXEadWKlVzkJ5nJ/hero-image.fill.size_1200x675.v1784199008.jpg",
-                "url": "https://mashable.com/tech/july-19-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-                "source": "Mashable",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Adorable indie is Stardew Valley meets Pokémon Gen 4 and it's free-to-try now",
-                "desc": "Glintseeker Island is an adorable Steam indie game that's inspired by Stardew Valley and Pokemon Gen 4, already releasing with a demo on Steam.",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt6c07ebec03fd247c/6a5a2cea94e744fb8e961a00/Glintseeker-Island.jpg",
-                "url": "https://www.gamingbible.com/news/platform/steam/glintseeker-island-pokemon-gen-4-stardew-valley-crossover-019611-20260717",
-                "source": "GAMINGbible",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's AI Search is a minefield for schools",
-                "desc": "Education advocates urge schools to cut ties with Google over AI Search.",
-                "image": "https://sm.mashable.com/t/mashable_sea/article/g/googles-ai/googles-ai-search-is-a-minefield-for-schools_7ywr.1200.jpg",
-                "url": "https://sea.mashable.com/tech/52621/googles-ai-search-is-a-minefield-for-schools",
-                "source": "Mashable SEA",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Where do the world’s biggest diamonds come from? Geology now has answers",
-                "desc": "Studying the mineral olivine in kimberlite sheds some light on diamond origins.",
-                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
-                "url": "https://www.modernghana.com/news/1511836/where-do-the-worlds-biggest-diamonds-come-from.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-19T08:52:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pocket-size AI: Powerful phones star at China show",
-                "desc": "Tech firms are racing to roll out advanced smartphones that use artificial intelligence to do everything from ordering food to composing messages with a simple voice command.",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/chinese-firms-showed-o.jpg",
-                "url": "https://techxplore.com/news/2026-07-pocket-size-ai-powerful-star.html",
-                "source": "Tech Xplore",
-                "date": "2026-07-19T08:50:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I'm a mom of 2 kids. Sending voice memos to Claude helps me organize my life.",
-                "desc": "This as-told-to essay is based on a conversation with Erin Kee, the 38-year-old founder of Kee To Wellness and writer of The Mental Load Memo. She also works in tech sales and lives in Austin. Its been edited for length and clarity. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/cGIktkuTURBXy81YWQyNjkwZS02MDE5LTQ0YTMtYmFjOC05M2MxYmVkMmFmMjguanBlZ5GTBc0EsM0Cdg",
-                "url": "https://africa.businessinsider.com/news/im-a-mom-of-2-kids-sending-voice-memos-to-claude-helps-me-organize-my-life/n56rrrh",
-                "source": "Business Insider Africa",
-                "date": "2026-07-19T08:47:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NIST Expands Its Library of ‘Chemical Fingerprints’ to Identify Unknown Substances",
-                "desc": "Whether you’re a researcher stumped by a mystery compound or a manufacturer perplexed by an unknown substance, there’s",
-                "image": "https://www.technology.org/texorgwp/wp-content/uploads/2026/06/1-23.jpg",
-                "url": "https://www.technology.org/2026/07/19/nist-expands-chemical-fingerprints-identify-unknown-substances/",
-                "source": "Technology Org",
-                "date": "2026-07-19T08:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Classic Car Auctions",
-                "desc": "A 1963 Ferrari 250 P and other competition Ferraris were announced for the Gooding Pebble Beach 2026 classic car auction.",
-                "image": "https://www.classic-car-auctions.info/wp-content/uploads/2026/07/1963-Ferrari-250-P.jpg",
-                "url": "https://www.classic-car-auctions.info/usa/california/monterey-rm/2026-gooding-christies-pebble-beach-sale-top-competition-ferrari-cars-preview/",
-                "source": "classic-car-auctions.info",
-                "date": "2026-07-19T08:42:03Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Is AI changing your life in unexpected ways? Should we move faster or more cautiously? The ABC wants to hear from you",
+                "desc": "Most of us never chose to live in an artificial intelligence (AI) world. Yet over the past few years, it has become part of everyday life, changing how we think, learn and communicate.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/e2e82712b5db65ad32992666d9c33d2e?impolicy=wcms_watermark_news&cropH=464&cropW=825&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-20/ai-artificial-intelligence-audience-change/106935112",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-20T01:14:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KT&G Dispatches Student Volunteers to Central Asia",
+                "desc": "KT&G Welfare Foundation is expanding its global social contribution by dispatching a college student volunteer corps to Central Asia to improve educational qua",
+                "image": "https://www.businesskorea.co.kr/news/thumbnail/202607/273228_280489_1429_v150.jpg",
+                "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273228",
+                "source": "Businesskorea",
+                "date": "2026-07-20T01:14:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil prices mixed as Iran says talks with U.S. could be pursued",
+                "desc": "American forces have started ninth consecutive night of strikes against Iranian targets.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108327785-1782560045329-gettyimages-1188056001-AFP_1MX6AU.jpeg?v=1782560074&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+                "source": "CNBC",
+                "date": "2026-07-20T01:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Norway opens new memorial for victims of 2011 massacre",
+                "desc": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe5a/live/0c2fc2e0-83d7-11f1-ad7d-c7f9656ee7bb.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo",
+                "source": "BBC",
+                "date": "2026-07-20T01:11:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Norway opens new memorial for victims of 2011 Breivik massacre",
+                "desc": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fe5a/live/0c2fc2e0-83d7-11f1-ad7d-c7f9656ee7bb.jpg",
+                "url": "https://www.bbc.com/news/articles/c07r9m22gyyo",
+                "source": "BBC",
+                "date": "2026-07-20T01:11:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "40 years ago July 20, 1986: Khurja blindings",
+                "desc": "This is the front page of The Indian Express published on July 20, 1986.",
+                "image": "https://images.indianexpress.com/2026/07/express-archive-July-20-1986.jpg",
+                "url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-july-20-1986-khurja-blindings-10794112/",
+                "source": "The Indian Express",
+                "date": "2026-07-20T01:10:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sarawak set to become a regional animation and games hub with new event",
+                "desc": "The Borneo Animation & Games Festival (BAGFEST) 2026 will be held in Kuching, Sarawak, Malaysia, for five days, positioning Sarawak as an emerging regional hub for the animation, games and digital creative industries.",
+                "image": "https://govinsider.asia/intl-en/article/:/uploads/2026/7/GovInsider (6)-1784255688981-w300.jpg",
+                "url": "https://govinsider.asia/intl-en/article/sarawak-set-to-become-a-regional-animation-and-games-hub-with-new-event",
+                "source": "GovInsider",
+                "date": "2026-07-20T01:03:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa targets $3b investment to transform livestock sector",
+                "desc": "The Nation Newspaper Africa targets $3b investment to transform livestock sector",
+                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/03/12053825/livestock-market-ss.jpg",
+                "url": "https://thenationonlineng.net/africa-targets-3b-investment-to-transform-livestock-sector/",
+                "source": "The Nation Newspaper",
+                "date": "2026-07-20T00:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japanese government to develop nautical charts for strategic choke points along Southeast Asia sea lanes",
+                "desc": "By collaborating with neighboring countries, the Foreign Ministry plans to create high-precision charts for five sea areas, with the aim of ensuring the safety of maritime transport supporting the Japanese economy.",
+                "image": "https://asianews.network/wp-content/uploads/2026/07/gaimusyo-1.jpg",
+                "url": "https://asianews.network/japanese-government-to-develop-nautical-charts-for-strategic-choke-points-along-southeast-asia-sea-lanes/",
+                "source": "Asia News Network",
+                "date": "2026-07-20T00:38:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump crashes, hogs the stage as Spain celebrate championship",
+                "desc": "The president predicted an Argentina victory but had to hand the silverware to Spain - a country he has repeatedly condemned as “terrible” - after being heartily booed by the crowd.",
+                "image": "https://static.ffx.io/images/$zoom_0.22544304508590224%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_93%2C$y_116/t_crop_custom/q_86%2Cf_auto/eaf3f4f77e42765e6baf6070d7bd4ecd29b0a008",
+                "url": "https://www.smh.com.au/world/north-america/why-the-world-cup-trophy-ceremony-might-be-about-to-get-very-awkward-20260720-p60go9.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-20T00:32:52Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "3 months in Saudi jail for Khamenei post, youth returns home in J&K",
                 "desc": "Middle East News: Three months after languishing at an undisclosed detention centre in Saudi Arabia where he was held incommunicado for a Facebook post on late Iranian .",
@@ -1806,98 +1896,8 @@
                 "source": "Yen News",
                 "date": "2026-07-19T10:25:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "This tiny missile could solve Europe’s defence crisis",
-                "desc": "At a secret location in rural Sweden, The Telegraph is about to witness the launch of a low-cost missile that might solve Europe’s drone-defence crisis.",
-                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-                "url": "https://www.aol.com/articles/europe-silver-bullet-russian-drone-090000000.html",
-                "source": "AOL.com",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada may feel its affects, experts say",
-                "desc": "Every few years, the weather phenomenon known as “El Nino” starts to be felt in different parts of the world. This year however, a “super El Nino” is expected.",
-                "image": "https://www.cp24.com/resizer/v2/NJU6XEEN3NELJAXL3VOXMHU5RE.jpeg?smart=true&auth=8032b5b4a4668a3c323e2c04fcff19c691efa86594d013016053cb8f669121af&width=1200&height=630",
-                "url": "https://www.cp24.com/weather/2026/07/19/what-to-know-about-super-el-nino-and-its-impact-on-canadian-weather/",
-                "source": "CP24",
-                "date": "2026-07-19T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanzanian-flagged tanker from Yemen hijacked by suspected Somali pirates",
-                "desc": "A Tanzanian-flagged tanker was hijacked by suspected Somali pirates off Yemen’s coast, security sources and local officials familiar with the incident said. The commercial tanker has since been...",
-                "image": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
-                "url": "https://www.seattlepi.com/news/world/tanzanian-flagged-tanker-from-yemen-hijacked-by-a22351152",
-                "source": "Seattlepi.com",
-                "date": "2026-07-19T08:58:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Report: Al-Shabaab Has Shifted From Holding Territory to Long-War Strategy, Study Finds",
-                "desc": "The study assesses Al-Shabaab’s strategic, operational and governance transformation and the factors driving its evolution.",
-                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgQ2dcbfNRdbUrxq3Qtfi2wyhYNn47WFglH5Gu",
-                "url": "https://www.dawan.africa/news/report-al-shabaab-has-shifted-from-holding-territory-to-long-war-strategy-study-finds",
-                "source": "Dawan Africa",
-                "date": "2026-07-19T08:57:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Launches Strikes To ‘Punish’ Iran After Troops Killed",
-                "desc": "US Launches Strikes To ‘Punish’ Iran After Troops Killed",
-                "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Iran-2.jpg",
-                "url": "https://www.channelstv.com/2026/07/19/us-launches-strikes-to-punish-iran-after-troops-killed/",
-                "source": "Channels Television",
-                "date": "2026-07-19T08:55:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanzanian-flagged tanker from Yemen hijacked by suspected Somali pirates",
-                "desc": "A Tanzanian-flagged tanker was hijacked by suspected Somali pirates off Yemen’s coast, security sources and local officials familiar with the incident said.",
-                "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-                "url": "https://apnews.com/article/somalia-pirates-yemen-tanker-827efb5b74d4aad62b4ff063420327e3",
-                "source": "AP News",
-                "date": "2026-07-19T08:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "French journalist warns of press freedom crackdown as court revives source hunt",
-                "desc": "The publication of the Egypt Papers investigation by French non-profit investigative journalism site Disclose in 2021 prompted France's defence ministry to file a legal complaint against its co-author, journalist Ariane Lavrilleux, for allegedly disclosing classified information. In 2025, following three years of judicial proceedings, anti-terrorism judges ruled there were no grounds to prose",
-                "image": "https://cdn.modernghana.com/images/content/7192026103613-1i841p5cbv-00036ud2wy.jpg",
-                "url": "https://www.modernghana.com/news/1511848/french-journalist-warns-of-press-freedom-crackdown.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-19T08:53:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-                "desc": "US strikes target Iran’s IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5c7f28d73c-1784446760.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest",
-                "source": "Al Jazeera",
-                "date": "2026-07-19T08:52:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Where do the world’s biggest diamonds come from? Geology now has answers",
-                "desc": "Studying the mineral olivine in kimberlite sheds some light on diamond origins.",
-                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
-                "url": "https://www.modernghana.com/news/1511836/where-do-the-worlds-biggest-diamonds-come-from.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-19T08:52:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alcohol, sex and violence: a dangerous cocktail that makes young women vulnerable to HIV",
-                "desc": "Alcohol use among adolescent girls and young women cannot be separated from transactional sex, coercion and violence in high HIV-burden settings.",
-                "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
-                "url": "https://www.modernghana.com/news/1511837/alcohol-sex-and-violence-a-dangerous-cocktail.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-19T08:52:54Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-20T11:29:12.482763Z"
+    "lastGlobalSync": "2026-07-20T13:29:58.460801Z"
 }
