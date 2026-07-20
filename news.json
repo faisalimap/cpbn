@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
+                "desc": "Days after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/409ba41b02cd789c797c437e43605451a86c8fe0-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
+                "source": "CoinDesk",
+                "date": "2026-07-20T07:16:41Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Crowding, inconsiderate behaviour, air-con issues among top commuter concerns: PTC survey",
+                "desc": "The survey found that overall 87 per cent of commuters expressed satisfaction with Singapore’s public transport system.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--8al4_0-m--/c_crop,h_720,w_1280,x_0,y_159/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/08/06/img_20250806_072822_888.jpg?itok=KYTErBEN",
+                "url": "https://www.channelnewsasia.com/singapore/train-bus-crowding-air-con-inconsiderate-behaviour-public-transport-6264926",
+                "source": "CNA",
+                "date": "2026-07-20T07:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin dips to $63,900 as markets weigh oil and lingering AI selloff",
+                "desc": "War drives oil up, the Kimi selloff drags chips down, and bitcoin sits between them.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+                "source": "CoinDesk",
+                "date": "2026-07-20T07:15:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Congress Could Recalibrate America’s Morass Of AI Laws Into ‘Federal Floor, State Ceiling’",
+                "desc": "State-level AI laws are widely disparate. Congress might craft a comprehensive federal AI law. If so, \"federal floor, state ceiling\" might work. An AI Insider analysis.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/686d7aca9af243a87daa6b71/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/lanceeliot/2026/07/20/congress-could-recalibrate-americas-morass-of-ai-laws-into-federal-floor-state-ceiling/",
+                "source": "Forbes",
+                "date": "2026-07-20T07:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Owned Enterprises: Strengthening Accountability, Transparency and Long",
+                "desc": "The Nation Newspaper The Importance of Well-Functioning Government-Owned Enterprises: Strengthening Accountability, Transparency and Long-Term Fiscal Sustainability",
+                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/07/20081311/Mofi.jpg",
+                "url": "https://thenationonlineng.net/the-importance-of-well-functioning-government-owned-enterprises-strengthening-accountability-transparency-and-long-term-fiscal-sustainability/",
+                "source": "The Nation Newspaper",
+                "date": "2026-07-20T07:14:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Graphics chart the surge in defaults on federal student loans",
+                "desc": "Defaults on student loans have surged across the United States, reaching record levels as borrowers struggle to keep up with payments.",
+                "image": "https://dims.apnews.com/dims4/default/e6ee2d3/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2F1c%2F519ce82fca87ae227cd06a70c429%2Fc6ad09f60dc2438a8fda9908507796c0",
+                "url": "https://apnews.com/article/student-loan-debt-default-save-fba5642407fc33b579acdbf774a492d3",
+                "source": "AP News",
+                "date": "2026-07-20T07:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elbit Systems wins US orders worth $370m",
+                "desc": "The orders are from US Customs and Border Protection. Meanwhile, subsidiary Elbit Systems UK is displaying its wares at the Farnborough Air Show.",
+                "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1721726864/direct/WhatsApp_Image_2024-07-23_at_12.25.22_rhjzal.jpg",
+                "url": "https://en.globes.co.il/en/article-elbit-systems-wins-us-orders-worth-370m-1001549857",
+                "source": "Globes - Israel Business News",
+                "date": "2026-07-20T07:13:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Defaults on student loans surge following end of pandemic-era freeze",
+                "desc": "According to an Associated Press analysis, more than 4.2 million people across the country defaulted on student loans between April 2025 and March 2026.",
+                "image": "https://dims.apnews.com/dims4/default/63cbee5/2147483647/strip/true/crop/4256x2836+0+518/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F22%2F6d756e4cd9efdc30c9d5d5911eae%2Fb7fc13c67fcc48669879d9b144988acd",
+                "url": "https://apnews.com/article/student-loan-debt-default-6732d5b28545acd10d36d743f5080d01",
+                "source": "AP News",
+                "date": "2026-07-20T07:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Confidence in local economy weakens on geopolitical concerns: Poll",
+                "desc": "Confidence in the local economy weakened in July amid lingering concerns over political tensions in the Middle East, according to a survey released by Cathay Financial Holding Co. on Monday.",
+                "image": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/WebOg/600/2026/20260720/1200x630_09626733543.jpg",
+                "url": "https://focustaiwan.tw/business/202607200011",
+                "source": "Focus Taiwan",
+                "date": "2026-07-20T07:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flights in Athens FIR exceed 5,000 on Saturday",
+                "desc": "This figure surpasses the previous record, exceeding the earlier highest daily total, which was 4,944 scheduled flights in a single day.",
+                "image": "https://images.euronews.com/articles/stories/09/84/37/10/1200x675_cmsv2_653b8782-1d83-54c9-89d1-2e0ae52e68be-9843710.jpg",
+                "url": "https://www.euronews.com/travel/2026/07/20/flights-in-athens-fir-exceed-5000-on-saturday",
+                "source": "Euronews.com",
+                "date": "2026-07-20T07:12:34Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Chocolate Master Ryan Stevenson named as official Callebaut Ambassador in South Pacific, Australia.",
                 "desc": "Internationally acclaimed Chocolatier to lead Callebaut's renewed engagement with the chocolate and pastry community across Australia and New Zealand",
                 "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1142813.jpg",
@@ -542,99 +632,99 @@
                 "source": "Bangkok Post",
                 "date": "2026-07-19T17:02:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What the Typical 40-Year-Old Canadian Has in Their TFSA and RRSP",
-                "desc": "Many 40-somethings feel behind, but the median TFSA and retirement balances show most Canadians are still building.",
-                "image": "https://www.fool.ca/wp-content/uploads/2024/10/GettyImages-1404485065-1200x800.jpg",
-                "url": "https://www.fool.ca/2026/07/19/what-the-typical-40-year-old-canadian-has-in-their-tfsa-and-rrsp-3/",
-                "source": "The Motley Fool Canada",
-                "date": "2026-07-19T13:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "America's math and reading scores collapsed when schools went digital. AI may be a greater threat",
-                "desc": "A major Brookings Institute study of more than 500 students and educators across 50 countries found the risks of AI in the classroom “overshadow its benefits.”",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1129802150.jpg?resize=1200,600",
-                "url": "https://fortune.com/article/how-can-ai-make-brain-rot-worst-america-math-and-reading-scores-tanked-edtech/",
-                "source": "Fortune",
-                "date": "2026-07-19T13:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghana's silent mast crisis: the health fears no one is measuring",
-                "desc": "A debate that refuses to die For close to two decades, Ghanaians living beside telecom masts have complained of headaches, sleeplessness, and a nagging fear that the steel towers rising over their rooftops are silently damaging their health. The debate over radio frequency radiation from telecom towers has played out in Parliament, in the media, and in ordinary households, alongside grievances about noise, vibration, and fumes from generators at base stations, towers interfering with air",
-                "image": "https://cdn.modernghana.com/images/content/719202621631-typbsfer6l-screenshot20260719-1158421.png",
-                "url": "https://www.modernghana.com/news/1511882/ghanas-silent-mast-crisis-the-health-fears-no.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-19T13:14:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aldi's new £17 portable gadget is 'perfect for cleaning homes and cars'",
-                "desc": "The popular supermarket chain has launched a new cleaning range in stores",
-                "image": "https://i2-prod.liverpoolecho.co.uk/article34316081.ece/ALTERNATES/s1200d/0_GettyImages-2254933785.jpg",
-                "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/aldis-new-17-portable-gadget-34315771",
-                "source": "Liverpool Echo",
-                "date": "2026-07-19T13:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Twilio (TWLO) Beats Q1 Expectations, Is The Stock Still Fully Valued?",
-                "desc": "Twilio Q1 beat puts recent share gains in focus\nTwilio (TWLO) drew fresh investor attention after reporting Q1 revenue growth of 20% year on year, a 4.7% beat versus analyst expectations, alongside stronger net revenue retention and billings estimates.\nSee our latest analysis for Twilio.\nTwilio's strong Q1 has come on top of a sharp share price re-rating, with the stock up 42.0% over 90 days and a 1 year total shareholder return of 57.85%, although the 5 year total shareholder return is down...",
-                "image": "https://images.simplywall.st/asset/industry/8030001-choice2-main-header/1585186766184",
-                "url": "https://simplywall.st/stocks/us/software/nyse-twlo/twilio/news/twilio-twlo-beats-q1-expectations-is-the-stock-still-fully-v",
-                "source": "simplywall.st",
-                "date": "2026-07-19T13:05:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tesla (TSLA) Must Recall Nearly 20,000 Vehicles After NHTSA Rejects Headlight Request",
-                "desc": "NHTSA denied Tesla's request to avoid recalling nearly 20,000 Model 3 and Model Y vehicles over headlight compliance issues.\nThe decision requires Tesla, NasdaqGS:TSLA, to proceed with a recall to address potential safety risks.\nThe affected vehicles are tied to concerns around headlight performance under U.S. safety regulations.\nTesla, NasdaqGS:TSLA, is a major electric vehicle and clean energy company, so any safety related ruling tends to draw attention from both drivers and investors...",
-                "image": "https://images.simplywall.st/asset/company-cover/27444752-main-header/1756195747085",
-                "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/tesla-tsla-must-recall-nearly-20000-vehicles-after-nhtsa-rej",
-                "source": "simplywall.st",
-                "date": "2026-07-19T13:04:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent",
-                "desc": "Automate self-healing GPU nodes in Kubernetes. Explore 6 critical architecture lessons from building the AWS EKS Node Monitoring Agent.",
-                "image": "https://cdn.thenewstack.io/media/2026/07/518f31d7-getty-images-zxt5l60ulcq-unsplash.jpg",
-                "url": "https://thenewstack.io/self-healing-gpu-nodes/",
-                "source": "The New Stack",
-                "date": "2026-07-19T13:03:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GEnx-1B Engines Surpass 50 Million Flight Hours",
-                "desc": "Milestone is the fastest ever for a GE Aerospace widebody engine model",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/19/1142561.png",
-                "url": "https://www.manilatimes.net/2026/07/19/tmt-newswire/globenewswire/genx-1b-engines-surpass-50-million-flight-hours/2387142",
-                "source": "The Manila Times",
-                "date": "2026-07-19T13:02:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU ban on destroying unsold clothes takes effect",
-                "desc": "Under new rules to reduce waste, large companies across the European Union can no longer dispose of unsold clothes, accessories and footwear.",
-                "image": "https://static.dw.com/image/78025968_6.jpg",
-                "url": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888",
-                "source": "dw.com",
-                "date": "2026-07-19T13:02:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ActionAid wants FG, NASS to review tax impact on small businesses, others",
-                "desc": "ActionAid Nigeria's General Assembly and Board of Directors has called on the federal government and National Assembly to review the tax's impact on small",
-                "image": "https://blueprint.ng/wp-content/uploads/2026/07/IMG-20260719-WA0010.jpg",
-                "url": "https://blueprint.ng/actionaid-wants-fg-nass-to-review-tax-impact-on-small-businesses-others/",
-                "source": "Blueprint Newspapers",
-                "date": "2026-07-19T13:01:15Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "32 workers at ZA/UM laid off following release of Zero Parades: For Dead Spies",
+                "desc": "Developer says commercial performance of its latest title \"has not enabled us to sustain a studio of our current size\"",
+                "image": "https://assetsio.gnwcdn.com/zero-parades-for-dead-spies_xI8QN6i.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/32-workers-at-zaum-laid-off-following-release-of-zero-parades-for-dead-spies",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-20T07:13:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three Games You Need To Pick Up From The Chucklefish Steam Publisher Sale",
+                "desc": "Three standout games from the Chucklefish Steam Publisher Sale, including Wildfrost, Eastward and Loco Motive, all worth adding to your Steam library.",
+                "image": "https://www.nag.co.za/wp-content/uploads/2026/07/steam-sale-01.jpg",
+                "url": "https://www.nag.co.za/2026/07/20/three-games-you-need-to-pick-up-from-the-chucklefish-steam-publisher-sale/",
+                "source": "nag.co.za",
+                "date": "2026-07-20T07:08:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New X phishing scam uses fake login alerts to steal your account",
+                "desc": "A phishing email mimicking X's real login alerts is making the rounds, and it's designed to steal your password instead of protecting your account. Here's how to spot the fake and what to do if you clicked.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/07/X-app-store-listing-on-iPhone.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/social-media/new-x-phishing-scam-uses-fake-login-alerts-to-steal-your-account/",
+                "source": "Digital Trends",
+                "date": "2026-07-20T07:07:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Genesis ponders wild Magma Volcano flagships",
+                "desc": "Magma is hot, but volcanic performance cars would draw more deeply from motorsport",
+                "image": "https://editorial.pxcrush.net/carsales/general/editorial/1-5-7ael.jpg",
+                "url": "https://www.carsales.com.au/editorial/details/genesis-ponders-wild-magma-volcano-flagships-152507/",
+                "source": "Carsales",
+                "date": "2026-07-20T07:05:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi Security App and Game Turbo Update Delivers Better Gaming Security",
+                "desc": "Xiaomi has officially updated the HyperOS Security application to version 12.7.3-260702.1.1 for the Global market, introducing the July security patch along",
+                "image": "https://ximitime.com/wp-content/uploads/2024/07/Get-new-HyperOS-2.0-animations-with-HyperOS-Security-June-update.jpg",
+                "url": "https://ximitime.com/xiaomi-security-app-and-game-turbo-update-delivers-better-gaming-security-98872/",
+                "source": "ximitime.com",
+                "date": "2026-07-20T07:02:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "H90 algorithms in the H9",
+                "desc": "Eventide's H9 Harmonizer Gen 2 packs the full H90 algorithm set, 74+ effects and 1,000+ presets into the compact H9 pedal format.",
+                "image": "https://mixdownmag.com.au/wp-content/uploads/2026/07/H9-Gen2-Studio-Keyboard-scaled-1.jpg",
+                "url": "https://mixdownmag.com.au/news/eventide-rebuilds-the-h9-with-its-h90-algorithm-set/",
+                "source": "Mixdown Magazine",
+                "date": "2026-07-20T07:02:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gerald Charles Releases a Trio of Gem Set Masterlink Models with Stone Dials",
+                "desc": "Three rare minerals transform the brand's integrated Masterlink sports watch into a series of unique, naturally sculpted creations.",
+                "image": "https://monochrome-watches.com/app/uploads/2026/07/Gerald-Charles-Masterlink-Gem-Set-Stone-Dial-2.jpg",
+                "url": "https://monochrome-watches.com/gerald-charles-releases-a-trio-of-gem-set-masterlink-models-with-stone-dials/",
+                "source": "Monochrome Watches",
+                "date": "2026-07-20T07:00:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI versus Humans In Automotive Journalism: Who Does It Better?",
+                "desc": "AI is capable of replacing many aspects of human-powered automotive journalism, but let’s take a closer look at where AI-powered automotive journalism falls short.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5a916b28818109de18cb47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/kbrauer/2026/07/20/ai-versus-humans-in-automotive-journalism-who-does-it-better/",
+                "source": "Forbes",
+                "date": "2026-07-20T07:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Researchers demonstrate prompt injection attacks on Gemini",
+                "desc": "The research highlights how AI assistants with access to notifications and smart devices could become attractive targets for increasingly sophisticated cyberattacks.",
+                "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/07/12311.jpg",
+                "url": "https://dig.watch/updates/researchers-demonstrate-prompt-injection-attacks-on-gemini",
+                "source": "Digital Watch Observatory",
+                "date": "2026-07-20T07:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Marantz hi-fi, a tiny vinyl update, a key moment for Sonos and more",
+                "desc": "All the latest hi-fi and home cinema news, explained by our experts",
+                "image": "https://cdn.mos.cms.futurecdn.net/EVQ7v7UizDinTvD6LH87hH-1920-80.jpg",
+                "url": "https://www.whathifi.com/av/new-marantz-hi-fi-a-tiny-vinyl-update-a-key-moment-for-sonos-and-more",
+                "source": "What Hi-Fi?",
+                "date": "2026-07-20T07:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Xiaomi 18 series may launch by December in India, Pro Max tipped to replace Ultra",
                 "desc": "Xiaomi 18 series is tipped to launch in India this December with Xiaomi 18, 18 Pro and 18 Pro Max, replacing the expected Ultra model.",
@@ -1174,99 +1264,99 @@
                 "source": "Yahoo News Canada",
                 "date": "2026-07-19T17:01:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A chip that creates and senses terahertz waves could shrink future networks",
-                "desc": "A long-overlooked semiconductor structure turned out to be fast enough to power compact terahertz technologies.",
-                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/terahertz-system.jpg",
-                "url": "https://interestingengineering.com/science/us-scientists-shrink-terahertz-lab-chip",
-                "source": "Interesting Engineering",
-                "date": "2026-07-19T13:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Game Pass Is Getting Worse on July 31, and Subscribers Are Ready to Cancel",
-                "desc": "Xbox Game Pass and PC Game Pass are getting much worse on August 1, and some subscribers are ready to cancel.",
-                "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/07/x-b-o-x-g-a-m-e-p-a-s-s_0d8ed3.png?resize=2000,1125",
-                "url": "https://comicbook.com/gaming/news/xbox-game-pass-ultimate-pc-gamepass-july-31/",
-                "source": "ComicBook.com",
-                "date": "2026-07-19T13:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows 11's slowest feature is about to get dramatic speed improvements, and its File Explorer's This PC search",
-                "desc": "Marcus Ash confirms Windows 11 File Explorer search is getting the same speed and relevance fixes as Windows Search, starting with This PC",
-                "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Windows-11-File-Explorer-search-across-This-PC-is-getting-the-same-speed-and-relevance-fixes-as-the-new-Windows-Search.jpg",
-                "url": "https://www.windowslatest.com/2026/07/19/windows-11s-slowest-feature-is-about-to-get-dramatic-speed-improvements-and-its-file-explorer-search/",
-                "source": "Windows Latest",
-                "date": "2026-07-19T13:08:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Halo: Campaign Evolved Release Date, Release Times & Early Access Details For Xbox & PC",
-                "desc": "It's almost time for another massive first-party release! - We're finally approaching the release of Xbox's next major first-party title for 2026 in the form...",
-                "image": "https://images.purexbox.com/c93a34b643a8a/large.jpg",
-                "url": "https://www.purexbox.com/guides/halo-campaign-evolved-release-date-release-times-and-early-access-details-for-xbox-and-pc",
-                "source": "Pure Xbox",
-                "date": "2026-07-19T13:03:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro leaks suggest Dark Cherry colour, bigger battery, A20 Pro chip",
-                "desc": "Leaks suggest Apple's iPhone 18 Pro could introduce a Dark Cherry colour, retain its familiar design, and bring upgrades to battery capacity, camera hardware and the A20 Pro chip ahead of its expected September unveiling.",
-                "image": "https://images.storyboard18.com/storyboard18/2026/07/Visuals-Page-2026-07-19T134844.906-2026-07-7df0cbf74eb8c827b14700ae416a1739-1019x573.jpg",
-                "url": "https://www.storyboard18.com/brand-marketing/iphone-18-pro-leaks-suggest-dark-cherry-colour-bigger-battery-a20-pro-chip-104814.htm",
-                "source": "Storyboard18",
-                "date": "2026-07-19T13:01:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Proton got so good I keep forgetting which of my games were even built for Windows",
-                "desc": "Most PC games are still made for Windows only, but Proton makes me completely forget about it when i play on Linux.",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/steam-gaming-mode-featured.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/proton-got-so-good-keep-forgetting-which-games-built-windows/",
-                "source": "XDA",
-                "date": "2026-07-19T13:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mailbox: The Future Of Smash, Mouse Mode Upgrades, Revolutions - Nintendo Life Letters",
-                "desc": "Issue #38 - July 2026 - Welcome back to another look through the Nintendo Life Mailbox. Well done, you made it. It's been a fairly quiet time for Nintendo i...",
-                "image": "https://images.nintendolife.com/a2c9b22c2335c/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/mailbox-the-future-of-smash-mouse-mode-upgrades-revolutions-nintendo-life-letters",
-                "source": "nintendolife.com",
-                "date": "2026-07-19T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'It Isn't Something Carved in Stone': Xbox Still Unclear on Future PS5 Ports",
-                "desc": "Single player games could still come to Sony's console",
-                "image": "https://images.pushsquare.com/207e2dd7768ea/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/it-isnt-something-carved-in-stone-xbox-still-unclear-on-future-ps5-ports",
-                "source": "Push Square",
-                "date": "2026-07-19T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows 11 trades noisy Bing ads for the clean search experience it always needed - plus other updates you should know about this week",
-                "desc": "It took years of relentless user pushback, but Microsoft is finally rescuing Windows Search from ads and clutter.",
-                "image": "https://cdn.mos.cms.futurecdn.net/B9MdMHYCkMLY9iP2xSCpyE-2560-80.jpg",
-                "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-trades-noisy-bing-ads-for-the-clean-search-experience-it-always-needed",
-                "source": "Windows Central",
-                "date": "2026-07-19T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OnePlus died with a whimper, not a bang",
-                "desc": "OnePlus is dead – actually for real this time. It’s got me looking back on my experiences with the brand’s...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/oneplus-open-and-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/19/oneplus-died-with-a-whimper-not-a-bang/",
-                "source": "9to5Google",
-                "date": "2026-07-19T13:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Submissions open for NASA STAR",
+                "desc": "Deadline: 31-Jul-2026 The NASA STAR-7 Programme 2026 offers researchers, principal investigators, and postdoctoral scholars an opportunity to develop expertise in space biosciences, spaceflight experiments, and research collaboration. The virtual programme will run from September 2026 to February 2027 and will provide training on designing and conducting biological research experiments using NASA and commercial spaceflight platforms.",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/innovation/submissions-open-for-nasa-star-7-programme-malta/",
+                "source": "fundsforNGOs",
+                "date": "2026-07-20T07:17:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pilots' body urges government to suspend UAE flights amid worsening West Asia conflict",
+                "desc": "ALPA India has sought an immediate halt to flights to Dubai, Abu Dhabi and other 'high-risk' Gulf destinations, saying escalating regional tensions have significantly increased risks to civil aviation",
+                "image": "https://images.moneycontrol.com/static-mcnews/2025/12/20251217113313_Airline-stocks.jpg",
+                "url": "https://www.moneycontrol.com/news/business/companies/pilots-body-urges-government-to-suspend-uae-flights-amid-worsening-west-asia-conflict-13978362.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-20T07:16:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for Applications: Falling Walls Lab Canberra (Australia)",
+                "desc": "Deadline: 02-Aug-2026 The Falling Walls Lab Australia invites students and early-career professionals to present innovative ideas, research projects, and breakthrough solutions that can create a positive impact on science and society. Selected participants deliver a three-minute pitch explaining their idea, with the opportunity to gain international recognition and participate in the global Falling Walls network.",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/innovation/call-for-applications-falling-walls-lab-canberra-australia/",
+                "source": "fundsforNGOs",
+                "date": "2026-07-20T07:16:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ugandans Criticise South Sudan Visa Fees",
+                "desc": "South Sudan’s decision to require Ugandans to obtain visas and pay entry fees has sparked criticism in Uganda, with commentators arguing the move undermines East African Community integration and ignores Kampala’s historic support for South Sudan’s independence. Under South Sudan’s updated electronic visa system, Ugandans must now pay $50 for a single entry visa, $125",
+                "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2023/09/salva-kiir.jpg",
+                "url": "https://chimpreports.com/ugandans-criticise-south-sudan-visa-fees/",
+                "source": "ChimpReports",
+                "date": "2026-07-20T07:16:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for EOIs: General Food and Cash Assistance Programme (Ukraine)",
+                "desc": "Deadline: 09-Aug-2026 The World Food Programme (WFP) is inviting applications from organisations to support general food assistance and cash assistance activities in Ukraine for communities affected by the ongoing impacts of conflict. Selected partners will help identify vulnerable households, distribute food commodities, support cash assistance registration, and improve access to essential food and livelihood support.",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/community-development-2/call-for-eois-general-food-and-cash-assistance-programme-ukraine/",
+                "source": "fundsforNGOs",
+                "date": "2026-07-20T07:16:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran targets Bahrain and Kuwait after ninth night of US strikes",
+                "desc": "Washington says main objective is ensuring oil and gas can flow through Strait of Hormuz, as crude prices surge",
+                "image": "https://www.thenationalnews.com/resizer/v2/WVXJKFX4BRG3JDK7PIBOLEOJ6M.JPG?smart=true&auth=9499446cea974a1d4239a1054ad3a94f4733fac6e93138b696aeb7f2402534dc&width=1200&height=630",
+                "url": "https://www.thenationalnews.com/news/gulf/2026/07/20/iran-targets-bahrain-and-kuwait-after-ninth-night-of-us-strikes/",
+                "source": "thenationalnews.com",
+                "date": "2026-07-20T07:16:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for Proposals: Mali Cooperation Programme 2027-2031",
+                "desc": "Deadline: 31-Aug-2026 The United Nations Population Fund (UNFPA) is accepting applications to support the implementation of the Mali–UNFPA Cooperation Programme 2027–2031 in the Gao Region of Mali. The programme supports organisations working on sexual and reproductive health, maternal and newborn health, gender-based violence prevention, women’s empowerment, youth participation, disability inclusion, emergency response, and population data",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/leadership/call-for-proposals-mali-cooperation-programme-2027-2031/",
+                "source": "fundsforNGOs",
+                "date": "2026-07-20T07:13:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Canterbury trail: my pilgrimage from the cathedral to the white cliffs of Dover",
+                "desc": "After exploring the cathedral city, I battled the heatwave while walking to the Kent coast on the Via Francigena",
+                "image": "https://i.guim.co.uk/img/media/60db09fc7534d765212e57a48216d927a6fcd601/0_0_4860_3888/master/4860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c04ca083719e1904c1864a9e7cec4626",
+                "url": "https://www.theguardian.com/travel/2026/jul/20/canterbury-pilgrims-walk-cathedral-to-dover-kent",
+                "source": "The Guardian",
+                "date": "2026-07-20T07:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Estonia calls for Russia’s complete isolation after massive Kyiv attack",
+                "desc": "Estonia’s foreign minister urged deeper sanctions and sustained isolation of Russia after a major missile attack on Kyiv",
+                "image": "https://static.nv.ua/shared/system/Article/posters/003/329/159/original/4666994782723fbef21d02fdde4bf2ed.png?q=85&stamp=20260720093620&f=webp",
+                "url": "https://english.nv.ua/russian-war/estonia-calls-for-russia-s-complete-isolation-after-massive-kyiv-attack-50625642.html",
+                "source": "The New Voice of Ukraine",
+                "date": "2026-07-20T07:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASEAN meetings offer chance of China-Japan encounter - for better or worse",
+                "desc": "When Foreign Minister Toshimitsu Motegi visits Manila for ASEAN meetings this week, a familiar face will also be in attendance: his Chinese counterpart, Wang Yi.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/20/552588.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/07/20/japan/politics/japan-china-motegi-wang-asean/",
+                "source": "The Japan Times",
+                "date": "2026-07-20T07:12:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Greater Horn of Africa Faces Looming Polycrisis as El Niño, War and Ebola Threaten Famine",
                 "desc": "Africa’s Greater Horn faces a looming polycrisis as El Niño-driven droughts and floods, rising food and fertilizer prices from the Iran war, Ebola risks and entrenched conflicts converge, threatening famine, mass displacement and a weakened humanitarian response across multiple countries.",
@@ -1806,98 +1896,8 @@
                 "source": "Arab News PK",
                 "date": "2026-07-19T17:07:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. launches more air strikes as Iran targets Jordan in latest exchange of fire",
-                "desc": "Iran, U.S. inch closer to all-out war as interim deal crumbles and traffic in Strait of Hormuz stalls",
-                "image": "https://www.theglobeandmail.com/resizer/v2/V3BA2Z2A2FBDNMVTV7MXO6FQAM.jpg?auth=bb9a6e113190752beb2bd91b2e0eed58a36b5136e5495a1f6a69ac02e0a76a6b&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-iran-strikes-us-allies-in-latest-exchange-of-fire/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-19T13:15:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air Cambodia buys 20 Chinese-built C909 regional jets; first foreign carrier to place bulk order",
-                "desc": "Air Cambodia, the country's national flag carrier, has signed an agreement with the Commercial Aircraft Corporation of China, Ltd. (COMAC) to purchase 20 C909 regional jets",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/19/4018349.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/19/air-cambodia-buys-20-chinese-built-c909-regional-jets-first-foreign-carrier-to-place-bulk-order",
-                "source": "The Star",
-                "date": "2026-07-19T13:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US hits Iran's Revolutionary Guard as Israel warns of spillover",
-                "desc": "The United States has launched airstrikes in Iran, targeting the Revolutionary Guard in response to the killing of American troops in Jordan.",
-                "image": "https://dims.apnews.com/dims4/default/fdd8dc6/2147483647/strip/true/crop/3434x2288+323+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2Fbe%2F47cb2a13d407e1a3ffb3f131f355%2F40c511a50b5940ac8511b832e5aecf5d",
-                "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8",
-                "source": "AP News",
-                "date": "2026-07-19T13:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US attacks Iran’s Revolutionary Guard over troops killed in Jordan",
-                "desc": "The strikes on Sunday come as an interim deal seeking to find an end to the Iran war has collapsed.",
-                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTkwNjM4MTdcXFwvNjg5NzdhZjRiYzlhNDlhNzlhZDkyODM2NDI2NWU5MjUtMi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImRhYWM4ODQ0YmVlNmViM2U1YTlhNGUwY2ZkMmFjMzdhNGI0MGM1ZjcifQ==/us-attacks-iran-s-revolutionary-guard-over-troops-killed-in-jordan.jpg",
-                "url": "https://www.breakingnews.ie/world/us-attacks-irans-revolutionary-guard-over-troops-killed-in-jordan-1928903.html",
-                "source": "BreakingNews.ie",
-                "date": "2026-07-19T13:03:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "An epic Dubrovnik journey that ditches the crowds",
-                "desc": "Dubrovnik has long been one of Europe's most over-touristed destinations. Now, a new Camino footpath is revealing a different side of the city beyond its medieval walls.",
-                "image": "https://ychef.files.bbci.co.uk/624x351/p0ny3w4r.jpg",
-                "url": "https://www.bbc.com/travel/article/20260717-a-new-way-to-see-the-worlds-most-overcrowded-city",
-                "source": "BBC",
-                "date": "2026-07-19T13:01:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hiding and confusing the trail: Sun Russia will soon receive improved missiles for Iskander",
-                "desc": "EADaily, July 19th, 2026. In the near future, the Russian army may receive additional upgraded ballistic missiles with a range of up to 480 km. This is reported by the publication \"Strana\" with reference to the Ukrainian monitoring public.",
-                "image": "https://img3.eadaily.com/r650x400/o/a0a/61e4ea80bd8f30f2abcd60a417716.jpeg",
-                "url": "https://eadaily.com/en/news/2026/07/19/hiding-and-confusing-the-trail-sun-russia-will-soon-receive-improved-missiles-for-iskander",
-                "source": "EADaily",
-                "date": "2026-07-19T12:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Satellite Images Show Impact of Ukrainian Strikes on Russia’s Engels Air Base. Here’s What We Know",
-                "desc": "Satellite images confirm a Russian Tu-95MS bomber was destroyed by a Ukrainian drone strike at Engels-2 air base, suffering catastrophic tail damage.",
-                "image": "https://storage.united24media.com/og/1/3e/2c9a4f70822f57c8362f3b7cf6ae63e1.jpg",
-                "url": "https://united24media.com/war-in-ukraine/new-satellite-images-show-impact-of-ukrainian-strikes-on-russias-engels-air-base-heres-what-we-know-20886",
-                "source": "UNITED24 Media",
-                "date": "2026-07-19T12:58:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK Confirms Visa Requirement For Over 100 Countries Visiting Under 6 Months",
-                "desc": "The United Kingdom has updated its Immigration Rules Appendix Visitor, reaffirming the list of countries and categories of travellers required to obtain a",
-                "image": "https://leadership.ng/wp-content/uploads/2026/07/IMG_7224.jpeg",
-                "url": "https://leadership.ng/full-list-uk-confirms-countries-that-require-visas-for-under-6-months-stay/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-07-19T12:57:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why have India’s Gen Z protesters called for a march to parliament?",
-                "desc": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-18T091855Z_822911136_RC26GMA8KB32_RTRMADP_3_INDIA-GEN-Z-ACTIVIST-1784450624.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament",
-                "source": "Al Jazeera",
-                "date": "2026-07-19T12:57:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jihadists Continue to Degrade Mali’s Air Capabilities * Military Africa",
-                "desc": "On 5 July 2026, the Azawad Liberation Front (FLA) downed a Russian-operated Mil Mi-24P attack helicopter during a joint FLA-Jamaa’at Nusrat al-Islam wal Muslimeen (JNIM) siege on Anefis in northern […]",
-                "image": "https://www.military.africa/wp-content/uploads/2026/07/tuareg-rebels-down-two-russian-africa-corps-aircraft-mali-scaled.webp",
-                "url": "https://www.military.africa/2026/07/tuareg-rebels-and-salafi-jihadists-continue-to-degrade-malis-air-capabilities/",
-                "source": "Military Africa",
-                "date": "2026-07-19T12:56:15Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-20T17:09:18.682165Z"
+    "lastGlobalSync": "2026-07-20T19:17:30.068712Z"
 }
