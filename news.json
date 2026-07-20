@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Oil prices rise as fighting between US and Iran intensifies",
+                "desc": "Oil prices rose on Monday morning as fighting between the US and Iran intensified, fuelling concerns over disruptions to energy shipments through the Strait of Hormuz.",
+                "image": "https://images.euronews.com/articles/stories/09/83/68/49/1200x675_cmsv2_42b58e04-f90c-5dd1-8873-b96fac9efb9d-9836849.jpg",
+                "url": "https://www.euronews.com/business/2026/07/20/oil-prices-rise-as-fighting-between-us-and-iran-intensifies",
+                "source": "Euronews.com",
+                "date": "2026-07-20T08:53:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Waste burning trial at Adbri cement site prompts backlash from council",
+                "desc": "A major cement manufacturer has been allowed to burn more plastic waste for fuel at its Adelaide site in a decision a local council is seeking to challenge in court.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/36844bc5464f918495130b470b397588?impolicy=wcms_watermark_news&cropH=2250&cropW=4001&xPos=608&yPos=97&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-20/adbri-cement-site-waste-fuel-trial-prompts-resident-concern/106936160",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-20T08:53:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China new PP capacity to plunge to 60% of initial target in 2026",
+                "desc": "Based on the latest project construction progress and feedstock c...",
+                "image": "https://cs.mysteelcdn.com/web/pc/english-station-static/img/og-image.9aff406.png",
+                "url": "https://www.mysteel.net/news/5132937-china-new-pp-capacity-to-plunge-to-60-of-initial-target-in-2026",
+                "source": "Mysteel",
+                "date": "2026-07-20T08:52:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippines: BSP Releases AI Governance Framework",
+                "desc": "BSP issued non-binding guidance outlining principles and lifecycle controls for the responsible use of AI in financial services.",
+                "image": "https://www.bakermckenzie.com/en/-/media/images/aboutus/bm_open_graph_1200x675.jpg?rev=e4ed22a4a6b04ff2b969748c9c322fd3&sc_lang=en",
+                "url": "https://www.bakermckenzie.com/en/insight/publications/2026/07/philippines-bsp-releases-ai-governance-framework",
+                "source": "Baker McKenzie",
+                "date": "2026-07-20T08:52:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gas prices back at $4 a gallon",
+                "desc": "The average price US drivers pay for a gallon of gas hit $4 on Monday, as fighting between the United States and Iran intensified, further disrupting oil flows through the Strait of Hormuz.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283753576.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/20/business/gas-four-dollars",
+                "source": "CNN",
+                "date": "2026-07-20T08:51:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Govt says no proposal currently to scrap LTCG tax on equities",
+                "desc": "Centre nets Rs 2.01 lakh crore during FY24 and FY25 via LTCG on equities",
+                "image": "https://images.moneycontrol.com/static-mcnews/2025/09/20250929072300_2.png",
+                "url": "https://www.moneycontrol.com/news/business/markets/govt-says-no-proposal-currently-to-scrap-ltcg-on-equities-13978508.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-20T08:50:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "need 'couple more years' to repair finances before new jet",
+                "desc": "CEO Kelly Ortberg signalled Boeing is focused more on stabilizing its existing business than rushing to develop a successor to its best-selling 737 MAX.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108325115-1782162733960-gettyimages-2282293892-a1_05485.jpeg?v=1782162851&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/20/boeing-ceo-ortberg-airbus-farnborough-737max.html",
+                "source": "CNBC",
+                "date": "2026-07-20T08:49:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FRSC, Auto Council, SONl to lead talks on safe EV, CNG rollout at NAJA auto summit",
+                "desc": "Nigeria's push towards cleaner transportation will receive a major boost on July 30, 2026 as the Corps Marshal of the Federal Road Safety Corps (FRSC), Shehu Mohammed, the Director-General of the National Automotive Design and Development Council (NADDC), Joseph Osanipin, and the Director-General of the Standards Organisation of Nigeria (SON), Dr. Ifeanyi Chukwunonso Okeke, gather to discuss relevant issues.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/04/Pix-4.jpg",
+                "url": "https://thesun.ng/frsc-auto-council-sonl-to-lead-talks-on-safe-ev-cng-rollout-at-naja-auto-summit/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-20T08:47:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stellantis MEA accelerate FastLane 2030 execution with clear regional ambitions",
+                "desc": "Stellantis Middle East & Africa (MEA) recently brought together leading automotive and business media from across the region, where Samir Cherfan, Chief Operating Officer for Middle East & Africa, presented the FaSTLAne 2030 strategy with a clear focus on its regional execution and growth trajectory.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2025/11/1001964512.jpg",
+                "url": "https://thesun.ng/stellantis-mea-accelerate-fastlane-2030-execution-with-clear-regional-ambitions/",
+                "source": "The Sun Nigeria",
+                "date": "2026-07-20T08:47:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fitch assigns Invest Bank Long-Term IDR of BBB+",
+                "desc": "Invest Bank (INB) today announced that Fitch Ratings has assigned Invest Bank P.S.C. (INB) a Long-Term Issuer Default Rating (IDR) of BBB+ with a Stable ...",
+                "image": "https://sharjah24.ae/-/media/Sharjah24/Articles/2026/July-2026/20/d69.webp?20260720125515",
+                "url": "https://sharjah24.ae/en/Articles/2026/07/20/d69",
+                "source": "Sharjah24",
+                "date": "2026-07-20T08:46:49Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
                 "desc": "Days after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight.",
                 "image": "https://cdn.sanity.io/images/s3y3vcno/production/409ba41b02cd789c797c437e43605451a86c8fe0-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
@@ -542,99 +632,99 @@
                 "source": "The Journal",
                 "date": "2026-07-19T20:01:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Isracard walks away from planned acquisition of Nir Zuk's Esh bank",
-                "desc": "Months of negotiations and due diligence ended without a binding agreement, scrapping a deal that would have accelerated Isracard's push into digital banking.",
-                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/06/30/By00cGNZ7Gg/By00cGNZ7Gg_1_58_1601_901_0_large.jpg",
-                "url": "https://www.calcalistech.com/ctechnews/article/zpfpdm0fe",
-                "source": "calcalistech.com",
-                "date": "2026-07-19T17:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NCDMB, Renaissance begin oil and gas readiness training for 300 Nigerians",
-                "desc": "The specialised human capital development programme is aimed at equipping the trainees with industry-relevant skills in mechanical, electrical and instrumentation engineering",
-                "image": "https://media.premiumtimesng.com/wp-content/files/2026/07/9ac636a6-dc1d-449b-a242-287d2a1a7bc4.jpeg",
-                "url": "https://www.premiumtimesng.com/promoted/896552-ncdmb-renaissance-begin-oil-and-gas-readiness-training-for-300-nigerians.html",
-                "source": "Premium Times Nigeria",
-                "date": "2026-07-19T17:19:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Stock Shows Why The AI Trade Is Moving Beyond Nvidia",
-                "desc": "Apple stock shows why the AI trade is moving beyond Nvidia as investors shift from AI spending and chip winners toward returns and customer economics.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5cfdcd96ef3de38ad2d8ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/jimosman/2026/07/19/apple-stock-shows-why-the-ai-trade-is-moving-beyond-nvidia/",
-                "source": "Forbes",
-                "date": "2026-07-19T17:17:33Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Oracle Just Hit a Fresh 52-Week Low and Had Its Credit Cut Toward Junk. Has the AI-Capex Panic Overshot?",
-                "desc": "A fresh low and a credit cut tell one story about the cloud giant. Its $638 billion backlog tells another.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879669%2Foracle-red-letters-on-exhibit-booth-getty.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/19/oracle-just-hit-a-fresh-52-week-low-and-had-its-cr/",
-                "source": "The Motley Fool",
-                "date": "2026-07-19T17:09:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Do Albemarle’s Upgraded Earnings Outlook And Zacks Rank Shift The Bull Case For ALB?",
-                "desc": "In recent trading, Albemarle’s shares closed at US$120.78 after a 1.1% daily gain, as investors looked back on its August 5, 2026 earnings release that had been closely anticipated.\nThe key development was a wave of upward earnings estimate revisions and an improved Zacks Rank of #2 (Buy), signaling a meaningful shift in analyst confidence around Albemarle’s near-term business trends.\nWe’ll now examine how these higher earnings expectations and the stronger Zacks Rank might influence...",
-                "image": "https://images.simplywall.st/asset/industry/2024000-choice1-main-header/1585186700183",
-                "url": "https://simplywall.st/stocks/us/materials/nyse-alb/albemarle/news/do-albemarles-upgraded-earnings-outlook-and-zacks-rank-shift",
-                "source": "simplywall.st",
-                "date": "2026-07-19T17:05:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 AI Chip Stocks to Watch as Samsung Doubles Down on Semiconductors",
-                "desc": "Samsung’s decision to cut U.S. jobs and double down on its chip division is a clear reminder that capital can move quickly toward what management sees as its strongest profit engines. For investors, it raises the question of which semiconductor and chip stocks might benefit as resources shift toward AI-focused production and infrastructure, and which could face pressure as consumer electronics take a back seat. This article breaks down three stocks from our AI Semiconductor and Chip Makers...",
-                "image": "https://images.simplywall.st/asset/company-cover/251411-main-header/1756192241979",
-                "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/3-ai-chip-stocks-to-watch-as-samsung-doubles-down-on-semicon",
-                "source": "simplywall.st",
-                "date": "2026-07-19T17:05:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Apollo Global Management (APO)'s B2B Events and Media Platform Deal Means For Shareholders",
-                "desc": "Apollo Global Management’s funds have completed the acquisitions of Emerald Holding and Questex, combining them into a single B2B experiential events and media platform led by newly appointed CEO Paul Miller and a fresh executive team.\nThis integration creates a larger, more diversified events and media operator whose scale and expanded capabilities could influence how Apollo’s broader asset management story is perceived.\nWe’ll now examine how building this combined B2B events and media...",
-                "image": "https://images.simplywall.st/asset/company-cover/18833-main-header/1756252346468",
-                "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-apo/apollo-global-management/news/what-apollo-global-management-apos-b2b-events-and-media-plat",
-                "source": "simplywall.st",
-                "date": "2026-07-19T17:05:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "High5VR Launches OowOah VR Meeting Rooms, Quantum Leap and OowOah Live VR",
-                "desc": "High5VR launches OowOah VR Meeting Rooms, introduces Quantum Leap and opens applications for OowOah Live VR Founding Test Partners.",
-                "image": "https://img.einnews.com/facebook/1154551/oowoah-meeting-rooms.png",
-                "url": "https://www.einpresswire.com/article/927848146/high5vr-launches-oowoah-vr-meeting-rooms-quantum-leap-and-oowoah-live-vr",
-                "source": "EIN Presswire",
-                "date": "2026-07-19T17:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From days to minutes: Rethinking Salmonella detection in poultry supply chains",
-                "desc": "Abdeladim Moumen, director of R&D in medical biotechnology, examines how rapid molecular screening methods can provide effective risk management across the poultry value chain.",
-                "image": "https://static.wixstatic.com/media/ddab84_166de9d0bcf046a09a621dd255fce8e0~mv2.jpg/v1/fill/w_4533,h_3400,al_c,q_90/ddab84_166de9d0bcf046a09a621dd255fce8e0~mv2.jpg",
-                "url": "https://www.foodbev.com/news/from-days-to-minutes-rethinking-salmonella-detection-in-poultry-supply-chains",
-                "source": "FoodBev Media",
-                "date": "2026-07-19T17:03:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air conditioners post solid sales growth",
-                "desc": "Hot weather this year has increased air conditioner sales, and LG Electronics (Thailand) Co Ltd projects continued growth in the second half.",
-                "image": "https://static.bangkokpost.com/media/content/20260720/c1_3288579_260720003643_700.jpg",
-                "url": "https://www.bangkokpost.com/business/general/3288579/air-conditioners-post-solid-sales-growth",
-                "source": "Bangkok Post",
-                "date": "2026-07-19T17:02:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Railway Dispatch Strategy Game \"The next train is\" Joins Steam Train Fest 2026 with Major Localization Update",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Railway-Dispatch-Strategy-Game-The-next-train-is-Joins-Steam-Train-Fes",
+                "source": "Games Press",
+                "date": "2026-07-20T08:53:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iQOO Compact Tablet Receives First Certification in China, Snapdragon 8 Elite Gen 6 Chipset Tipped, Launch Likely With iQOO 16",
+                "desc": "iQOO’s compact tablet gets first China certification, tipped with Snapdragon 8 Elite Gen 6, OLED display, Wi-Fi only; launch likely with iQOO 16 in Sept–Oct.",
+                "image": "https://www.mymobileindia.com/wp-content/uploads/2026/07/iQOO-Compact-Tablet-Receives-First-Certification.webp",
+                "url": "https://www.mymobileindia.com/iqoo-compact-tablet-receives-first-certification-in-china-snapdragon-8-elite-gen-6-chipset-tipped-launch-likely-with-iqoo-16/",
+                "source": "My Mobile India",
+                "date": "2026-07-20T08:53:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Garmin's CIRQA looks more and more certain as leaks intensify",
+                "desc": "Garmin's upcoming CIRQA display-free fitness wearable leaked earlier this year. At the time, it was a somewhat sketchy online store...",
+                "image": "https://stuff.co.za/wp-content/uploads/2026/07/Garmin-CIRQA-leak.png",
+                "url": "https://stuff.co.za/2026/07/20/garmins-cirqa-looks-more-and-more-certain-as-leaks-intensify/",
+                "source": "Stuff South Africa",
+                "date": "2026-07-20T08:53:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LG has required Smart TV owners to warn guests that their conversations are being recorded for AI purposes",
+                "desc": "LG's new terms and conditions include a clause stating that TV owners must warn their guests that their conversations may be recorded and used to train AI models. In effect, the company is trying to avoid potential legal issues – if anything goes wrong, it will be the users themselves who are to blame for failing to comply with this mandatory requirement.",
+                "image": "https://img.mezha.ua/mezha/images/doc/8/e/318245/8e14338347583eb3400fa7a0bc8126f6.jpeg?w=1200&q=85&stamp=1784530999",
+                "url": "https://mezha.ua/en/news/lg-requires-tv-owners-to-warn-guests-about-ai-voice-recording-313396/",
+                "source": "Mezha",
+                "date": "2026-07-20T08:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Electric Car Review - DriveLife",
+                "desc": "If you're looking to jump into a high-performance electric SUV but still need room for the family gear, the Enyaq RS deserves a spot right at the top",
+                "image": "https://www.drivelife.co.nz/wp-content/uploads/2026/07/2026-Skoda-enyaq-rs-EV-Electric-Road-Test-Full-comprehensive-Car-Review-Drivelife-1.jpg",
+                "url": "https://www.drivelife.co.nz/2026/07/2026-skoda-enyaq-rs-electric-car-review/",
+                "source": "drivelife.co.nz",
+                "date": "2026-07-20T08:49:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kingdom Hearts Missing-Link may have been cancelled, but that hasn't stopped footage of Keyblade-wielding astronauts from leaking online",
+                "desc": "A year has passed since the game was canned, but this new snippet shows it's not lacking in wackiness.",
+                "image": "https://assetsio.gnwcdn.com/kingdom-hearts-missing-link-keyblade-wielder.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/kingdom-hearts-missing-link-footage-leak-beyblade-astronauts",
+                "source": "Eurogamer.net",
+                "date": "2026-07-20T08:48:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Buying Blind to be seen by more viewers around world after Seven.One Studios sales",
+                "desc": "RTL in the Netherlands has commissioned a 10th season of lifestyle format Buying Blind, while Play Media has ordered a ninth season of the property show for Flemish-speaking Belgium.",
+                "image": "https://cdn.c21media.net/wp-content/uploads/2026/07/buyingblind-red-arrow-international.png",
+                "url": "https://www.c21media.net/news/buying-blind-to-be-seen-by-more-viewers-around-world-after-seven-one-studios-sales/",
+                "source": "C21media",
+                "date": "2026-07-20T08:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best Upcoming AI Smart Glasses Tested at AWE 2026",
+                "desc": "AI smart glasses tested: see how Google, Snap, and others deliver mixed reality. We tried five new headsets including the $599 Paris Sphere.",
+                "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/google-project-aura.jpg",
+                "url": "https://www.geeky-gadgets.com/best-ai-glasses-awe-2026/",
+                "source": "Geeky Gadgets",
+                "date": "2026-07-20T08:48:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"There has to be a reason for people to buy an Xbox\" - Senior leadership reinforces commitment to console exclusivity",
+                "desc": "\"We need to give players a clear reason to pick us. And even after they choose us, we still have an obligation to earn that purchase\"",
+                "image": "https://assetsio.gnwcdn.com/billy-freeman-5O5oJGOnj20-unsplash-copy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/there-has-to-be-a-reason-for-people-to-buy-an-xbox-senior-leadership-reinforces-commitment-to-console-exclusivity",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-20T08:47:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Per-Module GDDR7 Temperature Reading Unlocked on NVIDIA GeForce RTX 50 \"Blackwell\"",
+                "desc": "More individual readings are being unlocked on NVIDIA's GeForce RTX 50 series \"Blackwell\" graphics cards, as the modding community has started exploring GDDR7 temperature monitoring on a per-module basis. Interestingly, the modding community is diverse this time, including contributions from...",
+                "image": "https://www.techpowerup.com/img/NcFaM9iriuZ38uih.jpg",
+                "url": "https://www.techpowerup.com/350888/per-module-gddr7-temperature-reading-unlocked-on-nvidia-geforce-rtx-50-blackwell",
+                "source": "TechPowerUp",
+                "date": "2026-07-20T08:43:42Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "32 workers at ZA/UM laid off following release of Zero Parades: For Dead Spies",
                 "desc": "Developer says commercial performance of its latest title \"has not enabled us to sustain a studio of our current size\"",
@@ -1174,99 +1264,99 @@
                 "source": "IGN Pakistan",
                 "date": "2026-07-19T19:34:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
-                "desc": "Tech companies are on the hunt for more efficient technologies to reduce memory costs.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879309%2Fmu.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/19/a-hidden-threat-for-micron-apple-is-eyeing-a-fix/",
-                "source": "The Motley Fool",
-                "date": "2026-07-19T17:23:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple hikes Apple Music prices: Here are the new prices in India",
-                "desc": "Tech News News: Apple Music just got more expensive. Days after quietly raising AppleCare+ charges for Macs and iPads, Apple has bumped up prices for Apple Music and .",
-                "image": "https://static.toiimg.com/thumb/msid-132498398,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-hikes-apple-music-prices-here-are-the-new-prices-in-india/articleshow/132498310.cms",
-                "source": "The Times of India",
-                "date": "2026-07-19T17:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KDE Plasma 6.8 Desktop Environment Lands on October 14th, Here’s What to Expect",
-                "desc": "The upcoming KDE Plasma 6.8 desktop environment is expected on October 14th, 2026, with many new features and improvements.",
-                "image": "https://9to5linux.com/wp-content/uploads/2026/04/kp67p.webp",
-                "url": "https://9to5linux.com/kde-plasma-6-8-desktop-environment-is-coming-on-october-14th-heres-what-to-expect",
-                "source": "9to5Linux",
-                "date": "2026-07-19T17:18:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We don't need new versions of these cars",
-                "desc": "Recently, a realisation from behind the wheel of the current generation of a widely beloved rear-drive two-door coupe...",
-                "image": "https://www.standard.net.au/images/transform/v1/crop/frm/silverstone-feed-data/566bdf2a-ac36-4560-8094-4a2925d801ee.jpg/r0_4_1490_786_w1200_h630_fmax.jpg",
-                "url": "https://www.standard.net.au/story/9313464/we-dont-need-new-versions-of-these-cars/",
-                "source": "The Standard | Warrnambool, VIC",
-                "date": "2026-07-19T17:15:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We don't need new versions of these cars",
-                "desc": "Recently, a realisation from behind the wheel of the current generation of a widely beloved rear-drive two-door coupe...",
-                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/75ee006a-8933-4578-b13a-1986ed480e0d.jpg/r0_4_1490_786_w1200_h630_fmax.jpg",
-                "url": "https://www.canberratimes.com.au/story/9313464/we-dont-need-new-versions-of-these-cars/",
-                "source": "The Canberra Times",
-                "date": "2026-07-19T17:08:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We don't need new versions of these cars",
-                "desc": "Recently, a realisation from behind the wheel of the current generation of a widely beloved rear-drive two-door coupe...",
-                "image": "https://www.juneesoutherncross.com.au/images/transform/v1/crop/frm/silverstone-feed-data/566bdf2a-ac36-4560-8094-4a2925d801ee.jpg/r0_4_1490_786_w1200_h630_fmax.jpg",
-                "url": "https://www.juneesoutherncross.com.au/story/9313464/we-dont-need-new-versions-of-these-cars/",
-                "source": "juneesoutherncross.com.au",
-                "date": "2026-07-19T17:03:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SOUEAST S08 DM Delivers \"Extra-Time Range” for Football Fans’ Journeys",
-                "desc": "WUHU, China, July 19, 2026 (GLOBE NEWSWIRE) -- During this globally anticipated football season, for fans traveling with family and friends, the SOUEAST S08 DM offers a comprehensive mobility solution built around four key strengths: long range, low fuel consumption, fast charging and a flexible, spacious cabin.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1142679.jpg",
-                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/globenewswire/soueast-s08-dm-delivers-extra-time-range-for-football-fans-journeys/2387206",
-                "source": "The Manila Times",
-                "date": "2026-07-19T17:03:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stop tap tap tapping on your Android keyboard and get the message through faster with this ancient but underrated feature",
-                "desc": "Time to increase your typing speed.",
-                "image": "https://cdn.mos.cms.futurecdn.net/62dJaxVFjq5ruaJ9EifUgV-2560-80.jpg",
-                "url": "https://www.androidcentral.com/apps-software/android-os/stop-tap-tap-tapping-on-your-android-keyboard-and-get-the-message-through-faster-with-this-ancient-but-underrated-feature",
-                "source": "Android Central",
-                "date": "2026-07-19T17:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lenovo Yoga x Microsoft use AI to reimagine soccer history",
-                "desc": "SPORTS: Lenovo Yoga and Microsoft explore soccer's untold stories in AI-powered World Cup campaign. Learn more.",
-                "image": "https://reel360.com/wp-content/uploads/2026/07/Reel-360-23.jpg",
-                "url": "https://reel360.com/article/lenovo-yoga-x-microsoft-use-ai-to-reimagine-soccer-history/",
-                "source": "Reel 360 News",
-                "date": "2026-07-19T17:01:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's Galaxy Z Fold8 Future Is Caught Between Honor And Apple",
-                "desc": "As Samsung prepares the Galaxy Z Fold8, it will be under direct pressure from well-established foldables from the likes Honor, and Apple's highly anticipated iPhone Ultra.",
-                "image": "https://s.yimg.com/lo/mysterio/api/da52f612dcf291397c418f7b6dab532f984f211189ac4aa630a8c5530e1a9e51/lightyear_networkapi/resizefill_w959_h661;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F790621d3d85c1d11c384c5ae102b8292",
-                "url": "https://ca.news.yahoo.com/samsungs-galaxy-z-fold8-future-170114864.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-07-19T17:01:14Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+                "desc": "President Trump has vowed to avenge the deaths of any U.S. military personnel.",
+                "image": "https://static01.nyt.com/images/2026/08/18/multimedia/18mideast-live-jordan-attack-pwmg/18mideast-live-jordan-attack-pwmg-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
+                "source": "The New York Times",
+                "date": "2026-07-20T08:53:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands of Jews march, demanding Gaza Israeli settlements",
+                "desc": "Thousands of Israelis, including settlers and right-wing activists, marched toward the border with Gaza, calling on the government to re-establish Israeli settlements in the war-shattered Palestinian territory, an AFP journalist reported.",
+                "image": "https://news24cobalt.24.co.za/resources/02a7-2125e8a76daf-c4d26096520d-1000/format/inline/israel_protest4.jpeg",
+                "url": "https://www.news24.com/world/thousands-of-jews-march-demanding-gaza-israeli-settlements-20260720-0402",
+                "source": "News24",
+                "date": "2026-07-20T08:52:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somali National University Launches AI Centre to Advance Research and Digital Innovation",
+                "desc": "The new centre will serve as the university's focal point for artificial intelligence research and innovation, with a mandate to develop locally driven AI solutions to address national challenges.",
+                "image": "https://techafricanews.com/wp-content/uploads/2026/07/somali-1-1.png",
+                "url": "https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/",
+                "source": "TechAfrica News",
+                "date": "2026-07-20T08:52:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global AI Rules Must Include Developing Nations, Says Sri Lanka",
+                "desc": "COLOMBO (News 1st); Sri Lanka has called for developing nations to be given an equal voice in shaping global artificial intelligence governance, with - Get the latest breaking news and top stories from Sri Lanka, the latest political news, sports news, weather updates, exam results, business news, entertainment news, world news and much more from News 1st, Sri Lanka's leading news network.",
+                "image": "https://cdn.newsfirst.lk/english-uploads/2026/07/Deputy Minister of Digital Economy Eng-847601_850x460. Eranga Weeraratne",
+                "url": "https://www.newsfirst.lk/2026/07/20/global-ai-rules-must-include-developing-nations-says-sri-lanka",
+                "source": "Newsfirst",
+                "date": "2026-07-20T08:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nearly 100 Cases of Rare Skin Infection Detected in Europe: Residents of Latvia Urged to Be Cautious",
+                "desc": "The Latvian Centre for Disease Prevention and Control (SPKC) has urged doctors and residents to pay attention to dermatophilosis — a rare bacterial skin disease, cases of which have been identified in several European countries in recent months.",
+                "image": "https://news.inbox.eu/w/img/b5/20/b5205ded8fa0980ab5.webp",
+                "url": "https://news.inbox.eu/150iyty-nearly-100-cases-of-rare-skin-infection-detected-in-europe-residents-of-latvia-urged-to-be-cautious?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-07-20T08:50:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine fires 400 drones toward Moscow in latest major attack",
+                "desc": "Ukraine has launched over 400 drones toward Moscow, according to the city's mayor. The attack comes after Russia bombarded Kyiv and other cities with ballistic missiles.",
+                "image": "https://dims.apnews.com/dims4/default/e8a3e58/2147483647/strip/true/crop/2000x1333+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F3f%2Faf7ef78a085de507698e816550ec%2Fb2aa652cbdbb4d20ba15356b779cba83",
+                "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-f42baa61109fcb43b7efabf5334c4f50",
+                "source": "AP News",
+                "date": "2026-07-20T08:50:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global Weekly Roundup: Military Escalation, Economic Fragmentation and the Race for Strategic Advantage",
+                "desc": "By Staff Writer\nThe past week reinforced a defining feature of today’s international system: global crises are increasingly interconnected, with developments in one region producing political, economic, and security consequences far beyond their immediate borders. Military confrontations, economic uncertainty, technological rivalry, climate pressures, and humanitarian emergencies are no longer isolated challenges but overlapping forces reshaping the global order.\nWhile the Middle East remained at the center of international attention, significant developments also unfolded across Africa, Europe, Asia, North America, Latin America, and the Pacific. From armed conflicts and shifting alliances to supply chain restructuring, artificial intelligence competition, and climate-related disruptions, the week highlighted how strategic competition is redefining global affairs.\nAmid these profound geopolitical shifts, the world also turned its attention to the grand theater of international sport, where the dramatic conclusion of the FIFA World Cup offered a stark reminder of how cultural soft power and national prestige remain deeply intertwined with global identity.\nSoft Power, National Prestige and Sporting Triumph\nIn a captivating display of athletic excellence and national unity, the global sporting arena provided a rare moment of shared international focus with the conclusion of the FIFA World Cup final yesterday. In a thrilling encounter that captured the imagination of billions worldwide, Spain ascended to the pinnacle of global football, securing the coveted championship title in a masterclass of skill and resilience.\nMeanwhile, the battle for the remaining podium honors saw England deliver a commanding performance to defeat France, claiming a hard-fought third-place finish. Beyond the immediate celebrations, the tournament underscored the immense significance of sports diplomacy in the modern era, demonstrating how cultural triumphs can elevate a nation’s global footprint and project soft power on an unparalleled international scale.\nMaritime Security, Military Escalation\nThe most consequential security development of the week remained the sharp escalation of tensions in the Gulf following the collapse of diplomatic efforts between the United States and Iran. The breakdown quickly transformed maritime security, particularly around the Strait of Hormuz, into a major international flashpoint.\nWhat began as pressure tactics and attacks targeting commercial shipping evolved into direct military confrontation involving missile strikes, air operations, and broader regional alignments. Strategic military facilities, including missile installations, air defense systems, and command centers, became targets, while retaliatory actions affected countries hosting U.S. and allied military forces.\nThe consequences extend far beyond the immediate conflict zone. The concentration of regional and international military assets has significantly increased the risk of miscalculation, raising fears that a limited confrontation could escalate into a wider regional conflict with severe consequences for energy markets and global economic stability.\nThe crisis also reflects a broader transformation in modern warfare. The expanding use of long-range drones, precision-guided missiles, cyber operations, and electronic warfare demonstrates how states and non-state actors can project power across borders without relying primarily on conventional ground forces. As a result, hybrid warfare has become a central feature of contemporary security competition.\nConflict, Humanitarian Challenges and Institutional Renewal\nAfrica continued to experience a complex combination of security crises, humanitarian emergencies, and efforts toward political and economic transformation.\nSudan remained one of the world’s most severe conflict zones, where continued fighting, air operations, and attacks on infrastructure have deepened humanitarian suffering and displaced millions of people. The increasing use of advanced drone technology has further demonstrated how external military capabilities are reshaping conflicts across the continent.\nInsecurity also persisted in eastern Democratic Republic of Congo and parts of the Sahel, where armed groups, political instability, and humanitarian pressures continue to threaten regional stability. These challenges have been intensified by food insecurity, displacement, and climate-related stresses.\nHowever, alongside these security challenges, the continent also witnessed inspiring efforts toward political dialogue, institutional strengthening, and economic integration. A magnificent milestone in East Africa was the commencement of Ethiopia’s National Dialogue Conference, bringing together thousands of representatives from different sections of society. The historic initiative represents a profound attempt to address longstanding political disagreements through consultation, reconciliation, and genuine consensus-building.\nMeanwhile, several African countries continued advancing economic reforms, digital innovation, and regional cooperation. The implementation of the African Continental Free Trade Area (AfCFTA) remains a major driver of efforts to strengthen intra-African trade, industrial development, and economic self-reliance. These developments illustrate that Africa’s trajectory is shaped not only by its security challenges but also by visionary efforts to build stronger institutions and sustainable growth.\nSecurity Realignment and Economic Adjustment\nEurope remained focused on strengthening security, managing economic pressures, and adapting to a changing geopolitical environment.\nThe war in Ukraine continued to influence European defense policies, encouraging increased military spending, expanded security cooperation, and greater investment in strategic industries. At the same time, European governments accelerated efforts to reduce dependence on vulnerable supply chains and diversify energy sources.\nEconomically, many European countries continued navigating slower growth, persistent inflation pressures, and cautious monetary policies. Governments and central banks faced the challenge of supporting investment while preventing renewed inflation.\nIn parallel, Europe continued advancing regulations on artificial intelligence, cybersecurity, and digital governance as it seeks to balance technological innovation with stronger oversight and strategic competitiveness.\nIndustrial Strategy and Economic Expansion\nAsia remained both a major engine of global economic growth and a central arena of geopolitical competition.\nTensions continued in the South China Sea and around the Taiwan Strait as major powers expanded military deployments and strengthened strategic partnerships. Regional governments continued balancing security concerns with deep economic ties to competing global powers.\nChina focused on stimulating domestic growth while accelerating investment in advanced manufacturing, artificial intelligence, and semiconductor industries. India maintained strong economic momentum through infrastructure expansion, digital transformation, and manufacturing development.\nJapan and South Korea strengthened cooperation in defense, technology, and supply chain resilience amid growing regional security concerns. Meanwhile, Southeast Asian countries continued facing climate-related challenges, including floods and extreme weather events affecting agriculture, infrastructure, and trade networks.\nNorth America remained central to global debates over technology, defense, and economic competitiveness.\nThe United States continued expanding investment in artificial intelligence, semiconductor production, and critical technologies while strengthening controls on advanced computing systems and strategic exports. These efforts reflect a broader competition to secure technological leadership and reduce dependence on vulnerable supply chains.\nCanada continued advancing energy transition initiatives while strengthening Arctic security, climate resilience, and critical mineral development. Both countries emphasized supply chain security, cybersecurity cooperation, and industrial resilience.\nAcross the region, economic policy increasingly focused on reshoring production, diversifying trade relationships, and reducing exposure to geopolitical disruptions.\nResource Opportunities, Governance Challenges\nLatin America continued to gain strategic importance due to its vast reserves of critical minerals needed for renewable energy technologies, electric vehicles, and advanced manufacturing.\nCountries rich in lithium, copper, and other strategic resources are seeking greater investment opportunities as global competition for clean energy supply chains intensifies. At the same time, political polarization, organized crime, fiscal pressures, and climate-related disasters continued to challenge governance and economic stability.\nRegional governments also pursued greater trade diversification and stronger economic cooperation to reduce dependence on traditional markets.\nClimate Security and Humanitarian Pressures\nClimate change remained a major factor influencing security, economic stability, and human development across continents.\nPacific Island nations continued highlighting the existential risks posed by rising sea levels, stronger storms, and coastal erosion. Australia and New Zealand expanded regional security cooperation while supporting climate resilience initiatives across the Indo-Pacific.\nMeanwhile, extreme weather events, including floods, droughts, wildfires, and heatwaves, affected communities across Europe, Asia, North America, Latin America, and Oceania. These events increasingly demonstrate the connection between climate change, food security, migration, and economic vulnerability.\nPublic health risks also remained closely linked to conflict and climate pressures. Disease outbreaks in parts of Africa highlighted how damaged infrastructure, displacement, and weakened health systems can undermine emergency response capacity.\nSupply Chain Transformation and Strategic Vulnerabilities\nMilitary tensions in key maritime corridors continued to demonstrate how security developments can rapidly affect the global economy. The Strait of Hormuz remains one of the world’s most important energy routes, and any disruption threatens to increase shipping costs, insurance premiums, and energy price volatility.\nBeyond immediate security concerns, the global economy continued experiencing an uneven recovery. Countries leading in artificial intelligence, semiconductor manufacturing, biotechnology, and advanced digital infrastructure are attracting greater investment and building stronger economic resilience. Technological capability is increasingly becoming a decisive factor in determining competitiveness and strategic influence.\nAt the same time, many developing economies remain vulnerable to rising energy prices, inflation, high borrowing costs, and external debt pressures. Persistent economic uncertainty continues limiting government spending capacity and slowing investment in critical sectors.\nAs a result, supply chain resilience has become a central priority for governments worldwide. Countries are pursuing diversified trade partnerships, regional manufacturing networks, strategic reserves, and domestic production capacity to reduce exposure to future disruptions.\nThe shift marks a broader transformation in global economic policy. Efficiency alone is no longer the primary objective; governments are increasingly prioritizing security, reliability, and strategic independence.\nArtificial Intelligence and the New Frontline of Global Competition\nTechnology has moved beyond being a driver of economic growth to become one of the most important arenas of geopolitical competition.\nArtificial intelligence, advanced computing, semiconductor production, and digital infrastructure are increasingly viewed as strategic assets comparable to energy resources and military capabilities. Countries with leadership in these fields are gaining advantages not only in economic development but also in security, innovation, and global influence.\nInternational discussions have intensified around establishing governance frameworks capable of managing rapidly advancing AI technologies. Concerns over autonomous decision-making, particularly in sensitive areas such as military systems and nuclear command structures, have increased calls for stronger international safeguards.\nAt the same time, access to advanced computing infrastructure remains highly unequal. The ability to develop and deploy AI increasingly depends on access to high-performance chips, cloud computing systems, data centers, and skilled technical expertise, creating a widening digital divide between technologically advanced economies and developing countries.\nCompetition has also intensified over critical minerals, including lithium, cobalt, nickel, and rare earth elements. These resources are essential for renewable energy technologies, electric vehicles, advanced electronics, and defense industries, making control over supply chains a major component of strategic competition.\nPublic Health, Climate Risks and Human Security\nHealth and climate challenges continued to reveal the growing connection between environmental pressures, conflict, and humanitarian vulnerability.\nDisease outbreaks in parts of Africa demonstrated how conflict, displacement, and fragile healthcare systems can weaken disease surveillance and emergency response. Sudan remains a clear example of how armed conflict can create conditions for the spread of preventable diseases by damaging health facilities, disrupting water systems, and displacing large populations.\nClimate-related disasters also intensified across several regions. Extreme heat, flooding, drought, and wildfires affected communities worldwide, increasing pressure on agriculture, infrastructure, and public services.\nThese challenges highlight a broader shift in the understanding of security. Human security is increasingly shaped not only by military threats but also by health emergencies, food insecurity, climate instability, and economic inequality.\nConclusion\nTaken together, the week’s developments reveal several major trends shaping the international system.\nFirst, geopolitical competition has become increasingly multidimensional. Military strength alone is no longer sufficient to define national power. Technology, economic resilience, cyber capabilities, climate adaptation, and digital governance have become equally important instruments of influence.\nSecond, technological leadership is emerging as one of the strongest determinants of economic and strategic advantage. Nations capable of developing advanced technologies are gaining influence that extends beyond traditional measures of industrial capacity.\nThird, humanitarian crises are becoming increasingly complex as conflict, climate pressures, disease outbreaks, and economic instability reinforce one another. Modern crises rarely occur in isolation; instead, they interact and amplify existing vulnerabilities.\nFinally, recent developments demonstrate that no region remains insulated from global instability. Security tensions affect energy markets, technological competition reshapes trade patterns, and climate disruptions create humanitarian and economic consequences across borders.\nThe international community is therefore entering an era defined by interconnected strategic shocks. Addressing these challenges will require stronger diplomatic engagement, resilient institutions, diversified supply chains, and sustained investment in technology, public health, sports diplomacy, and climate adaptation.\nNOTE: This global weekly roundup is synthesized from coverage by leading international, sports, and regional media organizations including Reuters, AP, AFP, BBC, Al Jazeera, CNN, The Guardian, The Economist, DW, Nikkei Asia, South China Morning Post, Africa Report, and official updates from FIFA.",
+                "image": "https://www.ena.et/documents/42142/0/globacl12+%283%29.png/91ff451e-40e2-ae78-bb75-de389155df71?version=1.0&t=1784537258295&download=true",
+                "url": "https://www.ena.et/web/eng/w/eng_9245697",
+                "source": "ENA English",
+                "date": "2026-07-20T08:50:01Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Beyond Nigerian Gas, Benin, Togo and Côte d’Ivoire Chart a New Regional Energy Map",
+                "desc": "Supply disruptions from Nigeria have exposed the risks of relying on a single source of gas to fuel power plants in Ghana, Benin and Togo.\nEarlier",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/645701d28e8d2d167edf199472ac3953_S.jpg",
+                "url": "https://www.ecofinagency.com/news/2007-57535-beyond-nigerian-gas-benin-togo-and-cote-d-ivoire-chart-a-new-regional-energy-map",
+                "source": "Ecofin Agency",
+                "date": "2026-07-20T08:48:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mediators between Iran, US still proposing ideas, Iranian FM spox Baghaei says",
+                "desc": "\"The principle of the matter is clear: mediators are working and trying to prevent tension from escalating,\" Baghaei explained.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725768",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-903043",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-20T08:46:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia planning to make sarcastic use of international courts against Baltics",
+                "desc": "Russia, a country that is a serial offender with scant regard for rule of law, nevertheless intends to use international courts to drag the Baltic states through various inconvenient and cos...",
+                "image": "https://static.lsm.lv/media/2026/07/large/1/tqb5.jpg",
+                "url": "https://eng.lsm.lv/article/politics/diplomacy/13.07.2026-russia-planning-to-make-sarcastic-use-of-international-courts-against-baltics.a654903/",
+                "source": "LSM",
+                "date": "2026-07-20T08:45:19Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Submissions open for NASA STAR",
                 "desc": "Deadline: 31-Jul-2026 The NASA STAR-7 Programme 2026 offers researchers, principal investigators, and postdoctoral scholars an opportunity to develop expertise in space biosciences, spaceflight experiments, and research collaboration. The virtual programme will run from September 2026 to February 2027 and will provide training on designing and conducting biological research experiments using NASA and commercial spaceflight platforms.",
@@ -1806,98 +1896,8 @@
                 "source": "Fair Play Talks",
                 "date": "2026-07-19T20:04:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump and the bonfire of his vanities",
-                "desc": "US president puts his ego above everything else, even democracy",
-                "image": "https://www.irishtimes.com/resizer/v2/M7RTETD3N5GEXO64R4PDZJBJKM.jpg?smart=true&auth=88cec7d9465a2fc51756bd9f2d9ceb4c1a60b703fbea4d5561233c5c87c80327&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/2026/07/19/trump-and-the-bonfire-of-his-vanities/",
-                "source": "The Irish Times",
-                "date": "2026-07-19T17:21:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apply Now for the WHO Collaborative Analysis Internship in Berlin, Germany: 24",
-                "desc": "The World Health Organization (WHO) has announced applications for its Intern – Collaborative Analysis position at the WHO Hub for Pandemic and Epidemic",
-                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/1783952257503.jpeg",
-                "url": "https://www.globalsouthopportunities.com/2026/07/19/who-30/",
-                "source": "Global South Opportunities",
-                "date": "2026-07-19T17:16:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pay quarterly, not yearly: Saudi Arabia introduces 3-month residency permit renewal option for domestic workers",
-                "desc": "Middle East News: Saudi Arabia's new residency permit renewal system allows employers to renew iqamas for domestic workers every three months, enhancing financial flexibility and modernizing registration procedures.",
-                "image": "https://static.toiimg.com/thumb/msid-132498438,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/middle-east/pay-quarterly-not-yearly-saudi-arabia-introduces-3-month-residency-permit-renewal-option-for-domestic-workers/articleshow/132497848.cms",
-                "source": "The Times of India",
-                "date": "2026-07-19T17:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Earthquake in Peru leaves at least five dead",
-                "desc": "More than 20 injured and 300 displaced after buildings collapse near Sicaya",
-                "image": "https://i.guim.co.uk/img/media/2136e3551472994e2d01567efb99da947cb0c02d/0_0_1333_1067/master/1333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb6ccfac71035de2608a04527ec7bc6f",
-                "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
-                "source": "The Guardian",
-                "date": "2026-07-19T17:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya’s Rift Valley residents reach breaking point: 'The lake moved into my house’",
-                "desc": "Samuel Loruman points past the bow of his rowboat, toward a shifting green mat of water hyacinth .",
-                "image": "https://cdn.modernghana.com/images/content/719202663607-sxoaredq5l-lake-baringo-5.jpg",
-                "url": "https://www.modernghana.com/news/1511915/kenyas-rift-valley-residents-reach-breaking-point.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-19T17:09:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US and Iran trade strikes again as Washington avenges American deaths",
-                "desc": "Tehran hit Gulf states hosting American troops, while Washington said its bombing would “swiftly punish” Iran for killing two U.S. soldiers.",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/19/GettyImages-2285298858-scaled.jpg",
-                "url": "https://www.politico.eu/article/us-iran-strikes-war-peace-deal/",
-                "source": "politico.eu",
-                "date": "2026-07-19T17:07:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pro-Palestinian NGOs challenge sanctions tied to Benjamin Netanyahu arrest warrant",
-                "desc": "Democracy for the Arab World Now (DAWN) and the Taxpayer Alliance Against Genocide (TAAG) filed the lawsuit in the federal court in Manhattan last week.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/662976",
-                "url": "https://www.jpost.com/diaspora/article-902994",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-19T17:07:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa Has the Water. Now It Needs the Investment.",
-                "desc": "Africa's water resources — the Congo Basin, the Nile, Lake Chad, more than 80 transboundary river and lake basins — have the potential to power economies and feed hundreds of millions of people. What's missing is not the water, but the infrastructure, institutions, and financing to put it to work.",
-                "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/07/water-in-africa.jpg?fit=1170%2C780&ssl=1",
-                "url": "https://tanzaniatimes.net/africa-has-the-water-now-it-needs-the-investment/",
-                "source": "The Tanzania Times",
-                "date": "2026-07-19T17:07:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Are Crash Games, And Why Have They Become So Popular?",
-                "desc": "Online gaming in Ghana now lives beside football news, mobile money habits, creator clips, and daily sport talk .",
-                "image": "https://cdn.modernghana.com/images/content/719202665534-m5htk8v331-playing-online-games.jpeg",
-                "url": "https://www.modernghana.com/news/1511920/what-are-crash-games-and-why-have-they-become.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-19T17:07:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN watchdog calls for restraint as Iran says US attacked unfinished plant",
-                "desc": "TEHRAN: The UN’s nuclear watchdog called for restraint on Sunday after Iran’s Atomic Energy Organization said the United States had attacked an under-construction nuclear power plant in the country’s southwest. The US and Iran have been trading escalating attacks for days, and Washington carried out fresh airstrikes on Sunday to “punish” Iran for the deaths of two US service",
-                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/07/19/4732850-44314679.jpg?itok=OtN69UBK",
-                "url": "https://www.arabnews.pk/node/2651520/middle-east",
-                "source": "Arab News PK",
-                "date": "2026-07-19T17:07:08Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-20T19:17:30.068712Z"
+    "lastGlobalSync": "2026-07-20T20:54:02.733757Z"
 }
