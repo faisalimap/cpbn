@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Crypto Markets Today",
+                "desc": "Speculation that President Donald Trump agreed to a crucial ethics provision for the crypto market structure bill underpinned the gains.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ae075692e2a89c19b2ecc41161a59e15cf46ad9-1290x665.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
+                "source": "CoinDesk",
+                "date": "2026-07-21T11:03:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Diablo Extends Star Range Silver-Antimony Trend Beyond 3 km Ahead of Maiden Drilling",
+                "desc": "Diablo Resources has expanded the exploration footprint at its Star Range Project in Utah, extending a silver-antimony trend beyond three kilometers and identifying a separate copper anomaly as the company prepares to begin maiden drilling.",
+                "image": "https://www.azomining.com/images/news/ImageForNews_18715_17846316280943052.png",
+                "url": "https://www.azomining.com/News.aspx?newsID=18715",
+                "source": "AZoMining",
+                "date": "2026-07-21T11:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More people are poorer than they think: Here's why",
+                "desc": "Expert warns that although poverty rates are declining, the tax base that enables government spending is being squeezed.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2024/09/empty-pockets-scaled.jpg",
+                "url": "https://www.citizen.co.za/news/south-africa/subjective-poverty-how-south-africans-consider-themselves-poor/",
+                "source": "The Citizen",
+                "date": "2026-07-21T11:02:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How AI may drive union-resistant tech workers to the bargaining table",
+                "desc": "Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence",
+                "image": "https://i.guim.co.uk/img/media/56bb5b877c5752e1b71707cbefc7103e54ed3fbc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97f430c7487171341d3074196104e5a1",
+                "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+                "source": "The Guardian",
+                "date": "2026-07-21T11:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Looking for a world-class meal at short notice? At these 50 Best restaurants, you can eat at the bar",
+                "desc": "The insider hack to eating at the world's most coveted restaurants.",
+                "image": "https://www.theworlds50best.com/stories/filestore/jpg/Clemente-Bar-Eat-at-the-bar-Hero-Credit-Jason-Varney (2).jpg",
+                "url": "https://www.theworlds50best.com/stories/News/the-insider-hack-to-eating-at-the-worlds-most-coveted-restaurants.html",
+                "source": "The World’s 50 Best",
+                "date": "2026-07-21T11:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The World’s Best Single Malt Scotch Whisky, According To BevTest",
+                "desc": "BevTest’s top single malt Scotch whiskies showcase Scotland’s remarkable diversity. Here’s where to find the world’s best single malt whisky and why you should taste them",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/675cb9587750fca5343c9599/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/joemicallef/2026/07/21/the-worlds-best-single-malt-scotch-whisky-according-to-bevtest/",
+                "source": "Forbes",
+                "date": "2026-07-21T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HEINZ, Philadelphia, and Kraft Mac & Cheese Coming to Disney Parks with Custom Equipment & New Menu Items",
+                "desc": "Kraft Heinz and Disney announced a long-term partnership that will bring Kraft Heinz products to Disney Parks and Cruise Line.",
+                "image": "https://r2-media.wdwnt.com/2026/07/Kraft-Heinz-Disney-Castle.jpg",
+                "url": "https://wdwnt.com/2026/07/kraft-heinz-disney-parks-cruise-line-partnership/",
+                "source": "WDW News Today",
+                "date": "2026-07-21T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Attorney Referral Legal Platform Vikk AI Announces $4.2M in Funding",
+                "desc": "The consumer-facing platform offers an AI legal assistant and sells ads to attorneys, with plans to launch a lawyer directory and create a data hub covering legal search trends.",
+                "image": "https://images.law.com/brightspot/35/0f/ed2fbb824b519b9e30b7cf27caf7/vikk-ai-logo-jpg767x505.jpg",
+                "url": "https://www.law.com/legaltechnews/2026/07/21/attorney-referral-legal-platform-vikk-ai-announces-42m-in-funding-/?slreturn=20260721095109",
+                "source": "Law.com",
+                "date": "2026-07-21T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian Dollar hits fresh monthly highs above 0.7020 as risk aversion ebbs",
+                "desc": "The Australian Dollar (AUD) is showing one of the best performances among major currencies on Tuesday, appreciating to fresh one-month highs against the US Dollar, amid hopes of a ceasefire in Iran.",
+                "image": "https://editorial.fxsstatic.com/images/i/discover-67_Medium.png",
+                "url": "https://www.fxstreet.com/news/australian-dollar-hits-fresh-monthly-highs-above-07020-as-risk-aversion-ebbs-202607211059",
+                "source": "FXStreet",
+                "date": "2026-07-21T10:59:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK traded shares to go paperless by the end of 2027",
+                "desc": "On 14 July 2026, the Dematerialisation Market Action Taskforce (DEMAT) published its implementation plan for removing paper share certificates in relation to UK-traded shares of UK companies. The government has accepted the recommendations and intends to legislate with a view to implementation before the end of 2027.",
+                "image": "https://www.dentons.com/-/media/images/website/background-images/gpof/aerial/istock-1266572591.ashx",
+                "url": "https://www.dentons.com/en/insights/alerts/2026/july/20/uk-traded-shares-to-go-paperless-by-the-end-of-2027",
+                "source": "Dentons",
+                "date": "2026-07-21T10:59:12Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nintendo Asks Court To Dismiss U.S. Tariff Refund Lawsuit",
                 "desc": "Customers received what they \"bargained for\" - Back in April, it emerged that two gamers in the U.S. filed a lawsuit against Nintendo, claiming that the comp...",
                 "image": "https://images.nintendolife.com/365d76a358fa3/large.jpg",
@@ -542,99 +632,99 @@
                 "source": "The MileLion",
                 "date": "2026-07-20T23:49:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Markets live: ASX falls, Houthis' threat to blockade Saudi Arabia drives oil prices higher",
-                "desc": "The Australian share market has fallen after a negative session on Wall Street. Oil prices remain near a one-month high as Yemen's Houthis threaten to impose a naval blockade on Saudi Arabia. See how the trading day unfolds on our blog. Follow live.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/a576dff5144363b95712015ae1744653?impolicy=wcms_watermark_news&cropH=804&cropW=1429&xPos=8&yPos=119&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-21/asx-markets-business-live-news/106938630",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-20T22:08:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brazil widens lead in China’s soybean market as US shipments fall despite Trump-Xi deal",
-                "desc": "China’s Brazilian soybean imports up 13.7 per cent in June compared to a year earlier; US figures fell 20.6 per cent over the same period.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/21/03300d0b-ca3f-4934-bf51-46243c61bfa0_1b107d63.jpg?itok=6kUGb-He&v=1784585040",
-                "url": "https://www.scmp.com/news/china/diplomacy/article/3361269/brazil-widens-lead-chinas-soybean-market-us-shipments-fall-despite-trump-xi-deal",
-                "source": "South China Morning Post",
-                "date": "2026-07-20T22:04:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NC gas prices climb and Durham drivers say they feel the pinch",
-                "desc": "Drivers in Durham say the cost is still high and is putting added strain on household budgets.",
-                "image": "https://cdn.abcotvs.com/dip/images/19545598_072026-wtvd-gas-prices-clean-img.jpg?w=1600",
-                "url": "https://abc11.com/post/nc-gas-prices-climb-durham-drivers-say-feel-pinch/19545521/",
-                "source": "ABC11 News",
-                "date": "2026-07-20T22:02:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Economic benefits of Canada’s World Cup hosting gig were muted, data show",
-                "desc": "Experts say there was no major economic boost from the tournament",
-                "image": "https://www.theglobeandmail.com/resizer/v2/OA55LKLU3VGRXMWKNIAXRCYP2I.JPG?auth=6b2a544a81b7b2db1b72f2ca0fefda4f348f497107b203993a19abb6325dcc8d&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-economic-benefits-of-canadas-world-cup-hosting-gig-were-muted-data/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-20T22:01:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ionic Digital Announces Effectiveness of Registration Statement and Expected Commencement of Trading on Nasdaq",
-                "desc": "WASHINGTON, July 20, 2026 (GLOBE NEWSWIRE) -- Ionic Digital Inc. ('Ionic Digital” or the 'Company”), a digital infrastructure company supporting the expanding needs of AI and high-performance computing (HPC), today announced that its registration statement on Form S-1, as filed with the Securities and Exchange Commission (the 'SEC”), relating to a proposed public direct listing of its Class A common stock (the 'Common Stock”) was declared effective by the SEC today, July 20, 2026.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/21/1144235.png",
-                "url": "https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/ionic-digital-announces-effectiveness-of-registration-statement-and-expected-commencement-of-trading-on-nasdaq/2388014",
-                "source": "The Manila Times",
-                "date": "2026-07-20T22:01:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Black Wood Tea Issues Corporate Briefing on Traditional Vietnamese Botanical Formulation for Male Wellness Support",
-                "desc": "Black Wood Tea Issues Corporate Briefing on Traditional Vietnamese Botanical Formulation for Male Wellness Support",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/21/1144231.jpg",
-                "url": "https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/black-wood-tea-issues-corporate-briefing-on-traditional-vietnamese-botanical-formulation-for-male-wellness-support/2388012",
-                "source": "The Manila Times",
-                "date": "2026-07-20T22:01:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sun Coast Sciences Introduces Slimsculpt MD Topical Body Contouring Formulation",
-                "desc": "Sun Coast Sciences Introduces Slimsculpt MD Topical Body Contouring Formulation",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/21/1144226.jpg",
-                "url": "https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/sun-coast-sciences-introduces-slimsculpt-md-topical-body-contouring-formulation/2388011",
-                "source": "The Manila Times",
-                "date": "2026-07-20T22:01:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 20-somethings betting big on tech stocks",
-                "desc": "The BBC hears from people about the risks and rewards of investing in technology shares.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/851d/live/dc840590-80bd-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro",
-                "source": "BBC",
-                "date": "2026-07-20T22:00:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 20-somethings betting big on tech stocks",
-                "desc": "The BBC hears from people about the risks and rewards of investing in technology shares.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/851d/live/dc840590-80bd-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.com/news/articles/c20yz9v1llro",
-                "source": "BBC",
-                "date": "2026-07-20T22:00:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Payback’: why China’s world-beating car industry faces plunging sales at home",
-                "desc": "Chinese car brands have suffered a steep drop in domestic sales this year, with Beijing scaling back subsidies and buyers reluctant to spend.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/20/18621d2f-15de-41fd-9577-697548440c1c_95c44f13.jpg?itok=agqBUmcA&v=1784539371",
-                "url": "https://www.scmp.com/economy/china-economy/article/3361211/payback-why-chinas-world-beating-car-industry-faces-plunging-sales-home",
-                "source": "South China Morning Post",
-                "date": "2026-07-20T22:00:18Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "YAS utilizes two of its production lines at full capacity as it produces equipment and components for TCL CSOT 8.6-Gen OLED line",
+                "desc": "A few months ago we reported that Korean OLED equipment maker YAS has received orders for deposition equipment and evaporation sources from TCL CSOT, to be used at CSOT's 8.6-Gen inkjet IT AMOLED production line. The evaporation sources deal is estimated at 10 billion Won ($6.6 million USD). It is now reported in Korea that YAS is running its Paju Fab 3 and Fab 4 at full capacity to produce the equipment for TCL CSOT. The company is planning a new (fifth) production line, in the case that it secures further orders this year. The new line will expand its equipment and component production capacity by 50% (by revenue, at least). The Paju Fab 3 produces the evaporation sources, while the Fab 4 facility produces the deposition equipment.The YAS systems utilize open-mask deposition systems to produce OLED stack layers such as EIL and ETL. The evaporation sources provide the heat and are used to vaporize the organic chemicals. These are consumable components.",
+                "image": "https://www.oled-info.com/img/oled-info-favicon.ico",
+                "url": "https://www.oled-info.com/yas-utilizes-two-its-production-lines-full-capacity-it-produces-equipment-and",
+                "source": "OLED-Info",
+                "date": "2026-07-21T11:02:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AVA London announces 2026 Creators Forum",
+                "desc": "The ten-day development programme is open to artists aged 18 through 30.",
+                "image": "https://static.ra.co/images/news/2026/mixcollage-20-jul-2026-12-33-pm-918.jpg",
+                "url": "https://ra.co/news/85617",
+                "source": "Resident Advisor",
+                "date": "2026-07-21T11:02:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "free health and fitness tracker from Garmin – Company Announcement",
+                "desc": "The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.",
+                "image": "https://mmx.prnewswire.com/media/MS1886282/CIRQA-band-PR-hero-image.jpg?id=OA2771949",
+                "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607210701PR_NEWS_USPRX____CG08156-1",
+                "source": "Financial Times",
+                "date": "2026-07-21T11:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "All On Board! introduces weekly free DLC access and a new built-in game scheduler",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/All-On-Board-introduces-weekly-free-DLC-access-and-a-new-built-in-game",
+                "source": "Games Press",
+                "date": "2026-07-21T11:00:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fish Them All! is out now on iOS and Android - a short indie fishing game about catching all 10 million fish in the sea",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Fish-Them-All-is-out-now-on-iOS-and-Android-a-short-indie-fishing-game",
+                "source": "Games Press",
+                "date": "2026-07-21T11:00:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fish Them All! is out now on iOS and Android - a short indie fishing game about catching all 10 million fish in the sea",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-US/Fish-Them-All-is-out-now-on-iOS-and-Android-a-short-indie-fishing-game",
+                "source": "Games Press",
+                "date": "2026-07-21T11:00:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CD Projekt Red announces The Witcher 3: Wild Hunt - Songs of the Past will appear at gamescom",
+                "desc": "CD Projekt Red has today announced that The Witcher 3: Wild Hunt's new expansion, \"Songs of the Past\", will appear at gamescom 2026. New information about the new expansion is promised to be revealed during gamescom 2026's Opening Night Live. Co-developed by CD Projekt Red and Fool’s Theory (who is developing the remake of The Witcher),",
+                "image": "https://powerup-gaming.com/wp-content/uploads/2026/07/songs-of-the-past-1.png",
+                "url": "https://powerup-gaming.com/cd-projekt-red-announces-the-witcher-3-wild-hunt-songs-of-the-past-will-appear-at-gamescom/",
+                "source": "powerup-gaming.com",
+                "date": "2026-07-21T11:00:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple CarPlay needs to copy this new Android Auto feature",
+                "desc": "The balance of power could shift after this fall's iOS 27 update.",
+                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/02/carplay-ioniq-5.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.pocket-lint.com/apple-carplay-needs-to-copy-android-auto-ev/",
+                "source": "Pocket-lint",
+                "date": "2026-07-21T11:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI",
+                "desc": "The studio's debut game, Bobium Brawlers, blends \"classic game design with the possibilities of AI\" – and importantly, all the artists are paid",
+                "image": "https://assetsio.gnwcdn.com/bobium-brawlers-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-21T11:00:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "9 PS Plus Extra Game Removals for August 2026 Confirmed",
+                "desc": "Goodbye my (undead) lover - This month's PS Plus Extra and PS Plus Premium games are out now (or a portion of them are if you are in the UK, USA, and Japan),...",
+                "image": "https://images.pushsquare.com/9cb2647c0dbb4/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/9-ps-plus-extra-game-removals-for-august-2026-confirmed",
+                "source": "Push Square",
+                "date": "2026-07-21T11:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Salmon returning to the stream where they hatched are not following a map anyone drew for them: they are reading the chemical signature of their birth water on the final stretch, a scent memory formed",
                 "desc": "Salmon don't navigate by instinct alone—they rely on a chemical memory of home imprinted before they ever left freshwater, a neurological feat scientists are only now beginning to understand.",
@@ -1174,99 +1264,99 @@
                 "source": "EIN Presswire",
                 "date": "2026-07-20T23:41:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Breitling watch pays tribute to James Bond's Aston Martin DB5 (and a weird geiger counter)",
-                "desc": "The Breitling Top Time was aimed at youthful buyers in the '60s. The new 'Top Time B01 Chronography 41 Tribute to Aston Martin DB5' takes a heritage approach.",
-                "image": "https://www.drivencarguide.co.nz/media/2qdnhsa5/11_breitling-top-time-b01-chronograph-41-tribute-to-aston-martin-db5_pb0178121b1x1_cmyk.jpg?v=1dd18f4cd200ee0",
-                "url": "https://www.drivencarguide.co.nz/news/breitling-watch-pays-tribute-to-james-bonds-aston-martin-db5-and-a-weird-geiger-counter/",
-                "source": "Driven Car Guide",
-                "date": "2026-07-20T22:04:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Call of Duty: Modern Warfare 4 Beta Dates Confirmed",
-                "desc": "Lock & load.",
-                "image": "https://sm.ign.com/t/ign_ap/news/c/call-of-du/call-of-duty-modern-warfare-4-beta-dates-confirmed_v3v2.1200.jpg",
-                "url": "https://sea.ign.com/call-of-duty-2025-unofficial-name/245700/call-of-duty-modern-warfare-4-beta-dates-confirmed",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-20T22:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Google Maps settings I change before my first drive on any Android phone",
-                "desc": "A few quick Google Maps tweaks before you drive can turn a frustrating trip into a smooth, stress-free ride.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/google-maps-location-on-android-auto.png?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/google-maps-settings-change-before-first-drive-on-android-phone/",
-                "source": "MakeUseOf",
-                "date": "2026-07-20T22:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garmin CIRQA leaks in four colors with outdated sensor",
-                "desc": "Shortly before the launch of the Garmin CIRQA, leaked images reveal not only the design but also all four colors and even the sensor module. Garmin appears to be using a slightly older sensor to keep costs down.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Garmin-CIRQA22.jpg",
-                "url": "https://www.notebookcheck.net/Garmin-CIRQA-leaks-in-four-colors-with-outdated-sensor.1347560.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-20T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How businesses use background removal tools to improve campaigns",
-                "desc": "Background removal tools help businesses enhance photos for campaigns by removing unwanted backgrounds quickly and affordably with AI technology.",
-                "image": "https://coloradobiz.com/files/2026/07/background-removal-900x500-1.png",
-                "url": "https://coloradobiz.com/how-businesses-can-utilize-background-removal-to-bolster-their-campaigns/",
-                "source": "ColoradoBiz",
-                "date": "2026-07-20T21:59:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kodak Just Dropped a $35 Film Camera That Channels the Cult-Classic Olympus Stylus",
-                "desc": "The pocket-sized EC35 packs a sliding lens cover, built-in flash, and seven colorways.",
-                "image": "https://cdn.hiconsumption.com/wp-content/uploads/2026/07/Kodak-EC35-35mm-Film-Camera-000-Hero.jpg",
-                "url": "https://hiconsumption.com/tech/kodak-ec35-35mm-film-camera/",
-                "source": "HiConsumption",
-                "date": "2026-07-20T21:58:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Attackers pummel critical WordPress vuln to create all sorts of mischief",
-                "desc": "Plus dozens of PoCs in the public domain",
-                "image": "https://image.theregister.com/5275290.jpg?imageId=5275290&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/security/2026/07/20/attackers-pummel-critical-wordpress-vuln-to-create-all-sorts-of-mischief/5275265",
-                "source": "The Register",
-                "date": "2026-07-20T21:57:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ddHiFi Memory 4.4 In Ear Monitor Review",
-                "desc": "ddHiFi Memory 4.4 In Ear Monitor Review : Check out ddHifi's revision of one of their first in ear monitors",
-                "image": "https://majorhifi.com/wp-content/uploads/IMG_6299-scaled.jpg?wsr",
-                "url": "https://majorhifi.com/ddhifi-memory-4-4-in-ear-monitor-review/",
-                "source": "Major HiFi",
-                "date": "2026-07-20T21:56:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Valve confirms if Half-Life 3 will be a Steam Machine exclusive",
-                "desc": "Valve has confirmed that it isn't planning to release Steam Machine-exclusive games, debunking theories that Half-Life 3 would be a Steam Machine exclusive.",
-                "image": "https://static.tweaktown.com/news/1/1/112721_1_valve-throws-wet-blanket-on-half-life-3-being-steam-machine-exclusive_full.png",
-                "url": "https://www.tweaktown.com/news/112721/valve-confirms-if-half-life-3-will-be-a-steam-machine-exclusive/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-20T21:55:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro Release Date: Apple’s 15-Year Event Timeline Signals Exact Date",
-                "desc": "As rumors build, analysis of every fall iPhone release indicates one date above other possibilities.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/693eddc7a1a220985d13f65b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/davidphelan/2026/07/20/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/",
-                "source": "Forbes",
-                "date": "2026-07-20T21:55:01Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Africa Becomes Continent With Highest Population Facing Hunger - UN",
+                "desc": "Africa Becomes Continent With Highest Population Facing Hunger – UN",
+                "image": "https://www.channelstv.com/wp-content/uploads/2026/04/Food-crisis-malnutrition-in-Africa.jpg",
+                "url": "https://www.channelstv.com/2026/07/21/africa-becomes-continent-with-highest-population-facing-hunger-un/",
+                "source": "Channels Television",
+                "date": "2026-07-21T11:03:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
+                "desc": "Last month, a boat accident on the River Benue in central Nigeria claimed the lives of 12 people.",
+                "image": "https://cdn.radioafrica.digital/image/2026/07/600182bc-89e9-4519-b8f1-89add86af925.webp?1784647233798",
+                "url": "https://www.the-star.co.ke/news/africa/2026-07-21-many-feared-dead-in-another-nigeria-boat-disaster-but-why-do-they-keep-happening",
+                "source": "the-star.co.ke",
+                "date": "2026-07-21T11:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+                "desc": "At least 27 people have drowned after a passenger ferry capsized off the coast of Guyana on Saturday night local time.",
+                "image": "https://www.graphic.com.gh/images/2026/July/21/guyana.jpg",
+                "url": "https://www.graphic.com.gh/international/international-news/at-least-27-dead-and-83-missing-after-passenger-ferry-capsizes-off-guyana.html",
+                "source": "Graphic Online",
+                "date": "2026-07-21T11:02:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Visitors in Alaska Get Front-Row View of Grizzly Bear's Incredible Fishing Skills",
+                "desc": "Instagram user Sara Ghi shared a video capturing a grizzly bear fishing for salmon in the clear waters near Brooks Falls in Katmai National Park, Alaska.\nThe footage, filmed from a bridge overlooking...",
+                "image": "https://s.yimg.com/lo/mysterio/api/58fab012f0d1554df10c3d076c050444abeaf2ba2ab2e6cbfc04953174db83b5/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcaters_clips_671%2F14c19ccd847891f4d5fcd9326911f987",
+                "url": "https://www.yahoo.com/lifestyle/videos/visitors-alaska-front-row-view-110104707.html",
+                "source": "Yahoo",
+                "date": "2026-07-21T11:01:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU farming support contributing to pricier healthy food, says UN",
+                "desc": "Subsidies for meat and grain farms have contributed to more expensive fruit and vegetables, FAO report says.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/21/GettyImages-2279706226-scaled.jpg",
+                "url": "https://www.politico.eu/article/eu-farming-support-contributing-to-pricier-healthy-food-says-un-fao/",
+                "source": "politico.eu",
+                "date": "2026-07-21T11:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘No electricity, no water, no fuel’: Ukrainian drone strikes bring darkness to Crimea’s summer",
+                "desc": "Interviews with residents of Russian-held region point to frustration with Moscow as Ukrainian campaign to isolate it takes toll on daily life",
+                "image": "https://i.guim.co.uk/img/media/e225b756dffdc60cd176036790530e18e0cc9abd/537_0_4527_3622/master/4527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f73d6be88b11ae584e7ebeb3c0e6973b",
+                "url": "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer",
+                "source": "The Guardian",
+                "date": "2026-07-21T11:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ghana: Reforming Tourism From the Superstructure to the Substructure",
+                "desc": "Ghana must build a more resilient, competitive, and sustainable tourism sector, and we must do so by going beyond incremental improvements and fundamentally reform both the superstructure and the substructure of the tourism ecosystem.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607210422.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-21T11:00:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paris weighs reducing embassy staff in Tehran, source says",
+                "desc": "France is reviewing whether to reduce staffing at its embassy after two French diplomats were detained, interrogated and allegedly abused by Iranian security forces in Tehran, according to information obtained by Iran International on Tuesday.",
+                "image": "https://i.iranintl.com/images/rdk9umy0/production/96cdb16b0672f0c18f921d81d252acffa6d26462-1000x667.jpg?rect=0,72,1000,525&w=1200&h=630&q=66&fit=max&auto=format",
+                "url": "https://www.iranintl.com/en/202607210581",
+                "source": "ایران اینترنشنال",
+                "date": "2026-07-21T10:59:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "made aircraft expand overseas with Cambodia order and new Mongolia route",
+                "desc": "COMAC aircraft enter a new phase of scaled-up international expansion.",
+                "image": "https://www.chinatravelnews.com/favicon.ico?favicon.255e813a.ico",
+                "url": "https://www.chinatravelnews.com/article/190418/",
+                "source": "China Travel News",
+                "date": "2026-07-21T10:58:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ERA Urges Other African Nations To Emulate Sierra Leone On Ratification Of African Court Protocol",
+                "desc": "The Environment Rights in Africa (ERA) coalition has described Sierra Leone's ratification of the Protocol to the establishment of the African Court as a bold affirmation that justice must be accessible, rights must be enforceable, and accountability must prevail. In a press release shared with the media by Philip Jakpor, ERA Communications Work Group Coordinator,...",
+                "image": "https://independent.ng/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-11.23.23.jpeg",
+                "url": "https://independent.ng/era-urges-other-african-nations-to-emulate-sierra-leone-on-ratification-of-african-court-protocol/",
+                "source": "Independent Newspaper Nigeria",
+                "date": "2026-07-21T10:57:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tanzania Encourages Its Youth to Learn Practical Skills As Key to the Vision 2050 Goal",
                 "desc": "DAR ES SALAAM: YOUNG Tanzanians have been encouraged to support the government's Vision 2050 development agenda by acquiring practical skills that will enhance their contribution to economic growth while addressing unemployment challenges.",
@@ -1806,98 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-20T23:49:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "More testosterone won’t make a better soldier or a tougher man - aggression and strength drive T levels, not the other way around",
-                "desc": "Defense Secretary Pete Hegseth is requiring service members to screen for low testosterone levels. Ironically, the military lifestyle itself is more likely to lower T levels.",
-                "image": "https://images.theconversation.com/files/748940/original/file-20260720-57-p6y7j8.jpg?ixlib=rb-4.1.1&rect=0%2C215%2C2123%2C1061&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/more-testosterone-wont-make-a-better-soldier-or-a-tougher-man-aggression-and-strength-drive-t-levels-not-the-other-way-around-287828",
-                "source": "The Conversation",
-                "date": "2026-07-20T22:08:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sky News Australia",
-                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
-                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
-                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
-                "source": "Sky News Australia",
-                "date": "2026-07-20T22:01:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7 Things You Need to Know About the Bab al-Mandeb Strait - That Trump Probably Doesn't",
-                "desc": "As the Iran war continues, and Donald Trump escalates, the Houthis in Yemen say they’ve closed the world’s oil escape hatch – welcome to the ‘Gate of Tears.’",
-                "image": "https://substackcdn.com/image/fetch/$s_!Rl56!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02685358-d385-4c5a-b28c-2ac4198a81d1_1800x1200.jpeg",
-                "url": "https://zeteo.com/p/7-things-you-need-to-know-about-the-bde",
-                "source": "Zeteo",
-                "date": "2026-07-20T21:54:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sheffield Wednesday drop big Barry Bannan & Liam Cooper hints",
-                "desc": "Sheffield Wednesday duo Liam Cooper and Barry Bannan were seen in their new squad numbers for the 2026/27 season.",
-                "image": "https://static0.footballleagueworldimages.com/wordpress/wp-content/uploads/2026/07/copy-of-copy-of-copy-of-flw-fi-3000x1500-89.jpg?w=1600&h=900&fit=crop",
-                "url": "https://footballleagueworld.co.uk/sheffield-wednesday-drop-big-barry-bannan-liam-cooper-hints/",
-                "source": "Football League World",
-                "date": "2026-07-20T21:49:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Ceases to be a nuclear power': The high-stakes deal the new UK PM inherits",
-                "desc": "Andy Burnham has inherited a major AUKUS commitment with Australia. Whether Britain can deliver it is another question.",
-                "image": "https://assets.sbs.com.au/dims4/default/b6a6871/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F3f%2Fe7%2F1247fef14b98a68e1f4c60ab3454%2Fburnham-aukus-header-swipe.png",
-                "url": "https://www.sbs.com.au/news/article/andy-burnham-aukus-submarine-deal-australia/j38e9qzzf",
-                "source": "SBS",
-                "date": "2026-07-20T21:49:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘It needs to end now’: Democrats urge Trump to halt Iran war after US troop deaths",
-                "desc": "President accused of having ‘lost control of this war’ as deaths of trio in Iranian military strikes fuel rising concern",
-                "image": "https://i.guim.co.uk/img/media/041613011733e2c6854a6d63bc5227b078950db8/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6927a90455f773795bf6e89609dfbc3",
-                "url": "https://www.theguardian.com/us-news/2026/jul/20/democrats-trump-iran-war",
-                "source": "The Guardian",
-                "date": "2026-07-20T21:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump imposes 50% tariff on Canadian imports",
-                "desc": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06cc/live/a320cf00-8481-11f1-926f-c90d1bcfbc84.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o",
-                "source": "BBC",
-                "date": "2026-07-20T21:35:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump imposes 50% tariff on Canadian imports",
-                "desc": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/06cc/live/a320cf00-8481-11f1-926f-c90d1bcfbc84.jpg",
-                "url": "https://www.bbc.com/news/articles/cg4dzq3x3e1o",
-                "source": "BBC",
-                "date": "2026-07-20T21:35:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All-out war edges closer with 10th consecutive night of US strikes on Iran",
-                "desc": "Renewed bombings followed the death of another American service member",
-                "image": "https://www.irishtimes.com/resizer/v2/VN6TEYRJYQ3SF4I5GJFWCPLCEI.jpg?smart=true&auth=e92d79b1d8c83e68a700fa5af10fadbffc473b2c6ec23f3c9bb1d9e3b71df6b1&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/middle-east/2026/07/20/us-carry-out-10th-consecutive-night-of-strikes-on-iran-bringing-all-out-war-closer/",
-                "source": "The Irish Times",
-                "date": "2026-07-20T21:34:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump orders new 50% tariff on certain Canadian goods",
-                "desc": "US President Donald Trump signed orders Monday to impose new 50-percent tariffs on some Canadian goods, citing \"discriminatory treatment\" in the areas of alcohol, automobiles and dairy products.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/AFP__20260720__C2LM34B__v1__MidRes__UsPoliticsTrump.jpg",
-                "url": "https://www.vanguardngr.com/2026/07/trump-orders-new-50-tariff-on-certain-canadian-goods/",
-                "source": "Vanguard News",
-                "date": "2026-07-20T21:33:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-21T21:46:28.844068Z"
+    "lastGlobalSync": "2026-07-21T23:03:54.302061Z"
 }
