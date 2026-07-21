@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Inflation expected to hit a two-year high",
+                "desc": "Economists are expecting the annual rate to touch at least 4% in the 12 months ended June from 3.1% in the March quarter.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/cost-of-living-file-image-4CX3JOTILRHF5L7PUXK7CGTJII.jpg?auth=e457598ac4a2baf0f3129400f70dc5878685ebffb95f9fe4d5524ac1568d6027&quality=70&width=600&height=315&focal=1912%2C893",
+                "url": "https://www.1news.co.nz/2026/07/20/inflation-expected-to-hit-a-two-year-high/",
+                "source": "1News",
+                "date": "2026-07-20T16:50:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "78% of Filipinos use AI daily, only 35% trained",
+                "desc": "Sprout's State of HR Summit 2026 reveals 78% of Filipinos use AI daily at work, but only 35% receive role-specific AI training.",
+                "image": "https://cf-images.assettype.com/sunstar%2Fimport%2Fuploads%2Fimages%2F2019%2F06%2F17%2F153763.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://www.sunstar.com.ph/davao/78-of-filipinos-use-ai-daily-only-35-trained",
+                "source": "SunStar Publishing Inc.",
+                "date": "2026-07-20T16:48:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Archer stock pops as company unveils military craft with Anduril",
+                "desc": "Archer and its eVTOL peers are racing for FAA certification to start flying their air taxis commercially.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108337418-1784566373842-2026-Thunder-GTM-Front_3-4_01-5x2.jpg?v=1784566459&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/20/archer-thunder-military-craft-anduril.html",
+                "source": "CNBC",
+                "date": "2026-07-20T16:47:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "JetBlue wins Spirit Airlines’ coveted slots at LaGuardia Airport in NYC: report",
+                "desc": "JetBlue has won Spirit Airlines’ coveted takeoff and landing slots at New York’s LaGuardia Airport – and plans to move into the failed carrier’s old home as airlines fight for space at crowded terminals, according to a report.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135013776.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/20/business/jetblue-wins-spirit-airlines-coveted-slots-at-laguardia-airport-in-nyc-report/",
+                "source": "New York Post",
+                "date": "2026-07-20T16:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brookfield and CPPIB to buy US$5.2 billion REIT",
+                "desc": "Brookfield Asset Management and the CPPIB are paying US$5.2 billion to acquire LXP Industrial Trust. Read more",
+                "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/cppib-0720-ph.jpg",
+                "url": "https://financialpost.com/news/brookfield-and-cppib-team-up-to-buy-us5-2-billion-industrial-reit",
+                "source": "Financial Post",
+                "date": "2026-07-20T16:43:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Truth Social Legalizes Insider Trading",
+                "desc": "Trump corruption machine go brrrrrrrrrrrrr!",
+                "image": "https://substackcdn.com/image/fetch/$s_!vGQQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fede42656-5b2c-428b-b13a-a1b5083b44b8_3000x2000.jpeg",
+                "url": "https://www.thebulwark.com/p/truth-social-legalizes-insider-trading",
+                "source": "The Bulwark",
+                "date": "2026-07-20T16:42:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Green on Paper: Why Ghana's Corporate Environmental Responsibility Must Outgrow Greenwashing",
+                "desc": "Walk into the sustainability section of almost any Ghanaian corporate annual report and you will find the same images: executives in branded T-shirts planting saplings, a solar panel gleaming in a promotional photograph, a paragraph on ldquo;environmental stewardship rdquo; sitting comfortably beside the year 39;s profit figures. Walk instead into the communities downstream of that same company 39;s operations, and the story often looks different mdash; degraded land, polluted water bodies,",
+                "image": "https://cdn.modernghana.com/images/content/9122025122105-i4ep276gfb-green-finance.jpg",
+                "url": "https://www.modernghana.com/news/1512233/green-on-paper-why-ghanas-corporate-environmenta.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-20T16:40:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Starlink's 'Mini 2' Dish Appears in Firmware With Built-In Battery",
+                "desc": "Along with a built-in battery, the upcoming Mini 2 dish features a far lower 'duty cycle' for uploads, according to a Starlink repair expert.",
+                "image": "https://sm.pcmag.com/t/pcmag_uk/news/s/starlinks-/starlinks-mini-2-dish-appears-in-firmware-with-built-in-batt_hupq.1200.jpg",
+                "url": "https://uk.pcmag.com/networking/166238/starlinks-mini-2-dish-appears-in-firmware-with-built-in-battery",
+                "source": "PCMag UK",
+                "date": "2026-07-20T16:40:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Starlink's 'Mini 2' Dish Appears in Firmware With Built-In Battery",
+                "desc": "Along with a built-in battery, the upcoming Mini 2 dish features a far lower 'duty cycle' for uploads, according to a Starlink repair expert.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/s/starlinks-/starlinks-mini-2-dish-appears-in-firmware-with-built-in-batt_xyar.1200.jpg",
+                "url": "https://au.pcmag.com/networking/118845/starlinks-mini-2-dish-appears-in-firmware-with-built-in-battery",
+                "source": "PCMag Australia",
+                "date": "2026-07-20T16:40:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fastmarkets suspends 10 FOB Azov and CIF Marmara Russian wheat price assessments: pricing notice",
+                "desc": "Fastmarkets has suspended 10 Russian wheat commodity price assessments from Monday July 20, amid the recently reported closure of the Azov Sea ports and Kerch Strait to shipping and because relevant, relative pricing data is not immediately available. The suspensions follow Russia’s reported closure of the Azov Sea and Kerch Strait and the recent escalation […]",
+                "image": "https://www.fastmarkets.com/tachyon/49/3a/9fabb45d432fb63a8ae2834ffe31/pricenotice-thumbnail-490x275.jpg",
+                "url": "https://www.fastmarkets.com/insights/fastmarkets-suspends-10-fob-azov-and-cif-marmara-russian-wheat-price-assessments-pricing-notice/",
+                "source": "Fastmarkets",
+                "date": "2026-07-20T16:39:09Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "SMEs face high borrowing costs despite stable reference rate",
                 "desc": "Small and Medium-sized Enterprises (SMEs) faced high borrowing costs in May 2026 despite the Ghana Reference Rate remaining at 10.03 per cent, the latest Bank of Ghana Annualised Percentage Rates (APR) report.",
                 "image": "https://www.ghanabusinessnews.com/wp-content/uploads/2015/09/small-micro-enterprises-smes.jpg",
@@ -542,99 +632,99 @@
                 "source": "TechTrendsKE",
                 "date": "2026-07-20T05:02:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Why Millions Lack Coverage",
-                "desc": "Millions of Nigerians lack insurance cover despite the nation's large population. Discover the key reasons behind Nigeria's low insurance penetration.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/1309704-insurance_1784518070-1200x630.webp",
-                "url": "https://punchng.com/why-millions-of-nigerians-lack-insurance-cover/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-20T03:31:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KINS Clinic Launches BioRevive Gel Mask -- A New Approach to Acne Skin Microbiome Care, from a Singapore Acne Treatment Clinic",
-                "desc": "A three-way collaboration between KINS Clinic, ArrowBiome, and CHAKS Cosmetic Design & Services brings next-generation acne skin microbiome science into clinical skincare practice in Singapore.",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/pr-newswire/kins-clinic-launches-biorevive-gel-mask-a-new-approach-to-acne-skin-microbiome-care-from-a-singapore-acne-treatment-clinic/2387249",
-                "source": "The Manila Times",
-                "date": "2026-07-20T03:28:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 CMES Vietnam International Machine Tool Exhibition Opens in Hanoi This August with Doubled Scale, Pre-Registration Now Live",
-                "desc": "HANOI, Vietnam, July 20, 2026 /PRNewswire/ -- The 2nd CMES Vietnam International Machine Tool Exhibition will be held from August 26 to 28, 2026 at the Vietnam Exhibition and Convention Center (VEC) in Hanoi. As a core pillar of the co‑located  '2026 Vietnam Super Industrial Linkage Expo', the exhibition is dedicated to bridging the local manufacturing ecosystem, capitalizing on first‑half market gains and directly targeting the peak procurement season in the second half. Professional visitor pre‑registration is now fully open.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1142769.jpg",
-                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/pr-newswire/2026-cmes-vietnam-international-machine-tool-exhibition-opens-in-hanoi-this-august-with-doubled-scale-pre-registration-now-live/2387248",
-                "source": "The Manila Times",
-                "date": "2026-07-20T03:28:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Omni HR Launches Native MCP Integration, Connecting AI Assistants to Live HR Data",
-                "desc": "**media[1142767]**The integration gives leading AI assistants direct access to Omni HR data - scoped entirely to each user's existing permissions, with nothing stored at the connector level.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1142765.jpg",
-                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/pr-newswire/omni-hr-launches-native-mcp-integration-connecting-ai-assistants-to-live-hr-data/2387247",
-                "source": "The Manila Times",
-                "date": "2026-07-20T03:28:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Powering ASEAN's Manufacturing Transformation: IME 2026 Connects Technology, Industry and Opportunity",
-                "desc": "BANGKOK, July 20, 2026 /PRNewswire/ -- As global supply chains shift toward digital and green innovations, ASEAN has emerged as a dynamic manufacturing powerhouse. Leading this growth is Thailand, a vital hub for automotive and electronics, which is accelerating its transition to smart manufacturing under its 'Thailand 4.0' strategy and the Bio-Circular-Green (BCG) Economy Model.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1142763.jpg",
-                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/pr-newswire/powering-aseans-manufacturing-transformation-ime-2026-connects-technology-industry-and-opportunity/2387246",
-                "source": "The Manila Times",
-                "date": "2026-07-20T03:28:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toyota executive wants all Japanese automakers to collaborate amid China's rise",
-                "desc": "The new head of Japan's association of automakers is pushing for Japanese companies to work together to counter the threat of Chinese marques.",
-                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2026-02-koji-sato-toyota-mirai-1.jpg",
-                "url": "https://www.carexpert.com.au/car-news/toyota-executive-wants-all-japanese-automakers-to-collaborate-amid-chinas-rise",
-                "source": "CarExpert",
-                "date": "2026-07-20T03:24:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Greens pledge 'Kiwipower' to boost renewables and cut power bills",
-                "desc": "The election-year policy from the party would create a new Crown entity to invest in renewable power generation.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-party-launched-the-plan-at-the-dunedin-gasworks-museum-w-VCO6H3QL45DRTAUFJFMTARF3LM.jpg?auth=a6827730a5f7056a128397c87da2f7f379b38b2e5ad76e0ea830cdbf635dd4cf&quality=70&width=600&height=315&focal=960%2C540",
-                "url": "https://www.1news.co.nz/2026/07/20/greens-pledge-kiwipower-to-boost-renewables-and-cut-power-bills/",
-                "source": "1News",
-                "date": "2026-07-20T03:23:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NYT Pips hints, answers for July 20, 2026",
-                "desc": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
-                "image": "https://helios-i.mashable.com/imagery/articles/07bCIn9qsUCbRYTU8MQ02C0/hero-image.fill.size_1200x675.v1784516543.jpg",
-                "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-july-20-2026",
-                "source": "Mashable",
-                "date": "2026-07-20T03:19:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Monday, July 20",
-                "desc": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/erikkain/2026/07/19/nyt-pips-answer-monday-july-20/",
-                "source": "Forbes",
-                "date": "2026-07-20T03:17:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil hits one-month high as Mideast war keeps investors on edge",
-                "desc": "Brent crude hit on Monday its highest price since June due to renewed fighting between the United States and Iran, while Asian equities were mixed as investors weighed the fallout of a prolonged Middle East war. Brent rose above $91 a barrel, its highest price since June 11.",
-                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-07/000_b9y76nq.jpg?h=199d8c1f&itok=fhw0xWjw",
-                "url": "https://www.al-monitor.com/originals/2026/07/oil-hits-one-month-high-mideast-war-keeps-investors-edge",
-                "source": "Al-Monitor",
-                "date": "2026-07-20T03:17:29Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Modern Warfare 4: Open Beta, NEXT, Fanatics Fest, & Serialized Camo",
+                "desc": "Relive Modern Warfare® 4 at Fanatics Fest, get Open Beta and Call of Duty®: NEXT intel, plus Nintendo® Switch 2 pre-order details and a first-of-its-kind Serialized Weapon Camo pre-order challenge.",
+                "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/f7/F7SGVDM61MB71784565708586.jpg",
+                "url": "https://news.blizzard.com/en-us/article/24291147/modern-warfare-4-open-beta-next-fanatics-fest-serialized-camo",
+                "source": "Blizzard News",
+                "date": "2026-07-20T16:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wowza Debuts AI-Powered Video Intelligence Framework That Turns Live Video into Actionable Operational Intelligence",
+                "desc": "New platform transforms existing video infrastructure into intelligent sensors while introducing real-time AI-powered video authenticity detection through a partnership with NVIDIA...",
+                "image": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2026/07/6a5e4f14faa383d8f8eaab0f-wowzalogohorizontal2022orange1000x3671.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+                "url": "https://www.securityinfowatch.com/video-surveillance/news/55392061/wowza-debuts-ai-powered-video-intelligence-framework-that-turns-live-video-into-actionable-operational-intelligence",
+                "source": "Security Info Watch",
+                "date": "2026-07-20T16:49:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What’s in Their Cups? TODAY Show Anchors Spill Their Morning Drink Recipes",
+                "desc": "Each TODAY anchor, from Craig Melvin to Savannah Guthrie and Sheinelle Jones, has their preferred morning beverage (aside from coffee). Here are those recipes.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-07/whats-in-today-anchors-cups-2x1-eb-260715-6cbded.jpg",
+                "url": "https://www.today.com/food/recipes/today-show-anchors-recipes-morning-drinks-juice-rcna587697",
+                "source": "TODAY.com",
+                "date": "2026-07-20T16:46:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "He wanted a true solar vehicle, so he built Solar Bear, an open-source trike with panels for a body",
+                "desc": "In the Reddit summary, the maker reported essentially unlimited daytime range in summer.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ebca6a6638f4b335585ccc6e9798b65e751155a05e6f8c4d2aaf5af0a8d03a7a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F85d7748d7677b034b5591e3c7620b8b7",
+                "url": "https://autos.yahoo.com/ev-and-future-tech/articles/wanted-true-solar-vehicle-built-164500021.html",
+                "source": "Yahoo Autos",
+                "date": "2026-07-20T16:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple AirTags are back down to their lowest price ever",
+                "desc": "The four-pack of second-geneartion Apple AirTags are on sale for $89 at Amazon and Best Buy — here's everything you need to know about the deal.",
+                "image": "https://helios-i.mashable.com/imagery/articles/02hxbnr3IsLWeQtDGFJZwXD/hero-image.fill.size_1200x675.v1784561477.jpg",
+                "url": "https://mashable.com/tech/july-20-apple-airtags-deal",
+                "source": "Mashable",
+                "date": "2026-07-20T16:43:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hackers Exploit Patched WordPress Bugs - Millions of Sites Still at Risk",
+                "desc": "WordPress WP2Shell vulnerabilities expose millions of unpatched sites to full remote takeover — update to 7.0.2 now to stay protected.",
+                "image": "https://www.gadgetreview.com/wp-content/uploads/Cybersecurity-warning-millions-at-risk.jpg",
+                "url": "https://www.gadgetreview.com/hackers-exploit-patched-wordpress-bugs-millions-of-sites-still-at-risk",
+                "source": "Gadget Review",
+                "date": "2026-07-20T16:42:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Redmi Watch 6 active and Redmi Watch 6 Lite leak brings specs, images, and pricing",
+                "desc": "The only thing we don't know yet is when they will arrive. According to a new leak, Redmi is currently working on two smartwatches - the Redmi Watch 6...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-watch-6-active-lite-leak/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/redmi_watch_6_active_and_redmi_watch_6_lite_leak_brings_specs_images_and_pricing-news-73797.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-20T16:41:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "David Beckham's Fortnite collaboration: What to expect from the Icon Series",
+                "desc": "David Beckham is the latest sporting legend to make his way into Fortnite, officially joining the game’s star-studded Icon Series. The collaboration between Beckham and Fortnite was launched on Saturday, July 18, and features outfits that players can choose and various gears to play with. This includes two outfits – [...]",
+                "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/a79d6a8b35241adb9555ea3e52a620c390eb59c4/4096&operation=CROP&offset=0x0&resize=4096x2304",
+                "url": "https://magic828.co.za/david-beckhams-fortnite-collaboration-what-to-expect-from-the-icon-series/",
+                "source": "Magic 828",
+                "date": "2026-07-20T16:40:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Logitech Goes Big on Wireless Keyboards as MX Keys Mini Drops to Near Black Friday Pricing, Works With Mac and PC",
+                "desc": "This amazing keyboard is an amazing pick up, especially on sale.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/logi-deal-1200x675.jpg",
+                "url": "https://gizmodo.com/logitech-goes-big-on-wireless-keyboards-as-mx-keys-mini-drops-to-near-black-friday-pricing-works-with-mac-and-pc-2000786929",
+                "source": "Gizmodo",
+                "date": "2026-07-20T16:40:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lamborghini's Temerario gets its tailoring on for Goodwood",
+                "desc": "Lamborghini will reveal two bespoke Temerarios at Goodwood, including a Gessato pinstripe and wool-trimmed production car.",
+                "image": "https://www.drivencarguide.co.nz/media/msvf44t1/lamborghini-temerario-01.webp?v=1dd16063c4e6b50",
+                "url": "https://www.drivencarguide.co.nz/news/lamborghinis-temerario-gets-its-tailoring-on-for-goodwood/",
+                "source": "Driven Car Guide",
+                "date": "2026-07-20T16:36:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Spotify Premium users can now ‘talk to’ the app to choose music and learn about what they’re playing",
                 "desc": "By typing or speaking, eligible Premium users can talk to Spotify across the app’s Home and Now Playing views on mobile.",
@@ -1174,99 +1264,99 @@
                 "source": "TweakTown",
                 "date": "2026-07-20T04:56:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Neosphere of The Deep-blue Sky: Legacy announced for Switch, PC",
-                "desc": "Kogado Studio has announced Neosphere of The Deep-blue Sky: Legacy, its second remastered title in the Aoi series following Tristia: Legacy. It will launch for…",
-                "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Neosphere-Legacy-Ann_07-19-26_001.jpg",
-                "url": "https://www.gematsu.com/2026/07/neosphere-of-the-deep-blue-sky-legacy-announced-for-switch-pc",
-                "source": "Gematsu",
-                "date": "2026-07-20T03:31:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vivo officially confirms new phone with Zeiss cameras and orange finish",
-                "desc": "Vivo has officially confirmed the X300 E as the latest addition to its high-end X300 lineup. The company has revealed the phone’s design and three color options, while also confirming its battery capacity and a Zeiss-tuned camera system.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/vivo-x300-e-official.png",
-                "url": "https://www.notebookcheck.net/Vivo-officially-confirms-new-phone-with-Zeiss-cameras-and-orange-finish.1346956.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-20T03:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kakao's AI Turns Pet Photos Into Heartfelt Letters in New 'Pet Letter' Event",
-                "desc": "Kakao is running an experiential event called \"Kanana Pet Letter Creation\" through August 14, leveraging its in-house developed omni-modal AI model,…",
-                "image": "https://img.biggo.com/ozpVoXgk-oC3cW2aOZR7fS9AhOlCeDEZa48B0xx5GRE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2YyZGRjOGUwLWQwZjEtNGE4NS04ZGFlLTQ5NjYzNmRjYTkxOV8xNzg0NTE4ODIxX2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/f2ddc8e0-d0f1-4a85-8dae-496636dca919",
-                "source": "finance.biggo.com",
-                "date": "2026-07-20T03:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LG Monitors Reportedly Install App Automatically on Windows PCs",
-                "desc": "Some LG monitors may automatically install an app on Windows PCs without asking for the user's permission. According to testing by Gamers Nexus, the app, called LG Monitor App Installer, is downloaded through Windows Update when a compatible LG monitor is connected to a Windows computer. No prompt or confirmation is shown during the installation.…",
-                "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/07/lg-monitors-reportedly-install-app-automatically-on-windows-pcs.jpg?fit=1200%2C500&ssl=1",
-                "url": "https://manilashaker.com/lg-monitors-reportedly-install-app-automatically-on-windows-pcs/",
-                "source": "ManilaShaker Philippines",
-                "date": "2026-07-20T03:19:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NYT Strands Answers Today: Hints & Clues For Monday, July 20 (Small Talk)",
-                "desc": "Looking for help with today's NYT Strands puzzle? Here's an extra hint to help you uncover the right words, as well as all of today's answers and Spangram.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/661994c1a11cd45a738c205f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/erikkain/2026/07/19/nyt-strands-answers-monday-july-20/",
-                "source": "Forbes",
-                "date": "2026-07-20T03:04:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro leaks hint at bigger battery, 2nm chip and new Dark Cherry finish",
-                "desc": "Rumours point to Apple's biggest battery yet, AI upgrades and slimmer Dynamic Island",
-                "image": "https://indiantelevision.com/wp-content/uploads/2026/07/iPhone-18-Pro-1000x600.jpg",
-                "url": "https://indiantelevision.com/mam/iphone-18-pro-leaks-hint-at-bigger-battery-2nm-chip-and-new-dark-cherry-finish/",
-                "source": "Indian Television Dot Com",
-                "date": "2026-07-20T03:03:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pocket-size AI: Powerful phones star at China show",
-                "desc": "Tech firms are racing to roll out advanced smartphones that use artificial intelligence to do everything from ordering food to composing messages upon a simple voice command.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/20/4018901.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/20/pocket-size-ai-powerful-phones-star-at-china-show",
-                "source": "The Star",
-                "date": "2026-07-20T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Port GaN Wall Charger series review: Sorta travel friendly",
-                "desc": "Can Buy -- the Belkin BoostCharge Pro 3-Port GaN Wall Charger 70W and 100W are great compact chargers that are also travel friendly.",
-                "image": "https://www.canbuyornot.com/wp-content/uploads/2026/07/Belkin_BoostCharge_Pro_3-Port_GaN-1.jpg",
-                "url": "https://www.canbuyornot.com/reviews/smartphones/belkin-boostcharge-pro-3-port-gan-review-price/",
-                "source": "Can Buy or Not",
-                "date": "2026-07-20T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First Huawei Mate 90 series teaser to debut by early September",
-                "desc": "News about the Huawei Mate 90 series continue to flow in, and latest leak says on its \"first teaser\" timeline, which can be early September.",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80ProMax1.jpg",
-                "url": "https://www.huaweicentral.com/first-huawei-mate-90-teaser-to-debut-in-early-september/",
-                "source": "Huawei Central",
-                "date": "2026-07-20T02:57:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NSW stud shocked as Argentinian buyers splash $35,000 for top ram",
-                "desc": "Willandra Merino stud principal Angus Heath sold a ram for $35,000 to Argentinian buyers. Discover the decades of strategic breeding behind this success.",
-                "image": "https://www.stockandland.com.au/images/transform/v1/crop/frm/229623862/8a103e83-212d-44c3-9d37-fffed64af787.png/r69_33_1109_579_w1200_h630_fmax.jpg",
-                "url": "https://www.stockandland.com.au/story/9313803/nsw-stud-shocked-as-argentinian-buyers-splash-35000-for-top-ram/",
-                "source": "Stock & Land",
-                "date": "2026-07-20T02:45:29Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "International Travel Is Still Growing, But Is It Becoming Unaffordable What Higher Airfares, Accommodation Inflation and Reduced Airline Capacity Mean for Tourists Planning Holidays in 2026: All You N",
+                "desc": "Rising fuel prices, inflation and flight limits are making cheap travel harder, changing how tourists plan, book and choose destinations in 2026.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Global.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/gtdqttssuqkl/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-20T16:50:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "105 missing as flood hits Afghan town",
+                "desc": "More than 100 people are missing and nine bodies recovered after a major flood hit the capital of Afghanistan's Nuristan province on Monday, the governor's office told AFP.",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Afghanistan-scaled.jpg",
+                "url": "https://www.vanguardngr.com/2026/07/105-missing-as-flood-hits-afghan-town/",
+                "source": "Vanguard News",
+                "date": "2026-07-20T16:47:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mastercard Foundation launches $500 million Africa university prize",
+                "desc": "Addis Ababa University received recognition for excellence in research and innovation through its work in aligning research with national priorities and improving healthcare.",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/22_02_2022_09_16_39_9664333.jpg&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/business/3953041-mastercard-foundation-launches-500-million-africa-university-prize",
+                "source": "Devdiscourse",
+                "date": "2026-07-20T16:45:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "History Must Not Repeat Itself: Southern Volta Is Worth More Than a Price Tag",
+                "desc": "ldquo;Throughout history, it has been the inaction of those who could have acted; the indifference of those who should have known better; the silence of the voice of justice when it mattered most; that has made it possible for evil to triumph .",
+                "image": "https://cdn.modernghana.com/images/content/720202663901-qvlxpcb543-1000167613.jpg",
+                "url": "https://www.modernghana.com/news/1512246/history-must-not-repeat-itself-southern-volta.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-20T16:44:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Government Lists 2 Steps Green Card Holders Must Take Before Becoming Citizens",
+                "desc": "USCIS has released clear guidelines for lawful permanent residents seeking naturalisation, including creating an online account and submitting Form N-400.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/68ca680c3776d16b.jpeg?v=1",
+                "url": "https://yen.com.gh/world/us/308285-uscis-lists-steps-green-card-holders-follow-citizens/",
+                "source": "Yen News",
+                "date": "2026-07-20T16:44:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sharp decrease in Asia armed robbery against ships in first half of 2026",
+                "desc": "Enhanced industry precautions and stronger law enforcement responses drive a regional decline in crime against Asia-based shipping.",
+                "image": "https://www.freightwaves.com/wp-content/uploads/2026/07/20/TankerSeaREcaap.jpg",
+                "url": "https://www.freightwaves.com/news/sharp-decrease-in-asia-armed-robbery-against-ships-in-first-half-of-2026",
+                "source": "FreightWaves",
+                "date": "2026-07-20T16:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
+                "desc": "The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26201330817760-1024x682.jpg",
+                "url": "https://www.pbs.org/newshour/world/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests",
+                "source": "PBS",
+                "date": "2026-07-20T16:36:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India's Gen Z 'Cockroach' party demands change after exam leaks : NPR",
+                "desc": "They call themselves the \"cockroaches\" and they're on the march — demanding action against corruption, amid a shortage of opportunities for young people in India.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x3402+0+311/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F0c%2F38c9af504e95b57983ae9d1d0fd5%2Fap26201449245142.jpg",
+                "url": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
+                "source": "NPR",
+                "date": "2026-07-20T16:36:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
+                "desc": "They call themselves the \"cockroaches\" and they're on the march — demanding action against corruption, amid a shortage of opportunities for young people in India.",
+                "image": "https://npr.brightspotcdn.com/dims4/default/e94833d/2147483647/strip/true/crop/6048x3175+0+113/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F6048x3402%200%20311%2Fresize%2F6048x3402%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F0c%2F38c9af504e95b57983ae9d1d0fd5%2Fap26201449245142.jpg",
+                "url": "https://www.btpm.org/2026-07-20/indias-gen-z-cockroach-peoples-party-started-as-satire-but-is-serious-about-change",
+                "source": "Buffalo Toronto Public Media",
+                "date": "2026-07-20T16:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. Abrams or China's Type-99 Tank? Australian Army Modifies its MBT for Realistic PLA-Focused Training",
+                "desc": "The Australian Army recently published images of an M1A2 Abrams Main Battle Tank disguised as a Chinese Type 99 for Opposing Force (OPFOR) training, a move that demonstrates Canberra’s preparation to counter the People’s Liberation Army (PLA) in the Indo-Pacific. The photos appeared last week on the Facebook account of the Australian Army’s School of […]",
+                "image": "https://www.eurasiantimes.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-7.54.26-AM.jpeg",
+                "url": "https://www.eurasiantimes.com/u-s-abrams-or-chinas-type-99-tank-australian-army/",
+                "source": "EurAsian Times",
+                "date": "2026-07-20T16:33:22Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "US military identifies two soldiers killed in Iranian attack on Jordan",
                 "desc": "Defense department says 1Lt Tyler James Feehan of Hawaii and Pvt Isabella Gonzales of Texas were killed",
@@ -1806,98 +1896,8 @@
                 "source": "RTE.ie",
                 "date": "2026-07-20T05:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US troop death toll rises as Israel warns Tehran attacks nearing",
-                "desc": "Step by step, the US and Iran have returned closer to all-out war, with both sides targeting civilian infrastructure.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-billboard-depicting-us-president-donald-trump-lying-on-wha-KABCDIRUFJBVRPKHKPWO2TBWIE.jpg?auth=6ceccd03a2f630c3384185c18cd4ef7585de849e733ad3bb467795eb9444c811&quality=70&width=600&height=315&focal=4313%2C1751",
-                "url": "https://www.1news.co.nz/2026/07/20/us-troop-death-toll-rises-as-israel-warns-tehran-attacks-nearing/",
-                "source": "1News",
-                "date": "2026-07-20T03:29:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese vessel activity jumps, prompting drills off east coast",
-                "desc": "Taiwan detected a sharp rise in Chinese coast guard and research vessel activity around the nation last month, prompting Taipei to plan drills simulating Chinese escalations off its Pacific coast, Coast Guard Administration ​data and officials said.Taiwan reported 55 Chinese government vessel sighti",
-                "image": "https://img.taipeitimes.com/images/2026/07/20/p02-260620-jujjj.jpg",
-                "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/20/2003861070",
-                "source": "Taipei Times",
-                "date": "2026-07-20T03:28:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air force fielding long",
-                "desc": "The air force plans to procure domestically developed Teng Yun 2 drones alongside US-made MQ-9B uncrewed aerial vehicles (UAVs) in a “high-low mix” after the Teng Yun 2 completed operational evaluations, a source said yesterday.The Teng Yun 2 would serve as a lower-cost complement for the higher-end",
-                "image": "https://img.taipeitimes.com/images/2026/07/20/p03-260720-TengYun.jpg",
-                "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/20/2003861051",
-                "source": "Taipei Times",
-                "date": "2026-07-20T03:27:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What’s next as Andy Burnham takes over as UK’s next prime minister?",
-                "desc": "Andy Burnham will become UK prime minister. Here’s how the transition of power will unfold.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5d0692a22c-1784481426.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next",
-                "source": "Al Jazeera",
-                "date": "2026-07-20T03:22:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Cruel, wasteful’: Dakar port a hotspot for illegal shark fins",
-                "desc": "Finning, the practice of removing fins and casting the rest of the shark overboard, often alive, is largely prohibited across a variety of regulatory zones and countries.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/20/552479.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/environment/2026/07/20/wildlife/dakar-port-shark-fins/",
-                "source": "The Japan Times",
-                "date": "2026-07-20T03:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China unveils Global AI Cooperation plan",
-                "desc": "China has unveiled a new Global package for international initiatives on Artificial Intelligence (AI). Speaking at the opening ceremony of the 2026 World AI...",
-                "image": "https://dailytrust.com/wp-content/uploads/2026/07/ai-skilss.jpg",
-                "url": "https://dailytrust.com/china-unveils-global-ai-cooperation-plan/",
-                "source": "Daily Trust",
-                "date": "2026-07-20T03:18:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s C919 passenger jets to enter service on first international route",
-                "desc": "The Chinese-made C919 passenger jet will make its first scheduled international flights next month in a significant milestone for the country's ambitions to become self-sufficient in aerospace.",
-                "image": "https://static.bangkokpost.com/media/content/20260720/c1_3288779_700.jpg",
-                "url": "https://www.bangkokpost.com/business/general/3288779/chinas-c919-passenger-jets-to-enter-service-on-first-international-route",
-                "source": "Bangkok Post",
-                "date": "2026-07-20T03:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will a Nigerian be the next United Nations Secretary-General?",
-                "desc": "Yes, if we work on it. I first read about the end of the tenure of Antonio Guterres, the Secretary-General of the United Nations (UN), sometime last year.  In...",
-                "image": "https://dailytrust.com/wp-content/uploads/2021/07/Amina-Mohammed.jpg",
-                "url": "https://dailytrust.com/will-a-nigerian-be-the-next-united-nations-secretary-general/",
-                "source": "Daily Trust",
-                "date": "2026-07-20T03:10:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ha Noi ranked world's second friendliest city for services",
-                "desc": "Malaysia's The Star has reported that over the years, Viet Nam has consistently been ranked among the world's top 10 most hospitable countries.",
-                "image": "https://en-cdn.nhandan.vn/images/3c6b1d7d6cd77f0dc549536a41e2cb9b9927ae9ff0c5e87fca0d022cf765b5c93a03c2d17f766832f27cd9a97ebeb476b5fcfd540babd2e72cff7e4ee3c75cf7eec22cffd51e9608de57c4f9b76f0ac0c49d50e65298f5cf3f9d821838e55fde25abb121ac9357efd14feb27a0e1c83d2f56e44b1e17dc2c6dbc1f1f9982b140cfeea85009862312dc4cefaafcb2b349/vna-potal-ha-noi-dung-thu-hai-the-gioi-ve-dich-vu-khach-hang-than-thien-889754619-13-13-33-2880.jpg.webp",
-                "url": "https://en.nhandan.vn/ha-noi-ranked-worlds-second-friendliest-city-for-services-post164534.html",
-                "source": "Nhan Dan Online",
-                "date": "2026-07-20T03:04:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taiwan says Chinese vessel activity jumps, raising fears for Pacific supply routes",
-                "desc": "By Yimou Lee TAIPEI, July 20 (Reuters) - Taiwan detected a sharp rise in Chinese coast guard and research vessel activity around the island in June, prompting Taipei to plan drills simulating Chinese",
-                "image": "https://s.yimg.com/lo/mysterio/api/b2dee65a1658f75cac3da4d5a7a4aa020029c1de026127e713d277125d9ce2f9/lightyear_networkapi/resizefill_w800_h548;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F31377959e7335593ee7421c584a29b2f",
-                "url": "https://uk.news.yahoo.com/taiwan-says-chinese-vessel-activity-030448056.html",
-                "source": "Yahoo News UK",
-                "date": "2026-07-20T03:04:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-21T01:12:15.234516Z"
+    "lastGlobalSync": "2026-07-21T04:52:51.119674Z"
 }
