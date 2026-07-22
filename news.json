@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "OpenAI Admits Its Models Hacked Hugging Face On Their Own",
+                "desc": "Open source AI platform Hugging Face revealed a security breach a few days ago. Turns out OpenAI’s models were the culprit.",
+                "image": "https://www.engadget.com/img/gallery/openai-admits-its-models-hacked-hugging-face-on-their-own/l-intro-1784691822.jpg",
+                "url": "https://www.engadget.com/2220436/openai-admits-models-hacked-hugging-face-on-their-own/",
+                "source": "Engadget",
+                "date": "2026-07-22T04:24:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk Says the Short Sellers Betting Against SpaceX Have a \"Very Low\" Survival Probability. Their Bets Now Equal 32% of the Float.",
+                "desc": "Short sellers have built a $25 billion bet against the rocket maker. Its CEO says they won't survive.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880030%2Frocket-launch-smoke-clouds-getty.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/21/elon-musk-says-the-short-sellers-betting-against-s/",
+                "source": "The Motley Fool",
+                "date": "2026-07-22T04:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bajaj Auto shares jump 4% to hit 52-week high post strong Q1 earnings; TVS Motor too surges 4% on robust show",
+                "desc": "Bajaj Auto on Tuesday said it expects good, solid double-digit growth in both two- and three-wheeler demand, and it is aiming for the top position in the EV segment in the country.",
+                "image": "https://assets.upstox.com/content/assets/images/news/bajaj-auto-share-price-july-22.webp",
+                "url": "https://upstox.com/news/market-news/stocks/bajaj-auto-jumps-4-to-hit-52-week-high-post-strong-q1-earnings-tvs-motor-too-surges-4-on-robust-show/article-197339/",
+                "source": "Upstox",
+                "date": "2026-07-22T04:21:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An energy-aware and lightweight spiking neural network framework for real-time intrusion detection in IoT networks",
+                "desc": "The rapid growth of Internet of Things (IoT) network has led to significant security threats due to increased rate of resource use and sophistication of cyberattacks. Traditional deep learning (DL) Intrusion Detection Systems (IDS) utilize large amounts of resources, including energy and, therefore, cannot be implemented on low-powered IoT devices. In this paper, we present an Energy-Aware Lightweight IDS using Spiking Neural Networks (SNN-IDS) to provide high accuracy with respect to intrusion detection while maintaining low energy and memory consumption. This framework uses a hybrid-feature selection mechanism combining Grey Wolf Optimization (GWO) and Mutual Information (MI) to reduce dimensionality and computation costs. In addition, we use SNN for the classification of intrusion events, which allows us to provide low-power, event-driven processing of the input to our system. We evaluate our framework on Bot-IoT, ToN-IoT, and CIC-IoT2023 security datasets, and the results indicate that SNN-IDS outperforms benchmark deep learning models, including CNN-LSTM and Transformer-CNN, in terms of detection performance, energy efficiency, and inference speed. When evaluated on the Bot-IoT dataset, SNN-IDS produces an accuracy of 99.12%, precision of 98.94%, recall of 99.05%, and an F1 score of 98.99%, while on the ToN-IoT dataset it produced 98.76% accuracy and an F1 score of 98.41% and on the CIC-IoT2023 dataset it produced 98.21% accuracy and an F1 score of 97.95%. The SNN-IDS also reduces energy consumption by 42.8% and inference latency by 35.6% when compared to CNN-LSTM based IDS, while maintaining comparable performance in terms of its ability to detect intrusions. Furthermore, the SNN-IDS reduces memory consumption by 38.3%, which makes it a suitable solution for deployment on edge-based IoT devices.",
+                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-61822-x?error=cookies_not_supported&code=d9a02596-9301-4af1-b56a-b6f56937a399",
+                "source": "Nature",
+                "date": "2026-07-22T04:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Major bank’s shock rate cut ahead of RBA decision",
+                "desc": "One of Australia’s biggest banks has slashed rates weeks out from RBA’s call, joining 21 others defying RBA’s warning it will hike if needed.",
+                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_3b0b1c372a373818aa1cd3190b0c2bde_0f182d720786f7dca425a9eb6fbc6099.jpeg",
+                "url": "https://www.realestate.com.au/news/major-banks-shock-rate-cut-ahead-of-rba-decision/",
+                "source": "realestate.com.au",
+                "date": "2026-07-22T04:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+                "desc": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1700-e365/openai.jpg",
+                "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+                "source": "The Hacker News",
+                "date": "2026-07-22T04:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Westgold Resources Limited (WGX:CA) Q4 2026 Earnings Call Transcript",
+                "desc": "Westgold Resources Limited (WGX:CA) Q4 2026 Earnings Call July 21, 2026 10:00 PM EDTCompany ParticipantsKasun LiyanaarachchiWayne Bramwell - CEO, MD &...",
+                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+                "url": "https://seekingalpha.com/article/4924016-westgold-resources-limited-wgx-ca-q4-2026-earnings-call-transcript",
+                "source": "Seeking Alpha",
+                "date": "2026-07-22T04:13:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung in talks to invest in Mistral at 20 billion euro valuation, FT reports",
+                "desc": "July 22 : South Korea's Samsung is in talks to invest hundreds of millions of euros in the AI start-up Mistral, as part of a fundraising round that could value the group at roughly €20 billion ($22.81 billion), Financial Times reported on Wednesday, citing sources. Samsung could invest about €1 billion in",
+                "image": "https://dam.mediacorp.sg/image/upload/s--3EhyKrrv--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-22T041121Z_1_LYNXMPEM6L07L_RTROPTP_3_SAMSUNG-ELEC-ROBOT.JPG?itok=PBEISN4V",
+                "url": "https://www.channelnewsasia.com/business/samsung-in-talks-invest-in-mistral-20-billion-euro-valuation-ft-reports-6269931",
+                "source": "CNA",
+                "date": "2026-07-22T04:11:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bandhan Bank shares tumble 15% post Q1 results; here’s why the stock crashed despite healthy earnings",
+                "desc": "Bandhan Bank shares crashed 15% on Wednesday, July 22, after the lender's management outlined a conservative outlook in the upcoming period, with margin concerns in focus.",
+                "image": "https://assets.upstox.com/content/assets/images/news/bandhanbankq4shares.webp",
+                "url": "https://upstox.com/news/market-news/stocks/bandhan-bank-shares-tumble-10-post-q1-results-here-s-why-the-stock-crashed-despite-healthy-earnings/article-197334/",
+                "source": "Upstox",
+                "date": "2026-07-22T04:06:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Employee Engagement Remains Flat as AI Adoption Accelerates",
+                "desc": "Midyear data suggest organizations see the strongest employee engagement when they pair AI with clear expectations, thoughtful implementation and manager support.",
+                "image": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/WORKPLACEV9CMS/521d8289-4c5b-473b-af87-84b6fc7d2f10.jpg",
+                "url": "https://www.gallup.com/workplace/712433/employee-engagement-remains-flat-adoption-accelerates.aspx",
+                "source": "Gallup.com",
+                "date": "2026-07-22T04:06:11Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
                 "desc": "OpenAI says an autonomous agent bypassed controls and hacked Hugging Face servers during a cybersecurity test.",
                 "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6018089d-1784682504.jpg?resize=1920%2C1440",
@@ -542,99 +632,99 @@
                 "source": "The News International",
                 "date": "2026-07-21T12:57:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Crypto Markets Today",
-                "desc": "Speculation that President Donald Trump agreed to a crucial ethics provision for the crypto market structure bill underpinned the gains.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ae075692e2a89c19b2ecc41161a59e15cf46ad9-1290x665.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-                "url": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
-                "source": "CoinDesk",
-                "date": "2026-07-21T11:03:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Diablo Extends Star Range Silver-Antimony Trend Beyond 3 km Ahead of Maiden Drilling",
-                "desc": "Diablo Resources has expanded the exploration footprint at its Star Range Project in Utah, extending a silver-antimony trend beyond three kilometers and identifying a separate copper anomaly as the company prepares to begin maiden drilling.",
-                "image": "https://www.azomining.com/images/news/ImageForNews_18715_17846316280943052.png",
-                "url": "https://www.azomining.com/News.aspx?newsID=18715",
-                "source": "AZoMining",
-                "date": "2026-07-21T11:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More people are poorer than they think: Here's why",
-                "desc": "Expert warns that although poverty rates are declining, the tax base that enables government spending is being squeezed.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2024/09/empty-pockets-scaled.jpg",
-                "url": "https://www.citizen.co.za/news/south-africa/subjective-poverty-how-south-africans-consider-themselves-poor/",
-                "source": "The Citizen",
-                "date": "2026-07-21T11:02:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How AI may drive union-resistant tech workers to the bargaining table",
-                "desc": "Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence",
-                "image": "https://i.guim.co.uk/img/media/56bb5b877c5752e1b71707cbefc7103e54ed3fbc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97f430c7487171341d3074196104e5a1",
-                "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-                "source": "The Guardian",
-                "date": "2026-07-21T11:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Looking for a world-class meal at short notice? At these 50 Best restaurants, you can eat at the bar",
-                "desc": "The insider hack to eating at the world's most coveted restaurants.",
-                "image": "https://www.theworlds50best.com/stories/filestore/jpg/Clemente-Bar-Eat-at-the-bar-Hero-Credit-Jason-Varney (2).jpg",
-                "url": "https://www.theworlds50best.com/stories/News/the-insider-hack-to-eating-at-the-worlds-most-coveted-restaurants.html",
-                "source": "The World’s 50 Best",
-                "date": "2026-07-21T11:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The World’s Best Single Malt Scotch Whisky, According To BevTest",
-                "desc": "BevTest’s top single malt Scotch whiskies showcase Scotland’s remarkable diversity. Here’s where to find the world’s best single malt whisky and why you should taste them",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/675cb9587750fca5343c9599/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/joemicallef/2026/07/21/the-worlds-best-single-malt-scotch-whisky-according-to-bevtest/",
-                "source": "Forbes",
-                "date": "2026-07-21T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HEINZ, Philadelphia, and Kraft Mac & Cheese Coming to Disney Parks with Custom Equipment & New Menu Items",
-                "desc": "Kraft Heinz and Disney announced a long-term partnership that will bring Kraft Heinz products to Disney Parks and Cruise Line.",
-                "image": "https://r2-media.wdwnt.com/2026/07/Kraft-Heinz-Disney-Castle.jpg",
-                "url": "https://wdwnt.com/2026/07/kraft-heinz-disney-parks-cruise-line-partnership/",
-                "source": "WDW News Today",
-                "date": "2026-07-21T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Attorney Referral Legal Platform Vikk AI Announces $4.2M in Funding",
-                "desc": "The consumer-facing platform offers an AI legal assistant and sells ads to attorneys, with plans to launch a lawyer directory and create a data hub covering legal search trends.",
-                "image": "https://images.law.com/brightspot/35/0f/ed2fbb824b519b9e30b7cf27caf7/vikk-ai-logo-jpg767x505.jpg",
-                "url": "https://www.law.com/legaltechnews/2026/07/21/attorney-referral-legal-platform-vikk-ai-announces-42m-in-funding-/?slreturn=20260721095109",
-                "source": "Law.com",
-                "date": "2026-07-21T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australian Dollar hits fresh monthly highs above 0.7020 as risk aversion ebbs",
-                "desc": "The Australian Dollar (AUD) is showing one of the best performances among major currencies on Tuesday, appreciating to fresh one-month highs against the US Dollar, amid hopes of a ceasefire in Iran.",
-                "image": "https://editorial.fxsstatic.com/images/i/discover-67_Medium.png",
-                "url": "https://www.fxstreet.com/news/australian-dollar-hits-fresh-monthly-highs-above-07020-as-risk-aversion-ebbs-202607211059",
-                "source": "FXStreet",
-                "date": "2026-07-21T10:59:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK traded shares to go paperless by the end of 2027",
-                "desc": "On 14 July 2026, the Dematerialisation Market Action Taskforce (DEMAT) published its implementation plan for removing paper share certificates in relation to UK-traded shares of UK companies. The government has accepted the recommendations and intends to legislate with a view to implementation before the end of 2027.",
-                "image": "https://www.dentons.com/-/media/images/website/background-images/gpof/aerial/istock-1266572591.ashx",
-                "url": "https://www.dentons.com/en/insights/alerts/2026/july/20/uk-traded-shares-to-go-paperless-by-the-end-of-2027",
-                "source": "Dentons",
-                "date": "2026-07-21T10:59:12Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Pulsar and Noctua launch Feinmann F01 Noctua Edition gaming mouse with built-in fan for sweaty palms",
+                "desc": "The 40mm Noctua fan pushes air upward through the ventilation cutouts, with adjustable speed settings and an upgraded XS-2 sensor over the standard model.",
+                "image": "https://static.tweaktown.com/news/1/1/112741_1_noctua-and-pulsar-launch-gaming-mouse-with-built-in-fan-to-keep-sweaty-palms-cool-for-179-95_full.png",
+                "url": "https://www.tweaktown.com/news/112741/pulsar-and-noctua-launch-feinmann-f01-noctua-edition-gaming-mouse-with-built-in-fan-for-sweaty-palms/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-22T04:25:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Honor ROBOT PHONE to introduce 'Master Cinema' camera mode",
+                "desc": "Honor ROBOT PHONE will bring unique form factor but the highlight of this device will be camera features, one of which is Master Cinema Mode.",
+                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/ROBOT-PHONE1.jpg",
+                "url": "https://www.huaweicentral.com/honor-robot-phone-to-introduce-master-cinema-camera-mode/",
+                "source": "Huawei Central",
+                "date": "2026-07-22T04:18:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PLDT Home brings all your digital essentials in one bundle with the new Fiber Unli All plans",
+                "desc": "Between streaming subscriptions, mobile data, TV services, and home internet, today's families are juggling more digital subscriptions than ever before. While...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/22/117851.webp",
+                "url": "https://mb.com.ph/2026/07/22/pldt-home-brings-all-your-digital-essentials-in-one-bundle-with-the-new-fiber-unli-all-plans",
+                "source": "Manila Bulletin",
+                "date": "2026-07-22T04:15:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi Redmi Note 17 Pro Max 5G heads for global release",
+                "desc": "The Xiaomi Redmi Note 17 series has surfaced in new regulatory certifications. The listings reveal two models for the global market: the Redmi Note 17 5G and the Redmi Note 17 Pro Max 5G.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-redmi-note-17-pro-max-global-news.png",
+                "url": "https://www.notebookcheck.net/Xiaomi-Redmi-Note-17-Pro-Max-5G-heads-for-global-release.1348844.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-22T04:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A winning journey: From HONOR 600 to Mercedes-Benz EQA",
+                "desc": "HONOR Philippines has officially awarded the grand prize of its much-anticipated HONOR 600 Win-a-Benz Promo, turning one lucky HONOR fan into the proud owner of...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/22/117850.webp",
+                "url": "https://mb.com.ph/2026/07/22/a-winning-journey-from-honor-600-to-mercedes-benz-eqa",
+                "source": "Manila Bulletin",
+                "date": "2026-07-22T04:12:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Cognitive Concern: Why AI Needs a Nutrition Label",
+                "desc": "Learn why AI literacy matters and how faculty can help students use generative AI responsibly while protecting critical thinking skills.",
+                "image": "https://s39613.pcdn.co/wp-content/uploads/2026/07/iStock-2217306551-ai-modified-222e8e4e-b9c7-405d-81d6-13da5a2eb006.jpg",
+                "url": "https://www.facultyfocus.com/articles/teaching-with-technology-articles/the-cognitive-concern-why-ai-needs-a-nutrition-label/",
+                "source": "Faculty Focus",
+                "date": "2026-07-22T04:08:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EOS Red Adds Top-Tier 'Mythic Set Equipment' and New Dungeon",
+                "desc": "Source: Blomics©BlomicsBlomics and BluePotion Games announced on the 22nd that they have added top-tier Mythic set equipment, a new dungeon, and summer season events to their ...",
+                "image": "https://static.invenglobal.com/upload/image/2026/07/22/i1784692997858087.jpeg",
+                "url": "https://www.invenglobal.com/articles/24035/eos-red-adds-top-tier-mythic-set-equipment-and-new-dungeon",
+                "source": "Inven Global",
+                "date": "2026-07-22T04:06:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Steam Deck Sales Crash After Price Hike in May",
+                "desc": "Despite a notable sales blip immediately following the recent RAMpocalypse-driven price hikes, which saw Steam Deck prices skyrocket by $240-300 overnight, it appears as though sales for the Steam Deck have plummeted since the price increases.\nAccording to a recent report by Boiling Steam,...",
+                "image": "https://www.techpowerup.com/img/lKgrpr38EwD6HQjA.jpg",
+                "url": "https://www.techpowerup.com/350955/steam-deck-sales-crash-after-price-hike-in-may",
+                "source": "TechPowerUp",
+                "date": "2026-07-22T04:05:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Critics may label the initiative as 'Privacy sandbox 2.0,",
+                "desc": "Most believe Google's Privacy Sandbox is dead, but others say its revival is quietly underway elsewhere; here are the details.",
+                "image": "https://digiday.com/wp-content/uploads/sites/3/2025/03/attribution-tracking-digiday.gif",
+                "url": "https://digiday.com/marketing/fears-of-big-tech-bias-underpin-debates-around-w3cs-attribution-api/",
+                "source": "Digiday",
+                "date": "2026-07-22T04:04:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China’s unique high-orbit satellite is using a rare metal the US struggles to obtain",
+                "desc": "Beijing dominates the global supply of gallium nitride – which has been revealed as a key component in its Ludi Tance-4 01 satellite.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/21/697db7b3-008c-4f6d-b1c7-3829125ba47e_d30fe93e.jpg?itok=1qaeNgh-&v=1784625225",
+                "url": "https://www.scmp.com/news/china/science/article/3361343/chinas-unique-high-orbit-satellite-using-rare-metal-us-struggles-obtain",
+                "source": "South China Morning Post",
+                "date": "2026-07-22T04:00:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Langrisser: Sea of Sword first gameplay trailer, details, and screenshots",
                 "desc": "BlackJack Studio has released the first gameplay trailer, information, and screenshots for the newly announced “next-generation fantasy tactical RPG”…",
@@ -1174,99 +1264,99 @@
                 "source": "Traxion.GG",
                 "date": "2026-07-21T13:02:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "YAS utilizes two of its production lines at full capacity as it produces equipment and components for TCL CSOT 8.6-Gen OLED line",
-                "desc": "A few months ago we reported that Korean OLED equipment maker YAS has received orders for deposition equipment and evaporation sources from TCL CSOT, to be used at CSOT's 8.6-Gen inkjet IT AMOLED production line. The evaporation sources deal is estimated at 10 billion Won ($6.6 million USD). It is now reported in Korea that YAS is running its Paju Fab 3 and Fab 4 at full capacity to produce the equipment for TCL CSOT. The company is planning a new (fifth) production line, in the case that it secures further orders this year. The new line will expand its equipment and component production capacity by 50% (by revenue, at least). The Paju Fab 3 produces the evaporation sources, while the Fab 4 facility produces the deposition equipment.The YAS systems utilize open-mask deposition systems to produce OLED stack layers such as EIL and ETL. The evaporation sources provide the heat and are used to vaporize the organic chemicals. These are consumable components.",
-                "image": "https://www.oled-info.com/img/oled-info-favicon.ico",
-                "url": "https://www.oled-info.com/yas-utilizes-two-its-production-lines-full-capacity-it-produces-equipment-and",
-                "source": "OLED-Info",
-                "date": "2026-07-21T11:02:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AVA London announces 2026 Creators Forum",
-                "desc": "The ten-day development programme is open to artists aged 18 through 30.",
-                "image": "https://static.ra.co/images/news/2026/mixcollage-20-jul-2026-12-33-pm-918.jpg",
-                "url": "https://ra.co/news/85617",
-                "source": "Resident Advisor",
-                "date": "2026-07-21T11:02:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "free health and fitness tracker from Garmin – Company Announcement",
-                "desc": "The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.",
-                "image": "https://mmx.prnewswire.com/media/MS1886282/CIRQA-band-PR-hero-image.jpg?id=OA2771949",
-                "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607210701PR_NEWS_USPRX____CG08156-1",
-                "source": "Financial Times",
-                "date": "2026-07-21T11:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All On Board! introduces weekly free DLC access and a new built-in game scheduler",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/All-On-Board-introduces-weekly-free-DLC-access-and-a-new-built-in-game",
-                "source": "Games Press",
-                "date": "2026-07-21T11:00:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fish Them All! is out now on iOS and Android - a short indie fishing game about catching all 10 million fish in the sea",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Fish-Them-All-is-out-now-on-iOS-and-Android-a-short-indie-fishing-game",
-                "source": "Games Press",
-                "date": "2026-07-21T11:00:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fish Them All! is out now on iOS and Android - a short indie fishing game about catching all 10 million fish in the sea",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-US/Fish-Them-All-is-out-now-on-iOS-and-Android-a-short-indie-fishing-game",
-                "source": "Games Press",
-                "date": "2026-07-21T11:00:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CD Projekt Red announces The Witcher 3: Wild Hunt - Songs of the Past will appear at gamescom",
-                "desc": "CD Projekt Red has today announced that The Witcher 3: Wild Hunt's new expansion, \"Songs of the Past\", will appear at gamescom 2026. New information about the new expansion is promised to be revealed during gamescom 2026's Opening Night Live. Co-developed by CD Projekt Red and Fool’s Theory (who is developing the remake of The Witcher),",
-                "image": "https://powerup-gaming.com/wp-content/uploads/2026/07/songs-of-the-past-1.png",
-                "url": "https://powerup-gaming.com/cd-projekt-red-announces-the-witcher-3-wild-hunt-songs-of-the-past-will-appear-at-gamescom/",
-                "source": "powerup-gaming.com",
-                "date": "2026-07-21T11:00:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple CarPlay needs to copy this new Android Auto feature",
-                "desc": "The balance of power could shift after this fall's iOS 27 update.",
-                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/02/carplay-ioniq-5.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.pocket-lint.com/apple-carplay-needs-to-copy-android-auto-ev/",
-                "source": "Pocket-lint",
-                "date": "2026-07-21T11:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI",
-                "desc": "The studio's debut game, Bobium Brawlers, blends \"classic game design with the possibilities of AI\" – and importantly, all the artists are paid",
-                "image": "https://assetsio.gnwcdn.com/bobium-brawlers-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai",
-                "source": "GamesIndustry.biz",
-                "date": "2026-07-21T11:00:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "9 PS Plus Extra Game Removals for August 2026 Confirmed",
-                "desc": "Goodbye my (undead) lover - This month's PS Plus Extra and PS Plus Premium games are out now (or a portion of them are if you are in the UK, USA, and Japan),...",
-                "image": "https://images.pushsquare.com/9cb2647c0dbb4/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/9-ps-plus-extra-game-removals-for-august-2026-confirmed",
-                "source": "Push Square",
-                "date": "2026-07-21T11:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "China using 'elite capture' in Pacific, Taiwan says, citing PNG",
+                "desc": "Taiwan's top diplomat has accused China of using \"elite capture\" in South Pacific nations to advance its interests in the region, citing Papua New Guinea (PNG) as the latest example after it decided to close Taipei's representative office.",
+                "image": "https://imgcdn.cna.com.tw/Eng/images/default.png",
+                "url": "https://focustaiwan.tw/politics/202607220006",
+                "source": "Focus Taiwan",
+                "date": "2026-07-22T04:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Americans Lead World in Viewing Politics as Risk to Safety",
+                "desc": "The World Risk Poll finds that one in 10 Americans name politics as the top risk to daily safety, with no other country rating it as a greater risk.",
+                "image": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/787acece-5bf6-42fb-bbbc-32c7d04e7a85.jpg",
+                "url": "https://news.gallup.com/poll/712673/americans-lead-world-viewing-politics-risk-safety.aspx",
+                "source": "Gallup News",
+                "date": "2026-07-22T04:15:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tankers carrying Saudi oil make u-turns after Houthi threat",
+                "desc": "Three oil tankers loaded with Saudi Arabian crude bound for China and India made u-turns in the Red Sea on Tuesday, following a warning from Yemen's Iran-aligned Houthi militia.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--FYi0LBSf--/t_tohu-badge-facebook/f_auto/q_auto/4JL529U_AFP__20260330__boivin_notitle260330_npSAL__v1__HighRes__PhotoIllustrationsTheBabElMa_jpg",
+                "url": "https://www.rnz.co.nz/news/world/770406/tankers-carrying-saudi-oil-make-u-turns-after-houthi-threat",
+                "source": "RNZ",
+                "date": "2026-07-22T04:10:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What’s the prospect of developing gene-altered crops that are more nutritious and resist climate disruption",
+                "desc": "Calories alone are not enough Climate change is not only affecting how much food we can produce, but also how nutritious that food is. In a review",
+                "image": "https://geneticliteracyproject.org/wp-content/uploads/2025/06/a-mature-farmer-working-in-the-field-at-sunrise-harvesting-crops-generated-by-ai-photo.jpg",
+                "url": "https://geneticliteracyproject.org/2026/07/22/whats-the-prospect-of-developing-gene-altered-crops-that-are-more-nutritious-and-resist-climate-disruption/",
+                "source": "Genetic Literacy Project",
+                "date": "2026-07-22T04:08:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report",
+                "desc": "Pakistan News: Pakistan has asked the United States for a $10 billion exchange stabilisation facility in a bid to shore up its fragile economy, according to a source.",
+                "image": "https://static.toiimg.com/thumb/msid-132550745,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-asks-us-for-10bn-lifeline-to-shore-up-struggling-economy-report/articleshow/132550698.cms",
+                "source": "The Times of India",
+                "date": "2026-07-22T04:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microscopic plant remains reveal 25,000 years of GunaiKurnai rituals deep in a Victorian cave",
+                "desc": "A new study shows the cave was only used for very special purposes.",
+                "image": "https://images.theconversation.com/files/748760/original/file-20260720-57-92cz9b.jpg?ixlib=rb-4.1.1&rect=0%2C4646%2C5504%2C2752&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/microscopic-plant-remains-reveal-25-000-years-of-gunaikurnai-rituals-deep-in-a-victorian-cave-287775",
+                "source": "The Conversation",
+                "date": "2026-07-22T04:00:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stress, Screens And Sleep: A Brain Health Check",
+                "desc": "Our brains are constantly adapting to the way we live. Every night of poor sleep, every stressful workday, every hour spent scrolling on a smartphone, and every long stretch of sitting can influence how well our brain functions. While occasional late nights or binge-watching sessions are unlikely to cause lasting harm, these habits can add up over time and affect memory, concentration, mood, and even long-term brain health.In India, where digital device use has increased rapidly and many people spend long hours at desks or on mobile phones, understanding how lifestyle choices affect the brain has become more important than ever.Stress: A Constant Burden on the BrainStress is a normal response that helps us deal with challenges. However, when stress becomes chronic, it can have harmful effects on the brain.Persistent stress keeps levels of cortisol, the body's primary stress hormone, elevated. Over time, excessive cortisol can interfere with the functioning of the hippocampus, a brain region responsible for learning and memory. Chronic stress has also been linked with difficulty concentrating, impaired decision-making, anxiety, depression, and reduced cognitive performance. In India's fast-paced urban environment, work pressure, financial responsibilities, long commutes, academic competition, and caregiving responsibilities often contribute to sustained stress levels. Managing stress is therefore not just important for mental well-being but also for preserving cognitive health.Why Sleep Is Essential for Brain HealthSleep is not simply a period of rest, it is when the brain performs essential maintenance. During sleep, memories are consolidated, toxins produced during daily brain activity are cleared, and neural connections are strengthened.Regularly sleeping too little or having poor-quality sleep can affect attention, reaction time, memory, emotional regulation, and problem-solving abilities. Over the long term, inadequate sleep has also been associated with an increased risk of cognitive decline and several neurological disorders. Unfortunately, insufficient sleep is becoming increasingly common. Late-night work, prolonged smartphone use, and irregular schedules often reduce sleep duration. Studies from India have also reported an association between increased smartphone screen time and sleep problems among adolescents and young adults, highlighting a growing public health concern. Screen Time: Not All Digital Use Is EqualDigital devices have become indispensable for work, education, communication, and entertainment. However, excessive recreational screen time may come at a cost.Research suggests that prolonged screen exposure may contribute to reduced attention span, mental fatigue, poor sleep quality, and increased stress. Blue light emitted from screens can delay the release of melatonin, the hormone that regulates sleep, making it harder to fall asleep when devices are used late into the evening. Importantly, experts note that the type of screen use matters. Activities that actively engage the brain, such as learning, reading, or solving problems, are likely to have different effects than hours of passive scrolling through social media or continuously watching short-form videos. Simply counting screen hours does not provide the complete picture. The Hidden Risks of Sitting Too MuchMany Indians now spend most of their day sitting, whether at office desks, in classrooms, commuting, or relaxing in front of screens. This sedentary lifestyle affects not only heart and metabolic health but may also influence brain health.Emerging research suggests prolonged sedentary behaviour may be associated with poorer cognitive performance and changes in brain structure, particularly when it involves passive activities such as prolonged television viewing. In contrast, cognitively stimulating seated activities like reading may not carry the same level of risk. The evidence is still evolving, but researchers consistently recommend reducing uninterrupted sitting time. Small Lifestyle Changes Can Protect the BrainBrain health is shaped by the combined effect of our daily habits rather than one single factor. Improving even one area often benefits the others. Better sleep can lower stress, regular physical activity can improve sleep quality and mood, and reducing screen time before bedtime can support healthier sleep.Simple habits can make a meaningful difference:•    Aim for 7–9 hours of quality sleep each night. •    Take short movement breaks every 30–60 minutes during prolonged sitting. •    Engage in at least 150 minutes of moderate physical activity each week. •    Avoid using smartphones, tablets, or laptops for at least an hour before bedtime whenever possible. •    Practise stress-management techniques such as yoga, meditation, deep breathing, or mindfulness. •    Spend time outdoors and maintain regular social interactions to support emotional and cognitive well-being. The Bottom LineThe brain is remarkably resilient, but it is also shaped by everyday choices. Chronic stress, inadequate sleep, excessive recreational screen time, and prolonged sedentary behaviour can work together to affect memory, attention, mood, and overall cognitive function. While research continues to explore exactly how these lifestyle factors influence long-term brain health, current evidence strongly supports adopting healthier daily routines.For Indians navigating increasingly digital and demanding lifestyles, protecting brain health does not require drastic changes. Consistent sleep, regular physical activity, mindful technology use, and effective stress management are practical, evidence-based steps that can help keep the brain healthy throughout life.",
+                "image": "https://static.businessworld.in/Brain_Tumor-1_20250609170002_ogImage_48.jpg",
+                "url": "https://www.bwhealthcareworld.com/article/stress-screens-and-sleep-a-brain-health-check-615917",
+                "source": "BW Healthcare",
+                "date": "2026-07-22T04:00:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live Updates: Latest from Israel, Iran, and Middle East",
+                "desc": "US war in Iran has cost $37.5 billion so far • IDF confirms building massive sand barrier dividing Gaza after satellite imagery emerges • Trump eyes expanded Iran campaign",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730890",
+                "url": "https://www.jpost.com/middle-east/iran-news/2026-07-22/live-updates-903248",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-22T04:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Iran Cease-Fire Was Doomed to Fail",
+                "desc": "Why transactionalism won’t deliver peace in the Middle East.",
+                "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/07/21/2025-06-24T180126Z_290945008_RC249FATKQ97_RTRMADP_3_IRAN-NUCLEAR.JPG?itok=vBJOHFbS",
+                "url": "https://www.foreignaffairs.com/iran/iran-cease-fire-was-doomed-fail",
+                "source": "Foreign Affairs",
+                "date": "2026-07-22T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘A great thrill’: baby puffin is first one seen on Dorset coast in three decades",
+                "desc": "Puffling excites volunteers trying to save the last known regular nesting site on mainland of southern England",
+                "image": "https://i.guim.co.uk/img/media/f8f0e32abca5a46146d0179fe46965c10ffde036/96_533_1389_1111/master/1389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5021f2401ea0374479acfb5ebab83b3",
+                "url": "https://www.theguardian.com/environment/2026/jul/22/baby-puffin-first-dorset-coast-three-decades",
+                "source": "The Guardian",
+                "date": "2026-07-22T04:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Relationship with Nicotine Concentrations Monitored by Molecular Fluorescence",
                 "desc": "Cigarette butts are among the most abundant urban residues worldwide and constitute an emerging source of aquatic pollution due to the release of nicotine and other toxic compounds into the environment. In the present work, the acute toxicity of nicotine solutions and cigarette butt leachates was evaluated using fish, specifically juveniles of Poecilia reticulata, under controlled and standardized laboratory conditions. Acute toxicity assays of nicotine were performed, exposing fish to increasing concentrations ranging from 0.5 to 8.0 mg∙L−1 for 96 h. Mortality increased with nicotine concentration, obtaining an LC50 value of 2.0 mg∙L−1 for the studied species. Additionally, cigarette butt leachates were prepared under standardized laboratory conditions and tested at different dilution percentages (in a range of 2.5% to 20 %). The highest leachate concentrations produced elevated mortality and behavioral alterations, including severe mobility impairment in exposed organisms. Nicotine concentrations in the tested solutions were determined by a previously developed molecular fluorescence methodology based on the use of a luminescent metal-organic framework sensor. The analytical results demonstrated that nicotine concentrations in cigarette butt leachates were significantly lower than the LC50 experimentally determined for pure nicotine, suggesting that the observed toxic effects are associated not only with nicotine but also with the combined action of additional toxic substances released from cigarette residues. The present study highlights the ecotoxicological relevance of cigarette butt leachates as emerging aquatic pollutants and demonstrates the usefulness of combining biological models with fluorescence-based analytical methodologies for environmental monitoring applications.",
@@ -1806,98 +1896,8 @@
                 "source": "news - Mongabay",
                 "date": "2026-07-21T13:02:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Africa Becomes Continent With Highest Population Facing Hunger - UN",
-                "desc": "Africa Becomes Continent With Highest Population Facing Hunger – UN",
-                "image": "https://www.channelstv.com/wp-content/uploads/2026/04/Food-crisis-malnutrition-in-Africa.jpg",
-                "url": "https://www.channelstv.com/2026/07/21/africa-becomes-continent-with-highest-population-facing-hunger-un/",
-                "source": "Channels Television",
-                "date": "2026-07-21T11:03:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
-                "desc": "Last month, a boat accident on the River Benue in central Nigeria claimed the lives of 12 people.",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/600182bc-89e9-4519-b8f1-89add86af925.webp?1784647233798",
-                "url": "https://www.the-star.co.ke/news/africa/2026-07-21-many-feared-dead-in-another-nigeria-boat-disaster-but-why-do-they-keep-happening",
-                "source": "the-star.co.ke",
-                "date": "2026-07-21T11:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-                "desc": "At least 27 people have drowned after a passenger ferry capsized off the coast of Guyana on Saturday night local time.",
-                "image": "https://www.graphic.com.gh/images/2026/July/21/guyana.jpg",
-                "url": "https://www.graphic.com.gh/international/international-news/at-least-27-dead-and-83-missing-after-passenger-ferry-capsizes-off-guyana.html",
-                "source": "Graphic Online",
-                "date": "2026-07-21T11:02:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Visitors in Alaska Get Front-Row View of Grizzly Bear's Incredible Fishing Skills",
-                "desc": "Instagram user Sara Ghi shared a video capturing a grizzly bear fishing for salmon in the clear waters near Brooks Falls in Katmai National Park, Alaska.\nThe footage, filmed from a bridge overlooking...",
-                "image": "https://s.yimg.com/lo/mysterio/api/58fab012f0d1554df10c3d076c050444abeaf2ba2ab2e6cbfc04953174db83b5/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcaters_clips_671%2F14c19ccd847891f4d5fcd9326911f987",
-                "url": "https://www.yahoo.com/lifestyle/videos/visitors-alaska-front-row-view-110104707.html",
-                "source": "Yahoo",
-                "date": "2026-07-21T11:01:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU farming support contributing to pricier healthy food, says UN",
-                "desc": "Subsidies for meat and grain farms have contributed to more expensive fruit and vegetables, FAO report says.",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/21/GettyImages-2279706226-scaled.jpg",
-                "url": "https://www.politico.eu/article/eu-farming-support-contributing-to-pricier-healthy-food-says-un-fao/",
-                "source": "politico.eu",
-                "date": "2026-07-21T11:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘No electricity, no water, no fuel’: Ukrainian drone strikes bring darkness to Crimea’s summer",
-                "desc": "Interviews with residents of Russian-held region point to frustration with Moscow as Ukrainian campaign to isolate it takes toll on daily life",
-                "image": "https://i.guim.co.uk/img/media/e225b756dffdc60cd176036790530e18e0cc9abd/537_0_4527_3622/master/4527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f73d6be88b11ae584e7ebeb3c0e6973b",
-                "url": "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer",
-                "source": "The Guardian",
-                "date": "2026-07-21T11:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghana: Reforming Tourism From the Superstructure to the Substructure",
-                "desc": "Ghana must build a more resilient, competitive, and sustainable tourism sector, and we must do so by going beyond incremental improvements and fundamentally reform both the superstructure and the substructure of the tourism ecosystem.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607210422.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-21T11:00:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paris weighs reducing embassy staff in Tehran, source says",
-                "desc": "France is reviewing whether to reduce staffing at its embassy after two French diplomats were detained, interrogated and allegedly abused by Iranian security forces in Tehran, according to information obtained by Iran International on Tuesday.",
-                "image": "https://i.iranintl.com/images/rdk9umy0/production/96cdb16b0672f0c18f921d81d252acffa6d26462-1000x667.jpg?rect=0,72,1000,525&w=1200&h=630&q=66&fit=max&auto=format",
-                "url": "https://www.iranintl.com/en/202607210581",
-                "source": "ایران اینترنشنال",
-                "date": "2026-07-21T10:59:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "made aircraft expand overseas with Cambodia order and new Mongolia route",
-                "desc": "COMAC aircraft enter a new phase of scaled-up international expansion.",
-                "image": "https://www.chinatravelnews.com/favicon.ico?favicon.255e813a.ico",
-                "url": "https://www.chinatravelnews.com/article/190418/",
-                "source": "China Travel News",
-                "date": "2026-07-21T10:58:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ERA Urges Other African Nations To Emulate Sierra Leone On Ratification Of African Court Protocol",
-                "desc": "The Environment Rights in Africa (ERA) coalition has described Sierra Leone's ratification of the Protocol to the establishment of the African Court as a bold affirmation that justice must be accessible, rights must be enforceable, and accountability must prevail. In a press release shared with the media by Philip Jakpor, ERA Communications Work Group Coordinator,...",
-                "image": "https://independent.ng/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-11.23.23.jpeg",
-                "url": "https://independent.ng/era-urges-other-african-nations-to-emulate-sierra-leone-on-ratification-of-african-court-protocol/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-07-21T10:57:16Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-22T14:47:53.406307Z"
+    "lastGlobalSync": "2026-07-22T16:25:49.636904Z"
 }
