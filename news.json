@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "tech Faces Mounting Brain Drain Amid AI Disruption And War Strain",
+                "desc": "Israel's high-tech sector, long the backbone of its economy, is facing mounting pressure from artificial intelligence disruption, a strong shekel and a growing brain drain",
+                "image": "https://cdn.i24news.tv/uploads/66/86/b5/b4/c1/aa/c3/95/38/7d/d6/8e/91/b4/f2/4a/6686b5b4c1aac395387dd68e91b4f24a.png",
+                "url": "https://www.i24news.tv/en/news/innov-nation/artc-israeli-high-tech-faces-mounting-brain-drain-amid-ai-disruption-and-war-strain",
+                "source": "i24NEWS",
+                "date": "2026-07-22T10:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kevin’s wife died. Can he afford to retire at 54?",
+                "desc": "To generate enough income to retire at 54, Kevin would need about $1.4 million in investments, which would be a stretch. Find out more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/no0721rrsp.jpeg",
+                "url": "https://financialpost.com/personal-finance/family-finance/kevin-wife-died-can-afford-retire-54",
+                "source": "Financial Post",
+                "date": "2026-07-22T10:10:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 Nissan Elgrand to launch in Thailand end of year - is Malaysia also getting the Toyota Alphard rival?",
+                "desc": "Nissan is known to move at a glacial pace in Southeast Asia – witness the fourth-generation X-Trail arriving in Malaysia at the end of this year, several months after the fifth generation was revealed. But …",
+                "image": "https://paultan.org/image/2025/10/2025-JMS-Nissan-Elgrand-2-1200x801.jpg",
+                "url": "https://paultan.org/2026/07/22/2026-nissan-elgrand-to-launch-in-thailand-end-of-year-is-malaysia-also-getting-the-toyota-alphard-rival/",
+                "source": "Paul Tan",
+                "date": "2026-07-22T10:10:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Baby boomers are trying to unload their stuff. Does anybody want it?",
+                "desc": "As older Canadians downsize or die, a flood of secondhand goods is coming. Here's what gen X, millennials and gen Z think about it. Read on",
+                "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/June-Cotte.png",
+                "url": "https://financialpost.com/personal-finance/baby-boomers-try-unload-stuff-nobody-wants",
+                "source": "Financial Post",
+                "date": "2026-07-22T10:07:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mulberry Narrows Losses, Lifts Margins as Turnaround Strategy Pays Off",
+                "desc": "The Mulberry FY2025-26 Earnings are in: The British label is betting on heritage icons and the Christopher Kane tie-up to achieve 200 million pounds in sales.",
+                "image": "https://wwd.com/wp-content/uploads/2025/04/AW25_Spring_Campaign_PressCrops_Without_Logo_5.jpg?crop=0px%2C82px%2C3366px%2C1884px&resize=1000%2C563",
+                "url": "https://wwd.com/business-news/financial/mulberry-earnings-turnaround-strategy-pay-off-fiscal-2026-1239078104/",
+                "source": "WWD",
+                "date": "2026-07-22T10:07:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "what it is, and how it works",
+                "desc": "Toronto is looking to ban what is known assurveillance pricing in grocery stores, a practice that experts say could allow retailers to use shoppers’ data to charge different prices for the same products.",
+                "image": "https://www.cp24.com/resizer/v2/HP7HNV62RJFEJNHMRTXSXIIOFY.jpg?smart=true&auth=4e1266924be75a571aaf9e7bcd0aae97f650027c934228b370d92d38f5d87e93&width=1200&height=630",
+                "url": "https://www.cp24.com/local/toronto/2026/07/22/toronto-is-looking-to-ban-surveillance-pricing-in-grocery-stores-but-what-is-this-pricing-practice/",
+                "source": "CP24",
+                "date": "2026-07-22T10:06:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Current price of oil as of July 22, 2026",
+                "desc": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Price-of-Oil-July-22.jpg?resize=1200,600",
+                "url": "https://fortune.com/article/price-of-oil-07-22-2026/",
+                "source": "Fortune",
+                "date": "2026-07-22T10:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK inflation falls to 2.6%, driven by lower fuel prices, but drop not expected to last",
+                "desc": "The rate in June came down from 2.8% in May - but is still above the Bank of England's 2% target.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cca2/live/1b732350-85a3-11f1-926f-c90d1bcfbc84.jpg",
+                "url": "https://www.bbc.co.uk/news/live/c621kzeyxw9t",
+                "source": "BBC",
+                "date": "2026-07-22T10:01:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘If all else fails, sue’: how ultra-processed food firms are using the courts to obstruct health rules",
+                "desc": "Exclusive: Global investigation reveals 235 lawsuits have been brought against governments in five countries since 2010",
+                "image": "https://i.guim.co.uk/img/media/1fdbe9a3526a0434d6f48dac7216cc055118578b/41_0_7078_5660/master/7078.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01948d91a39b3aa93d4988ad5ee3ffbd",
+                "url": "https://www.theguardian.com/society/2026/jul/22/processed-food-firms-courts-obstruct-health-regulations",
+                "source": "The Guardian",
+                "date": "2026-07-22T10:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta's Glasses Are Popular, but Controversial, Kylie's Debut Shows",
+                "desc": "Meta sold at least 7 million of its glasses last year, and Kylie Jenner debuted a new pair she designed. The backlash shows they're controversial.",
+                "image": "https://i.insider.com/6a5fc711548c9c486b30eb01?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/meta-glasses-facial-recognition-kylie-jenner-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-22T10:00:11Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Alphabet Earnings Need to Show Cloud Growth as AI Spending Soars",
                 "desc": "With AI spending skyrocketing, investors are looking for Alphabet Inc.’s earnings to show strong growth in its cloud-computing business, which would demonstrate a clear return on the company’s investments.",
                 "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKklrwNG7qJM/v1/1200x800.jpg",
@@ -542,99 +632,99 @@
                 "source": "Forbes",
                 "date": "2026-07-22T00:00:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Asian Stocks Set for Gains as Chipmakers Rebound: Markets Wrap",
-                "desc": "(Bloomberg) -- Stocks in Asia were set to gain on Wednesday as a rebound in chipmakers at the center of the artificial intelligence boom offset concerns over the renewed escalation in the US-Iran conflict.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1765874455",
-                "url": "https://www.swissinfo.ch/eng/asian-stocks-set-for-gains-as-chipmakers-rebound%3A-markets-wrap/91781368",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-21T22:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Skylight Calendar Discount Codes July 2026",
-                "desc": "Our deals writer found the best Skylight Calendar discount codes. Here’s how you can save up to $40 on this editor-approved smart device.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5feba5149569108bfcda76/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/skylight-calendar-discount-codes/",
-                "source": "Forbes",
-                "date": "2026-07-21T22:05:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Betting On the Future of Physical AI, Zalando Invests In Sereact",
-                "desc": "Sereact said this brings its Series B funding to $116 million.",
-                "image": "https://wwd.com/wp-content/uploads/2026/07/GettyImages-455139960.jpg?w=1000&h=563&crop=1",
-                "url": "https://wwd.com/sourcing-journal/logistics/zalando-sereact-investment-physical-ai-1239077534/",
-                "source": "WWD",
-                "date": "2026-07-21T22:05:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Novo Nordisk sues Eli Lilly over \"maliciously and deceptively false\" GLP-1 ads",
-                "desc": "The lawsuit alleges that Eli Lilly misled consumers by using outdated clinical trial data to make its drugs appear more effective than Novo's.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/01/0ecd33c4-5c1b-49ef-a457-d23c1d961e08/thumbnail/1200x630/919355e532ad5614dde5561beecf4c72/cbsn-fusion-what-to-know-about-medicare-covering-glp-1-drugs-thumbnail.jpg",
-                "url": "https://www.cbsnews.com/news/novo-nordisk-eli-lilly-false-advertising-lawsuit/",
-                "source": "CBS News",
-                "date": "2026-07-21T22:01:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fossil Fuels Still Generate 57% of the World's Electricity",
-                "desc": "Coal, gas and oil still generate 57% of world electricity, down from 65% in 2000, as wind and solar surge and nuclear power fades, new data shows.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-21_y61mvxcsjz.jpg",
-                "url": "https://oilprice.com/Energy/Energy-General/Fossil-Fuels-Still-Generate-57-of-the-Worlds-Electricity.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-21T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fossil Fuels Still Generate 57% of the World's Electricity",
-                "desc": "Coal, gas and oil still generate 57% of world electricity, down from 65% in 2000, as wind and solar surge and nuclear power fades, new data shows.",
-                "image": "https://s.yimg.com/lo/mysterio/api/e2466d8caaf40ef856cbc07f457e0a6aca7088063ffeed40ecafc1644d5e3a82/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F6060e27a965b13373ca9520673c8aadc",
-                "url": "https://www.yahoo.com/news/science/articles/fossil-fuels-still-generate-57-220000222.html",
-                "source": "Yahoo",
-                "date": "2026-07-21T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore bank stocks are at record highs. Should you buy, hold or sell?",
-                "desc": "Analysts say the decision to buy, hold or sell has less to do with price and more to do with why an investor owns the stock in the first place.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--QGkm5s0r--/c_crop,h_1125,w_2000,x_0,y_321/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/atm-banks-money-cash-singapore---file-photo-data.jpg?itok=bFwEkvEV",
-                "url": "https://www.channelnewsasia.com/singapore/dbs-ocbc-uob-bank-stocks-invest-6260561",
-                "source": "CNA",
-                "date": "2026-07-21T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Volkswagen Thinks Your E-Bike Needs a Pair of Smart Glasses",
-                "desc": "The German automaker licensed its name to two new e-bikes made by n+.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/volkswagen-e-bike-1200x675.jpg",
-                "url": "https://gizmodo.com/volkswagen-thinks-your-e-bike-needs-a-pair-of-smart-glasses-2000788710",
-                "source": "Gizmodo",
-                "date": "2026-07-21T21:59:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Britain Wrote The World’s Most Cautious Stablecoin Rules, Three Years Late",
-                "desc": "The Bank of England dropped stablecoin holding caps on June 22, 2026, set a £40bn issuance ceiling and a 2027 start, three years behind MiCA and the GENIUS Act.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/686b5aa8ee7ef849e381f778/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/zennonkapron/2026/07/21/britain-wrote-the-worlds-most-cautious-stablecoin-rules-three-years-late/",
-                "source": "Forbes",
-                "date": "2026-07-21T21:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Markets live: ASX to rise as oil prices hit five-week high, Wall Street tech stocks rebound",
-                "desc": "The Australian share market is likely to start its day higher after Wall Street's beaten-down tech and semiconductor stocks rebounded sharply overnight. Oil prices surged to a five-week high as Donald Trump signalled the US is \"not finished\" attacking Iran. Follow live.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/7e897f4ce69c17cb98d234c2823bab4c?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-22/asx-markets-business-live-news-july-22/106942906",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-21T21:54:55Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "How to Use iOS 27 Recovery Mode to Fix Your iPhone Without a Computer",
+                "desc": "With iOS 27, Apple has introduced a new built-in recovery mode that lets you troubleshoot many startup problems without a computer.",
+                "image": "https://www.phoneworld.com.pk/wp-content/uploads/2026/07/iOS-27-Recovery-mode-without-computer.jpg",
+                "url": "https://www.phoneworld.com.pk/how-to-use-ios-27-recovery-mode-to-fix-your-iphone-without-a-computer/",
+                "source": "PhoneWorld",
+                "date": "2026-07-22T10:10:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MagicX Releases AI Autocomplete SDK, Giving Every Text Box a Brain",
+                "desc": "MagicX today announced the public launch of AI Autocomplete, an SDK and API that adds real-time, intelligent guidance.",
+                "image": "https://aithority.com/wp-content/uploads/2026/07/vecteezy_revolutionizing-robotics-with-ai-conceptual-illustration_24060325-1.jpg",
+                "url": "https://aithority.com/machine-learning/magicx-releases-ai-autocomplete-sdk-giving-every-text-box-a-brain/",
+                "source": "AiThority",
+                "date": "2026-07-22T10:10:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple David’s Old ‘Totropahin or Jojowain’ Video Resurfaces, Sparks Debate Over Younger Boyfriend and Age Gap",
+                "desc": "Courtside reporter Apple David goes viral after an old 'Totropahin or Jojowain' video resurfaces, showing her preference against dating younger men. Netizens now compare her past comments on Kobe Paras and Ricci Rivero with her current relationship with 18-year-old basketball player Chad Gammad, sparking debate over age gaps and changing standards in romance.",
+                "image": "https://images.assettype.com/tribune/2026-07-22/x8t2coeg/GENA-BANNER-37.jpg?w=1200&auto=format",
+                "url": "https://tribune.net.ph/2026/07/22/apple-davids-old-totropahin-or-jojowain-video-goes-viral",
+                "source": "Daily Tribune",
+                "date": "2026-07-22T10:10:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung-Owned JBL Quietly Cuts 40% Off Tune 770NC ANC Headphones on Amazon",
+                "desc": "Get more from your audio pleasures with this fantastic deal,",
+                "image": "https://gizmodo.com/app/uploads/2026/07/jbl-deal-2-1200x675.jpg",
+                "url": "https://gizmodo.com/samsung-owned-jbl-quietly-cuts-40-off-tune-770nc-anc-headphones-on-amazon-2000788194",
+                "source": "Gizmodo",
+                "date": "2026-07-22T10:10:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SynGenSys makes key appointments to strengthen senior commercial and scientific teams",
+                "desc": "SynGenSys, a biotechnology company designing synthetic gene promoter systems to address critical bottlenecks in biopharma manufacturing and enhance cell and gene therapy development, today announced the expansion of its senior commercial and scientific teams with the appointments of several heads of departments.",
+                "image": "https://www.news-medical.net/image-handler/picture/2014/7/134984011-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20260722/SynGenSys-makes-key-appointments-to-strengthen-senior-commercial-and-scientific-teams.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-22T10:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two 'Day One' Games Are Available Today Across Xbox And PC Game Pass (July 22)",
+                "desc": "\"Work together across randomly generated shifts to investigate your customers...\" - Ready for some more Xbox Game Pass additions? We've got two of them joini...",
+                "image": "https://images.purexbox.com/95b858bf1e80f/large.jpg",
+                "url": "https://www.purexbox.com/news/2026/07/two-day-one-games-are-available-today-across-xbox-and-pc-game-pass-july-22",
+                "source": "Pure Xbox",
+                "date": "2026-07-22T10:07:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mozilla Adds Built-In Containers In Firefox Version 153 For Easier, Safer Browsing",
+                "desc": "Mozilla Firefox version 153 now offers built-in Containers, letting users keep work, shopping and banking activity separate, with private cookies and no shared ad tracking.",
+                "image": "https://imgs.etvbharat.com/etvbharat/prod-images/22-07-2026/1200-675-27207604-817-27207604-1784714787969.jpg",
+                "url": "https://www.etvbharat.com/en/technology/mozilla-firefox-version-153-containers-enn26072204211",
+                "source": "ETV Bharat",
+                "date": "2026-07-22T10:07:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Babcock France sign for multi pilot VR H145 simulator from Loft Dynamics",
+                "desc": "Babcock France sign for virtual reality based simulator from Loft Dynamics it is the first VR simulator to allow multi crew training.",
+                "image": "https://www.rotorhub.com/wp-content/uploads/2026/07/Untitled-design-3.jpg",
+                "url": "https://www.rotorhub.com/babcock-france-sign-for-multi-pilot-vr-h145-simulator-from-loft-dynamics/",
+                "source": "RotorHub International",
+                "date": "2026-07-22T10:06:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Driven: Lotus Emira 420 Sport is lighter, faster, £105k track weapon",
+                "desc": "Lightest and fastest version of sports car so far delivers even greater driver thrills",
+                "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/lotus-emira-420-sport-review-2026-044.jpg",
+                "url": "https://www.autocar.co.uk/car-news/new-cars/driven-lotus-emira-420-sport-lighter-faster-%C2%A3105k-track-weapon",
+                "source": "Autocar",
+                "date": "2026-07-22T10:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 Lotus Emira 420 Sport | PH Review",
+                "desc": "More power and less weight makes for the world's fastest four-cylinder production car - is it also the Emira we've been waiting for?",
+                "image": "https://images.pistonheads.com/nimg/51452/013.jpg",
+                "url": "https://www.pistonheads.com/news/ph-driven/2026-lotus-emira-420-sport--ph-review/51452",
+                "source": "PistonHeads",
+                "date": "2026-07-22T10:05:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "EXEED SIVP Embeds Safety into Every Step, from Recognition to Full Stop",
                 "desc": "Plentisoft Press Releases | Wuhu, Anhui, China, July 22, 2026 -- In the rapidly evo",
@@ -1174,99 +1264,99 @@
                 "source": "TechCrunch",
                 "date": "2026-07-21T23:55:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "SilverStone Quietly Lists CS240 Mini-ITX NAS Case With Four Hot-Swap U.2 Bays",
-                "desc": "SilverStone has quietly listed the CS240, a Mini-ITX NAS chassis first shown at Computex 2026 back in June, built around four hot-swappable 2.5-inch U.2 drives in a compact 21.65-liter footprint. The chassis measures 211 x 285 x 360 mm and is built from aluminium (front door), plastic (front...",
-                "image": "https://www.techpowerup.com/img/MQ9RxU3jmpb38r1e.jpg",
-                "url": "https://www.techpowerup.com/350950/silverstone-quietly-lists-cs240-mini-itx-nas-case-with-four-hot-swap-u-2-bays",
-                "source": "TechPowerUp",
-                "date": "2026-07-21T22:05:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "35 Wildly Inappropriate Posts From Older People",
-                "desc": "Hilarious and shocking posts from older internet users that will leave you speechless. See the wildly inappropriate content that broke the internet.",
-                "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/21/21/thumb/k5-wRpWHX.jpg?crop=2490:1660;5,0&resize=1250:830",
-                "url": "https://www.buzzfeed.com/daves4/funny-posts-from-old-people-july-2026",
-                "source": "buzzfeed.com",
-                "date": "2026-07-21T22:01:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Public PoC triggers active exploitation of critical SharePoint RCE vulnerability CVE",
-                "desc": "Critical SharePoint RCE vulnerability CVE-2026-50522 is under active exploitation after the release of a PoC exploit code.",
-                "image": "https://securityaffairs.com/wp-content/uploads/2019/05/Microsoft-SharePoint.jpg",
-                "url": "https://securityaffairs.com/195760/security/public-poc-triggers-active-exploitation-of-critical-sharepoint-rce-vulnerability-cve-2026-50522.html",
-                "source": "Security Affairs",
-                "date": "2026-07-21T21:59:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Argon2id password hashing neutralizes GPU advantage in cracking attempts",
-                "desc": "A study by Specops researcher David Ketler examined Argon2id's performance against current password-cracking hardware, specifically testing an eight-GPU system with Nvidia RTX 5090 cards and a single AMD EPYC 9B14 server processor.",
-                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2023/10/1010_password.jpg",
-                "url": "https://www.scworld.com/brief/argon2id-password-hashing-neutralizes-gpu-advantage-in-cracking-attempts",
-                "source": "SC Media",
-                "date": "2026-07-21T21:54:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy Watch 9 and Ultra 2 specs and pricing leak in full",
-                "desc": "A fresh leak purports to reveal the full specs sheet of the Galaxy Watch 9 and Watch Ultra 2, as well as likely European pricing.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-Ultra-2025-Titanium-Blue-closeup-on-case-and-watch-face.jpg",
-                "url": "https://www.androidauthority.com/rumored-samsung-galaxy-watch-9-ultra-2-specs-3689892/",
-                "source": "Android Authority",
-                "date": "2026-07-21T21:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Imperial Reports Mount Polley Permit Issuance, Mount Polley Production Update for 2026 Second Quarter, and Huckleberry Mine Exploration Results",
-                "desc": "VANCOUVER, British Columbia, July 21, 2026 (GLOBE NEWSWIRE) -- Imperial Metals Corporation ('Imperial”) (TSX:III) reports that the British Columbia Environmental Assessment Office (EAO) has recommended approval of Mount Polley Tailings Dam construction to the 987 metre elevation from the previously permitted 974 metre elevation. The regulatory process included consultation with First Nations in the area. Based on EAO’s recommendation, Minister Brar (Mining and Critical Minerals) and Minister Davidson (Environment and Parks) have granted consent, and the corresponding permits were issued. The permitted facility will provide storage of the tailings generated by the expanded mining to 2034.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/22/1145874.jpg",
-                "url": "https://www.manilatimes.net/2026/07/22/tmt-newswire/globenewswire/imperial-reports-mount-polley-permit-issuance-mount-polley-production-update-for-2026-second-quarter-and-huckleberry-mine-exploration-results/2388916",
-                "source": "The Manila Times",
-                "date": "2026-07-21T21:41:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Use Your Phone Less in 2026 Without Feeling Like You’re Missing Out",
-                "desc": "Learn how to use your phone less in 2026 with practical strategies that reduce screen time without making you feel disconnected.",
-                "image": "https://h2g6j3q2.delivery.rocketcdn.me/wp-content/uploads/2026/07/IMG_9515.jpeg",
-                "url": "https://www.techcityng.com/how-to-use-phone-less-2026/",
-                "source": "techcityng.com",
-                "date": "2026-07-21T21:41:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Upgrade program is coming next week with up to 36-month payment plans",
-                "desc": "When this launches, the iPhone Upgrade Program will be discontinued. According to a new report from Bloomberg, Apple is planning to launch a new device...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-upgrade-program-rumor/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/apple_upgrade_program_is_coming_next_week_with_up_to_36month_payment_plans-news-73820.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-21T21:41:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Open-source AI predicts key peptide traits before costly lab testing",
-                "desc": "Penn Engineers have developed PeptiVerse, an AI-powered platform that predicts key chemical and biological properties of peptides, strings of amino acids whose medical potential has been demonstrated by the success of GLP-1 drugs, widely used weight-loss treatments.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-platform-could-spee.jpg",
-                "url": "https://phys.org/news/2026-07-source-ai-key-peptide-traits.html",
-                "source": "Phys.org",
-                "date": "2026-07-21T21:30:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple shares video on how Apple Watch helped rescue an injured cyclist",
-                "desc": "Apple published a new video recounting how Fall Detection and Emergency SOS helped rescue an injured cyclist. You can watch it below.",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-watch-rescue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/21/apple-shares-true-story-video-on-how-apple-watch-helped-rescue-an-injured-cyclist/",
-                "source": "9to5Mac",
-                "date": "2026-07-21T21:27:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "South Africa needs smarter visas, not just harder borders",
+                "desc": "A visa regime acknowledging the inevitability of some migration between neighbouring countries could affordably reduce irregular migration.",
+                "image": "https://issafrica.s3.amazonaws.com/site/images/banners/1784714674222-2026-07-22-iss-today-banner.jpg",
+                "url": "https://issafrica.org/iss-today/south-africa-needs-smarter-visas-not-just-harder-borders",
+                "source": "ISS Africa",
+                "date": "2026-07-22T10:09:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cube Lab to Advance Holistic Development; Shri Yogendra Upadhyaya to Grace the Inauguration",
+                "desc": "New Delhi [India], July 22: At a time when academic excellence alone is no longer enough to prepare children for an increasingly complex world, Feeling Minds®, one of India's pioneering organisations in emotional education and evidence-based psychological interventions, is launching India's first Experiential Emotional Education Experience Centre - the E-Cube Lab. The initiative marks a significant milestone in reimagining education by placing emotional learning alongside academic achievement through structured, immersive and psychology-driven experiences.",
+                "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260722100852-thumbnail-320x180-70.jpg",
+                "url": "https://www.aninews.in/news/business/feeling-minds174-launches-indias-first-e-cube-lab-to-advance-holistic-development-shri-yogendra-upadhyaya-to-grace-the-inauguration20260722153934/",
+                "source": "ANI News",
+                "date": "2026-07-22T10:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria has potentials to dictate global economy - JBC",
+                "desc": "They made the submission at a reception organised by the JBC in honor of Rotarian Hakeem Babalola on his investiture as",
+                "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/JBC-logo.png",
+                "url": "https://tribuneonlineng.com/nigeria-has-potentials-to-dictate-global-economy-jbc/",
+                "source": "Tribune Online",
+                "date": "2026-07-22T10:08:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Our 12 Favorite Photos From the New Book ‘Cleare Perspectives’",
+                "desc": "The new book 'Cleare Perspectives' tours the archive of the late British photography legend. Here are 12 of our favorite shots.",
+                "image": "https://cdn.climbing.com/wp-content/uploads/2026/07/clint-eastwood-eiger-john-cleare.jpg",
+                "url": "https://www.climbing.com/culture-climbing/cleare-perspectives-john-cleare-photos/?scope=anon",
+                "source": "Climbing Magazine",
+                "date": "2026-07-22T10:07:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Supportive Cancer Care Takes Center Stage as Members of the National Coalition Together for Supportive Cancer Care Ring the Nasdaq Closing Bell",
+                "desc": "Supportive Cancer Care Takes Center Stage as Members of the National Coalition Together for Supportive Cancer Care Ring the Nasdaq Closing Bell",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/22/1146454.jpg",
+                "url": "https://www.manilatimes.net/2026/07/22/tmt-newswire/globenewswire/supportive-cancer-care-takes-center-stage-as-members-of-the-national-coalition-together-for-supportive-cancer-care-ring-the-nasdaq-closing-bell/2389157",
+                "source": "The Manila Times",
+                "date": "2026-07-22T10:07:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hijacked tanker held off Puntland after Gulf of Aden seizure",
+                "desc": "The hijacking of a Tanzanian-flagged chemical and oil-products tanker off Yemen's southern coast has heightened concerns.",
+                "image": "https://safety4sea.com/wp-content/uploads/2018/04/somalia-piracy-e1522933229720.png",
+                "url": "https://safety4sea.com/hijacked-tanker-held-off-puntland-after-gulf-of-aden-seizure/",
+                "source": "safety4sea",
+                "date": "2026-07-22T10:06:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UNAIDS chief calls for 'radical change' in Africa amid aid cuts",
+                "desc": "Last year, US President Donald Trump's administration dismantled the world's largest aid agency, the United States Agency for International Development (USAID), cutting off funding for programmes across the world.",
+                "image": "https://etimg.etb2bimg.com/thumb/msid-132555961,imgsize-63744,width-1200,height=627,overlay-ethealth,resizemode-75/industry/unaids-chief-calls-for-radical-change-in-africa-amid-aid-cuts.jpg",
+                "url": "https://health.economictimes.indiatimes.com/news/industry/unaids-chief-calls-for-radical-change-in-africa-amid-aid-cuts/132555961",
+                "source": "ET HealthWorld",
+                "date": "2026-07-22T10:05:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to master the art of making a baked potato",
+                "desc": "Cheap, comforting and easy to make – should we all be eating more baked potatoes?",
+                "image": "https://www.rte.ie/images/0024bd30-1600.jpg",
+                "url": "https://www.rte.ie/lifestyle/food/2026/0722/1584550-how-to-master-the-art-of-making-a-baked-potato/",
+                "source": "RTE.ie",
+                "date": "2026-07-22T10:05:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US reaffirms vigilance against jihadist threats",
+                "desc": "The United States has said jihadist terrorist groups have remained a danger to global peace and security despite effective global...",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/07/image-223.png",
+                "url": "https://www.vanguardngr.com/2026/07/us-reaffirms-vigilance-against-jihadist-threats/",
+                "source": "Vanguard News",
+                "date": "2026-07-22T10:02:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "It cost £2.1bn to divert a river in Brazil’s outback. So where has all the water gone?",
+                "desc": "Despite official claims that the São Francisco River project supplies 12m people, many of those who had to make way for its construction in 2007 still have no water at all",
+                "image": "https://i.guim.co.uk/img/media/cfff5f5baea6e69890421dad7a1bd407b689ca98/463_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4948da6f26b3be7dfa1bd3c78d26b027",
+                "url": "https://www.theguardian.com/global-development/2026/jul/22/sao-francisco-river-brazil-water-scarcity-canal-diversion-sertao",
+                "source": "The Guardian",
+                "date": "2026-07-22T10:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ministry of Transport, Highways gets new Secretary",
                 "desc": "President Anura Kumara Dissanayake has appointed Eng. (Dr.) Asiri Karunawardena as the new Secretary to the Ministry of Transport, Highways and Urban Development, the President’s Media Division said.",
@@ -1806,98 +1896,8 @@
                 "source": "ACI Africa",
                 "date": "2026-07-21T23:56:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "INSIGHT EU MONITORING",
-                "desc": "EU and global regulatory and policy monitoring, fact-checking, legal documents, policy positions, business, finance, digital transformation, security, sustainability.",
-                "image": "https://ieu-monitoring.com/wp-content/uploads//2023/11/ieu-logo-neu-150x150.png",
-                "url": "https://ieu-monitoring.com/event/eu-parliament-agenda-for-23-july-2026",
-                "source": "INSIGHT EU MONITORING",
-                "date": "2026-07-21T22:02:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump says he ordered resumption of direct US-Lebanon flights for first time in decades",
-                "desc": "US president tells Lebanese counterpart he hopes others will again allow direct travel to 'this beautiful land,' though it appears highly unlikely American carriers will want to fly there soon",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260413__A7MR8WG__v1__HighRes__LebanonIsraelIranUsWarTransportAviation-e1784669481449.jpg",
-                "url": "https://www.timesofisrael.com/trump-says-he-ordered-resumption-of-direct-us-lebanon-flights-for-first-time-in-decades/",
-                "source": "The Times of Israel",
-                "date": "2026-07-21T22:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelenskyy replaces Ukraine military chief after protests",
-                "desc": "Replaced military chief Syrskyi clashed with former Defence Minister Fedorov, whose removal last week led to protests.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5fe73235d8f-1784670002.jpg?resize=1920%2C1333",
-                "url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests",
-                "source": "Al Jazeera",
-                "date": "2026-07-21T21:59:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hundreds flee as wildfire rips through southern France",
-                "desc": "COTIGNAC, France: A fast-moving wildfire erupted Tuesday in southern France, forcing hundreds out of their homes as nearly 1,000 firefighters and water-bombing aircraft battled to stop the blaze. The fire swept through wooded hills in the Var region, burning 1,700 hectares (4,200 acres) in just a few hours and prompting the evacuation of nearly 400 people, the area’s top",
-                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/07/22/4733593-1544105023.jpg?itok=v32tLidh",
-                "url": "https://www.arabnews.pk/node/2651821/world",
-                "source": "Arab News PK",
-                "date": "2026-07-21T21:59:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The blast radius of the middle powers theory",
-                "desc": "Global power is in flux. Your daily guide to what comes next. By RIYA MISRA Send tips here | View in your browser Canadian Prime Minister Mark Carney speaks during a news conference at the National…",
-                "image": "https://www.politico.eu/wp-content/themes/politico/assets/images/opengraph.jpg",
-                "url": "https://www.politico.eu/newsletter/forecast/the-blast-radius-of-the-middle-powers-theory/",
-                "source": "politico.eu",
-                "date": "2026-07-21T21:51:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry told ‘you’re taking the p***’ after huge blow",
-                "desc": "The prince was issued a landmark smackdown during his recent visit to the UK",
-                "image": "https://cdn.images.express.co.uk/img/dynamic/106/1200x630/7054554.jpg",
-                "url": "https://www.express.co.uk/news/royal/2231611/prince-harry-will-be-consequences-high-court",
-                "source": "Daily Express",
-                "date": "2026-07-21T21:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa CDC says US should lift Ebola travel restrictions on Uganda",
-                "desc": "Africa's top public health agency said Tuesday it does not support travel bans in response to the continent's worsening Ebola outbreak, urging the United States to lift restrictions imposed on Uganda.",
-                "image": "https://assets.citizen.digital/170010/conversions/4a517bba-a810-4147-b843-e9d5de8f3be9_AFP__20260605__B66T3VF__v1__HighRes__DrcongoHealthEbola-og_image.webp",
-                "url": "https://citizen.digital/article/africas-top-public-health-agency-said-tuesday-it-does-not-support-travel-bans-in-response-to-the-co-n386861",
-                "source": "Citizen Digital",
-                "date": "2026-07-21T21:43:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. House Unanimously Passes DeOndra Dixon INCLUDE Project Act - A Historic Victory for Down Syndrome Research",
-                "desc": "Landmark bipartisan legislation would permanently authorize the first NIH-wide Down syndrome research program and help ensure life-saving research continues for generations",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/22/1145867.jpg",
-                "url": "https://www.manilatimes.net/2026/07/22/tmt-newswire/globenewswire/us-house-unanimously-passes-deondra-dixon-include-project-act-a-historic-victory-for-down-syndrome-research/2388913",
-                "source": "The Manila Times",
-                "date": "2026-07-21T21:41:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU, Oman sign agreement to establish mission in Muscat",
-                "desc": "The European Union and Oman have signed an agreement to open a permanent EU Mission in Muscat, as the regional ​alliance consolidates its footprint in the",
-                "image": "https://dailypost.ng/wp-content/uploads/2026/07/Oman.jpg",
-                "url": "https://dailypost.ng/2026/07/21/eu-oman-sign-agreement-to-establish-mission-in-muscat/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-21T21:39:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bill Gates foundation met with Jeffrey Epstein about 30 times, external review finds",
-                "desc": "Staff ‘raised on multiple occasions’ risks of tech mogul’s philanthropic body associating with disgraced financier",
-                "image": "https://i.guim.co.uk/img/media/3b4d4a1ba61f900990edfa513962c35279394e87/519_0_6430_5144/master/6430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=173962a9571d265e78fbea79702f19aa",
-                "url": "https://www.theguardian.com/us-news/2026/jul/21/bill-gates-foundation-jeffrey-epstein-review",
-                "source": "The Guardian",
-                "date": "2026-07-21T21:36:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-22T20:47:07.268479Z"
+    "lastGlobalSync": "2026-07-22T22:11:23.479989Z"
 }
