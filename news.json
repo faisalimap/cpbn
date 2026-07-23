@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Bill takes aim at Chinese AI companies accused of U.S. tech",
+                "desc": "The bipartisan effort addresses claims from American tech companies and officials that Chinese companies are “distilling” frontier U.S. models.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260722-adam-schiff-mn-1030-3e5190.jpg",
+                "url": "https://www.nbcnews.com/tech/tech-news/bill-takes-aim-chinese-ai-companies-accused-us-tech-rcna588686",
+                "source": "NBC News",
+                "date": "2026-07-23T08:00:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Finnair Removes Planned A350 4Q26 Delhi Service",
+                "desc": "Published at 0100PDT / 0800GMT 23JUL26   Finnair in recent schedule update revised planned operational aircraft on Helsinki – Delhi route during Northern winter 2026/27 season. From Helsinki, the airline previously planned to operate A350-900 aircraft on most dates between 25OCT26 and 12",
+                "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
+                "url": "https://www.aeroroutes.com/eng/260723-ay4q26del",
+                "source": "AeroRoutes",
+                "date": "2026-07-23T08:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No, you can't ride the O-Train to Trim Road just yet - even if all the signs are there",
+                "desc": "If you're hoping to take the O-Train all the way to Trim Road in Ottawa's east end, don't hop aboard just yet — even if you see signs at LRT stations that seem to indicate it will take you there.",
+                "image": "https://i.cbc.ca/ais/f0fba209-c9a2-405a-b0cf-23567c2fcedc,1784736171945/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/ottawa/no-you-can-t-ride-the-o-train-to-trim-road-just-yet-even-if-all-the-signs-are-there-9.7269609",
+                "source": "CBC",
+                "date": "2026-07-23T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brent North Sea oil price hits $100 on Mideast attacks",
+                "desc": "Oil prices hit their highest in nearly two months today, rising for a fifth day after Yemen's Houthis said they struck two Saudi oil tankers, widening disruption to global oil shipping through both the Red Sea and the Strait of Hormuz.",
+                "image": "https://www.rte.ie/images/001c9586-1600.jpg",
+                "url": "https://www.rte.ie/news/business/2026/0723/1584740-oil-prices-rise-for-a-fifth-day-on-supply-concerns/",
+                "source": "RTE.ie",
+                "date": "2026-07-23T07:57:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sandisk: AI Euphoria Is Gone, Sell On Flash",
+                "desc": "Sandisk's peak-cycle multiples overlook threats from rapid AI memory compression, CXL DRAM pooling, and demand evaporation. Learn why SNDK stock is a sell.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157393591/image_157393591.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4924543-sandisk-ai-euphoria-is-gone-sell-on-flash",
+                "source": "Seeking Alpha",
+                "date": "2026-07-23T07:55:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Defense boom lifts European stocks amid strong earnings; Dassault pops 8%",
+                "desc": "The continent's defense upcycle translated into another quarter of higher revenue and swelling order books.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108103392-1739867949579-gettyimages-2177148157-GREECE_NATO.jpeg?v=1739867976&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/23/dassault-thales-indra-stock-earnings-defense-boom.html",
+                "source": "CNBC",
+                "date": "2026-07-23T07:55:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ayala Group leads Philippine firms in latest FTSE4Good Index",
+                "desc": "The Zobel-led Ayala Group has the largest number of Philippine companies included in the FTSE4Good Index Series, with parent company Ayala Corp. extending its...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/23/118235.webp",
+                "url": "https://mb.com.ph/2026/07/23/ayala-group-leads-philippine-firms-in-latest-ftse4good-index",
+                "source": "Manila Bulletin",
+                "date": "2026-07-23T07:54:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fuel boss expects price to rise 15-20 cents a litre in coming weeks",
+                "desc": "A fuel boss says he expects prices to climb 15 - 20 cents per litre in coming weeks, after new developments in the US - Iran conflict.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--LBN0H0pD--/t_tohu-badge-facebook/f_auto/q_auto/4JRI73O_Auckland_Commuter_voxies_00_01_53_12_Still002_jpg",
+                "url": "https://www.rnz.co.nz/news/business/779521/fuel-boss-expects-price-to-rise-15-20-cents-a-litre-in-coming-weeks",
+                "source": "RNZ",
+                "date": "2026-07-23T07:50:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firm hacked by rogue OpenAI models says it is ‘a wake-up call’",
+                "desc": "The ChatGPT-maker said on Tuesday that its AI models broke out of a secure test environment during a trial and launched a cyber attack. The firm said the incident was...",
+                "image": "https://capitalfm.africa/wp-content/uploads/2026/07/1780735401410.jpg",
+                "url": "https://capitalfm.africa/firm-hacked-by-rogue-openai-models-says-it-is-a-wake-up-call/",
+                "source": "Capitalfm.co.ke",
+                "date": "2026-07-23T07:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sisk lands £38m London Irish Centre rebuild",
+                "desc": "Work starts in January on three-storey Camden cultural and community hub",
+                "image": "https://www.constructionenquirer.com/wp-content/uploads/Coffey-Architects_London-Irish_Exterior-View-1-1200x828.jpg",
+                "url": "https://www.constructionenquirer.com/2026/07/23/sisk-lands-38m-london-irish-centre-rebuild/",
+                "source": "Construction Enquirer",
+                "date": "2026-07-23T07:45:29Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Man who won £235m on Powerball wished he 'tore up ticket' after life imploded",
                 "desc": "The world's biggest lottery game has launched in the UK this week and below we look inside the brutal downfall of a previous record-breaking Powerball winner",
                 "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7056035.jpg",
@@ -542,99 +632,99 @@
                 "source": "Medical Xpress",
                 "date": "2026-07-22T19:20:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New Twist Deals Blow to Trump’s Lettuce Outbreak Probe",
-                "desc": "The investigation into the lettuce-linked cyclosporiasis outbreak has hit a snag.",
-                "image": "https://www.thedailybeast.com/resizer/v2/IXVTA6XBTRBCVPR5MVSCFZ3QQY.JPG?smart=true&auth=c30420d9a96488e722a0f545f818bf37d320ca9c4b585570b06f03496dd0cfe4&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/new-twist-deals-blow-to-trumps-cyclospora-lettuce-outbreak-probe/",
-                "source": "The Daily Beast",
-                "date": "2026-07-22T16:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mark Zuckerberg's Meta Is in Talks for a $10 Billion Anthropic Deal That Would Make Meta the Fourth Major Cloud Provider. Meta Stock Reports Q2 Earnings on July 29.",
-                "desc": "Will an announcement on Meta's earnings call lead to a surge in the stock price?",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879985%2Fmeta.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/22/mark-zuckerbergs-meta-is-in-talks-for-a-10-billion/",
-                "source": "The Motley Fool",
-                "date": "2026-07-22T16:55:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stock Market Midday, July 22: Markets Brace for Alphabet Earnings as Hyperscaler's AI Debt Comes Into Focus",
-                "desc": "Today, July 22, 2026, WTI crude oil jumped above $86 per barrel on Middle East tensions, sparking inflation fears.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8df196edf8e8c0401e1e66caa1b50f898f1c2d48-1400x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-midday-july-22-markets-brace-for-alphabet-earnings-as-hyperscaler-s-ai-debt-comes-under-spotlight/",
-                "source": "The Motley Fool",
-                "date": "2026-07-22T16:55:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Traditional advertising is not dead', says Lanre Adisa as AAAN begins 53rd AGM",
-                "desc": "The Association of Advertising Agencies of Nigeria (AAAN) says it will today commence its 53rd annual general meeting (AGM) and congress in Lagos.",
-                "image": "https://www.thecable.ng/wp-content/uploads/2026/07/Lanre-Adisa-xx-2026-07-22-237.webp",
-                "url": "https://www.thecable.ng/traditional-advertising-is-not-dead-says-lanre-adisa-as-aaan-begins-53rd-agm/",
-                "source": "TheCable",
-                "date": "2026-07-22T16:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese Auto Brands Lead Japanese In Western Europe; VW Suffers",
-                "desc": "Chinese brands edged out Japanese names in Western Europe during the second quarter for the first time, while VW brand led local losers in the first half.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/697b6af5b6d49a384be96998/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/neilwinton/2026/07/22/chinese-auto-brands-lead-japanese-in-western-europe-vw-suffers/",
-                "source": "Forbes",
-                "date": "2026-07-22T16:52:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taxpayer in wrong court after CRA penalizes for TFSA overcontributions",
-                "desc": "Jamie Golombek: A British Columbia taxpayer learned the hard way that challenging a decision starts with the CRA, not the Tax Court. Read on",
-                "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/no0722cra.jpg",
-                "url": "https://financialpost.com/personal-finance/taxes/taxpayer-wrong-court-cra-penalized-tfsa-overcontributions",
-                "source": "Financial Post",
-                "date": "2026-07-22T16:51:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Propair suspends flights out of North Bay indefinitely",
-                "desc": "The Nugget has learned Propair has suspended all flights out of North Bay indefinitely.",
-                "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/02/0216-nb-propair.nb_.jpg",
-                "url": "https://www.nugget.ca/news/propair-suspends-flights-out-of-north-bay-indefinitely",
-                "source": "North Bay Nugget",
-                "date": "2026-07-22T16:49:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan crude oil import costs surge to third consecutive record in June",
-                "desc": "Japan's crude oil import price reached a record high in yen terms in June, marking a third straight monthly record",
-                "image": "https://media.assettype.com/bairdmaritime%2F2026-04-24%2F685x4uzr%2Fphtcr.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.bairdmaritime.com/shipping/tankers/japan-crude-oil-import-costs-surge-to-third-consecutive-record-in-june",
-                "source": "Baird Maritime",
-                "date": "2026-07-22T16:48:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-                "desc": "This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2274109678-1152x648.jpg",
-                "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-                "source": "Ars Technica",
-                "date": "2026-07-22T16:47:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Platforms Has $420 Billion in Hidden Debt, and It’s Growing",
-                "desc": "Meta is taking on more debt that isn't reflected yet in the company's quarterly balance sheets.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3255aafcbd13925370a8646af43e20c479482f36-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/22/meta-platforms-has-420-billion-in-hidden-debt-and-its-growing/",
-                "source": "The Motley Fool",
-                "date": "2026-07-22T16:46:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Samsung promises more software updates for the Galaxy Watch 9, Ultra 2",
+                "desc": "Samsung extends Galaxy Watch 9 and Watch Ultra 2 software support to five major OS upgrades and five years of security patches.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/galaxy-watch-8-classic-watch-ultra-2-scaled.jpeg",
+                "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-software-support-3690537/",
+                "source": "Android Authority",
+                "date": "2026-07-23T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New PS5 Firmware Update Is Available to Download Now, Here's What It Does",
+                "desc": "What does version 26.05-13.60.00 do? - Sony has issued another update for the PS5, bringing its system software to version 26.05-13.60.00. This comes a few ...",
+                "image": "https://images.pushsquare.com/1380cb768783c/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/new-ps5-firmware-update-is-available-to-download-now-heres-what-it-does",
+                "source": "Push Square",
+                "date": "2026-07-23T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Voice Control Toolkit Comes To A Pico Near You",
+                "desc": "Voice-controlled appliances are nothing new. What might be new, however, is [Moonshine AI] running it all locally on a Raspberry Pi Pico 2 W!\nThe voice interface is roughly divided into three parts: ...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/07/picovoice-thumb.jpg",
+                "url": "https://hackaday.com/2026/07/23/voice-control-toolkit-comes-to-a-pico-near-you/",
+                "source": "Hackaday",
+                "date": "2026-07-23T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dual-battery code in iOS 27 fuels foldable iPhone speculation",
+                "desc": "Apple may be preparing to launch its first foldable iPhone, according to a recent report by Macworld that says newly discovered code in the latest iOS 27 developer beta contains fresh references to a device with two internal batteries.",
+                "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/ubeyonroad-nAXaHK_b_IM-unsplash.jpg",
+                "url": "https://www.thedailystar.net/news/tech-startup/news/dual-battery-code-ios-27-fuels-foldable-iphone-speculation-4230606",
+                "source": "The Daily Star",
+                "date": "2026-07-23T07:57:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASUS Releases Beta Version of Zenni Claw for Supported ASUS Devices",
+                "desc": "ASUS today announced the beta release of ASUS Zenni Claw, an agentic AI software designed to help users of supported ASUS devices turn everyday prompts into guided, task-oriented workflows. First introduced at Computex 2026, ASUS Zenni Claw makes agentic AI more approachable for everyday users....",
+                "image": "https://www.techpowerup.com/img/FWz5IQ3X1jo65Dcb.jpg",
+                "url": "https://www.techpowerup.com/350995/asus-releases-beta-version-of-zenni-claw-for-supported-asus-devices",
+                "source": "TechPowerUp",
+                "date": "2026-07-23T07:56:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Iconic Pilot’s Watch That Started It All",
+                "desc": "Cartier revives the iconic Santos-Dumont, blending its original 1904 design with a new gilded obsidian dial and refined bracelet for modern luxury watch collectors.",
+                "image": "https://media.assettype.com/esquireindia%2F2026-07-23%2F413dmwlr%2FUntitled-design-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://www.esquireindia.co.in/style/watches-and-jewellery/cartier-reintroduces-the-santos-dumont-the-iconic-pilots-watch-that-started-it-all",
+                "source": "Esquire India",
+                "date": "2026-07-23T07:54:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 ways to navigate the thousands of games included in the eShop Winter Sale",
+                "desc": "We calculate that there are 4 704 games on sale right now.",
+                "image": "https://htxt.co.za/wp-content/uploads/2026/07/Nintendo-eShop-Winter-Sale-2026.png",
+                "url": "https://htxt.co.za/2026/07/5-ways-to-navigate-the-thousands-of-games-included-in-the-eshop-winter-sale/",
+                "source": "htxt.co.za",
+                "date": "2026-07-23T07:45:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet Phantom Twist, a stealthy new drone that hides in plain sight by tricking your eyes",
+                "desc": "High-speed rotation exploits the concept of motion blur to conceal a new drone while it's in flight.",
+                "image": "https://cdn.mos.cms.futurecdn.net/h4hDjE5SFterqPpqnZJeJk.gif",
+                "url": "https://www.livescience.com/technology/robotics/meet-phantom-twist-a-stealthy-new-drone-that-hides-in-plain-sight-by-tricking-your-eyes",
+                "source": "Live Science",
+                "date": "2026-07-23T07:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox announces backwards compatibility for PC and handheld devices",
+                "desc": "New initiative kicks off with four classic titles, including Conker: Live and Reloaded and Crimson Skies: High Road to Revenge",
+                "image": "https://assetsio.gnwcdn.com/xbox-backwards-compatibility.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/xbox-announces-backwards-compatibility-for-pc-and-handheld-devices",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-23T07:41:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The AI Era: Designing Prompts and Tools to Support Scenario Writers",
+                "desc": "©CygamesCygames held a session at CEDEC 2026 today (the 23rd) regarding the integration of AI in the game industry, specifically focusing on scenario writing.",
+                "image": "https://static.invenglobal.com/upload/image/2026/07/23/r1784792602880565.jpeg",
+                "url": "https://www.invenglobal.com/articles/24098/the-ai-era-designing-prompts-and-tools-to-support-scenario-writers",
+                "source": "Inven Global",
+                "date": "2026-07-23T07:41:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Samsung Announces Intelligent Eyewear Built on Android XR",
                 "desc": "Samsung reveals Gemini-powered smart glasses at Galaxy Unpacked, with designs created alongside Gentle Monster and Warby Parker | XR News from Auganix.com",
@@ -1174,99 +1264,99 @@
                 "source": "CBC",
                 "date": "2026-07-22T19:20:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon slashes $70 off the TCL NXTPAPER 11 Gen 2 tablet",
-                "desc": "Save 30% on the TCL NXTPAPER 11 Gen 2 at Amazon, with its matte 11-inch display, Android 15, and a strong 4.8-star rating.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/TCL-NXTPAPER-11-Gen-2-Android-Tablet-Press-Image.jpg",
-                "url": "https://www.androidauthority.com/tcl-nxtpaper-11-gen-2-tablet-deal-3690328/",
-                "source": "Android Authority",
-                "date": "2026-07-22T16:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2000s-Era Xbox Games Are Coming to Windows 11: Here Are the First 4",
-                "desc": "The Xbox Backward Compatibility on PC program is starting with titles originally released between 2001 and 2005. They will also work on gaming handhelds.",
-                "image": "https://i.pcmag.com/imagery/articles/07AkOfZ9FQpgnG8jxGGzCaP-1.fit_lim.size_1200x630.v1784734317.jpg",
-                "url": "https://www.pcmag.com/news/2000s-era-xbox-games-are-coming-to-windows-11-here-are-the-first-4",
-                "source": "PCMag",
-                "date": "2026-07-22T16:53:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2000s-Era Xbox Games Are Coming to Windows 11: Here Are the First 4",
-                "desc": "The Xbox Backward Compatibility on PC program is starting with titles originally released between 2001 and 2005. They will also work on gaming handhelds.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/2/2000s-era-/2000s-era-xbox-games-are-coming-to-windows-11-here-are-the-f_27ru.1200.jpg",
-                "url": "https://au.pcmag.com/microsoft-xbox-games/118909/2000s-era-xbox-games-are-coming-to-windows-11-here-are-the-first-4",
-                "source": "PCMag Australia",
-                "date": "2026-07-22T16:53:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Real estate's new paper trap",
-                "desc": "This is a condensed version of Business Insider Today, a newsletter that gives you a look at the week’s top stories. Read today's big story on Business Insider.",
-                "image": "https://media.licdn.com/dms/image/v2/D4E12AQEQBYCOsSC-1w/article-cover_image-shrink_720_1280/B4EZ.GprF0JYAU-/0/1784670499961?e=2147483647&v=beta&t=XwswCRnYxTG0YEVz7rv4e3M5VUo_2JNwPmTINPZLQDk",
-                "url": "https://www.linkedin.com/pulse/real-estates-new-paper-trap-businessinsider-m2tuc",
-                "source": "LinkedIn",
-                "date": "2026-07-22T16:53:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's Galaxy Z Fold 8 Is for Everyone Who Can't Stop Scrolling",
-                "desc": "Samsung's book-style foldable could be better suited to the way we actually browse the internet and watch videos.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-galaxy-z-fold-8-unpacked-cnet-lanxon-17.jpg",
-                "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-wide-design-social-media-scolling/",
-                "source": "CNET",
-                "date": "2026-07-22T16:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How AI can rescue cyber submissions from the black hole",
-                "desc": "Discover how IntellectAI's Agentic AI turns chaotic cyber submissions into decision-grade profiles. Read the full story now.",
-                "image": "https://fintech.global/wp-content/uploads/2026/07/nasa-hubble-space-telescope-TZIorZKAXYo-unsplash.jpg",
-                "url": "https://fintech.global/2026/07/22/how-ai-can-rescue-cyber-submissions-from-the-black-hole/",
-                "source": "FinTech Global",
-                "date": "2026-07-22T16:47:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How I rip my old DVDs directly to my iPad",
-                "desc": "Here are the steps I take to transfer the contents of my old DVD collection directly onto my Apple iPad mini.",
-                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/07/ipad-optical-disc.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.pocket-lint.com/how-i-rip-my-old-dvds-directly-to-my-ipad/",
-                "source": "Pocket-lint",
-                "date": "2026-07-22T16:46:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best headphone deal: Save $100 on the Apple AirPods Max 2",
-                "desc": "As of July 22, get $100 off the Apple AirPods Max 2 at Amazon.",
-                "image": "https://helios-i.mashable.com/imagery/articles/04Au4bqPBsTxIODz01zcERX/hero-image.fill.size_1200x675.v1784732035.png",
-                "url": "https://mashable.com/tech/july-22-apple-airpods-max-2-deal",
-                "source": "Mashable",
-                "date": "2026-07-22T16:42:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hasbro records $56m write-down and cancels \"several games\" scheduled for 2028 and beyond",
-                "desc": "Hasbro has recorded a $56 million impairment charge against its video game portfolio, confirming it has cancelled \"seve…",
-                "image": "https://assetsio.gnwcdn.com/hasbrolead.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.gamesindustry.biz/hasbro-records-56m-write-down-and-cancels-several-games-scheduled-for-2028-and-beyond",
-                "source": "GamesIndustry.biz",
-                "date": "2026-07-22T16:41:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Switching From iPhone to Android Just Got Easier With Android 17",
-                "desc": "Android 17 includes a wireless native migration experience for transferring more types of data from an iPhone, making the process of switching to an Android device easier. Google says the upgraded method allows Google Accounts, passwords, Wi-Fi credentials, and eSIMs to be transferred. It also supports photos, videos, contacts, messages, and calendars, like the prior version of the switching tool. Data transfers require an iPhone with iOS 26.3 or later.",
-                "image": "https://images.macrumors.com/t/7fsnRxNZDg-5_WyOz02JcfEWE-8=/2000x/article-new/2026/07/android-switching-tool.jpg",
-                "url": "https://www.macrumors.com/2026/07/22/iphone-android-17-switching-simpler/",
-                "source": "MacRumors",
-                "date": "2026-07-22T16:35:23Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "\"Our mission should go beyond pastoral planning,\" Tanzanian Cardinal Says Church Must Help People Encounter Christ",
+                "desc": "Protase Cardinal Rugambwa of Tanzania has called on the Church in Eastern Africa to ensure that all its pastoral initiatives lead people to a personal encounter with Christ, saying the Church's mission must go beyond programmes and planning to cultivate authentic discipleship.",
+                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-23t105305_1784793203.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/23115/our-mission-should-go-beyond-pastoral-planning-tanzanian-cardinal-says-church-must-help-people-encounter-christ",
+                "source": "ACI Africa",
+                "date": "2026-07-23T07:58:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nairobi set to host East Africa's largest livestock expo",
+                "desc": "Nairobi is set to host one of East Africa's largest livestock expositions on September 11 and 12, 2026 at Kinga Resort along Mombasa Road, Athi River,",
+                "image": "https://saccoreview.co.ke/wp-content/uploads/2026/07/Nairobi-Expo.jpg",
+                "url": "https://saccoreview.co.ke/nairobi-set-to-host-east-africas-largest-livestock-exposition-in-september/",
+                "source": "Sacco Review",
+                "date": "2026-07-23T07:58:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brent North Sea oil price hits $100 on Mideast attacks",
+                "desc": "Oil prices hit their highest in nearly two months today, rising for a fifth day after Yemen's Houthis said they struck two Saudi oil tankers, widening disruption to global oil shipping through both the Red Sea and the Strait of Hormuz.",
+                "image": "https://www.rte.ie/images/001c9586-1600.jpg",
+                "url": "https://www.rte.ie/news/business/2026/0723/1584740-oil-prices-rise-for-a-fifth-day-on-supply-concerns/",
+                "source": "RTE.ie",
+                "date": "2026-07-23T07:57:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Geopolitics projected to decide next African telecoms chief",
+                "desc": "from EMEKA OKONKWO in Abuja, Nigeria Nigeria Bureau ABUJA, (CAJ News) - A CLOSELY-FOUGHT election for the post of Secretary-General of the African Telecommunications Union (ATU) is forecast, amid predictions the fallout between South Africa and fellow African nations could hurt the prospects of the beleaguered country's candidate. The election process resumes on Thursday (today)",
+                "image": "https://cajnewsafrica.com/wp-content/uploads/2025/11/cropped-caj-logo-new-1-32x32.jpg",
+                "url": "https://cajnewsafrica.com/2026/07/23/geopolitics-projected-to-decide-next-african-telecoms-chief/",
+                "source": "CAJ News Africa",
+                "date": "2026-07-23T07:56:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ivory Coast and Pennsylvania Guard move defense partnership into field training",
+                "desc": "The Pennsylvania National Guard (PANG) and the Armed Forces of Côte d’Ivoire (FACI) have taken their new State Partnership Program (SPP) agreement from the signing table to the training ground. […]",
+                "image": "https://www.military.africa/wp-content/uploads/2026/07/The-Cote-dIvoire-Armed-Forces-and-PANationalGuard-signed-their-SPP-agreement-in-Abidjan-scaled.jpeg",
+                "url": "https://www.military.africa/2026/07/ivory-coast-and-pennsylvania-guard-move-defense-partnership-into-field-training/",
+                "source": "Military Africa",
+                "date": "2026-07-23T07:52:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Southeast Asia hosts security gathering amid Middle East turmoil",
+                "desc": "By Mikhail Flores and Michael MartinaMANILA, July 23 (Reuters) - Top diplomats from Asia, Europe and North America met on Thursday for the security-focused ASEAN Regional Forum, where ministers were expected to call for a peaceful settlement of renewed and intensifying hostilities in the Middle East.",
+                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-07/2026-07-23T021719Z_1_LYNXMPEM6M046_RTROPTP_4_ASEAN-PHILIPPINES.JPG?h=d0a03327&itok=KkZLrLkV",
+                "url": "https://www.al-monitor.com/originals/2026/07/southeast-asia-hosts-security-gathering-amid-middle-east-turmoil",
+                "source": "Al-Monitor",
+                "date": "2026-07-23T07:50:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giant swing on Swiss peak aims to boost summer tourism as Alps warm",
+                "desc": "As the chairlift nears the Grand Chamossaire peak at the Villars ski resort in the Swiss Alps, screams of terror and delight suddenly pierce the air.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--jTYZ_UIp--/t_tohu-badge-facebook/f_auto/q_auto/4JL0Z0D_AFP__20260723__C2WH3G3__v1__HighRes__SwitzerlandMountainsTourismLeisure_jpg",
+                "url": "https://www.rnz.co.nz/news/world/779517/giant-swing-on-swiss-peak-aims-to-boost-summer-tourism-as-alps-warm",
+                "source": "RNZ",
+                "date": "2026-07-23T07:50:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK Publishes 4 Things Foreigners On Student Visas Must Not Do, Mentions Application Fee",
+                "desc": "The UK has listed four things foreigners on student visas must not do and published the fee to apply for a student visa from outside the country.",
+                "image": "https://cdn.legit.ng/images/1200x675/cee95534c6cd7bee.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1720927-uk-publishes-4-foreigners-student-visas-mentions-application-fee/",
+                "source": "Legit.ng",
+                "date": "2026-07-23T07:49:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wissenschaftskolleg zu Berlin Opens Applications for 2026 Early Career Fellowships in Humanities, Social Sciences, Life and Natural Sciences",
+                "desc": "The Wissenschaftskolleg zu Berlin (Institute for Advanced Study Berlin) has opened applications for its 2026 Early Career Fellowships, offering outstanding",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/wissen.jpg",
+                "url": "https://www.globalsouthopportunities.com/2026/07/23/fellow-28/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-23T07:48:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scottish police officer was rapist who attacked women over 14 years",
+                "desc": "Alan Greer, who killed himself after officers visited his home, could be ‘Police Scotland’s Wayne Couzens moment’",
+                "image": "https://i.guim.co.uk/img/media/3afb67cc62488503c0a13588282fee8455ea9785/295_5_1325_1060/master/1325.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47ec50f116d405727612143fd2a49daf",
+                "url": "https://www.theguardian.com/society/2026/jul/23/scottish-police-officer-alan-greer-rapist-over-14-years",
+                "source": "The Guardian",
+                "date": "2026-07-23T07:48:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ramaphosa sends delegation to Mahama over South Africa xenophobic attacks",
                 "desc": "President John Dramani Mahama has disclosed that South African President Cyril Ramaphosa recently dispatched a delegation to Ghana to discuss the recurring",
@@ -1806,98 +1896,8 @@
                 "source": "ABC News & Headlines – Australian Broadcasting Corporation",
                 "date": "2026-07-22T19:14:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump's trade rep defends new tariffs on Canada",
-                "desc": "U.S. President Donald Trump's point man on tariffs is justifying the plan to slap new tariffs of 50 per cent on many Canadian products as a means of reducing the U.S. trade deficit.",
-                "image": "https://i.cbc.ca/ais/3e99ba7b-5c94-47c8-88be-8aacd29ff6d2,1776046129870/full/max/0/default.jpg?im=Crop%2Crect%3D%2834%2C60%2C3698%2C2080%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/trump-tariffs-canada-jamieson-greer-senate-finance-9.7279285",
-                "source": "CBC",
-                "date": "2026-07-22T16:57:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/07/22/6a60f513d6f8f1784739091.jpg",
-                "url": "https://techreviewafrica.com/news/6397/african-union-brings-regional-communities-together-to-accelerate-science-technology-and-innovation-agenda",
-                "source": "Tech Review Africa",
-                "date": "2026-07-22T16:52:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cause of Nolan Wells' death still unknown, initial results of independent autopsy show",
-                "desc": "Wells' family are seeking answers after the teenager was found dead in Mississippi waters earlier this month.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b74b/live/2e1ddcb0-85e5-11f1-b976-0b9c15b0ccfc.png",
-                "url": "https://www.bbc.com/news/articles/cgr7njdxxp9o",
-                "source": "BBC",
-                "date": "2026-07-22T16:48:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African Union questions future of Somalia peace mission as AUSSOM funding crisis deepens",
-                "desc": "African Union member states question the future of Somalia's peace mission as AUSSOM faces a deepening funding crisis, raising concerns over security, logistics and the mission's long-term viability.",
-                "image": "https://www.somaliguardian.com/wp-content/uploads/2021/10/AU-troops-in-Somalia-Somaliguardian-news.jpg",
-                "url": "https://www.somaliguardian.com/news/somalia-news/african-union-questions-future-of-somalia-peace-mission-aussom-funding-crisis/",
-                "source": "Somali Guardian",
-                "date": "2026-07-22T16:45:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN: 191m Nigerians couldn’t afford healthy diet in 2025 over high food costs",
-                "desc": "A new United Nations (UN) report says about 191.2 million Nigerians could not afford a healthy diet in 2025 as rising food costs…",
-                "image": "https://www.thecable.ng/wp-content/uploads/2016/08/Jollof.png",
-                "url": "https://www.thecable.ng/un-191m-nigerians-couldnt-afford-healthy-diet-in-2025-over-high-food-costs/",
-                "source": "TheCable",
-                "date": "2026-07-22T16:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
-                "desc": "Many cases related to security offences are prosecuted using a law announced after last year’s 12-day war with Israel.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a60e2b08782-1784734384.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions",
-                "source": "Al Jazeera",
-                "date": "2026-07-22T16:41:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malawi: Two Years of Kalondola - Malawi's Tax Revolution Delivers Billions, but Black Market Fight Continues",
-                "desc": "Two years after the Malawi Revenue Authority (MRA) introduced Kalondola, the country's digital tax stamp system has transformed excise tax collection, delivering billions in additional revenue and exposing previously hidden gaps in the market.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607220359.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-22T16:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commission Blocks EU-Wide Remigration Push ‘Save Europe Act’",
-                "desc": "The European Commission has refused to register the ‘Save Europe Act’ as a European Citizens’ Initiative, ruling that its proposed halt to non-Western immigration and defence of Europe’s demographic continuity would amount to racial discrimination. Organizers denounced the decision as anti-democratic and vowed to continue after gathering more than 580,000 signatures.",
-                "image": "https://www.hungarianconservative.com/wp-content/uploads/2026/07/save-europe-act-commission-refusal-scaled.jpg",
-                "url": "https://www.hungarianconservative.com/articles/current/save-europe-act-remigration-eu-commission-blocked/",
-                "source": "Hungarian Conservative",
-                "date": "2026-07-22T16:40:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UNESCO/Japan Young Researchers’ Fellowships Programme",
-                "desc": "Deadline: 30-Sep-2026 The UNESCO/Japan Young Researchers’ Fellowships Programme 2026 offers 10 fellowships for outstanding young researchers from Africa, Small Island Developing States (SIDS), Ukraine, and Türkiye to undertake postgraduate research in Japan. Fellows can receive up to US$10,000 for research stays of 3 to 9 months in priority areas including heritage conservation, artificial intelligence (AI),",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/construction/unesco-japan-young-researchers-fellowships-programme/",
-                "source": "fundsforNGOs",
-                "date": "2026-07-22T16:39:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lebanon's prime minister visits shattered border village as phased Israeli withdrawal begins",
-                "desc": "Lebanon's prime minister visited Wednesday a battered southern village as the implementation of a Washington-brokered Lebanese-Israeli agreement began, following months of war between Israel and the Iran-backed Hezbollah .",
-                "image": "https://i.cbc.ca/ais/e698aac7-6222-46e3-9ee2-dd0a9b292846,1784738092822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2400%2C1350%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/southern-lebanon-israel-pilot-zones-9.7279515",
-                "source": "CBC",
-                "date": "2026-07-22T16:35:49Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-23T18:02:10.259592Z"
+    "lastGlobalSync": "2026-07-23T20:01:20.072442Z"
 }
